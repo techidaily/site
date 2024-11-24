@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-11-10T10:00:36.831Z
-updated: 2024-11-13T21:32:04.302Z
+date: 2024-11-20T04:21:29.297Z
+updated: 2024-11-24T02:44:39.160Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ---
 
 ## Mastering Tune Recognition on macOS: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,13 +24,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 * [More Ways to Identify Music](https://article-knowledge.techidaily.com/2024-approved-exclusive-list-top-20-open-source-pubg-slideshows/)
 
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Identify Music From the Menu Bar or Control Center
 
@@ -50,9 +47,17 @@ Close
 
 ![Safari for Mac displaying information about Blinding Lights by The Weeknd.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-safari-browser-shazam-website-song-information-blinding-lights-by-the-weeknd.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
 
@@ -62,13 +67,6 @@ Close
 
 ![Siri on Mac using Music Recognition to Shazam a song.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sinoma-14-4-siri-assistant-music-recognition-shazam-song-results.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  A successful match will produce a notification revealing the identified tune. Of course, you'll need to ensure [Siri is enabled on your Mac](https://ai-topics.techidaily.com/new-what-are-ai-tools-for-2024/) to do this.
 
 ##  How to Launch Music Recognition via a Keyboard Shortcut
@@ -77,23 +75,9 @@ Close
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
 ![Details view in Shortcuts for Mac with the Add Keyboard Shortcut button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-add-keyboard-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don't see the Shazam shortcut? Click "Gallery" in the sidebar, search for "Shazam," choose "Shazam shortcut," and hit the "Add Shortcut" button.
 
@@ -101,7 +85,15 @@ Close
 
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More Ways to Identify Music
 
@@ -124,20 +116,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-leading-edge-apps-for-mobile-screen-recording/"><u>[Updated] 2024 Approved Leading Edge Apps for Mobile Screen Recording</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/10-best-free-photo-collage-apps-to-combine-photos-on-iphone/"><u>10 Best FREE Photo Collage Apps to Combine Photos on iPhone</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-the-miniature-marvel-my-experience-with-the-worlds-tiny-yet-incredibly-adaptable-webcam-insights-from-zdnet/"><u>Exploring the Miniature Marvel: My Experience with the World’s Tiny Yet Incredibly Adaptable Webcam - Insights From ZDNet</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/granblue-fantasy-resolving-relink-glitches-and-stability-issues-on-personal-computers/"><u>Granblue Fantasy: Resolving Relink Glitches and Stability Issues on Personal Computers</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-f23-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo F23 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-play-40c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Play 40C without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g14-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G14 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-advanced-pip-setup-elevating-your-visual-presentations-on-macos/"><u>In 2024, Advanced PIP Setup Elevating Your Visual Presentations on macOS</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Agni 2 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-oneplus-ace-2-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 OnePlus Ace 2 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-premier-audio-broadcast-networks-for-2024/"><u>[New] Premier Audio Broadcast Networks for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-slogan-generator-for-virtual-events/"><u>[Updated] Best Slogan Generator for Virtual Events</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-6-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 6? How to Fix it?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-m1-processor-a-leap-forward-in-video-production-technology/"><u>In 2024, M1 Processor A Leap Forward in Video Production Technology?</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-visual-disturbances-a-solution-for-screen-stuttering-on-windows-11/"><u>Overcoming Visual Disturbances: A Solution for Screen Stuttering on Windows 11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gaming-made-simple-overcoming-constant-elex-ii-game-crashes/"><u>PC Gaming Made Simple: Overcoming Constant Elex II Game Crashes</u></a></li>
+<li><a href="https://techidaily.com/samsung-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung won’t play MKV movies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-turkish-alphabet-and-pronunciation-a-quick-guide-for-language-learners/"><u>The Turkish Alphabet And Pronunciation: A Quick Guide For Language Learners</u></a></li>
 </ul></div>
 

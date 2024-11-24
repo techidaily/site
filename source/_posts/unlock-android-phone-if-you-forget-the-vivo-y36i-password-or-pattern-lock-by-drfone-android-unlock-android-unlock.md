@@ -1,7 +1,7 @@
 ---
 title: Unlock android phone if you forget the Vivo Y36i password or pattern lock
-date: 2024-09-20T09:46:47.425Z
-updated: 2024-09-24T00:15:45.106Z
+date: 2024-11-20T05:37:07.369Z
+updated: 2024-11-24T02:54:05.863Z
 tags: 
   - android unlock
   - android devices unlock
@@ -186,12 +186,27 @@ Wait for the unlock process to complete. If it has failed, click **Try Again** t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-transform-communication-top-free-mac-text-to-speech-software-rankings/"><u>[New] 2024 Approved Transform Communication Top Free Mac Text-to-Speech Software Rankings</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-add-panache-to-videos-border-magic-on-insta/"><u>[New] In 2024, Add Panache to Videos Border Magic on Insta</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-iphones-quickest-way-to-record-time-lapse-photos/"><u>[Updated] 2024 Approved IPhone's Quickest Way to Record Time-Lapse Photos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-vlc-utility-guide-for-mp4-to-multiple-file-types-transformation-for-2024/"><u>[Updated] VLC Utility Guide for MP4 to Multiple File Types Transformation for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/continuous-play-made-easy-overcoming-common-poe-freezing-problems/"><u>Continuous Play Made Easy - Overcoming Common POE Freezing Problems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/exploring-the-top-8-collaborative-affordable-android-video-mosaics/"><u>Exploring the Top 8 Collaborative, Affordable Android Video Mosaics</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-this-finnish-startup-outshines-the-iphones-ar-kit-with-its-professional-grade-vr-gear/"><u>How This Finnish Startup Outshines the iPhone's AR Kit with Its Professional-Grade VR Gear</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-pictures-after-honor-100-has-been-deleted-by-fonelab-android-recover-pictures/"><u>Recover your pictures after Honor 100 has been deleted.</u></a></li>
+<li><a href="https://techidaily.com/reviving-retro-windows-audio-a-step-by-step-guide-to-restoring-classic-system-sounds-in-windows-11/"><u>Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/skip-the-emulation-hurdle-with-direct-purchases-from-leading-linux-compatible-game-vendors/"><u>Skip the Emulation Hurdle with Direct Purchases From Leading Linux-Compatible Game Vendors</u></a></li>
+<li><a href="https://facebook.techidaily.com/swift-effortless-alteration-for-your-social-media-image/"><u>Swift, Effortless Alteration for Your Social Media Image</u></a></li>
+<li><a href="https://techidaily.com/the-essential-reasons-why-you-need-a-backup-bootable-linux-usb/"><u>The Essential Reasons Why You Need a Backup Bootable Linux USB</u></a></li>
+<li><a href="https://techidaily.com/the-long-awaited-arrival-goodnotes-for-windows-brings-tablet-note-taking-to-a-new-level/"><u>The Long-Awaited Arrival: GoodNotes for Windows Brings Tablet Note-Taking to a New Level</u></a></li>
+<li><a href="https://techidaily.com/top-7-bittersweet-memories-of-dial-up-connections-that-remain-unforgotten/"><u>Top 7 Bittersweet Memories of Dial-Up Connections That Remain Unforgotten</u></a></li>
+<li><a href="https://techidaily.com/top-8-solutions-what-to-do-when-your-laptop-wont-charge-despite-being-connected/"><u>Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-performing-a-complete-system-restore-on-your-macbook-airpro-and-other-mac-models/"><u>Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

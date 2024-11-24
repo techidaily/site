@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 12 using macOS finder
-date: 2024-09-16T16:36:53.590Z
+date: 2024-11-16T17:32:40.759Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -26,6 +26,10 @@ There are times you have another iOS device in the family or just lying around, 
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 12 Using iCloud Website
 
 unlock your disabled iPhone 12 is using the iCloud website to gain access back. This is a fairly easy way and doesn't require going through complex hoops.
@@ -42,6 +46,10 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 This will start the wipe process on your iPhone remotely and your iPhone will be reset to factory settings. You can now proceed to setup your iPhone once again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 12 Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone 12 is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -54,13 +62,6 @@ Of course, there is an official way that Apple provides for users to restore dev
   - (2.3) Press the Side Button (power button, on the right side of your iPhone 12) and keep it pressed till Finder or iTunes detects the phone in Recovery Mode.
 
 ![Unlock Disabled iPhone 12 Using iTunes or macOS Finder](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/5.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3**: Choose Restore to download and reinstall the latest iOS on your iPhone 12 and unlock your iPhone 12.
 
@@ -98,38 +99,34 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 12 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 12 in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4**: Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click `"Start"` to download the specific firmware file for your particular iPhone 12 model.
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/3.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone 12.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your iPhone 12 will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 12 prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone 12 Without A Computer
 
@@ -148,6 +145,10 @@ As you may be aware, using iTunes or macOS Finder allows you to backup and resto
 
 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Difference Between Activation Lock and Locked Apple ID
 
 Apple being Apple, does a lot to make sure that users get the smoothest experience possible when interacting with their Apple products, both hardware, and software. Yet, sometimes, the messaging gets confusing, and people are not sure what is what. One such thing is the difference between iCloud Activation Lock and Apple ID Lock. While people are more likely to encounter Activation Lock and less likely to encounter Apple ID Lock, they are often confused when they encounter Apple ID Lock and struggle to figure out what that means and how to resolve the issue.
@@ -165,13 +166,6 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
 Face ID is a facial recognition system designed and developed by Apple Inc. for the iPhone and iPad Pro. The system allows biometric authentication for unlocking a device, making payments, and accessing sensitive data, as well as providing detailed facial mapping for augmented reality applications.
 
 ![What is Face ID?](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/1.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the new iPhone 15/14/13 is your first-ever iPhone, or if you have neither upgraded your iPhone from the 6/7/8 series nor have kept abreast with the happenings in the Apple world, you might wonder what this newfangled thing called Face ID is.
 
@@ -192,6 +186,10 @@ Sometimes, you may just want to disable Face ID temporarily or the issue gets so
 - **Step 3**: Hold your iPhone 12 in the portrait orientation at about an arm‘s length away from your face and then tap Get Started.
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/10.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4**: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
@@ -221,13 +219,6 @@ If this does not resolve it, you need to take the device to the nearest service 
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone 12, and wait for the Done message and checkmark to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bypassing Activation Lock using official methods (iPhone 12)
 
 An Activation Lock is not the end of the world, as Apple might have you believe. Nothing in the world is perfect, except for the world itself. As such, there are ways to bypass Activation Lock on an Apple device that you bought used, and the previous owner forgot to unlock or did so intentionally and is now trying to fleece you for more money to unlock it. Or an employee who just left the job surrendered their iPhone 12 but forgot to erase the device before submitting and consequently, the device is still associated with their Apple ID, and you need to bypass Activation Lock for that iPhone 12 to make it useable again. There are a few ways you can go about it.
@@ -250,13 +241,6 @@ You may also do away with Activation Lock using the Find My iPhone app in iCloud
 
 ![Bypassing Activation Lock from iCloud Website](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/2.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3**: Click All Devices and select the device that was sold to the user.
 - **Step 4**: Click Erase iPhone and if the device is still there after the erase is complete, click Remove From Account.
 
@@ -270,6 +254,10 @@ If you are an IT administrator and are using Microsoft services, you may have gi
 
 ![Bypassing Activation Lock Using Microsoft Intune](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1**: Sign in to the admin center on Microsoft Endpoint Manager.
 - **Step 2**: Select Devices under Intune.
 - **Step 3**: Select All Devices.
@@ -282,13 +270,6 @@ The device will be reset, and employees can set it up again with a new Apple ID.
 ## What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone 12 with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your iPhone 12 with Face ID:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Unlock Your iPhone 12
 
@@ -318,6 +299,10 @@ Setting up and using Attention Aware features is easy:
 
 That's it. Now, when you get a call and your iPhone 12 is ringing loud, looking at your iPhone 12 will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your iPhone. Additionally, your iPhone screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Autofill Passwords and Usernames in Safari and Other Apps
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your iPhone 15/14/13 with Face ID.
@@ -337,19 +322,6 @@ Face ID is also used for authenticating you for third-party apps that support Fa
 Up until now, we saw how Face ID enables productivity features and how convenient it is to use it. Now, we come to the fun part - Animojis. Apple launched Face ID in 2017 on the iPhone X with much fanfare and a huge part of that fanfare was Animojis. Over time, Apple brought new capabilities to the iPhone and added Memojis alongside Animojis.
 
 ![Animojis and Memojis](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/6.avif)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
@@ -381,5 +353,23 @@ Tap Send to send your first Memoji/ Animoji.
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-behind-the-scenes-youtubes-view-count-algorithm/"><u>[New] 2024 Approved Behind the Scenes YouTube's View Count Algorithm</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-effective-social-crossposting-from-twitch-to-fb/"><u>[New] Effective Social Crossposting From Twitch to FB</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-free-video-capture-apps-exploring-the-leaders/"><u>[New] In 2024, Top Free Video Capture Apps – Exploring the Leaders</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-a-straightforward-path-learn-how-to-use-ez-grabber-effectively/"><u>[Updated] A Straightforward Path Learn How To Use EZ Grabber Effectively</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/finding-your-perfect-match-premium-videographer-recruitment-for-2024/"><u>Finding Your Perfect Match Premium Videographer Recruitment for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s18-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/improve-your-ipad-usability-with-the-ideal-wireless-mouse-selection/"><u>Improve Your IPad Usability with the Ideal Wireless Mouse Selection</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-s18-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo S18 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://games-able.techidaily.com/is-pursuing-higher-steam-rank-beneficial-in-the-long-run/"><u>Is Pursuing Higher Steam Rank Beneficial in the Long Run?</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-s24-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-a-steal-with-lenovos-ideapad-ebook-up-to-300-off-at-walmart-act-fast-before-it-ends/"><u>Score a Steal with Lenovo's IdeaPad eBook - Up to $300 Off at Walmart! Act Fast Before It Ends.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-nokia-c12-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Nokia C12 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix without backup.</u></a></li>
+</ul></div>
 

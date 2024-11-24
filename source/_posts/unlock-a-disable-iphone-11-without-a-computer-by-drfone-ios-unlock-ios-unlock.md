@@ -1,7 +1,7 @@
 ---
 title: Unlock a disable iPhone 11 without a computer
-date: 2024-09-23T06:16:07.856Z
-updated: 2024-09-24T09:26:35.905Z
+date: 2024-11-22T23:08:02.789Z
+updated: 2024-11-24T03:13:36.655Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -66,6 +66,10 @@ Using [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) yo
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your iPhone easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/)'s iOS Phone Backup feature you can have that choice in your hands, just like you do with Android. [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/), now you can restore just the text messages if you so want.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 11 Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone 11 is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -79,29 +83,9 @@ Of course, there is an official way that Apple provides for users to restore dev
 
 ![Unlock Disabled iPhone 11 Using iTunes or macOS Finder](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/5.avif)
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3**: Choose Restore to download and reinstall the latest iOS on your iPhone 11 and unlock your iPhone 11.
 
 When the iPhone 11 reboots, it will be reset to factory settings, and you can set it up again as you did when brand new.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone 11 Using Find My iPhone App
 
@@ -115,6 +99,10 @@ There are times you have another iOS device in the family or just lying around, 
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 11 Without iTunes/ iCloud
 
 We know and understand that the word troubleshooting can remind you of long telephone calls with support or making appointments and driving down to specialists and spending obscene amounts of money to get solutions. You do not want that. How about a way you could unlock your iPhone 11 in a simple, 1-click way instead?
@@ -127,13 +115,6 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 11 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 11 in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -141,13 +122,6 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 11 
 - **Step 4**: Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click `"Start"` to download the specific firmware file for your particular iPhone 11 model.
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/3.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone 11.
 
@@ -157,6 +131,10 @@ Your iPhone 11 will be unlocked in a short span of time. Please note that all da
 
 
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Locked iPhone 11 by Restoring it to Default Settings – iTunes
 
@@ -170,16 +148,7 @@ Let us show you how to unlock iPhone 11 without using a passcode;
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/7.avif)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option. 
@@ -187,10 +156,7 @@ Let us show you how to unlock iPhone 11 without using a passcode;
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. As soon as that is done and iTunes has finished the process, your iPhone 11 will be restored to default settings.
@@ -200,6 +166,10 @@ Let us show you how to unlock iPhone 11 without using a passcode;
 Face ID is a facial recognition system designed and developed by Apple Inc. for the iPhone and iPad Pro. The system allows biometric authentication for unlocking a device, making payments, and accessing sensitive data, as well as providing detailed facial mapping for augmented reality applications.
 
 ![What is Face ID?](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/1.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the new iPhone 15/14/13 is your first-ever iPhone, or if you have neither upgraded your iPhone from the 6/7/8 series nor have kept abreast with the happenings in the Apple world, you might wonder what this newfangled thing called Face ID is.
 
@@ -231,12 +201,20 @@ You may also do away with Activation Lock using the Find My iPhone app in iCloud
 
 ![Bypassing Activation Lock from iCloud Website](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/2.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Click All Devices and select the device that was sold to the user.
 - **Step 4**: Click Erase iPhone and if the device is still there after the erase is complete, click Remove From Account.
 
 ![Erase iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/3.avif)
 
 This process requires that the data service be functional on the iPhone in question, otherwise, this will not work. When the process is done, restart the iPhone and set it up with your Apple ID to remove the lock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bypassing Activation Lock Using Microsoft Intune
 
@@ -259,18 +237,15 @@ The device will be reset, and employees can set it up again with a new Apple ID.
 
 A locked Apple ID is rather unmistakable. Your iPhone 11 would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Activation Lock Primer
 
 Apple products are costly, and they are prized. When a 5-year-old Android device might be left alone without anyone stealing it, you cannot risk that with an iPhone 6S, even today. Apple has built an Activation Lock in its devices to deter theft and so far, as we know, it has largely succeeded. If your iPhone 11 13 gets stolen, no one else can use it with their Apple ID unless they key in the credentials it was using previously (your credentials) and, even then, Apple has bolstered iCloud Find My Activation Lock to be more restrictive. You may have to key in a lot of information ranging from your device password (if you are also using the same Apple ID on a Mac) to your iOS device passcode too, obviously, your Apple ID password. It is a system that works in favor of Apple users.
 
 Yet, in some cases, users want to get around the Activation Lock for genuine reasons, say, when you buy a used Apple device from someone. They may have forgotten to remove that device from their Apple account and Activation Lock would not let you use it. Or, you are an IT administrator, and you manage devices given out to employees. Some employees did not remove their accounts from their devices, and now those iPhones are riddled with Activation Lock. You can remove it using this step-by-step guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove Face ID on iPhone 11
 
@@ -290,10 +265,7 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -308,5 +280,18 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sound-issues.techidaily.com/audio-issues-on-your-hp-computer-restore-sound-backup-solutions-for-windows-10-owners/"><u>Audio Issues on Your HP Computer? Restore Sound Backup Solutions for Windows 10 Owners</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-updates-not-downloads-playing-flash-games-after-adobes-exit/"><u>Game Updates, Not Downloads: Playing Flash Games After Adobe's Exit</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-f04-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy F04 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus FRP Without Computer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-screenshot-programs-for-2024/"><u>Pinnacle Screenshot Programs for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-6-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 6 Plus Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 100 Pro | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/toms-tech-reviews-in-depth-analysis-of-the-latest-gear/"><u>Tom's Tech Reviews: In-Depth Analysis of the Latest Gear</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-meizu-21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Meizu 21 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

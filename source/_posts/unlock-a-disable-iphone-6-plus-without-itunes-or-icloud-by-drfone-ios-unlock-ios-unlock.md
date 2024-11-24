@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 6 Plus without itunes or icloud
-date: 2024-09-21T17:28:53.896Z
+date: 2024-11-20T18:33:00.713Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -55,6 +55,10 @@ There are times you have another iOS device in the family or just lying around, 
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select your disabled iPhone 6 Plus from the devices from the left pane, click/ tap your disabled iPhone 6 Plus and click/ tap Erase This Device
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
@@ -72,15 +76,16 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 6 P
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 6 Plus in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4**: Dr.Fone will read and display your phone model and the software installed on it. If the model displayed is incorrect, use the dropdown to pick the correct detail. Click `"Start"` to download the specific firmware file for your particular iPhone 6 Plus model.
 
@@ -105,9 +110,17 @@ Of course, there is an official way that Apple provides for users to restore dev
 
 ![Unlock Disabled iPhone 6 Plus Using iTunes or macOS Finder](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/5.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Choose Restore to download and reinstall the latest iOS on your iPhone 6 Plus and unlock your iPhone 6 Plus.
 
 When the iPhone 6 Plus reboots, it will be reset to factory settings, and you can set it up again as you did when brand new.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone 6 Plus Using iCloud Website
 
@@ -121,18 +134,15 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Click Erase iPhone and confirm.
 
 This will start the wipe process on your iPhone remotely and your iPhone will be reset to factory settings. You can now proceed to setup your iPhone once again.
 
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Face ID on iPhone 6 Plus to pay with Apple Pay
 
@@ -150,6 +160,10 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone 6 Plus, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to use Face ID on iPhone 6 Plus to make purchases in App Store, Book Store, and iTunes Store
 
 - **Step1**: Check if Face ID is enabled for purchases in these stores by going to **Settings > Face ID & Passcode** and ensuring that iTunes and App Store are toggled On.
@@ -160,6 +174,10 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/3.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 When done, a satisfying ting and a checkmark will confirm the action.
 
@@ -167,14 +185,11 @@ When done, a satisfying ting and a checkmark will confirm the action.
 
 ![Checking If Your Apple ID Is Locked](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/2.avif)
 
-A locked Apple ID is rather unmistakable. Your iPhone 6 Plus would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+A locked Apple ID is rather unmistakable. Your iPhone 6 Plus would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
 
 ## Unlock iPhone 6 Plus without Passcode or Face ID
 
@@ -199,6 +214,10 @@ After the application is launched, the Welcome Screen will appear with different
 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/1.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2: Connect Phone with System**
 
 In the second step, the user should connect their phone to the system and let [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/)'s application automatically detect it. Whenever you are ready to initiate the process, click on the button 'Unlock iOS Screen.'
@@ -211,25 +230,11 @@ Once the application has detected your iPhone 6 Plus, you now need to activate t
 
 ![DFU Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/3.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4: Download Firmware Update**
 
 A new window will appear now on which the application will ask for some information regarding your iOS device. Provide the application with asked information and click on the 'Download' button to get the firmware update for your iPhone 6 Plus.
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/4.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
 
@@ -240,13 +245,6 @@ The user is requested to wait for some time, as the firmware update is being dow
 The application will now ask for the confirmation code. Just provide the on-screen confirmation code and let the process complete itself. As soon as that is done, the application will notify you through the interface. The process can also be repeated by clicking on the 'Try Again' button.
 
 ![Confirmation Code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/6.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Difference Between Activation Lock and Locked Apple ID
 
@@ -260,13 +258,6 @@ A locked Apple ID usually happens when the user has forgotten their password to 
 
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the device whereas Activation Lock locks the device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the device and works to deter theft of Apple devices.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unlock Locked iPhone 6 Plus by Restoring it to Default Settings – iTunes
 
 iPhone users make sure that they connect and sync their devices with iTunes because their data is safe. iPhone users live without the fear of losing their data because it is backed up. Taking more advantage of this, iPhone users can restore their phone to default settings and can even unlock their iPhone without using a passcode.
@@ -277,13 +268,6 @@ Let us show you how to unlock iPhone 6 Plus without using a passcode;
 2. After that, plug in your phone to the computer and open iTunes.
 3. Once the phone is connected with iTunes, click on 'Summary' that will appear on the screen's left side. 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/7.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option. 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/8.avif)
@@ -304,5 +288,22 @@ Let us show you how to unlock iPhone 6 Plus without using a passcode;
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-hottest-hooks-in-the-crowd-ultimate-discord-nicknames-guide/"><u>[New] 2024 Approved Hottest Hooks in the Crowd Ultimate Discord Nicknames Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ecurely-distributing-exclusive-youtube-videos-through-gmail-for-2024/"><u>[New] Securely Distributing Exclusive YouTube Videos Through Gmail for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-linking-youtubes-harmony-to-imovie-clips-effortlessly/"><u>[Updated] 2024 Approved Linking Youtube's Harmony to iMovie Clips Effortlessly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-hidden-narratives-unlocked-a-complete-snapguide/"><u>2024 Approved Hidden Narratives Unlocked A Complete Snapguide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-epicurean-lens-techniques-for-delicious-content/"><u>2024 Approved The Epicurean Lens Techniques for Delicious Content</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-smart-8-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Smart 8 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/easier-ways-a-step-by-step-guide-to-converting-your-videos-into-ipod-compatible-format/"><u>Easier Ways: A Step-by-Step Guide to Converting Your Videos Into iPod-Compatible Format</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-100-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 100 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-7-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 7 phone? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/innovative-vr-headsets-transforming-drones/"><u>Innovative VR Headsets Transforming Drones</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-v-purse-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor V Purse working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-g2-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of G2</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/the-journey-swiv-universal-charger-reviewed-more-than-meets-the-eye-beyond-simple-travel-convenience/"><u>The Journey Swiv Universal Charger Reviewed: More Than Meets the Eye Beyond Simple Travel Convenience</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-yuva-3-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Yuva 3 Pro</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A05 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "1. Solving Common Issues with Windows Defender: A Step-by-Step Guide"
-date: 2024-11-08T01:16:26.238Z
-updated: 2024-11-14T07:34:53.961Z
+date: 2024-11-23T04:05:10.762Z
+updated: 2024-11-23T18:57:10.899Z
 tags:
   - desktop
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 * [Temporarily Disable or Delete Third-Party Antivirus Software](https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-realme-11-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [Repair the Corrupt System Files](https://visual-screen-recording.techidaily.com/updated-in-2024-the-zen-of-zoom-talk-top-strategies-for-smooth-virtual-dialogue/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To repair and reset the Windows Security app, go to Settings > Apps > Installed Apps > Advanced Options > Repair (or Reset).
@@ -29,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 * Repair the corrupt system files, scan for malware infections, or remove the third-party antivirus software installed on your device.
 
  Experiencing issues with the Windows Security app? Is it not opening, displaying a black screen, or showing an error like "Windows Security Center service is turned off?" These problems can stem from a faulty Windows update, infection, and corrupted files. Here are a few ways to fix it.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  1\. Perform Some Preliminary Checks
 
@@ -63,20 +60,21 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Opening the system components apps in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-opening-the-system-components-apps-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the three horizontal dots next to "Windows Security" and select "Advanced Options."
 
 ![Opening the advanced settings of the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4-opening-the-advanced-settings-of-the-windows-security-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll down and click on "Repair." Allow the repair process to complete, close the Settings app, and reopen Windows Security. If the issue persists, return to the same settings page, click "Reset," and then confirm by clicking "Reset" again in the popup.
 
 ![Repairing and resetting the Windows security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-repairing-and-resetting-the-windows-security-app.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  3\. Install the Latest Windows Update
 
@@ -86,18 +84,15 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Checking for the available updates in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/checking-for-the-available-updates-in-settings-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Windows will then search for any available updates, download them, and proceed to install them.
 
 ![Windows downloading and installing an update.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/windows-downloading-and-installing-an-update.jpg) 
 
  In some cases, you may need to restart your device to install updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Delete the Recently Installed Windows Update
 
@@ -105,22 +100,12 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Opening the update history from the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-opening-the-update-history-from-the-settings-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here, open the recently installed updates, particularly the "Quality Updates" and "Driver Updates," and note their version or any other details you find. After that, search for more information about the update online, especially on the [Microsoft Community forum](https://answers.microsoft.com/en-us).
 
 ![Checking details of the recently installed updates on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7-checking-details-of-the-recently-installed-updates-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you find other users reporting similar issues with the Windows Security app after installing the latest updates, that update could be to blame. Therefore, [uninstall the update](https://hardware-help.techidaily.com/download-updated-wireless-network-adapter-driver-for-windows-versions-win11-win10-win8-win7/).
@@ -133,25 +118,11 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 ![Uninstalling a recently installed update in the settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9-uninstalling-a-recently-installed-update-in-the-settings-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  5\. Ensure Your Device Isn't Infected
 
  Malware infections can also compromise the operation of Windows Security. To ensure your device isn't infected, download a reputable [antivirus software](https://facebook-video-recording.techidaily.com/in-2024-access-high-res-fb-media-files/) (if not already installed), install it on your device, and run a malware scan.
 
  If Windows Security is not working due to an infection, the security scan will detect and remove it. If the security scan reveals your system is malware-free, proceed to the next step.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  6\. Ensure the Security Centre Service Isn't Disabled
 
@@ -164,15 +135,20 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 ![Changing the properties of a service in the services app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-changing-the-properties-of-a-service-in-the-services-app-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If these options are grayed out, restart this service in [Registry Editor](https://facebook-record-videos.techidaily.com/new-economical-mic-options-for-youtube-vloggers-for-2024/). Type "Registry" in Windows Search and open the "Registry Editor." Then, navigate to Computer > HKEY\_LOCAL\_MACHINE > SYSTEM > CurrentControlSet > Services > wscsvc. Click on the "Start" key, and if the "Value Data" field is currently set to "4", change it to "2".
 
 ![Changing the data value of a key in registry editor on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-changing-the-data-value-of-a-key-in-registry-editor-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  7\. Temporarily Disable or Delete Third-Party Antivirus Software
 
@@ -181,6 +157,10 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
  If it does, then your antivirus app is likely the cause of the problem. In that case, you can keep it disabled, as Windows Defender is a reliable built-in antivirus solution, and in most cases, there's no real need for additional third-party software.
 
  If you prefer using a third-party security suite for additional security, consider switching to a different antivirus program that doesn't interfere with the Windows Security app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Repair the Corrupt System Files
 
@@ -215,24 +195,18 @@ thumbnail: https://thmb.techidaily.com/6bec6b49ef7ec1e5a2c1ba4a21123755124d462c6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-ultimate-10-best-apps-for-real-time-soccer-and-match-broadcasting/"><u>[New] 2024 Approved Ultimate 10 Best Apps for Real-Time Soccer and Match Broadcasting</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-achieve-clean-canvases-the-picart-backdrop-removal-art/"><u>[Updated] Achieve Clean Canvases The PicArt Backdrop Removal Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-opening-and-playing-srt-on-pcmac/"><u>2024 Approved Expert Tips Opening and Playing SRT on PC/Mac</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-insta-style-the-essential-guide-to-instagram-story-magnification/"><u>2024 Approved Insta Style The Essential Guide to Instagram Story Magnification</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-s17-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo S17 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-steam-cant-connect-to-server-a-comprehensive-guide/"><u>How to Fix 'Steam Can't Connect to Server': A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-20c-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 20C Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g73-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G73 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-huawei-nova-y71-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Huawei Nova Y71 in Minutes | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Xiaomi Civi 3 Disney 100th Anniversary Edition to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-pro-max-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 Pro Max Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo A1 5G? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/integrating-chatgpt-into-your-3d-printing-routine/"><u>Integrating ChatGPT Into Your 3D Printing Routine</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-100-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor 100 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-lava-agni-2-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Lava Agni 2 5G.</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-12-pro-max-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 12 Pro Max by restoring it to factory settings</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-g54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola G54 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-in-depth-appraisal-does-inshot-rule-in-video-edits/"><u>[New] In 2024, In-Depth Appraisal Does InShot Rule in Video Edits?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-look-up-tables-enhancing-visual-storytelling/"><u>[Updated] Look-Up Tables Enhancing Visual Storytelling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-visual-simplification-in-hybrid-workspaces-with-zoom-and-google-meet/"><u>2024 Approved Visual Simplification in Hybrid Workspaces with Zoom & Google Meet</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/comparing-audio-quality-the-enhanced-focusrite-scarlett-2i2-gen-4-against-its-competitors/"><u>Comparing Audio Quality: The Enhanced Focusrite Scarlett 2I2 (Gen 4) Against Its Competitors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevate-your-pcmobile-images-with-focused-blur-techniques/"><u>Elevate Your PC/Mobile Images with Focused Blur Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-yuva-3-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Yuva 3 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-ce-3-lite-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord CE 3 Lite 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-monetization-matrix-how-maker-gains-from-shorter-videos/"><u>The Monetization Matrix How Maker Gains From Shorter Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-podcasters-guide-to-high-quality-home-recordings/"><u>The Podcaster’s Guide to High-Quality Home Recordings</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-smart-7-hd-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Smart 7 HD Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-huawei-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Huawei</u></a></li>
 </ul></div>
 

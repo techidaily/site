@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone XS using macOS finder
-date: 2024-09-23T03:15:02.296Z
+date: 2024-11-19T00:29:07.542Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -59,6 +59,10 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone XS Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone XS is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -89,10 +93,7 @@ Find My is available both online via the iCloud website and on iOS devices and o
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3**: Click Erase iPhone and confirm.
@@ -111,6 +112,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Follow the provided instructions to start the disabled iPhone XS in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -123,23 +128,9 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Your iPhone XS will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone XS prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Reasons for Locked Apple ID
 
@@ -149,31 +140,11 @@ Apple does a lot to ensure that your Apple ID remains safe. You trust Apple with
 
 All of these will result in a locked Apple ID that users will have to reset their password to in order to gain access back.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use Face ID on iPhone XS to pay with Apple Pay
 
 - **Step1**: If Apple Pay is supported by banking institutions in your country, you can set it up by adding a supported bank‘s credit card, debit card, or prepaid card to the Wallet app on your iPhone XS.
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/4.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step2**: When a card is added and ready to use, check that Apple Pay is enabled under Settings > Face ID and Passcode.
 
@@ -195,6 +166,10 @@ A locked Apple ID usually happens when the user has forgotten their password to 
 
 ![Locked Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/1.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the device whereas Activation Lock locks the device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the device and works to deter theft of Apple devices.
 
 ## What Can You Do with Face ID?
@@ -213,13 +188,6 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone XS wit
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
@@ -236,6 +204,10 @@ Setting up and using Attention Aware features is easy:
 
 That's it. Now, when you get a call and your iPhone XS is ringing loud, looking at your iPhone XS will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your iPhone. Additionally, your iPhone screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Autofill Passwords and Usernames in Safari and Other Apps
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your iPhone 15/14/13 with Face ID.
@@ -251,10 +223,7 @@ Step 3: Look at your iPhone to authenticate yourself with Face ID and Safari wil
 Face ID is also used for authenticating you for third-party apps that support Face ID. This means you can use Face ID to authenticate yourself for banking apps, password managers, and other apps that support Face ID.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Animojis and Memojis
@@ -278,6 +247,10 @@ Step 3: Tap the Record button and you now have 30 seconds to do what you want wi
 Step 4: When done, the Record button changes to Send:
 
 ![Animojis and Memojis](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/8.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap Send to send your first Memoji/ Animoji.
 
@@ -304,13 +277,6 @@ After the application is launched, the Welcome Screen will appear with different
 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/1.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2: Connect Phone with System**
 
 In the second step, the user should connect their phone to the system and let [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/)'s application automatically detect it. Whenever you are ready to initiate the process, click on the button 'Unlock iOS Screen.'
@@ -329,15 +295,27 @@ A new window will appear now on which the application will ask for some informat
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/5.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5: Confirmation Code**
 
 The application will now ask for the confirmation code. Just provide the on-screen confirmation code and let the process complete itself. As soon as that is done, the application will notify you through the interface. The process can also be repeated by clicking on the 'Try Again' button.
 
 ![Confirmation Code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/6.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Remove Face ID on iPhone XS
 
@@ -367,5 +345,19 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ecoding-digital-dollars-an-effective-way-to-understand-youtube-revenue-dynamics/"><u>[New] Decoding Digital Dollars An Effective Way to Understand YouTube Revenue Dynamics</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehve-solutions-to-eliminate-stuttering-and-increase-frame-rates-in-pc-gaming-environments/"><u>Comprehve Solutions to Eliminate Stuttering and Increase Frame Rates in PC Gaming Environments.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/digiarty-celebrates-its-18th-anniversary-with-exclusive-special-project/"><u>Digiarty Celebrates Its 18Th Anniversary with Exclusive Special Project</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-high-dpi-gamepad-marvels/"><u>Next-Gen High DPI Gamepad Marvels</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-find-x7-ultra-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo Find X7 Ultra on Mac</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/safe-steps-to-revert-from-ios-14-back-to-ios-13-a-comprehensive-guide-to-preserve-your-files/"><u>Safe Steps to Revert From iOS 14 Back to iOS 13: A Comprehensive Guide to Preserve Your Files</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/sharepoint/"><u>SharePoint 文書同期不具合:解決策集</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-tecno-camon-20-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Tecno Camon 20</u></a></li>
+<li><a href="https://win-answers.techidaily.com/ultimate-fixes-for-errgfxstate-error-in-red-dead-redemption-2-step-by-step-guide/"><u>Ultimate Fixes for ERR_GFX_STATE Error in Red Dead Redemption 2 - Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-nokia-130-music-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Nokia 130 Music password or pattern lock</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-create-engaging-videos-on-the-go-best-animated-text-apps-for-phones/"><u>Updated 2024 Approved Create Engaging Videos on the Go Best Animated Text Apps for Phones</u></a></li>
+</ul></div>
 

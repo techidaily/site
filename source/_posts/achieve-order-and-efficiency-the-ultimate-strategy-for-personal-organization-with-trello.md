@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-11-12T00:26:30.076Z
-updated: 2024-11-14T02:43:39.345Z
+date: 2024-11-18T19:21:58.095Z
+updated: 2024-11-24T04:39:19.554Z
 tags:
   - web
 categories:
@@ -27,13 +27,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
  Some project management apps are indeed complicated—but there are also beautifully simple ones, like Trello.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Why Trello?
 
  While I've played around with plenty of different approaches to planning both work and personal projects (you can [use any number of apps to plan a project](https://youtube-zero.techidaily.com/approved-mastering-video-introduction-on-ios-and-android-devices/)), I've always quickly returned to Trello, for five reasons.
@@ -52,18 +45,15 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
  Another board is apartment design. I use this to clarify my goals for my new home, collate ideas, list the main things I'm taking with me, save links for things I want to buy, list things I plan to sell—and outline the smart home kit I plan to use, together with the scenes I want to create.
 
 ![A Trello board showing apartment design considerations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/design.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -73,7 +63,15 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use Trello
 
@@ -86,6 +84,10 @@ Ben Lovejoy
  You'll be asked to choose between "Create Board" and "Start With a Template." Personally, I find it easier to use the first option to create something from scratch.
 
  You can choose one of the standard backgrounds—either a color or an image—or "Custom" to upload your own. My personal preference is to have a minimalist but interesting background, so I search for free stock images on [Unsplash](https://unsplash.com) and use one of those.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Creating Lists
 
@@ -108,20 +110,10 @@ Ben Lovejoy
 ![Adding cards to each task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cards.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Adding Photos
 
@@ -130,10 +122,7 @@ Ben Lovejoy
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -143,10 +132,7 @@ Ben Lovejoy
 ![A VR headset displayed on a Trello card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/photo-added.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -160,13 +146,6 @@ Ben Lovejoy
  You can simply paste in a link, or you can do it HTML style: Type your description first, then highlight it and tap the link button highlighted below—this gives a neater look.
 
 ![Adding a link to a Trello activity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-link.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -201,10 +180,7 @@ Ben Lovejoy
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Moving Things Around (Lists and Cards)
@@ -212,6 +188,10 @@ Ben Lovejoy
  Whether you want to move a card up or down a list, move a card from one list to another, or move a list to the left or right, you can do it all simply by dragging and dropping, picking the card up by its edge.
 
  However, there is one quirk to watch out for. Trello also lets you drag one card inside another one by picking it up in the center, where it is added as an attachment (effectively a hyperlink from one card to another). If the card remains the same size and rounded shape when you drag it, you are dragging the card—but if it changes to a small square, you are in insertion mode. If you get that and don't want it, then just drag it anywhere outside your lists and let it go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Collaborating With Family and Friends
 
@@ -236,16 +216,21 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-clearing-up-black-screens-in-youtube-playback-for-2024/"><u>[New] Clearing Up Black Screens in YouTube Playback for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-utilize-youtube-metrics-to-transform-views-into-revenue/"><u>[New] In 2024, Utilize YouTube Metrics to Transform Views Into Revenue</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-simple-grading-tactics/"><u>[New] The Ultimate Guide to Simple Grading Tactics</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-unforgettable-visions-the-top-15-stop-motion-film-classics/"><u>[Updated] 2024 Approved Unforgettable Visions The Top 15 Stop-Motion Film Classics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1725287059954-dvd-winx-dvd-ripper-platinum/"><u>「公式ガイド：DVDをプラチナムレベルでコンビニ決済可能 - WinX DVD Ripper Platinum購入方法」</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-latest-hp-scanjet-driver-updates-for-seamless-printing-on-windows-1187-download-here/"><u>Get the Latest HP Scanjet Driver Updates for Seamless Printing on Windows 11/8/7 [Download Here]</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a25-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A25 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-note-30-vip-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Note 30 VIP</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oneplus-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on OnePlus without backup.</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-continuous-sound-issues-in-windows-11-a-step-by-step-guide/"><u>Troubleshooting Continuous Sound Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-boosting-fb-video-engagement-and-audience-reach/"><u>[New] 2024 Approved Boosting FB Video Engagement & Audience Reach</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-maximizing-youtube-profits-strategies-for-revenue-growth/"><u>[New] In 2024, Maximizing YouTube Profits Strategies for Revenue Growth</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-swipe-tap-save-the-ultimate-guide-for-igtv-videos-on-devices/"><u>[New] In 2024, Swipe, Tap, Save The Ultimate Guide for IGTV Videos on Devices</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/essential-insights-on-upgrading-from-jpeg-to-advanced-heifheic-format/"><u>Essential Insights on Upgrading From JPEG to Advanced HEIF/HEIC Format</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-xiaomi-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Xiaomi Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50i Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-navigating-the-top-10-ways-to-improve-fb-page-rankings/"><u>In 2024, Navigating the Top 10 Ways to Improve FB Page Rankings</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-a14-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A14 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-t2-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo T2 Pro 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/solving-adobe-premiere-pros-mkv-format-troubles-a-step-by-step-guide/"><u>Solving Adobe Premiere Pro's MKV Format Troubles: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/steps-to-resolve-chatgpt-moderation-malfunctions-effectively/"><u>Steps to Resolve ChatGPT Moderation Malfunctions Effectively</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-13-ultra-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi 13 Ultra without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-y17s-by-fonelab-android-recover-music/"><u>Undelete lost music from Y17s</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-fcp-essentials-creating-engaging-picture-in-picture-effects-for-your-videos/"><u>Updated In 2024, FCP Essentials Creating Engaging Picture-in-Picture Effects for Your Videos</u></a></li>
 </ul></div>
 

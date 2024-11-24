@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2024-11-10T08:09:16.519Z
-updated: 2024-11-13T22:53:48.699Z
+date: 2024-11-22T01:11:33.945Z
+updated: 2024-11-24T03:41:50.347Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ---
 
 ## Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -33,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
 
@@ -53,22 +58,12 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Purple:** Seven Dwarfs Minus Last Letter
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![The words for August 18 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-18-sorted-into-the-correct-groups.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027190/19272" target="_top" id="2027190">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027190" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027190/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Alarm Clock Buttons (Yellow):** 
 
@@ -87,10 +82,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Do, Dope, Grump, Sleep
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -133,22 +125,18 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-youtube-outro-kings-6-top-suggestions/"><u>[Updated] 2024 Approved Free YouTube Outro Kings 6 TOP Suggestions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-ultimate-png-alterations-guide/"><u>[Updated] Ultimate PNG Alterations Guide</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-from-cinematic-clips-to-harmonic-mp3s-the-instagram-guide/"><u>2024 Approved From Cinematic Clips to Harmonic MP3s The Instagram Guide</u></a></li>
-<li><a href="https://games-able.techidaily.com/battle-for-dominance-ps5-vs-xbox-series-x-edition/"><u>Battle for Dominance: PS5 Vs. Xbox Series X Edition</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210297218-9781643496351-difficult-blessings/"><u>Difficult Blessings | Free Book</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-honor-100-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Honor 100 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-y27s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y27s in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-11-proplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 Pro+ Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-tecno-camon-20-premier-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Tecno Camon 20 Premier 5G Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-interruptions-solve-your-civ-vi-crash-problem-today-with-these-tips/"><u>No More Interruptions! Solve Your Civ VI Crash Problem Today With These Tips</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-realme-11-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Realme 11 5G</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-breakdown-of-alienware-aurora-r7-top-tier-strength-midrange-price-tag/"><u>The Breakdown of Alienware Aurora R7 - Top-Tier Strength, Midrange Price Tag</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a78-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-camon-20-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Camon 20 on Windows?</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-s18-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo S18 Pro on Windows?</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-asus-rog-phone-7-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Asus ROG Phone 7</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-chaos-to-clarity-professional-tools-for-youtube-cuts-for-2024/"><u>[New] From Chaos to Clarity Professional Tools for Youtube Cuts for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-upgrade-your-photo-presence-best-border-selection-tips-for-instagram-for-2024/"><u>[New] Upgrade Your Photo Presence Best Border Selection Tips for Instagram for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>[Updated] Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-srt-openedit-manual-for-mac-users-for-2024/"><u>[Updated] Ultimate SRT Open/Edit Manual for Mac Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-free-steelseries-drivers-for-arctis-5-headsets-now/"><u>Get Free SteelSeries Drivers for Arctis 5 Headsets Now!</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g14-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G14 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transformar-musica-desde-aac-a-wma-sin-costo-utilizando-el-servicio-en-linea-de-movavi/"><u>Transformar Música Desde AAC a WMA Sin Costo Utilizando El Servicio en Línea De Movavi</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/viral-skeleton-master/"><u>Viral Skeleton Master</u></a></li>
 </ul></div>
 

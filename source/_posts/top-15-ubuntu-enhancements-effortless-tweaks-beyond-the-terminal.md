@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-11-11T22:02:42.287Z
-updated: 2024-11-14T09:56:45.846Z
+date: 2024-11-23T04:47:56.803Z
+updated: 2024-11-23T21:18:55.393Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 ---
 
 ## Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use These Six GNOME Extensions
@@ -36,16 +37,13 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Install Extension Manager from Ubuntu App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-install-extension-manager-from-ubuntu-app-store.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once installed, you will find the app in the Ubuntu App drawer. Open it and the following window should appear.
 
 ![Installed Tab on Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-installed-tab-on-extension-manager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, Ubuntu ships with a few extensions out of the box, as shown under System Extensions. If you like, you can disable them from here or customize them by clicking on the settings icon. However, we are interested in installing a few extensions. To do this, switch to the "Browse" tab and search for the following extensions:
 
@@ -59,13 +57,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  Once done, head over to the "Installed" tab. From here, you can easily toggle the extensions on/off or click on the respective settings icon to configure how they function.
 
 ![Recommended Extensions Installed in Ubuntu Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-recommended-extensions-installed-in-ubuntu-extension-manager.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now, let's take a quick look at each of the extensions. Starting with Dash to Panel, it transforms the dash (the iconic left-side apps panel on Ubuntu) into a panel similar to the Windows taskbar. Alternatively, you can use Dash to Dock to transform the dash into a macOS-like dock.
 
@@ -83,22 +74,23 @@ Close
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
  Here's a guide to using [KDE Connect on Windows](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/). You can expect the same features and workflow with GSConnect on Ubuntu as well.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Make These Three GNOME Tweaks
 
  GNOME Tweaks is another useful app that lets you customize the app windows and general UI. To install it, open the App Center (known as Ubuntu Software in the earlier version) and search for "GNOME Tweaks." It should appear as a DEB package (not Snap).
 
 ![Install GNOME Tweaks from App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-install-gnome-tweaks-from-app-store.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  GNOME Tweaks gives you control over the appearance, sound, and other aspects of the operating system. I'd encourage you to _tweak around_ with the various settings. If you want some directions, first head over to Startup Applications. It allows you to select apps to auto-start on your system as soon as you turn on your Ubuntu desktop.
 
@@ -127,22 +119,12 @@ Close
 
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -164,21 +146,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-mac-to-snapchat-creating-compact-shareable-content/"><u>[New] 2024 Approved Mac to Snapchat Creating Compact, Shareable Content</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-dive-into-top-online-platforms-for-enhancing-media-subtitles/"><u>[Updated] Dive Into Top Online Platforms for Enhancing Media Subtitles</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-decoding-the-marketplace-where-to-invest-in-monetized-channels/"><u>[Updated] In 2024, Decoding the Marketplace Where to Invest in Monetized Channels</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-the-complete-blueprint-for-exceptional-asmr-production-value/"><u>[Updated] In 2024, The Complete Blueprint for Exceptional ASMR Production Value</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-top-5-zoom-transcribing-tools-free-and-paid-options/"><u>2024 Approved Top 5 Zoom Transcribing Tools Free & Paid Options</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v30-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V30 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-x100-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-tutorial-downloading-and-extracting-audio-from-vids-on-social-platforms/"><u>In 2024, Ultimate Tutorial Downloading and Extracting Audio From Vids on Social Platforms</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-s18e-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S18e working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-huawei-nova-y71-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Huawei Nova Y71</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-vivo-y100-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Vivo Y100</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/troubleshooting-guide-why-wont-my-new-ssd-appear-on-windows-discover-solutions/"><u>Troubleshooting Guide: Why Won't My New SSD Appear on Windows? Discover Solutions</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Infinix Note 30 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-90-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor 90.</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlock-your-phones-personality-with-a-customized-whatsapp-tone-for-2024/"><u>Unlock Your Phone's Personality with a Customized WhatsApp Tone for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-building-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[New] In 2024, Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-topping-content-youtubes-top-5-for-2024/"><u>[Updated] Chart-Topping Content YouTube's Top 5 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-next-gen-discover-8-leading-tablets-pushing-beyond-filmoras-limits-for-2024/"><u>[Updated] The Next Gen Discover 8 Leading Tablets Pushing Beyond Filmora's Limits for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/audiophiles-dream-dive-into-the-crystal-clear-soundscape-of-midlands-gxt1000vp4-review/"><u>Audiophile's Dream: Dive Into the Crystal-Clear Soundscape of Midland's GXT1000Vp4 Review</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-your-view-count-explore-these-12-effective-youtube-strategies/"><u>Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fine-tuning-your-videos-for-viral-instagram-moments-for-2024/"><u>Fine-Tuning Your Videos for Viral Instagram Moments for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-14-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 14 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/sandisk-unveils-its-portable-economy-music-solution/"><u>SanDisk Unveils Its Portable Economy Music Solution</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/0-finest-yoga-series-to-achieve-zen-and-strength-for-2024/"><u>The 10 Finest Yoga Series to Achieve Zen and Strength for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Sony </u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-google-by-fonelab-android-recover-music/"><u>Undelete lost music from Google</u></a></li>
 </ul></div>
 

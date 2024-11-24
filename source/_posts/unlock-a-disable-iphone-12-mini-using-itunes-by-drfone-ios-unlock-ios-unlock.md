@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 12 mini using itunes
-date: 2024-09-20T20:17:16.133Z
+date: 2024-11-20T03:51:41.036Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -50,6 +50,10 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 12 mini Using Find My iPhone App
 
 There are times you have another iOS device in the family or just lying around, you can use that device to unlock your disabled iPhone 12 mini. This method is particularly useful if you're traveling with family or alone, and only have family members with their own iOS devices or, say, your iPad with you. As always, note that all these methods will wipe your data from your iPhone.
@@ -58,16 +62,13 @@ There are times you have another iOS device in the family or just lying around, 
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select your disabled iPhone 12 mini from the devices from the left pane, click/ tap your disabled iPhone 12 mini and click/ tap Erase This Device
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone 12 mini Without iTunes/ iCloud
 
@@ -81,6 +82,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 12 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 12 mini in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -92,6 +97,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 12 
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone 12 mini.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your iPhone 12 mini will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 12 mini prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
@@ -108,13 +117,6 @@ When using a computer, the simplest, easiest, most flexible, and robust method t
 Using [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) you can not only unlock your iPhone 12 mini with ease, you can also use it periodically as a backup and restore tool that gives power in your hands. How does it do that? When you launched [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/), you had several modules to choose from and you chose Screen Unlock to unlock your disabled device. Instead of that, you can choose the Phone Backup module to backup and restore data from and to your device. Why would you use a third-party tool to backup and restore?
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your iPhone easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/)'s iOS Phone Backup feature you can have that choice in your hands, just like you do with Android. [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/), now you can restore just the text messages if you so want.
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone 12 mini Using iTunes or macOS Finder
 
@@ -145,6 +147,10 @@ Sometimes, you may just want to disable Face ID temporarily or the issue gets so
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/10.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4**: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
 - **Step 5**: When done, tap Done.
@@ -161,6 +167,10 @@ If this does not resolve it, you need to take the device to the nearest service 
 
 Most of us know that we can unlock iPhone 12 mini with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your iPhone 12 mini with Face ID:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Unlock Your iPhone 12 mini
 
 As an authentication mechanism, Face ID enables you to unlock your iPhone 12 mini with a look. How to do that? Here are the steps:
@@ -169,22 +179,13 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone 12 min
 - **Step2**: Look at the iPhone.
   When the lock symbol changes to the unlocked position, you can swipe up to unlock your iPhone 12 mini using Face ID and get to the Home Screen.Note that Face ID will not work in landscape mode on an iPhone 12 mini.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Making Purchases Using Face ID on Your iPhone 12 mini
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lowering Ringer and Alarm Volume Automatically
 
@@ -269,25 +270,11 @@ In the second step, the user should connect their phone to the system and let [D
 
 ![Connect Phone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/2.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3**: DFU Mode Activation
 
 Once the application has detected your iPhone 12 mini, you now need to activate the DFU mode. Step by step illustration on how to activate DFU mode is shared on-screen.
 
 ![DFU Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/3.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4: Download Firmware Update**
 
@@ -311,6 +298,10 @@ The application will now ask for the confirmation code. Just provide the on-scre
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step2**: When a card is added and ready to use, check that Apple Pay is enabled under Settings > Face ID and Passcode.
 
 - **Step3**: For App Store/ Book Store/ iTunes Store purchases, it works as always, you double-press the Side Button to authenticate and use your default card.
@@ -320,6 +311,10 @@ The application will now ask for the confirmation code. Just provide the on-scre
 - **Step5**: When paying at retail outlets, hold your iPhone 12 mini (top being close to the reader) and wait for the checkmark and Done message.
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone 12 mini, and wait for the Done message and checkmark to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bypassing Activation Lock with a Professional Tool
 
@@ -351,6 +346,10 @@ Here is how to use Dr.Fone - Screen Unlock (iOS) to quickly circumvent Activatio
 
 ![Start Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/8.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After a while, Dr.Fone - Screen Unlock (iOS) will notify you of a successful bypass. You can now restart the device and use it. This option is restrictive in nature as you will be unable to use the iPhone to make calls or access cellular services including iCloud. This option is best for when you want to see/ recover some data from the device that you would otherwise lose.
 
 ## Is It Possible to Unlock iPhone 12 mini without a Passcode?
@@ -377,13 +376,6 @@ Once you have activated the `Find My iPhone` function, then you can try it to un
 Another way to unlock your iPhone 12 mini without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your iPhone 12 mini:
 
 ![Unlock it with iTunes](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/2.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1**: Connect your iPhone 12 mini to the computer you previously used to sync your device with iTunes.
 - **Step 2**: Open the iTunes application on your computer and wait for it to recognize your device.
@@ -412,13 +404,6 @@ If you are unable to unlock your iPhone 12 mini using the above methods, you can
 
 ![screen unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/4.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2**: Create the connection from your iPhone 12 mini to the computer with a lightning cable.
 
 ![create connection](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/5.avif)
@@ -432,13 +417,6 @@ If you are unable to unlock your iPhone 12 mini using the above methods, you can
 - **Step 5**: Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
 ![unlock now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/7.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your iPhone 12 mini.
 
@@ -459,5 +437,24 @@ This is the easiest and most effective way to reset your iPhone 12 mini passcode
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unlocking-windows-10-key-skills-you-need/"><u>[New] Unlocking Windows 10 Key Skills You Need</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-masterclass-in-webp-to-jpeg-conversion/"><u>2024 Approved Masterclass in WebP to JPEG Conversion</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-pova-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/discover-unique-content-with-our-easy-to-use-flipbooks-at-flipbuildercom/"><u>Discover Unique Content with Our Easy-to-Use Flipbooks at FlipBuilder.com!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/effective-fixes-for-when-you-cant-see-through-your-computer-webcam-on-win10win11/"><u>Effective Fixes for When You Can't See Through Your Computer Webcam on Win10/Win11</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-overcoming-stability-problems-with-escape-from-tarkov-on-your-personal-computer/"><u>Expert Advice: Overcoming Stability Problems with 'Escape From Tarkov' On Your Personal Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-g54-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola G54 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-elevate-video-reach-optimize-tags-for-600esplus-growth/"><u>In 2024, Elevate Video Reach Optimize Tags for $6,00Es+ Growth</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Infinix Hot 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-google-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Google</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-connectivity-woes-resolve-your-260ci-wia-driver-problem-today/"><u>USB Connectivity Woes? Resolve Your 260Ci WiA Driver Problem Today!</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-xperia-10-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xperia 10 V?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1725289292755-windows-10dvddvd/"><u>Windows 10を使った無料DVDコピーテクニック：パソコンと空きDVDで始めよう</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-11-10T10:18:40.640Z
-updated: 2024-11-13T18:02:44.846Z
+date: 2024-11-20T22:37:08.489Z
+updated: 2024-11-23T17:54:06.431Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Is sudo So Revered?
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
 
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
 
@@ -44,10 +45,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Enable sudo in Windows 11
@@ -61,10 +59,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -74,16 +69,7 @@ Microsoft
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
@@ -113,24 +99,20 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-download-twitter-gif-3-ways-to-download-gifs-from-twitter-on-your-pc-for-2024/"><u>[New] Download Twitter GIF 3 Ways to Download GIFs From Twitter on Your PC for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-channel-conclusion-mastery-customized-screens-in-focus-for-2024/"><u>[Updated] Channel Conclusion Mastery Customized Screens in Focus for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-illustration-elevation-incorporating-text-into-3d-artwork-for-2024/"><u>[Updated] Illustration Elevation Incorporating Text Into 3D Artwork for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-vanish-without-a-trace-tips-for-anonymous-instagram-live/"><u>[Updated] In 2024, Vanish Without A Trace Tips for Anonymous Instagram Live</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/dissecting-shake-control-does-it-truly-enhance-editing-results-for-2024/"><u>Dissecting Shake Control Does It Truly Enhance Editing Results for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ng-opportunities-where-youtube-collaborations-thrive-for-2024/"><u>Finding Opportunities Where YouTube Collaborations Thrive for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-xiaomi-mix-fold-3-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Mix Fold 3 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-g2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo G2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>How to Share Location in Messenger On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-lava-blaze-2-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Lava Blaze 2 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/personalizing-fn-button-actions-in-windows-11/"><u>Personalizing FN Button Actions in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-s23plus-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from S23+</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/skip-unverified-warning-in-adobe-software/"><u>Skip Unverified Warning in Adobe Software</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-magic-6-lite-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-x8b-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor X8b</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-s23-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy S23 Ultra Reset Code | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-learn-free-online-methods-for-turning-facebook-videos-into-mp4-hd/"><u>[New] In 2024, Learn Free Online Methods for Turning Facebook Videos Into MP4 HD</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-capture-windows-11-simplify-your-life/"><u>[Updated] 2024 Approved Capture Windows 11, Simplify Your Life</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-extensive-analysis-samsungs-immersive-sphere-technology-for-2024/"><u>[Updated] Extensive Analysis Samsung's Immersive Sphere Technology for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ais-knowledge-highway-traversing-through-transfer-learning-techniques/"><u>AI's Knowledge Highway: Traversing Through Transfer Learning Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/essential-guide-to-cheap-video-conferencing-tools-for-computers/"><u>Essential Guide to Cheap Video Conferencing Tools for Computers</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/identifying-and-fixing-the-top-20-video-problems/"><u>Identifying & Fixing the Top 20 Video Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-realme-gt-neo-5-se-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of Realme GT Neo 5 SE Phone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-downloading-twitter-video-content-to-mp3/"><u>In 2024, Strategies for Downloading Twitter Video Content to MP3</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s24-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S24 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-huawei-nova-y71-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Huawei Nova Y71 on Mac</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-htc-u23-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from HTC U23 Pro.</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-8-plus-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8 Plus lock with Apple ID</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 8 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide"
-date: 2024-11-08T05:11:02.885Z
-updated: 2024-11-14T04:46:05.145Z
+date: 2024-11-18T01:13:14.389Z
+updated: 2024-11-23T20:22:33.724Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  Dynamic wallpapers in macOS cycle through a series of images to change your desktop background throughout the day, based on criteria such as the time or your system settings. While macOS has a lot of dynamic wallpapers pre-installed, you can also make your own. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What You Need to Make Dynamic Wallpapers
 
  The free [Equinox](https://equinoxmac.com) app is a very simple tool for creating dynamic wallpapers. It's available through the [Mac App Store](https://apps.apple.com/gb/app/equinox-create-wallpaper/id1591510203) or [GitHub](https://github.com/rlxone/Equinox).
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The Equinox home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-equinox-home-page.png) 
 
  Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Create a Dynamic Wallpaper for macOS
 
@@ -46,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The opening screen in the Equinox app showing the types of dynamic wallpaper you can make.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-opening-screen-in-the-equinox-app-showing-the-types-of-dynamic-wallpaper-you-can-make.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Solar
 
  Click "Solar" and drag your images into the window. For each image, you will need to fill in the Altitude and Azimuth values.
@@ -60,10 +61,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The Solar page in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-solar-page-in-equinox.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To do this, click "Calculator." In the window that opens, click and drag on the map so that the pin is over the location you want (or you can fill in the Location details manually if you have them).
@@ -71,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  Now set the time that the photo was taken, or when you want the wallpaper image to change. This will update the Azimuth and Altitude values in the Result section. Click and drag "Result" onto the first image.
 
 ![Calculating the Azimuth and Altitude settings in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/calcutating-the-azimuth-and-altitude-settings-in-equinox.jpeg) 
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now adjust the time and drag the updated result onto the next image, and repeat until you've done all the images.
 
@@ -93,22 +84,13 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![Set the time intervals in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/set-the-time-intervals-in-equinox.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the times to adjust them if you want to, otherwise, select "Create." You'll now see the preview screen and can set and save your wallpaper.
 
 Your browser does not support the video tag. 
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  Appearance
 
@@ -121,10 +103,7 @@ Your browser does not support the video tag.
 ![The Light mode and Dark mode settings in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-light-mode-and-dark-mode-settings-in-macos.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -146,18 +125,20 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>[New] In 2024, Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-simplified-approaches-to-insta-photovideo-resharing/"><u>[New] In 2024, Simplified Approaches to Insta Photo/Video Resharing</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-nord-n30-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock OnePlus Nord N30 5G Bootloader Easily</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/innovate-and-revamp-your-desktop-on-win11-for-2024/"><u>Innovate and Revamp Your Desktop on Win11 for 2024</u></a></li>
-<li><a href="https://program-issues.techidaily.com/master-guide-for-resolving-the-perplexing-exit-code-0-glitch-in-your-favorite-game-minecraft/"><u>Master Guide for Resolving the Perplexing Exit Code 0 Glitch in Your Favorite Game, Minecraft</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcoming-game-glitches-ensuring-smooth-play-in-sons-of-the-forest-on-your-computer/"><u>Overcoming Game Glitches: Ensuring Smooth Play in 'Sons of the Forest' On Your Computer</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Plus Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-z50-ultra-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Z50 Ultra</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solve-your-windows-10-touch-screen-problems-using-these-5-essential-tips/"><u>Solve Your Windows 10 Touch Screen Problems Using These 5 Essential Tips</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-105-classic-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia 105 Classic without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-infinix-smart-8-by-fonelab-android-recover-data/"><u>Undelete lost data from Infinix Smart 8</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S17e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/1728469450677-windows-11/"><u>Windows 11でのローレベルファイルシステム再フォーマット手順</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] 2024 Approved Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-phone-speaker-voice-tracker-iphone-2024/"><u>[New] Phone Speaker Voice Tracker (iPhone, 2024)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-video-format-mastery-best-practices-for-instagram-for-2024/"><u>[Updated] Video Format Mastery Best Practices for Instagram for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/hardware-memory-slot-windows-reservation-approach/"><u>Hardware Memory Slot: Windows’ Reservation Approach</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-open-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Open Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a1-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A1 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/stay-up-to-date-with-your-dell-monitors-firmware-download-and-install-guide/"><u>Stay Up-to-Date with Your Dell Monitor's Firmware - Download & Install Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor without backup.</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-c300-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from C300.</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-enhancements-for-the-latest-ipads-featured/"><u>Top Rated Tablet Enhancements for the Latest iPads - Featured</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-15-pro-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Pro by restoring it to factory settings</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung Galaxy A05s?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo K11x | Dr.fone</u></a></li>
 </ul></div>
 

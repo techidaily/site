@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2024-11-11T22:11:47.727Z
-updated: 2024-11-14T01:16:17.334Z
+date: 2024-11-19T17:53:38.412Z
+updated: 2024-11-24T03:46:30.766Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ---
 
 ## Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Website from Google Chrome
@@ -43,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
@@ -55,24 +53,15 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
  If you set the website to open as a window, it will open immediately as its own window. You can then right-click its shortcut on your taskbar and select "Pin to Taskbar" without using the desktop shortcut.
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pin a Website from Firefox
 
@@ -90,13 +79,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Click "OK."
 
  From your desktop, right-click on the shortcut, and click either "Pin to Start" or "Pin to Taskbar." You can now delete the shortcut on your desktop.
@@ -108,6 +90,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
@@ -128,18 +114,16 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-your-guide-to-choosing-the-ideal-youtube-downloader-android/"><u>[New] In 2024, Your Guide to Choosing the Ideal YouTube Downloader (Android)</u></a></li>
-<li><a href="https://facebook.techidaily.com/communication-controverny-whatsapp-legal-battle-with-indian-authorities/"><u>Communication Controverny: WhatsApp Legal Battle with Indian Authorities</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-stellaris-mastering-the-art-of-cosmic-colonization-and-imperial-ambition/"><u>Comprehensive Guide to Stellaris: Mastering the Art of Cosmic Colonization & Imperial Ambition</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/effortless-downloading-and-updating-of-dell-monitors-with-latest-drivers/"><u>Effortless Downloading and Updating of Dell Monitors with Latest Drivers</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/fixing-nvidia-gtx-950-error-43-problems-on-your-windows-11-pc-step-by-step-solutions/"><u>Fixing NVIDIA GTX 950 'Error 43' Problems on Your Windows 11 PC: Step-by-Step Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone X Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-poco-x5-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Poco X5 to PC? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-11-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 without Face ID</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/1725284401205-winxvideo-ai/"><u>최고의 비디오 품질을 위해 Winxvideo AI를 사용하여 비디오를 강화하는 기술</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/vlcts-tips-for-seamlessly-combining-ts-files-in-vlc/"><u>シームレスな経験:VLCでTSファイルを効果的に結合するコツ - Tips for Seamlessly Combining TS Files in VLC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-snapscreen-videorecorder-tool/"><u>[Updated] 2024 Approved SnapScreen Videorecorder Tool</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel A60s? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-m34-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy M34 5G? Try These Fixes</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/hostgator-review-comparative-study-on-vps-and-shared-hosting-solutions/"><u>HostGator Review: Comparative Study on VPS and Shared Hosting Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-overcoming-bluetooth-connectivity-challenges-in-windows-11/"><u>Mastering the Fix: Overcoming Bluetooth Connectivity Challenges in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-poco-x6-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Poco X6 Pro</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/management-using-timestamps-to-amplify-views-on-youtube/"><u>Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-x-flip-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo X Flip</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 8? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-14-pro-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 14 Pro takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

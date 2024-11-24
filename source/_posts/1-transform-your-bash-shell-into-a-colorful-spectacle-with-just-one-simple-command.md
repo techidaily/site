@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-11-13T07:52:22.969Z
-updated: 2024-11-14T06:55:26.725Z
+date: 2024-11-16T16:33:19.644Z
+updated: 2024-11-23T23:14:41.549Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Animate Your Text Using lolcat](https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-storm-5g-drfone-by-drfone-virtual-android/)
 * [Create Colorful ASCII Text Banner](https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-hot-40i-by-drfone-android/)
 * [Make Things Interesting With cowsay](https://youtube-docs.techidaily.com/024-approved-optimal-video-posting-frequency-for-increased-youtube-popularity/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,6 +61,10 @@ sudo dnf install lolcat
 sudo pacman -S lolcat
 
  Once you've installed lolcat, you're ready to use it and apply rainbow colors to your output text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  lolcat Command Options
 
@@ -98,10 +106,7 @@ lolcat file.txt
 ![Displaying file content in colored output on Linux terminal using lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolcat-file-output.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Want to see your system information using [neofetch](https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/) in rainbow glory? Try running this:
@@ -120,13 +125,6 @@ vim ~/.bashrc
 
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -136,10 +134,7 @@ lolls
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
@@ -161,13 +156,6 @@ echo "Welcome to HTG" | lolcat --animate -d 500
 echo "Welcome to HTG" | lolcat --animate -s 5
 
  This command slows down the animation, giving you a more relaxed visual experience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Create Colorful ASCII Text Banner
 
@@ -192,10 +180,7 @@ figlet "Welcome to HTG" | lolcat
 ![Displaying ASCII text banner in rainbow colored format using figlet and lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also adjust the fonts used by figlet to create different styles of text. For example, to get the same previous banner with a different font, run this:
@@ -205,10 +190,7 @@ figlet -f slant "Welcome to HTG" | lolcat
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Things Interesting With cowsay
@@ -260,24 +242,20 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-innovative-photo-display-solutions/"><u>[New] Innovative Photo Display Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-leading-windows-apps-top-video-editing-picks/"><u>[New] Leading Windows Apps Top Video Editing Picks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-step-by-step-guide-to-seamless-editing-of-full-spherical-video-content/"><u>[Updated] 2024 Approved Step-by-Step Guide to Seamless Editing of Full Spherical Video Content</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-top-ten-4k-gaming-laptops-compiled-here/"><u>[Updated] Top Ten 4K Gaming Laptops Compiled Here</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/adapting-to-diverse-candidate-personalities-for-2024/"><u>Adapting to Diverse Candidate Personalities for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c300-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C300 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/re-and-download-50-free-youtube-banners/"><u>Explore & Download 50 FREE YouTube Banners!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-gionee-f3-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Gionee F3 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-huawei-p60-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Huawei P60 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-my-honor-100-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Honor 100 Location Is Wrong | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6 Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-magic-v2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic V2 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-achieving-stunning-light-conditions-with-an-iphone/"><u>In 2024, Achieving Stunning Light Conditions with an iPhone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oppo-reno-10-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Oppo Reno 10 5G</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-and-fixing-the-ps4-ce-34878-0-error-a-comprehensive-tutorial/"><u>Troubleshooting and Fixing the PS4 CE-34878-0 Error - A Comprehensive Tutorial</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ultimate-guide-how-to-troubleshoot-a-nonfunctional-ps4-microphone/"><u>Ultimate Guide: How to Troubleshoot a Nonfunctional PS4 Microphone</u></a></li>
-<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-motorola-moto-g34-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Moto G34 5G?</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-expert-insights-on-incorporating-hashtags-for-game-streams/"><u>[New] Expert Insights on Incorporating Hashtags for Game Streams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-vrecorder-download-install/"><u>[New] Mastering VRecorder Download, Install</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] 2024 Approved Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-list-premium-voice-modifiers-for-virtual-creators/"><u>[Updated] 2024 Approved Ultimate List Premium Voice Modifiers for Virtual Creators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-poco-c51-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Poco C51 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-narzo-60-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restoring-sounds-in-pubg-a-step-by-step-guide-for-gamers/"><u>Restoring Sounds in PUBG: A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://techidaily.com/sign-a-pdf-v16-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.6 document with electronic signature tool</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-g42-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia G42 5G</u></a></li>
+<li><a href="https://techidaily.com/tecno-data-retrieval-tool-restore-lost-data-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-data/"><u>Tecno Data Retrieval tool – restore lost data from Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-play-8t-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor Play 8T fingerprint</u></a></li>
+<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-redmi-note-12-proplus-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Redmi Note 12 Pro+ 5G?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Poco C51 | Dr.fone</u></a></li>
 </ul></div>
 

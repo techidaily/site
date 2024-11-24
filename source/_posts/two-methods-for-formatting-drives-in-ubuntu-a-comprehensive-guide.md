@@ -1,7 +1,7 @@
 ---
 title: "Two Methods for Formatting Drives in Ubuntu: A Comprehensive Guide"
-date: 2024-11-07T00:40:08.378Z
-updated: 2024-11-14T00:11:33.556Z
+date: 2024-11-19T06:30:14.309Z
+updated: 2024-11-24T04:25:26.120Z
 tags:
   - desktop
 categories:
@@ -27,13 +27,6 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
  The next thing you must confirm is which disk you'd like to format. If you accidentally format the wrong disk, it may even mess up your whole system. If you have many disks on your device, go through each one to ensure you're formatting the right disk.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Which Method Should You Use?
 
  Before implementing any of the methods, you should know which one will be the best for you. Both the Disks and GParted apps have graphical interfaces. So, in both methods, you don't need to write any commands to format a disk.
@@ -52,19 +45,24 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![All applications displayed in a grid layout on the Ubuntu applications menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It should display all the utility software on your system. From there, click "Disks" to launch it.
 
 ![The utility app group displaying all the available utility software on Ubuntu including 'Disks'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When the application opens, you will find your system storage, both internal and external, listed on the left sidebar. Select the disk that you want to format. Ideally, you're supposed to have multiple disks from which you will format one or more. In my case, since I'm on a virtual machine, there's only one disk. After selecting the disk, click the settings icon.
 
 ![An example of the Disks utility app on Ubuntu where a disk is selected](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That should open a context menu. Click the "Format Partition" button to continue.
@@ -81,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![The 'Format Volume' window on the Disks utility containing several options about disk formatting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new window with confirmation details will appear. You can double-check the details here just to be sure. If all looks good, click "Format" to begin the formatting. On the other hand, click the "Previous" button to navigate to the previous window.
 
 ![The final confirmation window in Ubuntu's Disks utility prompting the user to confirm formatting details before proceeding](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-4.png) 
@@ -93,21 +95,7 @@ thumbnail: https://thmb.techidaily.com/81ac4ba09f7fbb502f897ca0c55434cc97c04fe41
 
 ![Disks utility window after you formatted a drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  And that successfully formatted your desired disk. There is only one catch. It didn't create a partition table by default. You can do that using GParted, which I'll show you now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Method 2: Formatting a Disk on Ubuntu Using GParted
 
@@ -132,22 +120,12 @@ gparted
 ![An example of GParted interface while selecting a drive from the dropdown menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once selected, you can create a partition table in case you don't have it already. For that, click "Device" from the top menu bar. Then, select the "Create Partition Table" button.
 
 ![GParted interface showcasing the process of creating a partition table on a disk](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-2.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll get a warning about erasing all the data on the disk. Select the partition table type from the dropdown menu. If you're unsure, select "gpt" from all the options. Then, hit "Apply".
 
@@ -156,10 +134,7 @@ gparted
 ![The process of unmounting a partition from a disk using GParted on ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can delete that partition and convert it into unallocated space. To do that, again right-click on the partition and click "Delete".
@@ -182,13 +157,14 @@ gparted
 
 ![A window on GParted confirming that all the operations have been completed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/18.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And now you will find the formatted disk listed in GParted with the settings you specified earlier.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Disk Formatting on Ubuntu Made Easy!
@@ -210,24 +186,20 @@ gparted
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-proven-sites-for-downloading-premier-pixel-tones/"><u>[New] Proven Sites for Downloading Premier Pixel Tones</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-guide-to-whatsapp-audio-chat-for-2024/"><u>[New] The Ultimate Guide to WhatsApp Audio Chat for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-monitoring-instagram-disconnects-immediately/"><u>[Updated] 2024 Approved Monitoring Instagram Disconnects Immediately</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-resonance-and-rhythm-guide-to-downloading-vintage-ringtones-for-2024/"><u>[Updated] Resonance and Rhythm Guide to Downloading Vintage Ringtones for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/-piracy-safe-youtube-to-mp4-conversion-tips/"><u>Avoid Piracy Safe YouTube to MP4 Conversion Tips</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-phantom-v-flip-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/gpu-not-present-screen-blank/"><u>GPU Not Present, Screen Blank</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f54-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F54 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200e-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200e 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nubia-red-magic-9-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Red Magic 9 Pro+ without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-ace-2v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Ace 2V Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Lava Yuva 2? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-igniting-virality-with-captivating-fb-giveaway-campaigns/"><u>In 2024, Igniting Virality with Captivating FB Giveaway Campaigns</u></a></li>
-<li><a href="https://facebook.techidaily.com/picture-perfect-panoramas-creating-a-facebook-photo-mosaic/"><u>Picture Perfect Panoramas: Creating a Facebook Photo Mosaic</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pioneering-apps-for-diverse-game-file-logging-needs/"><u>Pioneering Apps for Diverse Game File Logging Needs</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-13-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Pro Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-pro-messages-recovery-recover-deleted-messages-from-xiaomi-14-pro-by-fonelab-android-recover-messages/"><u>Xiaomi 14 Pro Messages Recovery - Recover Deleted Messages from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-a-filmmakers-guide-to-mastering-green-screen-technology/"><u>[New] 2024 Approved A Filmmaker's Guide to Mastering Green Screen Technology</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-enhancing-live-performance-dynamics/"><u>[New] 2024 Approved Enhancing Live Performance Dynamics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-techniques-for-ensuring-quality-screen-recording-in-facetime-chats-for-2024/"><u>[New] Techniques for Ensuring Quality Screen-Recording in FaceTime Chats for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-strategies-for-replaying-group-conversations/"><u>2024 Approved Strategies for Replaying Group Conversations</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/clear-audio-pathways-address-and-fix-crackling-sounds-from-an-arctis-7-with-windows-computing-systems/"><u>Clear Audio Pathways: Address and Fix Crackling Sounds From an Arctis 7 with Windows Computing Systems</u></a></li>
+<li><a href="https://win-data.techidaily.com/comment-reactualiser-les-drivers-usb-sur-windows-et-mac/"><u>Comment Réactualiser Les Drivers USB Sur Windows Et Mac</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-razr-40-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Razr 40 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xr-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XR iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-motorola-edge-40-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Motorola Edge 40 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-find-n3-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Find N3</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-capturing-images-using-your-xbox-one-console/"><u>Step-by-Step Guide: Capturing Images Using Your Xbox One Console</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2024-11-13T05:04:10.333Z
-updated: 2024-11-14T09:04:53.123Z
+date: 2024-11-22T03:28:58.847Z
+updated: 2024-11-23T18:58:10.185Z
 tags:
   - web
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Pretend Like This?
 
  Much like [scam phone calls](https://youtube-webster.techidaily.com/-sound-devices-for-digital-influencers-for-2024/) and their digital counterparts, [phishing emails](https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/) and social media scam bots aim to trick anyone they can into handing over private information or installing malicious software (sometimes both). The end goal is the utilization of that information or software as leverage to make money—by exploiting victims directly, appropriating or stealing their identity, selling their information off, etc.
@@ -26,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Spot a Phony Representative
@@ -40,31 +41,25 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
 
@@ -75,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -100,22 +92,21 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-enhanced-visual-content-incorporate-bb-overlays-in-fb-video-frames/"><u>[New] 2024 Approved Enhanced Visual Content Incorporate BB Overlays in FB Video Frames</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-ultimate-list-top-10-websites-for-free-photo-access-for-2024/"><u>[New] The Ultimate List Top 10 Websites for Free Photo Access for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-eye-catching-vlog-talk-points/"><u>[Updated] Eye-Catching Vlog Talk Points</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-master-class-selecting-the-top-10-4k-shoulder-rigs-for-2024/"><u>[Updated] Master Class Selecting the Top 10 4K Shoulder Rigs for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-secretly-share-moments-with-instagram-live/"><u>2024 Approved How to Secretly Share Moments with Instagram Live</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 20 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-poco-x6-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco X6 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-11r-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 11R in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a24-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A24 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-tecno-camon-20-premier-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Camon 20 Premier 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-microsofts-premium-ergonomic-keyboard-top-quality-insights/"><u>In-Depth Analysis of Microsoft's Premium Ergonomic Keyboard – Top Quality Insights</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/1723262414611-navigating-through-tech-with-tom-a-trusted-source-for-hardware-enthusiasts/"><u>Navigating Through Tech with Tom - A Trusted Source for Hardware Enthusiasts!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/seamless-adventure-restored-overcoming-stability-issues-in-immortals-fenyx-rising/"><u>Seamless Adventure Restored: Overcoming Stability Issues in Immortals Fenyx Rising</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 6s Plus | Stellar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/sounds-great-priced-right-unveiling-the-ultimate-compact-bluetooth-speaker-with-incredible-audio-quality-for-a-budget-friendly-price-cnet/"><u>Sounds Great, Priced Right: Unveiling the Ultimate Compact Bluetooth Speaker with Incredible Audio Quality for a Budget-Friendly Price | CNET</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-a05s-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy A05s</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-6s-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 6s takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-earning-extra-bucks-through-snaps/"><u>[New] Earning Extra Bucks Through Snaps</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-simple-procedure-modify-clownfish-tones-on-pc-for-2024/"><u>[New] Simple Procedure Modify Clownfish Tones on PC for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-ultimate-guide-to-font-customization-in-ae/"><u>[Updated] 2024 Approved The Ultimate Guide to Font Customization in AE</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-free-and-fast-the-ultimate-list-of-mac-screen-recorders/"><u>[Updated] Free and Fast The Ultimate List of Mac Screen Recorders</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-androids-ultimate-guide-to-best-wildlife-games/"><u>2024 Approved Android's Ultimate Guide to Best Wildlife Games</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-overcome-blue-screen-of-death-in-windows-10-after-a-system-update/"><u>How to Overcome Blue Screen of Death in Windows 10 After a System Update</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c32-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C32 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-100-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor 100 to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-f14-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F14 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my 13 Ultra</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-ram-cache-basics-and-cleansing-methods/"><u>Windows RAM Cache Basics and Cleansing Methods</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-to-igtv-migration-step-by-step-guide/"><u>YouTube-to-IGTV Migration Step-by-Step Guide</u></a></li>
 </ul></div>
 

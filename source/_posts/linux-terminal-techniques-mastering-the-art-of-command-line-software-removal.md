@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-11-07T16:27:39.734Z
-updated: 2024-11-14T03:35:23.832Z
+date: 2024-11-18T00:54:14.872Z
+updated: 2024-11-24T04:27:51.717Z
 tags:
   - desktop
 categories:
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
  Linux distributions provide different methods for installing software. You can install software from the standard Ubuntu or Fedora software repositories using the Software Center, from outside of the standard Ubuntu or Fedora software repositories, or by compiling source code. However, what if you need to uninstall a program?
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Uninstall Software Using the Command Line on Ubuntu
@@ -65,16 +62,13 @@ sudo apt purge gimp
 
 ![Run &quot;sudo apt purge gimp&quot; to uninstall GIMP and remove the configuration files on Ubuntu, or any Debian installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-purge-gimp-in-the-Terminal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The installation process continues. When it's done, type "exit" at the prompt and press "Enter" to close the Terminal window, or click the "X" button in the upper-left corner of the window.
 
 ![GIMP was successfully removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/Sudo-apt-purge-ran-successfully.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don't want to remove the configuration files, simply substitute the command `remove `for `purge`, as shown in the following command.
 
@@ -89,10 +83,7 @@ sudo apt autoremove
 ![Run &quot;sudo apt autoremove&quot; to remove a package and all of the dependencies it installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-autoremove-in-the-terminal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can combine the two commands for removing a program and removing dependencies that are no longer being used into one, as shown below (two dashes before "auto-remove").
@@ -108,6 +99,10 @@ sudo apt clean
  This command removes the aptitude cache in "/var/cache/apt/archives". When you install a program, the package file is downloaded and stored in that directory. You don't need to keep the files in that directory. However, there is a potential drawback from deleting them: if you decide to install any of those programs again, the packages will have to be downloaded again.
 
 ![Run &quot;sudo apt clean&quot; to remove archive files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/run-sudo-apt-clean.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The APT is a handy tool that makes downloading, installing, and uninstalling programs quick and easy. For more information about using the "apt" command, type "apt" at the prompt and press Enter.
 
@@ -130,22 +125,12 @@ dnf list --installed
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll through the list until you find the program that you're looking for.
 
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  There are two quick ways to remove a program using DNF.
 
@@ -165,6 +150,10 @@ sudo dnf remove gimp
  Note that though the list command showed the GIMP package with its architecture attached to the name, like "gimp.x86\_64", I don't have to include the architecture or its preceding period in the remove command.
 
 ![The DNF command to remove the GIMP package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_073703.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just enter "y" and GIMP will be removed.
 
@@ -195,22 +184,24 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-end-vision-booster-convert-with-clarity/"><u>[Updated] High-End Vision Booster Convert with Clarity</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/conquer-speaking-with-these-17-authentic-spanish-idioms/"><u>Conquer Speaking with These 17 Authentic Spanish Idioms</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertidor-gratuito-on-line-de-arquivos-ogv-e-wmv-pelo-movavi-sem-custos-simples-de-uso/"><u>Convertidor Gratuito On-Line De Arquivos OGV E WMV Pelo Movavi – Sem Custos, Simples De Uso</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-ai-powerhouse-understanding-hugging-faces-purpose/"><u>Exploring the AI Powerhouse: Understanding Hugging Face's Purpose</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-guilds-best-multiplayer-approaches-for-friendship-and-fun-in-mc/"><u>Gaming Guilds: Best Multiplayer Approaches for Friendship & Fun in MC</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-how-to-hide-subtitles-while-watching-on-amazon-prime-video/"><u>Guide: How To Hide Subtitles While Watching On Amazon Prime Video</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Realme C33 2023? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-honor-100-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Honor 100? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-vivo-x90s-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Vivo X90S</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-magic-vs-2-by-fonelab-android-recover-data/"><u>The way to get back lost data from Magic Vs 2</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-infinix-hot-30-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Infinix Hot 30 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-asus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Asus without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-100-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor 100 Pro without backup.</u></a></li>
-<li><a href="https://fox-within.techidaily.com/ultimate-guide-top-solutions-for-effective-network-attached-storage-nas-and-data-backup/"><u>Ultimate Guide: Top Solutions for Effective Network Attached Storage (NAS) and Data Backup</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-x-flip-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo X Flip password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oneplus-ace-2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from OnePlus Ace 2</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-spectral-stories-telling-tales-through-color/"><u>[New] Spectral Stories Telling Tales Through Color</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-skullduggery-scribblers-den/"><u>[Updated] Skullduggery Scribbler's Den</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v30-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V30 Lite 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-the-meaning-of-error-code-0x800700e9-in-xbox-game-passwindows-11/"><u>Deciphering the Meaning of Error Code 0X800700E9 in Xbox Game Pass/Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-your-pc-best-8-video-capture-tools-for-windows-10-for-2024/"><u>Elevate Your PC Best 8 Video Capture Tools for Windows 10 for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g23-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G23 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-go-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark Go (2023) Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-s17-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo S17 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-p40plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-dslrs-rivalry-with-mirrorless-for-video-artistry/"><u>In 2024, DSLR's Rivalry with Mirrorless for Video Artistry</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-techniques-for-capturing-wide-angle-360-photos-effortlessly/"><u>In 2024, Techniques for Capturing Wide Angle 360 Photos Effortlessly</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ipad-vs-kindle-vs-nook-a-comprehensive-ereader-showdown/"><u>IPad Vs. Kindle Vs. Nook: A Comprehensive eReader Showdown</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/safeguarding-information-how-neural-network-reconstruction-can-compromise-chatbots/"><u>Safeguarding Information: How Neural Network Reconstruction Can Compromise Chatbots</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-art-of-concealment-start-menu-command-hideout/"><u>The Art of Concealment: Start Menu Command Hideout</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-itel-p55plus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Itel P55+ without backup.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/voice-logging-devices-scrutiny/"><u>Voice Logging Devices Scrutiny</u></a></li>
 </ul></div>
 

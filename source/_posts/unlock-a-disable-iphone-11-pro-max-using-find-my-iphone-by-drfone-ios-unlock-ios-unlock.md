@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 11 Pro Max using find my iphone
-date: 2024-09-22T23:15:58.323Z
+date: 2024-11-23T05:59:04.182Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -57,6 +57,10 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Click Erase iPhone and confirm.
 
 This will start the wipe process on your iPhone remotely and your iPhone will be reset to factory settings. You can now proceed to setup your iPhone once again.
@@ -73,6 +77,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 11 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 11 Pro Max in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -85,6 +93,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 11 
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Your iPhone 11 Pro Max will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 11 Pro Max prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
 ## Unlock Disabled iPhone 11 Pro Max Using Find My iPhone App
@@ -94,13 +106,6 @@ There are times you have another iOS device in the family or just lying around, 
 - **Step 1**: Open the Find My app on your other iOS device or Mac.
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2**: Select your disabled iPhone 11 Pro Max from the devices from the left pane, click/ tap your disabled iPhone 11 Pro Max and click/ tap Erase This Device
 
@@ -125,6 +130,11 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock iPhone 11 Pro Max without Passcode or Face ID
 
 A problem commonly faced by all iPhone users is that they forget the password, and then they are stuck because they cannot use their phone anymore. This might seem impossible because iPhone users cannot use the phone without a passcode, but let us show you a magical application that makes this impossible.
@@ -148,6 +158,10 @@ After the application is launched, the Welcome Screen will appear with different
 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/1.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2: Connect Phone with System**
 
 In the second step, the user should connect their phone to the system and let [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/)'s application automatically detect it. Whenever you are ready to initiate the process, click on the button 'Unlock iOS Screen.'
@@ -166,13 +180,6 @@ A new window will appear now on which the application will ask for some informat
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/4.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/5.avif)
@@ -187,23 +194,9 @@ The application will now ask for the confirmation code. Just provide the on-scre
 
 ![How to Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/3.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
 Here are the steps to unlock your Apple ID:
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Unlock Apple ID Via Two-Factor Authentication
 
@@ -213,11 +206,19 @@ Apple implemented two-factor authentication a long time ago to prevent unauthori
 
 ![https://iforgot.apple.com](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Key in your Apple ID and proceed.
 
 - **Step 3**: Confirm your mobile number associated with the Apple ID.
 
 ![Confirm your mobile number](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/5.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
@@ -245,6 +246,10 @@ Dr.Fone is a collection of carefully crafted modules that helps you when most ne
 
 ![Connect your device](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/9.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will be asked on your iPhone 11 Pro Max to Trust the computer, and then you will need to enter the passcode.
 
 - **Step 5**: Unlocking Apple ID via Dr.Fone - Screen Unlock (iOS) will erase the contents of the device. You need to confirm this by typing `six zeroes (000 000)` in the popup.
@@ -254,13 +259,6 @@ You will be asked on your iPhone 11 Pro Max to Trust the computer, and then you 
 - **Step 6**: Follow the on-screen instructions to reset all your settings on the iPhone and then reboot to start the unlocking process.
 
 ![Reset all settings](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/11.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
@@ -281,10 +279,7 @@ Yet, in some cases, users want to get around the Activation Lock for genuine rea
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/3.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
@@ -301,6 +296,10 @@ And we are going to teach all those methods with some simple steps. So, without 
 Once you have activated the `Find My iPhone` function, then you can try it to unlock your iPhone 11 Pro Max without a passcode. This is an easy and effective method to complete this task. Here's how you can do it:
 
 ![Use Find My iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/1.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1**: Go to icloud.com from any web browser on your computer or another iOS device.
 - **Step 2**: Enter your Apple ID and password to log into your iCloud account.
@@ -333,13 +332,6 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 - **Step 4**: On your computer, you will now see a message that iTunes detected an iPhone in recovery mode. Click on the 'OK' button.
 - **Step 5**: Now, click on the 'Restore iPhone' button in the Summary tab.
 - **Step 6**: Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use a Third-Party Tool
 
@@ -386,13 +378,6 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/9.avif)
 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -405,5 +390,21 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-spectrum-perfection-color-grading-basics/"><u>[New] In 2024, Spectrum Perfection Color Grading Basics</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-mastering-color-palettes-applying-theories-effectively-for-2024/"><u>[New] Mastering Color Palettes Applying Theories Effectively for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-crafting-professional-images-using-photoshops-powerful-luts-for-2024/"><u>[Updated] Crafting Professional Images Using Photoshop's Powerful LUTs for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-review-of-splitcam-leading-camera-tech-in-2024/"><u>[Updated] In-Depth Review of SplitCam Leading Camera Tech, In 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/comparative-analysis-of-metaai-vs-other-chatbot-types/"><u>Comparative Analysis of MetaAI vs Other Chatbot Types</u></a></li>
+<li><a href="https://games-able.techidaily.com/heres-how-i-find-great-free-games-on-steam/"><u>Here's How I Find Great Free Games on Steam</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f54-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F54 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-7-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 7</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-samsung-galaxy-s23-fe-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/selecting-a-streaming-device-roku-or-fire-tv-stick-your-essential-buying-guide/"><u>Selecting a Streaming Device: Roku or Fire TV Stick? Your Essential Buying Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-11-cheap-vlogging-cameras-for-2024/"><u>Top 11 Cheap Vlogging Cameras for 2024</u></a></li>
+</ul></div>
 

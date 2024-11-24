@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Powerful Security Insights: Top 5 Command-Line Tools Every Windows User Should Know"
-date: 2024-11-12T17:11:31.871Z
-updated: 2024-11-13T17:09:31.632Z
+date: 2024-11-22T21:09:57.980Z
+updated: 2024-11-24T05:28:50.807Z
 tags:
   - desktop
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
 * Use commands like dir /s, ping -t, cmatrix, genact, and hollywood to simulate the hacker aesthetics.
 
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
 
@@ -51,6 +44,10 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -58,6 +55,10 @@ color 2
 color
 
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
 
@@ -86,13 +87,6 @@ dir /s | more
 
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Use the ping-t Command to Ping a Website Continuously
 
  Next up is the ping command with the -t option:
@@ -109,6 +103,10 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -124,10 +122,7 @@ Your browser does not support the video tag.
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
@@ -161,10 +156,7 @@ genact -m cryptomining
 Your browser does not support the video tag. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
@@ -204,20 +196,22 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-flawless-video-calls-from-laptop-using-the-desktop-whatsapp-browser-for-2024/"><u>[New] Flawless Video Calls From Laptop Using the Desktop WhatsApp Browser for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-combat-black-screen-disruptions-in-gaming-feeds/"><u>[Updated] In 2024, Combat Black Screen Disruptions in Gaming Feeds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-macs-best-capture-exploring-leading-screen-recording-software-for-2024/"><u>[Updated] Mac's Best Capture Exploring Leading Screen Recording Software for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-real-time-fbx-filming-tips-for-2024/"><u>[Updated] Real-Time FBX Filming Tips for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-which-is-superior-obs-or-streamlabs-for-your-livestream-needs-for-2024/"><u>[Updated] Which Is Superior, OBS or Streamlabs for Your Livestream Needs for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/facile-comme-loeuf-integrale-de-6-astuces-pour-publier-vos-videos-iphone-avec-movavi-clips/"><u>Facile Comme L'oeuf : Intégrale De 6 Astuces Pour Publier Vos Vidéos iPhone Avec Movavi Clips</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/fast-track-download-of-samsung-m2070fw-device-drivers-simple-and-speedy/"><u>Fast Track Download of Samsung M2070FW Device Drivers - Simple and Speedy</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-y02t-by-fonelab-android-recover-data/"><u>The way to get back lost data from Y02T</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-windows-10-update-issues/"><u>Troubleshooting Guide: Fixing Windows 10 Update Issues</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-honor-play-7t-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor Play 7T</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1725290651830-windowsdvd/"><u>Windows用DVD作成ソフトが機能しない時の解決法集</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-from-idea-to-impact-advanced-editing-techniques-for-youtube-creators/"><u>2024 Approved From Idea to Impact Advanced Editing Techniques for YouTube Creators</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-producing-channel-trailer-synopses-a-guide/"><u>2024 Approved Producing Channel Trailer Synopses A Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-realme-12-pro-5g-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Realme 12 Pro 5G</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-vob-players-for-pc-and-mac-for-2024/"><u>Best Free VOB Players for PC and Mac for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v29-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V29 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-apple-iphone-8-plus-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from Apple iPhone 8 Plus Safe and Legal</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-v-purse-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor V Purse Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oneplus-nord-n30-se-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Nord N30 SE Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-12-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 12 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/instantaneous-duo-recording-cam-plus-screen-for-2024/"><u>Instantaneous Duo Recording Cam + Screen for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mengubah-jenis-pusat-pelayanan-data-anda-dari-hdd-menjadi-ssd-di-windows-11-alamat-tiga-langkah/"><u>Mengubah Jenis Pusat Pelayanan Data Anda Dari HDD Menjadi SSD Di Windows 11 - Alamat Tiga Langkah</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-hot-40i-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Hot 40i without backup.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-10-mas-potentes-memorias-para-videojuegos-de-2024-recomendaciones-por-movavi/"><u>Top 10 Más Potentes Memorias Para Videojuegos De 2024 - Recomendaciones Por Movavi</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tutorial-image-flipping-techniques-with-flipbuilder/"><u>Tutorial: Image Flipping Techniques with FlipBuilder</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-pro-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro lock with Apple ID</u></a></li>
 </ul></div>
 

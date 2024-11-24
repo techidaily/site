@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 8 using find my iphone
-date: 2024-09-18T10:56:10.697Z
+date: 2024-11-16T16:19:02.219Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -39,6 +39,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 8 w
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
 
 Your iPhone 8 will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 8 prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone 8 Using iTunes or macOS Finder
 
@@ -106,13 +110,6 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unlock Disabled iPhone 8 Using Find My iPhone App
 
 There are times you have another iOS device in the family or just lying around, you can use that device to unlock your disabled iPhone 8. This method is particularly useful if you're traveling with family or alone, and only have family members with their own iOS devices or, say, your iPad with you. As always, note that all these methods will wipe your data from your iPhone.
@@ -121,18 +118,15 @@ There are times you have another iOS device in the family or just lying around, 
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select your disabled iPhone 8 from the devices from the left pane, click/ tap your disabled iPhone 8 and click/ tap Erase This Device
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
 
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to use Face ID on iPhone 8 to make purchases in App Store, Book Store, and iTunes Store
 
@@ -159,6 +153,10 @@ Once you have activated the `Find My iPhone` function, then you can try it to un
 
 ![Use Find My iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/1.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1**: Go to icloud.com from any web browser on your computer or another iOS device.
 - **Step 2**: Enter your Apple ID and password to log into your iCloud account.
 - **Step 3**: Click on the 'Find My iPhone' option.
@@ -171,19 +169,6 @@ Once you have activated the `Find My iPhone` function, then you can try it to un
 Another way to unlock your iPhone 8 without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your iPhone 8:
 
 ![Unlock it with iTunes](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/2.avif)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1**: Connect your iPhone 8 to the computer you previously used to sync your device with iTunes.
 - **Step 2**: Open the iTunes application on your computer and wait for it to recognize your device.
@@ -216,29 +201,19 @@ If you are unable to unlock your iPhone 8 using the above methods, you can use a
 
 ![create connection](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/5.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Follow the image on the screen to make your device enter in `DFU mode` or `Recovery mode`.
 
 - **Step 4**: Once your device gets into DFU mode or Recovery mode, Dr.Fone will ask you to choose the right firmware for your iPhone 8.
 
 ![choose firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/6.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5**: Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
 ![unlock now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/7.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your iPhone 8.
 
@@ -263,19 +238,24 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/9.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unlock Apple ID on iPhone 8
 
 ![How to Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/3.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
 Here are the steps to unlock your Apple ID:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock Apple ID Via Two-Factor Authentication
 
@@ -284,13 +264,6 @@ Apple implemented two-factor authentication a long time ago to prevent unauthori
 - **Step 1**: Go to [https://iforgot.apple.com](https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875).
 
 ![https://iforgot.apple.com](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/4.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2**: Key in your Apple ID and proceed.
 
@@ -301,13 +274,6 @@ Apple implemented two-factor authentication a long time ago to prevent unauthori
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
 ![Two-factor code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/6.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4**: Use that code to unlock your Apple ID using two-factor authentication.
 
@@ -331,6 +297,10 @@ Dr.Fone is a collection of carefully crafted modules that helps you when most ne
 
 ![Connect your device](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/9.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You will be asked on your iPhone 8 to Trust the computer, and then you will need to enter the passcode.
 
 - **Step 5**: Unlocking Apple ID via Dr.Fone - Screen Unlock (iOS) will erase the contents of the device. You need to confirm this by typing `six zeroes (000 000)` in the popup.
@@ -340,6 +310,10 @@ You will be asked on your iPhone 8 to Trust the computer, and then you will need
 - **Step 6**: Follow the on-screen instructions to reset all your settings on the iPhone and then reboot to start the unlocking process.
 
 ![Reset all settings](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/11.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
@@ -409,6 +383,10 @@ Step 2: Now, when you use Safari to open a website that requires a login, tappin
 
 Step 3: Look at your iPhone to authenticate yourself with Face ID and Safari will autofill the credentials for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Authenticate Yourself for Third-Party Apps
 
 Face ID is also used for authenticating you for third-party apps that support Face ID. This means you can use Face ID to authenticate yourself for banking apps, password managers, and other apps that support Face ID.
@@ -449,5 +427,17 @@ Tap Send to send your first Memoji/ Animoji.
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-secrets-to-mastering-chromebook-zoom-features/"><u>[New] 2024 Approved Secrets to Mastering Chromebook Zoom Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-compile-of-top-15-gopro-stabilizers-and-mounts/"><u>[New] Compile of Top 15 GoPro Stabilizers & Mounts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-100plus-cool-gaming-channel-names-for-every-gamer/"><u>[New] In 2024, 100+ Cool Gaming Channel Names for Every Gamer</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-13-pro-max-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 13 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/infusing-life-into-ppt-with-professional-voiceovers-for-2024/"><u>Infusing Life Into PPT with Professional Voiceovers for 2024</u></a></li>
+<li><a href="https://techidaily.com/today-i-configure-mt4-and-mt5-accounts-for-running-a-local-trade-copier-tm-together-with-any-other-forex-ea-by-mt4copier-guide/"><u>Today I Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-x50iplus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor X50i+ for Streaming | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-se-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone SE screen lock</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Update drivers with Device Manager in Windows 11/10/7</u></a></li>
+</ul></div>
 

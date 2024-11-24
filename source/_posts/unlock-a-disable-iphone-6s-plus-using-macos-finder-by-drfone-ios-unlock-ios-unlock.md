@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 6s Plus using macOS finder
-date: 2024-09-17T03:08:10.271Z
+date: 2024-11-17T05:45:20.704Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -43,6 +43,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 6s 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 6s Plus in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -54,6 +58,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 6s 
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone 6s Plus.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your iPhone 6s Plus will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 6s Plus prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
@@ -87,6 +95,10 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 This will start the wipe process on your iPhone remotely and your iPhone will be reset to factory settings. You can now proceed to setup your iPhone once again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 6s Plus Using Find My iPhone App
 
 There are times you have another iOS device in the family or just lying around, you can use that device to unlock your disabled iPhone 6s Plus. This method is particularly useful if you're traveling with family or alone, and only have family members with their own iOS devices or, say, your iPad with you. As always, note that all these methods will wipe your data from your iPhone.
@@ -94,13 +106,6 @@ There are times you have another iOS device in the family or just lying around, 
 - **Step 1**: Open the Find My app on your other iOS device or Mac.
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2**: Select your disabled iPhone 6s Plus from the devices from the left pane, click/ tap your disabled iPhone 6s Plus and click/ tap Erase This Device
 
@@ -150,10 +155,7 @@ There are a few things you can try to resolve this, you can try to update your i
 If this does not resolve it, you need to take the device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Face ID on iPhone 6s Plus to pay with Apple Pay
@@ -161,19 +163,6 @@ If this does not resolve it, you need to take the device to the nearest service 
 - **Step1**: If Apple Pay is supported by banking institutions in your country, you can set it up by adding a supported bank‘s credit card, debit card, or prepaid card to the Wallet app on your iPhone 6s Plus.
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/4.avif)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step2**: When a card is added and ready to use, check that Apple Pay is enabled under Settings > Face ID and Passcode.
 
@@ -185,31 +174,21 @@ If this does not resolve it, you need to take the device to the nearest service 
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone 6s Plus, and wait for the Done message and checkmark to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Activation Lock Primer
 
 Apple products are costly, and they are prized. When a 5-year-old Android device might be left alone without anyone stealing it, you cannot risk that with an iPhone 6S, even today. Apple has built an Activation Lock in its devices to deter theft and so far, as we know, it has largely succeeded. If your iPhone 6s Plus 13 gets stolen, no one else can use it with their Apple ID unless they key in the credentials it was using previously (your credentials) and, even then, Apple has bolstered iCloud Find My Activation Lock to be more restrictive. You may have to key in a lot of information ranging from your device password (if you are also using the same Apple ID on a Mac) to your iOS device passcode too, obviously, your Apple ID password. It is a system that works in favor of Apple users.
 
 Yet, in some cases, users want to get around the Activation Lock for genuine reasons, say, when you buy a used Apple device from someone. They may have forgotten to remove that device from their Apple account and Activation Lock would not let you use it. Or, you are an IT administrator, and you manage devices given out to employees. Some employees did not remove their accounts from their devices, and now those iPhones are riddled with Activation Lock. You can remove it using this step-by-step guide.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What is Face ID?
 
 Face ID is a facial recognition system designed and developed by Apple Inc. for the iPhone and iPad Pro. The system allows biometric authentication for unlocking a device, making payments, and accessing sensitive data, as well as providing detailed facial mapping for augmented reality applications.
 
 ![What is Face ID?](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/1.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the new iPhone 15/14/13 is your first-ever iPhone, or if you have neither upgraded your iPhone from the 6/7/8 series nor have kept abreast with the happenings in the Apple world, you might wonder what this newfangled thing called Face ID is.
 
@@ -218,6 +197,10 @@ Face ID is an authentication system that came with iPhone X for the first time, 
 Face ID is not a new and advanced version of Touch ID, but a completely different authentication system that utilizes a different component what Apple calls a TrueDepth camera to scan your face metrics. Face ID is not available on phones with Touch ID (iPhone SE 2022 today) and Touch ID is not available on iPhones that come with Face ID as their authentication mechanism.
 
 Face ID is not just for unlocking your iPhone, but it is also used for authenticating you for Apple Pay, App Store purchases, and other third-party apps that support Face ID. It is also used for autofilling passwords and usernames in Safari and other apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Checking If Your Apple ID Is Locked
 
@@ -228,6 +211,10 @@ A locked Apple ID is rather unmistakable. Your iPhone 6s Plus would keep telling
 ## How to Unlock Apple ID on iPhone 6s Plus
 
 ![How to Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/3.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
@@ -241,24 +228,25 @@ Apple implemented two-factor authentication a long time ago to prevent unauthori
 
 ![https://iforgot.apple.com](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Key in your Apple ID and proceed.
 
 - **Step 3**: Confirm your mobile number associated with the Apple ID.
 
 ![Confirm your mobile number](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/5.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
 ![Two-factor code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/6.avif)
 
 - **Step 4**: Use that code to unlock your Apple ID using two-factor authentication.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock Apple ID Via a third party tool
 
@@ -271,13 +259,6 @@ Dr.Fone is a collection of carefully crafted modules that helps you when most ne
 - **Step 2**: Launch [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) and select the `Screen Unlock` module.
 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/7.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3**: Click Unlock Apple ID to start the process.
 
@@ -293,16 +274,13 @@ You will be asked on your iPhone 6s Plus to Trust the computer, and then you wil
 
 ![Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/10.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6**: Follow the on-screen instructions to reset all your settings on the iPhone and then reboot to start the unlocking process.
 
 ![Reset all settings](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/11.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
@@ -320,5 +298,24 @@ Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-budget-video-editing-made-simple-with-vimeo-free-service/"><u>[New] Budget Video Editing Made Simple with Vimeo Free Service</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-best-zoom-tools-for-clear-session-capture/"><u>[New] In 2024, Best Zoom Tools for Clear Session Capture</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-cinema-kings-and-queens-iphones-leading-8-freepluspaid-watching-options/"><u>2024 Approved Cinema Kings & Queens IPhone's Leading 8 FREE+Paid Watching Options</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-honor-90-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/anonymity-in-action-insta-stories-guide-for-2024/"><u>Anonymity in Action Insta Stories Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-nokia-c22-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Nokia C22 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone X Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-14-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-note-30-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Note 30 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-step-by-step-audacity-crossfading-process/"><u>In 2024, Step-by-Step Audacity Crossfading Process</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-realme-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Realme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-rectify-windows-update-x8024a205-mistake/"><u>Strategies to Rectify Windows Update X8024A205 Mistake</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-nord-n30-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus Nord N30 SE Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

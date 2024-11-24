@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models"
-date: 2024-11-10T22:11:18.991Z
-updated: 2024-11-14T07:06:33.817Z
+date: 2024-11-19T20:31:37.547Z
+updated: 2024-11-24T00:21:10.604Z
 tags:
   - desktop
 categories:
@@ -11,18 +11,15 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ## Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Requirements (And Tips for Older Macs)](https://www.howtogeek.com/806350/how-to-factory-reset-a-macbook-air-macbook-pro-or-any-mac/#requirements-and-tips-for-older-macs)
 * [How to Erase All Content and Settings on an Apple Silicon Mac](https://facebook-video-content.techidaily.com/updated-2024-approved-expanding-reach-fb-live-on-broadcast-networks/)
 * [How to Factory Reset an Older Mac](https://hardware-reviews.techidaily.com/building-and-choosing-hardware-wisely-insights-from-toms-computer-chronicles/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,19 +35,6 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
  If your Mac uses an Intel processor, or you're running a version of macOS older than Monterey, you'll need to perform a more complex series of steps to factory reset your Mac. We'll explain how to do that below, or check out our guide to [reinstalling macOS](https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/) for more detail.
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Erase All Content and Settings on an Apple Silicon Mac
 
  If you have a Mac that uses Apple Silicon or has a T2 Security Chip and runs macOS Monterey or later, you can quickly wipe it through the built-in Erase Assistant tool. You can click Apple > About This Mac to see the processor family (anything above M1 is Apple Silicon) and macOS version.
@@ -65,30 +49,28 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![Enter your password to launch Erase Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/enter-your-password-to-launch-erase-assistant.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For macOS Monterey, click the Apple icon and select "System Preferences." Ignore the window that appears and look at the top of the screen again. Go to System Preferences > Erase All Content and Settings, and enter your password when prompted.
 
 ![In the menu bar, click "System Preferences" then choose "Erase All Content And Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/choose_erase_all_content_and_settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With Erase Assistant launched, you'll see exactly what will be removed during the factory reset. Along with your data, apps, and settings, you'll be signed out of your Apple ID, your Touch ID fingerprints will be removed, Bluetooth accessories will be unpaired, and the Mac will no longer appear under the Find My service.
 
 ![Screenshot showing what will be removed during a factory reset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-showing-what-will-be-removed-during-a-factory-reset.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're happy to proceed, click "Continue." For security reasons, you'll be prompted to enter your Apple ID password, which will then sign you out.
 
 ![Sign out from your Apple ID.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sign-out-from-your-apple-id.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You might now be asked if you want to back up your Mac using Time Machine. Do this if you haven't already, because once your data has been wiped, you won't be able to get it back. For the final step, you'll be asked to confirm that you want to perform the factory reset.
@@ -117,6 +99,10 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![The Disk Utlity screen for erasing your Mac hard drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-disk-utlity-screen-for-erasing-your-mac-hard-drive.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you're done erasing the drive, quit Disk Utility using the menu bar and select "Reinstall macOS" in the Recovery menu, then follow the on-screen instructions.
 
  If you're giving your Mac to someone else, press Command+Q at Setup Assistant and shut down the Mac. When you power it back on, press Option+Command+P+R and hold it for about 20 seconds. This will [reset the NVRAM](https://digital-screen-recording.techidaily.com/updated-bridging-gaps-using-markers-for-smooth-transition-sequences-for-2024/), which clears user settings from a special type of memory on your Mac. After that, you can either set up the Mac again or press Command+Q to shut down the Mac, and it's ready for a new owner. Good luck!
@@ -140,24 +126,22 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-google-meet-for-everyone-a-comprehensive-no-cost-strategy-booklet/"><u>[New] Google Meet for Everyone A Comprehensive, No-Cost Strategy Booklet</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-youtube-vs-dailymotion-key-platform-distinctions/"><u>[New] In 2024, YouTube Vs. Dailymotion Key Platform Distinctions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-directors-toolkit-youtube-lessons-on-film-making/"><u>[New] The Director's Toolkit YouTube Lessons on Film Making</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/9-ways-to-fix-airpods-not-charging/"><u>9 Ways to Fix AirPods Not Charging</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-ais-creative-writing-advantagesdisadvantages/"><u>A Deep Dive Into AI’s Creative Writing Advantages/Disadvantages</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-blaze-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Blaze Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/compact-cameras-for-mobile-cinematography/"><u>Compact Cameras for Mobile Cinematography</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-update-canon-dslr-530-driver-easy-tutorial/"><u>Download and Update Canon DSLR 530 Driver - Easy Tutorial</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-5-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 5 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/high-quality-video-transfer-from-fb-to-mp4-no-cost-online-method/"><u>High-Quality Video Transfer From FB to MP4 – No Cost Online Method</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/how-the-nokia-72-exceeds-and-innovates-within-the-affordable-smartphone-segment/"><u>How the Nokia 7.2 Exceeds and Innovates Within the Affordable Smartphone Segment</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-130-music-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia 130 Music If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-t2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-infinix-smart-8-hd-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-nokia-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Nokia</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-s23plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy S23+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-cant-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi can't play MP4 video files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-playback-pivot-a-step-by-step-yt-guide/"><u>[New] In 2024, Mastering Playback Pivot A Step-by-Step YT Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-effortlessly-replay-videos-on-iphone/"><u>[Updated] In 2024, Effortlessly Replay Videos on iPhone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-pro-video-production-mastering-the-coordination-between-windows-photos-and-storyremix/"><u>[Updated] In 2024, Pro Video Production Mastering the Coordination Between Windows, Photos, and StoryRemix</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-definitive-guide-to-googles-podcast-submission/"><u>[Updated] The Definitive Guide to Google’s Podcast Submission</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-snap-share-and-save-on-instagram/"><u>2024 Approved Snap, Share, and Save on Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/2024s-elite-tablets-ranked-in-depth-tester-insights-and-evaluations-digitalsavvy/"><u>2024'S Elite Tablets Ranked: In-Depth Tester Insights and Evaluations | DigitalSavvy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/effortless-guide-converting-mpeg-audio-to-mp3-a-beginner-friendly-method/"><u>Effortless Guide: Converting MPEG Audio to MP3 – A Beginner-Friendly Method</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-htc-u23-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my HTC U23 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-x7-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find X7 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-a05s-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel A05s working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-multitask-media-consumption-harnessing-pip-feature-in-netflix-for-2024/"><u>Mastering Multitask Media Consumption Harnessing PIP Feature in Netflix for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/real-time-video-editing-with-manycam-your-ultimate-live-streaming-companion/"><u>Real-Time Video Editing with ManyCam: Your Ultimate Live Streaming Companion</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-huawei-nova-y71-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Huawei Nova Y71 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-pova-5-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Pova 5.</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
 

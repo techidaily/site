@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone XS Max using macOS finder
-date: 2024-09-21T17:29:38.568Z
+date: 2024-11-19T18:41:05.835Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -93,10 +93,7 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone XS Max Without iTunes/ iCloud
@@ -111,6 +108,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Follow the provided instructions to start the disabled iPhone XS Max in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -119,23 +120,9 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/3.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone XS Max.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Your iPhone XS Max will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone XS Max prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
@@ -193,28 +180,16 @@ The application will now ask for the confirmation code. Just provide the on-scre
 ![Confirmation Code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/6.avif)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bypassing Activation Lock using official methods (iPhone XS Max)
 
 An Activation Lock is not the end of the world, as Apple might have you believe. Nothing in the world is perfect, except for the world itself. As such, there are ways to bypass Activation Lock on an Apple device that you bought used, and the previous owner forgot to unlock or did so intentionally and is now trying to fleece you for more money to unlock it. Or an employee who just left the job surrendered their iPhone XS Max but forgot to erase the device before submitting and consequently, the device is still associated with their Apple ID, and you need to bypass Activation Lock for that iPhone XS Max to make it useable again. There are a few ways you can go about it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bypassing Activation Lock Using Apple ID
 
@@ -224,6 +199,10 @@ Disabling Activation Lock on iPhone XS Max is easy if you have the Apple ID cred
 
 - **Step 1**: Enter device Recovery Mode and Restore the device to factory settings.
 - **Step 2**: When you set up the device again, you will be required to sign in to the Apple ID associated with the device. Do that and you are golden!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bypassing Activation Lock from iCloud Website
 
@@ -241,25 +220,11 @@ You may also do away with Activation Lock using the Find My iPhone app in iCloud
 
 This process requires that the data service be functional on the iPhone in question, otherwise, this will not work. When the process is done, restart the iPhone and set it up with your Apple ID to remove the lock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Bypassing Activation Lock Using Microsoft Intune
 
 If you are an IT administrator and are using Microsoft services, you may have given employees iPhones. When employees leave or are made to leave, it is possible that the devices they leave behind are still signed in with a password only they know. There is a way Apple provides for Microsoft Intune to disable Activation Lock for corporate devices.
 
 ![Bypassing Activation Lock Using Microsoft Intune](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/4.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1**: Sign in to the admin center on Microsoft Endpoint Manager.
 - **Step 2**: Select Devices under Intune.
@@ -282,6 +247,10 @@ The device will be reset, and employees can set it up again with a new Apple ID.
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 When done, a satisfying ting and a checkmark will confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Apple ID on iPhone XS Max
 
@@ -351,9 +320,17 @@ Apple does a lot to ensure that your Apple ID remains safe. You trust Apple with
 
 All of these will result in a locked Apple ID that users will have to reset their password to in order to gain access back.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone XS Max with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your iPhone XS Max with Face ID:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock Your iPhone XS Max
 
@@ -362,6 +339,10 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone XS Max
 - **Step1**: Pick your iPhone XS Max up in your hands or tap the screen to wake it up.
 - **Step2**: Look at the iPhone.
   When the lock symbol changes to the unlocked position, you can swipe up to unlock your iPhone XS Max using Face ID and get to the Home Screen.Note that Face ID will not work in landscape mode on an iPhone XS Max.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Making Purchases Using Face ID on Your iPhone XS Max
 
@@ -393,13 +374,6 @@ Step 2: Now, when you use Safari to open a website that requires a login, tappin
 
 Step 3: Look at your iPhone to authenticate yourself with Face ID and Safari will autofill the credentials for you.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Authenticate Yourself for Third-Party Apps
 
 Face ID is also used for authenticating you for third-party apps that support Face ID. This means you can use Face ID to authenticate yourself for banking apps, password managers, and other apps that support Face ID.
@@ -419,6 +393,10 @@ Step 1: Open a message conversation in the Messages app.
 Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to select the desired Animoji/ Memoji you want to send.
 
 ![Animojis and Memojis](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/7.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
 
@@ -440,5 +418,19 @@ Tap Send to send your first Memoji/ Animoji.
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-achieve-maximum-impact-in-fb-video-ads-use-free-tools-for-2024/"><u>[New] Achieve Maximum Impact in FB Video Ads - Use Free Tools for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-snapchat-checklist-for-engaging-content-for-2024/"><u>[New] The Ultimate Snapchat Checklist for Engaging Content for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-exploring-remote-desktop-capabilities-within-zoom-on-win11/"><u>[Updated] In 2024, Exploring Remote Desktop Capabilities Within Zoom on Win11</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-android-snapshot-wonders-ranking-the-best-8-for-free-screen-capture/"><u>2024 Approved Android Snapshot Wonders - Ranking the Best 8 for Free Screen Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-prime-propeller-picks-unveiling-top-5-motors-for-drones/"><u>2024 Approved Prime Propeller Picks Unveiling Top 5 Motors for Drones</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-100-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 100 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-xiaomi-redmi-13c-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Xiaomi Redmi 13C 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-11-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 11 SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-magic-6-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-magic-6-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Magic 6 Pro.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-k11x-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have K11x fingerprint</u></a></li>
+</ul></div>
 

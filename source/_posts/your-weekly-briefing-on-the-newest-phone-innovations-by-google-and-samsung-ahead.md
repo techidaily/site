@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2024-11-11T04:33:51.870Z
-updated: 2024-11-14T06:07:31.520Z
+date: 2024-11-20T18:17:02.198Z
+updated: 2024-11-23T21:19:52.993Z
 tags:
   - mobile
 categories:
@@ -16,10 +16,7 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ##  The Big News
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
@@ -30,27 +27,17 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Third-party components will no longer disable True Tone or battery health.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
 
  The Steam games client now has a built-in background screen recorder, and it even works on the Steam Deck.
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Valve
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
@@ -68,6 +55,10 @@ Valve
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
  It's the first UWB tracker to support Google Find My Device.
@@ -77,10 +68,7 @@ Valve
 Motorola
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
@@ -92,10 +80,7 @@ Motorola
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Other Stuff
@@ -119,18 +104,22 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-beyond-boundaries-the-five-pinnacle-cloud-storage-innovations/"><u>[Updated] Beyond Boundaries The Five Pinnacle Cloud Storage Innovations</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-ultimate-checklist-for-crafting-distinctive-youtube-short-videos/"><u>[Updated] In 2024, The Ultimate Checklist for Crafting Distinctive YouTube Short Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-young-entrepreneurs-guide-buying-profitable-youtube-sites/"><u>[Updated] Young Entrepreneur's Guide Buying Profitable YouTube Sites</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/beat-to-freedom-online-fb-music-downloads-for-2024/"><u>Beat to Freedom Online FB Music Downloads for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g84-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G84 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/decreasing-obs-stream-quality-for-2024/"><u>Decreasing OBS Stream Quality for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-7-hd-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 7 HD If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://win-forum.techidaily.com/how-to-reclaim-disk-capacity-in-windows-11-the-ultimate-troubleshooting-and-cleanup-tutorial/"><u>How to Reclaim Disk Capacity in Windows 11: The Ultimate Troubleshooting and Cleanup Tutorial</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-ideal-obs-parameters-for-economical-pcs/"><u>In 2024, Ideal OBS Parameters for Economical PCs</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-smart-8-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 8 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-y17s-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo Y17s</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-y78-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo Y78 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-oppo-a1-5g-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Oppo A1 5G Phones</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>[New] YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-essential-tips-convert-and-download-vimeo-hd-to-mp4/"><u>[Updated] Essential Tips Convert and Download Vimeo HD to MP4</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-fortnite-log-in-errors-with-these-swift-steps-now-playing/"><u>Bypass Fortnite Log-In Errors with These Swift Steps - Now Playing!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/elevate-experience-swift-solutions-to-combat-stutter-and-enhance-fps-in-elden-ring/"><u>Elevate Experience: Swift Solutions to Combat Stutter & Enhance FPS in Elden Ring</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Civi 3 Disney 100th Anniversary Edition without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a05s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A05s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-non-functioning-of-steelseries-gg-software-on-your-pc/"><u>How to Resolve Non-Functioning of SteelSeries GG Software on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/misleading-alert-the-non-existent-safe-chatgpt-window-version-is-actually-malware/"><u>Misleading Alert: The Non-Existent Safe ChatGPT Window Version Is Actually Malware!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rescue-and-repair-clear-water-blockages-in-iphones-sound-output-areas/"><u>Rescue and Repair: Clear Water Blockages in iPhone's Sound Output Areas</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revo-uninstaller-pro-tutorial-revitalizing-your-windows-10-machine-with-a-clean-slate-approach/"><u>Revo Uninstaller Pro Tutorial: Revitalizing Your Windows 10 Machine with a Clean Slate Approach</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-s24-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy S24</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-meizu-21-by-fonelab-android-recover-music/"><u>The way to get back lost music from Meizu 21</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-x-fold-2-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo X Fold 2 without backup.</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-11-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 11 takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A15 5G | Dr.fone</u></a></li>
 </ul></div>
 

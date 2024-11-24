@@ -1,7 +1,7 @@
 ---
 title: "Decoding Internet Myths: The Truth Behind 'Google Recommends' Unconventional Ingredients for Cooking"
-date: 2024-11-12T00:50:17.885Z
-updated: 2024-11-14T09:22:14.331Z
+date: 2024-11-20T06:05:48.454Z
+updated: 2024-11-24T05:19:23.204Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 ---
 
 ## Decoding Internet Myths: The Truth Behind 'Google Recommends' Unconventional Ingredients for Cooking
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 2024/05/29 15:57 EST BY CORBIN DAVENPORT
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
  Google’s AI Overview [told someone](https://www.threads.net/@egaal/post/C7SJKGlyg8o) that President James Madison graduated from the University of Wisconsin 21 times. When [asked](https://x.com/dril/status/1787041991391584549) earlier this month “how to pass kidney stones quickly,” it said, “You should aim to drink at least 2 quarts (2 liters) of urine every 24 hours.” In fairness, that was when AI responses were still an experimental feature and not fully rolled out, but the AI feature doesn’t seem to have become any smarter since that point. I tried a Google Search yesterday for “how many bugs should I eat in a day,” and it told me, “According to Quora, the average person eats 15-18 insects each night.”
 
 ![Google search for 'How many bugs shoud I eat in a day' with the answer 'According to Quora, the average person eats 15-18 insects each night, which is about two pounds of dead insects and insect parts per year.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/image-5.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There’s a common theme with these answers: the AI Overview feature doesn’t have a great context for which sources are reliable. Reddit, Quora, and other sites are a mix of useful information, jokes, and inaccurate information, and the AI can’t tell the difference. That’s not surprising, given that it can’t think like a human and use context clues, but these answers are also worse than other AI tools like ChatGPT and Microsoft Copilot.
 
@@ -52,28 +60,16 @@ thumbnail: https://thmb.techidaily.com/d5e8491d3f34992956d5390f8a8c8192037db1bb4
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-a-step-by-step-guide-to-instagrams-premier-status-6-practical-steps-for-enthusiasts/"><u>[New] A Step-by-Step Guide to Instagram's Premier Status 6 Practical Steps For Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-what-to-do-if-the-facebook-message-shows-its-you-in-this-video-for-2024/"><u>[New] What To Do If the Facebook Message Shows It’s You in This Video for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-visionary-storylines-in-the-eight-genre-sphere/"><u>[Updated] Visionary Storylines in the Eight Genre Sphere</u></a></li>
-<li><a href="https://article-files.techidaily.com/achieving-spotlight-submitting-on-apple-platform-for-2024/"><u>Achieving Spotlight Submitting on Apple Platform for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/diminishing-visual-vibrations-on-pro-7/"><u>Diminishing Visual Vibrations on Pro 7</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-proplus-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro+ 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-c53-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme C53 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-top-6-youtube-outros-made-easy-and-free-guide/"><u>In 2024, Top 6 YouTube Outros Made Easy & FREE (Guide)</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/insights-into-the-functionality-of-windows-iscsi-initiator/"><u>Insights Into the Functionality of Windows iSCSI Initiator</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-tecno-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Tecno</u></a></li>
-<li><a href="https://techidaily.com/remove-vivo-y27-4g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Y27 4G unlock screen</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211419397-9798987674925-the-third-part/"><u>The Third Part | Free Book</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-a05s-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel A05s</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-x50iplus-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor X50i+</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723210420928-xbox-one-bluetooth-woes-heres-how-to-get-your-controller-syncing-again/"><u>Xbox One Bluetooth Woes? Here's How to Get Your Controller Syncing Again</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-ultimate-selection-budget-friendly-4k-cameras-(1k/"><u>[New] 2024 Approved Ultimate Selection Budget-Friendly 4K Cameras <$1K</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-top-gear-youtube-pros-choice-in-shaky-free-video-capture-for-2024/"><u>[New] Top Gear YouTube Pros' Choice in Shaky-Free Video Capture for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategic-unveiling-the-box-of-opportunity/"><u>2024 Approved Strategic Unveiling The Box of Opportunity</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-snapchat-location-without-jailbreak-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location without Jailbreak On Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-a25-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A25 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s24plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S24+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/priority-toolkit-best-free-resources-for-win11-power/"><u>Priority Toolkit: Best Free Resources for Win11 Power</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor X50 GT.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-full-game-potential-the-critical-role-of-a-d3d11-compatible-gpu-for-running-our-engine-effectively/"><u>Unlocking Full Game Potential: The Critical Role of a D3D11-Compatible GPU for Running Our Engine Effectively</u></a></li>
+<li><a href="https://techidaily.com/vivo-x100-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo X100 Pro support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

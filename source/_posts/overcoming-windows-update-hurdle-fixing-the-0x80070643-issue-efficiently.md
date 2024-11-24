@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently"
-date: 2024-11-07T23:52:26.484Z
-updated: 2024-11-13T19:12:40.943Z
+date: 2024-11-22T01:31:43.897Z
+updated: 2024-11-24T00:06:31.100Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 * [What is the WinRE Recovery Partition?](https://vp-tips.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today/)
 * [How to Fix the Windows Update Error 0x80070643](https://win11.techidaily.com/unlocking-dangers-hacked-fingerprints-on-windows-pcs/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The Windows Recovery Environment (WinRE) is a tool that helps you restore your system to its factory settings in case of severe system corruption.
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 * To fix this issue, you'll need to resize the Recovery partition using the Command Prompt.
 
  Microsoft releases updates for Windows to add new features and fix bugs in the current version. Most updates download without problems, but some can cause errors during the download. One such error is Windows update error 0x80070643, which occurs while downloading the Windows 10 KB5034441 update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is Downloading the Windows 10 KB5034441 Update Important?
 
@@ -49,26 +57,31 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Recovery partition in Disk Management](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-partition-in-disk-management.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows Recovery Environment (WinRE) is a built-in feature provided by Windows that helps you recover your computer when it has been corrupted for various reasons, and you cannot boot it. Additionally, it will help recover your system when it has become unusable due to incorrect updates or accidental removal of system files.
 
  To check if the Recovery partition is configured properly on your computer, [open Command Prompt as an administrator](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/), type **reagentc /info**, and hit Enter. If you see "Enabled" next to Windows RE status, it means your computer has a Recovery partition, and it is working properly.
 
 ![Windows RE status in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-re-status-in-command-prompt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Fix the Windows Update Error 0x80070643
 
  As mentioned earlier, the 0x80070643 error occurs when the Recovery partition doesn't have 250 MB of free space. This means that to fix the problem, you will need to provide more space to the Recovery partition. To do that, open Command Prompt as an administrator, type **reagentc /disable** to disable the Recovery partition, and hit Enter.
 
 ![Disable Recovery Partition command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-recovery-partition-command.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Type **diskpart** and hit Enter.
 
@@ -82,34 +95,13 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Select disk command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-disk-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Type **list partition** to list the partitions on the disk.
 
 ![List partition command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-partition-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Select the primary disk partition. For example, if it is Partition 3, type **select partition 3** and hit Enter.
 
 ![Select partition 3 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-3-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You'll now have to shrink the partition. For that, type **shrink desired=250 minimum=250** and hit Enter.
 
@@ -119,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **delete partition override** and hit Enter to delete the recovery partition.
 
 ![delete partition override command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-partition-override-command-in-cmd.jpg) 
@@ -126,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
  Here's the most important step. Scroll up in your Command Prompt window and check the [disk partition style](https://facebook-video-footage.techidaily.com/updated-pro-level-gif-generation-a-critical-review/). If there's an asterisk (\*) in the GPT column of your operating system disk, it means you have GUID Partition Table (GPT) partition style. If there's no asterisk in the GPT column, then it's [MBR partition style](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/).
 
 ![Asterick mark in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asterick-mark-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your disk is GPT, type **create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac** and hit Enter. Then, type **gpt attributes =0x8000000000000001** and hit Enter. If your disk is MBR, type **create partition primary id=27** and hit Enter.
 
@@ -143,16 +132,7 @@ Close
 ![Format command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/format-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Execute **list vol** to confirm that the recovery partition has been created.
@@ -160,10 +140,7 @@ Close
 ![List vol command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-vol-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **exit** and hit Enter to exit Diskpart.
@@ -195,14 +172,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-transform-your-strategy-with-these-20-marketing-terms/"><u>[New] Transform Your Strategy with These 20 Marketing Terms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-conquer-screen-capture-in-depth-windows-pc-guide-for-live-tv-recording-for-2024/"><u>[Updated] Conquer Screen Capture In-Depth Windows PC Guide for Live TV Recording for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-melodic-mobile-alerts-download-classical-ringtones-here-for-2024/"><u>[Updated] Melodic Mobile Alerts Download Classical Ringtones Here for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-navigating-iphone-the-ringtone-alteration-process/"><u>2024 Approved Navigating iPhone The Ringtone Alteration Process</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-sculpt-your-shots-in-the-digital-realm/"><u>In 2024, Sculpt Your Shots in the Digital Realm</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-xiaomi-14-pro-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Xiaomi 14 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-a18-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo A18</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-c02-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from C02</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-finding-the-best-meme-ideas-to-create-viral-content/"><u>[Updated] Finding the Best Meme Ideas to Create Viral Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-experience-professional-facebook-profile-picture-design-with-these-tools/"><u>[Updated] In 2024, Experience Professional Facebook Profile Picture Design with These Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-truthgpt-law-enforcements-raid-on-mullvad-vpn-prime-listings-for-no-cost-computer-games-and-demystifying-mechanical-keyboards/"><u>Discovering TruthGPT: Law Enforcement's Raid on Mullvad VPN, Prime Listings for No-Cost Computer Games, and Demystifying Mechanical Keyboards</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-problems-with-the-stereo-mix-feature-on-windows-and-mac-os/"><u>Fixing Problems with the Stereo Mix Feature on Windows and Mac OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-troubleshoot-a-website-facing-a-503-service-error-message/"><u>How to Troubleshoot a Website Facing a 503 Service Error Message</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-realme-11-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Realme 11 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-depth-analysis-of-youtube-adrevenue-average-payout-per-1000-viewers-engagement/"><u>In-Depth Analysis of YouTube AdRevenue Average Payout per 1,000 Viewers' Engagement</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/simplifying-video-distribution-a-discord-insiders-approach-for-2024/"><u>Simplifying Video Distribution A Discord Insider's Approach for 2024</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-google-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Google</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oppo-reno-10-pro-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Oppo Reno 10 Pro 5G without backup.</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/tips-for-capturing-and-saving-images-from-microsoft-word-files/"><u>Tips for Capturing & Saving Images From Microsoft Word Files</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-8-plus-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 8 Plus takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

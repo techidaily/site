@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at the Samsung Galaxy Watch Gen 5: Impressive Features and a Few Hiccups Along the Way"
-date: 2024-11-09T09:31:11.940Z
-updated: 2024-11-14T09:49:05.659Z
+date: 2024-11-16T17:14:15.574Z
+updated: 2024-11-24T04:23:42.184Z
 tags:
   - mobile
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/69f3067d39675d6781ab4c7e0458c920b25824eda
  Samsung issued an update that mentioned "battery stability" and "battery charging stability." After installing the update and using the watch for a couple of days, I can resoundingly confirm that the battery issues have been fixed. I am now ending the day (after 10 PM) with 60% or more left in the tank, and the battery info screen says there are still around 17 hours left. The review score has been updated to reflect this change (originally 6/10).
 
 ![Samsung Watch 7 Product Image](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/watch-7-product-image-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/how-to-geek-editor-s-choice-badge.png) 
 
@@ -101,15 +105,16 @@ _The model seen in this review is Silver, 44mm, Wi-Fi only, with the Silver Spor
 Expand 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Tiniest of Design Changes
 
 ![Samsung Galaxy Watch 7.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-watch-7-6.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -122,16 +127,7 @@ Joe Fedewa / How-To Geek
 ![Samsung Galaxy Watch 7 buttons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-watch-7-13.JPG) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -147,28 +143,12 @@ Joe Fedewa / How-To Geek
  Overall, I have no complaints about the design or build of the Galaxy Watch 7\. I have to hand it to Samsung for coming up with a nice design and sticking with it. The company even managed to come up with a better watch band quick-release mechanism that still allows for standard bands. If I had to come up with a gripe, it would be that the 40mm model is not available in silver—only the 44mm model comes in that color.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  One UI is Still a Great Smartwatch UI
 
 ![Samsung Galaxy Watch 7 quick settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-watch-7-4.JPG) 
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -183,6 +163,10 @@ Close
  Perhaps the most significant thing to say about the software is it feels faster, but that’s thanks to the Exynos W1000 chip. Samsung said it’s “3x faster,” but I wouldn’t go that far. That being said, the Galaxy Watch 7 is certainly the fastest Galaxy Watch I’ve used. I almost always notice a smartwatch struggle during the initial setup when a bunch of stuff is happening at once—not on the Galaxy Watch 7.
 
 ![Samsung Galaxy Watch 7 new watch faces.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/samsung-galaxy-watch-7-5.JPG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -210,27 +194,17 @@ Samsung
 
 ![samsung health features.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/samsung-watch-health.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Samsung
 
  The story is night and day compared to what Google is doing with Fitbit on the Pixel Watch series. When I use those watches, I feel like I’m being held back. But with a Samsung Galaxy Watch, I have a smorgasbord of data and features at my disposal. The Galaxy Watch 7 or Watch Ultra is the watch to get if you’re an Android user who wants the best health and fitness capabilities.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  \[Update\] Solid Battery Life Afterall
 
 ![Galaxy Watch 7 battery info](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/pxl_20240805_140450712-portrait.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -252,18 +226,15 @@ Lucas Gouveia / How-To Geek | Samsung
 
 ![Person wearing the Google Pixel Watch 2 showing the home screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/02/person-wearing-the-google-pixel-watch-2-showing-the-home-screen.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  Samsung and Google have very different approaches to their phone and watches. Google is all about simplicity and minimalism, while Samsung is not afraid to give you every feature you could imagine and more. I prefer Google’s approach when it comes to phones, but it makes me feel very restricted on a watch, especially if you do a lot of health and fitness tracking.
 
  There’s also the [Galaxy Watch Ultra](https://tiktok-clips.techidaily.com/new-how-to-amplify-your-contents-impact-a-tiktok-hashtag-guide-for-2024/) to consider. The Ultra model adds a few more “hardcore” activities to its arsenal, such as rock climbing and trekking, and better water resistance for water sports. It also has a bigger battery (590mAh vs 425mAh on the Watch 7 44mm). However, it does not have a bigger screen or a better processor, and it costs a whopping $650\. The Watch 7 is the better choice for most people.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Should You Buy the Samsung Galaxy Watch 7?
 
@@ -306,19 +277,20 @@ The Samsung Galaxy Watch 7 is Samsung's entry-level smartwatch for 2024\. It res
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/"><u>[New] 2024 Approved Unveiling the Secret Sauce for Massive TikTok Content Grabs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elite-8-android-multiparty-conferencing-solutions/"><u>[New] In 2024, Elite 8 Android Multiparty Conferencing Solutions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-boost-views-with-your-own-youtube-thumbnail-design/"><u>[Updated] Boost Views with Your Own YouTube Thumbnail Design</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-leveraging-famebits-expertise-for-maximum-youtube-affiliate-gains/"><u>[Updated] Leveraging FameBit's Expertise for Maximum YouTube Affiliate Gains</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-optimize-your-online-presence-incorporating-video-filters-in-zoom-for-2024/"><u>[Updated] Optimize Your Online Presence Incorporating Video Filters in Zoom for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-proven-pathways-to-promoting-in-vr-lands-for-2024/"><u>[Updated] Proven Pathways to Promoting in VR Lands for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-elevating-your-gaming-the-xbox-recorder-playbook/"><u>2024 Approved Elevating Your Gaming The Xbox Recorder Playbook</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-everything-from-apple-iphone-15-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer Everything from Apple iPhone 15 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/s17-pro-messages-recovery-recover-deleted-messages-from-s17-pro-by-fonelab-android-recover-messages/"><u>S17 Pro Messages Recovery - Recover Deleted Messages from S17 Pro</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-htc-u23-pro-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your HTC U23 Pro Phone Hassle-Free</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nubia-red-magic-9-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nubia Red Magic 9 Pro.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Moto G Stylus 5G (2023).</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-samsung-galaxy-a15-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-detailed-guide-to-minecraft-capturing-techniques-on-mac/"><u>[New] 2024 Approved Detailed Guide to Minecraft Capturing Techniques on Mac</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-depth-review-of-updated-videoshow-app-for-24-users/"><u>[New] In-Depth Review of Updated VideoShow App for '24 Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-guide-to-documenting-gameplay-sessions/"><u>2024 Approved Easy Guide to Documenting Gameplay Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100 Quickly | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-12-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 12 to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-pros-5-virtual-helmets-a-drone-racers-choice/"><u>In 2024, Pro's 5 Virtual Helmets A Drone Racer's Choice</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restoring-functionality-of-windows-photo-viewer-in-win11/"><u>Restoring Functionality of Windows Photo Viewer in Win11</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-stabilizing-adobe-after-effects-on-windows-11-and-10-systems/"><u>Step-by-Step Solutions for Stabilizing Adobe After Effects on Windows 11 & 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/tecno-phantom-v-flip-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Phantom V Flip Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix .</u></a></li>
+<li><a href="https://fox-that.techidaily.com/urgent-update-the-essential-reasons-to-upgrade-your-device-with-ios-153-immediately/"><u>Urgent Update: The Essential Reasons to Upgrade Your Device with iOS 15.3 Immediately</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-13-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi 13 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/why-cant-i-play-mp4-files-on-my-xiaomi-redmi-note-13-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi Redmi Note 13 5G?</u></a></li>
 </ul></div>
 

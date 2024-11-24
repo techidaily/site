@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone 12 Pro using itunes
-date: 2024-09-16T23:58:46.040Z
+date: 2024-11-22T16:33:19.393Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -33,6 +33,10 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 
 <a href="https://secure.2checkout.com/order/cart.php?PRODS=4719741&QTY=1&AFFILIATE=108875"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/EN-Dr.Fone%20970_90.png" border="0"></a>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Disabled iPhone 12 Pro Using iTunes or macOS Finder
 
 Of course, there is an official way that Apple provides for users to restore device firmware using iTunes or macOS Finder. For this, iPhone 12 Pro is put under Recovery Mode manually and Finder or iTunes is used to reinstall software on it directly from Apple. This process is fine for people who are conversant in tech, since this process can throw up a lot of errors that are just numbers, and people can get confused as to what they mean, resulting in frustration.
@@ -62,13 +66,6 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 12 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3**: Follow the provided instructions to start the disabled iPhone 12 Pro in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -96,16 +93,7 @@ Find My is available both online via the iCloud website and on iOS devices and o
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3**: Click Erase iPhone and confirm.
@@ -119,13 +107,6 @@ There are times you have another iOS device in the family or just lying around, 
 - **Step 1**: Open the Find My app on your other iOS device or Mac.
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2**: Select your disabled iPhone 12 Pro from the devices from the left pane, click/ tap your disabled iPhone 12 Pro and click/ tap Erase This Device
 
@@ -147,6 +128,11 @@ As you may be aware, using iTunes or macOS Finder allows you to backup and resto
 
 
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone 12 Pro with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your iPhone 12 Pro with Face ID:
@@ -163,18 +149,15 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone 12 Pro
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
 
 ![What is Face ID?](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/5.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Setting up and using Attention Aware features is easy:
 
@@ -217,10 +200,7 @@ Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to selec
 ![Animojis and Memojis](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/7.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
@@ -235,7 +215,15 @@ Tap Send to send your first Memoji/ Animoji.
 
 ![Checking If Your Apple ID Is Locked](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/2.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 A locked Apple ID is rather unmistakable. Your iPhone 12 Pro would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Locked iPhone 12 Pro by Restoring it to Default Settings – iTunes
 
@@ -251,7 +239,16 @@ Let us show you how to unlock iPhone 12 Pro without using a passcode;
 4. After the summary screen is opened, you will see the option of 'Restore iPhone'; click on that option. 
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/8.avif)
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. As soon as that is done and iTunes has finished the process, your iPhone 12 Pro will be restored to default settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to use Face ID on iPhone 12 Pro to make purchases in App Store, Book Store, and iTunes Store
 
@@ -259,26 +256,12 @@ Let us show you how to unlock iPhone 12 Pro without using a passcode;
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/2.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step2**: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/3.avif)
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 When done, a satisfying ting and a checkmark will confirm the action.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Unlock iPhone 12 Pro without Passcode or Face ID
 
@@ -343,19 +326,6 @@ Sometimes, you may just want to disable Face ID temporarily or the issue gets so
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/10.avif)
 
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4**: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
 - **Step 5**: When done, tap Done.
@@ -363,6 +333,10 @@ Sometimes, you may just want to disable Face ID temporarily or the issue gets so
 In case you are getting the following error:
 
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/11.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 There are a few things you can try to resolve this, you can try to update your iPhone 12 Pro to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
@@ -382,5 +356,24 @@ If this does not resolve it, you need to take the device to the nearest service 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-in-depth-examination-lg-bp350-screen-specifications-and-reviews/"><u>[Updated] In-Depth Examination LG BP350 Screen Specifications and Reviews</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/1728472012353-1-windows-11/"><u>1. Windows 11 で効率的なディスクイメージの作り方 - 手順ガイド</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/full-guide-to-bypass-tecno-camon-20-premier-5g-frp-by-drfone-android/"><u>Full Guide to Bypass Tecno Camon 20 Premier 5G FRP</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic-vs-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic Vs 2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-gt-10-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix GT 10 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-bringing-down-the-time-barrier-for-fastening-fb-video-content/"><u>In 2024, Bringing Down the Time Barrier for Fastening FB Video Content</u></a></li>
+<li><a href="https://extra-information.techidaily.com/optimal-webcams-to-improve-your-zoom-video-interactions/"><u>Optimal Webcams to Improve Your Zoom Video Interactions</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-oppo-find-x6-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Oppo Find X6 Pro</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-best-sites-for-distance-learning-and-e-courses/"><u>The Ultimate Guide to the Best Sites for Distance Learning and E-Courses</u></a></li>
+<li><a href="https://article-tips.techidaily.com/the-ultimate-list-of-top-15-affordable-photo-enhancement-tools-for-2024/"><u>The Ultimate List of Top 15 Affordable Photo Enhancement Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oneplus-nord-n30-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on OnePlus Nord N30 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-100-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 100 Pro without backup.</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-time-lapse-tutorial-create-stunning-videos-in-minutes/"><u>Updated In 2024, Final Cut Pro Time Lapse Tutorial Create Stunning Videos in Minutes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/windows-pc-broadcasting-manual-a-comprehensive-live-tv-recording-guide-for-2024/"><u>Windows PC Broadcasting Manual A Comprehensive Live TV Recording Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70e-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-k70e-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi K70E Messages Recovery - Recover Deleted Messages from Xiaomi Redmi K70E</u></a></li>
+</ul></div>
 

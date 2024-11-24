@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-11-09T02:35:29.217Z
-updated: 2024-11-14T10:08:09.143Z
+date: 2024-11-20T17:44:37.836Z
+updated: 2024-11-23T19:15:09.084Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ---
 
 ## Decoding X: Tracing the Origins of Linux's Iconic Symbol
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,13 +34,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -68,16 +62,7 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -98,20 +83,11 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-Dave McKay/How-To Geek
-
 <!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Dave McKay/How-To Geek
 
 ##  Linus Torvalds and Freax
 
@@ -124,6 +100,10 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -162,24 +142,20 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-strategies-for-improved-video-zoom-during-virtual-gatherings-google-meet/"><u>[Updated] 2024 Approved Strategies for Improved Video Zoom During Virtual Gatherings (Google Meet)</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-in-depth-evaluation-hero4-black-experience/"><u>2024 Approved In-Depth Evaluation Hero4 Black Experience</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-narzo-60x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Narzo 60x 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco C50 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/conversion-sin-costo-de-archivos-wma-a-flac-por-internet-utilice-el-programa-gratuito-de-movavi-para-una-mejor-calidad/"><u>Conversión Sin Costo De Archivos WMA a FLAC Por Internet, Utilice El Programa Gratuito De Movavi Para Una Mejor Calidad</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-15-how-to-unlock-a-disabled-apple-iphone-15-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 15 How to Unlock a Disabled Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-everyday-narratives-gratuitous-facebook-enhancers-for-2024/"><u>Elevate Everyday Narratives Gratuitous Facebook Enhancers for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x90s-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X90S If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-meizu-21-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Meizu 21 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-realme-c53-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Realme C53 Data? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-motorola-moto-g73-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Motorola Moto G73 5G Fingerprint Lock</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-15-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 15 When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pinnacle-cars-secret-code-solvers-2024-insights/"><u>Pinnacle Cars' Secret Code Solvers - 2024 Insights</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo A1x 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x-fold-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X Fold 2 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-true-environmental-impact-of-electric-cars/"><u>Unveiling the True Environmental Impact of Electric Cars</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-agrarian-aesthetics-stardew-clones-and-cousins/"><u>[New] 2024 Approved Agrarian Aesthetics Stardew Clones and Cousins</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-navigating-macos-to-optimize-mixer-streams/"><u>[New] 2024 Approved Navigating MacOS to Optimize Mixer Streams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-elevate-your-presence-online-capture-high-definition-webcam-footage-in-vlc/"><u>[New] Elevate Your Presence Online Capture High-Definition Webcam Footage in VLC</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-v27-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V27 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-lenovo-thinkphone-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Lenovo ThinkPhone Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-levelplay-combat-air-ca4-cpu-coolers-silent-powerful-cooling-efficiency/"><u>Expert Analysis of Levelplay Combat Air CA4 CPU Cooler's Silent, Powerful Cooling Efficiency</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-6-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 6 Space | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-edge-2023-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Edge 2023.</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-14-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-concoct-chuckles-giphy-edition/"><u>In 2024, Concoct Chuckles - Giphy Edition</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-explore-largest-collection-of-free-vector-graphics-portals/"><u>In 2024, Explore Largest Collection of Free Vector Graphics Portals</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y77t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y77t FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-agni-2-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Agni 2 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel P40+ | Dr.fone</u></a></li>
 </ul></div>
 

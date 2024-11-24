@@ -1,7 +1,7 @@
 ---
 title: Capture Crystal Clear Audio on Your iPhone Using These 8 FREE Techniques
-date: 2024-11-11T21:54:39.829Z
-updated: 2024-11-13T18:52:02.171Z
+date: 2024-11-22T16:37:54.840Z
+updated: 2024-11-24T06:14:34.617Z
 tags:
   - mobile
 categories:
@@ -25,19 +25,6 @@ Close
 
  There is a catch, though. High-resolution files take up much more storage space than compressed files, so you likely won't want to record everything this way.
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Position the Phone Wisely
 
  The position of your iPhone greatly affects the sound. First, point the mic toward the sound source as this will pick up frequencies more clearly. You also need to place the phone just far away enough from the sound source that you don't pick up on unwanted noises like breathing. You don't want to be too far away, as this can lead to the recording not being loud enough.
@@ -53,10 +40,7 @@ Close
 ![iPhone's microphone and speaker grill.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/iphone-s-microphone-grill.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -69,6 +53,10 @@ Justin Duino / How-To Geek
 
  You can choose to mute the phone, but it could still vibrate and mess with the recording. The easiest solution is to flip on airplane mode and turn it off when you're done, as this ensures no notifications come through. However, if you need to use the internet while recording, you can [set your phone to Do Not Disturb using Focus](https://instagram-video-recordings.techidaily.com/updated-storystitcher-compelling-collage-for-instagram-users-for-2024/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prepare the Environment
 
  Capturing a flawless recording requires isolating the microphone from any outside noise. As such, you need to choose the right recording space. Choose an environment with enough soundproofing material, like a living room with thick carpet and drapes as opposed to a bathroom or kitchen with lots of hard surfaces that reflect sound, producing echoes. I find that the smaller the space, the better. So, if you have a small closet, especially one with lots of clothes for soundproofing, this setting is the ideal space for recording.
@@ -78,10 +66,7 @@ Justin Duino / How-To Geek
  You can take it even further and get under a blanket with the iPhone, which reduces noise reflections. But only do so as long as it doesn't hinder your ability to record.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Download a Better Sound Recording App
@@ -90,24 +75,25 @@ Justin Duino / How-To Geek
 
 [Dolby On](https://www.dolby.com/apps/dolby-on/) is a great all-round option with plenty of helpful free features like noise reduction, dynamic EQ, stereo widening, compression, and fades. If you need recordings for work settings, consider an app like [Otter](https://otter.ai/), which uses AI to automate voice transcripts. However, while Otter has a free trial you can use, it only lasts a month.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Remove the Phone Case
 
  If you have a thick or dirty case, it can cause recordings to come across as muffled. Sometimes cases even have designs that fail to account for the microphone, which is especially common with cheaper brands. Not all cases hinder your recordings but always inspect your case to make sure it won't.
 
 ![Bellroy Bio Phone Case being held by a human hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-being-held-by-a-human-hand.JPG) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Tyler Hayes / How-To Geek
 
 The Bellroy Bio Phone Case being held after being buried for five months.
 
  To check if your case might negatively affect recording quality, run a test where you record the exact same thing in the same environment. First, record with the case on, and then again with the case off. The difference may not be dramatic, but will likely be obvious enough to see if the playback is affected by your case.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Bonus Tip: Use an Apple Watch as a Discreet Microphone
 
@@ -134,16 +120,21 @@ The Bellroy Bio Phone Case being held after being buried for five months.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-aesthetic-video-upgrade-implement-lc-overlay-and-black-bars-on-facebook/"><u>[New] In 2024, Aesthetic Video Upgrade Implement LC Overlay & Black Bars on Facebook</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-the-basics-a-thorough-guide-to-using-mobizen-recorders/"><u>[New] Mastering the Basics A Thorough Guide to Using Mobizen Recorders</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>2024 Approved Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-razr-40-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/deep-dive-inside-the-dji-inspire-2/"><u>Deep Dive Inside the DJI Inspire 2</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/directing-tweeted-vids-to-fb-audiences-for-2024/"><u>Directing Tweeted Vids to FB Audiences for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-find-n3-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Find N3</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-pro-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 Pro using find my iphone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-top-mp4-to-facebook-video-converter-2023-edition/"><u>[New] 2024 Approved Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-rapid-revamp-of-images-navigating-the-photos-editor-in-win10/"><u>[Updated] Rapid Revamp of Images Navigating the Photos Editor in WIN10</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-enrich-your-photographic-expression-techniques-for-inserting-text-onto-images/"><u>2024 Approved Enrich Your Photographic Expression Techniques for Inserting Text Onto Images</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovating-beyond-boundaries-revitalizing-vr-content/"><u>2024 Approved Innovating Beyond Boundaries Revitalizing VR Content</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/59318882-create-captivating-yt-thumbnails-fast/"><u>Create Captivating YT Thumbnails Fast</u></a></li>
+<li><a href="https://techtrends.techidaily.com/escape-the-subscription-bill-smart-ways-to-enjoy-netflix-without-paying/"><u>Escape the Subscription Bill: Smart Ways to Enjoy Netflix Without Paying</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-mix-fold-3-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Mix Fold 3 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-cyberpunk-2077s-resource-hogging-issues-a-guide/"><u>Overcoming Cyberpunk 2077’S Resource Hogging Issues - A Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/real-time-revelations-does-software-trump-hardware-for-2024/"><u>Real-Time Revelations Does Software Trump Hardware for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-xiaomi-redmi-note-12-4g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Xiaomi Redmi Note 12 4G.</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-12-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi 12 can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtube-earning-novice-navigators-essential-guide-for-2024/"><u>YouTube Earning Novice Navigator's Essential Guide for 2024</u></a></li>
 </ul></div>
 

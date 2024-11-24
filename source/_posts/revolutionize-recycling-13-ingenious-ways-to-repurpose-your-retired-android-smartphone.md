@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone"
-date: 2024-11-07T04:10:32.331Z
-updated: 2024-11-14T08:01:06.603Z
+date: 2024-11-21T04:33:16.828Z
+updated: 2024-11-24T06:42:34.044Z
 tags:
   - mobile
 categories:
@@ -30,10 +30,7 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Repurpose It as a Storage Device 
@@ -41,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  One of the most versatile ways to use a phone is as a storage device in place of an external drive. Sure, USB sticks are small and inexpensive, and [external SSDs](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) can reach insanely fast transfer speeds, but they also cost money to buy, whereas you already have an old phone. Plus, they don't usually support Bluetooth or Wi-Fi for wireless transfers or screens and speakers to show and play your stored media.
 
  You probably won't get a lot of mileage from a 16GB phone, but even a 32GB phone can [store](https://www.kingston.com/en/memory-cards/storage-chart) 26,786 12MP photos, 10,417 songs that are 3MB each, or 168 minutes of 1080p video. The real-world numbers would be slightly lower since the operating system takes up a few gigabytes, but those are still substantial numbers. Not to mention that many old Android phones have SD card slots, allowing you to [expand the storage](https://some-skills.techidaily.com/updated-thankful-discoveries-unlimited-outro-options/) significantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Use It as a Mini Smart Speaker 
 
@@ -60,39 +61,16 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  Granted, you can do this with your main phone as well, but I like to immerse myself when I watch content. It's better to have a dedicated phone remote that isn't logged in to anything, especially with an easily distracted family.
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5  Use It as a Mini Car Multimedia and Dash Cam 
 
  I'm all in favor of retrofitting touchscreens in old cars to get modern features like Android Auto, Google Maps, and Spotify. However, if you don't want to spend money on a car stereo and spend several hours figuring out the wiring, just hook up an old phone to the stereo. The phone can [double as a dash cam](https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/), so if it's plugged in, it can act as a permanent multimedia solution for your car that doesn't rely on your main phone.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6  Strap It to Your Bicycle 
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -102,6 +80,10 @@ Joe Fedewa / How-To Geek
 ## 7  Leave It in Your Kitchen 
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Use It as a PC Webcam 
 
@@ -113,6 +95,10 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
  There's actually a [native webcam option](https://some-knowledge.techidaily.com/2024-approved-horned-gods-hearing-essential-websites-for-got-sound-files/) in the latest Pixel and Motorola phones; a universal wireless webcam solution is also present in [Windows 11](https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-iphone-6s-by-drfone-ios/). You can also try some [third-party solutions](https://win11-tips.techidaily.com/boosted-efficiency-expert-tips-for-optimizing-bar-use/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9  Turn It Into a Security Camera or Baby Monitor 
 
  Your old phone already has everything that you need in a security camera—a solid camera, microphone, Wi-Fi, and storage. Smart security cameras are expensive and arguably [more prone to hacking](https://remote-screen-capture.techidaily.com/updated-webcam-ingenuity-for-productivity-boost/) than smartphones, though you shouldn't fully trust a phone running an outdated version of Android, either, so exercise caution. Follow our guide to [turn your old phone into a security camera](https://facebook-video-content.techidaily.com/updated-2024-approved-top-score-facebooks-1-10-music-video-showcase/).
@@ -120,13 +106,6 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 ## 10  Use It as a Cheap Handheld 
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jason Montoya / How-To Geek
 
@@ -140,16 +119,13 @@ Jason Montoya / How-To Geek
 
  If you're a music producer, you can leave an old phone permanently on a phone holder to use it as a DAW controller. The touch screen makes for a perfect DAW control surface, as demonstrated in the following video:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -172,18 +148,22 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024s-excellent-frames-for-your-pics/"><u>[New] 2024'S Excellent Frames for Your Pics</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-kinemasters-dominance-in-the-android-gaming-arena-reviewed/"><u>[New] KineMaster's Dominance in the Android Gaming Arena Reviewed</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-dji-drone-artistry-unlocked-first-20-free-lutts-available/"><u>[Updated] DJI Drone Artistry Unlocked – First 20 Free LUTTs Available</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-economical-cloud-lofting-efficient-storage-at-minimal-price/"><u>2024 Approved Economical Cloud Lofting Efficient Storage at Minimal Price</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-personalized-youtube-channel-urls-simple-steps-guide/"><u>2024 Approved Mastering Personalized YouTube Channel URLs Simple Steps Guide</u></a></li>
-<li><a href="https://win-forum.techidaily.com/2024-khta-altrgma-ahdth-azyaaa-movavi-lms/"><u>2024 خطة الترجمة: أحدث أزياء Movavi - لمص高</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Note 50? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-blade-a73-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Blade A73 5G</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://windows11.techidaily.com/techniques-for-stifling-random-cmd-entrance/"><u>Techniques for Stifling Random CMD Entrance</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-filter-techniques-for-professional-level-posts/"><u>[New] Instagram Filter Techniques for Professional-Level Posts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>[Updated] In 2024, Compreenhensive Review DJI's New Drone, The Inspire 1</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-amplify-in-game-voices-naturally-step-by-step-process-for-free-fire-players/"><u>[Updated] In 2024, How to Amplify In-Game Voices Naturally Step-by-Step Process for Free Fire Players</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-blueprint-for-designing-eye-catching-thumbnails-for-your-youtube-channel/"><u>[Updated] The Blueprint for Designing Eye-Catching Thumbnails for Your YouTube Channel</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-mastering-instagrams-newest-feature-reels-explained/"><u>2024 Approved Mastering Instagram's Newest Feature Reels Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-social-media-elite-writes-back-six-essential-tips-to-elevate-your-instagram-presence/"><u>2024 Approved The Social Media Elite' Writes Back Six Essential Tips to Elevate Your Instagram Presence</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/alteremailonprotonbrowser-a-step-by-step-guide/"><u>AlterEmailOnProtonBrowser: A Step-By-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a1-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A1 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-12-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 12 Pro+ 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-moto-g14-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Moto G14</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/step-by-step-guide-to-capturing-full-file-and-folder-urls-on-your-windows-11-system/"><u>Step-by-Step Guide to Capturing Full File & Folder URLs on Your Windows 11 System</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138587173-9781452533551-the-journey-of-a-humbled-heart/"><u>The Journey of a Humbled Heart | Free Book</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-y77t-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo Y77t without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Pova 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C12 | Dr.fone</u></a></li>
 </ul></div>
 

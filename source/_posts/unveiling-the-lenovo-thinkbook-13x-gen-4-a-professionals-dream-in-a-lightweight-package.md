@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package"
-date: 2024-11-09T22:57:40.004Z
-updated: 2024-11-14T10:31:59.162Z
+date: 2024-11-18T00:17:07.024Z
+updated: 2024-11-23T22:25:54.579Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
  Anyone looking for a premium laptop that's highly portable but doesn't skimp on top-tier specs will want to consider the [Lenovo ThinkBook 13x Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036). While it falls short in a few areas, its overall performance is stellar enough to win over most professional and everyday consumers who create and consume media regularly.
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -49,10 +53,7 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Price and Availability
@@ -145,6 +146,10 @@ Jerome Thomas / How-To Geek
 
  The keyboard is a 10keyless chiclet affair that takes up about half of the laptop's base, and the buttonless touchpad rests underneath it in a nearly central location.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Ports: Just the Basics** 
 
  If you need a lot of ports on your laptop, you may want to invest in a [USB-C hub](https://extra-approaches.techidaily.com/2024-approved-joint-venture-campaigns-for-brands-on-video-platforms/) if you plan to purchase the Lenovo ThinkBook 13x Gen 4.
@@ -158,10 +163,7 @@ Close
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
@@ -178,16 +180,13 @@ Jerome Thomas / How-To Geek
 
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -230,22 +229,12 @@ Jerome Thomas / How-To Geek
  When I ran a benchmark with 3DMark's Time Spy, the ThinkBook 13x scored an overall 3,456\. The CPU scored 7,876, while the graphics scored significantly lower at 3,145\. Playing "Red Dead Redemption 2" at 1080p would give a frame rate of 40FPS, while the ThinkBook 13x could eke out up to 120FPS during Apex Legends at 1080p.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Speakers, Camera, and Microphones
 
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -263,29 +252,23 @@ Close
 
  Singing or speaking at louder volumes also triggered the noise cancellation to come on rather strongly, and it drowned out particular high tones of speech or voice.
 
-### 
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 
+
+### 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -294,10 +277,7 @@ Jerome Thomas / How-To Geek
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
@@ -333,18 +313,24 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/our-journey-through-the-maze-of-uploading-videos-on-youtube/"><u>[New] Your Journey Through the Maze of Uploading Videos on YouTube</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-never-miss-a-moment-with-free-world-cup-live-streaming/"><u>2024 Approved Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-oppo-reno-10-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Oppo Reno 10 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 9A Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/decoding-misleading-game-spots-insights-galore/"><u>Decoding Misleading Game Spots: Insights Galore</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/diy-solutions-restoring-functionality-of-your-hyperx-alpha-gaming-mic/"><u>DIY Solutions: Restoring Functionality of Your HyperX Alpha Gaming Mic</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-zte-nubia-z60-ultra-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast ZTE Nubia Z60 Ultra to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-c53-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme C53 without backup.</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-why-chatgpt-falls-short-in-crypto-trading-insights-5-reasons/"><u>Understanding Why ChatGPT Falls Short in Crypto Trading Insights (5 Reasons)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secret-of-sharing-precise-links-a-magical-shortcut-to-any-item-on-amazon/"><u>Unlocking the Secret of Sharing Precise Links: A Magical Shortcut to Any Item on Amazon</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X Flip Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-ajay-the-creative-content-creators-profitable-venture-on-youtube/"><u>[New] 2024 Approved AJay The Creative Content Creator's Profitable Venture on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-riding-secure-the-creme-de-la-cam-selection-for-motorcyclists/"><u>[New] In 2024, Riding Secure - The Crème De La Cam Selection for Motorcyclists</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-recording-movies-best-practices-with-windows-11-for-2024/"><u>[New] Recording Movies Best Practices with Windows 11 for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-reviving-retro-shots-step-by-step-for-image-conversion-and-curation/"><u>[Updated] 2024 Approved Reviving Retro Shots Step-by-Step for Image Conversion & Curation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-cutting-edge-strategies-for-fb-live-broadcasts-and-recordings/"><u>[Updated] In 2024, Cutting-Edge Strategies for FB Live Broadcasts and Recordings</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-elite-tripods-the-best-8-for-4k-video-capture/"><u>2024 Approved Elite Tripods The Best 8 for 4K Video Capture</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-far-can-you-push-the-chatgpt-token-threshold/"><u>How Far Can You Push the ChatGPT Token Threshold?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Pova 6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-reno-11f-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 11F 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/navigating-the-world-of-gadgets-and-systems-the-ultimate-resource-by-toms-hardware/"><u>Navigating the World of Gadgets & Systems – The Ultimate Resource by Tom's Hardware</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v10-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.0 File | Stellar</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-c51-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme C51 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-undetected-hard-drives-effective-strategies-solved/"><u>Troubleshooting Undetected Hard Drives – Effective Strategies [SOLVED]</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-tecno-spark-20-proplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-xs-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone XS Max without Passcode</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-e13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto E13 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

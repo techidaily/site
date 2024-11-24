@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-11-10T09:07:46.416Z
-updated: 2024-11-14T04:27:11.111Z
+date: 2024-11-19T19:23:41.705Z
+updated: 2024-11-24T04:52:51.627Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Accounts are hacked, leading to financial scams disguised as investment opportunities.
@@ -19,23 +23,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Facebook Accounts Are Getting Hacked
 
 [Facebook account hacking](https://youtube-sure.techidaily.com/ed-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/) is a pernicious issue, and even tech-savvy users can get caught out since these attacks are so relentless. You need to be lucky all the time, but the hacker only has to be lucky once. If nothing else, this means you should always treat anything posted by your friends on Facebook as potentially suspicious. Most importantly, if you have another way of contacting someone besides Facebook, you should confirm any information they post on a separate channel. Give them a call, or call someone who lives with them, and confirm the information before acting on it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Criminals Know You Trust Your Friends More Than Strangers
 
@@ -44,10 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
@@ -62,16 +49,13 @@ An example of a trading offer. Note how the text invites users to send direct me
 
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Those Banking Screenshots Are Easy to Fake
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-january-5-2021-1887366490)_
 
@@ -79,9 +63,17 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
 
  The most obvious question you should be asking yourself, is why this person is so desperate to share this "investment" opportunity in the first place? What do they stand to gain? Either the account is hacked, or the person is complicit and is taking money in exchange for roping more people into the scam,
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
@@ -108,18 +100,19 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-online-aggregators-for-securing-affiliates-on-googles-platform/"><u>[New] 2024 Approved Online Aggregators for Securing Affiliates on Google's Platform</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-10-creative-igtv-tactics-for-brands-to-embrace-for-2024/"><u>[New] Essential 10 Creative IGTV Tactics for Brands to Embrace for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-pigments-and-palettes-the-artists-guidebook-for-2024/"><u>[Updated] Pigments & Palettes The Artist's Guidebook for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-msi-gs65-experience-free-download-of-optimized-windows-drivers-here/"><u>Boost Your MSI GS65 Experience - Free Download of Optimized Windows Drivers Here!</u></a></li>
-<li><a href="https://article-files.techidaily.com/enhanced-audio-guide-engaging-interview-topics-for-2024/"><u>Enhanced Audio Guide Engaging Interview Topics for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-lava-blaze-2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Blaze 2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nubia-red-magic-8s-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nubia Red Magic 8S Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a23-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A23 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oneplus-openfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your OnePlus OpenFRP Lock</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/innovating-images-10-smartphone-front-runners-for-media-makers/"><u>Innovating Images 10 Smartphone Front-Runners for Media Makers</u></a></li>
-<li><a href="https://solve-popular.techidaily.com/top-ranking-sicherheitsfahiges-systemsoftware-zum-klonen-von-speichermedien-fur-wd-festplatten/"><u>Top-Ranking Sicherheitsfähiges Systemsoftware Zum Klonen Von Speichermedien Für WD Festplatten</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-create-engaging-reaction-content-with-these-mobile-apps/"><u>Updated In 2024, Create Engaging Reaction Content with These Mobile Apps</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-overview-of-final-cut-pro-techniques/"><u>[New] Comprehensive Overview of Final Cut Pro Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>2024 Approved 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-cutting-edge-screens-the-7-top-choices-pixel-artists/"><u>2024 Approved Cutting-Edge Screens The 7 Top Choices Pixel Artists</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-clearer-livestreams-with-these-4-tips/"><u>2024 Approved Unlock Clearer Livestreams with These 4 Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-minmax-cpu-values-through-windows-menus/"><u>Deciphering Min/Max CPU Values Through Windows Menus</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-xcover-6-pro-tactical-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy XCover 6 Pro Tactical Edition Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>In 2024, Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-urban-jungles-and-beyond-top-10-without-gta/"><u>In 2024, Urban Jungles and Beyond - Top 10 Without GTA</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-not-working-heres-what-to-do/"><u>One AirPod Not Working? Here's What to Do</u></a></li>
+<li><a href="https://techidaily.com/sign-xltm-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xltm files Online for Free</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-lava-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Lava</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Adjust Image Dimensions on Your iPhone/iPad
-date: 2024-11-12T02:05:33.358Z
-updated: 2024-11-13T19:07:01.462Z
+date: 2024-11-18T23:00:20.816Z
+updated: 2024-11-23T17:32:50.694Z
 tags:
   - mobile
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The editor in the Photos app is quite feature-rich, but you can't change the file size of photos. Luckily, you can use a shortcut or a third-party app to resize or reduce photo size on iPhone and iPad. Here's how.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Resize a Photo Using Shortcuts
 
  If you need to reduce a photo's resolution or file size, look no further [than the Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/). Shortcuts is Apple's built-in automation tool that helps you create your own tools and simplify multi-step processes that you perform frequently.
@@ -34,10 +27,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Creating an Image Resize Shortcut
@@ -58,19 +48,14 @@ Close
 
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Adding the Shortcut to the Share Sheet
@@ -83,6 +68,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Using the Shortcut to Resize an Image
 
  You're all done in the Shortcuts app. Next, launch Photos on your iPhone or iPad. In Photos, select a photo (or the photos) that you want to resize and tap the "Share" button (which looks like a square with an arrow pointing upward from it).
@@ -94,10 +83,7 @@ Close
  If you tried increasing the size of an image and it came out blurry or pixelated, you can [try a free or paid AI tool to upscale it](https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) instead.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Resize a Photo Using a Third-Party App
@@ -135,18 +121,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-optimizing-content-sharing-from-twitters-to-snaps-for-2024/"><u>[Updated] Optimizing Content Sharing From Twitters to Snaps for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-quieting-down-the-sound-a-step-by-step-logic-pro-method-for-2024/"><u>[Updated] Quieting Down the Sound A Step-by-Step Logic Pro Method for 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/charge-ahead-with-confidence-discover-the-efficiency-of-the-poweradd-pilot-pro2-for-your-electronic-essentials/"><u>Charge Ahead with Confidence - Discover the Efficiency of the POWERADD Pilot Pro2 for Your Electronic Essentials</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/diagnosing-and-repairing-problems-in-usb-mobile-hotspot-functionality/"><u>Diagnosing and Repairing Problems in USB Mobile Hotspot Functionality</u></a></li>
-<li><a href="https://location-social.techidaily.com/does-realme-narzo-n53-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Realme Narzo N53 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-note-13-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi Note 13 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-gradual-amplitude-reduction-guide/"><u>In 2024, Gradual Amplitude Reduction Guide</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-the-art-of-warmth-in-winter-top-5-video-backdrop-choices/"><u>In 2024, The Art of Warmth in Winter Top 5 Video Backdrop Choices</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-honor-90-lite-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Honor 90 Lite</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-redmi-note-12t-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi Redmi Note 12T Pro on Windows</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-12-pro-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 12 Pro failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-zero-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Zero 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-tailoring-your-streamlabs-obs-experience/"><u>[New] 2024 Approved Tailoring Your Streamlabs OBS Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-audacity-wisdom-achieving-fluid-audio-transitions/"><u>[New] Audacity Wisdom Achieving Fluid Audio Transitions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-budget-friendly-drone-picks-best-bargains-for-less-than-500/"><u>[New] Budget-Friendly Drone Picks Best Bargains for Less than $500</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/digital-downtime-social-networking-havoc-strikes/"><u>Digital Downtime: Social Networking Havoc Strikes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/fix-your-safari-trouble-with-youtube-4k-videos-expert-tips-and-solutions/"><u>Fix Your Safari Trouble with YouTube 4K Videos – Expert Tips and Solutions</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-meizu-21-pro-by-drfone-android/"><u>How to Bypass FRP on Meizu 21 Pro?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-art-of-attention-secrets-to-making-your-youtube-ads-stand-out-for-2024/"><u>The Art of Attention Secrets to Making Your YouTube Ads Stand Out for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-13t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 13T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-itel-s23-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Itel S23</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-13-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 13 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

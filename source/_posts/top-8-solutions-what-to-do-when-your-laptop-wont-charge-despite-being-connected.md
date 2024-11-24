@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-11-12T23:36:44.071Z
-updated: 2024-11-13T23:38:03.817Z
+date: 2024-11-17T05:55:02.821Z
+updated: 2024-11-23T22:52:41.460Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ---
 
 ## Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
@@ -48,13 +56,6 @@ Jason Fitzpatrick / How-To Geek
 
  Your laptop may not charge if the socket in which the adapter plug is currently connected is not functioning. To verify this, insert the adapter plug into a different socket and check if your laptop starts charging. If it does, this confirms that the original socket or its corresponding switch is not working. You can contact an electrician, in this case, to have this socket repaired.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  3\. Use the Original Charger
 
  You should also ensure that you're using the original charger that came with your laptop for optimal charging. While third-party chargers may advertise [fast charging](https://snapchat-videos.techidaily.com/new-elevate-your-social-media-presence-by-pining-on-snapchat/) or other advantages, they often end up harming the device.
@@ -69,6 +70,10 @@ Jason Fitzpatrick / How-To Geek
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Aman Kumar / How-To Geek
 
  You can use a toothpick to clean the grime. However, be very gentle while cleaning, as the charging ports are very sensitive, and you might damage them if you try to remove the grime too harshly. You can also use canned air if necessary.
@@ -76,13 +81,6 @@ Aman Kumar / How-To Geek
  You should also carefully check the charging pin. Oftentimes, the charging pin will break due to uneven pressure or being inserted into the wrong port.
 
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -96,13 +94,6 @@ Aman Kumar / How-To Geek
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  6\. Download Any Available BIOS Update
 
  The [BIOS (Basic Input/Output System)](https://buynow-info.techidaily.com/experience-the-rotibox-beanie-hat-your-ideal-bluetooth-headset-with-outstanding-comfort-and-clear-sound-quality/) is a low-level system software that controls various hardware functions, including power management and battery charging. If your laptop is running an extremely outdated BIOS version, it might encounter difficulties correctly recognizing the AC adapter, potentially leading to the charging issue at hand. The solution, in this case, is to update the system BIOS.
@@ -110,10 +101,7 @@ Aman Kumar / How-To Geek
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  7\. Reinstall the Battery Drivers
@@ -129,10 +117,7 @@ Aman Kumar / How-To Geek
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
@@ -142,10 +127,7 @@ Aman Kumar / How-To Geek
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
@@ -187,22 +169,18 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/fixed-bioshock-2-remastered-crash/"><u>[FIXED] BioShock 2 Remastered Crash</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-in-game-recording-a-comprehensive-review/"><u>[New] 2024 Approved In-Game Recording A Comprehensive Review</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-journey-to-high-definition-mastering-sdr-to-hdr-conversion/"><u>2024 Approved Journey to High Definition Mastering SDR to HDR Conversion</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-sony-snapshot-standstill-no-video-viewing/"><u>2024 Approved Sony Snapshot Standstill No Video Viewing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-huawei-enjoy-60x-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Huawei Enjoy 60X</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-13-ultra-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi 13 Ultra Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-reno-10-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Reno 10 Pro+ 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m34-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M34 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726220974741-movavi/"><u>Movavi: 신규 보조제 내역과 일반 방어 기능</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-to-leveraging-dall-e-on-microsoft-bing-at-no-cost/"><u>Step-by-Step Guide to Leveraging DALL-E # on Microsoft Bing at No Cost</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-xiaomi-redmi-a2plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-100-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor 100 Pro</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/understanding-error-1067-why-does-my-windows-task-terminate-suddenly/"><u>Understanding Error 1067: Why Does My Windows Task Terminate Suddenly?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-digital-self-portrait-designing-your-animated-profile-for-2024/"><u>[New] Digital Self-Portrait Designing Your Animated Profile for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-vloggers-solution-excellent-camera-stabilization/"><u>[New] Vloggers' Solution Excellent Camera Stabilization</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unveiled-list-leading-top-10-facebook-video-downloaders-for-android/"><u>[Updated] In 2024, Unveiled List Leading Top 10 Facebook Video Downloaders for Android</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-ultimate-guide-to-macro-videography-techniques-for-2024/"><u>[Updated] Ultimate Guide to Macro Videography Techniques for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/fixing-non-functional-airdrop-between-iphones-ipads-and-macs/"><u>Fixing Non-Functional AirDrop Between iPhones, iPads & Macs</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-g54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola G54 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-s17-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo S17</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-realme-narzo-60-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Realme Narzo 60 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-moto-g24-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Moto G24</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-14-pro-max-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 14 Pro Max SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-se-2020-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE (2020) SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-transform-your-videos-on-mac-with-mkvtoolni/"><u>Updated 2024 Approved Transform Your Videos on Mac with MKVtoolni</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-11-11T20:46:11.976Z
-updated: 2024-11-14T04:10:53.470Z
+date: 2024-11-20T02:25:27.129Z
+updated: 2024-11-24T04:17:57.897Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,15 +41,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Hardware and Sound' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/1-hardware-sound-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the following screen, select "Power Options".
 
 !['Power Options' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-power-options-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From the left sidebar, select "Choose What Closing the Lid Does".
@@ -59,10 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Sleep Mode on Your Windows PC
@@ -73,22 +75,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Change When the Computer Sleeps' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sleep-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
 
 !["Put the Computer to Sleep" and "Save Changes" highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-disable-windows-sleep.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -110,20 +102,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-capture-every-moment-the-premier-8-free-screen-capture-apps-for-android/"><u>[New] Capture Every Moment The Premier 8 Free Screen Capture Apps for Android</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-rise-to-editing-greatness-with-our-top-10-youtube-tips/"><u>[New] Rise to Editing Greatness with Our Top 10 YouTube Tips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>[Updated] Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
-<li><a href="https://techidaily.com/5-superior-iphones-for-gamers-find-your-ideal-mobile-arcade-companion/"><u>5 Superior iPhones for Gamers: Find Your Ideal Mobile Arcade Companion!</u></a></li>
-<li><a href="https://techidaily.com/1722973466101-download-and-install-sony-vaio-drivers-on-your-windows-pc/"><u>Download & Install Sony Vaio Drivers on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/expert-analysis-jackery-powerbank-with-integrated-ac-output-a-comprehensive-review/"><u>Expert Analysis: Jackery PowerBank with Integrated AC Output - A Comprehensive Review</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-comprehensive-reviews-at-your-brand-name/"><u>Exploring the Latest in Tech: Comprehensive Reviews at [Your Brand Name]</u></a></li>
-<li><a href="https://techidaily.com/get-the-newest-amd-radeon-hd-graphics-driver-for-your-windows-7-system-here/"><u>Get the Newest AMD Radeon HD Graphics Driver for Your Windows 7 System Here</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-roundup-30-leading-free-vectr-and-illustration-sites-online/"><u>In 2024, Exclusive Roundup 30 Leading Free Vectr and Illustration Sites Online</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators/"><u>In 2024, The Green Screen Revolution Access Comprehensive Tutorials From 4 Leading YouTube Educators</u></a></li>
-<li><a href="https://techidaily.com/in-depth-evaluation-of-the-powerful-and-versatile-dell-xps-13-2-in-1-laptop/"><u>In-Depth Evaluation of the Powerful and Versatile Dell XPS 13 2-in-1 Laptop</u></a></li>
-<li><a href="https://techidaily.com/openai-launches-chatgpt-plus-for-20month-but-only-in-the-us/"><u>OpenAI Launches ChatGPT Plus for $20/Month, but Only in the US</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/seamless-audio-experience-pairing-your-samsung-soundbar-with-the-perfect-display/"><u>Seamless Audio Experience: Pairing Your Samsung Soundbar with the Perfect Display</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/synthesizing-sentences-comparing-language-bots/"><u>Synthesizing Sentences: Comparing Language Bots</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721474893141-the-ultimate-list-of-prevalent-iphone-display-troubles-fixes-inside/"><u>The Ultimate List of Prevalent iPhone Display Troubles - Fixes Inside!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-exploring-the-world-of-mycams-home-based-recording-technology/"><u>[Updated] 2024 Approved Exploring the World of MyCam's Home-Based Recording Technology</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-advanced-steps-to-record-silent-videos/"><u>[Updated] In 2024, Advanced Steps to Record Silent Videos</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/automated-lead-generation-with-cookiebot-technology/"><u>Automated Lead Generation with Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-update-your-techkey-bluetooth-adapter-with-newest-drivers-on-windows-systems-win11-win7-win8/"><u>How to Update Your Techkey Bluetooth Adapter with Newest Drivers on Windows Systems (Win11, Win7, Win8)</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-focused-adventure-getting-up-close-in-roblox-landscapes/"><u>In 2024, Focused Adventure Getting Up Close in Roblox Landscapes</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/securing-your-lenovo-laptop-on-windows-11-two-effective-strategies/"><u>Securing Your Lenovo Laptop on Windows 11: Two Effective Strategies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-setting-up-picture-mode-on-samsung-qled-4k-televisions/"><u>Ultimate Guide to Setting Up Picture Mode on Samsung QLED 4K Televisions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-digital-money-an-insight-into-what-is-cryptocurrency/"><u>Understanding Digital Money: An Insight Into What Is Cryptocurrency?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X9a Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a78-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A78 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-note-50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Note 50 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

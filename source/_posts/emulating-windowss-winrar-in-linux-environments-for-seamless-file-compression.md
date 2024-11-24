@@ -1,7 +1,7 @@
 ---
 title: Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
-date: 2024-11-13T03:28:24.734Z
-updated: 2024-11-14T03:41:53.797Z
+date: 2024-11-19T18:00:48.206Z
+updated: 2024-11-24T05:13:12.495Z
 tags:
   - desktop
 categories:
@@ -19,13 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [WinRAR Alternatives for Linux](https://win-dash.techidaily.com/update-and-installation-guide-for-insignia-bluetooth-receiver-drivers-in-windows/)
 * [Performing Multiple Operations on RARs](https://screen-mirroring-recording.techidaily.com/in-2024-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To install WinRAR on Linux, you can use Wine, a compatibility layer that translates Windows system calls to Linux system calls.
@@ -35,10 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  WinRAR is a popular archive manager for Windows that many people are familiar with. However, did you know you could use WinRAR on Linux? It’s not the rar command-line tool most people think of. Rather, you can run the same Windows graphical WinRAR tool on your Linux desktop. We'll show you how.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Install WinRAR on Linux?
@@ -81,22 +71,13 @@ wine winrar-*.exe
 
 ![WinRAR wine installation setup with different settings related to file formats, interface, and integration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once WinRAR is installed, you can launch it from the application menu.
 
 ![WinRAR on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Extracting a RAR File Using WinRAR on Linux
 
@@ -105,6 +86,10 @@ wine winrar-*.exe
  Let's consider an "example.rar" file. To extract this file, first select the file and then click on the "Extract To" button. Moreover, you can drag and drop the RAR file directly into WinRAR to extract it.
 
 ![extracting a sample.rar file in WinRAR (wine)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, select the path where you want to save the extracted file. After that, click on "OK" and wait for the extraction to be completed. You can then close WinRAR and access the extracted files.
 
@@ -116,32 +101,20 @@ wine winrar-*.exe
 
  As mentioned earlier, WinRAR officially only provides rar for Linux, which is a command-line tool. If you prefer [extracting RAR files using the command line](https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/), you can use the rar command.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  WinRAR Alternatives for Linux
 
  WinRAR is one of the best tools for managing RAR files on Windows. However, when it comes to Linux, WinRAR lacks a native graphical user interface (GUI) version. To install WinRAR GUI, you have to rely on Wine. Considering this, it's worth exploring some great alternatives to WinRAR on Linux.
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  File Roller
 
 ![File Roller on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [File Roller](https://wiki.gnome.org/Apps/FileRoller) is the default tool for managing archives on the Linux system with a [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/) desktop. This tool has a simple and intuitive GUI that lets you create, extract, and modify various archive files, such as RAR, ZIP, TAR, and others.
@@ -159,6 +132,10 @@ sudo dnf -y install file-roller-nautilus
 sudo pacman -S file-roller
 
  After installing File Roller, you can extract, add, or open any RAR file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  7-Zip
 
@@ -181,10 +158,7 @@ sudo pacman -S p7zip
  Once 7-Zip is installed, you can right-click on your file to extract and compress your files.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Xarchiver
@@ -228,22 +202,20 @@ sudo pacman -S xarchiver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-mastering-instagram-broadcasting-with-obs-a-step-by-step-guide/"><u>[New] In 2024, Mastering Instagram Broadcasting with OBS A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-youtubes-finest-ranked-by-skyrocketing-subscriber-numbers/"><u>[New] In 2024, YouTube's Finest Ranked by Skyrocketing Subscriber Numbers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-fast-track-adding-snapchat-to-your-mac/"><u>[Updated] In 2024, Fast Track Adding Snapchat to Your Mac</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-mastering-fb-status-video-downloads-a-2023-guide/"><u>[Updated] Mastering FB Status Video Downloads A 2023 Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-simplify-your-meetings-using-zoom-to-upgrade-skype/"><u>2024 Approved Simplify Your Meetings Using Zoom to Upgrade Skype</u></a></li>
-<li><a href="https://facebook.techidaily.com/bring-your-soundtrack-to-the-smallest-screen-in-fb/"><u>Bring Your Soundtrack to the Smallest Screen in FB</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/can-cybersecurity-be-compromised-by-chatbots-such-as-chatgpt-risks-to-banking-and-pcs/"><u>Can Cybersecurity Be Compromised by Chatbots Such as ChatGPT: Risks to Banking & PCs?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/evaluating-the-lamicall-tablet-support-features-and-practical-insights/"><u>Evaluating the Lamicall Tablet Support - Features and Practical Insights</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-civi-3-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Civi 3 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-13-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 13 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-samsung-galaxy-a25-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nubia Z50S Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-100-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor 100.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-se-2020-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone SE (2020) files after scanning? | Stellar</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-effortlessly-arrange-your-iphones-memories-into-ordered-albums-for-icloud/"><u>[New] 2024 Approved Effortlessly Arrange Your iPhone's Memories Into Ordered Albums for iCloud</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/earn-to-record-and-save-your-watching-experience-on-youtube-with-zero-costs/"><u>[New] Learn to Record and Save Your Watching Experience on YouTube with Zero Costs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-cinematographers-journey-shooting-top-notch-youtube-content/"><u>[Updated] The Cinematographer's Journey Shooting Top-Notch YouTube Content</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatgpt-add-ons-6-you-should-pass-on-for-more-efficient-workflows/"><u>ChatGPT Add-Ons: 6 You Should Pass On for More Efficient Workflows</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726028261884-dvditunes/"><u>DVDビデオファイルがiTunes上できれいに再生するための簡単なガイド</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y78plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y78+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Hassle-Free Solutions to Fake Location on Find My Friends Of Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pushing-boundaries-with-samsungs-ue590-monitor-review-for-2024/"><u>Pushing Boundaries with Samsung's UE590 Monitor Review for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/restoring-access-steps-to-recover-your-forgotten-ipad-unlock-code/"><u>Restoring Access: Steps to Recover Your Forgotten iPad Unlock Code</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 10 & 7</u></a></li>
 </ul></div>
 

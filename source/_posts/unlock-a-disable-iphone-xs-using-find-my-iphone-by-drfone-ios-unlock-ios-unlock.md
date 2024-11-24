@@ -1,6 +1,6 @@
 ---
 title: Unlock a disable iPhone XS using find my iphone
-date: 2024-09-23T08:09:12.548Z
+date: 2024-11-17T18:21:52.917Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -45,9 +45,17 @@ Find My is available both online via the iCloud website and on iOS devices and o
 
 ![Select your iphone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Click Erase iPhone and confirm.
 
 This will start the wipe process on your iPhone remotely and your iPhone will be reset to factory settings. You can now proceed to setup your iPhone once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Unlock Disabled iPhone XS Using iTunes or macOS Finder
 
@@ -80,13 +88,6 @@ Using [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) yo
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your iPhone easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/)'s iOS Phone Backup feature you can have that choice in your hands, just like you do with Android. [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/) allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using [Dr.Fone](https://tools.techidaily.com/ios-unlock-dr-fone-wondershare/), now you can restore just the text messages if you so want.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unlock Disabled iPhone XS Using Find My iPhone App
 
 There are times you have another iOS device in the family or just lying around, you can use that device to unlock your disabled iPhone XS. This method is particularly useful if you're traveling with family or alone, and only have family members with their own iOS devices or, say, your iPad with you. As always, note that all these methods will wipe your data from your iPhone.
@@ -112,10 +113,7 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3**: Follow the provided instructions to start the disabled iPhone XS in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
@@ -129,6 +127,10 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone XS.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your iPhone XS will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone XS prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
@@ -157,6 +159,10 @@ Here is how to use Dr.Fone - Screen Unlock (iOS) to quickly circumvent Activatio
 
 ![Follow the instructions to continue to jailbreak the iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/7.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6**: After the jailbreak, continue to agree to the terms of use and note the device details displayed are correct.
 
 - **Step 7**: As the final step, click Start Unlock.
@@ -180,13 +186,6 @@ Let us show you how to unlock iPhone XS without using a passcode;
 ![Screen Unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone/8.avif)
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. As soon as that is done and iTunes has finished the process, your iPhone XS will be restored to default settings.
 
 ## Is It Possible to Unlock iPhone XS without a Passcode?
@@ -194,13 +193,6 @@ Let us show you how to unlock iPhone XS without using a passcode;
 Unlocking an iPhone XS without a passcode is possible, but it's not as simple as entering a code. Besides, there are different methods that you can follow to unlock your iPhone XS
 
 And we are going to teach all those methods with some simple steps. So, without any further ado, let's get started.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Use Find My iPhone
 
@@ -214,6 +206,10 @@ Once you have activated the `Find My iPhone` function, then you can try it to un
 - **Step 4**: Select the 'All Devices' option at the top of the screen and select your iPhone XS from the list of devices.
 - **Step 5**: Click the 'Erase' option to confirm your action.
 - **Step 6**: Once your device has been erased, you can set it up again and use it without a passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock it with iTunes
 
@@ -234,10 +230,7 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 ![Use Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/3.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 1**: Connect your iPhone XS to the computer and launch the iTunes application.
@@ -255,9 +248,17 @@ If you are unable to unlock your iPhone XS using the above methods, you can use 
 
 ![screen unlock](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/4.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Create the connection from your iPhone XS to the computer with a lightning cable.
 
 ![create connection](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-passcode/5.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3**: Follow the image on the screen to make your device enter in `DFU mode` or `Recovery mode`.
 
@@ -275,38 +276,21 @@ Once the process is completed, your iPhone XS will be unlocked, and you can choo
 
 This is the easiest and most effective way to reset your iPhone XS passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Checking If Your Apple ID Is Locked
 
 ![Checking If Your Apple ID Is Locked](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/2.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 A locked Apple ID is rather unmistakable. Your iPhone XS would keep telling you that your Apple ID is locked for your security. Your Apple ID could be locked or disabled altogether if someone has tried to gain access to your account (and, obviously, failed). Apple would disable access to the Apple ID unless you are able to prove rightful ownership and reset the password successfully.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Activation Lock Primer
 
 Apple products are costly, and they are prized. When a 5-year-old Android device might be left alone without anyone stealing it, you cannot risk that with an iPhone 6S, even today. Apple has built an Activation Lock in its devices to deter theft and so far, as we know, it has largely succeeded. If your iPhone XS 13 gets stolen, no one else can use it with their Apple ID unless they key in the credentials it was using previously (your credentials) and, even then, Apple has bolstered iCloud Find My Activation Lock to be more restrictive. You may have to key in a lot of information ranging from your device password (if you are also using the same Apple ID on a Mac) to your iOS device passcode too, obviously, your Apple ID password. It is a system that works in favor of Apple users.
 
 Yet, in some cases, users want to get around the Activation Lock for genuine reasons, say, when you buy a used Apple device from someone. They may have forgotten to remove that device from their Apple account and Activation Lock would not let you use it. Or, you are an IT administrator, and you manage devices given out to employees. Some employees did not remove their accounts from their devices, and now those iPhones are riddled with Activation Lock. You can remove it using this step-by-step guide.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Difference Between Activation Lock and Locked Apple ID
 
@@ -334,5 +318,26 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-comparing-leading-free-and-paid-zoom-transcription-systems/"><u>[New] In 2024, Comparing Leading Free & Paid Zoom Transcription Systems</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-socialcapture-youtube-from-fb/"><u>[New] In 2024, SocialCapture - YouTube From FB</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-the-essential-guide-to-simple-iphone-screen-recording/"><u>[New] The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-honor-play-7t-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/apples-new-sound-centric-wearable-tech-expected-price-point-and-launch-details-revealed/"><u>Apple's New Sound-Centric Wearable Tech: Expected Price Point and Launch Details Revealed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-methods-to-power-cycle-or-force-restart-your-ipad-one-size-fits-all/"><u>Comprehensive Methods to Power Cycle or Force Restart Your iPad (One Size Fits All)</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y100-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y100 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/download-and-watch-peppa-pig-shows-anywhere-how-to-save-episodes-as-mp4-or-avi-files-for-offline-enjoyment/"><u>Download and Watch Peppa Pig Shows Anywhere - How to Save Episodes as MP4 or AVI Files for Offline Enjoyment</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-reno-10-pro-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo Reno 10 Pro 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-nokia-c12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-chiefs-guide-to-superior-cloud-vaults/"><u>In 2024, The Chief's Guide to Superior Cloud Vaults</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-tecno-pova-6-pro-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Tecno Pova 6 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-100-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 100 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oneplus-open-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from OnePlus Open.</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-12-pro-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from 12 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nubia Z50S Pro</u></a></li>
+</ul></div>
 

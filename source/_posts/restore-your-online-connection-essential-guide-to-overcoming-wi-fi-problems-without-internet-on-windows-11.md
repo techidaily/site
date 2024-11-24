@@ -1,7 +1,7 @@
 ---
 title: "Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11"
-date: 2024-11-12T00:53:41.267Z
-updated: 2024-11-14T07:57:11.767Z
+date: 2024-11-19T16:08:42.819Z
+updated: 2024-11-23T19:49:05.528Z
 tags:
   - desktop
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  Does your device appear connected to Wi-Fi, but you cannot access the internet? Have you encountered a message like "No Internet Access" This indicates a problem with your router, device settings, or a potential technical issue with your ISP. Take these steps to resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Problem Isn't With Your ISP
 
  Before you begin troubleshooting, you must check for any network outages from your internet service provider. Such occurrences are rare, and your provider should have notified you if there was an outage. However, it's still a good idea to double-check.
@@ -59,10 +63,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![Disabling automatic proxy detection on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/disable-automatic-proxy-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the Manual Proxy Setup section, click "Set Up" next to Use a Proxy Server, turn off the "Use a Proxy Server" toggle and click "Save."
@@ -77,35 +78,12 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the 'Manage Known Networks' settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5-opening-the-manage-known-networks-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  From there, click the "Forget" button next to each Wi-Fi network to remove it entirely from your laptop.
 
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remove the Data Limit
@@ -114,25 +92,15 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
 ![Removing the data usage limit from the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-removing-the-data-usage-limit-from-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run the Network and Internet Troubleshooter
 
@@ -140,21 +108,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Ensure the IP Address Isn't Invalid
 
@@ -162,13 +116,25 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the additional properties of a Wi-Fi network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-opening-the-additional-properties-of-a-wi-fi-network-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Confirm that IP Assignment and DNS Server Assignment are set to "Automatic ([DHCP](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-12-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/))." If they are, you're good to go.
 
 ![Checking the IP assignment and DNS server assignment settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-checking-the-ip-assignment-and-dns-server-assignment-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you see a manual entry, click the "Edit" button, select "Automatic (DHCP)" from the dropdown menu, and then click "Save."
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Update the Network Adapter Driver
 
@@ -192,11 +158,19 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Run a Few Commands in the Command Prompt
 
  If none of the previously mentioned solutions resolve the issue, run a few commands in Command Prompt to [flush the DNS cache](https://article-helps.techidaily.com/updated-in-2024-sightline-synopsis-study/), release and renew the IP address, and reset rules and network records. Type **cmd** in the Windows Search bar, and click on "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-open-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, input each of the following commands one by one and press the Enter key after adding each one:
 
@@ -225,17 +199,20 @@ ipconfig /flushdns`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-the-essential-guide-to-youtube-video-lighting-tips/"><u>[New] 2024 Approved The Essential Guide to YouTube Video Lighting Tips</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-snapsavvy-ai-revolutionizing-edit-processes-for-2024/"><u>[Updated] SnapSavvy AI Revolutionizing Edit Processes for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Lava Blaze 2 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/expert-tips-to-pinpoint-intel-processors-age-in-windows-systems/"><u>Expert Tips to Pinpoint Intel Processor’s Age in Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-xiaomi-14-ultra-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi 14 Ultra in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nokia-c12-plus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia C12 Plus Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-xiaomi-13-ultra-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Xiaomi 13 Ultra? Try These Fixes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-strategies-to-skyrocket-instagram-video-views/"><u>In 2024, Strategies to Skyrocket Instagram Video Views</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-fcpx-shortcut-bible-40-essential-commands-to-know/"><u>New In 2024, The FCPX Shortcut Bible 40 Essential Commands to Know</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-a59-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo A59 5G</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlocking-secrets-a-deep-dive-into-tesla-robots-release-timeline-cost-projections-and-cutting-edge-features-what-we-know-so-far/"><u>Unlocking Secrets: A Deep Dive Into Tesla Robot's Release Timeline, Cost Projections and Cutting-Edge Features – What We Know So Far</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-fundamental-techniques-from-video-links-to-downloaded-audios/"><u>[New] Fundamental Techniques From Video Links to Downloaded Audios</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-complete-guide-to-applying-vhs-filters-on-pconline-sites/"><u>[Updated] 2024 Approved The Complete Guide to Applying VHS Filters on PC/Online Sites</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726029651989-audacity/"><u>Audacityマニュアル：オーディオのボリューム調節手順</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-14-ultra-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi 14 Ultra Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>How to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-rejuvenate-a-non-operative-resource-monitor-in-windows-11/"><u>Quick Fixes to Rejuvenate a Non-Operative Resource Monitor in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-c51-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Realme C51 unlock screen</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-tactical-edition-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy S23 Tactical Edition Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-art-of-crafting-text-memes-quickly/"><u>The Art of Crafting Text Memes Quickly</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-90-lite-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor 90 Lite.</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-13-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 13 SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://blog-min.techidaily.com/troubleshooting-your-non-displaying-external-hdd-on-mac-computers/"><u>Troubleshooting Your Non-Displaying External HDD on Mac Computers</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-asus-rog-phone-8-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Asus ROG Phone 8.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-huawei-p60-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Huawei P60 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

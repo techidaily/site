@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu User Guide: Personalizing Your Folders with Unique Icons"
-date: 2024-11-11T23:32:07.834Z
-updated: 2024-11-13T17:10:52.431Z
+date: 2024-11-20T22:54:13.365Z
+updated: 2024-11-24T06:31:15.972Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ## Ubuntu User Guide: Personalizing Your Folders with Unique Icons
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Why Change Folder Icons on Ubuntu](https://vp-tips.techidaily.com/updated-diving-deep-into-samsung-photo-enhancers-guide/)
@@ -19,19 +23,16 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * [How to Restore a Folder's Icon to Its Default Look](https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting-on-desktop-and-mobile/)
 * [Customize Ubuntu the Way You Want](https://twitter-videos.techidaily.com/2024-approved-integrate-twitter-and-snapchat-posting-tweets-as-snaps/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To customize a folder icon on Ubuntu, right-click on the folder and select "Properties." From there, click on the current icon and choose a new icon from your files. Then, click "Open" to apply the new icon.
 * To change the folder color, install the "folder-color" utility using the "sudo apt install folder-color" command. Right-click the folder and access the "folder-color" settings. From there, select a suitable color or emblem for your folder.
 
  Want to personalize folder icons on Ubuntu? Try changing the icons or color of your folders. It helps you organize your files better, makes your folders more recognizable, and adds some flair to your Linux desktop.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Change Folder Icons on Ubuntu
 
@@ -66,10 +67,7 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![Folder icon with new look](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give a Unique Color to Your Folder Icons on Ubuntu
@@ -84,13 +82,6 @@ sudo apt install folder-color
 
 ![Command to install the folder-color extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/picture1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the installation is done, restart the Nautilus file manager using:
 
 nautilus -q
@@ -99,15 +90,16 @@ nautilus -q
 
 ![A window showing the main context menu along with the color tool sub-menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The folder icon color will be changed to blue.
 
 ![Nautilus file manager showing home directory after changing color to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, you can also add emblems to your folder icon.
@@ -124,31 +116,29 @@ nautilus -q
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Within the properties, click on the currently used custom icon shown in the "Basic" section of folder properties.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lastly, tap the "Revert" option to restore the custom icon to its default look.
 
 ![A window for reverting a custom icon to its default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You have successfully restored the folder icon to its original look.
 
 ![Nautilus file manager showing home directory after restoring icon of videos folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Similarly, if you have modified the folder color using the folder-color utility, you can also reset it to its original appearance.
 
@@ -161,13 +151,6 @@ nautilus -q
 ![Nautilus file manager showing home directory after restoring videos folder color icon to default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16.png) 
 
  The "Default" button of the folder-color extension will also revert any changes made from the folder's "Properties" section. However, any changes made using the folder-color extension, like changing the color, emblem, and others are irreversible through the "Revert" button under folder properties.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Customize Ubuntu the Way You Want
 
@@ -190,19 +173,18 @@ nautilus -q
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-the-scripted-shutdown-of-stories/"><u>[New] 2024 Approved The Scripted Shutdown of Stories</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-film-school-at-home-mastering-video-editing-via-youtube-and-alternatives/"><u>[New] In 2024, Film School at Home Mastering Video Editing via YouTube & Alternatives</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oneplus-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on OnePlus 11 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c22-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C22 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-xiaomi-redmi-a2plus-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Xiaomi Redmi A2+ Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-7-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 7 Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-proplus-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro+ 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-samsung-galaxy-s21-fe-5g-2023-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Samsung Galaxy S21 FE 5G (2023)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-key-elements-in-constructing-a-podcast-rss-feed/"><u>In 2024, Key Elements in Constructing a Podcast RSS Feed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-mini-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-v29-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo V29 Pro without backup.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-5-no-cost-aac-audio-software-best-picks-for-windows-and-mac-users/"><u>Top 5 No-Cost AAC Audio Software: Best Picks for Windows & Mac Users</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-video-file-formats-for-optimal-youtubing-a-comprehensive-guide/"><u>Top Video File Formats for Optimal YouTubing: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-y17s-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo Y17s</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[Updated] In 2024, Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-clarityai-creatives-unleash-editing-potential/"><u>2024 Approved ClarityAI Creatives Unleash Editing Potential</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/inners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/avoiding-disruptions-fixing-video-restart-error/"><u>Avoiding Disruptions: Fixing Video Restart Error</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-se-2020-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 8 | Stellar</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max System Issues? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-resolve-lg-monitor-driver-problems-in-windows-10-7-and-81-systems/"><u>How to Resolve LG Monitor Driver Problems in Windows 10, 7 and 8.1 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m54-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M54 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/regaining-control-restoring-gpeditmsc-access-in-your-windows-home-system/"><u>Regaining Control: Restoring 'gpedit.msc' Access in Your Windows Home System</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/the-best-methods-to-perform-a-factory-reset-on-windows-server-2022/"><u>The Best Methods to Perform a Factory Reset on Windows Server 2022</u></a></li>
 </ul></div>
 

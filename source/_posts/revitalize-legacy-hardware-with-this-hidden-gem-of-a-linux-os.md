@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-11-12T06:02:55.577Z
-updated: 2024-11-13T22:07:18.290Z
+date: 2024-11-22T02:49:58.626Z
+updated: 2024-11-24T01:27:23.307Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,20 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -66,9 +60,17 @@ Close
 
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Running Xubuntu
 
@@ -86,26 +88,10 @@ Close
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
@@ -143,22 +129,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-facebooks-secrets-to-impressive-cover-video-setup/"><u>[New] Facebook's Secrets to Impressive Cover Video Setup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-crafting-a-strong-introduction-url/"><u>[New] In 2024, Crafting a Strong Introduction URL</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-strategies-for-reaching-a-million-view-goal/"><u>[Updated] Master Strategies for Reaching a Million-View Goal</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/conquer-iphone-x-bugs-your-go-to-solution-for-the-seven-most-vexatious-problems/"><u>Conquer iPhone X Bugs: Your Go-To Solution for the Seven Most Vexatious Problems</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/convert-high-definition-media-effortlessly-discover-the-ultimate-guide-to-free-4k-converters-ranking-115/"><u>Convert High-Definition Media Effortlessly: Discover the Ultimate Guide to Free 4K Converters Ranking #1–#15</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-6-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 6 Plus Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-edge-40-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Edge 40 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-becoming-a-snapping-maestro-mastering-the-zoom-feature-in-snapchat/"><u>In 2024, Becoming a Snapping Maestro Mastering the Zoom Feature in Snapchat</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-transforming-gameplay-into-visual-stories-using-obs/"><u>In 2024, Transforming Gameplay Into Visual Stories Using OBS</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/jokecrafters-log-in-to-make-a-difference/"><u>JokeCrafters Log In to Make a Difference</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-find-x7-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Find X7</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-11r-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus 11R Reset Code | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/l-your-narrative-transforming-photos-to-videos-using-your-phone/"><u>Unveil Your Narrative Transforming Photos to Videos Using Your Phone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hearing-the-norths-call-top-spots-to-download-tts-files/"><u>[New] Hearing the North's Call Top Spots to Download TTS Files</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/bandicam-revisited-a-deep-dive-into-screen-recording-for-2024/"><u>Bandicam Revisited A Deep Dive Into Screen Recording for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-11-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 11 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-policy-diagnostic-service-is-down-error/"><u>How to Fix 'Policy Diagnostic Service Is Down' Error</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-amplify-your-brands-message-top-terminology-secrets/"><u>In 2024, Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6-5-ways-to-get-into-a-locked-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-audio-junction-expert-logic-pro-x-tips/"><u>In 2024, Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/initiate-your-love-quest-the-introduction-to-facebooks-matchmaking-service/"><u>Initiate Your Love Quest: The Introduction to Facebook's Matchmaking Service</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-c12-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C12 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-12-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for 12 Pro+ 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-n3-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find N3 Flip Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-the-future-of-diy-printing-with-crealitys-new-k1c-and-upgraded-ender-3-v3/"><u>Unlocking the Future of DIY Printing with Creality's New K1C and Upgraded Ender 3 V3</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-a70-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel A70 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
