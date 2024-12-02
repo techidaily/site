@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-11-18T01:44:48.994Z
-updated: 2024-11-24T03:30:19.928Z
+date: 2024-11-30T19:58:18.897Z
+updated: 2024-12-02T10:35:24.530Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ## Unraveling the Mystery: The Story Behind the 'X' In Linux
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Before the X, There Was CS](https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-video-hits-compilation/)
@@ -19,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -58,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
@@ -84,10 +80,14 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -100,6 +100,10 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -116,10 +120,6 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -142,21 +142,20 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-the-roadmap-to-a-top-ranked-facebook-profile/"><u>[New] 2024 Approved The Roadmap to a Top-Ranked Facebook Profile</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-15-youtube-openings-elevate-your-contents-impact/"><u>[New] In 2024, Top 15 YouTube Openings Elevate Your Content's Impact</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-uncovering-8-superior-online-srt-translation-tools/"><u>[New] In 2024, Uncovering 8 Superior Online SRT Translation Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-precision-techniques-for-efficient-keying-processes/"><u>[Updated] In 2024, Precision Techniques for Efficient Keying Processes</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10-igtv-channels-you-should-start-following-now-for-2024/"><u>[Updated] Top 10 IGTV Channels You Should Start Following Now for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-uniting-social-spheres-from-instagram-to-tiktok-triumphs/"><u>[Updated] Uniting Social Spheres From Instagram to TikTok Triumphs</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-top-ranked-mobile-melody-design-experts/"><u>2024 Approved Top-Ranked Mobile Melody Design Experts</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-k70-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi K70 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-zero-30-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Zero 30 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-securely-acquire-video-game-experiences-on-your-oculus-quest-2-headset/"><u>How to Securely Acquire Video Game Experiences on Your Oculus Quest 2 Headset</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/mobile-blur-apps-to-soften-images-for-2024/"><u>Mobile Blur Apps to Soften Images for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-deciphering-the-code-to-your-liked-videos-on-facebook/"><u>[New] 2024 Approved Deciphering the Code to Your Liked Videos on Facebook</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-navigate-the-world-of-video-conferencing/"><u>[New] In 2024, Navigate the World of Video Conferencing</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-travel-bloggers-blueprint-strategies-for-professional-growth/"><u>[New] In 2024, The Travel Blogger's Blueprint Strategies for Professional Growth</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-fresh-footage-feature-film-reviews/"><u>[Updated] Fresh Footage Feature Film Reviews</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-navigating-2023-a-social-media-userayers-handbook-for-fb-videos/"><u>2024 Approved Navigating 2023 A Social Media User’ayer's Handbook for FB Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-z-flip-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy Z Flip 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/cutting-cord-innovative-ways-to-connect-online-without-using-a-landline-or-cable-modem/"><u>Cutting Cord: Innovative Ways to Connect Online without Using a Landline or Cable Modem</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/purchasing-digital-e-books-on-ios-a-comprehensive-guide-with-apples-books-app/"><u>Purchasing Digital E-Books on iOS: A Comprehensive Guide with Apple's Books App</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60 on Windows</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolving-issues-with-restored-defaults-on-your-amd-radeons-gpu-software/"><u>Resolving Issues with Restored Defaults on Your AMD Radeon's GPU Software</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-pinnacle-of-artistry-highlighting-top-6-nft-creators-for-2024/"><u>The Pinnacle of Artistry Highlighting Top 6 NFT Creators for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-google-pixel-7a-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Google Pixel 7a</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-mini-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 mini Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro.</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2020-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2020) is not listed when I run the software? | Stellar</u></a></li>
 </ul></div>
 

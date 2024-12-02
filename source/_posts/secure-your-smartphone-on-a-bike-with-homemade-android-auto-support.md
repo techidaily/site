@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-11-22T04:43:50.908Z
-updated: 2024-11-23T17:39:15.315Z
+date: 2024-11-25T17:28:29.247Z
+updated: 2024-12-02T08:51:25.576Z
 tags:
   - mobile
 categories:
@@ -13,13 +13,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Putting a phone in a mount on your bike works fine, but it's not great. The biggest problem is you run the risk of damaging the phone's camera. I wanted a map and media controls easily accessible without strapping my phone to my bike. A wild idea became a reality: What if my bike had an Android Auto display?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why Not Just Mount Your Phone?
 
 ![Bone Tie 4 Pro bike mount on a road bike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/bone-tie4-mount.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Bone 
 
@@ -32,16 +32,12 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -52,7 +48,7 @@ Joe Fedewa / How-To Geek
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How It Works and What You Need
@@ -60,7 +56,7 @@ Joe Fedewa / How-To Geek
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -70,6 +66,10 @@ Joe Fedewa / How-To Geek
  Thanks to an Android app called "[Headunit Reloaded](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003756/https://play.google.com/store/apps/details?id=gb.xxy.hr)," it's possible to run Android Auto on a "dummy" phone and wirelessly connect to it with another phone via Wi-Fi Direct. After some minimal setup, all you have to do is open Headunit Reloaded on the dummy phone, tap a button in the "[WiFi Launcher](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003756/https://play.google.com/store/apps/details?id=com.borconi.emil.wifilauncherforhur&hl=en%5FUS)" companion app on your main phone, and you're up and running.
 
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -94,22 +94,24 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-5-prime-fb-video-extractor-guide/"><u>[New] 5 Prime FB Video Extractor Guide</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-techniques-crafting-unique-boomerangs-on-snapchat/"><u>[Updated] 2024 Approved Innovative Techniques Crafting Unique Boomerangs on Snapchat</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-gaming-insiders-youtube-channels-you-should-see-for-2024/"><u>[Updated] Gaming Insiders' YouTube Channels You Should See for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-setup-find-and-update-your-ch34-g-chip-drivers-for-seamless-windows-11-integration/"><u>Easy Setup: Find & Update Your CH34^ G Chip Drivers for Seamless Windows 11 Integration</u></a></li>
-<li><a href="https://fox-that.techidaily.com/find-my-iphone-assistance-tracking-down-stolen-or-mislaid-devices/"><u>Find My iPhone Assistance: Tracking Down Stolen or Mislaid Devices</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/guide-to-retrieving-lost-files-from-an-out-of-sync-microsoft-onedrive-account/"><u>Guide to Retrieving Lost Files From an Out-of-Sync Microsoft OneDrive Account</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-a56s-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo A56s 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Use Special Features - Virtual Location On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/mastering-the-art-of-naming-your-podcast-right-and-50plus-creative-title-suggestions/"><u>Mastering the Art of Naming Your Podcast Right & 50+ Creative Title Suggestions</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-t2-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo T2 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-a70-by-fonelab-android-recover-data/"><u>Undelete lost data from A70</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-6s-plus-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 6s Plus by restoring it to factory settings</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-yosemite-video-editing-101-a-beginners-guide-to-editing-videos-on-mac/"><u>Updated 2024 Approved Yosemite Video Editing 101 A Beginners Guide to Editing Videos on Mac</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-90-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 90 Lite Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/everage-tags-a-step-by-step-youtube-tactical-guide-for-2024/"><u>[New] Leverage Tags A Step-by-Step YouTube Tactical Guide for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-how-to-forge-strong-content-partnerships-on-youtube/"><u>[Updated] 2024 Approved How to Forge Strong Content Partnerships on YouTube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-essential-techniques-for-logitech-webcam-videos-for-2024/"><u>[Updated] Essential Techniques for Logitech Webcam Videos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-create-snapchat-lenses-easily-2-methods-for-2024/"><u>[Updated] How to Create Snapchat Lenses Easily 2 Methods for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-transform-your-photos-into-masterpieces-with-top-pixlr-techniques/"><u>[Updated] In 2024, Transform Your Photos Into Masterpieces with Top Pixlr Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-secure-your-screen-captures-online/"><u>[Updated] Secure Your Screen Captures Online</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-sharpened-focus-on-squares-creating-striking-imovie-content-for-instagram/"><u>2024 Approved Sharpened Focus on Squares Creating Striking iMovie Content for Instagram</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/clear-vision-how-to-cut-out-image-clutter-on-photopea/"><u>Clear Vision How to Cut Out Image Clutter on Photopea</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y55s-5g-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y55s 5G (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/securely-buy-official-winx-dvd-ripper-and-burner-on-the-web/"><u>Securely Buy Official WinX DVD Ripper & Burner on the Web</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-14-pro-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 14 Pro Suddenly | Stellar</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v29e-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-lava-blaze-2-by-fonelab-android-recover-music/"><u>Undelete lost music from Lava Blaze 2</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-y27-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo Y27 5G.</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-reno-9a-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Reno 9A</u></a></li>
 </ul></div>
 

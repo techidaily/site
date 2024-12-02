@@ -1,7 +1,7 @@
 ---
 title: Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
-date: 2024-11-12T17:06:43.682Z
-updated: 2024-11-14T05:29:41.370Z
+date: 2024-11-29T04:35:25.933Z
+updated: 2024-12-01T17:04:05.267Z
 tags:
   - deals
 categories:
@@ -25,15 +25,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Advertising Sneaking In
@@ -41,10 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -54,10 +52,7 @@ Jerome Thomas / How-To Geek
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Updates Breaking My PC
@@ -70,13 +65,6 @@ Jerome Thomas / How-To Geek
 
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
@@ -88,6 +76,10 @@ Sergio Rodriguez / How-To Geek
  Honestly, it might sound weird, but macOS feels like the offline Windows experience of old to me. In fact, the operating system tends to stay classy and out of my way as far as possible. I've been thinking that the common complaint that Macs cost too much for the hardware you get misses the fact that you are _also_ paying for the software. You get macOS and several other full-fat apps, such as the iWork suite, Garageband, and iMovie included in the price of entry. You pay more now, and don't have annoying monetization efforts later.
 
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linux Respects Its Users
 
@@ -118,18 +110,18 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-comprehensive-guide-to-youtube-video-editing-tools/"><u>[New] In 2024, Comprehensive Guide to YouTube Video Editing Tools</u></a></li>
-<li><a href="https://techidaily.com/solved-restore-windows-photo-viewer-in-windows-10/"><u>[SOLVED] Restore Windows Photo Viewer in Windows 10</u></a></li>
-<li><a href="https://techidaily.com/solved-what-are-the-system-requirements-for-fortnite/"><u>[Solved] What Are the System Requirements for Fortnite?</u></a></li>
-<li><a href="https://techidaily.com/solved-windows-11-black-and-white-screen/"><u>[SOLVED] Windows 11 Black and White Screen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-serene-smartphone-games/"><u>[Updated] In 2024, The Ultimate List of Serene Smartphone Games</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-asus-rog-phone-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Asus ROG Phone 8 to iPhone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-13-ultra-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi 13 Ultra Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solving-graphics-card-problems-and-boosting-performance-in-windows/"><u>Solving Graphics Card Problems and Boosting Performance in Windows</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-installing-windows-10-via-usb-drive-with-illustrative-images/"><u>Step-by-Step Guide: Installing Windows 10 via USB Drive with Illustrative Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/taxonomy-of-diverse-camera-systems-for-videos-for-2024/"><u>Taxonomy of Diverse Camera Systems for Videos for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-dvd-ripper-tools-for-windows-1011-optimal-software-for-dvd-viewing-and-backup/"><u>Top DVD Ripper Tools for Windows 10/11: Optimal Software for DVD Viewing & Backup</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-s24-ultra-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy S24 Ultra without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-complete-untapped-potential-of-dji-phantom-4/"><u>[New] 2024 Approved The Complete Untapped Potential of DJI Phantom 4</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-directly-download-youtube-videos-for-2024/"><u>[New] Directly Download YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nleash-your-youtube-playlists-a-comprehensive-guide/"><u>[New] Unleash Your YouTube Playlists A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-captivating-more-eyes-on-your-engaging-instagram-videos/"><u>2024 Approved Captivating More Eyes on Your Engaging Instagram Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/breaking-the-stick-reviving-your-mouses-menu-action/"><u>Breaking the Stick: Reviving Your Mouse's Menu Action</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-the-echo-of-valyria-prime-destinations-for-tts-downloads/"><u>In 2024, The Echo of Valyria Prime Destinations for TTS Downloads</u></a></li>
+<li><a href="https://techidaily.com/remove-huawei-lock-screen-without-password-huawei-nova-y91-by-drfone-android-unlock-android-unlock/"><u>Remove Huawei Lock Screen without Password(Huawei Nova Y91)</u></a></li>
+<li><a href="https://techidaily.com/samsung-bypass-tools-to-bypass-lock-screen-samsung-galaxy-a25-5g-by-drfone-android-unlock-android-unlock/"><u>Samsung Bypass Tools to Bypass Lock Screen(Samsung Galaxy A25 5G)</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscribing-at-a-steep-price-i-opt-out-of-ea/"><u>Subscribing at a Steep Price: I Opt-Out of EA</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-samsung-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Samsung Phones</u></a></li>
+<li><a href="https://app-tips.techidaily.com/1723620193804-transform-your-clips-with-this-exceptional-android-video-editing-software/"><u>Transform Your Clips with This Exceptional Android Video Editing Software!</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-70-lite-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor 70 Lite 5G on Windows?</u></a></li>
 </ul></div>
 

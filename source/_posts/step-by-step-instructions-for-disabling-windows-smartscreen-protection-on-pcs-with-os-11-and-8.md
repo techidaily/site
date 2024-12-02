@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8
-date: 2024-11-22T19:34:49.275Z
-updated: 2024-11-23T22:18:51.894Z
+date: 2024-11-27T06:21:29.652Z
+updated: 2024-12-02T02:38:46.247Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,6 +21,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [How to Disable SmartScreen on Windows 10](https://ios-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-by-drfone-ios/)
 * [Disable SmartScreen on Windows 8](https://ai-video-tools.techidaily.com/updated-maximize-your-online-presence-10-best-free-video-hosting-sites-for-2024/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * SmartScreen provides an extra layer of security and can protect your PC from malicious content.
@@ -28,10 +32,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * To disable SmartScreen, open Windows Security, then navigate to App and Browser Control > Reputation-Based Protection Settings, then toggle the SmartScreen filters off.
 
  The [SmartScreen filter built into Windows](https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/) automatically scans applications, files, downloads, and websites, blocking known-dangerous content and warning you before you run unknown applications. You can disable it, if you like.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Should You Disable SmartScreen? 
 
@@ -48,10 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Click the "App and Browser Control" icon in Windows Security to find these settings.
 
 ![Click 'App and Browser Control.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-app-and-browser-control.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then click on "Reputation-based Protection Settings." 
 
@@ -71,16 +67,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
@@ -88,6 +84,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -106,17 +106,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-enhancing-social-media-strategy-facebook-whatsapp-video-sharing/"><u>[New] Enhancing Social Media Strategy Facebook-WhatsApp Video Sharing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-top-5-best-monitors-for-ps5/"><u>[New] In 2024, Top 5 Best Monitors for Ps5</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-y36i-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo Y36i Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-gt-neo-5-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme GT Neo 5 SE Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-realme-10t-5g-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Realme 10T 5G</u></a></li>
-<li><a href="https://extra-information.techidaily.com/free-photo-editing-tricks-unveiling-iphones-hidden-features/"><u>Free Photo Editing Tricks Unveiling iPhone's Hidden Features</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-no-watermark-no-problem-7-best-video-merger-software/"><u>New In 2024, No Watermark, No Problem 7 Best Video Merger Software</u></a></li>
-<li><a href="https://facebook.techidaily.com/scrutinizing-security-email-address-is-securityfbcom-genuine/"><u>Scrutinizing Security Email Address: Is @security@fb.com Genuine?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-agni-2-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Agni 2 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-x6-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from X6 Pro.</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtube-essentials-for-successful-channel-creation-for-2024/"><u>Youtube Essentials for Successful Channel Creation for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-audio-tools-for-professional-podcast-creators/"><u>[New] 2024 Approved Top Audio Tools for Professional Podcast Creators</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-optimal-storage-savings-for-the-digital-age-for-2024/"><u>[New] Optimal Storage Savings for the Digital Age for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-elite-camera-optics-for-cutting-edge-film-and-tv/"><u>[Updated] 2024 Approved Elite Camera Optics for Cutting-Edge Film & TV</u></a></li>
+<li><a href="https://win11.techidaily.com/enforcing-group-policies-on-a-single-user-written-in-windows-1111-style/"><u>Enforcing Group Policies on a Single User' Written in Windows 11/11 Style</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-the-dragging-pace-of-spotifys-web-player-in-2-tips-for-a-smooth-streaming-experience/"><u>Fixing the Dragging Pace of Spotify's Web Player in 2#: Tips for a Smooth Streaming Experience</u></a></li>
+<li><a href="https://article-helps.techidaily.com/future-of-animation-unveiled-selection-of-state-of-the-art-modelling-apps/"><u>Future of Animation Unveiled Selection of State-of-the-Art Modelling Apps</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a1x-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A1x 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-20-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 20 Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-zte-axon-40-lite-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a ZTE Axon 40 Lite Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-12-prominent-motorola-razr-40-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Motorola Razr 40 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nokia-150-2023-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nokia 150 (2023) without backup.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/standing-video-length-and-content-strategy-in-youtube-shorts/"><u>Understanding Video Length and Content Strategy in YouTube Shorts</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-y36-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Y36?</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/win11-7/"><u>Win11 自動更新秘技：7種策略解決檔案不見之謎</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
 

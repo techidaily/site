@@ -1,7 +1,7 @@
 ---
 title: Microsoft, Your Persistent Push Notifications Have Gone Too Far!
-date: 2024-11-10T19:01:51.857Z
-updated: 2024-11-13T17:44:36.607Z
+date: 2024-11-25T20:20:26.939Z
+updated: 2024-12-02T01:29:06.928Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Microsoft, Your Persistent Push Notifications Have Gone Too Far!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Microsoft's Self-Promotion Knows No Bounds](https://vimeo-videos.techidaily.com/discovering-the-best-10-online-tools-for-vimeo-videos-for-2024/)
@@ -18,13 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [The Danger of Promoting Third-Party Apps](https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-tecno-spark-10c-drfone-by-drfone-virtual/)
 * [An Operating System Is No Place for Ads](https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/)
 * [I'm Staying on Windows 10](https://facebook-video-recording.techidaily.com/new-2024-approved-decoding-fbs-interface-how-to-find-just-watched-content/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -34,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  An operating system's primary role is to provide a clean foundation to run other programs. That's why it's so concerning that Microsoft has been increasingly more aggressive with ads in Windows 11\. Is this going to be the future of our operating systems?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft's Self-Promotion Knows No Bounds
 
  Windows is already full of Microsoft's built-in apps and bloatware. Although this is a relatively common practice among most operating systems and their customized versions, Microsoft goes above and beyond to promote Microsoft Edge and OneDrive. Edge and OneDrive aren't bad products (quite the contrary), but there's no need for Microsoft to shove them down our throats.
@@ -41,6 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I recently booted up my laptop after not using it for a week, and I was greeted with that pesky "Let's Finish Setting Up Your Device" screen as if I had just bought the device. All the "set up" did was recommend various Microsoft products to me that I already declined previously. Fortunately, [you can disable it](https://win11.techidaily.com/top-8-methods-for-eliminating-windows-errors/), but the sole fact that it pops up randomly on older systems is baffling.
 
  Another [recent bit of news](https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11) is that Microsoft PC Manager recommends setting Bing as the default search engine in Windows 11 to "repair" your system. This, combined with the constant pop-up notifications to set Edge as your default browser, makes it [hard to recommend any Microsoft products](https://facebook-videos.techidaily.com/updated-in-2024-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/). All this self-promotion does is clutter an otherwise great operating system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Ads in the Start Menu, Seriously?
 
@@ -53,34 +58,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
  The Windows 11 Start menu is already a confusing mess, and I don't think that the [grid layout](https://facebook-record-videos.techidaily.com/new-in-2024-capture-youtube-video-in-screenshot-forms-for-free/) can save it. If you agree, check out [Stardock's Start11 app](https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-proplus-by-drfone-android/) to see how you can customize your Start Menu. Again, it's worth noting that these changes are only present in the Beta update, so there's a sliver of hope that Microsoft won't roll this update out in the final version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Danger of Promoting Third-Party Apps
 
  There's nothing wrong with ads and promoting third-party apps, but there's just something about recommending them within an operating system that feels off-putting. If you get an ad in Chrome, you know that it's an ad, but it feels much more subtle when it's on your operating system.
 
 ![1Password app listed in Recommended section of Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/untitled.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -93,13 +86,6 @@ Microsoft
  The worst part is that Windows 11 Home costs [$139](https://www.microsoft.com/en-us/d/windows-11-home/dg7gmgf0krt0) at the time of writing, which is a significant sum of money for a product that contains ads. Ads would make some sense if Windows had different price tiers, so the cheapest tier would get the most ads and self-promotion, but this isn't the case, which is why it's so unacceptable.
 
  If you use your Windows PC for work, ads within the operating system are an unwelcome distraction that diminishes your user experience. Fortunately, you [can remove most ads in Windows 11](https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-devices-by-drfone-android/), but I still wish that Microsoft would reconsider its approach to monetization within its operating system.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  I'm Staying on Windows 10
 
@@ -126,14 +112,24 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-beat-drops-in-seconds-a-beginners-guide-to-music-videos/"><u>[New] 2024 Approved Beat Drops in Seconds A Beginner’s Guide to Music Videos</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-from-capture-to-share-precision-cropping-and-export-tips-for-instagram-for-2024/"><u>[Updated] From Capture to Share Precision Cropping & Export Tips for Instagram for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/master-list-of-premier-game-broadcasting-apps-for-2024/"><u>Master List of Premier Game Broadcasting Apps for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-top-free-gif-animators-for-endless-loops-for-2024/"><u>New Top Free GIF Animators for Endless Loops for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/stay-informed-with-macxdvds-press-announcements-latest-industry-trends-and-product-launches/"><u>Stay Informed with MacXDVD's Press Announcements - Latest Industry Trends and Product Launches!</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-adjusting-your-monitors-pixel-density-on-windows-10-resolved/"><u>Step-by-Step Guide: Adjusting Your Monitor's Pixel Density on Windows 10 (Resolved!)</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-removing-software-from-your-pc-running-windows-10/"><u>Step-by-Step Guide: Removing Software From Your PC Running Windows 10</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-solution-for-windows-camera-malfunction-error-code-0xa00feb244/"><u>Step-by-Step Solution for Windows Camera Malfunction (Error Code 0XA00Feb244)</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-adjusting-screen-layout-and-rotation-settings-in-windows-10/"><u>Step-by-Step Tutorial: Adjusting Screen Layout & Rotation Settings in Windows 10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-zenithaiphotonix-reimagining-image-artistry/"><u>[New] ZenithAiPhotonix Reimagining Image Artistry</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-win-11-two-approaches-to-reactivate-photo-viewer-functionality-for-2024/"><u>[Updated] Win 11 Two Approaches to Reactivate Photo Viewer Functionality for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mobile-mastery-an-exhaustive-look-at-androids-lightroom/"><u>2024 Approved Mobile Mastery An Exhaustive Look at Android’s Lightroom</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unleash-creative-expression-your-guide-to-sending-gifs-via-snapchat/"><u>2024 Approved Unleash Creative Expression Your Guide to Sending Gifs via Snapchat</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 6</u></a></li>
+<li><a href="https://fox-links.techidaily.com/capturing-the-future-an-overview-of-iphone-xs-camera-innovations/"><u>Capturing the Future An Overview of iPhone X's Camera Innovations</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-reno-9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Reno 9A Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722959155228-ensure-peak-performance-downloading-updated-canon-pixma-ts3322-drivers-today/"><u>Ensure Peak Performance: Downloading Updated Canon PIXMA TS3322 Drivers Today</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-m14-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy M14 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-inside-look-at-youtubes-creator-studio-interface/"><u>In 2024, Inside Look at YouTube's Creator Studio Interface</u></a></li>
+<li><a href="https://techidaily.com/is-your-zte-blade-a73-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your ZTE Blade A73 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-quick-fixes-for-a-glitchy-windows-10-taskbar/"><u>Mastering Quick Fixes for a Glitchy Windows 10 Taskbar</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722874570235-resetting-your-kindle-paperwhites-time-zone-and-hour-easy-instructions-inside/"><u>Resetting Your Kindle Paperwhite's Time Zone and Hour – Easy Instructions Inside!</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-huawei-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Huawei</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-nokia-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Nokia</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-vivo-x100-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Vivo X100 Pro password or pattern lock</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-c67-4g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme C67 4G</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-find-n3-flip-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Find N3 Flip</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2024-11-06T23:20:31.411Z
-updated: 2024-11-13T21:47:31.682Z
+date: 2024-11-28T04:16:51.217Z
+updated: 2024-12-01T22:12:59.517Z
 tags:
   - deals
 categories:
@@ -25,10 +25,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Make the Login Process Easier 
@@ -36,13 +33,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
 
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2  Remove Unnecessary Programs From the Startup List 
 
@@ -53,13 +43,14 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
@@ -69,22 +60,12 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
@@ -112,6 +93,10 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
@@ -125,6 +110,10 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
 
@@ -151,18 +140,18 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/iscovering-the-top-8-truly-efficient-advancement-services-for-2024/"><u>[New] Discovering the Top 8 Truly Efficient Advancement Services for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-full-length-guide-to-transforming-gif-images-into-fun-stickers-on-popular-messengers/"><u>[New] Full-Length Guide to Transforming GIF Images Into Fun Stickers on Popular Messengers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-vault-in-the-sky-for-every-picture-free-and-paid-alternatives-explored/"><u>[New] Vault in the Sky for Every Picture Free & Paid Alternatives Explored</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-premier-6-modern-architecture-in-mc-world/"><u>[Updated] Premier 6 Modern Architecture in MC World</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/5-nvme-essentials-comprehensive-uphere-m201-ssd-heatsink-assessment/"><u>$5 NVMe Essentials: Comprehensive UpHere M201 SSD Heatsink Assessment</u></a></li>
-<li><a href="https://techidaily.com/free-brother-l2540dw-printer-software-setup-and-installation-guide-for-pc-users/"><u>Free Brother L2540DW Printer Software Setup and Installation Guide for PC Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-repair-xbox-peripheral-drivers-in-windows-11-8-and-the-ultimate-guide/"><u>How to Update or Repair Xbox Peripheral Drivers in Windows 11, 8, & The Ultimate Guide</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-comparing-the-best-editors-for-professionals-filmora-vs-democreator/"><u>In 2024, Comparing the Best Editors for Professionals Filmora Vs. Democreator</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-oneplus-nord-n30-5g-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock OnePlus Nord N30 5G Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
-<li><a href="https://techidaily.com/1722900485294-netflixs-must-watch-teen-movie-collection-unveiled/"><u>Netflix's Must-Watch Teen Movie Collection Unveiled!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726028178565-pcyoutube/"><u>PCを使って初心者でも簡単にYouTubeからクリップ動画制作</u></a></li>
-<li><a href="https://techidaily.com/the-complete-review-of-the-xbox-series-x-revolutionizing-play-experience-in-breathtaking-4k-quality/"><u>The Complete Review of the Xbox Series X: Revolutionizing Play Experience in Breathtaking 4K Quality</u></a></li>
-<li><a href="https://techidaily.com/1722903038992-top-trending-devices-and-reading-materials-laptops-phones-and-literary-treasures/"><u>Top Trending Devices & Reading Materials: Laptops, Phones, & Literary Treasures</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-charting-the-course-for-profitable-youtube-videos-for-2024/"><u>[New] Charting the Course for Profitable Youtube Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hidden-treasure-of-free-macos-transcription-tools/"><u>[New] Hidden Treasure of Free macOS Transcription Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-discerning-the-good-and-bad-in-virtual-space-for-2024/"><u>[Updated] Discerning the Good & Bad in Virtual Space for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-evaluation-of-apples-homepod-mini-sound-quality-smart-features-and-performance/"><u>Comprehensive Evaluation of Apple's HomePod Mini - Sound Quality, Smart Features & Performance</u></a></li>
+<li><a href="https://os-tips.techidaily.com/exploring-how-advanced-threading-innovations-elevate-the-iphone-15-pro-experience/"><u>Exploring How Advanced Threading Innovations Elevate the iPhone 15 Pro Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g84-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G84 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-13-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-14-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 14 Bootloader Easily</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy M14 4G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-removing-microsofts-copilot-from-windows-11/"><u>Step-by-Step Guide: Removing Microsoft's Copilot From Windows 11</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Google Pixel 8 | Dr.fone</u></a></li>
 </ul></div>
 

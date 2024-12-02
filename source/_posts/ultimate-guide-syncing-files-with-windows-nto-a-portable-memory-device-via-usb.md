@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2024-11-11T20:08:37.550Z
-updated: 2024-11-14T01:06:33.942Z
+date: 2024-11-26T03:56:06.268Z
+updated: 2024-12-02T07:51:03.004Z
 tags:
   - deals
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [What to Do If You Run out of Space on the Flash Drive](https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-bootloader-easily-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -41,29 +38,9 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Searching for "This PC" in the Windows 10 Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/launch-this-pc.png) 
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In the window that pops up, locate the section called "Devices And Drives." If necessary, click the small carat-shaped arrow to the left of the section header to reveal a list of the drives.
 
 ![The devices and drives on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/devices-and-drives.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your USB drive has been recognized correctly and is ready to receive files, it will appear in this location with a name and a drive letter assigned to it, such as "D:", "E:", or "F:", or another letter. Note that the "C:" drive is almost always the main drive on your PC, unless you go very out of your way to change it.
 
@@ -71,7 +48,15 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Our example USB drive is has been assigned the letter K.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/usb-drive.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Find the Files You Want to Copy
 
@@ -83,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  What happens next depends on how you'd like to copy the files. There are several ways to do it, but here are the two most common methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Copy Files by Dragging and Dropping
 
  Using your mouse cursor, select the file (or files) you would like to copy, then click and hold the mouse button to drag the files to the USB thumb drive window.
@@ -90,10 +79,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Dragging files between File Explorer windows performs a copy operation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/moving-files.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When an icon representing the file or files appears over the destination window, release the mouse button, and the files will be copied to that location.
@@ -101,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![The files have been successfully moved to the USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moved.png) 
 
  In the future, you can also drag files directly onto the USB flash drive icon in "This PC" to copy them to that location.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Copy Files Using Copy and Paste
 
@@ -124,16 +103,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
@@ -165,16 +135,16 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>[Updated] Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-the-art-of-digital-image-combination/"><u>2024 Approved Mastering the Art of Digital Image Combination</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/experience-longer-battery-performance-with-the-latest-android-15-enhancements/"><u>Experience Longer Battery Performance with the Latest Android 15 Enhancements!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-v27-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V27 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209737952-9781507212653-spellcrafting/"><u>Spellcrafting | Free Book</u></a></li>
-<li><a href="https://article-posts.techidaily.com/step-by-step-snagging-stunning-pexels-pictures-for-2024/"><u>Step-by-Step Snagging Stunning Pexels Pictures for 2024</u></a></li>
-<li><a href="https://techidaily.com/top-rated-vpn-services-for-enhancing-your-pc-gaming-experience/"><u>Top Rated VPN Services for Enhancing Your PC Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-guide-resolving-windows-11-desktop-apps-and-data-sync-issues/"><u>Troubleshooting Guide: Resolving Windows 11 Desktop Apps and Data Sync Issues</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-steps-for-reinstating-your-network-cards-driver-on-windows-10-devices/"><u>Troubleshooting Steps for Reinstating Your Network Card's Driver on Windows 10 Devices</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-your-audio-recordings-essential-tips-for-using-microsofts-voice-recording-tool-in-windows-11/"><u>Troubleshooting Your Audio Recordings: Essential Tips for Using Microsoft's Voice Recording Tool in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/war-thunder-crashes-continuously-top-fixes-and-strategies-for-stability/"><u>War Thunder Crashes Continuously? Top Fixes & Strategies for Stability</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-secrets-of-vr-filmmaking-with-advanced-techniques-using-adobe-premiere-pro-for-2024/"><u>[New] Unveiling the Secrets of VR Filmmaking with Advanced Techniques Using Adobe Premiere Pro for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-seamless-srt-to-video-leading-10-free-online-conversion-tools/"><u>[Updated] 2024 Approved Seamless SRT to Video - Leading 10 Free Online Conversion Tools</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-billion-views-video-hall-youtubes-top-ever-watches/"><u>[Updated] In 2024, Billion-Views Video Hall YouTube's Top Ever Watches</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-blissful-clip-grabber-insight/"><u>2024 Approved Blissful Clip Grabber Insight</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-lava-agni-2-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Agni 2 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-se-2020-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone SE (2020) Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-8-tips-on-how-to-vlog-confidently-like-popular-youtubers/"><u>In 2024, 8 Tips on How to Vlog Confidently Like Popular YouTubers</u></a></li>
+<li><a href="https://win-bits.techidaily.com/playing-flac-audio-tracks-on-your-ipod-a-comprehensive-walkthrough-for-each-model/"><u>Playing FLAC Audio Tracks on Your iPod: A Comprehensive Walkthrough for Each Model</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlining-lenovo-capture-features/"><u>Streamlining Lenovo Capture Features</u></a></li>
 </ul></div>
 

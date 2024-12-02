@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
-date: 2024-11-09T16:20:36.333Z
-updated: 2024-11-14T05:42:52.644Z
+date: 2024-11-26T23:49:42.341Z
+updated: 2024-12-02T06:10:03.941Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,10 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Rumors
@@ -43,10 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Wrong!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Electric Vehicle Facts
@@ -54,16 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Tesla_
@@ -83,10 +72,7 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
  Your typical Tesla heated seat uses around 60 watts per seat and gets controlled by the onboard computer drawing around 250 watts. As long as you don't use extra systems like Wi-Fi to watch Netflix on the infotainment display, the car could easily keep your seats warm for nearly a week.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do EVs Stuck In Traffic Fare?
@@ -126,19 +112,21 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastering-insta-daily-strategies-for-amassing-1000plus-likesmonth-for-2024/"><u>[New] Mastering Insta Daily Strategies for Amassing 1,000+ Likes/Month for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-step-by-step-visual-tutorial-applying-filters-and-masks-in-meet/"><u>[Updated] In 2024, Step-by-Step Visual Tutorial Applying Filters & Masks in Meet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/assessing-gpts-proofreading-capabilities/"><u>Assessing GPT's Proofreading Capabilities</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-eso-adventure-with-expert-techniques-for-overcoming-low-frames-per-second-fps/"><u>Elevate Your ESO Adventure with Expert Techniques for Overcoming Low Frames Per Second (FPS)</u></a></li>
-<li><a href="https://techidaily.com/enabling-local-play-of-minecraft-on-your-pc-an-in-depth-guide-for-windows-11-gamers/"><u>Enabling Local Play of Minecraft on Your PC: An In-Depth Guide for Windows 11 Gamers</u></a></li>
-<li><a href="https://techidaily.com/ensuring-successful-oculus-installation-on-your-pc-running-windows-11-or-10/"><u>Ensuring Successful Oculus Installation on Your PC Running Windows 11 or 10</u></a></li>
-<li><a href="https://techidaily.com/expert-solutions-overcoming-lag-on-an-underperforming-hp-device/"><u>Expert Solutions: Overcoming Lag on an Underperforming HP Device</u></a></li>
-<li><a href="https://techidaily.com/fixed-repairing-disk-errors-on-windows-10/"><u>Fixed: Repairing Disk Errors on Windows 10</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/gb-usage-for-full-day-film-length/"><u>GB Usage for Full-Day Film Length</u></a></li>
-<li><a href="https://techidaily.com/guide-successfully-navigating-the-windows-11-boot-settings-menu/"><u>Guide: Successfully Navigating the Windows 11 Boot Settings Menu</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-magic-of-watching-nba-online-unveiling-the-best-15-strategies/"><u>In 2024, The Magic of Watching NBA Online - Unveiling the Best 15 Strategies</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-fix-of-windows-code-ebroker-28-expert-strategies-and-solutions/"><u>Mastering the Fix of Windows' Code Ebroker-28: Expert Strategies and Solutions</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-10-samsung-galaxy-a54-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Samsung Galaxy A54 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://common-error.techidaily.com/windows-11-mouse-icon-not-showing-heres-what-you-can-do/"><u>Windows 11 Mouse Icon Not Showing? Here's What You Can Do!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unraveling-why-imovie-alters-video-borders/"><u>[New] In 2024, Unraveling Why iMovie Alters Video Borders</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/advanced-methods-for-swift-file-exchange-apples-ecosystem-for-2024/"><u>Advanced Methods for Swift File Exchange Apple's Ecosystem for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/az-screenscape-full-application-review-alternatives/"><u>AZ Screenscape Full Application Review, Alternatives</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/deciphering-and-remedying-vac-blockade-in-steam/"><u>Deciphering & Remedying VAC Blockade in Steam</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-redmi-note-13-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Redmi Note 13 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/monitor-misbehaving-cant-show-full-screen-11-windows/"><u>Monitor Misbehaving: Can't Show Full Screen 11 Windows</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/peering-into-mr-beasts-economic-landscape-for-2024/"><u>Peering Into Mr. Beast's Economic Landscape for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/pro-video-recording-methods-for-multiple-systems-for-2024/"><u>Pro Video Recording Methods for Multiple Systems for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-nokia-c12-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Nokia C12 Pro</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-xr21-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia XR21</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-civi-3-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Civi 3</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-issues-overcoming-stability-problems-with-fifa-22-on-personal-computers/"><u>Solved Issues: Overcoming Stability Problems with FIFA 22 on Personal Computers</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-realme-12-proplus-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Realme 12 Pro+ 5G</u></a></li>
 </ul></div>
 

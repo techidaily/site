@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Amazon: How to Easily Set Up and Use Passkeys for Login"
-date: 2024-11-12T16:34:36.641Z
-updated: 2024-11-13T16:29:03.484Z
+date: 2024-11-29T04:46:35.001Z
+updated: 2024-12-01T23:20:49.486Z
 tags:
   - cutting-edge
 categories:
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 * **_Amazon Announces Passkey Support_**
 
  Amazon is one of the first major retailers to offer [passkey sign-in](https://location-social.techidaily.com/how-to-change-your-apple-iphone-12-pro-max-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-ios/). You no longer need a password to log into the Amazon website, as you can save a passkey directly to your phone or computer instead. Sadly, Amazon's passkey implementation is a little clunky, and Amazon's apps still lack passkey support.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  UPDATE: 2023/10/24 09:54 EST BY ANDREW HEINZMAN
 
@@ -48,25 +52,19 @@ thumbnail: https://thmb.techidaily.com/9ff4b5531529224a97af11fd7b31d3496bf7818fc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/beginning-participating-in-and-organizing-group-video-calls-zoom-for-android-devices/"><u>Beginning, Participating in, and Organizing Group Video Calls (Zoom) for Android Devices</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-image-memory-with-precise-dates/"><u>Enhancing Image Memory with Precise Dates</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-to-do-if-your-apple-iphone-se-2022-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>In 2024, What to do if your Apple iPhone SE (2022) has bad ESN or blacklisted IMEI?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-windows-10-apps-and-games-to-explore-and-download/"><u>In 2024, Windows 10 Apps and Games to Explore and Download</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-nokia-c210-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Nokia C210</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/skepticism-grows-over-zerogpt-and-detection-tools/"><u>Skepticism Grows Over ZeroGPT & Detection Tools</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-open-excel-2013-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel 2013 Read Only Documents</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nubia-red-magic-9-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nubia Red Magic 9 Pro with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/thankful-discoveries-unlimited-outro-options-for-2024/"><u>Thankful Discoveries Unlimited Outro Options for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-realme-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Realme</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-v30-lite-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-razr-40-ultra-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Razr 40 Ultra fingerprint</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-flawless-pixel-processor-windowsmac/"><u>[New] 2024 Approved Flawless Pixel Processor (Windows/Mac)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-gentle-guidance-to-good-slumber-top-asmr-pros/"><u>[Updated] 2024 Approved Gentle Guidance to Good Slumber Top ASMR Pros</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo Y100i? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-steelseries-arctis-5-microphone-issues-a-comprehensive-guide/"><u>Fixing SteelSeries Arctis 5 Microphone Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-roadmap-to-acquiring-perfect-copyright-free-photos/"><u>In 2024, The Roadmap to Acquiring Perfect, Copyright-Free Photos</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a05-music-recovery-recover-deleted-music-from-samsung-galaxy-a05-by-fonelab-android-recover-music/"><u>Samsung Galaxy A05 Music Recovery - Recover Deleted Music from Samsung Galaxy A05</u></a></li>
+<li><a href="https://driver-download.techidaily.com/successfully-updating-and-fixing-xbox-gamepad-drivers-in-windows-1087-expert-advice/"><u>Successfully Updating and Fixing Xbox Gamepad Drivers in Windows 10/8/7: Expert Advice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/update-your-hp-elitebook-8460p-windows-driver-step-by-step-download-instructions-fixed/"><u>Update Your HP EliteBook 8460P Windows Driver - Step-by-Step Download Instructions [FIXED]</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Reno 9A | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
-  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

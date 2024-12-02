@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2024-10-29T09:03:55.109Z
-updated: 2024-11-04T07:57:06.892Z
+date: 2024-11-29T21:07:27.585Z
+updated: 2024-12-02T06:53:50.868Z
 tags:
   - cutting-edge
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  The results show that after the initial big push from the government of El Salvador to encourage its citizens to begin using this new financial system, enthusiasm and adoption are lackluster. Adoption in most key metrics has atrophied, and there's little momentum.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Background on Bitcoin in El Salvador** 
 
  El Salvador's currency since 2001 has been the US dollar, which makes them completely dependent on the United States to formulate their monetary policy. In September 2021, El Salvador became the first country in the world to make Bitcoin legal tender by passing the Bitcoin Law which required all economic agents to accept Bitcoin for all payments.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  The data on El Salvador's Bitcoin strategy is significant because it allows us to see what happens when a country decides to deploy cryptocurrency at a national level. Remember that this has never been done before, so it's essentially an experiment that many stakeholders, industry leaders, investors as well as other nations are observing intently around the globe.
@@ -44,10 +52,7 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ![$30 Bonus Incentive Use Chat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/30-Bonus.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
@@ -64,13 +69,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  The Chivo Wallet application was created by the El Salvadoran government to facilitate the adoption of their new monetary policies. The Chivo Wallet has been plagued with issues and has therefore had a mixture of effects on the roll-out.
@@ -85,23 +83,9 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
  Anecdotal evidence suggests that the app is used by a subset of the population like street vendors as a cash replacement because it's convenient for small peer-to-peer payments. This functionality is actually what is most used within the Chivo Wallet because you can use the app like Venmo and quickly send US dollars from person to person without any exposure to Bitcoin.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Lack of Trust & Privacy Are Deterrents** 
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -110,10 +94,7 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  When you download the Chivo Wallet, you have to complete an identity verification process commonly referred to in the industry as Know Your Customer or KYC. This is a common practice when onboarding into many cryptocurrency exchanges. Because of this process, the government can track and trace every transaction that happens using the Chivo Wallet. Opportunities for surveillance are another critique that people reported in the survey when deciding not to participate citing they didn't trust the system or the technology.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Failure to Capture Remittance Market** 
@@ -125,6 +106,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  A major use case lauded by supporters is the amount of money that would stay in the hands of El Salvadorans rather than money gram companies. Remittances account for 20% of El Salvador's GDP.
 
  However, the study shows that only 3% of people reported receiving remittances in Bitcoin and only 8% in US dollars using the Chivo Wallet. This is in line with the El Salvadoran Central Bank's data which stated that in 2022 only 1.6% of remittances were sent through a digital wallet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Silver Linings** 
 
@@ -161,24 +146,17 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-fastest-iphoneandroid-apps-for-enhanced-music/"><u>[New] Fastest iPhone/Android Apps for Enhanced Music</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-video-content-battlefront-short-form-supremacy-youtubes-vs-tiktoks/"><u>[New] In 2024, Video Content Battlefront Short Form Supremacy – YouTubes Vs. TikToks</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-master-your-youtube-experience-with-premium-subscription-for-2024/"><u>[Updated] Master Your YouTube Experience with Premium Subscription for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-5-book-tt-showcases-for-readers/"><u>[Updated] The Ultimate 5 Book TT Showcases for Readers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-photo-deformation-software/"><u>2024 Approved Exploring Photo Deformation Software</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-v30-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme V30 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-world-of-metaai-what-you-need-to-know/"><u>Exploring the World of MetaAI: What You Need to Know</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-x8b-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X8b Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 12? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x7-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X7 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s Plus without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/navigating-the-odds-comprehensive-take-on-vegas-pro-2021/"><u>Navigating the Odds Comprehensive Take on Vegas Pro 2021</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-yoga-dvds-ausprobiert-expertenkritik-und-topempfehlungen/"><u>Top-Yoga-DVDs Ausprobiert: Expertenkritik Und Topempfehlungen</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-y100-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Y100 5G</u></a></li>
-<li><a href="https://techidaily.com/update-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Asus ROG Phone 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-vivid-instagram-profile-previews/"><u>[Updated] 2024 Approved Crafting Vivid Instagram Profile Previews</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-best-practices-in-digital-media-capturing/"><u>[Updated] Best Practices in Digital Media Capturing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-guide-to-pre-eminent-video-conferencing-tools-for-2024/"><u>[Updated] Essential Guide to Pre-Eminent Video Conferencing Tools for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Plus Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-11-pro-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 11 Pro activation lock</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-7t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 7T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-phone-without-password-by-drfone-android/"><u>How To Unlock OnePlus 11 5G Phone Without Password?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-13-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 13 Pro Max If Youve Tried Everything</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-how-to-edit-uploaded-published-youtube-videos/"><u>In 2024, How to Edit Uploaded/ Published YouTube Videos</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-reno-10-pro-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Reno 10 Pro 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo</u></a></li>
 </ul></div>
 

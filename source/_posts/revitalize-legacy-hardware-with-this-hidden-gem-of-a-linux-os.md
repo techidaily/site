@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-11-22T02:49:58.626Z
-updated: 2024-11-24T01:27:23.307Z
+date: 2024-11-28T06:42:42.090Z
+updated: 2024-12-02T09:48:46.694Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,12 +32,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu desktop and terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_32_42.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the very first boot, most apps you need to get working are right there in the app menu. The full [LibreOffice](https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/) suite (including Libre Draw), a mail client, GIMP (for image manipulation), and Mozilla Firefox are packaged with the installation. Plus, it has two GUI software stores to download any other apps: App Center and Synaptic Package Manager.
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
@@ -61,16 +65,12 @@ Close
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Running Xubuntu
 
@@ -88,11 +88,11 @@ Close
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
- When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
 ##  Xubuntu vs. Ubuntu
 
@@ -129,22 +129,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hearing-the-norths-call-top-spots-to-download-tts-files/"><u>[New] Hearing the North's Call Top Spots to Download TTS Files</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/bandicam-revisited-a-deep-dive-into-screen-recording-for-2024/"><u>Bandicam Revisited A Deep Dive Into Screen Recording for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-11-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 11 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-policy-diagnostic-service-is-down-error/"><u>How to Fix 'Policy Diagnostic Service Is Down' Error</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-amplify-your-brands-message-top-terminology-secrets/"><u>In 2024, Amplify Your Brand’s Message Top Terminology Secrets</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-6-5-ways-to-get-into-a-locked-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-seamless-audio-junction-expert-logic-pro-x-tips/"><u>In 2024, Seamless Audio Junction Expert Logic Pro X Tips</u></a></li>
-<li><a href="https://facebook.techidaily.com/initiate-your-love-quest-the-introduction-to-facebooks-matchmaking-service/"><u>Initiate Your Love Quest: The Introduction to Facebook's Matchmaking Service</u></a></li>
-<li><a href="https://techidaily.com/is-your-nokia-c12-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C12 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-12-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for 12 Pro+ 5G</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-n3-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find N3 Flip Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unlocking-the-future-of-diy-printing-with-crealitys-new-k1c-and-upgraded-ender-3-v3/"><u>Unlocking the Future of DIY Printing with Creality's New K1C and Upgraded Ender 3 V3</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-a70-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel A70 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-commanding-voice-scrutiny-refined-version-8/"><u>[New] Commanding Voice Scrutiny Refined Version 8</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/xpert-strategies-to-maximize-income-with-video-ads-on-youtube-for-2024/"><u>[New] Expert Strategies to Maximize Income with Video Ads on Youtube for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-achieve-impactful-big-head-aesthetics-in-your-tiktoks-3-ways/"><u>[Updated] How To Achieve Impactful Big Head Aesthetics in Your TikToks (3 Ways)</u></a></li>
+<li><a href="https://facebook.techidaily.com/7-simple-tips-to-protect-your-privacy-on-facebook/"><u>7 Simple Tips to Protect Your Privacy on Facebook</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-t2-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo T2 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722968452582-download-and-install-m-audio-fast-track-drivers-for-various-windows-versions-today/"><u>Download & Install M-Audio Fast Track Drivers for Various Windows Versions Today</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/get-tiktoks-best-videos-in-a-flash-for-2024/"><u>Get TikTok's Best Videos in a Flash for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-find-x6-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo Find X6 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y27-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y27 4G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-poco-c65-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco C65 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-13c-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi 13C phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-gionee-f3-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Gionee F3 Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/stock-photography-hits-and-heartfelt-tales/"><u>Stock Photography Hits & Heartfelt Tales</u></a></li>
+<li><a href="https://games-able.techidaily.com/subscription-stack-up-xbox-vs-psplus-in-depth-comparison/"><u>Subscription Stack-Up: Xbox Vs. PS+ In-Depth Comparison</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/the-3-step-approach-to-effective-copywriting-on-facebook/"><u>The 3-Step Approach to Effective Copywriting on Facebook</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Google Pixel 7a</u></a></li>
 </ul></div>
 

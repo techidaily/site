@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2024-11-17T20:28:23.978Z
-updated: 2024-11-24T04:55:22.843Z
+date: 2024-11-30T00:54:13.445Z
+updated: 2024-12-02T07:11:27.372Z
 tags:
   - desktop
 categories:
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  With these considerations in mind, let's explore how you can use your internal storage drive as the backup location for Time Machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  First, Partition Your Internal Storage Drive
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![Opening the Disk Utility from the spotlight search on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-disk-utility-from-the-spotlight-on-macos.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, select the main volume, usually "Macintosh HD," and click "Partition."
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Adding a partition to a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-adding-a-parition-to-a-drive-on-macos.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Name the newly created partition, choose "APFS" as the format, and allocate the desired size for the partition. Click "Apply," then "Partition," and finally "Continue" in the warning popup.
 
 ![Applying a partition by defining the partition information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-applying-a-parition-by-defining-the-partition-information.jpg) 
@@ -62,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Newly Created Partition for the Backup
@@ -73,13 +77,13 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Setting up the newly created partition for the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-setting-up-the-newly-created-parition-for-the-time-machine-backup.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To restore a deleted or older file version from the backup, open the Time Machine utility. Navigate through the snapshots that Time Machine has taken and locate the file you want to restore. Then, click on "Restore" to recover the file.
 
 ![Restoring a deleted Microsoft Word file from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-restoring-a-deleted-file-from-the-time-machine-backup.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don't Let Your Backup Drive Get Clogged Up
 
@@ -88,10 +92,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  To exclude files from the backup, open the System Settings, and go to General > Time Machine. Then, click the "Options" button, followed by the "+" button, and select the folders you want to exclude from the backup.
 
 ![Excluding some data from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-excluding-some-data-from-the-time-machine-backup-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -114,17 +114,21 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-a-step-by-step-guide-to-getting-the-most-out-of-your-mobizen-experience-for-2024/"><u>[New] A Step-by-Step Guide to Getting the Most Out of Your Mobizen Experience for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-edit-like-a-pro-title-and-description-tips-for-igtv-success/"><u>[New] In 2024, Edit Like a Pro Title & Description Tips for IGTV Success</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-beyond-flat-canvas-elevating-text-to-new-heights-for-2024/"><u>[Updated] Beyond Flat Canvas Elevating Text to New Heights for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-exploring-vlogging-selecting-the-best-cameras-and-lenses/"><u>[Updated] Exploring Vlogging Selecting the Best Cameras & Lenses</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/back-from-the-dead-a-step-by-step-guide-to-retrieving-lost-files-across-windows-operating-systems-11-10-8-and-7/"><u>Back From the Dead: A Step-by-Step Guide to Retrieving Lost Files Across Windows Operating Systems (11, 10, 8, and 7)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/examining-ffmpegs-commitment-to-authentic-audio-formats-for-2024/"><u>Examining FFmpeg’s Commitment to Authentic Audio Formats for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/switching-picture-in-picture-on-macios-effortlessly/"><u>Switching Picture-in-Picture on Mac/iOS Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-capturing-every-moment-in-motion-with-polaroids-new-release/"><u>[New] Capturing Every Moment in Motion with Polaroid's New Release</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unrestricted-creativity-the-ultimate-android-editing-selection/"><u>[New] Unrestricted Creativity The Ultimate Android Editing Selection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>[Updated] 2024 Approved Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitter-chatter-on-the-hottest-tiktoks-for-2024/"><u>[Updated] Twitter Chatter on the Hottest TikToks for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-daydream-to-reality-a-short-vr-history/"><u>2024 Approved From Daydream to Reality A Short VR History</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-asus-by-drfone-android/"><u>How to Bypass FRP on Asus?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-a2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi A2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-edge-40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Edge 40 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-lenovo-thinkphone-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Lenovo ThinkPhone online without jailbreak</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/huge-savings-alert-score-the-ultimate-immersive-sound-with-discounted-premium-gaming-speakers-at-amazon-review/"><u>Huge Savings Alert! Score the Ultimate Immersive Sound with Discounted Premium Gaming Speakers at Amazon Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-0x80240017-your-ultimate-troubleshooting-manual-for-windows-update-problems/"><u>Overcoming 0X80240017: Your Ultimate Troubleshooting Manual for Windows Update Problems</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-v30-by-fonelab-android-recover-data/"><u>Undelete lost data from V30</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-a1-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo A1 5G</u></a></li>
 </ul></div>
 

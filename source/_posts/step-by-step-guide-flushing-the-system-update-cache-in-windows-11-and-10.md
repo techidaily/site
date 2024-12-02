@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10"
-date: 2024-11-09T04:30:11.739Z
-updated: 2024-11-13T18:43:22.911Z
+date: 2024-11-28T17:52:38.729Z
+updated: 2024-12-02T05:54:00.761Z
 tags:
   - deals
 categories:
@@ -35,10 +35,7 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  Another reason is to [free up storage space](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/). Update cache files often use a huge chunk of the storage, and you can reclaim that by deleting those cached files. (Windows does delete some update files after installing those updates, but not all.)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using File Explorer
@@ -53,13 +50,6 @@ services.msc
 
 !['Stop' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-stop-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Run again using Windows+R, type the path below in the box, and press Enter. The following is the path to the Windows Update cache folder. It assumes that Windows is installed on your C:\\ drive. However, if that’s not the case, just change the drive letter in the path.
 
 C:\Windows\SoftwareDistribution\
@@ -69,10 +59,7 @@ C:\Windows\SoftwareDistribution\
 ![The trash can icon highlighted for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-delete-windows-update-cache-files.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Close File Explorer and [empty the Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/).
@@ -81,7 +68,15 @@ C:\Windows\SoftwareDistribution\
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This ensures your PC can continue to look for the latest updates.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Disk Cleanup
 
@@ -99,18 +94,15 @@ C:\Windows\SoftwareDistribution\
 
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Choose your Windows installation drive again and select "OK."
 
  In Disk Cleanup, enable the "Windows Update Cleanup" option. Feel free to enable other options if you’d like to delete those files as well. Then, at the bottom, click "OK."
 
 !['Windows Update Cleanup' and 'OK' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-delete-windows-update-cache-disk-cleanup.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The tool will begin cleaning up the update cache files.
 
@@ -121,13 +113,6 @@ C:\Windows\SoftwareDistribution\
  Begin by opening the Start Menu, searching for **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-run-cmd-as-admin.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -156,10 +141,7 @@ net start bits`
  You’re done.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Use a Script to Clear Update Cache in a Single-Click
@@ -204,21 +186,21 @@ net start bits`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-streamlined-screens-on-chrome-os/"><u>[Updated] Streamlined Screens on Chrome OS</u></a></li>
-<li><a href="https://games-able.techidaily.com/beat-your-way-through-artistic-gameplay-with-tablets/"><u>Beat Your Way Through Artistic Gameplay with Tablets</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/decryptez-votre-dvd-protege-regionalement-avec-contourner-le-code-regional-sur-les-systemes-windows-moderne-windows-1187/"><u>Décryptez Votre DVD Protégé Régionalement Avec 'Contourner Le Code Régional' Sur Les Systèmes Windows Moderne (Windows 11/8/7)</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/o-convert-youtube-videos-to-gifs-no-download/"><u>How to Convert YouTube Videos to GIFs [No Download]</u></a></li>
-<li><a href="https://techidaily.com/master-playing-games-with-a-ps4-controller-on-steam-a-detailed-tutorial/"><u>Master Playing Games with a PS4 Controller on Steam - A Detailed Tutorial</u></a></li>
-<li><a href="https://techidaily.com/mastering-pubg-settings-discover-the-best-techniques-for-a-smoother-gaming-experience-top-7-strategies/"><u>Mastering PUBG Settings: Discover the Best Techniques for a Smoother Gaming Experience (Top 7 Strategies)</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-art-of-window-11-screenshotting-tutorials/"><u>Mastering the Art of Window 11 Screenshotting Tutorials</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-fps-in-fortnite-essential-tips/"><u>Maximize Your FPS in Fortnite - Essential Tips</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-gameplay-top-strategies-to-increase-fps-in-2020/"><u>Maximize Your PUBG Gameplay: Top Strategies to Increase FPS in 2020</u></a></li>
-<li><a href="https://techidaily.com/navigating-windows-10-advanced-startup-features-with-minimal-hassle-a-how-to-guide/"><u>Navigating Windows 10 Advanced Startup Features with Minimal Hassle: A How-To Guide</u></a></li>
-<li><a href="https://techidaily.com/optimize-and-overclock-the-ultimate-list-of-tricks-to-make-your-laptop-faster/"><u>Optimize and Overclock: The Ultimate List of Tricks to Make Your Laptop Faster.</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/pros-and-cons-of-home-mesh-networks/"><u>Pros and Cons of Home Mesh Networks</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/thorough-review-gopro-hero4-slr4-sliver-features/"><u>Thorough Review GoPro Hero4 SLR4 Sliver Features</u></a></li>
-<li><a href="https://win-community.techidaily.com/two-methods-quick-installation-of-windows-10-onto-a-fresh-ssd-including-and-excluding-an-optical-disc/"><u>Two Methods: Quick Installation of Windows 10 Onto a Fresh SSD, Including and Excluding an Optical Disc</u></a></li>
-<li><a href="https://driver-download.techidaily.com/upgrading-your-epson-wf-7620-printer-drivers-a-step-by-step-guide-for-windows-users/"><u>Upgrading Your Epson WF-7620 Printer Drivers: A Step-by-Step Guide for Windows Users</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>[New] 2024 Approved Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>[Updated] Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-x6-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find X6 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20 Without Password | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-pinpoint-the-perfect-tag-for-your-personalized-tiktok-stream/"><u>How to Pinpoint the Perfect Tag for Your Personalized TikTok Stream</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptop-usb-dysfunction-heres-how-to-restore-its-functionality/"><u>HP Laptop USB Dysfunction? Here’s How to Restore Its Functionality</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-m6-pro-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Poco M6 Pro 5G Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210968169-9780744099461-meditation-for-the-real-world/"><u>Meditation for the Real World | Free Book</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/protecting-emails-from-outlook-2010-on-windows-7-one-time-or-recurring-backup-methods/"><u>Protecting Emails From Outlook 2010 on Windows 7 - One-Time or Recurring Backup Methods</u></a></li>
+<li><a href="https://windows11.techidaily.com/tackling-the-interruptexception-on-windows-11/"><u>Tackling the INTERRUPT_EXCEPTION on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-responsive-fn-keys-on-dell-laptops-effective-solutions/"><u>Troubleshooting Non-Responsive Fn Keys on Dell Laptops: Effective Solutions</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-tecno-spark-20-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Tecno Spark 20 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy M34 5G.</u></a></li>
 </ul></div>
 

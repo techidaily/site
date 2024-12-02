@@ -1,7 +1,7 @@
 ---
 title: "Introducing Gemma: The New Open-Source Artificial Intelligence Solution From Google"
-date: 2024-11-11T16:18:55.923Z
-updated: 2024-11-13T16:28:01.984Z
+date: 2024-11-28T02:37:20.231Z
+updated: 2024-12-01T16:21:52.983Z
 tags:
   - cutting-edge
 categories:
@@ -42,28 +42,21 @@ Google is now offering [Gemma 2B and 7B](https://blog.google/technology/develope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-unlocking-youtubes-potential-for-visual-storytelling/"><u>[New] In 2024, Unlocking YouTube's Potential for Visual Storytelling</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-perfect-your-instagram-vocal-presence-quickly-for-2024/"><u>[New] Perfect Your Instagram Vocal Presence Quickly for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-14-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 14 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Lava Blaze 2 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/disabling-apple-iphone-14-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling Apple iPhone 14 Pro Max Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/pc-gaming-woes-overcoming-frequent-disruptions-and-crashing-in-darkest-dungeon-2/"><u>PC Gaming Woes: Overcoming Frequent Disruptions and Crashing in Darkest Dungeon 2</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/shattering-limits-of-visuals-standard-definition-to-hdr-revolution-for-2024/"><u>Shattering Limits of Visuals Standard Definition to HDR Revolution for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-poco-c51-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Poco C51</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-motorola-edge-40-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Motorola Edge 40 Pro Device</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-x50iplus-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of X50i+?</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-serene-strings-20-calming-country-songs-perfect-for-dancing-on-tiktok/"><u>[New] Serene Strings 20 Calming Country Songs Perfect for Dancing on TikTok</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-sonic-symphony-fusing-music-and-visuals-with-windows-11-tech/"><u>[New] Sonic Symphony Fusing Music and Visuals with Windows 11 Tech</u></a></li>
+<li><a href="https://program-issues.techidaily.com/eliminate-ping-woes-in-chivalry-of-heroes-advanced-fixes-and-tweaks-expert-guide/"><u>Eliminate Ping Woes in Chivalry of Heroes - Advanced Fixes & Tweaks (Expert Guide )</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/from-vision-to-verses-integrating-chatgpt-in-writing/"><u>From Vision to Verses: Integrating ChatGPT in Writing</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-c65-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco C65 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo A59 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Hot 40 Pro.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-y100t-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Y100t.</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/virtual-realms-on-screen-comprehensive-techniques-for-gameplay-recording-for-2024/"><u>Virtual Realms on Screen Comprehensive Techniques for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

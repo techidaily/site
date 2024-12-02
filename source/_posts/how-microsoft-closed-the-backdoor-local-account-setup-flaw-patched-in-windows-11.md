@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-11-11T00:53:49.772Z
-updated: 2024-11-14T02:10:52.458Z
+date: 2024-11-26T00:59:41.030Z
+updated: 2024-12-02T03:28:04.249Z
 tags:
   - deals
 categories:
@@ -40,24 +40,23 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-avatar-makeover-building-your-cartoon-personality-for-2024/"><u>[New] Avatar Makeover Building Your Cartoon Personality for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-snapshot-surge-no-money-required-image-uplift/"><u>[New] Snapshot Surge No Money Required Image Uplift</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-capture-screen-decoder/"><u>[Updated] 2024 Approved Capture Screen Decoder</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-leveraging-extra-footage-a-guide-to-b-roll-utilization/"><u>[Updated] Leveraging Extra Footage A Guide to B Roll Utilization</u></a></li>
-<li><a href="https://techidaily.com/1723808070986-disable-windows-11-updates-easily/"><u>Disable Windows 11 Updates Easily</u></a></li>
-<li><a href="https://techidaily.com/1723808353906-how-to-check-ram-on-windows-quickly-and-easily/"><u>How to Check RAM on Windows | Quickly & Easily.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-a60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-infinix-hot-40i-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Infinix Hot 40i to New Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-pushing-boundaries-top-prime-lenses-for-industry-pros/"><u>In 2024, Pushing Boundaries Top Prime Lenses for Industry Pros</u></a></li>
-<li><a href="https://techidaily.com/1723808367182-solve-your-hxtsrexe-woes-in-windows-11-expert-tips-and-tricks/"><u>Solve Your HxTsr.exe Woes in Windows 11 – Expert Tips and Tricks</u></a></li>
-<li><a href="https://techidaily.com/wireless-wonder-how-to-link-an-epson-printer-to-wifi-securely-and-successfully/"><u>Wireless Wonder: How to Link an Epson Printer to WiFi Securely and Successfully</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-premier-youtube-unboxers-who-to-follow/"><u>[New] 2024 Approved Premier YouTube Unboxers Who to Follow</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-effortless-editing-a-beginners-guide-to-multi-snaps-in-snapchat-for-2024/"><u>[New] Effortless Editing A Beginner's Guide to Multi-Snaps in Snapchat for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-visual-vividity-techniques-in-hue-adjustment/"><u>[New] In 2024, Visual Vividity Techniques in Hue Adjustment</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-8t-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-android-and-ios-timer-tools-reviewed-your-big-day-planners-must-haves-for-2024/"><u>Leading Android & iOS Timer Tools Reviewed Your Big Day Planner's Must-Haves for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-the-art-of-telegram-web-navigation/"><u>Mastering the Art of Telegram Web Navigation</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-input-lag-in-valorant-tips-and-tricks-for-a-smoother-experience-2024-edition/"><u>Overcoming Input Lag in Valorant: Tips and Tricks for a Smoother Experience, 2024 Edition</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-14-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of 14 on Mac</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-mate-60-rs-ultimate-design-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei Mate 60 RS Ultimate Design on Mac</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-a15-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-gt-neo-5-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - GT Neo 5</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/unleashing-potential-11-steps-to-enhance-facebook-traffic-through-video-for-2024/"><u>Unleashing Potential 11 Steps to Enhance Facebook Traffic Through Video for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

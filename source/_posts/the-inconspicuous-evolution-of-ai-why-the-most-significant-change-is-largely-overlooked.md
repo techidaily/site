@@ -1,7 +1,7 @@
 ---
 title: "The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked"
-date: 2024-11-12T16:39:35.742Z
-updated: 2024-11-13T16:39:15.029Z
+date: 2024-11-26T20:51:25.556Z
+updated: 2024-12-02T07:42:14.050Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 ---
 
 ## The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,10 +28,7 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
-  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -41,10 +42,7 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -56,10 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -87,24 +82,21 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-breakneck-video-progress-on-facebook-must-have-extension-solutions/"><u>[New] Breakneck Video Progress on Facebook - Must-Have Extension Solutions</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-bebops-avian-evolution-strikes-again-with-parrot-2-for-2024/"><u>[Updated] Bebop's Avian Evolution Strikes Again with Parrot 2 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/apple-discontinues-apple-pay-later-prepares-new-alternative-insights-from-zdnet/"><u>Apple Discontinues 'Apple Pay Later,' Prepares New Alternative - Insights From ZDNet</u></a></li>
-<li><a href="https://extra-information.techidaily.com/best-drone-buys-the-top-5-pro-picks-for-2024/"><u>Best Drone Buys - The Top 5 Pro Picks for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-note-30-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Note 30 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-google-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Google</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-gt-neo-5-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT Neo 5 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/is-tenorshare-data-recovery-worth-your-investment-an-in-depth-analysis/"><u>Is Tenorshare Data Recovery Worth Your Investment? An In-Depth Analysis</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://win-forum.techidaily.com/social-media-essentials-mastering-communication-across-facebook-twitter-instagram-and-youtube/"><u>Social Media Essentials: Mastering Communication Across Facebook, Twitter, Instagram & Youtube</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/laylist-wizard-youtube-music-edition-for-2024/"><u>The Playlist Wizard YouTube Music Edition for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-sony-xperia-10-v-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Sony Xperia 10 V</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a34-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A34 5G.</u></a></li>
-<li><a href="https://techidaily.com/what-is-a-local-serp-by-link-assistant-rank-tracker-local-rankings-local-rankings/"><u>What is a local SERP?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-6-essential-tips-to-create-instas-most-attractive-unboxings/"><u>[New] 6 Essential Tips to Create Insta's Most Attractive Unboxings</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-budget-friendly-viewer-contests/"><u>[New] In 2024, Ultimate Budget-Friendly Viewer Contests</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-achieving-peak-performance-zoom-plus-fb-live-techniques/"><u>[Updated] 2024 Approved Achieving Peak Performance ZOOM + FB Live Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-next-gen-camera-innovations-2024-exploration/"><u>[Updated] Next-Gen Camera Innovations - 2024 Exploration</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-strategies-for-sharing-and-editing-apple-pages-files-through-icloud-insights/"><u>Effective Strategies for Sharing and Editing Apple Pages Files Through iCloud - Insights</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/evaluating-generative-ai-in-chat-services-uncovering-7-compelling-concerns/"><u>Evaluating Generative AI in Chat Services: Uncovering 7 Compelling Concerns</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-n30-se-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord N30 SE in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-8t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 8T in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-zero-5g-2023-turbo-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Zero 5G 2023 Turbo Phones? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/immersive-image-editing-online-cropping-essentials-for-2024/"><u>Immersive Image Editing Online Cropping Essentials for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-full-guide-to-bypass-motorola-moto-g23-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Motorola Moto G23 FRP</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-vivo-t2-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Vivo T2 5G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-tecno-spark-10-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Tecno Spark 10 5G</u></a></li>
 </ul></div>
 

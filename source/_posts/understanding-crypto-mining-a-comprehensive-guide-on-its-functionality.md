@@ -1,7 +1,7 @@
 ---
 title: "Understanding Crypto Mining: A Comprehensive Guide on Its Functionality"
-date: 2024-11-12T08:20:59.992Z
-updated: 2024-11-13T18:01:13.282Z
+date: 2024-12-01T04:35:04.234Z
+updated: 2024-12-02T08:34:34.708Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 ---
 
 ## Understanding Crypto Mining: A Comprehensive Guide on Its Functionality
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,18 +24,15 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Crypto Mining?
 
  In short, crypto mining is how new units of [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/)\---usually called coins---are created. As you can imagine, this type of mining doesn't involve callused hands gripping pickaxe handles. Instead, it's computer processors that do all the hard work, chipping away at complex math problems.
 
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###  The Blockchain
 
@@ -43,18 +44,15 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Ledger
 
  Every time a new coin is unlocked, it's recorded in the cryptocurrency's ledger, a massive file anybody can access at any time to see which coins were mined when and by whom. The ledger also shows when a coin changed hands, and who was involved in the transaction, putting the lie to [the claim that Bitcoin is anonymous](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
 
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How Crypto Mining Works
 
@@ -63,6 +61,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In a way, crypto mining is really just solving these incredibly complicated mathematical puzzles. Do it fast enough, and the reward is a coin. If you're slower than the competition, you don't get one. This method is called "proof of work."
 
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  DIY Supercomputers
 
@@ -76,13 +78,6 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  As a result, the market for GPUs was practically destroyed, with these groups buying all the units they could get their hands on---even [stealing them](https://fortune.com/2021/11/09/thieves-steal-nvidia-graphics-cards/) in some cases---and making it so regular consumers had to pay [massive prices](https://www.nme.com/news/gaming-news/700000-graphics-cards-were-bought-by-crypto-miners-in-early-2021-alone-2973241) even for badly outdated models. Though, as of late 2021, this arms race is quieting down thanks to a number of factors (including a [crackdown on miners](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html) by China), the GPU market has yet to recover.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Mined vs. Non-Mined Cryptocurrencies
 
  Interestingly enough, though, not all cryptocurrencies are mined. Rather than use proof of work, some currencies---like [Cardano](https://www.shutterstock.com/nl/image-illustration/block-chain-concept-consists-network-connections-1064476223) and [Ripple](https://ripple.com/)\---use something called "proof of stake." They still operate on blockchain for reasons of security, but instead of mining new blocks you "stake " them instead, claiming them for yourself ahead of time.
@@ -90,16 +85,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Future of Mining
@@ -123,24 +109,24 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-advanced-techniques-in-final-cut-pro/"><u>[New] 2024 Approved Advanced Techniques in Final Cut Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-navigating-the-leading-live-church-broadcast-services/"><u>[Updated] 2024 Approved Navigating the Leading Live Church Broadcast Services</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-social-media-sensation-spotlights/"><u>[Updated] 2024 Approved Social Media Sensation Spotlights</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-accelerate-vimeo-videos-the-guide/"><u>[Updated] Accelerate Vimeo Videos The Guide</u></a></li>
-<li><a href="https://techidaily.com/abbyy-partners-with-appian-in-premier-vas-provider-initiative/"><u>ABBYY Partners with Appian in Premier VAS Provider Initiative</u></a></li>
-<li><a href="https://techidaily.com/applying-pitch-strategies-to-enhance-smart-automation-projects/"><u>Applying Pitch Strategies to Enhance Smart Automation Projects</u></a></li>
-<li><a href="https://techidaily.com/assessing-and-enhancing-your-rpa-strategy-the-role-of-process-insights/"><u>Assessing and Enhancing Your RPA Strategy: The Role of Process Insights</u></a></li>
-<li><a href="https://techidaily.com/automated-marketing-with-the-help-of-cookiebot-elevate-your-digital-strategy/"><u>Automated Marketing with the Help of Cookiebot: Elevate Your Digital Strategy</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/creating-simple-videos-top-10-youtube-projects-anyone-can-do-for-2024/"><u>Creating Simple Videos Top 10 YouTube Projects Anyone Can Do for 2024</u></a></li>
-<li><a href="https://techidaily.com/drive-more-traffic-with-our-advanced-cookiebot-inspired-analytics-tools/"><u>Drive More Traffic with Our Advanced Cookiebot-Inspired Analytics Tools</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-digital-strategy-using-cookiebot-technology/"><u>Enhance Your Digital Strategy Using Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/enhancing-conversions-the-efficacy-of-cookiebot-driven-marketing-solutions/"><u>Enhancing Conversions: The Efficacy of Cookiebot-Driven Marketing Solutions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/harness-the-power-of-animoji-on-your-iphone-x/"><u>Harness the Power of Animoji on Your iPhone X</u></a></li>
-<li><a href="https://techidaily.com/optimieren-sie-ihre-buchhaltungsautomatisierung-mit-verbesserter-ocr-und-texterkennungsfunktionen-von-abbyy/"><u>Optimieren Sie Ihre Buchhaltungsautomatisierung Mit Verbesserter OCR- Und Texterkennungsfunktionen Von ABBYY</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/questioning-the-benefit-of-ai-driven-chat-bots/"><u>Questioning the Benefit of AI-Driven Chat Bots</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723210723266-skype-microphone-not-working-follow-these-steps-for-a-quick-and-easy-resolution/"><u>Skype Microphone Not Working? Follow These Steps for a Quick and Easy Resolution</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-oneplus-ace-2v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On OnePlus Ace 2V | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/the-ultimate-guide-to-professional-streaming-on-fb-for-2024/"><u>The Ultimate Guide to Professional Streaming on FB for 2024</u></a></li>
-<li><a href="https://techidaily.com/44or44k944kz44oz5yid5a2m6icf44gu44gf44kb44gu5zplus65pys55qe44gq5pon5l2c44ks44kk44oj/"><u>パソコン初学者のための基本的な操作ガイド</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-video-editors-filmora-vs-democreator-compared-for-2024/"><u>[New] Selecting Video Editors Filmora Vs. Democreator Compared for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-superior-choices-top-5-sd-cards-for-gopro-hero-cameras-8-7/"><u>[New] Superior Choices Top 5 SD Cards for GoPro Hero Cameras (8, 7)</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/activating-secure-boot-feature-in-windows-11-troubleshooting-guide-for-successful-setup/"><u>Activating Secure Boot Feature in Windows 11 - Troubleshooting Guide for Successful Setup</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-zero-30-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Zero 30 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-a70-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A70 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-discover-the-visionaries-behind-video-content-six-intriguing-youtube-categorization-challenges/"><u>In 2024, Discover the Visionaries Behind Video Content Six Intriguing YouTube Categorization Challenges</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/simultaneous-gaming-and-listening-to-youtube-melodies-on-your-xbox-console/"><u>Simultaneous Gaming & Listening to YouTube Melodies on Your Xbox Console</u></a></li>
+<li><a href="https://techidaily.com/sony-data-recovery-recover-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Sony Data Recovery – recover lost data from Sony Xperia 5 V</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/still-using-pattern-locks-with-xiaomi-redmi-a2plus-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Xiaomi Redmi A2+? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-seamless-transition-nintendo-and-mac/"><u>The Seamless Transition: Nintendo & Mac</u></a></li>
+<li><a href="https://win-alternatives.techidaily.com/top-gratuits-logiciels-de-sauvegarde-incrementielle-pour-windows-10-un-choix-facile-et-fiable/"><u>Top Gratuits Logiciels De Sauvegarde Incrémentielle Pour Windows 10 : Un Choix Facile Et Fiable</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/ultimate-guide-essential-french-expressions-for-exploring-france/"><u>Ultimate Guide: Essential French Expressions for Exploring France</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-gt-neo-5-se-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme GT Neo 5 SE</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2024-11-09T16:25:02.900Z
-updated: 2024-11-13T16:22:27.517Z
+date: 2024-11-30T03:40:55.402Z
+updated: 2024-12-02T01:55:25.953Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ---
 
 ## AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,16 +37,13 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 
  Now, let's dive into the specifics of these three AI chatbot tools.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. LLMs Used
 
 ![The ChatGPT Official App logo on the sign in page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/50aa3c08.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -56,13 +57,6 @@ Hannah Stryker / How-To Geek
 
  The Pro version gives you access to GPT-4 and Claude, too. It's important to note that there is no original Perplexity LLM. The platform uses preexisting LLMs, not its own.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  2\. Availability and Price
 
  ChatGPT is available in most countries worldwide, though it has been banned in North Korea, China, Iran, Cuba, Syria and Nepal. You can use ChatGPT for free, which gives you access to GPT-3.5, or you can use [ChatGPT Plus](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78t-drfone-by-drfone-virtual/). This premium version gives you access to OpenAI's latest LLM version, GPT-4, for $20 monthly.
@@ -72,16 +66,7 @@ Hannah Stryker / How-To Geek
  Perplexity is available in most countries worldwide, though it is not available in the EU. Perplexity's free version gives you access to GPT-3.5 and the Copilot search feature, while Perplexity Pro also gives you access to GPT-4 and Claude, and gives you more usage for Copilot, for $20 monthly or $200 annually.
 
 <!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Token Limits
@@ -89,10 +74,7 @@ Hannah Stryker / How-To Geek
 ![A person texting on an iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/53216035228_58695ed0f7_o.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek  
@@ -129,6 +111,10 @@ Hannah Stryker / How-To Geek
 
 ![screenshot of chatgpt prompt response](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-response-job.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ChatGPT gave a longer response with more bullet points and information. The language was very conversational and natural.
 
  Here are the results from Claude:
@@ -140,13 +126,6 @@ Hannah Stryker / How-To Geek
  We also asked Perplexity the same question while using the GPT-3.5 LLM to see how close the answer would be to the ChatGPT response.
 
 ![Screenshot of perplexity's chatbot prompt response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-job-response-1.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Perplexity's conversational abilities rely on the LLM being used, and GPT-3.5 is what you'll be dealing with if you're using the free version. Again, Perplexity responded with natural and conversational language, and also provided citations for its points, which can be very useful for fact-checking and further research.
 
@@ -172,13 +151,6 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Perplexity.ai prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-calendar-response.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Perplexity also provided a code excerpt that worked successfully when tested, again giving the same result.
 
 ###  Mathematics
@@ -201,15 +173,16 @@ Hannah Stryker / How-To Geek
 
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Perplexity also gave the correct answer, as well as the solution process.
 
  It's important to note that no AI chatbot should be totally trusted with math equations, as they do have room for error. Check out our piece on [why you shouldn't use ChatGPT for mathematics](https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/) to learn more.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Choosing an AI Chatbot Can Be Challenging
@@ -231,20 +204,16 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-innovative-approaches-to-powerpoint-video-capture/"><u>[New] In 2024, Innovative Approaches to PowerPoint Video Capture</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-mastering-reverse-image-scanning-on-instagram-photos-for-2024/"><u>[Updated] Mastering Reverse Image Scanning on Instagram Photos for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-proven-methods-to-eliminate-jpeg-distortions-at-no-cost/"><u>4 Proven Methods to Eliminate JPEG Distortions at No Cost</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2622899-9781632280121-get-well-wishes/"><u>Get Well Wishes | Free Book</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-vivo-y100a-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-xiaomi-13t-pro-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Xiaomi 13T Pro</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/mastering-movie-time-a-comprehensive-tutorial-for-watching-movies-on-windows-10-phones-and-tablets/"><u>Mastering Movie Time: A Comprehensive Tutorial for Watching Movies on Windows 10 Phones and Tablets</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oneplus-open-by-fonelab-android-recover-data/"><u>The way to get back lost data from OnePlus Open</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-smart-7-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Smart 7.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/understanding-oled-a-comprehensive-guide-to-its-functionality/"><u>Understanding OLED: A Comprehensive Guide to Its Functionality</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-vivo-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo fingerprint</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-9-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 9 Pro+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-from-creation-your-guide-to-googles-audio-upload-for-2024/"><u>[New] From Creation Your Guide to Google's Audio Upload for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easy-steps-to-resolve-minecraft-launcher-error-code-0x80f8001-in-windows-operating-systems/"><u>Easy Steps to Resolve Minecraft Launcher Error Code 0X80^f8001 in Windows Operating Systems</u></a></li>
+<li><a href="https://android-location.techidaily.com/getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-reno-8t-drfone-by-drfone-virtual/"><u>Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-t2-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Huawei Nova Y71? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-huawei-nova-y71-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Huawei Nova Y71 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722186640784-master-the-art-of-combining-gpt-n-with-chatgpt-heres-how/"><u>Master the Art of Combining GPT-N with ChatGPT – Here's How</u></a></li>
+<li><a href="https://techidaily.com/remove-lava-yuva-3-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Lava Yuva 3 Pro unlock screen</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Ultra won’t play MKV movies</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/upgrade-essentials-transitioning-your-system-step-by-step/"><u>Upgrade Essentials: Transitioning Your System, Step-by-Step</u></a></li>
 </ul></div>
 

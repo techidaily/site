@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-11-23T04:47:56.803Z
-updated: 2024-11-23T21:18:55.393Z
+date: 2024-11-29T21:30:37.858Z
+updated: 2024-12-01T23:13:54.965Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 ## Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use These Six GNOME Extensions
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  Once installed, you will find the app in the Ubuntu App drawer. Open it and the following window should appear.
 
 ![Installed Tab on Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-installed-tab-on-extension-manager.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  As you can see, Ubuntu ships with a few extensions out of the box, as shown under System Extensions. If you like, you can disable them from here or customize them by clicking on the settings icon. However, we are interested in installing a few extensions. To do this, switch to the "Browse" tab and search for the following extensions:
 
@@ -70,13 +66,13 @@ Close
 
 ![ArcMenu different menu laypouts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-arcmenu-different-menu-laypouts.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Speaking of control, Just Perfection gives you access to a ton of settings and options to fine-tune the GNOME UI elements. You can use it to enable/disable UI elements and quick settings, customize the overall styling and presentation, and even control the general behavior of the desktop environment.
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
@@ -87,10 +83,6 @@ Close
  GNOME Tweaks is another useful app that lets you customize the app windows and general UI. To install it, open the App Center (known as Ubuntu Software in the earlier version) and search for "GNOME Tweaks." It should appear as a DEB package (not Snap).
 
 ![Install GNOME Tweaks from App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-install-gnome-tweaks-from-app-store.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  GNOME Tweaks gives you control over the appearance, sound, and other aspects of the operating system. I'd encourage you to _tweak around_ with the various settings. If you want some directions, first head over to Startup Applications. It allows you to select apps to auto-start on your system as soon as you turn on your Ubuntu desktop.
 
@@ -103,11 +95,19 @@ Close
 
 ![Set Window options in GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/12-set-window-options-in-gnome-tweaks.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Finally, Change These Four Settings
 
  Your Ubuntu setup should already start feeling more special and personalized. The final touches revolve around changing some core settings to optimize the system for productivity. To start, go to Settings > Multitasking and enable "Active Screen Edges" and "Hot Corner."
 
 ![Set Hot Corner and Activie Screen Edges in GNOME Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/13-set-hot-corner-and-activie-screen-edges-in-gnome-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With Hot Corner enabled, you can trigger the Activities Overview by quickly navigating your mouse cursor to the top-left corner of the screen. This can be handy if you have the ArcMenu running and the Activities Overview button disabled—which is how I run my system.
 
@@ -119,13 +119,13 @@ Close
 
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -146,19 +146,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-building-a-strong-network-how-to-form-effective-youtube-partner-relationships/"><u>[New] In 2024, Building a Strong Network How to Form Effective YouTube Partner Relationships</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-chart-topping-content-youtubes-top-5-for-2024/"><u>[Updated] Chart-Topping Content YouTube's Top 5 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-next-gen-discover-8-leading-tablets-pushing-beyond-filmoras-limits-for-2024/"><u>[Updated] The Next Gen Discover 8 Leading Tablets Pushing Beyond Filmora's Limits for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/audiophiles-dream-dive-into-the-crystal-clear-soundscape-of-midlands-gxt1000vp4-review/"><u>Audiophile's Dream: Dive Into the Crystal-Clear Soundscape of Midland's GXT1000Vp4 Review</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/-your-view-count-explore-these-12-effective-youtube-strategies/"><u>Boost Your View Count Explore These 12 Effective YouTube Strategies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/fine-tuning-your-videos-for-viral-instagram-moments-for-2024/"><u>Fine-Tuning Your Videos for Viral Instagram Moments for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-14-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 14 Pro Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23 Tactical Edition? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/sandisk-unveils-its-portable-economy-music-solution/"><u>SanDisk Unveils Its Portable Economy Music Solution</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/0-finest-yoga-series-to-achieve-zen-and-strength-for-2024/"><u>The 10 Finest Yoga Series to Achieve Zen and Strength for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-sony-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Sony </u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-google-by-fonelab-android-recover-music/"><u>Undelete lost music from Google</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-critical-look-at-ustream-plus-alternatives-for-2024/"><u>[New] Critical Look at Ustream, Plus Alternatives for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-how-to-use-vlc-for-professional-screen-recording/"><u>[New] In 2024, How to Use VLC for Professional Screen Recording</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-youtube-video-merging/"><u>[Updated] 2024 Approved Mastering YouTube Video Merging</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/matchers-playlist-selecting-flawless-dj-videos/"><u>Beat Matcher's Playlist Selecting Flawless DJ Videos</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-13t-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi 13T Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-pro-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro 4G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-oneplus-12-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on OnePlus 12 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-methodology-incorporating-youtube-playlists-into-a-websites-structure/"><u>In 2024, Methodology Incorporating YouTube Playlists Into a Website's Structure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-xiaomi-redmi-a2plus-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Xiaomi Redmi A2+</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-getting-aol-mail-up-and-running-on-ios-devices/"><u>Troubleshooting Guide: Getting AOL Mail Up and Running on iOS Devices</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-magic-6-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Magic 6.</u></a></li>
 </ul></div>
 

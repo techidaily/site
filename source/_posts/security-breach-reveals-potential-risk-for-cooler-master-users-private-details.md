@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-11-20T00:01:09.726Z
-updated: 2024-11-24T01:03:59.340Z
+date: 2024-11-24T20:08:56.495Z
+updated: 2024-12-02T08:26:47.761Z
 tags:
   - web
 categories:
@@ -38,23 +38,25 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>[Updated] Achieve Peak Performance Prime Methods for Zoom Conversion Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-online-meme-maker/"><u>[Updated] Online MEME Maker</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-black-display-during-boot-up-heres-how-to-resolve-it/"><u>Elden Ring Black Display During Boot-Up? Here's How to Resolve It</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/essential-knowledge-base-using-googles-ai-for-speech-recognition/"><u>Essential Knowledge Base Using Google's AI for Speech Recognition</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/evolution-of-ai-identifying-truly-autonomous-robots-insights-from-zdnet/"><u>Evolution of AI: Identifying Truly Autonomous Robots - Insights From ZDNet</u></a></li>
-<li><a href="https://win-lab.techidaily.com/gmailqnap3/"><u>GmailメールをQNAPに自動的にコピー保存する簡単なテクニック3つ</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-lenovo-thinkphone-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lenovo ThinkPhone Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lenovo-thinkphone-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lenovo ThinkPhone to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-1e-selection-navigating-through-regular-plus-pro-and-pro-max-options-with-expert-tips/"><u>IPhone 1E Selection: Navigating Through Regular, Plus, Pro & Pro Max Options with Expert Tips</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-lava-blaze-2-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Lava Blaze 2 5G</u></a></li>
-<li><a href="https://techidaily.com/sign-pdf-online-for-free-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign PDF Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-itel-s23plus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Itel S23+</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-reverse-the-norm-flipping-videos-for-social-media/"><u>[New] In 2024, Reverse the Norm Flipping Videos for Social Media</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-the-best-video-capture-tools-for-windows-users/"><u>[Updated] In 2024, Discover the Best Video Capture Tools for Windows Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-playlist-tweaking-on-youtube/"><u>[Updated] The Ultimate Playlist Tweaking on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-a-pro-in-lut-creation/"><u>2024 Approved Becoming a Pro in LUT Creation</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-youtube-video-capture-techniques/"><u>2024 Approved Mastering YouTube Video Capture Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-youtube-shorts-a-guide-to-effortless-thumbnail-integration/"><u>2024 Approved Streamline Your YouTube Shorts A Guide to Effortless Thumbnail Integration</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/first-look-at-the-newly-released-hl-2240-driver-for-seamless-windows-compatibility-and-printing/"><u>First Look at the Newly Released HL-2240 Driver for Seamless Windows Compatibility and Printing</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2020-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2020) iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y100i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y100i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/leading-corporate-cloud-vault-selection/"><u>Leading Corporate Cloud Vault Selection</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

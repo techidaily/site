@@ -1,7 +1,7 @@
 ---
 title: Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
-date: 2024-11-21T18:41:20.361Z
-updated: 2024-11-23T22:45:53.818Z
+date: 2024-11-30T23:28:14.429Z
+updated: 2024-12-01T21:56:50.926Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,15 +38,15 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
 
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
@@ -54,10 +58,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll need to replace that mod with its latest version to fix the problem. For this, take note of the name of that mod, and then visit the [CurseForge website](https://www.curseforge.com/minecraft). Type the name of that mod and hit the search icon.
 
 ![Search icon on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/search-icon-the-curseforge-website.jpg) 
@@ -66,22 +66,14 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Different mod versions on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/different-mod-versions-on-the-curseforge-website.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click the "Download" button.
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Detect and Delete the Problematic Mod
@@ -128,12 +120,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Target field in the Minecraft Properties window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/target-field-in-the-minecraft-properties-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Apply" and "OK."
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change the Java Executable File
@@ -145,16 +141,12 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Installations tab in the Minecraft Launcher.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/installations-tab-in-the-minecraft-launcher.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the three dots next to the "Latest release" entry and choose "Edit."
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "More Options." Then, click the "Browse" option.
 
@@ -166,15 +158,19 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Open option in the Open File window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-option-in-the-open-file-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, restart the game and check for the issue again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reinstall _Minecraft_ 
 
@@ -183,6 +179,10 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  Copy the "Save" folder and paste it somewhere safe on your computer.
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
@@ -217,16 +217,21 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-essential-android-ad-blocking-the-top-7-app-list/"><u>[Updated] 2024 Approved Essential Android Ad Blocking The Top 7 App List</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-complete-ginger-island-in-stardew/"><u>[Updated] In 2024, The Complete Ginger Island in Stardew</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-strategies-for-optimal-ram-in-the-world-of-minecraft/"><u>[Updated] Strategies for Optimal RAM in the World of Minecraft</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos/"><u>2024 Approved The Tech Whiz's Playbook How to Nail Screen Recording on macOS</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/guide-complet-comment-realiser-une-restauration-dentier-de-votre-iphone-a-laide-de-fonebackup/"><u>Guide Complet: Comment Réaliser Une Restauration D'Entier De Votre iPhone À L'aide De FoneBackup</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-a18-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A18 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/shaky-video-tamer-for-handheld-cams/"><u>Shaky Video Tamer for Handheld Cams</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-yuva-2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Yuva 2.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-clipcomposer-critique-full-report/"><u>[New] ClipComposer Critique – Full Report</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-solving-the-mystery-of-your-own-face-appearing-during-calls/"><u>[New] Solving the Mystery of Your Own Face Appearing During Calls</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-video-capture-maximizing-performance-with-logitech-webcam-tech-for-2024/"><u>[Updated] Expert Video Capture Maximizing Performance with Logitech Webcam Tech for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-mastery-overcoming-adobe-premieres-srt-barriers/"><u>[Updated] Mastery Overcoming Adobe Premiere's SRT Barriers</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/capturing-the-world-from-above-in-stunning-hd-mi-drone-deep-dive/"><u>Capturing the World From Above in Stunning HD - Mi Drone Deep Dive</u></a></li>
+<li><a href="https://win-net.techidaily.com/choosing-the-right-user-account-type-essential-tips-for-setting-up-windows-11-successfully/"><u>Choosing the Right User Account Type: Essential Tips for Setting Up Windows 11 Successfully</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/discover-the-power-of-luts-in-digital-photography/"><u>Discover the Power of LUTs in Digital Photography</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/how-can-i-stop-windows-defender-from-deleting-a-file/"><u>How Can I Stop Windows Defender From Deleting a File?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-s23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel S23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-microphone-functionality-in-steelseries-arctis-headsets-the-ultimate-guide/"><u>How to Restore Microphone Functionality in SteelSeries Arctis Headsets: The Ultimate Guide</u></a></li>
+<li><a href="https://techidaily.com/remove-realme-c33-2023-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Realme C33 2023 unlock screen</u></a></li>
+<li><a href="https://techidaily.com/remove-reno-11f-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Reno 11F 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-xperia-10-v-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xperia 10 V</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Nokia C12</u></a></li>
 </ul></div>
 

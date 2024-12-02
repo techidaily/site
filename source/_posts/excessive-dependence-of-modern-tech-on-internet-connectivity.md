@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2024-11-11T16:13:39.584Z
-updated: 2024-11-13T16:05:29.335Z
+date: 2024-11-26T01:25:51.463Z
+updated: 2024-12-02T10:49:35.794Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Forced Updates Are Disruptive
@@ -36,13 +33,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  A Single Point of Failure
 
  What shocks me the most about this CrowdStrike debacle isn't just how fragile our technological world is, but the nature of the fragility.
@@ -52,6 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This teaches us an important lesson about redundancy and the unreliability of centralized systems. In an ideal world, critical systems would have backup plans including alternative platforms like Linux and Mac computers, but this isn't the case. Hopefully, we can learn from this incident and put some sort of backup system in place so we're prepared.
 
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
 
@@ -63,13 +57,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clouds Can Vanish
@@ -83,10 +78,7 @@ Jerome Thomas / How-To Geek
 Hannah Stryker / How-To Geek
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reduce Your Reliance on the Internet
@@ -110,19 +102,19 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-dive-into-iphone-x-animoji-the-complete-users-edition/"><u>[New] 2024 Approved Dive Into iPhone X Animoji The Complete User's Edition</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-directors-of-the-airspace-editing-for-impactful-drone-videos-for-2024/"><u>[Updated] Directors of the Airspace Editing for Impactful Drone Videos for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-ideal-pc-recording-software-for-windows-enthusiasts-for-2024/"><u>[Updated] Ideal PC Recording Software for Windows Enthusiasts for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-integrating-linktree-in-your-tiktok-bio-for-maximum-impact/"><u>2024 Approved Integrating Linktree in Your TikTok Bio for Maximum Impact</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/best-practices-for-overcoming-fatal-issues-with-archival-retrieval-kit-ark/"><u>Best Practices for Overcoming Fatal Issues with Archival Retrieval Kit (ARK)</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-nord-3-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Nord 3 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-6s-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 6s Space | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-realme-11-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Realme 11 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/optimize-your-data-retrieval-with-ifind-premier-data-recovery-tool-across-operating-platforms/"><u>Optimize Your Data Retrieval with iFind - Premier Data Recovery Tool Across Operating Platforms</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oneplus-open-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of OnePlus Open on Windows</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/unlocking-the-full-potential-of-youtube-video-interactions/"><u>Unlocking the Full Potential of YouTube Video Interactions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/update-now-canon-pixma-ts3322-printing-software-and-drivers-available-for-download/"><u>Update Now: Canon PIXMA TS3322 Printing Software & Drivers Available for Download</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-breaking-the-mold-pushing-a-video-into-hot-water/"><u>[New] 2024 Approved Breaking the Mold Pushing a Video Into Hot Water</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>[New] Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-spotlight-play-how-to-stand-out-with-youtube-gaming/"><u>[New] In 2024, Spotlight Play How to Stand Out with YouTube Gaming</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-screensaviors-guide-global-and-regional-channels-led-by-you/"><u>[New] ScreenSaviors Guide Global and Regional Channels Led by You</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1995-absolute-power-with-eastwood-as-luther-whitney-a-renowned-thief-who-witnesses-the-murder-of-an-influential-washington-lobbyist-by-his-young-protege-the207/"><u>1995 - Absolute Power, with Eastwood as Luther Whitney, a Renowned Thief Who Witnesses the Murder of an Influential Washington Lobbyist by His Young Protégé. The Film Was Based on Irwin Wagman's Novel ''The Charm School Murders''.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/data-cleanup-made-simple-mac-compatible-stellar-eraser-for-effortless-file-deletion-on-the-go/"><u>Data Cleanup Made Simple: Mac-Compatible Stellar Eraser for Effortless File Deletion On The Go</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-7-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 7 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-14-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oneplus-11r-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus 11R Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-7-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 7 Prevention & Solution</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-revealing-translation-methods-netflix-subtitle-software-comprehensive-guide-for-2024/"><u>New Revealing Translation Methods Netflix Subtitle Software Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-xs-max-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone XS Max using macOS finder</u></a></li>
 </ul></div>
 

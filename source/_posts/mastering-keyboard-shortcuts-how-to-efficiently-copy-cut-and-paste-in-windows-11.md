@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11"
-date: 2024-11-08T00:29:25.765Z
-updated: 2024-11-13T19:43:20.931Z
+date: 2024-11-27T18:59:18.927Z
+updated: 2024-12-02T06:11:06.178Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
 ## Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Does the Clipboard Work?](https://driver-download.techidaily.com/how-to-update-or-install-thunderbolt-drivers-on-a-windows-based-system-direct-link/)
@@ -19,13 +23,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 * [How to Copy, Cut, and Paste Using Right-Click](https://article-files.techidaily.com/uncomplicated-methodology-turning-clownfish-sounds-on-windows-systems-for-2024/)
 * [How to Copy, Cut, and Paste Using Application Menus](https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-g310-by-fonelab-android-recover-data/)
 * [How to Empty Your Clipboard](https://facebook-clips.techidaily.com/new-2024-approved-the-insiders-look-at-creating-viral-fb-cover-videos/)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -43,11 +40,19 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
  In Windows, you can even [synchronize your Clipboard between devices](https://support.microsoft.com/en-us/help/4028529/windows-10-clipboard) using the cloud. But that is an optional setting you have to turn on in System Settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Difference Between Copy and Cut
 
  When you copy something, Windows makes a copy of the information you want to the Clipboard and also leaves it in its original location. In contrast, when you perform the cut operation, Windows copies the information to the Clipboard but also removes the information from the original location.
 
  That means you typically use copy to duplicate information, and cut to move the information from one location to another. These fundamental concepts apply across almost every application, so let's go over the various different ways to copy, cut, and paste in Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Keyboard Shortcuts
 
@@ -64,10 +69,7 @@ Microsoft
 [These shortcuts now work in Windows 10's Command Prompt](https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/), too.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Alternative Copy, Cut, and Paste Keyboard Shortcuts
@@ -86,6 +88,10 @@ Microsoft
 
 ![Select Cut or Copy on the Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/right_click_file_copy.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then navigate to the new location and right-click where you'd like to put the files. The destination right-click can be inside a folder window, on the desktop, a drive on your computer, or even directly on a folder icon itself.
 
  Select "Paste" in the right-click menu that pops up.
@@ -94,29 +100,19 @@ Microsoft
 
  The files you just Cut or Copied will appear in the new location. Very handy!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  How to Copy, Cut, and Paste Using Application Menus
 
  You can also Copy, Cut, and Paste by selecting menu items with a mouse or touch screen. In programs with a [Ribbon-style interface](https://en.wikipedia.org/wiki/Ribbon%5F%28computing%29), you'll typically see a Clipboard or Edit block that contains Copy, Cut, and Paste buttons.
 
 ![Copy, Cut, and Paste in a typical Windows Ribbon Interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/aribbon_copy.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  In programs with compressed or hamburger-style menus (like Chrome and Firefox), you can often find the Copy/Cut/Paste functions in a section labeled Edit.
 
 ![Copy, Cut, and Paste in Chrome's Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/chrome_menu_copy.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Also, many older Windows programs include a series of drop-down menus at the top of the application window. Among them, you'll often find a menu titled Edit (which you can often call up by pressing Alt+E). In that menu, you can usually find Copy, Cut, and Paste commands.
 
@@ -129,13 +125,6 @@ Microsoft
  You can also [create a custom shortcut](https://on-screen-recording.techidaily.com/gameplay-memories-preserved-unveiling-6-minecraft-tips/) that will clear your Windows Clipboard.
 
 ![Clearing clipboard data in Windows 10 Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/clear_clipboard_data-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now that you know more about Copy, Cut, and Paste, we hope you have fun duplicating and moving your data with ease.
 
@@ -154,19 +143,16 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-vr-sickness-10-prevention-strategies-for-2024/"><u>[New] VR Sickness 10 Prevention Strategies for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-elite-15-4k-video-capture-gadgets/"><u>[Updated] In 2024, Elite 15 4K Video Capture Gadgets</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-srt-transition-subbed-content-conversion-strategies/"><u>[Updated] SRT Transition Subbed Content Conversion Strategies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/androids-ultimate-capture-secrets-revealed/"><u>Android's Ultimate Capture Secrets Revealed</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-lava-agni-2-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Lava Agni 2 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-best-10-mock-location-apps-worth-trying-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Best 10 Mock Location Apps Worth Trying On Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-samsung-galaxy-m34-5g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Samsung Galaxy M34 5G For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a1-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Oppo A1 5G Users</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/tomorrows-scrutiny-innovative-perspectives-for-2024/"><u>Tomorrow’s Scrutiny Innovative Perspectives for 2024</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-like-a-pro-effective-hard-restart-techniques-for-windows-10-users/"><u>Troubleshooting Like a Pro: Effective Hard Restart Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-for-cddvd-device-malfunctions-and-overcoming-error-39/"><u>Troubleshooting Tips for CD/DVD Device Malfunctions and Overcoming Error 39</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-gaining-full-access-with-the-command-prompt-in-windows-through-admin-rights/"><u>Ultimate Tutorial: Gaining Full Access with the Command Prompt in Windows Through Admin Rights</u></a></li>
-<li><a href="https://techidaily.com/understanding-random-password-generators-a-comprehensive-guide-on-functionality-and-application/"><u>Understanding Random Password Generators: A Comprehensive Guide on Functionality & Application</u></a></li>
-<li><a href="https://techidaily.com/windows-10-tweaks-and-tips-for-a-superior-gaming-setup-enhance-your-play-today/"><u>Windows 10 Tweaks and Tips for a Superior Gaming Setup – Enhance Your Play Today!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-essential-tactics-in-creating-convincing-testimonial-content/"><u>[New] 2024 Approved Essential Tactics in Creating Convincing Testimonial Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-speedy-guide-crafting-images-into-stellar-youtube-thumbnail-pics/"><u>[New] Speedy Guide Crafting Images Into Stellar YouTube Thumbnail Pics</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-yuva-2-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Yuva 2?</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-13-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-k11x-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo K11x Phone? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-easy-way-to-craft-your-digital-self-in-virtual-worlds-for-2024/"><u>The Easy Way to Craft Your Digital Self in Virtual Worlds for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-download-sites-showcasing-exquisite-text-effects-for-2024/"><u>Top Download Sites Showcasing Exquisite Text Effects for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-g54-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola G54 5G.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 10</u></a></li>
 </ul></div>
 

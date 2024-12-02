@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-11-17T18:48:40.928Z
-updated: 2024-11-24T03:12:22.575Z
+date: 2024-11-27T07:22:25.284Z
+updated: 2024-12-02T02:06:03.127Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Why the Demise of Samsung Messages Spells Trouble for the Future of Android
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,12 +24,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
@@ -45,7 +49,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Messages Feels, First and Foremost, Like a Google App
@@ -59,7 +63,7 @@ Close
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
@@ -81,10 +85,6 @@ Close
  With Google Messages, this is no longer the case. Google Messages doesn't match Samsung's One UI. It's designed with stock Android in mind, meaning it looks most at home on Pixel devices or phones that stick closely to Android's default look, like Motorola phones. The differences are subtle and likely don't matter to most people, but for me, the distinctions are painfully felt.
 
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
 
@@ -123,24 +123,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-ease-and-speed-effective-methods-for-comment-removal/"><u>[New] Ease and Speed Effective Methods for Comment Removal</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-elevating-gameplay-tips-for-using-the-steam-switch-controller/"><u>[New] Elevating Gameplay Tips for Using the Steam Switch Controller</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-elevate-your-instagram-presence-with-these-9-game-changing-tips/"><u>[New] In 2024, Elevate Your Instagram Presence with These 9 Game-Changing Tips</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-mix-mastery-choosing-top-dj-videos-for-events-for-2024/"><u>[Updated] Mix Mastery Choosing Top DJ Videos for Events for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ayuda-en-linea-con-venta-para-el-programa-ripper-and-convertidor-de-peliculas-winx-dvd-soluciones-profesionales/"><u>Ayuda en Línea Con Venta Para El Programa Ripper & Convertidor De Películas WinX DVD, Soluciones Profesionales</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/battle-of-the-beams-google-nest-audio-versus-apple-homepod-reviewed/"><u>Battle of the Beams: Google Nest Audio Versus Apple HomePod Reviewed</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/lating-youtubes-income-potential-with-cpm-rates-for-2024/"><u>Calculating YouTube's Income Potential with CPM Rates for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hear-from-happy-mac-users/"><u>Hear From Happy Mac Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g14-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G14 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-find-x6-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X6 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-complete-igtv-user-manual/"><u>In 2024, The Complete IGTV User Manual</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-honor-play-7t-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Honor Play 7T FRP Without Computer</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-redmi-k70-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi Redmi K70 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nokia-c12-plus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nokia C12 Plus</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic 6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-honor-magic-vs-2-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Honor Magic Vs 2</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-explore-the-best-facebook-lite-video-downloader-picks-of-2023-for-2024/"><u>[New] Explore the Best Facebook Lite Video Downloader Picks of 2023 for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-unlocking-free-secure-vlc-player-access-on-apple-devices-for-2024/"><u>[Updated] Unlocking Free, Secure VLC Player Access on Apple Devices for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-iphone-11-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On iPhone 11? Find the Best Solution Here</u></a></li>
+<li><a href="https://driver-download.techidaily.com/brother-l2700dw-printer-drivers-free-download-and-installation-guide-for-windows-pcs/"><u>Brother L2700DW Printer Drivers: Free Download & Installation Guide for Windows PCs</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-20-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark 20 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-lava-storm-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Lava Storm 5GFRP Lock</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-top-rated-free-face-creation-tools-online/"><u>New In 2024, Top-Rated Free Face Creation Tools Online</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-m6-pro-4g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco M6 Pro 4G</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/streamlining-file-management-the-top-six-tips-for-your-windows-11-mov-files-for-2024/"><u>Streamlining File Management - The Top Six Tips for Your Windows 11 MOV Files for 2024</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-ultimate-list-top-5-android-apps-for-organizing-your-phone-2013-edition/"><u>The Ultimate List: Top 5 Android Apps for Organizing Your Phone, 2013 Edition</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo .</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 10</u></a></li>
 </ul></div>
 

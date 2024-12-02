@@ -1,7 +1,7 @@
 ---
 title: Is It Possible for ChatGPT to Generate Visual Content?
-date: 2024-11-01T22:47:58.982Z
-updated: 2024-11-04T11:45:37.655Z
+date: 2024-11-26T09:41:59.588Z
+updated: 2024-12-01T18:42:34.935Z
 tags:
   - cutting-edge
 categories:
@@ -18,16 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Get AI-Generated Images](https://location-social.techidaily.com/how-to-change-honor-100-location-on-skout-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  No, ChatGPT cannot create images. However, you can use it to help you create prompts for AI image generators.
 
  ChatGPT is capable of many writing feats, and you might wonder if it can generate images. ChatGPT does not function as an AI image generator, but other AI services can generate images---and ChatGPT can even give you a hand.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Use ChatGPT as a Picture Generator?
 
@@ -49,15 +44,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Stable Diffusion "a robot eating a taco"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/stable-diffusion.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Jason Fitzpatrick / Stable Diffusion_
 
 Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Use Images for ChatGPT Prompts?
 
@@ -89,10 +85,7 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 ![The Dream by WOMBO AI image generator creating an image of a 4-dimensional whale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/dream-ia-generator-making-an-image-of-a-4-dimensional-whale.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Reyadh Rahaman / Dream
@@ -116,13 +109,6 @@ Reyadh Rahaman / Dream
 
 ![A surrealistic red dragon image created by Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/ai-dragon.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Reyadh Rahaman / Stable Diffusion
 
  Not bad. There are a few elements missing, however: Stable Diffusion probably doesn't have a great selection of examples for "genies being exhaled by a dragon," so we can forgive it in that regard. With that said, the subject in the image is clearly a red dragon, there is a definite focus on the color yellow, and the style is certainly reminiscent of Salvidor Dali's paintings.
@@ -144,17 +130,17 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-captivating-carousel-concept-for-ig-for-2024/"><u>[New] Captivating Carousel Concept for IG for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/eap-into-broadcasting-effortless-setup-for-your-mobile-youtube-ventures/"><u>[New] Leap Into Broadcasting Effortless Setup for Your Mobile YouTube Ventures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-the-great-debate-continues-is-bandicam-or-camtasia-better-in-2024/"><u>[Updated] The Great Debate Continues Is Bandicam or Camtasia Better, In 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719218779653-expert-tips-reinstating-functionality-of-wwinplusp-in-os/"><u>Expert Tips: Reinstating Functionality of WWin+P in OS</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-curve-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze Curve 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-fold-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Fold in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nubia-z50-ultra-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nubia Z50 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/integrating-gentle-decreases-into-your-audience-experience-via-audacity/"><u>Integrating Gentle Decreases Into Your Audience Experience via Audacity</u></a></li>
-<li><a href="https://games-able.techidaily.com/maintaining-childrens-security-in-social-chats/"><u>Maintaining Children’s Security in Social Chats</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/top-10-youtube-music-how-toes-2023-edition/"><u>Top 10 YouTube Music How-Toes, 2023 Edition</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-xiaomi-redmi-12-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Xiaomi Redmi 12.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-ultimate-guide-leading-4k-uhd-blu-ray-devices/"><u>[Updated] 2024 Approved Ultimate Guide Leading 4K UHD Blu-Ray Devices</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-crafting-the-core-plot-for-2024/"><u>[Updated] Crafting the Core Plot for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-narrowing-down-the-video-platform-wars-youtube-shorts-against-tiktok/"><u>[Updated] Narrowing Down the Video Platform Wars YouTube Shorts Against TikTok</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dissecting-the-livestream-battlefield-twitch-vs-youtube/"><u>2024 Approved Dissecting the Livestream Battlefield Twitch vs YouTube</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-moto-e13-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Moto E13 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-s17t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo S17t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/color-contrast-reimagined-choosing-hdr-for-better-videos/"><u>Color Contrast Reimagined Choosing HDR for Better Videos</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-oppo-reno-9a-by-fonelab-android-recover-music/"><u>The way to get back lost music from Oppo Reno 9A</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-uniden-r3-radar-scanner-a-look-at-its-sturdy-design-and-impressive-sensing-distance/"><u>Top-Rated Uniden R3 Radar Scanner: A Look at Its Sturdy Design and Impressive Sensing Distance</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-xiaomi-redmi-note-12r-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi Redmi Note 12R?</u></a></li>
 </ul></div>
 

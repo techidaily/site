@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating Windows' Latest Test Features with ViVeTool"
-date: 2024-11-11T03:48:18.884Z
-updated: 2024-11-14T07:16:32.793Z
+date: 2024-11-28T19:00:51.109Z
+updated: 2024-12-01T16:10:15.275Z
 tags:
   - deals
 categories:
@@ -49,13 +49,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  However, if you're eager to try out new features before anyone else, make sure to [back up your data](https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-14-pro-max-if-youve-tried-everything-by-drfone-ios/) and [create a restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) first. Additionally, it is recommended to use a [virtual machine](https://remote-screen-capture.techidaily.com/2024-approved-essential-guide-video-recording-with-vlc/) rather than your main system to test experimental features.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Should You Use the GUI or Command-Line Version of ViVeTool?
 
  ViVeTool offers two versions: a GUI (graphical user interface) and a command-line version. Both versions function equally well, but the primary distinction lies in their user-friendliness.
@@ -65,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  In summary, if you are comfortable with command-line tools like [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and want more flexibility, the command-line version of ViVeTool is the better choice. However, if you prefer a simpler interface and don't have much expertise in executing commands, the GUI version is a more suitable option.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use ViVeTool (GUI) to Activate Windows Features
@@ -78,32 +68,19 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 ![Setup file in ViVeTool GUI page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/setup-file.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open the downloaded file and follow the on-screen instructions to complete the installation.
 
 ![Install option in ViVeTool installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/install-option.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once the installation is complete, open the app, click the drop-down icon in the top-left corner, and choose your [current Windows build](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/). ViVeTool will now populate the data grid view, which may take some time, so be patient.
 
 ![Selecting features in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-features-in-vivetool.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Choose the feature you want to enable, click the "Perform Action" drop-down menu, and choose "Activate Feature." Alternatively, you can click the "Manually Change a Feature" field, enter the ID of the feature you want to enable, and choose "Activate Feature" from the menu.
@@ -116,6 +93,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  If you want to disable a feature, enter the feature ID in the "Manually Change a Feature" field and choose "Deactivate Feature" from the drop-down menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use ViVeTool (Command-Line) to Activate Windows Features
 
  As mentioned earlier, if you're comfortable using command-line tools like Command Prompt, you can use the command-line version of ViVeTool to activate Windows features.
@@ -124,16 +105,13 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![Zip file on the ViVeTool Downloads page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/zip-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the downloaded zip file and choose "Extract All" from the menu that appears.
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Choose a location where you want to [extract the file](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) and then click the "Extract" button.
 
@@ -156,6 +134,10 @@ ViVeTool.exe /enable /id:featureID
 ViVeTool.exe /enable /id:44788892
 
 ![ViVoTool Enable command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enable-command.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the command executes successfully, close Command Prompt and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/); the changes will take effect upon restart.
 
@@ -182,19 +164,24 @@ ViVeTool.exe /disable /id:44788892
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-break-through-the-crowd-key-youtube-seo-strategies-to-rank-high/"><u>2024 Approved Break Through the Crowd Key YouTube SEO Strategies to Rank High</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/best-android-photo-editor-is-pickup-top-in-2024/"><u>Best Android Photo Editor Is PickUp Top, In 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ing-a-professional-youtube-presence-via-smartphone/"><u>Building a Professional YouTube Presence via Smartphone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/how-to-swiftly-reinstall-and-configure-printer-drivers-in-windows-oses/"><u>How to Swiftly Reinstall and Configure Printer Drivers in Windows OSes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-technique-for-scrapping-multi-video-tiktok-archives/"><u>In 2024, The Ultimate Technique for Scrapping Multi-Video TikTok Archives</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/streamline-your-data-capture-process-using-abbyys-ocr-sdk-for-efficient-document-analysis/"><u>Streamline Your Data Capture Process Using ABBYY's OCR SDK for Efficient Document Analysis</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/the-definitive-review-on-the-anker-powercoreplus-26800-compact-energy-backup/"><u>The Definitive Review on the Anker PowerCore+ 26800 Compact Energy Backup</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-connecting-and-using-an-external-hdd-with-your-playstation-4/"><u>Ultimate Guide: Connecting and Using an External HDD with Your PlayStation 4</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-how-to-successfully-pair-android-phone-with-pc-using-bluetooth/"><u>Ultimate Guide: How to Successfully Pair Android Phone with PC Using Bluetooth</u></a></li>
-<li><a href="https://techidaily.com/ultimate-guide-selecting-the-perfect-vpn-to-protect-and-access-youtube-anywhere/"><u>Ultimate Guide: Selecting the Perfect VPN to Protect & Access YouTube Anywhere</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-for-burning-optical-discs-using-microsofts-latest-operating-system-windows-11/"><u>Ultimate Tutorial for Burning Optical Discs Using Microsoft's Latest Operating System, Windows 11</u></a></li>
-<li><a href="https://techidaily.com/ultimate-tutorial-mastering-game-sharing-on-your-ps4/"><u>Ultimate Tutorial: Mastering Game Sharing on Your PS4</u></a></li>
-<li><a href="https://techidaily.com/visual-distortions-gone-effortless-methods-for-clearer-tv-viewing-experience/"><u>Visual Distortions Gone: Effortless Methods for Clearer TV Viewing Experience</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-samsung-galaxy-a54-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Samsung Galaxy A54 5G Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-amplify-your-voice-on-twitter-top-video-uploading-solutions/"><u>[New] Amplify Your Voice on Twitter Top Video Uploading Solutions</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-craft-a-chic-google-collage-in-minutes-not-hours/"><u>[Updated] Craft a Chic Google Collage in Minutes, Not Hours</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-fullscreen-partnership-how-to-choose-an-mcn-for-2024/"><u>[Updated] Fullscreen Partnership How to Choose An MCN for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-memetic-magic-unlock-with-kapwing-creator/"><u>[Updated] Memetic Magic – Unlock with Kapwing Creator</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-recordingquality-analysis/"><u>[Updated] RecordingQuality Analysis</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tale-bearers-school-distinguished-dothee/"><u>[Updated] Tale Bearers School - Distinguished Dothee</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tech-trial-vlle-outlook-on-apps/"><u>[Updated] Tech Trial VLLE Outlook on Apps</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-se-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone SE Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-14-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-zero-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Zero 30 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a05-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A05 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-best-celebrity-voice-generator-tools-to-transform-your-voice-for-2024/"><u>New Best Celebrity Voice Generator Tools to Transform Your Voice for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M34 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-for-placing-multiple-geo-tags-on-google-maps-easily/"><u>The Ultimate Tutorial for Placing Multiple Geo-Tags on Google Maps Easily</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-x7-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find X7 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2plus-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-a2plus-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi A2+ Messages Recovery - Recover Deleted Messages from Xiaomi Redmi A2+</u></a></li>
 </ul></div>
 

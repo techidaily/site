@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2024-11-22T01:11:33.945Z
-updated: 2024-11-24T03:41:50.347Z
+date: 2024-12-01T07:26:00.570Z
+updated: 2024-12-01T21:57:59.583Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ---
 
 ## Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -36,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -58,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Purple:** Seven Dwarfs Minus Last Letter
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![The words for August 18 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-18-sorted-into-the-correct-groups.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Alarm Clock Buttons (Yellow):** 
 
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Do, Dope, Grump, Sleep
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  Today's game wasn't too bad. 
@@ -96,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Kiss, Nerd, Runt, and Whopper are all candies, and nothing else fit at all. They were in the Blue group, "Candy Pieces." 
 
  That left Do, Dope, Grump, and Sleep—once again, I was a bit stumped by Purple. I eventually realized that grump, dope, and sleep could all take a Y at the end and still make sense, but that didn't work for do. Purple turned out to be "Seven Dwarfs Minus Last Letter." Turns out that I need to up my fairytale game. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
 
@@ -125,18 +125,20 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-from-chaos-to-clarity-professional-tools-for-youtube-cuts-for-2024/"><u>[New] From Chaos to Clarity Professional Tools for Youtube Cuts for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-upgrade-your-photo-presence-best-border-selection-tips-for-instagram-for-2024/"><u>[New] Upgrade Your Photo Presence Best Border Selection Tips for Instagram for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-multi-platform-content-delivery-youtube-and-beyond/"><u>[Updated] Mastering Multi-Platform Content Delivery YouTube & Beyond</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-ultimate-srt-openedit-manual-for-mac-users-for-2024/"><u>[Updated] Ultimate SRT Open/Edit Manual for Mac Users for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-free-steelseries-drivers-for-arctis-5-headsets-now/"><u>Get Free SteelSeries Drivers for Arctis 5 Headsets Now!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-moto-g14-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G14 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/transformar-musica-desde-aac-a-wma-sin-costo-utilizando-el-servicio-en-linea-de-movavi/"><u>Transformar Música Desde AAC a WMA Sin Costo Utilizando El Servicio en Línea De Movavi</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/viral-skeleton-master/"><u>Viral Skeleton Master</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-blending-images-and-audio-for-dynamic-videos/"><u>[New] Blending Images and Audio for Dynamic Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-unlocking-igtvs-potential-a-video-resizing-primer/"><u>[New] Unlocking IGTV's Potential A Video Resizing Primer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-expand-your-online-realm-harnessing-youtube-insights-powerfully/"><u>[Updated] 2024 Approved Expand Your Online Realm Harnessing YouTube Insights Powerfully</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-14-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi 14 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-gt-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme GT 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-gt-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme GT 5? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-spark-10-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-y100i-power-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo Y100i Power 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/innovating-content-tips-for-facebook-slide-show-makers-for-2024/"><u>Innovating Content Tips for Facebook Slide Show Makers for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-best-mobile-recording-software-roundup-for-2024/"><u>The Best Mobile Recording Software Roundup for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge 2023</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-pro-max-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-streamlining-creativity-top-10-plugin-essentials-for-efficient-media-production/"><u>Updated In 2024, Streamlining Creativity Top 10 Plugin Essentials for Efficient Media Production</u></a></li>
 </ul></div>
 

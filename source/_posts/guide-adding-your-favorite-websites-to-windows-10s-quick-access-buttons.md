@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2024-11-19T17:53:38.412Z
-updated: 2024-11-24T03:46:30.766Z
+date: 2024-11-25T16:54:05.249Z
+updated: 2024-12-02T00:39:20.770Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ---
 
 ## Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,25 +29,21 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
@@ -60,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Website from Firefox
@@ -73,11 +65,19 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Create a Firefox Browser Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click the new Firefox icon on your desktop, and click "Properties." In the Target field, insert the full URL of the website you want to pin after the quotation mark. Here's an example of what the Target field should look like:
 
         `"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" https://www.howtogeek.com`
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "OK."
 
@@ -85,15 +85,15 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Microsoft Edge Website
 
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
@@ -114,16 +114,24 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-snapscreen-videorecorder-tool/"><u>[Updated] 2024 Approved SnapScreen Videorecorder Tool</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Itel A60s? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgotten-the-voicemail-password-of-samsung-galaxy-m34-5g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Samsung Galaxy M34 5G? Try These Fixes</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/hostgator-review-comparative-study-on-vps-and-shared-hosting-solutions/"><u>HostGator Review: Comparative Study on VPS and Shared Hosting Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mastering-the-fix-overcoming-bluetooth-connectivity-challenges-in-windows-11/"><u>Mastering the Fix: Overcoming Bluetooth Connectivity Challenges in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-poco-x6-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Poco X6 Pro</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/management-using-timestamps-to-amplify-views-on-youtube/"><u>Time Management Using Timestamps to Amplify Views on YouTube</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-x-flip-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo X Flip</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 8? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-14-pro-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 14 Pro takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-visual-marketing-on-youtube-with-banners-and-thumbnails/"><u>[New] In 2024, Mastering Visual Marketing on YouTube with Banners & Thumbnails</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-twitch-writers-picks-5-ultimate-cams-for-gameplay-broadcasting/"><u>[New] Twitch' Writers’ Picks 5 Ultimate Cams for Gameplay Broadcasting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-capture-save-and-share-mastering-playstation-4-recordings/"><u>[Updated] Capture, Save & Share Mastering PlayStation 4 Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-poker-professional-panelisms/"><u>2024 Approved POKER PROFESSIONAL PANELISMS</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/best-photo-editing-solutions-for-mac-and-pc-users-the-elite-top-1-tools-to-restore-your-pictures/"><u>Best Photo Editing Solutions for Mac & PC Users: The Elite Top 1# Tools to Restore Your Pictures</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effortlessly-save-popular-shows-from-aetv-as-high-quality-video-files-mp4-mov-and-avi-options-available/"><u>Effortlessly Save Popular Shows From AETV as High-Quality Video Files: MP4, MOV, and AVI Options Available</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c22-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C22 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-moto-g24-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Moto G24 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-your-conversation-safe-with-chatgpt-exploring-privacy-concerns/"><u>Is Your Conversation Safe with ChatGPT: Exploring Privacy Concerns</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-playback-issues-on-razr-40-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV playback issues on Razr 40</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-documents-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel Documents Online for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-spark-10-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-xiaomi-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-guide-to-twitters-video-converters-for-2024/"><u>The Essential Guide to Twitters Video Converters for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/vivo-y77t-messages-recovery-recover-deleted-messages-from-vivo-y77t-by-fonelab-android-recover-messages/"><u>Vivo Y77t Messages Recovery - Recover Deleted Messages from Vivo Y77t</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
 

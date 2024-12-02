@@ -1,7 +1,7 @@
 ---
 title: "Ubuntu User Guide: Personalizing Your Folders with Unique Icons"
-date: 2024-11-20T22:54:13.365Z
-updated: 2024-11-24T06:31:15.972Z
+date: 2024-11-26T20:21:02.982Z
+updated: 2024-12-02T08:01:20.862Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ## Ubuntu User Guide: Personalizing Your Folders with Unique Icons
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Why Change Folder Icons on Ubuntu](https://vp-tips.techidaily.com/updated-diving-deep-into-samsung-photo-enhancers-guide/)
@@ -22,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 * [Give a Unique Color to Your Folder Icons on Ubuntu](https://facebook-clips.techidaily.com/new-for-beginners-leveraging-facebook-data-with-ease/)
 * [How to Restore a Folder's Icon to Its Default Look](https://video-capture.techidaily.com/in-2024-how-to-record-teams-video-meeting-on-desktop-and-mobile/)
 * [Customize Ubuntu the Way You Want](https://twitter-videos.techidaily.com/2024-approved-integrate-twitter-and-snapchat-posting-tweets-as-snaps/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Head over to the location where you saved the downloaded icon. Then, choose the icon and click the "Open" button displayed at the top.
 
 ![A window for selecting a custom icon to set it as a folder icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-3.png) 
@@ -67,7 +63,11 @@ thumbnail: https://thmb.techidaily.com/bd8185a9d59d7e33d1cc856ce7e147e5a0c37bc76
 ![Folder icon with new look](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give a Unique Color to Your Folder Icons on Ubuntu
@@ -91,7 +91,7 @@ nautilus -q
 ![A window showing the main context menu along with the color tool sub-menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The folder icon color will be changed to blue.
@@ -99,7 +99,7 @@ nautilus -q
 ![Nautilus file manager showing home directory after changing color to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similarly, you can also add emblems to your folder icon.
@@ -107,6 +107,10 @@ nautilus -q
 ![Nautilus file manager shows the home directory after adding an emblem to a specific folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/14.png) 
 
  You can change the color of multiple folders at once. Select all the folders, then right-click and choose a suitable color for the folders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Restore a Folder's Icon to Its Default Look
 
@@ -116,29 +120,21 @@ nautilus -q
 
 ![Context menu showing different settings of the Folder in Nautilus file manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Within the properties, click on the currently used custom icon shown in the "Basic" section of folder properties.
 
 ![A window showing the properties of the selected folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Lastly, tap the "Revert" option to restore the custom icon to its default look.
 
 ![A window for reverting a custom icon to its default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You have successfully restored the folder icon to its original look.
 
 ![Nautilus file manager showing home directory after restoring icon of videos folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Similarly, if you have modified the folder color using the folder-color utility, you can also reset it to its original appearance.
 
@@ -151,6 +147,10 @@ nautilus -q
 ![Nautilus file manager showing home directory after restoring videos folder color icon to default look.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16.png) 
 
  The "Default" button of the folder-color extension will also revert any changes made from the folder's "Properties" section. However, any changes made using the folder-color extension, like changing the color, emblem, and others are irreversible through the "Revert" button under folder properties.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Customize Ubuntu the Way You Want
 
@@ -173,18 +173,24 @@ nautilus -q
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-evolving-tactics-for-crafting-immersive-mukbang-sessions/"><u>[Updated] In 2024, Evolving Tactics for Crafting Immersive Mukbang Sessions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-clarityai-creatives-unleash-editing-potential/"><u>2024 Approved ClarityAI Creatives Unleash Editing Potential</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/inners-guide-to-making-attractive-video-thumbnails-for-social-media-platforms/"><u>A Beginner's Guide to Making Attractive Video Thumbnails for Social Media Platforms</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F04 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-disruptions-fixing-video-restart-error/"><u>Avoiding Disruptions: Fixing Video Restart Error</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-se-2020-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-fix-error-1015-while-restoring-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to fix error 1015 while restoring iPhone 8 | Stellar</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-v30-pro-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo V30 Pro to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max System Issues? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-resolve-lg-monitor-driver-problems-in-windows-10-7-and-81-systems/"><u>How to Resolve LG Monitor Driver Problems in Windows 10, 7 and 8.1 Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m54-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M54 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/regaining-control-restoring-gpeditmsc-access-in-your-windows-home-system/"><u>Regaining Control: Restoring 'gpedit.msc' Access in Your Windows Home System</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/the-best-methods-to-perform-a-factory-reset-on-windows-server-2022/"><u>The Best Methods to Perform a Factory Reset on Windows Server 2022</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-advanced-techniques-for-youtube-card-use/"><u>[New] 2024 Approved Advanced Techniques for YouTube Card Use</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-compreranimal-webcam-tutorial-achieve-excellent-video-quality-for-2024/"><u>[New] Compreranimal Webcam Tutorial Achieve Excellent Video Quality for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-immediate-pause-screen-capture-steps/"><u>[Updated] In 2024, Immediate Pause Screen Capture Steps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-your-memories-on-ios-organized-albums-and-efficient-icloud-synchronization/"><u>[Updated] Streamline Your Memories on iOS Organized Albums & Efficient iCloud Synchronization</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/amplifying-audience-size-on-igtv-proven-approaches-for-success/"><u>Amplifying Audience Size on IGTV Proven Approaches for Success</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y100-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y100 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/essential-strategies-for-aspiring-prompt-engineers/"><u>Essential Strategies for Aspiring Prompt Engineers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-finding-and-downloading-epson-xp-830-driver-a-step-by-step-approach/"><u>Guide: Finding & Downloading Epson XP-830 Driver - A Step by Step Approach</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100a-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100A Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a23-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A23 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 11 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-successfully-recover-mfc42dll-and-end-those-frustrating-errors/"><u>How To Successfully Recover mfc42.dll and End Those Frustrating Errors</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-music-recovery-recover-deleted-music-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>Samsung Galaxy A25 5G Music Recovery - Recover Deleted Music from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-x50iplus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on X50i+ without backup.</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-xs-using-find-my-iphone-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone XS using find my iphone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-effortless-audiobook-production-the-ultimate-instruction-manual-for-aspiring-authors-for-2024/"><u>Updated Effortless Audiobook Production The Ultimate Instruction Manual for Aspiring Authors for 2024</u></a></li>
 </ul></div>
 

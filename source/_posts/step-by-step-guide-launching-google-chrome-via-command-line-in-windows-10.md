@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10"
-date: 2024-11-08T23:48:33.292Z
-updated: 2024-11-13T21:12:53.883Z
+date: 2024-11-27T17:46:07.488Z
+updated: 2024-12-01T17:43:28.185Z
 tags:
   - deals
 categories:
@@ -18,13 +18,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 * [Open Chrome in Incognito Mode](https://extra-support.techidaily.com/in-2024-sierras-cloud-essentials-drives-full-access-guide/)
 * [Open Chrome Straight to a Specific Website](https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
  Launch Command Prompt, then enter "start chrome" into the window to open Google Chrome. You can also run "start chrome /incognito" to open Chrome to an incognito tab instead, or run "start chrome example.com" to open Chrome to a specific website, replacing "example.com" with the address of the website or web page you want to open.
@@ -38,10 +31,7 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Command Prompt, run the following command:
@@ -56,9 +46,17 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Search "Run" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-run.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, type **Chrome** and then select the "OK" button.
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The web browser will now open.
 
@@ -74,13 +72,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
  You'll now be running Chrome as an administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Open Chrome in Incognito Mode
 
  To [open Chrome in incognito mode](https://visual-screen-recording.techidaily.com/new-pinnacle-5-frame-timelapse-recorder-for-2024/) from the Command Prompt, run the following command:
@@ -89,26 +80,20 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do this from the Run program, enter this command instead:
 
 `chrome /incognito` 
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Chrome will now open in incognito mode.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
@@ -120,6 +105,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `start chrome www.howtogeek.com` 
 
 ![Opening Chrome to howtogeek.com](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-starting-chrome-with-a-specific-website.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have multiple profiles on Google Chrome, opening Chrome in this way to a specific website will automatically launch into the most recently used profile. 
 
@@ -134,13 +123,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or, to open the site in incognito mode, use:
 
@@ -165,24 +147,24 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-lowering-the-quality-of-obs-streaming/"><u>[New] In 2024, Lowering the Quality of OBS Streaming</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-expert-insights-on-top-hdr-cameras/"><u>[Updated] 2024 Approved Expert Insights on Top HDR Cameras</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-in-2024-getting-acquainted-with-discords-innovations/"><u>[Updated] In 2024, Getting Acquainted with Discord's Innovations</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-photographys-best-haven-seamlessly-merge-free-and-charged-digital-space/"><u>[Updated] Photography's Best Haven Seamlessly Merge Free and Charged Digital Space</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/capturing-webcasts-without-payment-fees/"><u>Capturing Webcasts Without Payment Fees</u></a></li>
-<li><a href="https://program-issues.techidaily.com/cyberpunk-2077-and-steam-a-comprehensive-guide-to-resolving-download-issues/"><u>Cyberpunk 2077 and Steam: A Comprehensive Guide to Resolving Download Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-guide-solving-the-mystery-of-a-malfunctioning-wacom-drawing-tablet/"><u>Expert Guide: Solving the Mystery of a Malfunctioning Wacom Drawing Tablet</u></a></li>
-<li><a href="https://techidaily.com/expert-tutorial-enabling-and-using-remote-desktop-feature-in-windows-11/"><u>Expert Tutorial: Enabling and Using Remote Desktop Feature in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/exploring-vpn-tunneling-protocols-an-overview-and-typology/"><u>Exploring VPN Tunneling Protocols: An Overview and Typology</u></a></li>
-<li><a href="https://techidaily.com/how-to-change-icon-size-on-windows-11/"><u>How to Change Icon Size on Windows 11</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-realme-gt-5-240w-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Realme GT 5 (240W)?</u></a></li>
-<li><a href="https://techidaily.com/how-to-securely-transfer-windows-11-documents-in-just-seven-steps/"><u>How to Securely Transfer Windows 11 Documents in Just Seven Steps!</u></a></li>
-<li><a href="https://techidaily.com/how-to-unblock-torrent-sites-or-check-torrent-site-alternatives/"><u>How to Unblock Torrent Sites (Or Check Torrent Site Alternatives)</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-boosting-vimeo-content-delivery/"><u>In 2024, Boosting Vimeo Content Delivery</u></a></li>
-<li><a href="https://techidaily.com/instant-vpn-configuration-tips-a-simple-step-by-step-process-for-secure-browsing/"><u>Instant VPN Configuration Tips: A Simple Step-by-Step Process for Secure Browsing</u></a></li>
-<li><a href="https://techidaily.com/master-safe-mode-on-windows-10-explore-4-effective-methods-and-their-screenshots/"><u>Master Safe Mode on Windows 10: Explore 4 Effective Methods and Their Screenshots</u></a></li>
-<li><a href="https://techidaily.com/maximize-your-pubg-matches-expert-strategies-to-skyrocket-fps-in-2020/"><u>Maximize Your PUBG Matches: Expert Strategies to Skyrocket FPS in 2020</u></a></li>
-<li><a href="https://techidaily.com/overcome-high-disk-usage-problems-a-successful-fix-for-windows-10s-task-manager-dilemma/"><u>Overcome High Disk Usage Problems - A Successful Fix for Windows 10’S Task Manager Dilemma</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unlocking-the-secrets-of-cr2-images-comprehensive-guide-on-opening-and-managing-camera-raw-formats/"><u>Unlocking the Secrets of CR2 Images: Comprehensive Guide on Opening and Managing Camera Raw Formats</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-step-by-step-guide-to-switch-game-recording/"><u>[New] Step-by-Step Guide to Switch Game Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-technique-screen-recording-on-the-go/"><u>[Updated] The Essential Technique Screen Recording on the Go</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-chromebook-c202sa-review/"><u>Asus Chromebook C202SA Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-apple-homepod-mini-analysis-featuring-audio-quality-and-smart-assistant-capabilities/"><u>Comprehensive Apple HomePod Mini Analysis: Featuring Audio Quality & Smart Assistant Capabilities</u></a></li>
+<li><a href="https://driver-download.techidaily.com/geforce-rtx-3090-driver-update-get-the-best-performance-for-your-windows-system/"><u>GeForce RTX 3090 Driver Update: Get the Best Performance for Your Windows System</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-c67-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme C67 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 12 Pro Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715860430243-in-2024-activating-built-in-recorders-on-mate-and-p-series-phones-mate-1020-p2010/"><u>In 2024, Activating Built-In Recorders on Mate and P Series Phones (Mate 10/20; P20/10).</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-honor-90-lite-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Honor 90 Lite Phones with/without a PC</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-moto-g34-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Moto G34 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-google-pixel-fold-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Google Pixel Fold</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X Flip Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/understanding-vectors-first-steps-and-essential-apps/"><u>Understanding Vectors First Steps and Essential Apps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 User's Tutorial: Customizing Date and Time Display Preferences"
-date: 2024-11-20T22:14:30.388Z
-updated: 2024-11-23T23:23:51.211Z
+date: 2024-11-24T19:58:09.280Z
+updated: 2024-12-02T05:09:15.139Z
 tags:
   - desktop
 categories:
@@ -11,17 +11,13 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ## Windows 11 User's Tutorial: Customizing Date and Time Display Preferences
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Select From the Available Date and Time Formats](https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p40-drfone-by-drfone-virtual-android/)
 * [Set a Custom Date and Time Format](https://techtrends.techidaily.com/top-10-must-watch-teen-films-streaming-on-netflix/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 * To set the custom format, type "Region" in Windows Search to open region settings. Then, click Additional Settings and configure custom formats in the Date and Time tab.
 
  If you don't like the default date and time format and prefer something more intuitive, changing it is simple. You can either choose from the available formats or create a custom one. This guide will show you how to do just that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Select From the Available Date and Time Formats
 
@@ -54,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![Opening the region settings in the Windows Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-region-settings-in-the-windows-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to the "Formats" tab and click the "Additional Settings" button in the lower-right corner. Then, move to the "Time" tab and select your preferred time format next to "Short Time" and "Long Time" from the options provided. Otherwise, use the notation provided at the end of the window to set a custom format. After adding the desired formats, click "Apply" and "OK."
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![Changing the time format from the additional region settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-changing-the-time-format-from-the-addition-region-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, navigate to the "Date" tab and choose your preferred date format next to "Short Date" and "Long Date" from the available options. Or use the provided notations to set a custom date format.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![Changing the date format in the region settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-changing-the-date-format-in-the-region-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -92,22 +92,20 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/deal-video-maker-apps-for-novice-iphone-and-android-users-for-2024/"><u>[New] Ideal Video Maker Apps for Novice iPhone and Android Users for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-asus-proart-pa-329q-reviewed-a-detailed-look-at-the-leading-4k-workstation-display/"><u>[Updated] 2024 Approved Asus ProArt PA 329Q Reviewed A Detailed Look at the Leading 4K Workstation Display</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-5-secrets-to-preventing-blank-scenes-with-obs-recording/"><u>2024 Approved 5 Secrets to Preventing Blank Scenes with OBS Recording</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-oppo-a56s-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Oppo A56s 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-smart-8-hd-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Smart 8 HD phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-cinematic-wonders-with-hero5-black-a-filmmakers-companion/"><u>In 2024, Cinematic Wonders with Hero5 Black A Filmmaker's Companion</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-upgrade-to-windows-11/"><u>In 2024, How to Upgrade to Windows 11 ?</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-u23-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on U23 Pro</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-the-fm20dll-is-missing-error-quickly-and-easily/"><u>Troubleshooting the 'fm20.dll Is Missing Error' Quickly and Easily</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/ultimate-headset-guide-for-drone-racing-enthusiasts/"><u>Ultimate Headset Guide for Drone Racing Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-itel-a60-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Itel A60</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/unveiling-engagement-secrets-top-10-video-reacting-techniques-for-2024/"><u>Unveiling Engagement Secrets Top 10 Video Reacting Techniques for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g04-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G04 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhance-videos-with-music-inshots-simple-methods-for-2024/"><u>[Updated] Enhance Videos with Music InShot's Simple Methods for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/boost-productivity-techniques-for-moving-files-in-windows-11/"><u>Boost Productivity: Techniques for Moving Files in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-a14-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy A14 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/vering-the-magic-behind-youtube-shorts/"><u>Discovering the Magic Behind Youtube Shorts</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-update-dell-audio-driver-the-hassle-free-way/"><u>Download & Update Dell AUDIO Driver: The Hassle-Free Way</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/gpts-prophecy-versus-magazine-zodiac-readings/"><u>GPT's Prophecy Versus Magazine Zodiac Readings</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Plus Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/logic-pro-method-to-gradually-reduce-audio-levels-for-2024/"><u>Logic Pro Method to Gradually Reduce Audio Levels for 2024</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/mastering-the-process-how-to-download-and-change-dailymotion-content-into-mp4-files-easily/"><u>Mastering the Process: How to Download and Change Dailymotion Content Into MP4 Files Easily</u></a></li>
+<li><a href="https://facebook.techidaily.com/portals-new-journey-begins-with-launch-of-go-model/"><u>Portal’s New Journey Begins with Launch of Go Model</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-13-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y36-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y36</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-a58-4g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have A58 4G fingerprint</u></a></li>
 </ul></div>
 

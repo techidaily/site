@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2024-11-19T19:23:41.705Z
-updated: 2024-11-24T04:52:51.627Z
+date: 2024-11-26T10:24:53.926Z
+updated: 2024-12-01T19:19:07.349Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,19 +23,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Facebook Accounts Are Getting Hacked
 
 [Facebook account hacking](https://youtube-sure.techidaily.com/ed-2024-approved-gamers-quest-1000plus-game-adventures-unfolded/) is a pernicious issue, and even tech-savvy users can get caught out since these attacks are so relentless. You need to be lucky all the time, but the hacker only has to be lucky once. If nothing else, this means you should always treat anything posted by your friends on Facebook as potentially suspicious. Most importantly, if you have another way of contacting someone besides Facebook, you should confirm any information they post on a separate channel. Give them a call, or call someone who lives with them, and confirm the information before acting on it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Criminals Know You Trust Your Friends More Than Strangers
 
  Facebook accounts are valuable to hackers for a variety of reasons. First, if they manage to hack one account, it becomes easy to hack more accounts. Usually, a compromised account will send out a malware-infected link to other people in the network. Since the link is apparently coming from someone they know, people open it uncritically. Then _their_ networks get infected the same way, and so on.
 
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
 
@@ -53,31 +57,27 @@ An example of a trading offer. Note how the text invites users to send direct me
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-january-5-2021-1887366490)_
 
  One important fact you should know, is that faking a screenshot of a website is extremely easy. Just like those [fake PayPal balances](https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-realme-gt-5-by-drfone-android/), all it takes is five seconds in a browsers element inspection tool, and you can make any website say anything.
 
  The most obvious question you should be asking yourself, is why this person is so desperate to share this "investment" opportunity in the first place? What do they stand to gain? Either the account is hacked, or the person is complicit and is taking money in exchange for roping more people into the scam,
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
 
@@ -100,19 +100,16 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-comprehensive-overview-of-final-cut-pro-techniques/"><u>[New] Comprehensive Overview of Final Cut Pro Techniques</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-6-best-apps-to-remove-objects-from-photo-on-iphone/"><u>2024 Approved 6 Best Apps to Remove Objects From Photo on iPhone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-cutting-edge-screens-the-7-top-choices-pixel-artists/"><u>2024 Approved Cutting-Edge Screens The 7 Top Choices Pixel Artists</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unlock-clearer-livestreams-with-these-4-tips/"><u>2024 Approved Unlock Clearer Livestreams with These 4 Tips</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/deciphering-minmax-cpu-values-through-windows-menus/"><u>Deciphering Min/Max CPU Values Through Windows Menus</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-xcover-6-pro-tactical-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy XCover 6 Pro Tactical Edition Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>In 2024, Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-urban-jungles-and-beyond-top-10-without-gta/"><u>In 2024, Urban Jungles and Beyond - Top 10 Without GTA</u></a></li>
-<li><a href="https://fox-that.techidaily.com/one-airpod-not-working-heres-what-to-do/"><u>One AirPod Not Working? Here's What to Do</u></a></li>
-<li><a href="https://techidaily.com/sign-xltm-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xltm files Online for Free</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-6-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic 6 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-lava-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Lava</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-walking-through-time-a-guide-to-inverted-videos-on-instagram/"><u>[Updated] 2024 Approved Walking Through Time A Guide to Inverted Videos on Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premiere-pros-picks-professional-camera-stabilizers-reviewed/"><u>[Updated] Premiere Pros' Picks Professional Camera Stabilizers Reviewed</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-of-adobe-cloud-and-alternative-storage-solutions/"><u>2024 Approved Unveiling the Secrets of Adobe Cloud & Alternative Storage Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12t-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12T Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-recordings-selecting-top-pc-and-mac-apps/"><u>In 2024, Elevate Your Recordings Selecting Top PC & Mac Apps</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-motorola-moto-g04-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Motorola Moto G04 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-csv-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .csv files Online for Free</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-the-asus-chromebook-flip-c302ca-value-packed-and-feature-rich-for-tech-enthusiasts/"><u>The Ultimate Guide to the Asus Chromebook Flip C302CA – Value Packed and Feature Rich for Tech Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Tecno</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 without itunes or icloud</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

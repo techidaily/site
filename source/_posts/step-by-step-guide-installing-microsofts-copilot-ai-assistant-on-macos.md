@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-11-16T22:38:38.245Z
-updated: 2024-11-23T19:53:33.893Z
+date: 2024-11-26T01:28:34.063Z
+updated: 2024-12-02T04:39:34.903Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ## Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Use the Copilot Web App](https://some-guidance.techidaily.com/2024-approved-ultimate-guide-best-zero-cost-image-editors-online/)
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 * [Use Copilot on Windows for the Full Experience](https://extra-lessons.techidaily.com/vlc-player-tips-10-hidden-features/)
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Copilot Web App
 
@@ -31,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -53,16 +61,12 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
@@ -72,11 +76,7 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -98,24 +98,21 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-snapping-and-recording-screen-on-macos/"><u>[New] 2024 Approved Snapping and Recording Screen on macOS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-seamless-guide-to-utilizing-mobizen-screen-recorder/"><u>[New] Seamless Guide to Utilizing Mobizen Screen Recorder</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-ultimate-budget-free-fb-visual-media-maker/"><u>[Updated] Ultimate Budget-Free FB Visual Media Maker</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-finding-non-inshot-video-software-for-pcs/"><u>2024 Approved Finding Non-Inshot Video Software for PCs</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/can-you-change-your-voice-magically-explore-alternative-tools-for-2024/"><u>Can You Change Your Voice Magically? Explore Alternative Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-moto-g13-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G13 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-xcover-7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy XCover 7 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/in-2024-flip-rotate-and-spin-the-ultimate-guide-to-online-video-rotators/"><u>In 2024, Flip, Rotate, and Spin The Ultimate Guide to Online Video Rotators</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-essentials-for-enhanced-uav-functionality/"><u>In 2024, Top Essentials for Enhanced UAV Functionality</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-hot-30i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Hot 30i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/the-defender-deletion-blueprint-for-windows-1011-users/"><u>The Defender Deletion Blueprint for Windows 10/11 Users</u></a></li>
-<li><a href="https://win-special.techidaily.com/troubleshooting-tips-for-restoring-onedrive-synchronization-in-windows-operating-systems-windows-1011/"><u>Troubleshooting Tips for Restoring OneDrive Synchronization in Windows Operating Systems (Windows 10/11)</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/ultimate-precision-machines-best-of-the-series-for-2024/"><u>Ultimate Precision Machines - Best of the Series for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-insiders-handbook-for-instagrams-audio-emoji-placement/"><u>[New] 2024 Approved The Insider’s Handbook for Instagram's Audio Emoji Placement</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-behind-the-scenes-with-vlc-player-features/"><u>[New] Behind the Scenes with VLC Player Features</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-elite-selection-7-superior-fps-games-for-2024/"><u>[New] Elite Selection 7 Superior FPS Games for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-asmr-mic-stellar-sound-value/"><u>2024 Approved Best Budget ASMR Mic Stellar Sound Value</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6s-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6s</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone SE (2020)?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/prime-windows-10-photo-display/"><u>Prime Windows 10 Photo Display</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-realme-12-proplus-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Realme 12 Pro+ 5G on Windows</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-a59-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of A59 5G on Windows</u></a></li>
+<li><a href="https://techidaily.com/smart-8-hd-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Smart 8 HD support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-camon-20-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Camon 20 without backup.</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/top-rated-disk-cleanup-tools-for-windows-11-10-8-and-7-get-a-faster-computer/"><u>Top Rated Disk Cleanup Tools for Windows 11, 10, 8 & 7 – Get a Faster Computer</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windows-11-and-10-optimal-hevc-h265-encoder-for-quality-4k-video-conversion/"><u>Windows 11 & 10 Optimal HEVC H.265 Encoder for Quality 4K Video Conversion</u></a></li>
 </ul></div>
 

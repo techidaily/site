@@ -1,7 +1,7 @@
 ---
 title: "Enough of Touch Screen Overload: Time Automakers Embrace Simplicity"
-date: 2024-11-11T03:28:26.952Z
-updated: 2024-11-14T08:51:51.396Z
+date: 2024-11-26T21:27:17.847Z
+updated: 2024-12-01T21:01:10.886Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 ---
 
 ## Enough of Touch Screen Overload: Time Automakers Embrace Simplicity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,10 +24,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
  Big touch screens give modern vehicles a real sci-fi vibe, but there's a reason old-fashioned knobs and controls have been the go-to choice for controlling your car's features for a century. Touch screens have their place, but automakers are going a little overboard, if you ask me.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Touch Screens Have Many Downsides
@@ -33,10 +34,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 ![A Tesla passenger enabling Vehicle Motion Cues in their iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tesla-passenger-seat-iphone-control-center-vehicle-motion-cues-enabled-wide-shot-1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek
@@ -46,16 +44,7 @@ Christian Zibreg / How-To Geek
  It's also an open question whether these screens need to be so large. I own the KIA Sportage model just before the series got a massive touch screen in the 2023 model update and, honestly, I'm not sure if I could live with such a huge screen long-term. Whereas the small central touch screen my car currently has (so I can use Android Auto or Apple CarPlay) feels like a much more sensible balance.
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Physical Controls Are Safer for Drivers
@@ -63,10 +52,7 @@ Christian Zibreg / How-To Geek
  While the primary safety benefit of physical controls in a car is that you can operate them without looking, that's not the only reason they are safer. For one thing, touch screens are more complex, more fragile, and more prone to failure than a physical switch or toggle. You can also develop muscle memory to operate your car controls while putting pretty much zero cognitive load on yourself. The controls will always be in the same place and operate the same way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Putting Everything on One Screen Is a Mistake
@@ -98,20 +84,16 @@ Christian Zibreg / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-inside-track-to-optimizing-adobe-and-selective-non-adobe-solutions/"><u>[New] In 2024, Inside Track to Optimizing Adobe and Selective Non-Adobe Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-comprehensive-guide-to-no-cost-meme-magic/"><u>2024 Approved The Comprehensive Guide to No-Cost Meme Magic</u></a></li>
-<li><a href="https://techidaily.com/boosting-windows-11-audio-quality-top-tips-for-using-an-equalizer-effectively/"><u>Boosting Windows 11 Audio Quality: Top Tips for Using an Equalizer Effectively</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-capturing-screen-images-using-windows-11/"><u>Complete Guide: Capturing Screen Images Using Windows 11</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-creating-gifs-from-your-photos-and-images/"><u>Complete Tutorial for Creating GIFs From Your Photos and Images</u></a></li>
-<li><a href="https://techidaily.com/easy-tutorial-on-how-to-perform-a-fresh-start-on-your-macbook-air/"><u>Easy Tutorial on How to Perform a Fresh Start on Your MacBook Air</u></a></li>
-<li><a href="https://techidaily.com/fix-non-functional-headphones-on-windows-11-pc-troubleshooting-steps/"><u>Fix: Non-Functional Headphones on Windows 11 PC - Troubleshooting Steps</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/free-youtube-spotlight-with-two-key-approaches/"><u>Free YouTube Spotlight with Two Key Approaches</u></a></li>
-<li><a href="https://techidaily.com/get-your-snipping-tool-back-to-work-with-these-fixes-for-windows-10-and-11-systems/"><u>Get Your Snipping Tool Back to Work with These Fixes for Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-call-of-duty-warzone-pc-crashes/"><u>How to Fix Call of Duty: Warzone PC Crashes</u></a></li>
-<li><a href="https://techidaily.com/1723808353699-how-to-install-mods-for-fallout-4-on-your-pc-beginners-guide/"><u>How to Install Mods for Fallout 4 on Your PC – Beginner’s Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-lava-blaze-2-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Lava Blaze 2 and Browser | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-lowdown-on-the-maximum-video-length-on-instagram-for-2024/"><u>The Lowdown on the Maximum Video Length on Instagram for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-your-images-flawlessly-using-the-versatile-movavi-photo-editor-on-computers/"><u>Transform Your Images Flawlessly Using the Versatile Movavi Photo Editor on Computers</u></a></li>
-<li><a href="https://win-answers.techidaily.com/update-smooth-gameplay-restored-for-mass-effect-legendary-collection/"><u>Update: Smooth Gameplay Restored for Mass Effect Legendary Collection</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>[New] Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-huawei-p60-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Huawei P60 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-f54-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy F54 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solving-device-id-33a0-in-acpi/"><u>Solving Device ID 33A0 in ACPI</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/egic-backlink-building-for-enhanced-online-traction/"><u>Strategic Backlink Building for Enhanced Online Traction</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-c110-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia C110.</u></a></li>
+<li><a href="https://some-tips.techidaily.com/tickler-toolkit-image-mashup-for-2024/"><u>Tickler Toolkit Image Mashup for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/uninterrupted-playback-capture/"><u>Uninterrupted Playback Capture</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Pro support - Forgotten screen lock.</u></a></li>
 </ul></div>
 

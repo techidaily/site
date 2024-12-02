@@ -1,7 +1,7 @@
 ---
 title: Essential Factors to Evaluate Before Buying an Electric Bicycle
-date: 2024-11-10T16:01:42.374Z
-updated: 2024-11-13T16:42:55.577Z
+date: 2024-11-24T17:40:03.095Z
+updated: 2024-12-01T18:11:29.146Z
 tags:
   - cutting-edge
 categories:
@@ -61,6 +61,10 @@ Sarah Chaney / How-To Geek
 
  It's also worth noting that an ebike with a throttle kind of negates the torque sensor vs cadence sensor debate—that is, if you plan to primarily use the throttle over the pedals. Using only the throttle and never the pedals will result in less total range, but you'll never experience the resistance from a torque sensor or the jerky nature of a cadence sensor.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Gearing System: Do You Want a Traditional Bike Feel?
 
 ![gearing system on fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/spedometer-on-fiido-x-ebike.jpg) 
@@ -73,13 +77,6 @@ Sarah Chaney / How-To Geek
 
  Some ebikes will offer three gears to switch between, while others may offer up to seven, nine, or eleven gears. Typically, an ebike with a gearing system is also equipped with a torque sensor, and vice versa, but this isn’t always the case, so double-check the specs before you buy.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Battery Range: How Far Do You Need to Go?
 
  The battery range on an electric bike can range between 20 and 100 miles, and the estimated range you’ll see from manufacturers is just that: an estimate. Your actual mileage will vary based on your weight, riding conditions, which pedal-assist level you’re using, and whether your bike has a throttle.
@@ -91,10 +88,7 @@ Sarah Chaney / How-To Geek
 ![battery on priority ecoast ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/battery-on-priority-ecoast-ebike.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
@@ -106,6 +100,10 @@ Sarah Chaney / How-To Geek
  If you live three to five miles away from school, you could probably commute every day and only charge the bike once a week. If you want to get to school faster and don’t mind charging your ebike more often, a longer battery range won’t be as worth it as a more powerful motor on a Class 3 ebike.
 
  Some ebikes, like the [Fiido E-Gravel](https://extra-support.techidaily.com/in-2024-quick-start-making-professional-gifs/), offer riders the choice of buying an extra battery to extend their overall range. However, the larger your overall battery capacity is, the heavier your ebike will be.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step-Through Frames vs Step-Over Frames
 
@@ -119,13 +117,6 @@ Sarah Chaney / How-To Geek
 
 ![headlight on fiido egravel c22 pro](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/headlight-on-fiido-egravel-c22-pro.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Sarah Chaney / How-To Geek
 
  Many ebike manufacturers will offer free accessories with an ebike purchase as a promotional tactic. Free accessories could include front or rear lights, fenders, cargo racks, baskets, or a water bottle holder. While these bonus accessories are great, they shouldn't be the reason you choose an ebike because they're usually inexpensive, and you can add them to any ebike afterward.
@@ -138,16 +129,13 @@ Sarah Chaney / How-To Geek
 
  Before you make the leap, you can check with a local shop to see if an ebike in stock for you to test ride. Not all ebikes will be available to try locally, but it's becoming more likely as ebikes grow in popularity.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Commuter Ebike
 
 ![Velotric Discover 1 E-Bike on rocks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/velotric-discover-1-e-bike-on-rocks.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cory Gunther / How-To Geek
 
@@ -159,41 +147,36 @@ Cory Gunther / How-To Geek
 
 ![white priority bicycles ecoast in front of brick wall](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/9edbd9e5.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sarah Chaney / How-To Geek
 
  If you're after a super comfortable, recreational ride, look no further than cruisers. A cruiser ebike, like the [eCoast](https://tech-recovery.techidaily.com/how-to-properly-incorporate-source-code-into-a-microsoft-word-file/), has a wider, cushier seat than you'll find on a commuter ebike, as well as a suspension system and fatter tires for a smoother ride. Many cruisers are designated as Class 2 or 3, which means they come with a throttle and don't require any pedaling from you if you're just trying to enjoy a relaxing day outside.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Cargo Ebike
 
 ![cargo ebike on dirt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/970b0067.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Cory Gunther / How-To Geek
 
  A cargo ebike, as the name implies, is handy for hauling a lot of stuff around. These ebikes are generally heavier and larger than other ebikes before adding your own cargo. A cargo ebike, like the [RadWagon 4](https://youtube-docs.techidaily.com/024-approved-avoiding-strikes-youtube-edition/), is defined by its fat tires, built-in racks or extra seats (or both), and thicker frame. Although commuter ebikes might be more common, many people prefer cargo ebikes for their commute to work because it offers so much storage space.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  Folding Ebike
 
 ![folded fiido x ebike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/folded-fiido-x-ebike.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Sarah Chaney / How-To Geek
@@ -227,24 +210,17 @@ Sarah Chaney / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/astering-the-art-of-youtubing-avoiding-the-top-8-newbie-errors-for-2024/"><u>[New] Mastering the Art of YouTubing Avoiding the Top 8 Newbie Errors for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-quick-tips-for-iphone-7-video-saving-for-2024/"><u>[New] Quick Tips for iPhone 7 Video Saving for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-mastering-visual-effects-a-detailed-kinemaster-green-screen-tutorial-for-2024/"><u>[Updated] Mastering Visual Effects A Detailed Kinemaster Green Screen Tutorial for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-pioneering-tools-to-embellish-photos-with-words-for-2024/"><u>[Updated] Pioneering Tools to Embellish Photos with Words for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Oppo A56s 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-note-50-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme Note 50 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 7 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-from-your-apple-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID From your Apple iPhone XS?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Realme Phone without Google Account?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-oppo-reno-10-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Oppo Reno 10 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-note-30-vip-racing-edition-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Note 30 VIP Racing Edition working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-gt-neo-5-se-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT Neo 5 SE working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-sony-xperia-10-v-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Sony Xperia 10 V working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-vivo-v30-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo V30 unlock screen</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/revitalize-your-ios-devices-a-step-by-step-guide-to-clearing-out-iphone-models-14-13-and-11/"><u>Revitalize Your iOS Devices: A Step-by-Step Guide to Clearing Out iPhone Models 14, 13 & 11</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721456130625-trouble-with-your-iphone-light-here-are-12-solutions-for-a-brighter-tomorrow/"><u>Trouble With Your iPhone Light? Here Are 12 Solutions for a Brighter Tomorrow!</u></a></li>
-<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 11</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-polishing-your-production-perfect-for-instagram-viewers/"><u>[New] 2024 Approved Polishing Your Production Perfect for Instagram Viewers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-complete-video-revenue-playbook-dm-vs-yo-edition/"><u>[New] 2024 Approved The Complete Video Revenue Playbook Dm Vs. Yo Edition</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-innovative-ai-for-discord-enthusiasts-for-2024/"><u>[New] Innovative AI for Discord Enthusiasts for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-trailblazing-through-time-era-images-explore-3-inverse-techniques-on-facebook/"><u>[Updated] 2024 Approved Trailblazing Through Time-Era Images Explore 3 Inverse Techniques on Facebook</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-multiformat-manual-effortless-conversion-of-srt-files/"><u>2024 Approved Multiformat Manual Effortless Conversion of SRT Files</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-high-view-count-a-youtube-video-guide-for-2024/"><u>Achieving High View Count A YouTube Video Guide for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211009248-9789358056716-ghostly-phenomena/"><u>Ghostly Phenomena | Free Book</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/gratis-mp3-versie-naar-m2ts-konverteren-via-web-duurzaam-meesterig/"><u>Gratis MP3-Versie Naar M2TS Konverteren Via Web - Duurzaam Meesterig</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a56s-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A56s 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-plus-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s Plus to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-ce-3-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord CE 3 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
 </ul></div>
 

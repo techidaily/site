@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users"
-date: 2024-11-13T04:05:12.329Z
-updated: 2024-11-13T16:52:29.793Z
+date: 2024-11-28T07:56:24.579Z
+updated: 2024-12-02T06:42:30.416Z
 tags:
   - deals
 categories:
@@ -11,18 +11,15 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 
 ## Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Get Sound Packs of Old Windows Sounds](https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-150-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/)
 * [Change System Sounds in Settings](https://screen-activity-recording.techidaily.com/2024-approved-effective-group-meetings-googles-top-solutions-4/)
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * To change the system sounds, open the sound settings, pick the Windows event, and switch it with the appropriate one in the sound pack.
 
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Get Sound Packs of Old Windows Sounds
 
@@ -55,16 +56,7 @@ Close
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change System Sounds in Settings
@@ -72,13 +64,6 @@ Close
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
 
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
@@ -93,10 +78,7 @@ Close
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
@@ -112,6 +94,10 @@ Close
 Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
@@ -142,24 +128,21 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cutting-edge-methods-for-capturing-audio-in-audacity/"><u>[New] 2024 Approved Cutting-Edge Methods for Capturing Audio in Audacity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-illuminating-imagery-pro-level-tips-for-spectacular-photos/"><u>[Updated] Illuminating Imagery Pro-Level Tips for Spectacular Photos</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-quick-and-easy-online-photo-cropping-hacks-for-2024/"><u>[Updated] Quick and Easy Online Photo Cropping Hacks for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fallout-4-black-screen-issue-fix-and-enjoy-uninterrupted-gaming/"><u>Fallout 4 Black Screen Issue: Fix and Enjoy Uninterrupted Gaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/navigating-fun-with-junior-drivers-for-2024/"><u>Navigating Fun with Junior Drivers for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/navigating-the-latest-in-pcs-and-peripherals-with-toms-hardware-guides/"><u>Navigating the Latest in PCs & Peripherals with Tom's Hardware Guides</u></a></li>
-<li><a href="https://techidaily.com/rendering-workload/"><u>Rendering Workload</u></a></li>
-<li><a href="https://techidaily.com/resolving-windows-10-installation-issue-fix-error-code-80/"><u>Resolving Windows 10 Installation Issue - Fix Error Code 80 #</u></a></li>
-<li><a href="https://techidaily.com/seamless-website-translation-swift-conversion-in-chrome-firefox-and-edge/"><u>Seamless Website Translation: Swift Conversion in Chrome, Firefox & Edge</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-capturing-images-on-your-pc-using-windows-7/"><u>Simple Guide: Capturing Images on Your PC Using Windows 7</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-to-determine-your-current-windows-operating-system/"><u>Simple Steps to Determine Your Current Windows Operating System</u></a></li>
-<li><a href="https://techidaily.com/skype-cant-connect-5-ways-to-fix-on-windows-11-easily/"><u>Skype Can't Connect: 5 Ways to Fix on Windows 11 Easily!</u></a></li>
-<li><a href="https://techidaily.com/solving-frame-rate-issues-why-do-i-experience-drop-in-frames-per-second-fps-while-playing-diablo-4-on-pc/"><u>Solving Frame Rate Issues: Why Do I Experience Drop in Frames Per Second (FPS) While Playing Diablo 4 on PC?</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-boot-your-windows-7vistaxp-into-safe-mode/"><u>Step-by-Step Guide: Boot Your Windows 7/Vista/XP Into Safe Mode</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-enabling-wireless-internet-on-your-computer-or-laptop/"><u>Step-by-Step Guide: Enabling Wireless Internet on Your Computer or Laptop</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/step-by-step-instructions-for-recovering-lost-images-after-a-cleanup-in-windows-11/"><u>Step-by-Step Instructions for Recovering Lost Images After a Cleanup in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-to-jumpstart-your-rainbow-six-siege-gameplay/"><u>The Ultimate Fix Guide to Jumpstart Your Rainbow Six Siege Gameplay</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-7-solutions-how-to-restore-sync-for-icloud-pictures-on-iphone/"><u>Top 7 Solutions: How To Restore Sync For iCloud Pictures On iPhone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-best-flip-screen-cam-picks-your-guide-to-excellent-vlogging/"><u>[New] 2024 Approved Best Flip-Screen Cam Picks Your Guide to Excellent Vlogging</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-beat-goes-on-integrating-songs-into-your-snapchats/"><u>[New] The Beat Goes On Integrating Songs Into Your Snapchats</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-unlocking-full-potential-the-laptop-recording-manual/"><u>[New] Unlocking Full Potential The Laptop Recording Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strategic-timestamp-use-for-increased-youtube-traction/"><u>[Updated] Strategic Timestamp Use for Increased YouTube Traction</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/easily-resolve-discords-overlay-problem-a-comprehensive-guide/"><u>Easily Resolve Discord's Overlay Problem - A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-14-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 14 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-13-mini-apple-id-and-apple-pay-by-drfone-ios/"><u>How to Change Credit Card from Your iPhone 13 mini Apple ID and Apple Pay</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-f5-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco F5 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/messenger-video-guide-dimensions-file-type-elapsed-for-2024/"><u>Messenger Video Guide Dimensions, File Type, Elapsed for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-note-30-vip-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Note 30 VIP unlock screen</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-oneplus-12r-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of OnePlus 12R</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/smooth-start-scripts-captivating-podcast-intros-for-2024/"><u>Smooth Start Scripts Captivating Podcast Intros for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x100-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X100 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-note-30i-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix Note 30i.</u></a></li>
 </ul></div>
 

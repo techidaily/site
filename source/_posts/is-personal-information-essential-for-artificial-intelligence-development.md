@@ -1,7 +1,7 @@
 ---
 title: Is Personal Information Essential for Artificial Intelligence Development?
-date: 2024-10-31T01:58:56.977Z
-updated: 2024-11-03T21:45:24.458Z
+date: 2024-11-26T18:56:25.950Z
+updated: 2024-12-01T18:25:12.971Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  As AI becomes more common and concerns grow about how user data is protected, it's important to understand why this is different than old internet security concerns of the last 20 years. Surprisingly, the solution might be to use the same old internet safety rules we've always used.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Personal Data?
@@ -32,15 +29,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  This means that a human might be reviewing that data. If you're using [ChatGPT to do some vacation planning](https://vp-tips.techidaily.com/updated-in-2024-visual-impact-seamlessly-add-photos-to-your-instagram-account/), that may not be a problem. If you are asking GPT to debug some proprietary code or edit confidential contracts on Adobe, it could be a problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Generative AI Is Trained
 
  As an AI trainer, hundreds of other trainers and I wrote AI prompts and the corresponding responses to contribute to a massive data set that would train LLMs how to respond. Most AI are trained with data sets like the ones I work on, and they contribute to the model differently than the natural language processing algorithms that form the framework of most generative AI models. How data sets are created is proprietary because data sets are another way to make an AI model unique.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Developers Need User Data
@@ -50,10 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  One way developers and their clients can resolve this issue is by employing humans to read end-user prompts, categorize how the AI was used, and evaluate how well the AI performed. Developers, marketing experts, and social scientists need to know how we use AI because that will tell them how AI can help people instead of irritating them. The only way forward is for them to study end-user prompts. That is, the information you've provided to the AI service while using it. The good news is that most AI apps allow you to opt out of data collection. They need user data, and quality matters, but most of the time one user's data is just as useful as another.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Developers Might Protect Our Privacy
@@ -61,10 +56,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Most developers claim that to improve AI while protecting user privacy, prompts are always separated from the accounts that wrote them. If that's true, there would be no way for humans to evaluate the data to tie the prompt to a specific person. So far, no major AI company has announced any kind of security breach regarding user data, but the potential is there. Unfortunately, unless a company gets hacked, we won't know how safe they are being with our data. Another option commonly available on AI apps like Google Gemini, [Facebook/Instagram](https://youtube-data.techidaily.com/ed-2024-approved-cementing-climactic-conclusions/), [and even Adobe](https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-video-editing-apps-for-kids-a-comprehensive-list/) are allowing users to opt out of sharing their data. Again, this requires the end user to trust that the developer isn't going to use the data anyway. Since there is no way for us to know how secure our data is with these companies, we should do what we can to act responsibly with our data.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How We Can Protect Ourselves?
@@ -86,22 +78,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-effortless-srt-conversion-the-ultimate-txt-solution-in-a-flash/"><u>[Updated] 2024 Approved Effortless SRT Conversion The Ultimate TXT Solution in a Flash</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-novice-to-vlogger-your-guide-to-creating-a-youtube-chanel-for-2024/"><u>[Updated] From Novice to Vlogger Your Guide to Creating a YouTube Chanel for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-enliven-snapshots-using-circular-transparency-gradient/"><u>[Updated] In 2024, Enliven Snapshots Using Circular Transparency Gradient</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-the-strategic-use-of-tags-a-guide-to-youtube-success/"><u>[Updated] The Strategic Use of Tags A Guide to YouTube Success</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-troubleshooting-update-your-synaptics-touchpad-driver-without-hassle/"><u>Easy Troubleshooting: Update Your Synaptics Touchpad Driver Without Hassle</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-google-pixel-8-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Google Pixel 8 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m14-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M14 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-10-youtube-video-ideas-for-sharing-your-personal-story/"><u>In 2024, 10 YouTube Video Ideas for Sharing Your Personal Story</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-honor-magic-5-pro-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Honor Magic 5 Pro</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-lava-yuva-3-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://techidaily.com/sign-wpd-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wpd file Online for Free</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/upgrade-to-cooler-masters-new-ai-diamond-nanotech-thermal-compound-in-cryofuse-5-for-superior-heat-management/"><u>Upgrade to Cooler Master's New AI Diamond Nanotech Thermal Compound in CryoFuse 5 for Superior Heat Management</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-discovering-where-youtube-video-management-happens-for-2024/"><u>[Updated] Discovering Where YouTube Video Management Happens for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-visual-cutting-edge-extracting-frames-from-films-on-windows-10-for-2024/"><u>[Updated] Visual Cutting Edge Extracting Frames From Films on Windows 10 for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-note-30-vip-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Note 30 VIP Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-nord-n30-se-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Nord N30 SE Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-itel-a60s-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Itel A60s Phone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-reno-11-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 11 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/onyx-outcome-new-driver/"><u>Onyx Outcome: New Driver?</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-motorola-moto-g-stylus-5g-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Motorola Moto G Stylus 5G (2023) without backup.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/tucked-into-narratives-a-review-of-evening-storytelling-videos-for-2024/"><u>Tucked Into Narratives A Review of Evening Storytelling Videos for 2024</u></a></li>
 </ul></div>
 

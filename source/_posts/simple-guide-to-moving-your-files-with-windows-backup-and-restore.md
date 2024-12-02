@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Moving Your Files with Windows Backup & Restore
-date: 2024-11-11T01:57:31.324Z
-updated: 2024-11-13T17:08:40.442Z
+date: 2024-11-25T05:46:08.523Z
+updated: 2024-12-02T04:24:11.256Z
 tags:
   - deals
 categories:
@@ -11,19 +11,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Simple Guide to Moving Your Files with Windows Backup & Restore
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Step 1: Sign in to Your Microsoft Account](https://facebook-video-footage.techidaily.com/the-content-creators-dilemma-vimeo-or-youtube-in-2024/)
 * [Step 2: Manage Your Backup Settings](https://facebook-video-recording.techidaily.com/new-2024-approved-step-into-the-rhythm-of-social-video-editing-with-music/)
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -33,13 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  Step 1: Sign in to Your Microsoft Account
 
  Microsoft uses its cloud storage to hold your data during the transfer process, so you need to sign in to your Microsoft account (or [sign up for one](http://account.microsoft.com/account) if you haven't already).
@@ -47,13 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To sign in, in the search box on your taskbar, type **Settings**, and click the "Settings" option.
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
@@ -64,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -81,6 +68,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
  You can also see an estimate of how much storage you'll need to perform the backup in the bottom left-hand corner of the window. _Free Microsoft accounts come with just 5GB of folder storage_, so if you need to back up more than that, you must [purchase more storage through a different Microsoft plan](https://www.microsoft.com/en-gb/microsoft-365/onedrive/compare-onedrive-plans). Alternatively, you could perform a manual [backup to an external hard drive](https://instagram-videos.techidaily.com/new-understanding-and-executing-photo-gender-modification-across-platforms-for-2024/), or [use a third-party storage solution](https://instagram-video-recordings.techidaily.com/navigating-the-truth-in-your-photos-an-instagram-selfie-audit/). However, you _cannot_ use an external storage device or a third-party cloud service with Windows Backup. 
@@ -92,6 +83,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
 * The Credentials drop-down will help you to transfer your account details, Wi-Fi networks, and passwords.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Step 3: Backup Your Old PC
 
  Now that you've told Windows what you want to mirror on your new PC, you're ready to perform the backup. To do this, click "Back Up."
@@ -101,10 +96,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
@@ -112,13 +104,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Microsoft
 
@@ -143,22 +128,20 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-beginners-walkthrough-for-screencastify-recorder/"><u>[New] Beginner's Walkthrough for Screencastify Recorder</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-how-to-record-video-with-logitech-webcam/"><u>[New] In 2024, How to Record Video with Logitech Webcam</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-transform-imaging-expertise-in-adobes-high-dynamic-range/"><u>[New] Transform Imaging Expertise in Adobe's High Dynamic Range</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-game-recording-a-comprehensive-review-for-2024/"><u>[Updated] In-Game Recording A Comprehensive Review for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/building-bonds-youtube-and-brands-in-unity/"><u>Building Bonds YouTube and Brands in Unity</u></a></li>
-<li><a href="https://techidaily.com/cpu-at-100-effective-fixes-for-optimizing-your-systems-performance/"><u>CPU at 100%? Effective Fixes for Optimizing Your System's Performance</u></a></li>
-<li><a href="https://techidaily.com/diagnosing-and-repairing-darkened-webcam-display-for-windows-users/"><u>Diagnosing and Repairing Darkened Webcam Display for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/discover-the-worlds-leading-torrent-platforms-a-comprehensive-top-10-guide/"><u>Discover the World's Leading Torrent Platforms: A Comprehensive Top 10 Guide</u></a></li>
-<li><a href="https://techidaily.com/effortless-way-to-upgrade-graphics-device-drivers-in-windows-10-system/"><u>Effortless Way to Upgrade Graphics Device Drivers in Windows 10 System</u></a></li>
-<li><a href="https://techidaily.com/essential-tips-for-successful-windows-10-os-installation/"><u>Essential Tips for Successful Windows 10 OS Installation</u></a></li>
-<li><a href="https://techidaily.com/expert-recommendations-top-video-editors-specially-designed-for-mac-by-apple/"><u>Expert Recommendations: Top Video Editors Specially Designed for Mac by Apple</u></a></li>
-<li><a href="https://techidaily.com/fix-printer-driver-issues-on-windows-11/"><u>Fix Printer Driver Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/fixing-an-undetected-sd-card-quick-troubleshooting-steps/"><u>Fixing an Undetected SD Card: Quick Troubleshooting Steps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-curve-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze Curve 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/stepwise-approach-to-srt-file-creation-brilliance/"><u>Stepwise Approach to SRT File Creation Brilliance</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/"><u>Updated 2024 Approved Mastering Echo Effects Implementing Reverb in Digital Sound Environments (Windows Edition)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-essential-techniques-for-erasing-background-elements-in-figma/"><u>[New] Essential Techniques for Erasing Background Elements in Figma</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-poll-power-players-quintessential-politic-games-for-2024/"><u>[Updated] Poll Power Players Quintessential Politic Games for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-secrets-of-selective-zoom-sharpening-in-google-meet/"><u>2024 Approved Secrets of Selective Zoom Sharpening in Google Meet</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-2-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic5-ultimate-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic5 Ultimate in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-banish-buffering-repair-facebook-videos-on-phonestablets/"><u>In 2024, Banish Buffering – Repair Facebook Videos on Phones/Tablets</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209548353-9781785357817-living-on-the-inner-edge/"><u>Living on the Inner Edge | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-vr-hurdles-the-definitive-guide-to-solving-steamvr-error-308/"><u>Overcoming VR Hurdles: The Definitive Guide to Solving SteamVR Error #308</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-11-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme 11 Pro</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24plus-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy S24+ can't play MP4 video files</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-xiaomi-13t-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Xiaomi 13T</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y200-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y200 FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://techidaily.com/vivo-t2-pro-5g-messages-recovery-recover-deleted-messages-from-vivo-t2-pro-5g-by-fonelab-android-recover-messages/"><u>Vivo T2 Pro 5G Messages Recovery - Recover Deleted Messages from Vivo T2 Pro 5G</u></a></li>
 </ul></div>
 

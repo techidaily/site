@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2024-11-11T17:40:15.173Z
-updated: 2024-11-14T00:59:51.920Z
+date: 2024-11-29T04:27:34.558Z
+updated: 2024-12-02T09:45:28.577Z
 tags:
   - cutting-edge
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![A list of orders for mugs, spoons, teapots, and kettles in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/test-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  My goal is to calculate the revenue and profit for each order. While the formula required to do this isn't complex, let's just assume that I knew nothing about Excel, and it was my first day on the job. I'd turn to ChatGPT and ask it for a formula:
 
 Close 
@@ -60,10 +64,7 @@ Close
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  You Can Create Formatting Rules With ChatGPT
@@ -73,10 +74,7 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
@@ -88,10 +86,7 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
@@ -107,10 +102,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Still Need to Check the Formulas Manually
@@ -138,17 +130,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-enlightened-viewing-the-right-aspect-ratio-for-you/"><u>[New] Enlightened Viewing The Right Aspect Ratio for You</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-top-vr-game-engines-2023-update/"><u>[New] Top VR Game Engines -2023 Update</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>2024 Approved Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722873472660-apple-introduces-its-revolutionary-new-iphone-join-us-live/"><u>Apple Introduces Its Revolutionary New iPhone – Join Us Live!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/comparative-analysis-snapchats-ai-vs-microsofts-bing-chat-on-skype-top-8-distinctive-features/"><u>Comparative Analysis: Snapchat's AI Vs. Microsoft's Bing Chat on Skype - Top 8 Distinctive Features</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/detailed-guide-on-video-editing-techniques-and-how-to-use-them/"><u>Detailed Guide on Video Editing Techniques and How to Use Them</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/ensure-your-dell-optiplex-7010-is-running-smoothly-latest-driver-downloads-available-now/"><u>Ensure Your Dell OptiPlex 7010 Is Running Smoothly - Latest Driver Downloads Available Now</u></a></li>
-<li><a href="https://techidaily.com/revive-your-arch-bluetooth-mouse-compatibility-following-the-latest-windows-amoled-update/"><u>Revive Your Arch Bluetooth Mouse Compatibility Following the Latest Windows Amoled Update</u></a></li>
-<li><a href="https://techidaily.com/seamlessly-transfer-your-dvd-content-a-step-by-step-guide-for-windows-11-users/"><u>Seamlessly Transfer Your DVD Content: A Step-by-Step Guide for Windows 11 Users</u></a></li>
-<li><a href="https://techidaily.com/secure-your-ipad-with-a-virtual-private-network-simple-setup-steps-for-enhanced-privacy/"><u>Secure Your iPad with a Virtual Private Network: Simple Setup Steps for Enhanced Privacy</u></a></li>
-<li><a href="https://techidaily.com/simple-solutions-resolve-your-logitech-keyboard-delay-issues-with-these-effortless-tips/"><u>Simple Solutions: Resolve Your Logitech Keyboard Delay Issues with These Effortless Tips</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/the-ultimate-guide-to-downloading-and-refreshing-your-asus-bluetooth-drivers/"><u>The Ultimate Guide to Downloading and Refreshing Your ASUS Bluetooth Drivers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-ensure-audible-vids-on-tweet-platform-for-2024/"><u>[New] Ensure Audible Vids on Tweet Platform for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-fresh-off-the-press-film-review-and-complementary-options/"><u>[New] In 2024, Fresh-Off-the-Press Film Review and Complementary Options</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-mastering-the-art-of-fcp-freedom-for-2024/"><u>[New] Mastering the Art of FCP Freedom for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/apple-books-application-a-comprehensive-review/"><u>Apple Books Application: A Comprehensive Review</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dive-into-tiktok-edits-a-comprehensible-guide-for-all/"><u>Dive Into TikTok Edits A Comprehensible Guide for All</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-updated-drivers-for-your-amd-ryzen-processor-now-available/"><u>Download Updated Drivers for Your AMD Ryzen Processor - Now Available</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a79-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A79 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-multimedia-balancing-audio-visuals-and-content-quality-live/"><u>Mastering Multimedia Balancing Audio, Visuals, and Content Quality Live</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-11-proplus-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme 11 Pro+ on Windows?</u></a></li>
 </ul></div>
 

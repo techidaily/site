@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents"
-date: 2024-11-09T01:23:25.133Z
-updated: 2024-11-13T22:11:56.128Z
+date: 2024-11-25T02:56:48.826Z
+updated: 2024-12-02T01:36:23.559Z
 tags:
   - deals
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 * [Find Files Using Command Prompt](https://extra-approaches.techidaily.com/how-to-produce-a-trending-solo-podcast-series-for-2024/)
 * [Open Files Using Command Prompt](https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The "dir" command followed by a search term allows you to find files and view their file paths.
@@ -30,21 +34,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Run CMD from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-run-cmd-start.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  With the Command Prompt opened, you’re ready to find and open your file.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Find Files Using Command Prompt
 
@@ -60,7 +50,15 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![A file with "example" in the file name, the path to the file, and some basic attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now that we've found our file, let's open it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Files Using Command Prompt
 
@@ -74,16 +72,13 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Using the cd command to change the directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cd-doc-ex.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have inputted your command, press the Enter key. You’ll now be in that folder.
 
 ![We have successfully changed directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-changed-directory-successfully-1.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s now time to open the [file within that folder](https://remote-screen-capture.techidaily.com/new-mastering-iphone-screen-recording-with-minimal-fuss-for-2024/). Our file is named “Example File.”
 
@@ -92,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  “example file.docx”
 
 ![Enter the file name and file extension to open a file using Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-open-example-file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It is very important to include the file name in quotation marks in this instance because there is a space in the file name. You need one if there is a space in a folder name, too.
 
@@ -107,13 +106,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![File path with quotes on the file name only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-example-file-with-quotes.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  There are a couple of other important things to keep in mind.
 
  The first is that Windows paths are not case sensitive. You could write "EXAMPLE file.docx" or "eXaMpLe FiLe.dOcX" and Command Prompt wouldn't care.
@@ -123,19 +115,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  The second is that you can open files with unknown file extensions, you just have to manually specify which program to use first. This isn't any different from trying to open an unknown file format with File Explorer.
 
 ![Opening a file with an unknown format, in this case ".abc123" as an example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-abc123-unknown-format.png) 
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This isn't just applicable to the Command Prompt, either. PowerShell behaves the same way as Command Prompt for most jobs, and that is especially true if you're talking about something simple.
 
@@ -154,20 +133,20 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-comprehensive-picsart-insight-for-enhanced-creativity/"><u>[New] Comprehensive PicsArt Insight for Enhanced Creativity</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-2023-guide-selecting-no-charge-fb-video-and-photo-artists/"><u>[New] In 2024, 2023 Guide Selecting No-Charge FB Video & Photo Artists</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-joining-forces-in-video-marketing-on-youtube/"><u>[New] Joining Forces in Video Marketing on YouTube</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ersonalize-your-soundtrack-constructing-a-youtube-playlist-from-home-and-on-the-move/"><u>[New] Personalize Your Soundtrack Constructing a YouTube Playlist From Home & On-the-Move</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-essential-livestream-providers-the-ultimate-list/"><u>[Updated] 2024 Approved Essential Livestream Providers The Ultimate List</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-get-perfect-film-endings-for-your-projects-on-the-house/"><u>[Updated] 2024 Approved Get Perfect Film Endings for Your Projects - On the House</u></a></li>
-<li><a href="https://techidaily.com/75-discount-and-10-off-nordvpn-coupon/"><u>75% Discount & $10 Off - NordVPN Coupon</u></a></li>
-<li><a href="https://techidaily.com/boosting-the-load-time-of-your-windows-11-operating-system-efficiently/"><u>Boosting the Load Time of Your Windows 11 Operating System Efficiently</u></a></li>
-<li><a href="https://techidaily.com/choosing-the-ideal-chrome-vpn-top-picks-and-effortless-installation-tips/"><u>Choosing the Ideal Chrome VPN: Top Picks and Effortless Installation Tips</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-instructions-how-to-take-out-nvidia-drivers-in-windows-11/"><u>Comprehensive Instructions: How to Take Out Nvidia Drivers in Windows 11</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-beginner-to-expert-with-a-complete-fcp-guidebook-for-2024/"><u>From Beginner to Expert with a Complete FCP Guidebook for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-apple-iphone-se-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On Apple iPhone SE?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-instructions-to-recording-and-sharing-your-voice-on-iphone/"><u>Step-by-Step Instructions to Recording & Sharing Your Voice On iPhone</u></a></li>
-<li><a href="https://techidaily.com/1723808332581-what-are-random-password-generators-discover-their-purpose-and-usage-tips-for-enhanced-online-security/"><u>What Are Random Password Generators? Discover Their Purpose & Usage Tips for Enhanced Online Security</u></a></li>
-<li><a href="https://techidaily.com/1723808338427-why-isnt-my-logitech-mouse-working-diagnosis-and-fixes-revealed/"><u>Why Isn't My Logitech Mouse Working? Diagnosis & Fixes Revealed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-snaps-with-quick-voice-customization-techniques-on-snapchat/"><u>[New] 2024 Approved Enhance Snaps with Quick Voice Customization Techniques on Snapchat</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities/"><u>[Updated] Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/t-guide-to-creating-compact-engaging-youtube-content-for-2024/"><u>Expert Guide to Creating Compact, Engaging YouTube Content for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100i Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-a2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi A2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on HTC U23 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-crossing-over-attending-tiktok-live-gigs-easily/"><u>In 2024, Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-top-6-instagram-money-calculator-safe-and-effective/"><u>In 2024, Top 6 Instagram Money Calculator - Safe & Effective</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-pova-6-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 6 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V30 | Dr.fone</u></a></li>
 </ul></div>
 

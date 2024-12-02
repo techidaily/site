@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-11-08T09:53:27.546Z
-updated: 2024-11-13T16:47:01.901Z
+date: 2024-11-26T16:59:52.480Z
+updated: 2024-12-02T04:26:40.340Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ---
 
 ## DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,10 +27,7 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
  Decentralized Social, or DeSo, is a way of social networking built on open blockchain technology without a central authority that owns and operates the network, creating new opportunities for how we can use social media and giving more power to you, the user.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **A Quick Note on Web2 and Web3** 
@@ -40,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ![Network structures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Network-strcuture.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)_
@@ -55,6 +53,10 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
  The social graph used by legacy Web2 firms as we experience it can be understood like an iceberg in which we often only see the tip protruding above water while there's an enormous amount of data hidden below the surface which we may or may not be able to interact with or see. Essentially, they are choosing which parts of the iceberg to bring to the surface and allow you to interact with and see while deciding which parts to leave hidden below the water's surface. Furthermore, you don't get to know how they are making these selections for you.
 
  In Web2, central authorities have ultimate control over this trove of data, they own it, and they use it as they see fit. DeSo applications being built in Web3 are poised to bring more of the opaque aspects of our social graph above the surface so that developers and users can have more power, gain more insight, and build better systems for living and working together.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Decentralized Social Brings Power Back to the Users** 
 
@@ -80,14 +82,11 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Control** 
 
@@ -98,16 +97,7 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  Information asymmetry in the current social graph model is the norm. Spotify or YouTube has a ton of data on us but it's hard to understand and act on it. Platforms tend to know more about us than we do. How can we use blockchain activity and the general transparency in the Web3 space not only to gain more trust but offer more insights as well? The insights discovered using an open social graph can help us understand and reflect on ourselves and our communities in new ways.
 
 <!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Portability** 
@@ -125,13 +115,6 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  Since developers and designers are not burdened with the heavy lifting of managing their own social graph and back end, they can instead lead with better design and focus on improving the experience for the end user.
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
@@ -178,24 +161,24 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-navigating-your-digital-display-a-screenrec-users-manual/"><u>[New] In 2024, Navigating Your Digital Display A ScreenRec User's Manual</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-intellectual-property-rights-on-youtube/"><u>[New] The Essential Guide to Intellectual Property Rights on YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-sony-xperia-5-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/capturing-the-moment-expert-tips-for-amazing-android-slow-mo-videos/"><u>Capturing the Moment Expert Tips for Amazing Android Slow Mo Videos</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/detecting-fraudulent-gpt-based-messengers-on-your-iphones-app-store/"><u>Detecting Fraudulent GPT-Based Messengers on Your iPhone's App Store</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-magic-6-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor Magic 6 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On iPhone 14 Plus</u></a></li>
-<li><a href="https://techidaily.com/minecraft-offline-mode-a-step-by-step-tutorial-for-windows-10-users/"><u>Minecraft Offline Mode: A Step-by-Step Tutorial for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/msi-camera-malfunction-learn-how-to-repair-and-optimize-with-these-helpful-hints/"><u>MSI Camera Malfunction? Learn How to Repair & Optimize with These Helpful Hints</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/navigating-digital-first-impressions-the-9-key-skype-interview-insights/"><u>Navigating Digital First Impressions: The 9 Key Skype Interview Insights</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-from-ingest-to-delivery-mastering-video-import-and-export-in-adobe-premiere/"><u>New From Ingest to Delivery Mastering Video Import and Export in Adobe Premiere</u></a></li>
-<li><a href="https://techidaily.com/optimizing-graphics-performance-a-guide-to-pubgs-configurations-on-nvidia-gpus/"><u>Optimizing Graphics Performance: A Guide to PUBG's Configurations on NVIDIA GPUs</u></a></li>
-<li><a href="https://techidaily.com/overcoming-restrictions-enabling-access-to-websites-on-google-chrome/"><u>Overcoming Restrictions: Enabling Access to Websites on Google Chrome</u></a></li>
-<li><a href="https://techidaily.com/pc-gaming-basics-essential-guide-to-getting-started-with-fortnite/"><u>PC Gaming Basics: Essential Guide to Getting Started with Fortnite</u></a></li>
-<li><a href="https://techidaily.com/preventing-thermal-damage-steps-for-finding-and-fixing-an-overheated-processor/"><u>Preventing Thermal Damage: Steps for Finding & Fixing an Overheated Processor</u></a></li>
-<li><a href="https://techidaily.com/processor-power/"><u>Processor Power</u></a></li>
-<li><a href="https://techidaily.com/quick-fix-how-to-retrieve-a-missing-word-file-on-windows-10-visual-guide/"><u>Quick Fix: How to Retrieve a Missing Word File on Windows 10 (Visual Guide)</u></a></li>
-<li><a href="https://techidaily.com/refreshing-windows-11-performance-a-comprehensive-guide-to-hard-reset-techniques/"><u>Refreshing Windows 11 Performance: A Comprehensive Guide to Hard Reset Techniques</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-honor-90-gt-phones-by-drfone-android/"><u>Top 11 Free Apps to Check IMEI on Honor 90 GT Phones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-ultimate-picks-for-gameplay-footage/"><u>[New] In 2024, The Ultimate Picks for Gameplay Footage</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-psp-emulator-ios-top-5-picks-on-2023/"><u>[New] PSP Emulator iOS Top 5 Picks on 2023</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-rise-in-popularity-top-10-must-try-instagram-hashtags/"><u>[New] Rise in Popularity Top 10 Must-Try Instagram Hashtags</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-superior-pc-experience-innovation-at-your-fingertips/"><u>[New] Superior PC Experience Innovation at Your Fingertips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-ultimate-secret-amplifying-gaming-vids-with-hashes/"><u>[New] Unveiling the Ultimate Secret Amplifying Gaming Vids with Hashes</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-free-safe-steps-to-extract-audio-from-youtube-videos/"><u>[Updated] 2024 Approved Free, Safe Steps to Extract Audio From YouTube Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-visual-vibrancy-expertise-in-hue-manipulation-for-2024/"><u>[Updated] Visual Vibrancy Expertise in Hue Manipulation for 2024</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/instagram/"><u>【秘伝】Instagram動画が見られない/再生できない問題を解消するヒント</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/asus-proart-review-a-visual-spectacle-unveiled-for-2024/"><u>ASUS ProArt Review A Visual Spectacle Unveiled for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y27-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y27 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-career-path-essential-facebook-uses/"><u>Elevate Your Career Path: Essential Facebook Uses</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-m6-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco M6 Pro 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60s-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60s on Mac</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x50-gt-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X50 GT</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-moto-g04-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Moto G04?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs"
-date: 2024-11-12T16:06:46.322Z
-updated: 2024-11-13T16:07:56.632Z
+date: 2024-12-01T01:28:35.620Z
+updated: 2024-12-02T02:05:16.287Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ---
 
 ## Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,10 +26,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
  If you're scratching your head at the deluge of Gorillaz-style monkey avatars everywhere on the web, congratulations! You've just had your first encounter with the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and it might make even less sense than you imagine.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  NFT Avatars in a Nutshell
@@ -55,10 +56,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Once the initial run of NFTs is purchased from the creators of the set, the monkey-trading begins. Owners of these NFTs can put them up for sale and see if there are any takers, and boy have there been some takers. Bored Ape Yacht Club NFT sales have totaled over [1 billion dollars](https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-nft-sales-1-billion-opensea-bayc-2022-1) alone. The current record for a [Bored Ape NFT is $3.4 million](https://hypebeast.com/2021/10/bored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse), although more typically they sell in the hundreds of thousands.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  OK, But Why Are They Worth Anything?
@@ -68,16 +66,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  The real-world examples of things that have little intrinsic value (e.g. Issue 1 of Action Comics), but then sell for [insane amounts](https://www.supermanhomepage.com/action-comics-1-sells-for-record-price/). NFTs are worth what people are willing to pay for them, the hard part was convincing people to buy them in the first place, which is easier if you have a little help from a famous friend!
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Celebrities Are Going Bananas for Bored Apes
@@ -93,10 +82,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Celebrity involvement in NFTs, especially the Bored Ape Yacht Club, also makes sense thanks to extra perks that come with Yacht Club membership. For example, there's an exclusive Discord server, and you might get invited to [exclusive parties](https://www.theverge.com/22824387/bored-ape-yacht-club-nft-party-new-york) where you might run into famous Bored Ape owners such as [Eminem](https://fortune.com/2022/01/03/eminem-nft-bored-ape-yacht-club/) (who spent $462 000 on his Bored Ape) or [Snoop Dogg](https://boardroom.tv/bored-ape-nft-celebrity-owners/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are NFTs Exploding?
@@ -124,20 +110,22 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-the-transformation-of-user-interaction-understanding-the-update/"><u>[New] 2024 Approved The Transformation of User Interaction Understanding the Update</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-secrets-of-successful-unboxing-reels-a-compreenasium-guide/"><u>[New] Secrets of Successful Unboxing Reels A Compreenasium Guide</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-transform-footage-into-stunning-ig-images/"><u>[New] Transform Footage Into Stunning IG Images</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/1-unlocking-hope-and-healing-discover-the-essentials-of-smart-recovery-program/"><u>1. Unlocking Hope and Healing: Discover the Essentials of Smart Recovery Program</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-screen-time-for-peaceful-phone-puzzles/"><u>2024 Approved Best Screen-Time for Peaceful Phone Puzzles</u></a></li>
-<li><a href="https://driver-download.techidaily.com/easy-guide-how-to-obtain-and-install-gigabyte-ethernet-drivers/"><u>Easy Guide: How to Obtain and Install Gigabyte Ethernet Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v29e-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V29e Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 7 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-hot-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 30 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-blurring-techniques-for-cleaner-image-edits/"><u>In 2024, Blurring Techniques for Cleaner Image Edits</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-tecno-spark-20-proplus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Tecno Spark 20 Pro+ Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-redmi-note-13-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi Redmi Note 13 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-80-pro-straight-screen-edition-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from 80 Pro Straight Screen Edition</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 10 & 7</u></a></li>
-<li><a href="https://video-capture.techidaily.com/pc/"><u>ストリーム配信をキャプチャし、PCやスマホで安全に保管するためのテクニック</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-embarking-on-vlogging-critical-equipment-and-tools/"><u>[New] In 2024, Embarking on Vlogging Critical Equipment and Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-10-history-youtube-channels-for-students-and-history-lovers/"><u>[Updated] In 2024, Top 10 History YouTube Channels for Students & History Lovers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-best-laptops-for-4k-video-editing/"><u>2024 Approved Best Laptops for 4K Video Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-fundamentals-of-digital-tale-construction/"><u>2024 Approved Fundamentals of Digital Tale Construction</u></a></li>
+<li><a href="https://windows11.techidaily.com/6-different-ways-to-open-programs-on-windows/"><u>6 Different Ways to Open Programs on Windows</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/boost-productivity-premier-tools-for-unfollowing-tweets-for-2024/"><u>Boost Productivity Premier Tools for Unfollowing Tweets for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nokia-g42-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia G42 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-40c-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 40C Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a1x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A1x 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y78plus-t1-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y78+ (T1) Edition phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-navigating-facebook-for-video-sharing-tips/"><u>In 2024, Navigating Facebook for Video Sharing Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/revamp-your-samsung-smartphone-experience-update-the-usb-driver-today/"><u>Revamp Your Samsung Smartphone Experience - Update the USB Driver Today</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-engagement-boosted-with-gpt-wisdom/"><u>Social Media Engagement Boosted with GPT Wisdom</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-x90s-by-fonelab-android-recover-music/"><u>The way to get back lost music from X90S</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Weekly Tech Update: Coming Soon From Google & Samsung's New Mobile Devices"
-date: 2024-11-07T00:48:17.178Z
-updated: 2024-11-14T06:59:08.581Z
+date: 2024-11-26T20:20:59.944Z
+updated: 2024-12-01T17:48:57.512Z
 tags:
   - deals
 categories:
@@ -13,13 +13,14 @@ thumbnail: https://thmb.techidaily.com/55968897eeae10de1d5f523b1b9a82af3b28230cb
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Big News
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
@@ -27,10 +28,7 @@ This was a surprisingly busy week for tech news, with announcements for Google a
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
@@ -43,21 +41,7 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Valve
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
@@ -67,16 +51,13 @@ Valve
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
@@ -87,6 +68,10 @@ Valve
  It's the first UWB tracker to support Google Find My Device.
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Motorola
 
@@ -119,24 +104,14 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-definitive-handbook-to-reacting-on-youtube-tweets/"><u>[New] 2024 Approved The Definitive Handbook to Reacting on YouTube Tweets</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-how-to-accelerate-your-youtube-upload-with-effective-rendering/"><u>[New] In 2024, How to Accelerate Your YouTube Upload with Effective Rendering</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-navigating-top-10-affordable-mobile-video-services/"><u>[New] Navigating Top 10 Affordable Mobile Video Services</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-transforming-your-story-game-with-animation-techniques-for-text/"><u>[New] Transforming Your Story Game with Animation Techniques for Text</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-samsung-secrets-crafting-compelling-time-lapses/"><u>2024 Approved Samsung Secrets Crafting Compelling Time Lapses</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/improve-your-health-with-these-9-chatgpt-tips-and-techniques/"><u>Improve Your Health with These 9 ChatGPT Tips and Techniques</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-channel-elevation-reach-youtube-affiliate-level-with-10k-views/"><u>In 2024, Channel Elevation Reach YouTube Affiliate Level with 10K Views</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-novice-to-pro-harnessing-inshot-for-editing/"><u>In 2024, From Novice to Pro Harnessing Inshot for Editing</u></a></li>
-<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-3080-ti-driver-downloads-for-windows-11-8-and-7-latest-update-available/"><u>NVIDIA GeForce RTX 3080 Ti Driver Downloads for Windows 11, 8 & 7 - Latest Update Available</u></a></li>
-<li><a href="https://techidaily.com/secure-gaming-made-simple-setting-up-a-virtual-private-network-on-ps4-using-just-two-techniques/"><u>Secure Gaming Made Simple: Setting Up a Virtual Private Network on PS4 Using Just Two Techniques</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-disabling-sticky-keys-in-windows-11-with-visual-aids/"><u>Simple Guide: Disabling Sticky Keys in Windows 11 with Visual Aids</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-easily-solve-your-tv-screens-phantom-image-issue/"><u>Simple Guide: Easily Solve Your TV Screen's Phantom Image Issue</u></a></li>
-<li><a href="https://techidaily.com/simple-steps-to-follow-when-building-your-own-google-account/"><u>Simple Steps to Follow When Building Your Own Google Account</u></a></li>
-<li><a href="https://techidaily.com/solving-your-playstation-4-safe-mode-issues-a-comprehensive-guide/"><u>Solving Your PlayStation 4 Safe Mode Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/step-by-step-guide-to-wirecast-facebook-livestreams/"><u>Step-by-Step Guide to Wirecast Facebook Livestreams</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-linking-your-printer-with-a-windows-11-pc/"><u>Step-by-Step Guide: Linking Your Printer with a Windows 11 PC</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-tutorial-erase-everything-how-to-factory-reset-hp-laptops-easily/"><u>Step-by-Step Tutorial: Erase Everything - How to Factory Reset HP Laptops Easily</u></a></li>
-<li><a href="https://techidaily.com/sync-settings-across-devices-on-windows-10/"><u>Sync Settings Across Devices on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/tackling-windows-10-memory-hogging-a-comprehensive-guide/"><u>Tackling Windows 10 Memory Hogging: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-convert-subtitles-effortlessly-top-8-best-converters-from-sub-to-srt-format/"><u>[Updated] Convert Subtitles Effortlessly - Top 8 Best Converters From SUB to SRT Format</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-initiating-seamless-zoom-gatherings/"><u>2024 Approved Initiating Seamless Zoom Gatherings</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-explore-high-quality-android-videos-top-10-apps/"><u>In 2024, Explore High-Quality Android Videos Top 10 Apps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Stop My Spouse from Spying on My Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-k11-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo K11 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-f54-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme C67 4G? | Dr.fone</u></a></li>
 </ul></div>
 

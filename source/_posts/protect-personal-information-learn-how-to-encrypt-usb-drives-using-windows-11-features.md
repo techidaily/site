@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2024-11-07T19:51:01.621Z
-updated: 2024-11-14T06:25:29.035Z
+date: 2024-11-25T16:39:46.923Z
+updated: 2024-12-02T03:05:05.466Z
 tags:
   - deals
 categories:
@@ -11,19 +11,16 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ## Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is BitLocker (And Why Use It)?](https://www.howtogeek.com/encrypt-usb-flash-drive-windows/#what-is-bitlocker-and-why-use-it)
 * [How to Encrypt a USB Flash Drive in Windows 10 or 11](https://fox-that.techidaily.com/iphone-glitched-into-headphones-try-these-8-troubleshooting-steps-to-restore-normal-functioning/)
 * [How to Decrypt a USB Flash Drive in Windows 10 or 11](https://extra-resources.techidaily.com/the-ultimate-platform-showdown-podcast-vs-youtube/)
 * [Third-Party Encryption Options](https://tech-hub.techidaily.com/how-to-harness-the-power-of-gpt-3-in-your-openai-experiments/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,39 +55,16 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
 <!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Choose a password.
 
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915810/19272" target="_top" id="1915810">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915810" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915810/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
@@ -100,18 +74,15 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![Bitlocker offering either the new encryption mode or the older compatible mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  9\. Click "Start Encrypting" and wait for the process to finish.
 
 ![The BitLocker Ready screen with a 'Start Encrypting' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.jpg) 
 
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  How to Decrypt a USB Flash Drive in Windows 10 or 11
 
@@ -127,7 +98,15 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then simply confirm as you did when first encrypting the drive.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Third-Party Encryption Options
 
@@ -156,22 +135,20 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techidaily.com/1723808314537-solved-how-to-configure-vpn-on-android-quickly-and-easily/"><u>[SOLVED] How to Configure VPN on Android | Quickly & Easily</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-affordable-webm-streaming-alternatives-unveiled/"><u>[Updated] 2024 Approved Affordable WebM Streaming Alternatives Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-look-at-earnings-understanding-your-monthly-income-from-youtubes-adsense-for-2024/"><u>[Updated] A Look at Earnings Understanding Your Monthly Income From YouTube's AdSense for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-ultimate-guide-to-the-best-10-online-platforms-for-vimeo-downloading/"><u>[Updated] In 2024, Ultimate Guide to the Best 10 Online Platforms for Vimeo Downloading</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-new-era-of-capturing-life-with-updated-lg-360-cameras/"><u>[Updated] The New Era of Capturing Life with Updated LG 360 Cameras</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-instagram-wisdom-the-most-overlooked-features/"><u>2024 Approved Instagram Wisdom The Most Overlooked Features</u></a></li>
-<li><a href="https://techidaily.com/7-steps-to-backup-windows-10-files-to-another-drive/"><u>7 Steps to Backup Windows 10 Files to Another Drive</u></a></li>
-<li><a href="https://techidaily.com/ace-the-shot-expert-strategies-for-easy-and-effective-screenshotting-on-asus-machines/"><u>Ace the Shot: Expert Strategies for Easy and Effective Screenshotting on ASUS Machines</u></a></li>
-<li><a href="https://techidaily.com/adjusting-your-mouse-dpi-a-step-by-step-guide-to-optimizing-mouse-sensitivity/"><u>Adjusting Your Mouse DPI: A Step-by-Step Guide to Optimizing Mouse Sensitivity</u></a></li>
-<li><a href="https://techidaily.com/beginners-guide-to-wiping-clean-and-refreshing-your-hp-laptop-the-complete-factory-reset-method/"><u>Beginner's Guide to Wiping Clean and Refreshing Your HP Laptop - The Complete Factory Reset Method</u></a></li>
-<li><a href="https://techidaily.com/beginners-tutorial-on-boosting-cpu-performance-with-overclocking/"><u>Beginner's Tutorial on Boosting CPU Performance with Overclocking</u></a></li>
-<li><a href="https://techidaily.com/compattelrunnerexe-high-disk-usage-in-windows-10-and-7-solved/"><u>CompatTelRunner.exe High Disk Usage in Windows 10 & 7 [Solved]</u></a></li>
-<li><a href="https://techidaily.com/1723808240127-how-to-change-system-language-on-windows-10-easy-steps/"><u>How to Change System Language on Windows 10? Easy Steps</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/in-2024-your-gateway-to-greatness-making-your-mark-with-mac-made-vids/"><u>In 2024, Your Gateway to Greatness Making Your Mark with Mac-Made Vids</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sync-your-storytelling-iphone-captures-words-and-pictures/"><u>Sync Your Storytelling IPhone Captures Words and Pictures</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/5-youtube-recording-software-for-gamers-for-2024/"><u>Top 15 YouTube Recording Software for Gamers for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/upgrade-video-quality-seamlessly-convert-mp4-files-to-mkv-with-integrated-subtitle-support-try-it-for-free/"><u>Upgrade Video Quality Seamlessly: Convert MP4 Files to MKV With Integrated Subtitle Support - Try It for Free!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-game-magic-captured-advanced-methods-for-logging-virtual-realities-for-2024/"><u>[New] In-Game Magic Captured Advanced Methods for Logging Virtual Realities for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-the-stutters-in-call-of-duty-modern-warfare-3-fps-gameplay-insights/"><u>Diagnosing the Stutters in Call of Duty: Modern Warfare 3 FPS Gameplay - Insights</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/free-typing-lessons-for-everyone-explore-our-12-top-choices-across-age-groups/"><u>Free Typing Lessons For Everyone: Explore Our 12 Top Choices Across Age Groups</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-camon-30-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 30 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-open-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Open Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-tecno-pova-5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/level-up-performance-tuning-the-asus-rx-970-for-gamers/"><u>Level Up Performance: Tuning the ASUS RX 970 for Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ating-the-seo-maze-5-tactics-for-top-tier-views/"><u>Navigating the SEO Maze 5 Tactics for Top-Tier Views</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy S21 FE 5G (2023).</u></a></li>
+<li><a href="https://games-able.techidaily.com/unseen-dangers-players-as-primary-funders-for-game-devs-work/"><u>Unseen Dangers: Players as Primary Funders for Game Dev's Work</u></a></li>
 </ul></div>
 

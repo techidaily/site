@@ -1,7 +1,7 @@
 ---
 title: "How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide"
-date: 2024-11-18T01:13:14.389Z
-updated: 2024-11-23T20:22:33.724Z
+date: 2024-11-28T04:56:32.536Z
+updated: 2024-12-01T20:36:58.968Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ## How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What You Need to Make Dynamic Wallpapers](https://extra-lessons.techidaily.com/navigating-through-windows-11s-new-frontier/)
 * [How to Create a Dynamic Wallpaper for macOS](https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-honor-90-gt-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -23,10 +31,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 * You can use your own photos, grab stills from time-lapse videos, or create images in Photoshop or AI tools.
 
  Dynamic wallpapers in macOS cycle through a series of images to change your desktop background throughout the day, based on criteria such as the time or your system settings. While macOS has a lot of dynamic wallpapers pre-installed, you can also make your own. Here's how.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What You Need to Make Dynamic Wallpapers
 
@@ -39,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create a Dynamic Wallpaper for macOS
@@ -60,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The Solar page in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-solar-page-in-equinox.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do this, click "Calculator." In the window that opens, click and drag on the map so that the pin is over the location you want (or you can fill in the Location details manually if you have them).
 
  Now set the time that the photo was taken, or when you want the wallpaper image to change. This will update the Azimuth and Altitude values in the Result section. Click and drag "Result" onto the first image.
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The options to Save or Set your wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-options-to-save-or-set-your-wallpaper-in-equinox.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Time
 
  To create a dynamic wallpaper that changes at set points during the day, click "Time" and drag your images into the window.
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  The app will automatically apply time intervals to each image in your wallpaper, spaced evenly across a 24-hour period. So, if you have four images, they will change every six hours starting at midnight.
 
 ![Set the time intervals in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/set-the-time-intervals-in-equinox.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the times to adjust them if you want to, otherwise, select "Create." You'll now see the preview screen and can set and save your wallpaper.
 
@@ -98,13 +98,13 @@ Your browser does not support the video tag.
 
 ![An appearance wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-appearance-wallpaper-in-equinox.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For it to work, you need to go to System Settings > Appearance > Appearance > Auto so that your system cycles between light and dark modes.
 
 ![The Light mode and Dark mode settings in macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-light-mode-and-dark-mode-settings-in-macos.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -125,20 +125,18 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-mastering-multilingual-subtitling-a-comprehensive-approach-vimeo/"><u>[New] 2024 Approved Mastering Multilingual Subtitling A Comprehensive Approach (Vimeo)</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-phone-speaker-voice-tracker-iphone-2024/"><u>[New] Phone Speaker Voice Tracker (iPhone, 2024)</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-video-format-mastery-best-practices-for-instagram-for-2024/"><u>[Updated] Video Format Mastery Best Practices for Instagram for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on OnePlus Ace 3 | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/hardware-memory-slot-windows-reservation-approach/"><u>Hardware Memory Slot: Windows’ Reservation Approach</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-open-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Open Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-a1-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo A1 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/stay-up-to-date-with-your-dell-monitors-firmware-download-and-install-guide/"><u>Stay Up-to-Date with Your Dell Monitor's Firmware - Download & Install Guide</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor without backup.</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-c300-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from C300.</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-enhancements-for-the-latest-ipads-featured/"><u>Top Rated Tablet Enhancements for the Latest iPads - Featured</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-15-pro-by-restoring-it-to-factory-settings-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Pro by restoring it to factory settings</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-galaxy-a05s-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung Galaxy A05s?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-elevate-your-content-game-perfectly-tailored-youtube-shorts-thumbnails/"><u>[New] In 2024, Elevate Your Content Game Perfectly Tailored YouTube Shorts Thumbnails</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-classic-film-aesthetics-masterclass-in-video-production/"><u>[Updated] In 2024, Classic Film Aesthetics Masterclass in Video Production</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-phantom-3-encounter-veil-4s-entry-for-2024/"><u>[Updated] Phantom 3 Encounter Veil 4'S Entry for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/dividedlens-testimonial/"><u>DividedLens Testimonial</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-install-and-use-chatgpt-plugins/"><u>How to Install and Use ChatGPT Plugins</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-oneplus-ace-2-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked OnePlus Ace 2 in Minutes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-oppo-find-n3-flip-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/lava-yuva-3-pro-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 3 Pro Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/metamorphosez-votre-macbook-air-de-2017-en-remplacant-le-disque-dur-astuces-et-conseils-essentiels/"><u>Métamorphosez Votre MacBook Air De 2017 en Remplaçant Le Disque Dur : Astuces Et Conseils Essentiels</u></a></li>
+<li><a href="https://techidaily.com/samsung-data-retrieval-tool-restore-lost-data-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Samsung Data Retrieval tool – restore lost data from Samsung Galaxy S24</u></a></li>
 </ul></div>
 

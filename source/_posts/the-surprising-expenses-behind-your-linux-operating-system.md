@@ -1,7 +1,7 @@
 ---
 title: The Surprising Expenses Behind Your Linux Operating System
-date: 2024-11-20T21:25:18.742Z
-updated: 2024-11-24T03:33:14.910Z
+date: 2024-11-29T02:34:55.489Z
+updated: 2024-12-01T17:41:23.774Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The Surprising Expenses Behind Your Linux Operating System
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -38,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Star Labs StarLite MkIV laptop on a shelf.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/1000085879.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Bertel King / How-To Geek
 
  I've used Linux on and off since 2008\. For all of that time, Linux has been easy to install. But on some machines, especially newer machines, you run into hiccups after the installation is done. You log in to your new machine only to find that you're unable to connect to Wi-Fi or your speakers don't work. Maybe you're getting poor framerates from your graphics card, or your computer fails to wake up after you pull it out of your bag. There can be any number of issues that arise from installing an operating system onto a machine that wasn't built for it.
@@ -45,10 +49,6 @@ Bertel King / How-To Geek
  This isn't a flaw exclusive to Linux. If you try to [install Windows onto a Steam Deck](https://instagram-clips.techidaily.com/new-pinpointing-the-10-most-discreet-story-advocates/), you face the same kind of issues. That machine was designed for Linux and comes with a rock-solid Linux desktop. Most laptops are tested with Windows. When you try to swap out a computer's operating system, regardless of which one it is, you roll the dice. The same is true when you [install a custom ROM on your phone](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-huawei-by-drfone-android/).
 
  To save myself the headache of knowing whether everything will work, I like to buy computers that ship with Linux. This way I know they've been tested and verified to run the operating system I intend to use. I don't have to do any research to learn which processor, Wi-Fi card, and graphics card will work best for the kind of machine I have in mind. I can just browse the available PCs and pick one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You Don't Need Technical Knowledge
 
@@ -62,13 +62,13 @@ Bertel King / How-To Geek
 
  Having Linux PCs available for purchase expands who is able to use Linux. Yes, these laptops tend to be priced out of the mainstream due to the laws of scale, but at least the option is there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  No Need to Configure Your Own System
 
 ![Pop OS background on the System76 Gazelle laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52865452885_471a3e5dc4_o-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -77,10 +77,6 @@ Hannah Stryker / How-To Geek
  Before you even install Linux, you have to first decide which version you want. That alone can lead to analysis paralysis and put people off. There's a [whole set of Linux terminology to learn](https://blue-screen-error.techidaily.com/fixing-acpisys-issues-tips-and-tricks-for-windows-11-users/). Buying a Linux PC skips this process. You get a computer that's already up and running, where someone else made the decisions so you don't have to.
 
  Folks like me already know which version of Linux we want, but we can still benefit from getting a pre-made machine. Many of us can't afford to reconfigure a machine during work hours, and we don't have the energy or the desire to do it during the rest of our day. We have families. We have other things we want to be doing. With a ready-made machine, we can sign in, install apps, transfer over our files, and be ready for work in the morning.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Have a Company to Contact for Hardware Support
 
@@ -101,7 +97,7 @@ Hannah Stryker / How-To Geek
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  Kubuntu Focus Ir16 (Gen2)
@@ -111,6 +107,10 @@ Hannah Stryker / How-To Geek
 The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with the meticulous OS integration and Linux-first support from Kubuntu Focus.
 
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Avoid Giving Big Tech Even More Money
 
@@ -141,20 +141,22 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-cutting-edge-analysis-editpro-x-video-editor-2023-for-2024/"><u>[New] Cutting-Edge Analysis EditPro X - Video Editor 2023 for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-audience-expansion-strategies-that-honor-youtube-standards/"><u>[New] In 2024, Audience Expansion Strategies That Honor YouTube Standards</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-capture-clash-comparing-the-latest-gopro-and-virb-models/"><u>[Updated] In 2024, Capture Clash Comparing the Latest GoPro and VIRB Models</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-pajama-plots-reviewed-analyzing-childrens-video-stories/"><u>[Updated] Pajama Plots Reviewed Analyzing Children's Video Stories</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-infinix-note-30-s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Infinix Note 30’s lock screen pattern, PIN or password</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-c50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco C50 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y78t-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y78t</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/step-by-step-tutorial-on-restoring-downloading-or-removing-lost-videos-from-your-nest-device/"><u>Step-by-Step Tutorial on Restoring, Downloading, or Removing Lost Videos From Your Nest Device</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/supreme-suggestions-elite-ios-tone-craftsmen/"><u>Supreme Suggestions Elite iOS Tone Craftsmen</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-k11x-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo K11x</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-12-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 12 Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y200-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-old-hollywood-techniques-for-modern-filmmakers/"><u>[New] 2024 Approved Old Hollywood Techniques for Modern Filmmakers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-guide-to-blurring-and-eliminating-photo-borders/"><u>[Updated] A Guide to Blurring and Eliminating Photo Borders</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-channel-title-genius-ideas-for-your-video-hub-for-2024/"><u>[Updated] Channel Title Genius Ideas for Your Video Hub for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-13-mini-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 13 mini Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ace-exams-easily-with-gpt-powered-notetaking/"><u>Ace Exams Easily with GPT-Powered Notetaking</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-honor-100-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 100 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-galaxy-a25-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung Galaxy A25 5G?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-sony-xperia-10-v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 10 V Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-xiaomi-civi-3-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi Civi 3 unlock screen</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-incompatible-peripheral-connections-to-monitors-expert-tips/"><u>Resolving Incompatible Peripheral Connections to Monitors: Expert Tips</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-c300-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia C300</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978836169-streamline-your-lenovo-x220-setup-with-rapid-driver-downloads/"><u>Streamline Your Lenovo X220 Setup with Rapid Driver Downloads!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oppo-reno-8t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Oppo Reno 8T</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-edge-2023-by-fonelab-android-recover-data/"><u>Undelete lost data from Edge 2023</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering the Art of Forcing Unresponsive Windows 10 Apps to Close"
-date: 2024-11-09T09:09:18.848Z
-updated: 2024-11-13T18:45:24.201Z
+date: 2024-11-27T06:53:10.075Z
+updated: 2024-12-02T09:24:24.363Z
 tags:
   - deals
 categories:
@@ -36,10 +36,11 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 ![Press Alt+F4 to force close an app. If you press Alt+F4 while the desktop is selected, you'll see a 'Shut Down Windows' window appear.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0-altf4-restart-okay-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Force Quit Using Task Manager
@@ -57,19 +58,13 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
 ![Select the app you want to force quit, then click 'End Task.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-select-the-app-and-hit-end-task.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The frozen program will now close.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Force Quit an App Using Command Prompt
@@ -77,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/51c7e118bec96598bc9d2d2c18cf903e1dca3cd52
  You can find and force quit tasks from the Command Prompt. [Open Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) by typing **cmd** in the Windows search bar, and then selecting the “Command Prompt” app from the search results.
 
 ![Search 'cmd' in the Start Menu search, then launch Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-launch-command-prompt.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In Command Prompt, type **tasklist** and press "Enter." Once executed, Command Prompt will display a list of currently running programs, services, and tasks.
 
@@ -91,13 +90,6 @@ taskkill /im <program>.exe
 taskkill /im notepad.exe
 
 ![Ending the Notepad process with the taskkill command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-kill-notepad.png) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  A success message will be returned, letting you know you’ve successfully force quit the problematic application.
 
@@ -120,21 +112,14 @@ taskkill /im notepad.exe
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-time-lapse-magic-capturing-moments-with-an-ipad-for-2024/"><u>[New] Time-Lapse Magic Capturing Moments with an iPad for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-the-highest-resolution-elevating-quality-with-drone-edits/"><u>2024 Approved The Highest Resolution Elevating Quality with Drone Edits</u></a></li>
-<li><a href="https://techidaily.com/get-your-latest-asus-device-support-download-tailored-drivers-for-windows-10-and-7/"><u>Get Your Latest ASUS Device Support: Download Tailored Drivers for Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/get-your-system-optimized-complimentary-updated-dell-drivers-for-windows-10-available-now/"><u>Get Your System Optimized: Complimentary Updated Dell Drivers for Windows 10 Available Now!</u></a></li>
-<li><a href="https://techidaily.com/guide-to-activating-and-using-your-iphones-hotspot-feature-as-a-wi-fi-router/"><u>Guide to Activating and Using Your iPhone's Hotspot Feature as a Wi-Fi Router</u></a></li>
-<li><a href="https://techidaily.com/guide-accessing-and-analyzing-windows-crash-reports/"><u>Guide: Accessing and Analyzing Windows Crash Reports</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-honor-90-lite-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Honor 90 Lite Phone</u></a></li>
-<li><a href="https://techidaily.com/how-to-convert-your-iphones-cellular-data-into-a-personal-wi-fi-network/"><u>How to Convert Your iPhone's Cellular Data Into a Personal Wi-Fi Network</u></a></li>
-<li><a href="https://techidaily.com/how-to-fix-logitech-keyboards-not-detected-by-windows-11-a-step-by-step-guide/"><u>How to Fix Logitech Keyboards Not Detected by Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-nokia-xr21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-magic-5-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor Magic 5 Pro to Mac? | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-repair-unresponsive-mic-on-pc-while-playing-rec-room-latest-techniques-202eb/"><u>How to Repair Unresponsive Mic on PC While Playing Rec Room - Latest Techniques (202Eb)</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-id-password-2020-guide/"><u>How to Reset Apple ID Password [2020 Guide]</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-instantaneous-creation-and-edits-of-dynamic-multi-snaps/"><u>In 2024, Instantaneous Creation & Edits of Dynamic Multi-Snaps</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-converting-and-adding-wma-songs-to-itunes-for-easy-access/"><u>Step-by-Step Guide: Converting and Adding WMA Songs to iTunes for Easy Access</u></a></li>
-<li><a href="https://win-info.techidaily.com/unlocking-legacy-systems-a-step-by-step-guide-to-installing-windows-11-on-outdated-pcs-against-all-odds-as-demonstrated-by-tech-savvy-readers-zdnet/"><u>Unlocking Legacy Systems: A Step-by-Step Guide to Installing Windows 11 on Outdated PCs Against All Odds, as Demonstrated by Tech Savvy Readers | ZDNET</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-seamless-file-access-top-windows-and-mac-strategies-for-downloading-igtv/"><u>[Updated] 2024 Approved Seamless File Access Top Windows & Mac Strategies for Downloading IGTV</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-ideal-7-cameras-to-improve-your-youtube-vlogging-experience-for-2024/"><u>[Updated] Ideal 7 Cameras To Improve Your YouTube Vlogging Experience for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expert-advice-resolving-the-rununk13-error-for-smooth-hulu-viewing/"><u>Expert Advice: Resolving the Rununk13 Error for Smooth Hulu Viewing</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/guidance-for-fixing-not-signed-in-mistakes-with-apples-messaging-service-on-ios/"><u>Guidance for Fixing 'Not Signed In' Mistakes with Apple's Messaging Service on iOS</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467092645-struggling-with-apple-payments-try-these-6-troubleshooting-tips/"><u>Struggling With Apple Payments? Try These 6 Troubleshooting Tips</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-g54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola G54 5G? | Dr.fone</u></a></li>
 </ul></div>
 
