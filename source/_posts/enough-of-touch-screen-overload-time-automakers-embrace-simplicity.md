@@ -1,7 +1,7 @@
 ---
 title: "Enough of Touch Screen Overload: Time Automakers Embrace Simplicity"
-date: 2024-11-26T21:27:17.847Z
-updated: 2024-12-01T21:01:10.886Z
+date: 2024-12-02T22:42:47.440Z
+updated: 2024-12-09T18:47:08.570Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 ## Enough of Touch Screen Overload: Time Automakers Embrace Simplicity
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
  Big touch screens give modern vehicles a real sci-fi vibe, but there's a reason old-fashioned knobs and controls have been the go-to choice for controlling your car's features for a century. Touch screens have their place, but automakers are going a little overboard, if you ask me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Touch Screens Have Many Downsides
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 ![A Tesla passenger enabling Vehicle Motion Cues in their iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tesla-passenger-seat-iphone-control-center-vehicle-motion-cues-enabled-wide-shot-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek
@@ -44,7 +44,7 @@ Christian Zibreg / How-To Geek
  It's also an open question whether these screens need to be so large. I own the KIA Sportage model just before the series got a massive touch screen in the 2023 model update and, honestly, I'm not sure if I could live with such a huge screen long-term. Whereas the small central touch screen my car currently has (so I can use Android Auto or Apple CarPlay) feels like a much more sensible balance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Physical Controls Are Safer for Drivers
@@ -52,7 +52,7 @@ Christian Zibreg / How-To Geek
  While the primary safety benefit of physical controls in a car is that you can operate them without looking, that's not the only reason they are safer. For one thing, touch screens are more complex, more fragile, and more prone to failure than a physical switch or toggle. You can also develop muscle memory to operate your car controls while putting pretty much zero cognitive load on yourself. The controls will always be in the same place and operate the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Putting Everything on One Screen Is a Mistake
@@ -84,16 +84,20 @@ Christian Zibreg / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>[New] Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Itel A05s | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-huawei-p60-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Huawei P60 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-f54-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy F54 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/solving-device-id-33a0-in-acpi/"><u>Solving Device ID 33A0 in ACPI</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/egic-backlink-building-for-enhanced-online-traction/"><u>Strategic Backlink Building for Enhanced Online Traction</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-c110-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia C110.</u></a></li>
-<li><a href="https://some-tips.techidaily.com/tickler-toolkit-image-mashup-for-2024/"><u>Tickler Toolkit Image Mashup for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/uninterrupted-playback-capture/"><u>Uninterrupted Playback Capture</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-13t-pro-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Pro support - Forgotten screen lock.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-10-cost-free-multi-os-video-player-releases/"><u>[New] 10 Cost-Free, Multi-OS Video Player Releases</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/guida-passo-passo-come-eseguire-il-backup-completo-di-un-server-windows-server-versioni-2022-2019-2016-2012-e-2008/"><u>Guida Passo-Passo: Come Eseguire Il Backup Completo Di Un Server Windows Server (Versioni 2022, 2019, 2016, 2012 E 2008)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-perform-a-dns-flush-on-windows-10-and-windows-11-a-detailed-walkthrough/"><u>How to Perform a DNS Flush on Windows 10 and Windows 11: A Detailed Walkthrough</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x9b-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X9b Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-broadcasting-vids-directly-from-phone-twitter-without-retweets/"><u>In 2024, Broadcasting Vids Directly From Phone – Twitter, Without Retweets</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-oneplus-ace-2v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On OnePlus Ace 2V | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-p55-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on P55 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-asus-rog-phone-8-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-14-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 14 | Stellar</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-authoritative-guide-to-generating-srt-files-with-expert-tips/"><u>The Authoritative Guide to Generating SRT Files with Expert Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-game-plan-for-getting-your-product-in-front-of-a-youtubers-audience-for-2024/"><u>The Game Plan for Getting Your Product in Front of a Youtuber's Audience for 2024</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-a56s-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from A56s 5G.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-ustreams-offerings-and-opponents/"><u>Unveiling Ustream's Offerings and Opponents</u></a></li>
 </ul></div>
 

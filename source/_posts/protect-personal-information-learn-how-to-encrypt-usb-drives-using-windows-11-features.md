@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2024-11-25T16:39:46.923Z
-updated: 2024-12-02T03:05:05.466Z
+date: 2024-12-07T22:25:42.676Z
+updated: 2024-12-09T16:43:53.633Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ## Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -54,28 +54,36 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5\. Choose a password.
 
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
 ![Bitlocker asking the user whether they want to encrypt the entire disk or only part of it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8\. Choose the encryption type, which in almost all cases should be "Compatibility Mode." This ensures that older versions of Windows can read the drive. Since we're encrypting a portable drive, this is presumably something you want. However, if you're only going to use this drive with one computer, feel free to select the newer encryption option instead.
 
 ![Bitlocker offering either the new encryption mode or the older compatible mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9\. Click "Start Encrypting" and wait for the process to finish.
@@ -98,15 +106,7 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then simply confirm as you did when first encrypting the drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Third-Party Encryption Options
 
@@ -135,20 +135,24 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-game-magic-captured-advanced-methods-for-logging-virtual-realities-for-2024/"><u>[New] In-Game Magic Captured Advanced Methods for Logging Virtual Realities for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-gionee-f3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Gionee F3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/diagnosing-the-stutters-in-call-of-duty-modern-warfare-3-fps-gameplay-insights/"><u>Diagnosing the Stutters in Call of Duty: Modern Warfare 3 FPS Gameplay - Insights</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/free-typing-lessons-for-everyone-explore-our-12-top-choices-across-age-groups/"><u>Free Typing Lessons For Everyone: Explore Our 12 Top Choices Across Age Groups</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-tecno-camon-30-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 30 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-itel-p55t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-open-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Open Without Password | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-13-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-pova-5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/level-up-performance-tuning-the-asus-rx-970-for-gamers/"><u>Level Up Performance: Tuning the ASUS RX 970 for Gamers</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ating-the-seo-maze-5-tactics-for-top-tier-views/"><u>Navigating the SEO Maze 5 Tactics for Top-Tier Views</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy S21 FE 5G (2023).</u></a></li>
-<li><a href="https://games-able.techidaily.com/unseen-dangers-players-as-primary-funders-for-game-devs-work/"><u>Unseen Dangers: Players as Primary Funders for Game Dev's Work</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-top-strategies-capturing-saving-and-sharing-ps4-experiences/"><u>[New] Top Strategies Capturing, Saving & Sharing PS4 Experiences</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-13c-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-k11x-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo K11x Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-stutter-and-hitches-smooth-playthrough-tips-for-free-path-of-exile-version/"><u>Fixing Stutter & Hitches: Smooth Playthrough Tips for Free Path of Exile Version</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-reimagines-the-process-of-writing-film-scripts/"><u>How ChatGPT Reimagines the Process of Writing Film Scripts</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 Pro Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-t2-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo T2 Pro 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-blaze-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Blaze 2 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Phone without PIN</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1715860070034-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>In 2024, Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/maximizing-your-video-cards-efficiency-tips-from-yl-software-experts/"><u>Maximizing Your Video Card's Efficiency: Tips From YL Software Experts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/non-professional-strategies-for-stable-screens/"><u>Non-Professional Strategies for Stable Screens</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2003-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2003 Documents Online for Free</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nord-ce-3-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nord CE 3 5G</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y17s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y17s.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-poco-m6-pro-4g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Poco M6 Pro 4G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-zte-by-fonelab-android-recover-video/"><u>Undeleted lost videos from ZTE</u></a></li>
 </ul></div>
 

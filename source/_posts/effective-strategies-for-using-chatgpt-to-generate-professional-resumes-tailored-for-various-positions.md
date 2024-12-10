@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions
-date: 2024-11-25T01:11:48.843Z
-updated: 2024-12-01T23:05:21.543Z
+date: 2024-12-07T17:55:32.399Z
+updated: 2024-12-09T16:59:24.815Z
 tags:
   - cutting-edge
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  We used the free version of ChatGPT (GPT 3.5) for illustrations throughout this piece. While it's decent, we expect you’ll get better results using the premium version of ChatGPT (GPT 4).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use ChatGPT to Analyze the Job Description
 
  First, copy and paste the entire job description for the role you’re applying for directly into ChatGPT. This will give it the inside scoop on exactly what the employer seeks. Ask ChatGPT to scan through the wording and pull out the key skills, requirements, and responsibilities that it notices.
@@ -32,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Let’s assume I was to apply for the role of digital marketing manager that I found on LinkedIn. I tried to have ChatGPT analyze the job description by prompting it: “Based on the job description below, please identify and highlight the key skills and requirements the employer seeks in bold.” ChatGPT did just as I requested—determining the most essential qualifications and competencies sought by the employer.
 
 ![Job description for digital marketing manager entered in ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/job-description-for-digital-marketing-manager-entered-in-chatgpt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, I gave ChatGPT a hypothetical professional background for the next exercise. I laid out a few years of experience as a digital marketing manager at previous companies, key projects I led, big wins for clients, and all the usual résumé checklist items—just to set the table with a sample candidate profile. Armed with that, I told ChatGPT: "Based on my work history as a digital marketing manager below, do I meet the requirements for this position?" Putting it to the test to see how I'd stack up.
 
@@ -50,7 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![ChatGPT's response to providing additional details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-response-to-providing-additional-details.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Create a Resume from Scratch with ChatGPT
@@ -60,18 +52,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![ChatGPT-crafted resume based on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-crafted-resume-based-on-prompts.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Obviously, to protect my personal information, I didn't provide ChatGPT with any real specifics like my name, address, contact details, etc. The last thing you'd want is your data to get stored on some server to train algorithms without your permission! So, for privacy's sake, it’s best to feed it career details only. Once you like the outcome, you can edit and polish ChatGPT's draft, adding specifics like your personal details and tweaking anything that needs finesse (outside of ChatGPT, though). Use your human judgment to perfect the end result.
 
 ![Screenshot of snippet of a ChatGPT-crafted resume](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/snippet-of-a-chatgpt-crafted-resume.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  You Can Use ChatGPT to Strengthen Your Existing Resume
 
  If you already have a resume you want to improve, you can use ChatGPT to help you polish and optimize it. Copy and paste your resume and the job description into ChatGPT. This will give it the information that it needs to work with. Then, tell ChatGPT to scan your resume and the job description and identify the key skills and requirements the employer seeks. You can prompt it with something like: “ChatGPT, here’s my resume: \[Insert Resume\] and here’s the job description \[Insert Description\]. Now, identify the most important qualifications, skills, and requirements the employer is seeking. Then give me some tips to tweak my resume to really highlight and optimize it for those key things they want.”
 
 ![Prompting ChatGPT to refine an existing resume](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/prompting-chatgpt-to-refine-an-existing-resume.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT will dig into all that info and give you back some great pointers on little tweaks you can make, key stuff you should emphasize, or areas where you should elaborate on your experience. It can help you reshape things so your resume looks like the perfect, personalized fit for what they’ve asked for in a job listing.
 
@@ -92,7 +92,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![ChatGPT providing recommendations on optimizing a resume for applicant tracking systems (ATS)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-suggested-tips-to-make-a-resume-ats-friendly.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -114,20 +114,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-50plus-amazing-online-sources-to-boost-your-fb-cover-image/"><u>[New] In 2024, 50+ Amazing Online Sources to Boost Your FB Cover Image</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-unlocking-potential-master-dvd-burning-with-your-mac/"><u>[New] In 2024, Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-boomerang-edge-captivating-your-instagram-audience/"><u>[Updated] 2024 Approved The Boomerang Edge Captivating Your Instagram Audience</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-constructive-communication-leads-to-more-subscribers/"><u>[Updated] Constructive Communication Leads to More Subscribers</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-empowered-by-numbers-decoding-youtube-analytics-for-2024/"><u>[Updated] Empowered by Numbers Decoding YouTube Analytics for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-samsung-galaxy-a54-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Samsung Galaxy A54 5G FRP</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a14-4g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Samsung Galaxy A14 4G Phone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g73-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G73 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco X5? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-vivo-x-flip-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Vivo X Flip without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-red-magic-8s-proplus-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Red Magic 8S Pro+</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X8b | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-vivo-x-fold-2-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Vivo X Fold 2 without backup.</u></a></li>
-<li><a href="https://techtrends.techidaily.com/top-puzzle-adventure-apps-on-ios-exploring-titles-similar-to-the-room-and-myst/"><u>Top Puzzle Adventure Apps on iOS: Exploring Titles Similar to 'The Room' & 'Myst'</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-examining-the-impact-of-aurora-on-home-entertainment/"><u>[New] Examining the Impact of Aurora on Home Entertainment</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-guiding-viewers-eyes-leading-lines-for-iphone-photography/"><u>[New] In 2024, Guiding Viewers' Eyes Leading Lines for iPhone Photography</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-mellowing-sound-piece-by-piece-in-fl/"><u>2024 Approved Mellowing Sound Piece-by-Piece in FL</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 6 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/change-your-macos-folder-colors-easily-a-step-by-step-guide/"><u>Change Your macOS Folder Colors Easily: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-revenue-from-a-million-watches-on-youtube/"><u>Decoding Revenue From A Million Watches on YouTube</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/high-speed-window-pictorial-interface/"><u>High-Speed Window Pictorial Interface</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-huawei-nova-y91-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Huawei Nova Y91 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-13-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 13 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sphere-success-a-step-by-step-guide/"><u>Social Sphere Success: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-the-problem-what-to-do-when-you-cant-find-msvcr80dll-file/"><u>Solving the Problem: What To Do When You Can't Find MSVCR80.DLL File</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-nova-y71-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Nova Y71</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/the-sherman-act-and-clayton-act-are-key-legislative-frameworks-for-regulating-antitrust-issues-in-the-united-states/"><u>The Sherman Act and Clayton Act Are Key Legislative Frameworks for Regulating Antitrust Issues in the United States.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-90-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor 90 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nubia Red Magic 8S Pro+</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-lava-yuva-2-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Lava Yuva 2 on Windows?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Find N3 Flip | Dr.fone</u></a></li>
 </ul></div>
 

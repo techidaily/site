@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings"
-date: 2024-11-29T00:35:57.169Z
-updated: 2024-12-02T05:21:45.302Z
+date: 2024-12-08T00:52:40.454Z
+updated: 2024-12-09T18:26:47.854Z
 tags:
   - deals
 categories:
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  Are you unable to deactivate the Caps Lock on your keyboard? This problem might occur if your keyboard settings are configured to turn off the lock when the Shift key is pressed. Another possible culprit could be a faulty Caps Lock key. Below, we have outlined the steps to identify the underlying cause and fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Key That Turns Off the Caps Lock
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Opening the typing settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-opening-the-typing-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, go to "Advanced Keyboard Settings" and click the "Language Bar Options" link. In the Text Services and Input Languages window, navigate to the "Advanced Key Settings" tab. Check the circle beside "Press the Caps Lock Key" option under "To Turn Off Caps Lock" if "Press the Shift Key" is selected. Apply the changes, then click "OK."
@@ -42,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Changing the key that turns off the Caps Lock in the advanced keyboard settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-changing-the-key-that-turns-off-the-caps-lock-in-the-advanced-keyboard-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Caps Lock Key Isn't Faulty
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the key registers and the testing window starts to type letters in lowercase, the key is not faulty. However, if the key doesn't register and fails to change the case, it indicates a defective key. It is possible there is debris inside the keyboard, causing keypresses to not register correctly. You can try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/) to see if that solves the issue. If that doesn't work, you can either have your keyboard (or laptop) inspected or [disable and remap the Caps Lock key](https://extra-information.techidaily.com/constructing-premium-canon-timelapse-movies-for-2024/).
@@ -80,18 +80,22 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>[New] 2024 Approved Tactics to Triumph Secrets of Successful Social Media Videos</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/best-sandbox-games-titles-you-shouldnt-be-missing/"><u>Best Sandbox Games Titles You Shouldn’t Be Missing</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-integrating-third-party-video-players-into-kodi-leia-and-krypton-editions/"><u>Comprehensive Tutorial: Integrating Third-Party Video Players Into Kodi - Leia and Krypton Editions</u></a></li>
-<li><a href="https://program-issues.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-at-launch/"><u>Fixing Helldivers II - Resolving the Black Screen at Launch</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G24 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-xcover-6-pro-tactical-edition-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy XCover 6 Pro Tactical Edition Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11x-5g-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme 11X 5G Phone Without Password?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Asus ROG Phone 7 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-s17t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S17t working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/seamless-sojourns-the-most-important-93-spanish-phrases-for-travelers/"><u>Seamless Sojourns: The Most Important 93 Spanish Phrases for Travelers</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-14-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 14 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-key-ingredients-for-successful-instagram-unboxing-reels/"><u>[New] The Key Ingredients for Successful Instagram Unboxing Reels</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-transform-the-mundane-into-stunning-create-with-our-video-templates/"><u>[Updated] In 2024, Transform the Mundane Into Stunning Create with Our Video Templates</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-smooth-operation-file-transfer-between-different-os-phones/"><u>2024 Approved Smooth Operation File Transfer Between Different OS Phones</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-gionee-f3-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Gionee F3 Pro</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-s18-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S18 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone SE Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-from-novice-to-pro-your-complete-guide-to-instagrams-latest-feature-reels/"><u>In 2024, From Novice to Pro – Your Complete Guide to Instagram's Latest Feature, Reels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-streamlinedprocess-for-youcamwebrecord/"><u>In 2024, StreamlinedProcess for YouCamWebRecord</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/linguaworlds-next-gen-virtual-linguistics-training/"><u>LinguaWorlds: Next-Gen Virtual Linguistics Training</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-f23-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from F23 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix .</u></a></li>
 </ul></div>
 

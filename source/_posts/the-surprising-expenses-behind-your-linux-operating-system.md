@@ -1,7 +1,7 @@
 ---
 title: The Surprising Expenses Behind Your Linux Operating System
-date: 2024-11-29T02:34:55.489Z
-updated: 2024-12-01T17:41:23.774Z
+date: 2024-12-06T16:48:21.923Z
+updated: 2024-12-09T16:53:35.331Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The Surprising Expenses Behind Your Linux Operating System
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,6 +23,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Have a Company to Contact for Hardware Support](https://fox-cloud.techidaily.com/new-2024-approved-prime-ai-graphic-editor-tools/)
 * [A Way to Support the Linux Ecosystem](https://screen-capture.techidaily.com/2024-approved-expeditious-approaches-to-slide-storage/)
 * [Avoid Giving Big Tech Even More Money](https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -37,10 +41,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Linux Is Guaranteed to Work on These PCs
 
 ![Star Labs StarLite MkIV laptop on a shelf.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/1000085879.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bertel King / How-To Geek
 
@@ -67,7 +67,7 @@ Bertel King / How-To Geek
 ![Pop OS background on the System76 Gazelle laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52865452885_471a3e5dc4_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -86,6 +86,10 @@ Hannah Stryker / How-To Geek
 
  I'm not saying they're miracle workers; customer support is what it is. Though you may find you actually get better support from these small companies than trying to reach out directly to the massive conglomerate that made your Windows PC or the big box store that sold it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Way to Support the Linux Ecosystem
 
  I deeply value free and [open source software](https://facebook-videos.techidaily.com/new-leveraging-social-media-power-optimal-use-of-hash-tags-on-fb/) (FOSS). Its value imprinted early in my life when I first discovered apps like Firefox, GIMP, and OpenOffice. They gave me everything I needed to complete school work and explore my creativity at a time when I was too young to have a credit card for buying proprietary software (and my parents were hardly going to let me use theirs, especially since they didn't understand what all this computer stuff was about).
@@ -96,10 +100,6 @@ Hannah Stryker / How-To Geek
 
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #####  Kubuntu Focus Ir16 (Gen2)
 
 8/ 10 
@@ -109,7 +109,7 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Avoid Giving Big Tech Even More Money
@@ -141,22 +141,18 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-old-hollywood-techniques-for-modern-filmmakers/"><u>[New] 2024 Approved Old Hollywood Techniques for Modern Filmmakers</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-guide-to-blurring-and-eliminating-photo-borders/"><u>[Updated] A Guide to Blurring and Eliminating Photo Borders</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-channel-title-genius-ideas-for-your-video-hub-for-2024/"><u>[Updated] Channel Title Genius Ideas for Your Video Hub for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-13-mini-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 13 mini Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ace-exams-easily-with-gpt-powered-notetaking/"><u>Ace Exams Easily with GPT-Powered Notetaking</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-100-pro-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 100 Pro Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus 11 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-galaxy-a25-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung Galaxy A25 5G?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-sony-xperia-10-v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 10 V Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-xiaomi-civi-3-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xiaomi Civi 3 unlock screen</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-incompatible-peripheral-connections-to-monitors-expert-tips/"><u>Resolving Incompatible Peripheral Connections to Monitors: Expert Tips</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-c300-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia C300</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722978836169-streamline-your-lenovo-x220-setup-with-rapid-driver-downloads/"><u>Streamline Your Lenovo X220 Setup with Rapid Driver Downloads!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oppo-reno-8t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Oppo Reno 8T</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-edge-2023-by-fonelab-android-recover-data/"><u>Undelete lost data from Edge 2023</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-quick-instructions-for-downloading-and-fun-with-ifunny-memes/"><u>[New] 2024 Approved Quick Instructions for Downloading and Fun with iFunny Memes</u></a></li>
+<li><a href="https://win-popular.techidaily.com/come-recuperare-gratuitamente-i-file-persi-su-windows-11-metodi-semplici-ed-efficaci-per-salvare-i-dati-importanti/"><u>Come Recuperare Gratuitamente I File Persi Su Windows 11: Metodi Semplici Ed Efficaci per Salvare I Dati Importanti</u></a></li>
+<li><a href="https://techtrends.techidaily.com/disabling-closed-captioning-a-step-by-step-guide-for-amazon-prime-watchers/"><u>Disabling Closed Captioning: A Step-by-Step Guide for Amazon Prime Watchers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-tips-on-utilizing-the-teleport-feature-in-minecraft-gaming/"><u>Expert Tips on Utilizing the Teleport Feature in Minecraft Gaming</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c32-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C32 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-x-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone X to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-discover-sj7s-boundary-pushing-4k-action-cam-technology-detailed-reviews/"><u>In 2024, Discover SJ7’s Boundary-Pushing 4K Action Cam Technology - Detailed Reviews</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-budget-friendly-filmmaking-essentials-8-must-know-software-for-2024/"><u>New Budget-Friendly Filmmaking Essentials 8 Must-Know Software for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/stream-selection-simplified-top-10-actionable-tips-for-2024/"><u>Stream Selection Simplified Top 10 Actionable Tips for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2021-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2021 documents online</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-google-pixel-7a-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Google Pixel 7a</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-7-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 7 screen lock without losing data</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-realme-c67-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Realme C67 5G</u></a></li>
 </ul></div>
 

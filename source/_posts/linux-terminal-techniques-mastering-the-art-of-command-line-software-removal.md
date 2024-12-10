@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-11-26T00:41:54.321Z
-updated: 2024-12-01T20:35:51.179Z
+date: 2024-12-04T16:12:43.789Z
+updated: 2024-12-09T22:07:03.743Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 ## Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 * On Fedora Linux, the "sudo dnf remove \[package\_name\]" command will uninstall the package.
 
  Linux distributions provide different methods for installing software. You can install software from the standard Ubuntu or Fedora software repositories using the Software Center, from outside of the standard Ubuntu or Fedora software repositories, or by compiling source code. However, what if you need to uninstall a program?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Uninstall Software Using the Command Line on Ubuntu
 
@@ -50,10 +54,6 @@ apt list --installed
 
 ![GIMP listed as an installed program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/GIMP-listed-in-the-installed-packages.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To uninstall a program, use the `apt` command, which is the general command for installing programs and manipulating installed programs. For example, the following command uninstalls gimp and deletes all the configuration files, using the `purge` command.
 
 sudo apt purge gimp
@@ -66,13 +66,13 @@ sudo apt purge gimp
 
 ![Run &quot;sudo apt purge gimp&quot; to uninstall GIMP and remove the configuration files on Ubuntu, or any Debian installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-purge-gimp-in-the-Terminal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The installation process continues. When it's done, type "exit" at the prompt and press "Enter" to close the Terminal window, or click the "X" button in the upper-left corner of the window.
 
 ![GIMP was successfully removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/Sudo-apt-purge-ran-successfully.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you don't want to remove the configuration files, simply substitute the command `remove `for `purge`, as shown in the following command.
 
@@ -86,19 +86,11 @@ sudo apt autoremove
 
 ![Run &quot;sudo apt autoremove&quot; to remove a package and all of the dependencies it installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-autoremove-in-the-terminal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can combine the two commands for removing a program and removing dependencies that are no longer being used into one, as shown below (two dashes before "auto-remove").
 
 sudo apt purge --auto-remove gimp
 
 ![Run &quot;sudo apt purge --autoremove gimp&quot; to remove all of GIMP's dependencies and the configuration files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-purge-autoremove-to-uninstall-packages-and-unused-dependencies.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're short on space, you can use the "clean" command to remove downloaded archive files, as shown below.
 
@@ -107,10 +99,6 @@ sudo apt clean
  This command removes the aptitude cache in "/var/cache/apt/archives". When you install a program, the package file is downloaded and stored in that directory. You don't need to keep the files in that directory. However, there is a potential drawback from deleting them: if you decide to install any of those programs again, the packages will have to be downloaded again.
 
 ![Run &quot;sudo apt clean&quot; to remove archive files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/run-sudo-apt-clean.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The APT is a handy tool that makes downloading, installing, and uninstalling programs quick and easy. For more information about using the "apt" command, type "apt" at the prompt and press Enter.
 
@@ -132,9 +120,17 @@ dnf list --installed
 
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll through the list until you find the program that you're looking for.
 
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are two quick ways to remove a program using DNF.
 
@@ -161,6 +157,10 @@ sudo dnf remove gimp
 
 ![The DNF auto-remove command being used to remove GIMP and all its dependencies.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_075114.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fedora is usually pretty good at grabbing only the correct dependencies, but if you notice something on the "Removing Unused Dependencies" list that you'd like to keep, you can manually flag it to be kept. Enter the following command in a command line to keep a dependency:
 
 dnf mark install (Dependency/Package Name)
@@ -184,20 +184,20 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-realism-refined-how-to-use-motion-blur-in-faces-using-picsart/"><u>[New] 2024 Approved Realism Refined How to Use Motion Blur in Faces Using Picsart</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/chieving-financial-freedom-joshis-youtube-tactics/"><u>[New] Achieving Financial Freedom Joshi’s YouTube Tactics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-master-vlc-tips-revealing-unknown-features/"><u>[New] Master VLC Tips Revealing Unknown Features</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-from-cluttered-canvases-to-crystal-clear-captures-using-photopea-for-2024/"><u>[Updated] From Cluttered Canvases to Crystal Clear Captures Using Photopea for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-top-8-best-free-srt-translators-online-tips-to-choose-for-2024/"><u>[Updated] Top 8 Best Free SRT Translators Online (Tips to Choose) for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-11-kid-friendly-waterproof-vlog-cameras-for-newbies/"><u>2024 Approved Top 11 Kid-Friendly Waterproof Vlog Cameras for Newbies</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-zero-30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Zero 30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-se-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone SE Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/138570685-9781450229524-power-in-the-blood/"><u>Power in the Blood | Free Book</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-camon-30-pro-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Camon 30 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-p40-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from P40</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-p60-by-fonelab-android-recover-photos/"><u>Undelete lost photos from P60.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-professional-screencapture-for-windows-11/"><u>[New] 2024 Approved Professional ScreenCapture for Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-mastering-fb-video-sizes-understanding-ratios-and-adjustments/"><u>[New] In 2024, Mastering FB Video Sizes Understanding Ratios and Adjustments</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-begin-recording-your-webcam-via-vlc-player-for-2024/"><u>[Updated] Begin Recording Your Webcam via VLC Player for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/decode-the-dead-by-daylight-error-8014-quick-and-effective-solutions/"><u>Decode the 'Dead by Daylight Error 8014': Quick and Effective Solutions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-control-over-standard-users-rights-in-windows/"><u>Enhancing Control Over Standard Users' Rights in Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-ultimate-guide-to-effective-film-production-using-movie-maker-windows-8/"><u>In 2024, The Ultimate Guide to Effective Film Production Using Movie Maker (Windows 8)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-depth-look-at-high-quality-minecraft-recordings/"><u>In-Depth Look at High-Quality Minecraft Recordings</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-c02-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C02 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/pioneering-computer-tech-insights-toms-authoritative-hardware-resource/"><u>Pioneering Computer Tech Insights: Tom's Authoritative Hardware Resource</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-12-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from 12</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/survive-the-contagion-outbreak-1995-dvd-watch-during-covid-lockdown/"><u>Survive the Contagion: 'Outbreak' 1995 DVD Watch During COVID Lockdown</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-razr-40-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Razr 40</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-z60-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Z60 Ultra Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-smart-8-plus-by-fonelab-android-recover-data/"><u>Undelete lost data from Smart 8 Plus</u></a></li>
 </ul></div>
 

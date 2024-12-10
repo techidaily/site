@@ -1,7 +1,7 @@
 ---
 title: "Introducing Gemma: The New Open-Source Artificial Intelligence Solution From Google"
-date: 2024-11-28T02:37:20.231Z
-updated: 2024-12-01T16:21:52.983Z
+date: 2024-12-05T22:44:13.810Z
+updated: 2024-12-09T20:31:16.510Z
 tags:
   - cutting-edge
 categories:
@@ -42,21 +42,24 @@ Google is now offering [Gemma 2B and 7B](https://blog.google/technology/develope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-serene-strings-20-calming-country-songs-perfect-for-dancing-on-tiktok/"><u>[New] Serene Strings 20 Calming Country Songs Perfect for Dancing on TikTok</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-sonic-symphony-fusing-music-and-visuals-with-windows-11-tech/"><u>[New] Sonic Symphony Fusing Music and Visuals with Windows 11 Tech</u></a></li>
-<li><a href="https://program-issues.techidaily.com/eliminate-ping-woes-in-chivalry-of-heroes-advanced-fixes-and-tweaks-expert-guide/"><u>Eliminate Ping Woes in Chivalry of Heroes - Advanced Fixes & Tweaks (Expert Guide )</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/from-vision-to-verses-integrating-chatgpt-in-writing/"><u>From Vision to Verses: Integrating ChatGPT in Writing</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-poco-c65-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco C65 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-oneplus-nord-n30-se-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For OnePlus Nord N30 SE | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Hot 40 Pro.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-y100t-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Y100t.</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/virtual-realms-on-screen-comprehensive-techniques-for-gameplay-recording-for-2024/"><u>Virtual Realms on Screen Comprehensive Techniques for Gameplay Recording for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-s18-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-discover-the-leading-apps-for-instagrams-vertical-igtv-edits/"><u>[New] In 2024, Discover the Leading Apps for Instagram's Vertical IGTV Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-cloaking-details-in-visual-data-storage/"><u>[Updated] In 2024, Cloaking Details in Visual Data Storage</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>2024 Approved For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
+<li><a href="https://win-docs.techidaily.com/das-einfache-handbuch-zum-nahtlosen-synchronisieren-von-mac-ordnern-schnelle-anleitung-zur-ordnungshuterei/"><u>Das Einfache Handbuch Zum Nahtlosen Synchronisieren Von Mac-Ordnern – Schnelle Anleitung Zur Ordnungshüterei</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effortless-mp4-video-editing-with-no-re-encoding-advanced-splitting-and-cropping-tools/"><u>Effortless MP4 Video Editing with No Re-Encoding: Advanced Splitting & Cropping Tools</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Infinix Hot 40i | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swift-steps-to-personalize-your-in-game-sonic-presence-in-pubg/"><u>In 2024, Swift Steps to Personalize Your In-Game Sonic Presence in PUBG</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/scribes-summit-selection-top-8-for-2024/"><u>Scribe's Summit Selection - Top 8 for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-motorola-edgeplus-2023-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Motorola Edge+ (2023).</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

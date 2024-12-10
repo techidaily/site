@@ -1,7 +1,7 @@
 ---
 title: Free and Endless Creation of Art with DALL-E & Bing – Learn How!
-date: 2024-11-27T05:14:10.140Z
-updated: 2024-12-02T02:21:52.156Z
+date: 2024-12-04T23:34:51.556Z
+updated: 2024-12-09T16:49:17.824Z
 tags:
   - cutting-edge
 categories:
@@ -11,24 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Free and Endless Creation of Art with DALL-E & Bing – Learn How!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Bing Image Creator and Its "Boosts" Work](https://remote-screen-capture.techidaily.com/in-2024-boosting-creativity-a-compreehensive-guide-to-enhanced-obs-edits/)
 * [How to Use Bing AI Image Creator](https://youtube-clips.techidaily.com/in-2024-a-symphony-of-selection-assembling-your-best-music-choices-on-youtube/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
  Microsoft Bing Image Creator is powered by DALL-E, but it doesn't have the same limits. You get 25 "boosts" per week to speed up generation, but you can still use it at slower speeds after that.
 
 [DALL-E 2](https://video-screen-grab.techidaily.com/new-2024-approved-home-sweet-habitat-6-basic-mc-dwellings-demystified/) was many people's introduction to the AI boom we're experiencing. [AI chatbots](https://screen-mirroring-recording.techidaily.com/in-2024-3-must-know-methods-to-record-on-your-ipad/) have stolen some of the thunder, but [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/) are still cool. Microsoft Bing's "Image Creator" is powered by DALL-E, and it doesn't have limits.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Bing Image Creator and Its "Boosts" Work
 
@@ -38,34 +34,34 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 Related: [5 Tips to Get the Best Results From DALL-E 2](https://facebook-video-footage.techidaily.com/unveiling-distinctions-a-look-at-youtube-and-dailymention-for-2024/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Bing AI Image Creator
 
  To use Bing's AI image generator---and avoid DALL-E limits---we'll visit the [Bing Image Creator](https://www.bing.com/images/create) website and enter a prompt. First, go to [bing.com/images/create](https://www.bing.com/images/create) in a web browser.
 
 ![Bing Image Creator website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-21_11-24-27.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, enter a prompt in the text box. (Here's some[advice on how to write a good prompt for DALL-E](https://facebook-video-footage.techidaily.com/unveiling-distinctions-a-look-at-youtube-and-dailymention-for-2024/).) If this is your first time, click "Join & Create."
 
 ![Click "Join and Create."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-21_11-26-26.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll be asked to sign in with your Microsoft account to proceed.
 
 ![Sign in with Microsoft account,](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-21_11-29-14.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After signing in, the image will be generated. You can see how many boosts---indicated with the yellow lightning icon---you have left in the search bar. Boosts are used until they run out, after which generation will take longer.
 
 ![Boosts count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-21_11-32-03.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -77,6 +73,10 @@ Joe Fedewa / How-To Geek
  You can see a history of your prompts in the right sidebar.
 
 ![Bing Image Creator history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-21_11-38-20.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's really all there is to it. If you're familiar with DALL-E 2, Bing's tool is very similar. One thing to note is Microsoft's version has different filters than the official [DALL-E 2 website](https://labs.openai.com/). It doesn't like mentions of celebrities, politicians, or even other AI tools and Microsoft products.
 
@@ -99,14 +99,17 @@ Related: [What Happens if You Let a 4-Year-Old Use an AI Art Generator?](https:/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-professional-grade-handguns-for-ultimate-video-stability/"><u>[New] Professional Grade Handguns for Ultimate Video Stability</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-ios-video-editor-apps-top-10-best-to-know/"><u>[Updated] 2024 Approved Essential iOS Video Editor Apps Top 10 Best to Know</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unraveling-the-selection-process-for-highlighted-youtube-comments-for-2024/"><u>[Updated] Unraveling the Selection Process for Highlighted YouTube Comments for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-1-v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 1 V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/linguistic-lovemaking-selecting-subtle-pickup-lines/"><u>Linguistic Lovemaking: Selecting Subtle Pickup Lines</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-find-x7-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo Find X7 Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-11-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme 11 Pro</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo on Mac?</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-capture-and-convey-top-10-image-writing-aid-apps-iosandroid-for-2024/"><u>[New] Capture and Convey Top 10 Image Writing Aid Apps (iOS/Android) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-top-5-engine-picks-for-peak-performance-quadcopters/"><u>[Updated] Top 5 Engine Picks for Peak Performance Quadcopters</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463191003-cant-locate-your-lost-iphone-on-find-my-learn-why-it-shows-offline-and-how-you-can-still-find-it/"><u>Can't Locate Your Lost iPhone on Find My? Learn Why It Shows 'Offline' And How You Can Still Find It!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/comprehensive-breakdown-obs-video-capture-capabilities-for-2024/"><u>Comprehensive Breakdown OBS Video Capture Capabilities for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-reno-10-proplus-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Reno 10 Pro+ 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/find-and-install-updated-hp-wlan-driver-packages-for-windows-users/"><u>Find and Install Updated HP WLAN Driver Packages for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-12r-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 12R Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-leading-360-degree-pro-cams-2023-edition-review/"><u>In 2024, Leading 360-Degree Pro Cams 2023 Edition Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/insightful-slomo-video-app-analysis-year-2024-perspective/"><u>Insightful SloMo Video App Analysis - Year 2024 Perspective</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-razr-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Razr 40</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
 </ul></div>
 

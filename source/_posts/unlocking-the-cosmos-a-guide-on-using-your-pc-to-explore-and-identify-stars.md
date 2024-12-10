@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars"
-date: 2024-11-27T18:41:50.766Z
-updated: 2024-12-02T10:28:36.109Z
+date: 2024-12-03T23:29:21.918Z
+updated: 2024-12-09T20:17:57.873Z
 tags:
   - cutting-edge
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
  While sitting idle, your computer could be searching the sky for undiscovered stars using Einstein@Home. Folks such as yourself who volunteer their computing resources for this project, have discovered more than 90 stars! Here’s how you can join this awesome mission.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How It Works
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 [Einstein@Home](https://einsteinathome.org/about) processes data from telescopes all over the world on your machine, searching for faint signals of far-off stars. More specifically, it looks for gravitational waves which Einstein predicted a century ago (hence the name). Neutron stars spin at almost the [same speed as your kitchen blender](https://science.nasa.gov/universe/neutron-stars-are-weird/) and that sends out gravitational waves. Unique waves that we can pick up and trace to their star of origin.
 
 ![Neutron star emitting gravitational waves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/neutron_star_merger_still_2_new.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 NASA
 
@@ -54,15 +50,15 @@ NASA
 
 ![BOINC download button on the official page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/boinc-download-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I’m using the Windows version of BOINC for this demonstration.
 
  Launch the setup by double-clicking the file you downloaded. Click "Next" twice and wait for a successful installation.
 
 ![Launching the BOINC installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/setup-launch.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  BOINC will automatically launch when you click "Finish."
 
@@ -72,6 +68,10 @@ NASA
 
 ![The blank project screen on the BOINC manager app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/welcome.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Add Project." Choose Einstein@Home from the list and click "Next." You’ll be asked to log into your Einstein@Home account. Under "Are you already running this project?", select "Yes, existing user." Enter your email and password. Click "Next."
 
 ![Adding Einstein@Home in the BOINC project list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-einsteinhome-1.png) 
@@ -80,25 +80,21 @@ NASA
 
 ![Logging into the Einstein@Home project on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/logging-in.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Close 
 
  After the Einstein@Home project has been successfully added, click "Finish." At this point, Einstein@Home should show up in the list of projects while BOINC downloads work from the server.
 
 ![BOINC manager running Einstein@Home.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/running.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  hile I was first setting up Einstein@Home, my BOINC manager wouldn’t get any tasks. I had to fix it by manually adjusting my resource allocation. To do that:
 
  On the top menu, click "View" and select "Advanced view." Then click Options > Computing Preferences and increase the percentage of the CPU usage and CPU time. Then click "Save" and restart the BOINC manager.
 
  It might look stuck at first, but give it a couple of minutes to get up and running. If you see a green arrow next to a task, it means BOINC is actively working on it. If you see a red stop sign, it means BOINC has paused processing that task.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Some Pro Tips
 
@@ -112,7 +108,15 @@ Close
 
 ![Advanced view being activated on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Computing preferences in Advanced view on BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view-preferences-1.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -123,10 +127,6 @@ Close
  Einstein@Home validates the results your machine sends in and grants you credits for every validated task. These credits will show up on your official certificate which is great for bragging rights.
 
 ![My BOINC computation certificate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/certificate.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -147,17 +147,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-10-best-youtube-keyword-tools-to-get-more-views/"><u>[New] 2024 Approved 10 Best YouTube Keyword Tools to Get More Views</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-spectral-synchronization-kit/"><u>[Updated] 2024 Approved Spectral Synchronization Kit</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/best-buy-specialists-unveil-the-ultimate-in-windows-laptops-exclusive-insights-backed-by-zdnet/"><u>Best Buy Specialists Unveil the Ultimate in Windows Laptops: Exclusive Insights Backed by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 10T 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-asus-rog-phone-7-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Asus ROG Phone 7 Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-pro-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Pro Lock Screen</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-streamlining-your-process-tools-and-tricks-for-smooth-broadcasting/"><u>In 2024, Streamlining Your Process Tools and Tricks for Smooth Broadcasting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pivoting-careers-from-novice-to-industry-veteran-for-2024/"><u>Pivoting Careers From Novice to Industry Veteran for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-and-easy-channels-personalize-your-youtube-url-now-in-2024/"><u>Quick and Easy Channels Personalize Your YouTube URL Now, In 2024</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-13-mini-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 13 mini SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-effortless-share-of-igtv-on-your-stories-for-2024/"><u>[Updated] Effortless Share of IGTV on Your Stories for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>[Updated] From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-constructing-captivating-valorant-youtube-thumbnails/"><u>2024 Approved Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/exceptional-14-visual-text-motion-examples-for-2024/"><u>Exceptional 14 Visual Text Motion Examples for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/hottest-apple-watch-promotions-for-this-week/"><u>Hottest Apple Watch Promotions for This Week!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-battlenet-wont-open-2024-guide/"><u>How to Fix Battle.net Won’t Open – 2024 Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-poco-x5-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco X5 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-m34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy M34 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-webvidrecorder-download-fb-content-easily/"><u>In 2024, WebVidRecorder Download FB Content Easily</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-loneliness-interactive-ai-as-social-catalyst/"><u>Transform Loneliness: Interactive AI as Social Catalyst</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-realme-c67-4g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Realme C67 4G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-k11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from K11 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-htc-u23-by-fonelab-android-recover-music/"><u>Undelete lost music from HTC U23</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30 VIP Racing Edition.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C51 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

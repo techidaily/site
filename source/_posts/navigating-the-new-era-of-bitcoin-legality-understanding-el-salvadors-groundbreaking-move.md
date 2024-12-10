@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2024-11-29T21:07:27.585Z
-updated: 2024-12-02T06:53:50.868Z
+date: 2024-12-09T00:43:36.898Z
+updated: 2024-12-09T19:00:45.947Z
 tags:
   - cutting-edge
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
  The results show that after the initial big push from the government of El Salvador to encourage its citizens to begin using this new financial system, enthusiasm and adoption are lackluster. Adoption in most key metrics has atrophied, and there's little momentum.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Background on Bitcoin in El Salvador** 
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
@@ -51,15 +51,15 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![$30 Bonus Incentive Use Chat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/30-Bonus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  Bitcoin's use as legal tender and its associated rollout in El Salvador isn't going as well as they hoped it would go. Although many El Salvadorans have a smartphone with internet access, less than 60% of them downloaded the Chivo Wallet required to participate. Less than 40% of citizens who downloaded the app continued to use it after claiming their $30 bonus incentive.
 
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -68,6 +68,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -83,6 +87,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
  Anecdotal evidence suggests that the app is used by a subset of the population like street vendors as a cash replacement because it's convenient for small peer-to-peer payments. This functionality is actually what is most used within the Chivo Wallet because you can use the app like Venmo and quickly send US dollars from person to person without any exposure to Bitcoin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Lack of Trust & Privacy Are Deterrents** 
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
@@ -93,10 +101,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
  When you download the Chivo Wallet, you have to complete an identity verification process commonly referred to in the industry as Know Your Customer or KYC. This is a common practice when onboarding into many cryptocurrency exchanges. Because of this process, the government can track and trace every transaction that happens using the Chivo Wallet. Opportunities for surveillance are another critique that people reported in the survey when deciding not to participate citing they didn't trust the system or the technology.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Failure to Capture Remittance Market** 
 
 ![Use of Chivo for Remittances](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Taxes-Remittances-El-Salvador.png) 
@@ -106,10 +110,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  A major use case lauded by supporters is the amount of money that would stay in the hands of El Salvadorans rather than money gram companies. Remittances account for 20% of El Salvador's GDP.
 
  However, the study shows that only 3% of people reported receiving remittances in Bitcoin and only 8% in US dollars using the Chivo Wallet. This is in line with the El Salvadoran Central Bank's data which stated that in 2022 only 1.6% of remittances were sent through a digital wallet.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Silver Linings** 
 
@@ -146,17 +146,19 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-vivid-instagram-profile-previews/"><u>[Updated] 2024 Approved Crafting Vivid Instagram Profile Previews</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-best-practices-in-digital-media-capturing/"><u>[Updated] Best Practices in Digital Media Capturing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-essential-guide-to-pre-eminent-video-conferencing-tools-for-2024/"><u>[Updated] Essential Guide to Pre-Eminent Video Conferencing Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Plus Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-iphone-11-pro-activation-lock-by-drfone-ios-unlock-ios-unlock/"><u>How to bypass iPhone 11 Pro activation lock</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-play-7t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Play 7T If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oneplus-11-5g-phone-without-password-by-drfone-android/"><u>How To Unlock OnePlus 11 5G Phone Without Password?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-from-apple-iphone-13-pro-max-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even From Apple iPhone 13 Pro Max If Youve Tried Everything</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-how-to-edit-uploaded-published-youtube-videos/"><u>In 2024, How to Edit Uploaded/ Published YouTube Videos</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-reno-10-pro-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Reno 10 Pro 5G unlock screen</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-vivo-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Vivo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearview-capture-watchlist/"><u>[New] 2024 Approved ClearView Capture Watchlist</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unearthing-excellent-seeds-the-valheim-way/"><u>[Updated] In 2024, Unearthing Excellent Seeds The Valheim Way</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-gentle-request-for-a-greater-genuine-community/"><u>2024 Approved Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/getting-the-most-out-of-your-graphics-card-with-warzone-tips-for-windows-10-users/"><u>Getting the Most Out of Your Graphics Card with Warzone – Tips for Windows 10 Users</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y28-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y28 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-iphone-hdr-photo-guidebook/"><u>In 2024, Ultimate iPhone HDR Photo Guidebook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-most-trusted-grid-creation-applications-ranked-anew-for-2024/"><u>Instagram's Most Trusted Grid Creation Applications Ranked Anew for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mac-video-editing-software-top-vsdc-alternatives/"><u>New 2024 Approved Mac Video Editing Software Top VSDC Alternatives</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Google Pixel 8</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-11-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 11 Pro Max screen lock</u></a></li>
 </ul></div>
 

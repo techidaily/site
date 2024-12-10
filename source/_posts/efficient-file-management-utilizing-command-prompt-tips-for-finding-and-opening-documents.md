@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents"
-date: 2024-11-25T02:56:48.826Z
-updated: 2024-12-02T01:36:23.559Z
+date: 2024-12-04T00:30:54.890Z
+updated: 2024-12-09T23:10:55.710Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 * [Open Files Using Command Prompt](https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 * To open a file, navigate to its directory using the "cd" command and enter the file name into Command Prompt. If the path or filename have spaces, put quotation marks around them.
 
  Once you’ve learned how to [navigate directories](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/) on Windows 10, the next step is learning how to find and open files using the Command Prompt. It’s just as easy as navigating through and opening a file in File Explorer. Here’s how it’s done.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Command Prompt
 
@@ -51,14 +55,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![A file with "example" in the file name, the path to the file, and some basic attributes.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now that we've found our file, let's open it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open Files Using Command Prompt
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![Using the cd command to change the directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cd-doc-ex.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once you have inputted your command, press the Enter key. You’ll now be in that folder.
 
 ![We have successfully changed directories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-changed-directory-successfully-1.png) 
@@ -87,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  “example file.docx”
 
 ![Enter the file name and file extension to open a file using Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-open-example-file.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It is very important to include the file name in quotation marks in this instance because there is a space in the file name. You need one if there is a space in a folder name, too.
 
@@ -106,11 +98,19 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 ![File path with quotes on the file name only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-example-file-with-quotes.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There are a couple of other important things to keep in mind.
 
  The first is that Windows paths are not case sensitive. You could write "EXAMPLE file.docx" or "eXaMpLe FiLe.dOcX" and Command Prompt wouldn't care.
 
 ![Some examples of paths you can use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/7-examples-of-paths.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The second is that you can open files with unknown file extensions, you just have to manually specify which program to use first. This isn't any different from trying to open an unknown file format with File Explorer.
 
@@ -133,20 +133,14 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-enhance-snaps-with-quick-voice-customization-techniques-on-snapchat/"><u>[New] 2024 Approved Enhance Snaps with Quick Voice Customization Techniques on Snapchat</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-tech-gurus-rate-them-all-unveiling-apeaksofts-screen-recording-capabilities/"><u>[Updated] Tech Gurus Rate Them All Unveiling Apeaksoft’s Screen Recording Capabilities</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-guide-to-creating-compact-engaging-youtube-content-for-2024/"><u>Expert Guide to Creating Compact, Engaging YouTube Content for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100i Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-a2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi A2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-htc-u23-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on HTC U23 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-crossing-over-attending-tiktok-live-gigs-easily/"><u>In 2024, Crossing Over Attending TikTok Live Gigs Easily</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-top-6-instagram-money-calculator-safe-and-effective/"><u>In 2024, Top 6 Instagram Money Calculator - Safe & Effective</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-pova-6-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 6 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-revolutionize-online-sessions-with-essential-zoom-transformations/"><u>[Updated] Revolutionize Online Sessions with Essential Zoom Transformations</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-sunshine-strategies-to-lighten-up-android-videos/"><u>[Updated] Sunshine Strategies to Lighten up Android Videos</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/advanced-ios-data-erasing-techniques-keep-your-mobile-sensitive-files-secret/"><u>Advanced iOS Data Erasing Techniques: Keep Your Mobile Sensitive Files Secret</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-m6-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco M6 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y27-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y27 4G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-realme-narzo-n53-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-creative-potential-image-curve-magic-in-ps/"><u>In 2024, Unlock Creative Potential Image Curve Magic in PS</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-reno-11-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Reno 11 5G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30? | Dr.fone</u></a></li>
 </ul></div>
 

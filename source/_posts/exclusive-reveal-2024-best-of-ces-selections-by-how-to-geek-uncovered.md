@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered"
-date: 2024-11-30T04:34:40.093Z
-updated: 2024-12-01T22:41:17.763Z
+date: 2024-12-03T21:26:52.903Z
+updated: 2024-12-09T23:18:59.955Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/20be038a3e48f613b2c652d4cbdf605ae5da9fdcf
 ---
 
 ## Exclusive Reveal: 2024 Best of CES Selections by How-To Geek Uncovered
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,12 +48,16 @@ Justin Duino / How-To Geek
 
  The new Thinkpad X1 Carbon Gen 12 looks like a fantastic Windows laptop, but it’s also priced to match: it starts at $2,989\. Some configurations [already went on sale in December](https://desktop-recording.techidaily.com/updated-transforming-live-dialogues-into-permanent-history/), but the rest of the configuration options will be available starting in March 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Router: TP-Link Deco BE65 Pro Mesh Router
 
 ![TP Link Deco BE65 Pro Wi Fi 7 Router at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/tp-link-deco-be65-pro-wi-fi-7-router-at-ces-2024.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -75,7 +83,7 @@ Hannah Stryker / How-To Geek
 ![JBL Go 4 Bluetooth speaker sitting on a table in front of the JBL Clip 5](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/jbl-go-4-bluetooth-speaker-sitting-on-a-table-in-front-of-the-jbl-clip-5.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -85,10 +93,6 @@ Justin Duino / How-To Geek
  It's often hard to get a sense of audio quality at trade shows, but our own Jason Fitzpatrick had a chance to try out the JBL Go 4\. He said, "The Go series has always sounded pretty solid for its size, but the Go 4 is surprisingly good" and "The first palm-size Bluetooth speaker I’d actually consider regularly using."
 
  JBL says the Go 4 is rated for 7 hours of battery life. It's IP67 rated, has Bluetooth 5.3, and [Bluetooth LE audio](https://screen-video-capture.techidaily.com/updated-the-experts-guide-to-live-classroom-capturing-via-macos-for-2024/). It will be available in June for only $50, which is $30 cheaper than the JBL Clip 5, the company's slightly larger portable speaker.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Mouse: Cherry M64 Pro Wireless Mouse
 
@@ -106,13 +110,13 @@ Hannah Stryker / How-To Geek
 
  Launching alongside keyboards, microphones, and other [CHERRY XTRFY gaming gear](https://www.cherry-world.com/company/press/article/cherry-xtrfy-reveals-entire-range-of-new-gaming-products-at-ces), the M64 Pro will be available for $139 in Q2 of 2024.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best TV: LG G4 OLED
 
 ![A LG G4 OLED evo at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/a-lg-g4-oled-evo-at-ces-2024.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -130,10 +134,6 @@ Hannah Stryker / How-To Geek
 
 ![XGIMI Horizon Max projector sitting on a table at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/xgimi-horizon-max-projector-sitting-on-a-table-at-ces-2024.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Justin Duino / How-To Geek
 
 [XGIMI took to CES to unveil the XGIMI Horizon Max](https://youtube-tips.techidaily.com/ed-keep-watching-youtube-on-the-go-with-iphoneandroid/), a long-throw projector that is the first to have IMAX Enhanced Certification. This means that the projector can deliver the best possible picture and sound quality, as well as work with IMAX Enhanced content. The XGIMI Horizon Max boasts a 4K resolution, a bright 3,100 ISO lumens, a high 2,000:1 contrast ratio, and a huge screen size of up to 180 inches.
@@ -147,7 +147,7 @@ Justin Duino / How-To Geek
 ![Satechi SMI Slim Mechanical Keyboard at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/satechi-smi-slim-mechanical-keyboard-at-ces-2024.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -170,13 +170,13 @@ Justin Duino / How-To Geek
 
  This 360-degree swiveling phone stand is impressive. Once it identifies your face, it tracks you with ease. It’s perfect for video calls, work meetings, content creation, or being a webcam for your Mac. The Belkin Auto Tracking Stand Pro is a bit more expensive than your traditional phone stand, costing $180, but it has a 5-hour battery life, and when it’s plugged in, you’ll get 15W wireless charging for your phone. Grab yours from Belkin’s website at the end of January.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Best Robot Vacuum: Roborock S8 MaxV Ultra
 
 ![The bottom of the Roborock S8 MaxV Ultra with its brush arm extended](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-roborock-s8-maxv-ultra-with-its-brush-arm-extended.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -187,10 +187,6 @@ Justin Duino / How-To Geek
  One other pretty cool feature is the option to buy a base station that can be connected to your home's plumbing. That means you'll never have to refill or drain the mopping tanks. Our Justin Duino was at the show to check out the vacuum, and he had this to say: "Being able to auto-refill the water tank and dump dirty water through your home plumbing takes even more work off of your home cleaning responsibilities. Add in the extendable brush arm, and the S8 MaxV Ultra should keep your home looking as clean as possible."
 
  As expected, all this tech comes at a price. The Roborock S8 MaxV Ultra costs $1,800 and will be launching in April.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Smart Lighting: Govee AI Sync Box Kit 2
 
@@ -221,7 +217,7 @@ NVIDIA
  NVIDIA G-Sync Pulsar will debut on the [ASUS ROG Swift PG27 Series G-SYNC gaming monitor](https://press.asus.com/news/asus-rog-monitor-lineup-ces-2024/), arriving later in 2024.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Best Computer Monitor: LG 32" Ultragear Dual Mode OLED
@@ -243,7 +239,7 @@ Justin Duino / How-To Geek
 ![Sennheiser Momentum Sport earbuds sitting outside of their charging case at CES 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/sennheiser-momentum-sport-earbuds-sitting-outside-of-their-charging-case-at-ces-2024.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -267,6 +263,10 @@ Justin Duino / How-To Geek
  More importantly, during Telehealth sessions, you can stream audio from the stethoscope directly to your provider. While none of these measurement tools are new or novel, getting all four in one relatively affordable device makes it a great all-in-one health tool for families.
 
  The EKG still needs to clear all those FDA processes, but Withings is aiming for a June release date for its “thermometer of the future.”
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Office: Razer Iskur V2
 
@@ -295,24 +295,19 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-max-360-vs-hero-11-the-decisive-battle-for-superior-gopro-action-footage/"><u>[New] Max 360 vs Hero 11 - The Decisive Battle for Superior GoPro Action Footage</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-a18-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo A18 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-14-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y17s-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y17s If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-xr-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g04-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G04 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V30? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-vivo-s17-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-tecno-camon-20-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Tecno Camon 20? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/kompakte-anleitung-zum-klingen-von-windows-server-n22-auf-neuer-festplatte-einfach-gemacht/"><u>Kompakte Anleitung Zum Klingen Von Windows Server N22 Auf Neuer Festplatte – Einfach Gemacht!</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/steps-for-writing-engaging-video-blogging-content/"><u>Steps for Writing Engaging Video Blogging Content</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-multi-device-note-management-in-win11/"><u>Streamlining Multi-Device Note Management in Win11</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-z50s-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Z50S Pro password or pattern lock</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/visual-wonders-the-10-list-of-exceptional-4k-for-macs-for-2024/"><u>Visual Wonders The #10 List of Exceptional 4K for Macs for 2024</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-yuva-3-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Lava Yuva 3 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-step-by-step-approach-to-generating-income-with-trailers-for-2024/"><u>[New] A Step-by-Step Approach to Generating Income with Trailers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-exclusive-list-best-mac-gif-recorders-for-2024/"><u>[New] Exclusive List Best Mac GIF Recorders for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-net-booster-fb-stories-repository-app/"><u>[New] Net Booster FB Stories Repository App</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-premier-mobile-tools-for-dji-footage-enhancement/"><u>[New] Premier Mobile Tools for DJi Footage Enhancement</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-angle-advantage-guide-mastering-the-art-of-spinning-photos-for-social-media-triumphs/"><u>[Updated] In 2024, The Angle Advantage Guide Mastering the Art of Spinning Photos for Social Media Triumphs</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X50i+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a58-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A58 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/from-hdd-to-hd-in-a-blink-supercharge-your-mac-with-an-ssd/"><u>From HDD to HD in a Blink: Supercharge Your Mac with an SSD</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-enhance-your-instagram-stories-with-a-blend-of-pictures-a-beginners-guide/"><u>In 2024, Enhance Your Instagram Stories with a Blend of Pictures A Beginner's Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-vivo-s18-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Vivo S18 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-note-30i-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Note 30i unlock screen</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone SE | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-oppo-a1x-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Oppo A1x 5G</u></a></li>
 </ul></div>
 

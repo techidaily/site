@@ -1,7 +1,7 @@
 ---
 title: "Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide"
-date: 2024-11-29T20:41:49.773Z
-updated: 2024-12-02T03:43:37.348Z
+date: 2024-12-07T19:49:15.738Z
+updated: 2024-12-09T21:05:58.383Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 ## Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 
 ![Cyberpunk scene of robot woman buying a fruit from a robot man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/cybepun-fruit.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 DALL-E / Sydney Butler / How-To Geek
 
  There have been three separate versions of DALL-E released over the years, with the most recent iteration, [DALL-E 3](https://some-skills.techidaily.com/tailored-titling-for-stellar-online-video-content-for-2024/), being available through ChatGPT.
@@ -43,10 +47,6 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT's list of DALL-E restrictions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-restricted-images.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you may expect, sexually explicit and hateful images are prohibited, as well as images depicting real people or deepfakes. Images depicting violence and illegal activity and the use of copyright content is also off-limits. [DALL-E is also available in Bing](https://fox-direct.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing-for-2024/) at no charge.
 
 ##  How to Use DALL-E in ChatGPT on Desktop
@@ -55,20 +55,20 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT processing DALL-E image request on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After sending your DALL-E prompt, ChatGPT will spend a few seconds generating the image. This may take longer if your internet connection is poor, or if ChatGPT is experiencing high user demand.
 
 ![ChatGPT DALL-E image generation response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Simply hover your mouse over the image, and you'll see a download option at the top-left. If you're not satisfied with the first result, you can make additional requests.
 
 ![ChatGPT's response to DALL-E prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While ChatGPT can generate some visually stunning images with the DALL-E plugin, it's very difficult to make small changes to a previous image without other things being changed, too.
@@ -77,11 +77,11 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT DALL-E updated image result on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-dalle-cat3.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is because ChatGPT can't keep the previous image exactly the same upon each new request. This is a very limiting aspect, as you can't make small changes to an image that you already like for the most part.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Mobile
 
@@ -114,20 +114,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-top-tier-visual-data-vaults/"><u>[New] 2024 Approved Top-Tier Visual Data Vaults</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-essential-top-6-digital-engagement-channels-for-companies-for-2024/"><u>[New] Essential Top 6 Digital Engagement Channels for Companies for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-pull-the-crowd-tactics-for-viral-instagram-videos-for-2024/"><u>[Updated] Pull the Crowd Tactics for Viral Instagram Videos for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-sluggishness-on-windows-11-tips-and-tricks-for-quicker-operation/"><u>Fixing Sluggishness on Windows 11: Tips and Tricks for Quicker Operation</u></a></li>
-<li><a href="https://fox-search.techidaily.com/guida-esclusiva-al-debugging-del-blocco-della-configurazione-di-sistema-in-windows-n11/"><u>Guida Esclusiva Al Debugging Del Blocco Della Configurazione Di Sistema in Windows N.11</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oppo-reno-10-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo Reno 10 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-yuva-2-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 2 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-samsung-galaxy-f54-5g-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Samsung Galaxy F54 5G to New Phone | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-magic5-ultimate-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic5 Ultimate working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-create-unforgettable-moments-best-online-collage-makers-for-2024/"><u>New Create Unforgettable Moments Best Online Collage Makers for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-11-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from 11 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-honor-x50i-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor X50i</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-leading-8-screenshot-solutions-without-hesitation/"><u>[New] In 2024, Leading 8 Screenshot Solutions Without Hesitation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-elite-selections-5-fast-screen-recorders/"><u>[Updated] In 2024, Elite Selections 5 Fast Screen Recorders</u></a></li>
+<li><a href="https://win-community.techidaily.com/djs-ultimate-list-top-10-best-selling-controller-boards-of-2016-by-dj-tech-tools/"><u>DJ's Ultimate List: Top 10 Best-Selling Controller Boards of 2016 by DJ Tech Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oppo-find-x6-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Oppo Find X6 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/micro-scripted-movie-plot-for-2024/"><u>Micro-Scripted Movie Plot for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/printer-woes-after-suspend-on-windows-7-systems/"><u>Printer Woes After Suspend on Windows 7 Systems</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v15-files-on-my-mac-using-tool-by-stellar-guide/"><u>Repair corrupt PDF v1.5 files on my Mac using tool</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/the-dance-of-diction-creating-bounce-with-text/"><u>The Dance of Diction Creating Bounce with Text</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-smart-8-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Smart 8 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-music/"><u>Undelete lost music from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-c65-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco C65</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

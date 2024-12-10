@@ -1,7 +1,7 @@
 ---
 title: "Experience the Cutting-Edge: Exploring Google's Latest Innovations with the Pixel 9 Series, Pixel 9 Pro Foldable Display, Pixel Watch Gen 3, and Updated Pixel Buds Pro"
-date: 2024-11-26T01:06:58.442Z
-updated: 2024-12-01T19:00:20.694Z
+date: 2024-12-05T17:59:02.010Z
+updated: 2024-12-10T00:28:17.339Z
 tags:
   - mobile
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
 ---
 
 ## Experience the Cutting-Edge: Exploring Google's Latest Innovations with the Pixel 9 Series, Pixel 9 Pro Foldable Display, Pixel Watch Gen 3, and Updated Pixel Buds Pro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/8b677f86d933a2dc57f7b5d236aa4e6146da7e283
  Instead of waiting for October, Google took to its Silicon Valley HQ to unveil its latest generation of products at today's Made By Google event. Instead of relying on AI and software features to be the star of the show, Google made serious improvements to its Pixel 9 lineup, with much-needed upgrades to the Watch 3 and Buds Pro 3.
 
  I got an early hands-on with everything announced, so here are my first impressions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Pixel 9: Polished and Premium
 
@@ -49,7 +57,7 @@ Close
 [![Google Gemini update for Android.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/0-blog-header.png)](https://some-guidance.techidaily.com/in-2024-unleashing-your-gopro-potential-must-have-additions/) Related 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### [Gemini on Android Gets Live Chat and Overlay Assistant Updates](https://tech-savvy.techidaily.com/sleuth-through-cyberspace-discover-4-immersive-ai-game-challenges/) 
@@ -65,18 +73,10 @@ The Gemini app can now interact with other Android apps.
 * ![Obsidian Google Pixel 9 on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/obsidian-google-pixel-9-on-a-white-backgroun.jpg)  
 #####  Google Pixel 9  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 The Google Pixel 9 features a sleek design with a powerful Tensor G4 processor, 12 GB of RAM, and a vibrant 6.3-inch Actua display, making it ideal for capturing stunning photos and videos with its advanced 50 MP main lens and 48 MP ultrawide camera. With improved durability and a fast-charging all-day battery, the Pixel 9 is built to handle daily challenges while delivering top-notch performance and AI-driven capabilities.  
 [See at Google Store](https://store.google.com/product/pixel%5F9) [$799 at Amazon](https://www.amazon.com/dp/B0D7HWJDQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-128gb-unlocked-wintergreen%2F6587823.p%3FskuId%3D6587823) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9)
 * ![Porcelain Google Pixel 9 Pro on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/porcelain-google-pixel-9-pro-on-a-white-background.jpg)  
 #####  Google Pixel 9 Pro  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 processor, and 16 GB of RAM, making it ideal for advanced AI applications, stunning photos, and videos. It includes a pro triple rear camera system, a 42 MP front camera, and the brightest Super Actua display, offering an immersive experience in two sizes. Pricing starts at $999.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HXM4HW?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-128gb-unlocked-hazel%2F6587889.p%3FskuId%3D6587889) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9p) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9-pro.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro)
@@ -85,6 +85,10 @@ The Google Pixel 9 Pro features a sophisticated design, a powerful Tensor G4 pro
 
 The Google Pixel 9 Pro XL offers an expansive 6.8-inch Super Actua display, combined with the powerful Tensor G4 processor and 16 GB of RAM for top-tier AI performance and advanced photography. It features Google's most advanced camera system, including a pro triple rear camera and a 42 MP front camera, all within a sleek design starting at $1,099.  
 [See at Google Store](https://store.google.com/product/pixel%5F9%5Fpro) [$1099 at Amazon](https://www.amazon.com/dp/B0D7HSJ7ZP?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-9-pro-xl-128gb-unlocked-obsidian%2F6587896.p%3FskuId%3D6587896) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/smartphones/google-pixel-9-pro-xl/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fp9l) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/phones/google-pixel-9-pro-xl.html) [See at T-Mobile](https://www.t-mobile.com/cell-phone/google-pixel-9-pro-xl)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Google Pixel 9 Pro Fold: Night and Day Improvements
 
@@ -118,6 +122,10 @@ The Google Pixel 9 Pro Fold is a cutting-edge foldable smartphone featuring an 8
 
 ![41mm and 45mm Google Pixel Watch 3 on display at Made By Google 2024](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/41mm-and-45mm-google-pixel-watch-3-on-display-at-made-by-google-2024-3.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Justin Duino / How-To Geek
 
  The Pixel Watch's greatest weakness was that it only came in one size: 41mm. Although watchbands were available for all wrist sizes, the smaller display looked laughably minuscule on wrists like mine that comfortably fit an Apple Watch Ultra. This year, with the launch of the Pixel Watch 3, Google is giving us 41mm and 45mm options to choose from.
@@ -138,26 +146,18 @@ Close
 
 ![Hazel Google Watch 3 on a white background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/hazel-google-pixel-watch-3-on-a-white-background.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #####  Google Pixel Watch 3
 
 The Google Pixel Watch 3 is a performance-focused smartwatch featuring a larger, brighter Actua display available in two sizes, designed to enhance fitness tracking and daily productivity. It offers advanced running capabilities, readiness and cardio load tracking, and deep integration with Google's ecosystem, all while delivering up to 36 hours of battery life with Battery Saver mode.
 
 [See at Google Store](https://store.google.com/product/pixel%5Fwatch%5F3) [$400 at Amazon](https://www.amazon.com/dp/B0D91268TH?tag=hotoge-20&ascsubtag=UUhtgUeUpU2004810&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fhands-on-made-by-google-2024%2F&asc%5Fcampaign=Authority) [See at Best Buy](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.bestbuy.com%2Fsite%2Fgoogle-pixel-watch-3-45mm-smartwatch-with-hazel-band-wi-fi-matte-hazel%2F6588313.p%3FskuId%3D6588313) [See at Verizon](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.verizon.com/connected-smartwatches/google-pixel-watch-3/?CMP=ini%5Fm%5Fx%5Fpr%5Foth%5Fpr1%5F24%5F08%5Fnr%5Fgtt%5Fpw3) [See at AT&T](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2004810/https://www.att.com/buy/wearables/google-pixel-watch-3-41mm.html) [See at T-Mobile](https://www.t-mobile.com/smart-watch/google-pixel-watch-3-41mm) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google Pixel Buds Pro 2: Improved Design and Sound?
 
 ![Google Pixel Buds Pro 2 in Wintergreen sitting on display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/08/google-pixel-buds-pro-2-in-wintergreen-sitting-on-display.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
@@ -199,22 +199,18 @@ The Google Pixel Buds Pro 2 are designed for maximum comfort and a secure fit, f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-adopting-nature-positive-policies-in-urban-governance-for-2024/"><u>[New] Adopting Nature-Positive Policies in Urban Governance for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco X6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Does Life360 Notify When You Log Out On Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-oppo-a1-5g-lock-screen-password-by-drfone-android/"><u>How To Change Oppo A1 5G Lock Screen Password?</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g73-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G73 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m54-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M54 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-tecno-spark-10-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Tecno Spark 10 Pro Fingerprint Lock</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-the-beat-of-branding-mixing-music-into-your-instareel/"><u>In 2024, The Beat of Branding Mixing Music Into Your InstaReel</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/professional-edge-adding-letterbox-frame-to-your-fb-videos/"><u>Professional Edge Adding Letterbox Frame to Your FB Videos</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A25 5G can't play MP4 video files</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-capturing-your-cloudcomputer-webex-sessions-and-webinar-streams/"><u>Step-by-Step Guide: Capturing Your Cloud/Computer Webex Sessions & Webinar Streams</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tweetvidtowebm-easy-streaming-tools/"><u>TweetVidToWebM Easy Streaming Tools</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-6s-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 6s using itunes</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-final-cut-pro-essentials-reversing-a-clip-in-4-simple-steps-for-2024/"><u>Updated Final Cut Pro Essentials Reversing a Clip in 4 Simple Steps for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y100 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-instantaneous-image-assembling-a-facebook-collage-primer/"><u>2024 Approved Instantaneous Image Assembling A Facebook Collage Primer</u></a></li>
+<li><a href="https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/"><u>Android Screen Unlock</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-google-pixel-7a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xs-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone XS to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-installation-guide-for-movie-maker-6-version-6/"><u>In 2024, Installation Guide for Movie Maker 6 Version 6</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-synchronize-successfully-5-steps-for-data-migration/"><u>In 2024, Synchronize Successfully 5 Steps for Data Migration</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-g22-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia G22 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/rhythm-and-reel-adding-music-to-ig-feeds/"><u>Rhythm and Reel Adding Music to IG Feeds</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ocial-media-symphony-composing-jake-pauls-youtube-success/"><u>The Social Media Symphony Composing Jake Paul's YouTube Success</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-galaxy-a15-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Galaxy A15 5G</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/unraveling-the-mystery-identifying-causes-of-sudden-graphics-problems-in-microsoft-windows-guidance-by-yl-software-experts/"><u>Unraveling the Mystery: Identifying Causes of Sudden Graphics Problems in Microsoft Windows – Guidance by YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-moto-g24-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola Moto G24?</u></a></li>
 </ul></div>
 

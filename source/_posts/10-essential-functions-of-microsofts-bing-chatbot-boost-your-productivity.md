@@ -1,7 +1,7 @@
 ---
 title: "10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity"
-date: 2024-11-30T21:19:49.258Z
-updated: 2024-12-02T04:49:57.022Z
+date: 2024-12-07T22:03:10.801Z
+updated: 2024-12-09T19:35:34.127Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ---
 
 ## 10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 * [Remove Bing Chat from Microsoft Edge](https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-redmi-a2plus-unlock-without-password-by-drfone-android/)
 
  Microsoft's [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/)\-based AI chatbot is part of what the company calls "New Bing." It's slowly being added to more things, and [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) is surprisingly useful---if you know what to do with it. We'll show you the ropes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use Bing Chat in Google Chrome
 
@@ -48,19 +48,19 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 * **More Precise**: Shorter, straightforward search-focused answers.
 * **More Balanced**: Informative and friendly, somewhere between the other styles.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Generate Images With DALL-E
 
 ![Bing Chat image creation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-25-56.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There's a lot that [separates Bing Chat and ChatGPT](https://extra-skills.techidaily.com/2024-approved-step-into-virtuality-comparing-best-vr-treadmills/), but one of the big ones is the ability to [generate images with another AI tool](https://review-topics.techidaily.com/recover-excel-2013-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/) inside the text conversation. Bing uses OpenAI's DALL-E AI image generator, and it actually [has fewer limits than the official DALL-E website](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/). Using the "More Creative" conversation style, simply ask it to create an image.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Share Responses
 
@@ -72,6 +72,10 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 ![Rate the answer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-27-57.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Another thing you can do from responses is rate them. Click the thumbs up and thumbs down icons on the corner of responses to tell Bing if it did a good or bad job answering your prompt. This is supposed to help improve responses over time.
 
 ##  Ask For Changes
@@ -80,20 +84,20 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
  You never have to settle for Bing's first response to a prompt. It can be tweaked and changed until you reach the 20-message limit, and you don't have to repeat the prompt every time. Let's say you asked for a recipe for vegetable soup, but the first response didn't include turnips. Simply follow-up by asking "add turnips to the recipe."
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Wipe Bing's Memory
 
 ![Click the &quot;New Topic&quot; button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_13-58-00.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Bing Chat has a limit of 20 prompts per conversation. However, you can wipe the slate clean at any time by clicking the "New Topic" button. This will wipe the current conversation, and Bing will start over from scratch with no memory of the previous topic. [Bing can get weird](https://www.reviewgeek.com/145905/i-made-bings-chat-ai-break-every-rule-and-go-insane/) if you change topics too many times in the same conversation.
 
 Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly.techidaily.com/updated-the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Bing Chat on Android and iPhone
@@ -101,7 +105,7 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 ![Tap the Bing Chat button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-19-23.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Bing Chat isn't limited to only the Microsoft Edge browser. The chatbot can be easily accessed on iPhone and Android with the Bing app as well. First, download the app from the [App Store](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231?at=1010l392g&ct=htg882581) or [Google Play Store](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.microsoft.bing%26hl%3Den%5FUS%26gl%3DUS&cuid=xid:fr1681838202aaa). Sign in and tap the big Bing Chat button in the toolbar to start chatting.
@@ -115,10 +119,6 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
 ##  Remove Bing Chat from Microsoft Edge
 
 ![Toggle off &quot;Show Disocer.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-27_9-24-28.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you really like using Bing Chat, you may not want a big, gaudy Bing button in the Edge sidebar all the time. That button was added in [Microsoft Edge 111](https://tech-revival.techidaily.com/eliminating-streaming-glitches-on-chatgpt-platform/), but it took Microsoft over a week to add an [easy way to disable the Bing Chat button](https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-a1x-5g-screen-mirroring-app-drfone-by-drfone-android/). Thank you.
 
@@ -143,24 +143,24 @@ Related: [How to Remove Bing Chat "Discover" Button in Microsoft Edge](https://s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-the-ultimate-ios-movie-experience-top-8-free-plus-paid-picks/"><u>[New] The Ultimate iOS Movie Experience Top 8 Free + Paid Picks</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-above-and-beyond-uavs-for-gopro-recording-excellence/"><u>[Updated] 2024 Approved Above and Beyond UAVs for GoPro Recording Excellence</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-harness-the-power-of-playback-speed-control-in-youtube/"><u>[Updated] In 2024, Harness the Power of Playback Speed Control in YouTube</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-instantly-retire-your-digital-diaries-fb/"><u>[Updated] In 2024, Instantly Retire Your Digital Diaries (FB)</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unlocking-video-potential-the-best-vlogging-cameras-ranked/"><u>[Updated] In 2024, Unlocking Video Potential The Best Vlogging Cameras Ranked</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/aesthetic-enhancement-font-integration-for-ae/"><u>Aesthetic Enhancement Font Integration for AE</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-6s-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 6s Plus Space | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/hacking-facebook-fast-profile-discovery-methods-for-2024/"><u>Hacking Facebook Fast Profile Discovery Methods for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-gt-neo-5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme GT Neo 5 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-ace-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Ace 2 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/road-trip-ready-making-the-most-of-driver-easys-portable-version/"><u>Road Trip Ready: Making the Most of Driver Easy's Portable Version</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a15-5g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy A15 5G won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic 6</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-camon-20-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Camon 20</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/storage-solutions-ps5s-top-10-external-units-for-2024/"><u>Storage Solutions PS5's Top 10 External Units for 2024</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-x100-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo X100.</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-troubleshooting-guide-resolving-red-dead-redemption-iis-pc-game-freezes/"><u>Ultimate Troubleshooting Guide: Resolving Red Dead Redemption II's PC Game Freezes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-quick-tips-for-iphones-screen-recording/"><u>[New] In 2024, Quick Tips for iPhones Screen Recording</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-the-next-big-thing-in-short-form-videos-wholl-take-the-lead-likes-or-tiktok/"><u>[New] The Next Big Thing in Short Form Videos Who'll Take the Lead, Likes or TikTok?</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boosting-macos-usability-through-windows-apps/"><u>Boosting macOS Usability Through Windows Apps</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic-6-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 6 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-htc-u23-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my HTC U23 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x9b-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X9b If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23-tactical-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23 Tactical Edition Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-depth-look-at-gecata-capture-tool-for-2024/"><u>In-Depth Look at Gecata Capture Tool for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/innovation-at-the-heart-the-evolution-of-magix-music-maker-for-2024/"><u>Innovation at the Heart The Evolution of Magix Music Maker for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-tips-on-how-to-address-and-solve-game-freezes-in-persona-4-golden/"><u>Master Tips on How to Address and Solve Game Freezes in Persona 4 Golden</u></a></li>
+<li><a href="https://facebook.techidaily.com/privacy-in-sight-concealing-posts-with-archive-function/"><u>Privacy in Sight: Concealing Posts with Archive Function</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/seamless-setup-access-arduino-mega-25n0-board-drivers-instantly/"><u>Seamless Setup: Access Arduino Mega 25N0 Board Drivers Instantly!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/ultimate-guide-restoring-files-from-the-windowsold-folder/"><u>Ultimate Guide: Restoring Files From the 'Windows.old' Folder</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 7</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-exploring-the-essence-of-digital-audio-studios-debunking-myths-about-daw-technology/"><u>Updated 2024 Approved Exploring the Essence of Digital Audio Studios Debunking Myths About DAW Technology</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s17-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S17 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi 14 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

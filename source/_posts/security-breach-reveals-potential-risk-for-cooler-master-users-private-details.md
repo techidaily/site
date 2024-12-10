@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-11-24T20:08:56.495Z
-updated: 2024-12-02T08:26:47.761Z
+date: 2024-12-07T23:06:09.099Z
+updated: 2024-12-09T21:24:59.225Z
 tags:
   - web
 categories:
@@ -38,25 +38,25 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-reverse-the-norm-flipping-videos-for-social-media/"><u>[New] In 2024, Reverse the Norm Flipping Videos for Social Media</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-discover-the-best-video-capture-tools-for-windows-users/"><u>[Updated] In 2024, Discover the Best Video Capture Tools for Windows Users</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-ultimate-playlist-tweaking-on-youtube/"><u>[Updated] The Ultimate Playlist Tweaking on YouTube</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-becoming-a-pro-in-lut-creation/"><u>2024 Approved Becoming a Pro in LUT Creation</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-mastering-youtube-video-capture-techniques/"><u>2024 Approved Mastering YouTube Video Capture Techniques</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-youtube-shorts-a-guide-to-effortless-thumbnail-integration/"><u>2024 Approved Streamline Your YouTube Shorts A Guide to Effortless Thumbnail Integration</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/first-look-at-the-newly-released-hl-2240-driver-for-seamless-windows-compatibility-and-printing/"><u>First Look at the Newly Released HL-2240 Driver for Seamless Windows Compatibility and Printing</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-12r-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus 12R | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2020-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2020) iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y100i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y100i Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location on TikTok to See More Content On your Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leading-corporate-cloud-vault-selection/"><u>Leading Corporate Cloud Vault Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-qualitysound-check/"><u>[New] In 2024, QualitySound Check</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/nlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[New] Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unbeatable-range-ultimate-4k-camera-rig-selection/"><u>[Updated] In 2024, Unbeatable Range Ultimate 4K Camera Rig Selection</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>2024 Approved Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digitize-effortlessly-turn-to-mematic-for-2024/"><u>Digitize Effortlessly - Turn to Mematic for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins/"><u>FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-zte-nubia-z60-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Nubia Z60 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y78plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y78+ Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-vip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 VIP phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-from-twitter-to-facebook-sending-your-tweets/"><u>In 2024, From Twitter to Facebook Sending Your Tweets</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-high-contrast-settings-for-mouse-cursors-in-windows-11/"><u>Navigating Through High-Contrast Settings for Mouse Cursors in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-13-pro-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 13 Pro screen lock</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/ultimate-tutorial-on-migrating-quickbooks-data-to-a-fresh-pc/"><u>Ultimate Tutorial on Migrating QuickBooks Data to a Fresh PC</u></a></li>
+<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-13-mini-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 13 mini?</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
