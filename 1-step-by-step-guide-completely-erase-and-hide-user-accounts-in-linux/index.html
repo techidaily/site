@@ -44,8 +44,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-2.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-1.png">
-<meta property="article:published_time" content="2024-11-27T09:54:45.506Z">
-<meta property="article:modified_time" content="2024-12-02T00:09:22.110Z">
+<meta property="article:published_time" content="2024-12-07T12:21:00.213Z">
+<meta property="article:modified_time" content="2024-12-09T11:24:21.355Z">
 <meta property="article:author" content="Ian">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -730,15 +730,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-11-27 17:54:45</span>
-        <span class="mobile">2024-11-27 17:54:45</span>
+        <span class="desktop">2024-12-07 20:21</span>
+        <span class="mobile">2024-12-07 20:21</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-12-02 08:09:22</span>
-            <span class="mobile">2024-12-02 08:09:22</span>
+            <span class="desktop">2024-12-09 19:24:21</span>
+            <span class="mobile">2024-12-09 19:24:21</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -806,6 +806,10 @@
 <h2 id="User-Accounts-on-Linux"><a href="#User-Accounts-on-Linux" class="headerlink" title="User Accounts on Linux"></a>User Accounts on Linux</h2><p> Ever since the <a class="link"   target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Compatible%5FTime-Sharing%5FSystem" >first time-sharing systems appeared in the early 1960s <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> and brought with them the capability for multiple users to work on a single computer, there’s been a need to isolate and compartmentalize the files and data of each user from all the other users. And so user accounts—<a class="link"   target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Fernando%5FJ.%5FCorbat%C3%B3" >and passwords— <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>were born.</p>
 <p> User accounts have an administrative overhead. They need to <a class="link"   target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/full-guide-to-bypass-itel-p55plus-frp-by-drfone-android/" >be created <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> when the user first needs access to the computer. They need to be removed when that access is no longer required. On Linux, there’s a sequence of steps that should be followed in order to correctly and methodically remove the user, their files, and their account from the computer.</p>
 <p> If you’re the system administrator that responsibility falls to you. Here’s how to go about it.</p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Why-Delete-an-Account"><a href="#Why-Delete-an-Account" class="headerlink" title="Why Delete an Account?"></a>Why Delete an Account?</h2><p> There’s any number of reasons an account might need to be deleted. A staff member might be moving to a different team or leaving the company altogether. The account might have been set up for a short term collaboration with a visitor from another company. Team-ups are common in academia, where research projects can span departments, different universities, and even commercial entities. At the conclusion of the project, the system administrator has to perform the housekeeping and remove unnecessary accounts.</p>
 <p> The worst-case scenario is when someone leaves under a cloud because of a misdemeanor. Such events usually happen suddenly, with little fore-warning. That gives the system administrator very little time to plan, and an urgency to get the account locked, closed and deleted—with a copy of the user’s files backed up in case they are needed for any post-closure forensics.</p>
 <p> In our scenario, we’ll pretend that a user, Eric, has done something that warrants his immediate removal from the premises. At this moment he is unaware of this, he’s still working, and logged in. As soon as you give the nod to security he’s going to be escorted from the building.</p>
@@ -820,7 +824,7 @@
                 > </p>
 <p> Eric is logged in once. Let’s see what processes he’s running.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Reviewing-The-User’s-Processes"><a href="#Reviewing-The-User’s-Processes" class="headerlink" title="Reviewing The User’s Processes"></a>Reviewing The User’s Processes</h2><p> We can use the <code>ps</code> command to <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/ps.1.html" >list the processes this user is running <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The <code>-u</code> (user) option lets us tell <code>ps</code> to restrict its output to the processes running under the ownership of that user account.</p>
@@ -846,10 +850,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png"
                       alt="Output from top -U eric in a terminal window"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> It doesn’t look like he’s doing much, just using <code>less</code> to view a file. We’re safe to proceed. But before we kill his processes, we’ll freeze the account by locking the password.</p>
 <h2 id="Locking-the-Account"><a href="#Locking-the-Account" class="headerlink" title="Locking the Account"></a>Locking the Account</h2><p> We’ll lock the account before we kill the processes because when we kill the processes it will log out the user. If we’ve already changed his password, he won’t be able to log back in.</p>
 <p> The encrypted user passwords are stored in the <code>/etc/shadow</code> file. You wouldn’t normally bother with these next steps, but so that you can see what happens in the <code>/etc/shadow </code> file when you lock the account we’ll take a slight detour. We can use the following command to look at the first two fields of the entry for the <code>eric</code> user account.</p>
@@ -870,10 +870,6 @@
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/21-1.png" alt="sudo awk -F: &#39;/eric/ {print $1,$2}&#39; /etc/shadow in a terminal window"> </p>
 <p> An exclamation mark has been added to the start of the encrypted password. It doesn’t overwrite the first character, it’s just added to the start of the password. That’s all that’s required to prevent a user from being able to log in to that account.</p>
 <p> Now that we’ve prevented the user from logging back in, we can kill his processes and log him out.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Killing-the-Processes"><a href="#Killing-the-Processes" class="headerlink" title="Killing the Processes"></a>Killing the Processes</h2><p> There are different ways to <a class="link"   target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/" >kill a user’s processes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, but the command shown here is widely available and is a more modern implementation than some of the alternatives. The <code>pkill</code> command will find and kill processes. We’re passing in the KILL signal, and using the <code>-u</code> (user) option.</p>
 <p>sudo pkill -KILL -u eric</p>
 <p><img  
@@ -890,10 +886,14 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png"
                       alt="who in a terminal window"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> His session is gone. He’s been logged off and his processes have been stopped. That’s taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric’s desk.</p>
 <p>Related: <a class="link"   target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/" >How to Add and Remove Users on Ubuntu <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Archiving-the-User’s-home-Directory"><a href="#Archiving-the-User’s-home-Directory" class="headerlink" title="Archiving the User’s home Directory"></a>Archiving the User’s home Directory</h2><p> It’s not out of the question that in a scenario such as this, access to the user’s files will be required in the future. Either as part of an investigation or simply because their replacement may need to refer back to their predecessor’s work. We’ll use the <code>tar</code> command <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/tar.1.html" >to archive their entire home directory <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -909,11 +909,11 @@
 <p> A lot of screen output will scroll in the terminal window. To check the archive has been created, use the <code>ls</code> command. We’re using the <code>-l</code> (long format) and <code>-h</code> (human-readable) options.</p>
 <p>ls -lh eric-20200802.tar.bz</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png" alt="sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window"> </p>
+<p> A file of 722 MB has been created. This can be copied somewhere safe for later review.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
-<p> A file of 722 MB has been created. This can be copied somewhere safe for later review.</p>
 <h2 id="Removing-cron-Jobs"><a href="#Removing-cron-Jobs" class="headerlink" title="Removing cron Jobs"></a>Removing cron Jobs</h2><p> We’d better check in case there are any <code>cron</code> jobs scheduled for user account <code>eric</code>. A <code>cron</code> job is a command that is triggered at specified times or intervals. We can check if there are any <code>cron</code> jobs scheduled for this user account by using <code>ls</code>:</p>
 <p>sudo ls -lh &#x2F;var&#x2F;spool&#x2F;cron&#x2F;crontabs&#x2F;eric</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-1.png" alt="sudo ls -lh /var/spool/cron/crontabs/eric in a terminal window"> </p>
@@ -925,13 +925,9 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png"
                       alt="sudo crontab -r -u eric in a terminal window"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Removing-Print-Jobs"><a href="#Removing-Print-Jobs" class="headerlink" title="Removing Print Jobs"></a>Removing Print Jobs</h2><p> Perhaps the user had pending print jobs? Just to be sure, we can purge the print queue of any jobs belonging to user account <code>eric</code>. The <code>lprm</code> command <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/lprm.1.html" >removes jobs from the print queue <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. The <code>-U</code> (username) option lets you remove jobs owned by the named user account:</p>
@@ -943,10 +939,6 @@
                       alt="lprm -U eric in a terminal window"
                 > </p>
 <p> The jobs are removed and you are returned to the command line.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Deleting-the-User-Account"><a href="#Deleting-the-User-Account" class="headerlink" title="Deleting the User Account"></a>Deleting the User Account</h2><p> We’ve already backed up the files from the <code>/home/eric/</code> directory, so we can go ahead and delete the user account and delete the <code>/home/eric/</code> directory at the same time.</p>
 <p> The command to use depends on which distribution of Linux you’re using. For <a class="link"   target="_blank" rel="noopener" href="https://manpages.ubuntu.com/manpages/noble/en/man8/deluser.8.html" >Debian based Linux distributions <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, the command is <code>deluser</code>, and <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man8/userdel.8.html" >for the rest of the Linux world <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, it is <code>userdel</code>.</p>
 <p> Actually, on Ubuntu both commands are available. I half-expected one to be an alias of the other, but they are distinct binaries.</p>
@@ -959,7 +951,7 @@
                       alt="type deluser in a terminal window"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Although they’re both available, the recommendation is to use <code>deluser</code> <a class="link"   target="_blank" rel="noopener" href="http://manpages.ubuntu.com/manpages/eoan/man8/userdel.8.html" >on Debian-derived distributions <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:</p>
@@ -972,18 +964,26 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-2.png"
                       alt="sudo deluser --remove-home eric in a terminal window"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> The command to use for non-Debian distributions is <code>userdel</code>, with the <code>--remove</code> flag:</p>
 <p>sudo userdel –remove eric</p>
 <p> All traces of user account <code>eric</code> have been erased. We can check that the <code> /home/eric/</code>directory has been removed:</p>
 <p>ls &#x2F;home</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png" alt="ls /home in a terminal window"> </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> The <code>eric</code> group has also been removed because the user account <code>eric</code> was the only entry in it. We can check this quite easily by piping the contents of <code>/etc/group</code> through <code>grep</code>:</p>
 <p>sudo less &#x2F;etc&#x2F;group | grep eric</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-1.png" alt="sudo less /etc/group | grep eric in a terminal window"> </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="It’s-a-Wrap"><a href="#It’s-a-Wrap" class="headerlink" title="It’s a Wrap"></a>It’s a Wrap</h2><p> Eric, for his sins, is gone. Security is still walking him out of the building and you’ve already secured and archived his files, deleted his account, and purged the system of any remnants.</p>
 <p> Accuracy always trumps speed. Make sure you consider each step before you take it. You don’t want someone walking up to your desk and saying “No, the other Eric.”</p>
 <p><ins class="adsbygoogle"
@@ -999,17 +999,25 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://youtube-blog.techidaily.com/ed-2024-approved-chart-your-course-to-youtube-riches-the-essential-500-threshold/"><u>[Updated] 2024 Approved Chart Your Course to Youtube Riches The Essential 500 Threshold</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://article-files.techidaily.com/updated-natural-luminescence-in-home-interiors-simple-steps/"><u>[Updated] Natural Luminescence in Home Interiors Simple Steps</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-special.techidaily.com/2088958mb/"><u>「エラー修正」超大規模データ(208,895,8MB)における保護方法:知らず知らずの間の危険を排除</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/building-personalized-chatbots-with-gpt-technology-comprehensive-instructions/"><u>Building Personalized Chatbots with GPT Technology – Comprehensive Instructions</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-defy-2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Defy 2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-10-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 10 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-forum.techidaily.com/how-to-disable-unwanted-updates-in-windows-11-for-a-smooth-experience/"><u>How To Disable Unwanted Updates in Windows 11 for a Smooth Experience</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-note-50-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Note 50 Without the Home Button | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://extra-information.techidaily.com/in-2024-capturing-clarity-strategic-angles-for-excellent-iphone-photos/"><u>In 2024, Capturing Clarity Strategic Angles for Excellent iPhone Photos</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://snapchat-videos.techidaily.com/new-in-2024-hot-pursuit-of-snaps-tactics-for-uninterrupted-streaks/"><u>[New] In 2024, Hot Pursuit of Snaps - Tactics for Uninterrupted Streaks</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-best-cams-for-professional-streaming/"><u>[New] The Ultimate Guide Best Cams for Professional Streaming</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://extra-approaches.techidaily.com/updated-magic-in-managing-photos-with-magix/"><u>[Updated] Magic in Managing Photos with MAGIX</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-skills.techidaily.com/updated-unleash-the-power-of-split-window-on-netflix-platform/"><u>[Updated] Unleash the Power of Split Window on Netflix Platform</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x90s-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X90S Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-videos.techidaily.com/dissecting-youtubes-features-and-mechanisms-after-uploading-content-for-2024/"><u>Dissecting YouTube’s Features and Mechanisms After Uploading Content for 2024</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-glue.techidaily.com/downloading-youtube-subtitled-content-in-3-ways/"><u>Downloading YouTube Subtitled Content in 3 Ways</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-blue.techidaily.com/in-2024-comprehensive-guide-to-ringtones-for-snapchat-users/"><u>In 2024, Comprehensive Guide to Ringtones for Snapchat Users</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-tecno-camon-20-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Tecno Camon 20 Phone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Max Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-online-add-signature-to-excel-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel Online - Add Signature to Excel for Free</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-narzo-n53-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Narzo N53</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-xiaomi-by-fonelab-android-recover-data/"><u>Undelete lost data from Xiaomi</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://tech-hub.techidaily.com/unpacking-italys-decision-for-swiftly-banning-chatgpt-without-delay/"><u>Unpacking Italy's Decision for Swiftly Banning ChatGPT Without Delay</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme on Mac?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-f5-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco F5 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
 
@@ -1022,11 +1030,11 @@
         <li><strong>Title:</strong> 1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux</li>
         <li><strong>Author:</strong> Ian</li>
         <li><strong>Created at
-                :</strong> 2024-11-27 17:54:45</li>
+                :</strong> 2024-12-07 20:21:00</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-12-02 08:09:22
+                    :</strong> 2024-12-09 19:24:21
             </li>
         
         <li>
@@ -1066,13 +1074,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/undelete-lost-photos-from-pova-5-pro-by-fonelab-android-recover-photos/"
+                        href="/undelete-lost-contacts-from-infinix-hot-40-pro-by-fonelab-android-recover-contacts/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Undelete lost photos from Pova 5 Pro.</span>
+                                <span class="post-nav-title-item">Undelete lost contacts from Infinix Hot 40 Pro.</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1082,10 +1090,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/step-by-step-guide-launching-google-chrome-via-command-line-in-windows-10/"
+                        href="/undelete-lost-data-from-infinix-zero-30-5g-by-fonelab-android-recover-data/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10</span>
+                                <span class="post-nav-title-item">Undelete lost data from Infinix Zero 30 5G</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
