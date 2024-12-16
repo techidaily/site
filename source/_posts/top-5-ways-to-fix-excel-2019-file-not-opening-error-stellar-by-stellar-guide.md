@@ -1,7 +1,7 @@
 ---
 title: Top 5 Ways to Fix Excel 2019 File Not Opening Error | Stellar
-date: 2024-09-20T06:54:08.433Z
-updated: 2024-09-24T07:59:06.186Z
+date: 2024-12-14T20:33:04.000Z
+updated: 2024-12-15T16:05:23.627Z
 tags: 
   - repair
   - repair excel
@@ -66,22 +66,23 @@ When you launch your Excel file, the file association ensures that the Excel app
 
 ![Set-Your Default Programs](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-your-default-programs-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - A new window will open. Herein, find the Excel program in the list and select it. Now, select the option **‘Choose defaults for this program’**. Click **OK**.
 
 ![Set Defaults](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-defaults-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - A new window for **‘Set Program Associations’** will open.
 - Check the box against the **‘Select All’** option.
 - Further, click **Save** to reset the Excel File Associations settings.
 
 ![Set Program Associations](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-program-associations-06.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Disable Add-Ins
 
@@ -100,13 +101,6 @@ Many people install third-party add-ins to enhance the application’s functiona
 - In the COM Add-ins window, uncheck all the boxes to disable the add-ins. Click **OK.**
 
 ![Diasble Com Add ins Checkbox](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/diasble-com-add-ins-checkbox-09.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Repair MS Office Program
 
@@ -145,6 +139,10 @@ The hardware graphics acceleration assists in the system’s better performance,
 
 ![Uncheck Disable Hardware Acceleration](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/hardware-accelaration-15.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What If These Solutions Do Not Work?
 
 If you have applied all the methods mentioned above and still cannot open your Excel file, there are chances that your file is corrupted. You can use a specialized [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel to repair the corrupted Excel file. This software has powerful algorithms that can scan and repair even severely corrupt Excel files, without any file size limitation. After repairing the file, it restores all the data, including tables, charts, rules, etc. to a new Excel, with 100% integrity.
@@ -182,6 +180,10 @@ With Stellar Repair for Excel, it is quite easy and simple to repair multiple MS
 
 ![select destination](https://www.stellarinfo.com/blog/wp-content/uploads/2019/08/6-save-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairing corrupt or damaged Excel (.XLS/.XLSX) files. This Excel recovery software restores everything from corrupt file to a new blank Excel file.
 
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
@@ -209,10 +211,7 @@ In this code, _Worksheets("First")_ is a data object. If I mistakenly delete t
 ![Runtime Error with scenario](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/run-time-error-424-with-scenario.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Causes of Runtime Error 424 in Excel**
@@ -242,6 +241,10 @@ The Runtime error 424 can occur when you run the VBA code using an incorrect nam
  When you click the **Debug** button, the line with the error will highlight.
 
 ![Highlighting Line With Error](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/highlighting-line-with-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To fix the issue, you need to provide the correct name of the object.
 
@@ -291,13 +294,6 @@ The Runtime error 424 usually occurs when there is an issue with the objects in 
 
 ## Excel AutoRecover not working, what is next?
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Consider a Scenario
 
 A professional with Windows 10 computer had MS Office 2016 installed on it. For an official purpose, he worked on an Excel workbook and saved it as an XLSX file. After working for hours on it, which was saved with a file name, a power outage occurred in his building for quite some time. After the power was back, he reopened Excel to find a list of recovered files in ‘Document Recovery’ section on the screen’s left side. However, the file that he had worked on recently was the ‘Original version,’ i.e. the last version saved by him and not the auto-saved Excel file. This meant the Excel document did not have any new data that was entered since the last time he saved it. Consequently, he lost hours of work. According to him, this happened despite the fact that the ‘AutoRecover’ feature was enabled. (Still, this needs to be checked and ensured.)
@@ -309,18 +305,15 @@ The 'AutoRecover' feature might not work in any of these cases:
 
 Before discussing solutions to resolve the ‘Excel AutoRecover not working’ issue, let's have an overview of the 'AutoRecover' and 'AutoSave' features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## A Brief Overview of Excel AutoRecover and AutoSave Feature
 
 AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 2007 that allows saving all of the ‘open Excel files’ at a fixed-interval in a user-specified location or AutoRecover file location. Besides, AutoSave is an add-in that exists in Excel 2002 and earlier versions to save all open Excel files in case of a crash, power outage, or accidental closure of Excel files without saving. Users can recover these files if Excel closes suddenly, for instance, at the time of power outage or failure. The auto-recovered Excel files are saved at a default location.
 
 ## Methods to Fix ‘Excel AutoRecover Not Working’ Issue
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Manual Methods
 
@@ -382,13 +375,6 @@ _‘Excel found a problem with one or more formula references in this worksheet.
 ![Excel found a problem with one or more formula references](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/11/MS-Excel-problem-with-formula-reference.png)
 
 In any case, resolving the error is critical as it doesn’t let you save the file and may result in loss of information from the Excel workbook.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Reasons for Excel Formula References Error
 
@@ -458,13 +444,14 @@ When none of the methods resolve the error, then you can rely on advanced [Excel
 
 ![Stellar Repair for Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/public/image/catalog/screenshot/excel-repair/stellar-repair-for-excel-main-interface.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It repairs corrupt or damaged Excel (.xls/.xlsx) files, recovers Pivot tables, charts, etc., and save them in a new Excel worksheet. It helps Excel users, facing formula reference error, restore their Excel file without any risk of data loss, while preserving the sheet properties and formatting with 100% precision.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -509,13 +496,6 @@ You can get the compile error in the Excel file, containing the VBA code related
 - In the **Roaming** window, click on the **Microsoft** option.
 
 ![Click On Microsoft Option Under Roaming](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-on-microsoft-option-under-roaming.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Under **Microsoft**, you will see a list of folders. Search and click on **Forms.**
 - Right-click on a file with .exd extension and select **Delete**.
@@ -648,6 +628,10 @@ Software with **100% integrity and precision**
 
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 As an automated software, Stellar Repair for Excel is easy-to-use. You do not need technical know-how and skill set, as required to execute the manual processes. On analyzing all these methods, it is suggested to use Stellar Repair for Excel having a user-friendly GUI to repair Excel files that became damaged after recovery, or if the recovered Excel file(s) that you once deleted accidentally has become corrupt now. Above all, it is an excellent software with multiple features and advantages. Use it to address all your MS Excel issues or if any recovered Excel file is corrupt.
@@ -665,5 +649,20 @@ As an automated software, Stellar Repair for Excel is easy-to-use. You do not ne
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-speech-capture-simplified-ipad-edition/"><u>[New] In 2024, Speech Capture Simplified IPad Edition</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-the-core-language-of-cutting-edge-vr-experiences/"><u>[Updated] 2024 Approved The Core Language of Cutting-Edge VR Experiences</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716809753637-2024-approved-how-to-upload-videos-to-youtube-a-step-by-step-guide/"><u>2024 Approved How To Upload Videos to YouTube A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 90 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/dynamic-wallpaper-creation-by-yl-software-vibrant-blue-and-purple-gradient-background-featuring-white-abstract-patterns-in-hd-quality/"><u>Dynamic Wallpaper Creation by YL Software - Vibrant Blue and Purple Gradient Background Featuring White Abstract Patterns in HD Quality</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/embrace-1500-days-of-easy-learning-access/"><u>Embrace 1,500 Days of Easy Learning Access</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-mini-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 mini Data Completely | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-reno-8t-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Reno 8T 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-g42-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia G42 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/secrets-to-joining-friends-tiktok-live-events-for-2024/"><u>Secrets to Joining Friends' TikTok Live Events for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/tinyshot-critique-of-small-scale-recording-app/"><u>TinyShot Critique of Small-Scale Recording App</u></a></li>
+</ul></div>
 

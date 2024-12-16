@@ -1,7 +1,7 @@
 ---
 title: "Week in Tech Review: AT&T Hacks Exposed & Samsung Launches Revolutionary Mobile Devices"
-date: 2024-12-04T19:01:59.924Z
-updated: 2024-12-09T17:55:34.015Z
+date: 2024-12-09T21:34:42.266Z
+updated: 2024-12-15T22:03:35.737Z
 tags:
   - deals
 categories:
@@ -15,10 +15,6 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ##  The Big News
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [AT&T Lost Your Phone Records to Hackers](https://ai-vdieo-software.techidaily.com/in-2024-best-adobe-premiere-elements-replacements-for-video-editing/) 
 
  Even if you aren't an AT&T customer, this breach probably affects you.
@@ -29,14 +25,22 @@ This was a busy week for tech news, with Samsung releasing new phones and access
 
 ![A screenshot of the updated Thunderbird 128 interface.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/23.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Mozilla
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [The Galaxy Buds 3 Pro Is Samsung’s New AirPods Pro Competitor](https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/) 
 
  The best Samsung earbuds money can buy, complete with ANC and deep integration with Galaxy smartphones.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [The Samsung Galaxy Buds 3 Look A Lot Like AirPods](https://sound-issues.techidaily.com/troubleshooting-silent-microphones-a-step-by-step-guide-to-restoring-voice-chat-in-discord/) 
@@ -44,23 +48,19 @@ Mozilla
  Samsung’s new lower-cost wireless earbuds took a few notes from Apple’s AirPods.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [These Features Are Now Rolling out to All Windows 11 PCs](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-xiaomi-14-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
  An updated Start menu, the return of "show desktop," new emoji, and more are rolling out to all Windows 11 PCs after a few months in Insider testing.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Spotify Is Now a Social Media Platform](https://apple-account.techidaily.com/how-to-change-credit-card-from-your-iphone-se-2020-apple-id-and-apple-pay-by-drfone-ios/) 
 
  A new comments system encourages influencer culture on Spotify.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Samsung Galaxy Z Fold 6 Has a Much Better External Screen](https://screen-activity-recording.techidaily.com/new-vsf-video-capture-insights-a-critical-look-for-2024/) 
@@ -72,6 +72,10 @@ Mozilla
  Finally, Samsung's most trendy phone has a good camera.
 
 ![Person holding the Samsung Galaxy Z Flip 6 showing the cover display](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/person-holding-the-samsung-galaxy-z-flip-6-showing-the-cover-display.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Justin Duino / How-To Geek
 
@@ -94,10 +98,6 @@ Justin Duino / How-To Geek
 ### [Samsung's Galaxy Watch 7 is Finally Here](https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/) 
 
  Samsung’s new regular smartwatch has new internal hardware and the same circular screen.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Microsoft Overhauls Game Pass With Higher Prices and New “Standard” Plan](https://howto.techidaily.com/tecno-pova-5-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
@@ -122,22 +122,21 @@ Justin Duino / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-clips.techidaily.com/new-dynamic-website-content-incorporating-youtube-playlists/"><u>[New] Dynamic Website Content Incorporating YouTube Playlists</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-crafting-sequential-visual-narratives-with-photos-for-2024/"><u>[Updated] Crafting Sequential Visual Narratives with Photos for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-definitive-guide-to-srt-editing-on-mac/"><u>[Updated] In 2024, The Definitive Guide to SRT Editing on Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/avoid-missed-emotions-easy-emoji-15-integration-for-win11/"><u>Avoid Missed Emotions: Easy Emoji 15 Integration for Win11</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a24-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-infinix-zero-30-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Infinix Zero 30 5G Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Motorola Razr 40 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-v30t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme V30T Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30i-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30i phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/randing-elements-download-free-pack-for-2024/"><u>MCB Branding Elements Download Free Pack for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-honor-play-8t-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Play 8T unlock screen</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-huawei-nova-y71-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Huawei Nova Y71</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nubia Red Magic 8S Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-solutions-fixing-the-silent-issue-with-anthem-game-on-windows-11/"><u>Troubleshooting Solutions: Fixing the Silent Issue with Anthem Game on Windows 11</u></a></li>
-<li><a href="https://fox-access.techidaily.com/unlocking-photo-magic-the-role-of-luts-in-editing-for-2024/"><u>Unlocking Photo Magic The Role of LUTs in Editing for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-smart-7-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Smart 7 on Mac?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-revealing-successful-markets/"><u>[New] Revealing Successful Markets</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-fundamentals-of-creating-breathtaking-canon-time-lapses-for-2024/"><u>[Updated] The Fundamentals of Creating Breathtaking Canon Time-Lapses for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-3-ways-to-record-live-sports-streaming/"><u>Best 3 Ways to Record Live Sports Streaming</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-10t-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme 10T 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-m34-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy M34 phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-nokia-g22-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Nokia G22 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-a1-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A1 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-14-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-hidden-side-of-gpt-free-yet-restricted-use/"><u>The Hidden Side of GPT: Free, Yet Restricted Use</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-palette-of-creative-ideas-from-6-graphic-websites-for-2024/"><u>The Ultimate Palette of Creative Ideas From 6 Graphic Websites for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/ultimate-solution-for-speaker-noise-in-windows-operating-systems-windows-107/"><u>Ultimate Solution for Speaker Noise in Windows Operating Systems (Windows 10/7)</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-lava-yuva-3-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Lava Yuva 3?</u></a></li>
+<li><a href="https://techidaily.com/vivo-x100-pro-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Vivo X100 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://windows11.techidaily.com/windows-11-ready-embrace-google-chrome-now/"><u>Windows 11 Ready? Embrace Google Chrome Now!</u></a></li>
 </ul></div>
 

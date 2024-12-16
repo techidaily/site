@@ -1,7 +1,7 @@
 ---
 title: Is It Possible for ChatGPT to Generate Visual Content?
-date: 2024-12-04T16:04:24.279Z
-updated: 2024-12-09T19:52:15.532Z
+date: 2024-12-13T18:29:13.048Z
+updated: 2024-12-16T03:37:04.909Z
 tags:
   - cutting-edge
 categories:
@@ -23,10 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  ChatGPT is capable of many writing feats, and you might wonder if it can generate images. ChatGPT does not function as an AI image generator, but other AI services can generate images---and ChatGPT can even give you a hand.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Can You Use ChatGPT as a Picture Generator?
 
 [ChatGPT](https://extra-resources.techidaily.com/new-capture-clarity-editing-insights-for-professional-results/) cannot generate images---not as of May, 2023, at least. However, there are quite a few [AI image generators](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/) out there, such as [DALL-E](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/), [Stable Diffusion](https://unlock-android.techidaily.com/7-ways-to-unlock-a-locked-xiaomi-redmi-k70-phone-by-drfone-android/), and more.
@@ -40,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ![Stable Diffusion "a robot eating a taco"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/stable-diffusion.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Jason Fitzpatrick / Stable Diffusion_
@@ -52,6 +48,10 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
  No, you cannot provide an image as a ChatGPT prompt. ChatGPT is not connected to the web and has no way to access images. ([ChatGPT can browse the web with plugins](https://fox-glue.techidaily.com/new-in-2024-begin-your-editing-journey-adopting-movie-maker-for-w11/), but that's it.)
 
  You can paste any URL into ChatGPT, and ChatGPT may pretend to be able to see the URL---just like [ChatGPT may pretend to give you reminders](https://vp-tips.techidaily.com/2024-approved-navigating-through-linkedin-account-termination-procedures/)\---but ChatGPT can't access it. ChatGPT may sometimes appear to see images and other web resources, but ChatGPT is likely "guessing" based on the structure of the URL. For example, if you ask ChatGPT what the photo as www.example.com/blue-flower.jpg is, ChatGPT may say, "That's a blue flower"---just from the textual information you've just given it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Get AI-Generated Images
 
@@ -66,10 +66,6 @@ Related: [Bing Chat: How to Use the AI Chatbot](https://facebook-video-recording
 
 Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.techidaily.com/new-synthesize-stellar-titles-using-ai-insights/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  How to Use AI Image Generators
 
  Despite the plethora of AI image generators out there, they all work similarly. You need to come up with a prompt that describes the image you want. The more detailed your prompt is, the better the chance that you'll get a nice image.
@@ -80,9 +76,17 @@ Related: [The Best AI Image Generators You Can Use Right Now](https://fox-info.t
 
 ![The Dream by WOMBO AI image generator creating an image of a 4-dimensional whale.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/dream-ia-generator-making-an-image-of-a-4-dimensional-whale.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Reyadh Rahaman / Dream
 
  In addition to playing around with keywords and phrasing for your prompts, you can use AI models to help you come up with better prompts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Use ChatGPT To Create AI Art Prompts
 
@@ -98,16 +102,12 @@ Reyadh Rahaman / Dream
 ![Someone asking ChatGPT to come up with a Stable Diffusion image generation prompt about a dragon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/chatgpt-ai-art-prompt.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We then put our ChatGPT-created prompt into Stable Diffusion, and this is what we got:
 
 ![A surrealistic red dragon image created by Stable Diffusion.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/ai-dragon.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Reyadh Rahaman / Stable Diffusion
 
@@ -130,14 +130,19 @@ Related: [Stable Diffusion Brings Local AI Art Generation to Your PC](https://ex
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-0x8007000f-on-task-sequences/"><u>Addressing Windows Error 0X8007000f on Task Sequences</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/best-12-replacements-for-vlc-media-player-a-comprehensive-guide/"><u>Best 12 Replacements for VLC Media Player: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-v-purse-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor V Purse in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo S18e? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020) Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-seo-excellence-transforming-podcast-discoverability/"><u>In 2024, SEO Excellence Transforming Podcast Discoverability</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-lava-blaze-2-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Lava Blaze 2 5G</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-for-a-harmonious-windows-desktop/"><u>Strategies for a Harmonious Windows Desktop</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-gps-trackers-for-runners-2024-edition/"><u>Ultimate Guide: Leading GPS Trackers for Runners - 2024 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-hidden-harmonics-discreetly-lowering-garageband-tones/"><u>[New] In 2024, Hidden Harmonics Discreetly Lowering Garageband Tones</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-10-top-rated-digital-video-cutting-tools/"><u>[Updated] 10 Top-Rated Digital Video Cutting Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-harmonious-hush-managing-music-on-pc-mac/"><u>[Updated] 2024 Approved Harmonious Hush Managing Music on PC, Mac</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-hot-40-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Hot 40 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-10t-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 10T 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-7-plus-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 7 Plus</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 8 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-to-saving-your-youtube-playlists/"><u>In 2024, Step-by-Step Guide to Saving Your YouTube Playlists</u></a></li>
+<li><a href="https://techidaily.com/sign-fodt-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .fodt file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-realme-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Realme</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unveiling-your-windows-app-data-usage/"><u>Unveiling Your Windows App Data Usage</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
 

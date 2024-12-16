@@ -1,7 +1,7 @@
 ---
 title: Top 5 Ways to Fix Excel 2000 File Not Opening Error | Stellar
-date: 2024-09-23T05:35:20.927Z
-updated: 2024-09-23T23:20:21.712Z
+date: 2024-12-10T23:07:04.841Z
+updated: 2024-12-15T18:45:04.901Z
 tags: 
   - repair
   - repair excel
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Several Microsoft Excel users have reported encountering the ‘Excel file not opening’ error when opening their Excel file. There are several reasons that may cause this error. In this post, we’ll be discussing the reasons that may lead to the ‘Excel file not opening’ error and the top 5 ways to fix this error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why Does the ‘Excel File Not Opening’ Error Appear?
 
@@ -70,6 +74,10 @@ When you launch your Excel file, the file association ensures that the Excel app
 
 ![Set Defaults](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-defaults-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - A new window for **‘Set Program Associations’** will open.
 - Check the box against the **‘Select All’** option.
 - Further, click **Save** to reset the Excel File Associations settings.
@@ -102,6 +110,10 @@ Sometimes the issue is not with your Excel file. Instead, the reason for the err
 
 ![Run Dialog box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Run-Dialog-box-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Enter the text **‘appwiz.cpl’** to launch the program and features window.
 
 ![appwiz.cpl in the run field](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/appwiz.cpl-in-the-run-field-11.png)
@@ -113,13 +125,6 @@ Sometimes the issue is not with your Excel file. Instead, the reason for the err
 - Right-click on it and select **Change**.
 
 ![Right Click and Select Change](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/right-click-and-select-change-13.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - In the new window, select the **Quick Repair** radio button. Click **Repair**.
 
@@ -162,6 +167,10 @@ Before you proceed with resolving the Excel file not opening error, try to find 
 Imagine the frustration of an employee if an Excel workbook he took hours to complete became corrupted for some reason threatening to erase all the data saved in it. Not just that, a corrupted Excel workbook can wreak havoc for the organization too since it poses a risk of permanently deleting critical business information like work records or employee trackers.
 
 Unless a backup of all important Excel files exists, recovering data lost due to damage/corruption to them is next to impossible. However, we’ve conducted some research and found some pretty neat hacks to help you extract data from corrupt excel files without much hassle.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Primary reasons triggering Excel file corruption
 
@@ -252,6 +261,10 @@ The exception from hresult 0x800a03ec excel can occur if you are trying to execu
 
 Excel has certain [limits and specifications](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3?ui=en-us&rs=en-us&ad=us). If the Excel file’s data exceeds these designated size limits, you can get the MS Excel error code 0x800A03EC error. For example, this error occurs if you try to export a file with more rows than the limit of 65536 and columns than the limit of 256. Check and optimize the file size by minimizing complex formulas and other objects.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Check Add-ins for Disabled Items
 
 Sometimes, disabled items in Add-ins settings can prevent macros from functioning correctly. You can check and enable the disabled items in Add-ins using these steps:
@@ -265,13 +278,6 @@ Sometimes, disabled items in Add-ins settings can prevent macros from functionin
 - Select **Disabled Items** and click on the **Go** option.
 
 ![Go To Addins And Select Disabled Items](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/go-to-addins-and-select-disabled-items.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - You will see a list of disabled items.
 - Click on the disabled items and then click **Enable**.
@@ -354,13 +360,6 @@ If the automatic repair fails, you may try manual repair to fix the damage or ex
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/open-and-repair-excel-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Then click '**Repair**' if you want to recover maximum data from the workbook or click '**Extract data**' if the repair option fails to fix the issue. It will extract all the values, formulas, tables, etc., from the corrupt workbook.  
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/repair-or-extract-data-3.png)
@@ -388,13 +387,6 @@ Faulty or incompatible add-ins may also cause this error. To find and remove suc
 - Uncheck the checkboxes of **Add-ins** and then click '**OK**' to disable them.
 
 Now close the Excel program and run it normally. Click '**File > Open**' and choose the Excel file you want to access.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Repair MS Office Installation
 
@@ -427,13 +419,6 @@ A corrupt or damaged Excel workbook may lead to errors, such as _"The workbook c
 Unlike manual methods that may fail to resolve the issue or lead to further damage, this software extracts the data from the damaged Excel file and saves it in a new Excel workbook. Thus, it is 100% safe to run on an original Excel file, as it does not overwrite or alter the original file.
 
 The software is free to download. You can scan, repair, and preview a corrupt Excel file by using the demo version. Once you are satisfied with the results, activate the software to save the repaired Excel workbook data in a new sheet.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## \[Fixed\] "Microsoft Excel Cannot Access the File" Error
 
@@ -542,6 +527,10 @@ Excel may fail to read the file if it is corrupted or damaged. If the error “E
 
 ![Click repair option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click on the **Repair** button to recover as much of the data as possible.
 - After repair, a message is displayed. Click **Close**.
 
@@ -572,6 +561,10 @@ On clicking 'Yes', you may face any of these scenarios:
 . Click to view log file listing repairs errorxxx.xml."
 
 ![Excel Was Able To Open the File By Repairing Message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/07/Excel-was-able-to-open-the-file-by-repairing-message-image-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The message clearly states that your Excel file might open, but images may be lost and other such inconsistencies can crop up.
 
@@ -623,13 +616,6 @@ Try to open your '.xlsx' file by making it 'read-only'. Follow these steps:
 
 Now open a new '.xlsx' file and copy everything from the corrupt Excel file to this new file. Finally, save this file and try to open it again.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
-  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Workaround 3 – Move Excel File to a New Folder**
 
 Some users have reported that they could open their Excel file, following the 'Excel unreadable content' error, by simply moving the file to a different folder and saving it under a new name. You can also move the affected file to a new folder and try opening it. If this didn't help resolve the error, follow the next workaround.
@@ -672,6 +658,10 @@ If none of the workarounds mentioned above works for you, use a professional [<u
 
 ![Save Repaired Excel File](https://www.stellarinfo.com/blog/wp-content/uploads/2021/07/Save-repaired-excel-file-image-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click 'OK' when the 'Repaired file saved successfully' message appears.
 
 ![Saving Complete Message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/07/Saving-complete-message-image-10.png)
@@ -684,6 +674,10 @@ If none of the workarounds mentioned above works for you, use a professional [<u
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, when you type a formula in a cell of worksheet and press Enter, instead of showing the calculated result, it returns the formula as text. For instance, Excel cell shows:
 
 ![Excel not Showing Formula](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-1.jpg)
@@ -691,6 +685,10 @@ Sometimes, when you type a formula in a cell of worksheet and press Enter, inste
 But you should get the result as:
 
 ![Excel Formula Working Sample](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Why Does Excel Show or Display the Formula Not the Result?**
 
@@ -701,13 +699,6 @@ But you should get the result as:
 3. ‘Automatic calculation’ feature in Excel is set to manual.
 4. Excel thinks your formula is text (Syntax are not followed).
 5. You type numbers in a cell with unnecessary formatting.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to Fix ‘Excel Showing Formula Not Result’ Issue?**
 
@@ -765,13 +756,6 @@ This reliable and competent software scans and repairs Excel files (.XLSX and .X
 
 [![Free Download for windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Free-download-for-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 This blog outlined the possible reasons that may cause ‘Excel not showing formula results’ issue. Check out these reasons and implement the manual fixes, depending on what resulted in the problem in the first place. If none of these fixes help resolve the issue, corruption in the Excel file might be preventing the formulas from showing the actual results. In that case, using **Stellar Repair for Excel** tool might help.
@@ -789,5 +773,24 @@ This blog outlined the possible reasons that may cause ‘Excel not showing form
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-mp4-files-with-srt-a-modern-methodology/"><u>2024 Approved Perfecting MP4 Files with SRT - A Modern Methodology</u></a></li>
+<li><a href="https://win-info.techidaily.com/best-5-tools-to-move-your-tunes-from-samsung-s4-to-the-ultra-modern-s6-edge/"><u>Best 5 Tools to Move Your Tunes From Samsung S4 to the Ultra-Modern S6 Edge</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/disable-windows-and-office-updates-4-easy-ways/"><u>Disable Windows & Office Updates: 4 Easy Ways</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-windows-11-ambiance-with-wallpaper-ideas/"><u>Enhancing Windows 11 Ambiance with Wallpaper Ideas</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-magic-vs-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic Vs 2 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-40-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-engaging-effectively-in-online-google-meet-talks/"><u>In 2024, Engaging Effectively in Online Google Meet Talks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/learn-languages-easily-our-pick-of-the-best-five-free-apps-2024-edition/"><u>Learn Languages Easily: Our Pick of the Best Five Free Apps - 2024 Edition</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-free-to-download-top-rated-3d-animation-apps-for-mobile-devices-for-2024/"><u>New Free to Download Top-Rated 3D Animation Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-nokia-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nokia</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/swift-closure-of-a-linkedin-account-the-how-to-guide-for-2024/"><u>Swift Closure of a LinkedIn Account The How-To Guide for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-most-massive-lifting-machines-in-the-sky/"><u>The Most Massive Lifting Machines in the Sky</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-galaxy-s23-tactical-edition-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://techidaily.com/v27-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>V27 support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-nord-n30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Nord N30 5G</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-m6-pro-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco M6 Pro 4G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

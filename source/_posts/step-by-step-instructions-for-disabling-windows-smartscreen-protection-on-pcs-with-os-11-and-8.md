@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Instructions for Disabling Windows SmartScreen Protection on PCs with OS 11 & 8
-date: 2024-12-02T20:13:47.324Z
-updated: 2024-12-09T20:21:42.119Z
+date: 2024-12-12T03:16:55.912Z
+updated: 2024-12-16T04:14:37.987Z
 tags:
   - desktop
 categories:
@@ -25,15 +25,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  The [SmartScreen filter built into Windows](https://instagram-video-recordings.techidaily.com/updated-your-ultimate-method-for-mobile-igtv-downloads/) automatically scans applications, files, downloads, and websites, blocking known-dangerous content and warning you before you run unknown applications. You can disable it, if you like.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Disable SmartScreen? 
 
  We recommend you leave SmartScreen enabled. It provides an additional layer of security that helps protect your PC, whether you're [using antivirus](https://hardware-updates.techidaily.com/unveiling-the-power-of-the-lenovo-legion-pro-5i-gen-9-an-exceptional-gaming-laptop-with-an-excellent-price-tag/) or not. Even if SmartScreen automatically blocks an unknown application you know is safe, you can click through the warning to run the application anyway. 
 
  On the other hand, disabling it may allow a malicious application to slip through the cracks. 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Disable SmartScreen on Windows 10
 
@@ -42,7 +42,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for and launch 'Windows Security' from the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-security.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "App and Browser Control" icon in Windows Security to find these settings.
@@ -59,35 +59,35 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Toggle 'Check Apps and Files' on or off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-check-apps-and-files-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also control whether or not Windows Security will block potentially unwanted software. You can disable it completely, or you can set it to block apps or downloads individually. 
 
 ![The settings that allow SmartScreen to block Potentially Unwanted Programs.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-block-pups.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The "SmartScreen for Microsoft Edge" option controls [the SmartScreen filter build into the Microsoft Edge browser](https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-8-plus-by-drfone-ios/). It blocks malicious websites and downloads, but only in Microsoft Edge.
 
 ![The SmartScreen filter for MS Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-smartscreen-for-microsoft-edge.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "SmartScreen for Windows Store apps" filter is used when apps you download from the Windows Store access web content. It warns you before those apps load dangerous content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ![The SmartScreen for Microsoft Store apps](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/for-windows-smartscreen.png)Disable SmartScreen on Windows 8
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On Windows 8, you'll find this option in the Control Panel. Navigate to Control Panel > System and Security > Action Center.
 
  Expand the "Security" section, locate Windows SmartScreen in the list, and click "Change settings" under it.
 
 ![img_5912453496fed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/05/img_5912453496fed.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then choose what Windows does with unrecognized programs. You can have Windows require administrator approval before running an unknown program, warn you without requiring administrator approval, or select "Don't do anything" to turn off Windows SmartScreen.
 
@@ -106,24 +106,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unleashing-creativity-making-photo-based-videos-using-pixiz/"><u>[New] 2024 Approved Unleashing Creativity Making Photo-Based Videos Using Pixiz</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-perfect-instruction-manual-for-wm6/"><u>[New] Perfect Instruction Manual for WM6</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-superior-converter-mp4-to-facebook/"><u>[New] Superior Converter MP4 to Facebook</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlining-the-process-of-youtube-data-interpretation/"><u>[Updated] In 2024, Streamlining the Process of YouTube Data Interpretation</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-social-media-videos-for-maximum-reach/"><u>[Updated] Mastering the Art of Social Media Videos for Maximum Reach</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-a-graphics-driver-upgrade-restored-your-devices-miracast-capabilities-successfully/"><u>How a Graphics Driver Upgrade Restored Your Device's Miracast Capabilities Successfully</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-13-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 13 Pro Max Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-civi-3-disney-100th-anniversary-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Civi 3 Disney 100th Anniversary Edition in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x6-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X6 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-a24-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy A24 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-magic-6-lite-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor Magic 6 Lite Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 Lite to Outlook | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/spark-20-proplus-messages-recovery-recover-deleted-messages-from-spark-20-proplus-by-fonelab-android-recover-messages/"><u>Spark 20 Pro+ Messages Recovery - Recover Deleted Messages from Spark 20 Pro+</u></a></li>
-<li><a href="https://techtrends.techidaily.com/step-by-step-guide-how-to-copy-your-own-versions-of-the-classic-films-top-gun-original-and-remaster/"><u>Step-by-Step Guide: How to Copy Your Own Versions of the Classic Films, Top Gun (Original and Remaster)</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-10-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 10 Pro 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/what-you-need-to-know-about-the-popular-messaging-app-telegram/"><u>What You Need to Know About the Popular Messaging App, Telegram?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edge-40-neo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge 40 Neo Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-primewave-riders-most-fancied-and-binge-watched-originals-on-twitter-for-2024/"><u>[Updated] PrimeWave Riders Most Fancied & Binge-Watched Originals on Twitter for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/a-beginners-handbook-to-professional-music-video-editing-for-2024/"><u>A Beginners Handbook to Professional Music Video Editing for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/elevate-your-works-discover-the-elite-6-in-nft-creativity/"><u>Elevate Your Works Discover the Elite 6 in NFT Creativity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/empowering-ai-with-more-exploring-chatgpts-co-pilot-extension/"><u>Empowering AI with More: Exploring ChatGPT's Co-Pilot Extension</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-k11x-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo K11x Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-nokia-g22-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Nokia G22 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-c51-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco C51 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-huawei-nova-y91-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Huawei Nova Y91 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-e13-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto E13 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-magic-6-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Honor Magic 6 Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-a05-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy A05</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-36-unbeatable-apple-offers-still-on-offer-during-prime-day-your-essential-guide-zdnet/"><u>Top 36 Unbeatable Apple Offers Still on Offer During Prime Day: Your Essential Guide - ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-blaze-2-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Blaze 2 Pro.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/understanding-the-ogg-file-format-and-playing-it-correctly/"><u>Understanding the OGG File Format and Playing It Correctly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/why-windows-11-remains-the-preferred-os-for-my-daily-computer-use-a-deep-dive-into-its-top-five-advantages/"><u>Why Windows 11 Remains the Preferred OS for My Daily Computer Use: A Deep Dive Into Its Top Five Advantages</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on 14 ?</u></a></li>
 </ul></div>
 

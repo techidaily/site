@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-12-03T23:10:48.523Z
-updated: 2024-12-09T16:53:20.552Z
+date: 2024-12-15T04:13:19.751Z
+updated: 2024-12-15T21:10:19.453Z
 tags:
   - mobile
 categories:
@@ -13,13 +13,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Putting a phone in a mount on your bike works fine, but it's not great. The biggest problem is you run the risk of damaging the phone's camera. I wanted a map and media controls easily accessible without strapping my phone to my bike. A wild idea became a reality: What if my bike had an Android Auto display?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Not Just Mount Your Phone?
 
 ![Bone Tie 4 Pro bike mount on a road bike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/bone-tie4-mount.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bone 
 
@@ -32,16 +32,12 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -51,12 +47,16 @@ Joe Fedewa / How-To Geek
 
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How It Works and What You Need
 
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -68,7 +68,7 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -94,16 +94,18 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-essential-handbook-for-instagram-reels/"><u>[New] 2024 Approved The Essential Handbook for Instagram Reels</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-ending-quicktime-capture-immediate-steps/"><u>[New] Ending QuickTime Capture Immediate Steps</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-streamline-and-shine-the-top-5-video-quality-tools-for-2024/"><u>[New] Streamline & Shine The Top 5 Video Quality Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-sites-like-famebit-where-you-can-find-youtube-sponsorships/"><u>[Updated] In 2024, Sites Like FameBit Where You Can Find YouTube Sponsorships</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-cinematography-guide-8-insider-secrets-to-professional-video-creation/"><u>2024 Approved IPhone Cinematography Guide 8 Insider Secrets to Professional Video Creation</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-smart-8-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Smart 8 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 7 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-11-proplus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 11 Pro+ phone? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/realme-narzo-60x-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme Narzo 60x 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-30-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 30 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-c12-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia C12.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-pathway-to-captivating-audio-on-macos-via-audacity-for-2024/"><u>[Updated] The Pathway to Captivating Audio on MacOS via Audacity for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-14-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi 14 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-call-history-on-tecno-pova-5-by-fonelab-android-recover-call-logs/"><u>How to restore wiped call history on Tecno Pova 5?</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-vivo-y100i-power-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-sony-xperia-10-vfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Sony Xperia 10 VFRP Lock</u></a></li>
+<li><a href="https://discover-community.techidaily.com/mp3wmamp3/"><u>MP3への変換：.wmaファイルを効果的に.mp3フォーマットにする方法</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/pixelhunter-advanced-screen-grabber/"><u>PixelHunter Advanced Screen Grabber</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-complete-guide-to-downloading-and-enjoying-ifunny-memes-for-2024/"><u>The Complete Guide to Downloading and Enjoying iFunny Memes for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-g24-power-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola G24 Power without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-20-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark 20 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/top-rated-free-wmv-video-joiner-programs/"><u>Top-Rated Free WMV Video Joiner Programs</u></a></li>
 </ul></div>
 

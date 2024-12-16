@@ -1,7 +1,7 @@
 ---
 title: Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
-date: 2024-12-06T17:20:02.883Z
-updated: 2024-12-09T23:30:39.840Z
+date: 2024-12-10T23:37:26.406Z
+updated: 2024-12-16T02:50:24.107Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [WinRAR Alternatives for Linux](https://win-dash.techidaily.com/update-and-installation-guide-for-insignia-bluetooth-receiver-drivers-in-windows/)
 * [Performing Multiple Operations on RARs](https://screen-mirroring-recording.techidaily.com/in-2024-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To install WinRAR on Linux, you can use Wine, a compatibility layer that translates Windows system calls to Linux system calls.
@@ -32,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  WinRAR is a popular archive manager for Windows that many people are familiar with. However, did you know you could use WinRAR on Linux? It’s not the rar command-line tool most people think of. Rather, you can run the same Windows graphical WinRAR tool on your Linux desktop. We'll show you how.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Install WinRAR on Linux?
@@ -40,10 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Yes, you can install WinRAR on Linux. However, it is more complex than installing it on Windows. WinRAR officially does not have a graphical user interface (GUI) client for Linux, as it only provides a command-line interface (CLI) tool named rar or WinRAR CLI.
 
  Well, there is a method that lets you run the Windows WinRAR GUI on Linux without any hassle. The solution is to [use Wine](https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-vivo-y100a-frp-bypass-instantly-by-drfone-android/), a tool that lets you use Windows applications on Linux. Wine does not emulate Windows, but provides a compatibility layer that converts Windows system calls to Linux system calls. With Wine, you can install and run WinRAR on Linux like that on Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Install WinRAR on Linux
 
@@ -80,12 +72,16 @@ wine winrar-*.exe
 ![WinRAR wine installation setup with different settings related to file formats, interface, and integration](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once WinRAR is installed, you can launch it from the application menu.
 
 ![WinRAR on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Extracting a RAR File Using WinRAR on Linux
 
@@ -99,13 +95,13 @@ wine winrar-*.exe
 
 ![specifying destination path and different mode for extracted rar file in setting context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In your specified path, you see your extracted file with the same name as the RAR file.
 
 ![viewing extracted rar file in Nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5a.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As mentioned earlier, WinRAR officially only provides rar for Linux, which is a command-line tool. If you prefer [extracting RAR files using the command line](https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/), you can use the rar command.
 
@@ -116,6 +112,10 @@ wine winrar-*.exe
 ###  File Roller
 
 ![File Roller on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [File Roller](https://wiki.gnome.org/Apps/FileRoller) is the default tool for managing archives on the Linux system with a [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/) desktop. This tool has a simple and intuitive GUI that lets you create, extract, and modify various archive files, such as RAR, ZIP, TAR, and others.
 
@@ -138,7 +138,7 @@ sudo pacman -S file-roller
 ![context menu showing different options of the 7zip tool in nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [7-Zip](https://www.7-zip.org/download.html) is a free, open-source tool used for compressing large files. It's got its own archive file format, 7z, and can handle other formats as well. It officially comes with three p7zip packages: p7zip (basic 7z support), p7zip-full (more 7z formats), and p7zip-rar (RAR + 7z support).
@@ -156,6 +156,10 @@ sudo yum install p7zip p7zip-plugins
 sudo pacman -S p7zip
 
  Once 7-Zip is installed, you can right-click on your file to extract and compress your files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Xarchiver
 
@@ -176,10 +180,6 @@ sudo yum -y install xarchiver
 sudo pacman -S xarchiver
 
  After installing Xarchiver on your Linux PC, you can easily create and extract RAR archives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performing Multiple Operations on RARs
 
@@ -202,24 +202,22 @@ sudo pacman -S xarchiver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-your-key-to-creative-advertising-access-all-50-free-youtube-banner-designs/"><u>[Updated] 2024 Approved Your Key to Creative Advertising Access All 50 FREE YouTube Banner Designs!</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-best-10-screen-recorders-for-mac-for-2024/"><u>[Updated] Best 10 Screen Recorders for Mac for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-unveiling-vrs-elite-accessories-top-10/"><u>2024 Approved Unveiling VR's Elite Accessories (Top 10)</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-breakdown-the-dji-inspire-1-uav/"><u>Complete Breakdown The DJI Inspire 1 UAV</u></a></li>
-<li><a href="https://program-issues.techidaily.com/comprehensive-fixes-for-players-experiencing-new-world-connection-errors/"><u>Comprehensive Fixes for Players Experiencing New World Connection Errors</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 10 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-meizu-21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Meizu 21 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-12-pro-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 12 Pro 4G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y27s-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y27s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-edge-40-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Edge 40 phone? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-new-skills-with-ease-unveiling-the-best-learning-apps-of-2024/"><u>Mastering New Skills with Ease: Unveiling the Best Learning Apps of 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/prime-interactive-room-for-free-play/"><u>Prime Interactive Room for Free Play</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-lava-yuva-2-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Lava Yuva 2</u></a></li>
-<li><a href="https://win11.techidaily.com/supercharging-your-desktop-image-in-w11/"><u>Supercharging Your Desktop Image in W11</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/tablet-showdown-which-reigns-king-ipad-vs-kindle-vs-nook-in-the-world-of-e-reading/"><u>Tablet Showdown: Which Reigns King - iPad Vs. Kindle Vs. Nook in the World of E-Reading?</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-s18-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from S18 Pro</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/winx-video-professionelle-bildschirmaufnahme-und-videokamera-mit-integrierter-audiotechnologie-fur-ein-optimiertes-online-erlebnis/"><u>WinX Video: Professionelle Bildschirmaufnahme Und Videokamera Mit Integrierter Audiotechnologie Für Ein Optimiertes Online-Erlebnis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-techniques-to-pull-facebook-videos-easily/"><u>[New] In 2024, Techniques to Pull Facebook Videos Easily</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-ideal-gaming-displays-top-5-ps5-edition/"><u>[Updated] Ideal Gaming Displays Top 5 (PS5 Edition)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-key-tips-to-capture-youtube-streams-effectively/"><u>[Updated] In 2024, Key Tips to Capture YouTube Streams Effectively</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-c51-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme C51 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-access-your-pc-files-on-iosandroid-with-windows-network-share/"><u>How to Access Your PC Files on iOS/Android With Windows Network Share</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-12plus-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12+ 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-optimal-media-transfer-top-free-youtube-mp3-apps-revealed/"><u>In 2024, Optimal Media Transfer Top Free YouTube-MP3 Apps Revealed</u></a></li>
+<li><a href="https://common-error.techidaily.com/navigating-the-approval-process-with-trustedinstaller-for-file-alterations/"><u>Navigating the Approval Process with TrustedInstaller for File Alterations</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/perfecting-altered-text-aesthetics-in-visual-media-for-2024/"><u>Perfecting Altered Text Aesthetics in Visual Media for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/simple-solutions-for-starting-up-your-macbook-pro-again/"><u>Simple Solutions for Starting Up Your MacBook Pro Again</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-note-30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Note 30 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a1x-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A1x 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nubia Z50S Pro</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unveiling-alternatives-to-sns-hdr-in-a-crowded-space/"><u>Unveiling Alternatives to SNS HDR in a Crowded Space</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-v27-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo V27 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100i Power 5G | Dr.fone</u></a></li>
 </ul></div>
 

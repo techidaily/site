@@ -1,7 +1,7 @@
 ---
 title: "Identifying Your Exact Windows 10 Edition & Update: A Step-by-Step Guide"
-date: 2024-12-05T00:54:33.098Z
-updated: 2024-12-09T22:38:41.535Z
+date: 2024-12-09T21:41:37.802Z
+updated: 2024-12-15T18:33:48.049Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 ---
 
 ## Identifying Your Exact Windows 10 Edition & Update: A Step-by-Step Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -39,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
@@ -50,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -60,18 +52,26 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 * **OS Build.** This line shows the specific operating system build you're running. It gives you sort of a timeline of minor build releases in between the major version number releases. In the screenshot above, the "14393.693" build was actually the 13th build released after version 1607 shipped in July, 2016\. This information is somewhat less important to most people than the major version numbers, but it can still help you identify exactly what you're running. If you're curious, you can check out the whole [history of versions and builds for Windows 10](https://technet.microsoft.com/en-us/windows/release-info.aspx?f=255&MSPPError=-2147217396) on Microsoft's TechNet site.
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
 
  You can also use the old standby Windows Version (winver) tool to find some of this information. Hit Start, type "winver," and then press Enter. You could also press Windows Key + R, type **winver** into the Run dialog, and press Enter.
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -93,21 +93,21 @@ thumbnail: https://thmb.techidaily.com/6d87b1c3f35bd086cb57f3daa2bccf1c889bbcea5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-best-chips-for-immersive-4k-video-workflows-for-2024/"><u>[New] Best Chips for Immersive 4K Video Workflows for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-collage-creation-step-by-step-tutorial/"><u>[Updated] Collage Creation Step-by-Step Tutorial</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-installing-snapchat-efficiently-on-your-mac-for-2024/"><u>[Updated] Installing Snapchat Efficiently on Your Mac for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pro-tips-for-stunning-gopro-timelapse-projects/"><u>[Updated] Pro Tips for Stunning GoPro Timelapse Projects</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-seamless-screen-stretch-cycle-youtube-on-television-display/"><u>[Updated] Seamless Screen Stretch Cycle YouTube on Television Display</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-the-art-of-tagging-instas-top-25-must-use-tags/"><u>2024 Approved Mastering the Art of Tagging Insta's Top 25 Must-Use Tags</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/affordable-long-lasting-power-discover-why-the-iphone-14-plus-is-your-best-value-pick/"><u>Affordable Long-Lasting Power: Discover Why the IPhone 14 Plus Is Your Best Value Pick</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-your-gigabyte-nic-drivers-here-immediate-download-available/"><u>Get Your Gigabyte NIC Drivers Here - Immediate Download Available!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-moto-g84-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G84 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-download-and-install-logitechs-c525-webcam-software-on-windows/"><u>How to Download & Install Logitech's C525 Webcam Software on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-100-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor 100 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-fold-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel Fold without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Meizu 21 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nhancing-video-discoverability-with-smart-thumbnails-for-2024/"><u>[New] Enhancing Video Discoverability with Smart Thumbnails for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/1-unleash-your-inner-star-with-karaoke-cloud-pro-join-fifty-songs-every-friday-for-a-sparkling-showcase/"><u>1. Unleash Your Inner Star with Karaoke Cloud Pro: Join Fifty Songs Every Friday for a Sparkling Showcase!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-streamlined-process-altering-video-direction-in-vlc/"><u>2024 Approved Streamlined Process Altering Video Direction in VLC</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/aufklarung-warum-wird-der-samsung-t7-in-windows/"><u>Aufklärung: Warum Wird Der Samsung T7 in Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 12 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-resolve-problems-with-your-realtek-rtl8723be-network-adapter-drivers/"><u>How to Resolve Problems with Your Realtek RTL8723BE Network Adapter Drivers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/optimieren-sie-ihre-videos-auf-mac-oder-windows-fur-exzellente-qualitat-in-hd-und-4k-auflosung/"><u>Optimieren Sie Ihre Videos Auf Mac Oder Windows Für Exzellente Qualität in HD- Und 4K-Auflösung</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-mini-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 mini Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-blaze-2-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Blaze 2 Pro</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-5-v-messages-recovery-recover-deleted-messages-from-sony-xperia-5-v-by-fonelab-android-recover-messages/"><u>Sony Xperia 5 V Messages Recovery - Recover Deleted Messages from Sony Xperia 5 V</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-oppo-a18-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-to-recover-anthem-sound-capabilities-in-windows-11/"><u>Troubleshooting Steps to Recover Anthem Sound Capabilities in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-v30-lite-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo V30 Lite 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

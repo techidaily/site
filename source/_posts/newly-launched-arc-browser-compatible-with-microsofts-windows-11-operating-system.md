@@ -1,7 +1,7 @@
 ---
 title: "Newly Launched: Arc Browser Compatible with Microsoft's Windows 11 Operating System"
-date: 2024-12-08T21:22:18.456Z
-updated: 2024-12-09T22:19:24.380Z
+date: 2024-12-12T00:30:20.875Z
+updated: 2024-12-15T20:16:20.436Z
 tags:
   - desktop
 categories:
@@ -42,22 +42,23 @@ Arc, a free web browser developed by The Browser Company, is now available on Wi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-idle-geniuses-top-12-pc-classics-for-2024/"><u>[New] Idle Geniuses Top 12 PC Classics for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/web-mp3flac-movavi/"><u>「無償WEB MP3/FLAC変換ツール - MOVAVI音楽コンバータ」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-remove-background-in-figma-a-comprehensive-guide/"><u>2024 Approved How To Remove Background In Figma A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 6 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-zero-30-5g-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-tinyvid-masterpiece/"><u>In 2024, TinyVid Masterpiece</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/outro-samples-collection-including-both-costs/"><u>Outro Samples Collection Including Both Costs</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-oppo-reno-10-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo Reno 10 5G</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/step-by-step-guide-removing-applications-from-your-kindle-fire-device/"><u>Step-by-Step Guide: Removing Applications From Your Kindle Fire Device</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-p60-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from P60</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-a60s-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel A60s.</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 10</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-best-10-screen-recorders-for-youtube-for-2024/"><u>[New] Best 10 Screen Recorders for YouTube for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-next-gen-storytelling-10-sci-fi-films-transporting-you-elsewhere/"><u>[New] Next Gen Storytelling 10 Sci-Fi Films Transporting You Elsewhere</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-playlist-perfection-updated-devices/"><u>[New] Playlist Perfection Updated Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-shake-free-video-post-capture-tips-and-tricks/"><u>[Updated] 2024 Approved Shake-Free Video Post-Capture Tips & Tricks</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oneplus-open-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For OnePlus Open | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/best-practices-for-avoidable-file-explorer-foibles/"><u>Best Practices for Avoidable File Explorer Foibles</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-smart-8-hd-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Smart 8 HD Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-a60-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A60 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-intro-editors-for-device-applications/"><u>Leading Intro Editors for Device Applications</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy XCover 7 won’t play MKV movies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-to-setting-up-the-ultimate-7plus2-addons-bundle-on-kodi-for-enhanced-viewing-experience/"><u>Step by Step Guide to Setting Up the Ultimate 7+2 Addons Bundle on Kodi for Enhanced Viewing Experience</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-12-pro-max-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 12 Pro Max lock with Apple ID</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On OnePlus 12? | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

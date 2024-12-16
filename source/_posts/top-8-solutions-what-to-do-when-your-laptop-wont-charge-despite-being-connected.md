@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-12-07T19:38:46.526Z
-updated: 2024-12-09T21:08:18.776Z
+date: 2024-12-11T02:14:46.361Z
+updated: 2024-12-15T19:04:00.998Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ---
 
 ## Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -35,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Check Your Laptop Adapter
@@ -49,12 +53,16 @@ Aman Kumar / How-To Geek
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -86,10 +94,6 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -116,16 +120,12 @@ Aman Kumar / How-To Geek
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
@@ -169,24 +169,20 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-accelerate-access-funimates-download-demystified/"><u>[New] Accelerate Access Funimate's Download Demystified</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-laughter-league-social-medias-best-jokes/"><u>[New] Laughter League Social Media's Best Jokes</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-gifs-like-a-pro-industry-leaders-tools/"><u>[Updated] 2024 Approved Crafting GIFs Like a Pro Industry Leaders' Tools</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-dive-into-the-tiktok-universe-quick-setup-guide-on-macbook/"><u>[Updated] 2024 Approved Dive Into the TikTok Universe Quick Setup Guide on MacBook</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-c-span-archive-download-legally-without-expense/"><u>2024 Approved C-Span Archive Download Legally Without Expense</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/essential-fixes-for-non-booting-laptops-and-desktops-tips-by-yl-software-experts/"><u>Essential Fixes for Non-Booting Laptops and Desktops – Tips by YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c12-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C12 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-premier-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Premier 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-12-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 12 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-3-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord 3 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-bridging-gaps-building-relationships-with-your-audience/"><u>In 2024, Bridging Gaps Building Relationships with Your Audience</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nt-these-8-key-mishaps-on-your-youtube-journey/"><u>Prevent These 8 Key Mishaps on Your YouTube Journey</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nokia-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nokia</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-yuva-3-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Yuva 3 Pro</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-top-10-solutions-for-non-responsive-text-messaging/"><u>Troubleshooting iPhone: Top 10 Solutions for Non-Responsive Text Messaging</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/turbocharge-windows-11-eliminate-sluggishness-effectively/"><u>Turbocharge Windows 11: Eliminate Sluggishness Effectively</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-13-pro-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 13 Pro is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/oost-your-youtube-success-with-free-high-quality-audio/"><u>[New] Boost Your YouTube Success with Free, High-Quality Audio</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-budget-friendly-strategies-to-infuse-text-and-video/"><u>[Updated] Budget-Friendly Strategies to Infuse Text & Video</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>[Updated] In 2024, Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premier-eco-cinema-tech-usage-and-mastery/"><u>[Updated] Premier Eco-Cinema Tech Usage and Mastery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/bypassing-doctor-consults-chatgpt-pitfalls-explored/"><u>Bypassing Doctor Consults: ChatGPT Pitfalls Explored</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/crafting-your-virtual-alter-ego-in-a-metaverse-setting-for-2024/"><u>Crafting Your Virtual Alter Ego in a Metaverse Setting for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/iphone-photo-perfection-implement-these-10-composition-tenets-for-2024/"><u>IPhone Photo Perfection Implement These 10 Composition Tenets for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/puzzling-perfection-hunt-for-the-ultimate-rooms/"><u>Puzzling Perfection Hunt for the Ultimate Rooms</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60s-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60s on Windows</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y27s-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y27s Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Undelete lost data from Tecno</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x7b-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X7b.</u></a></li>
 </ul></div>
 

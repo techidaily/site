@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-12-08T21:43:23.871Z
-updated: 2024-12-09T17:16:12.589Z
+date: 2024-12-14T19:50:24.524Z
+updated: 2024-12-15T20:33:38.665Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * To prevent your PC from automatically entering sleep mode, navigate to Control Panel > Hardware and Sound > Power Options > Change When the Computer Sleeps, select "Never" from the "Put the Computer to Sleep" drop-down menus, and choose "Save Changes".
 
  Does Windows 11 or Windows 10 continue your file downloads when your PC enters sleep mode? Do you want to download a file but are worried sleep mode will interrupt that download? We’ll answer those questions as well as give you some relevant tips here in this guide. Let’s dive in.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Keep Downloads Running While Windows Is in Sleep Mode?
 
@@ -46,22 +46,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Power Options' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-power-options-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  From the left sidebar, select "Choose What Closing the Lid Does".
 
 !['Choose What Closing the Lid Does' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-closing-lid-settings-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the screen that opens, from the drop-down menus next to "When I Close the Lid", choose "Do Nothing". Then, at the bottom, select "Save Changes".
 
 !['When I Close the Lid' and 'Save Changes' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-do-nothing-close-lid-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Turn Off Sleep Mode on Your Windows PC
 
@@ -71,16 +75,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Change When the Computer Sleeps' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sleep-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
 
 !["Put the Computer to Sleep" and "Save Changes" highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-disable-windows-sleep.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,18 +102,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-guide-to-progressive-audio-diminishment-via-lumafusion/"><u>[New] 2024 Approved Guide to Progressive Audio Diminishment via Lumafusion</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-dynamic-duo-of-filmmaking-and-thumbnail-design/"><u>[New] The Dynamic Duo of Filmmaking and Thumbnail Design</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-incorporating-cards-and-annotations-in-youtube-content/"><u>[Updated] Incorporating Cards and Annotations in YouTube Content</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciding-between-an-ipad-pro-or-a-macbook-pro-a-comprehensive-guide/"><u>Deciding Between an iPad Pro or a MacBook Pro: A Comprehensive Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/free-online-converter-transform-jp2-images-into-high-quality-tiff-files-with-ease/"><u>Free Online Converter: Transform JP2 Images Into High-Quality TIFF Files with Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel P55T? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/leading-edge-best-9-filter-tips-for-live-broadcasts-for-2024/"><u>Leading Edge Best 9 Filter Tips for Live Broadcasts for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-creme-de-la-creme-of-fluid-interactive-games-for-2024/"><u>The Crème De La Créme of Fluid Interactive Games for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-edge-40-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Edge 40 without backup.</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-tecno-pop-8-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Tecno Pop 8</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-s23plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from S23+.</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-3-must-know-methods-to-record-on-your-ipad/"><u>[Updated] 3 Must-Know Methods to Record on Your iPad</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dance-directives-finding-ideal-dj-templates/"><u>[Updated] In 2024, Dance Directives Finding Ideal DJ Templates</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-engagement-on-youtube-fending-off-automated-audiences/"><u>[Updated] In 2024, Elevate Engagement on YouTube Fending Off Automated Audiences</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x50-gt-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/constructing-the-ideal-setup-for-advanced-4k-video-production/"><u>Constructing the Ideal Setup for Advanced 4K Video Production</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/expert-strategies-for-engaging-live-audiences-on-facebook/"><u>Expert Strategies for Engaging Live Audiences on Facebook</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/gopro-spectrum-an-intensive-feature-by-feature-comparison/"><u>GoPro Spectrum An Intensive Feature-By-Feature Comparison</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-phantom-v-fold-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Phantom V Fold Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-motorola-razr-40-ultra-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Motorola Razr 40 Ultra to iPhone | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/network-drives-made-easy-setting-up-on-your-apple-computer/"><u>Network Drives Made Easy: Setting Up on Your Apple Computer</u></a></li>
 </ul></div>
 

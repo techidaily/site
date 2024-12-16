@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Vivo S18? | Dr.fone
-date: 2024-09-21T10:13:30.652Z
-updated: 2024-09-24T00:24:53.073Z
+date: 2024-12-09T03:25:40.835Z
+updated: 2024-12-15T16:20:17.073Z
 tags: 
   - reset
 categories:
@@ -87,6 +87,10 @@ Follow the given steps to know how to hard reset an Android phone using PC.
 
 ![download android adb](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-phone-using-pc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 • You have to download Android ADB tools on your computer. Android ADB Download: [https://developer.android.com/studio](https://developer.android.com/studio)  
 • A USB Cable to connect your Vivo S18 with your computer.
 
@@ -159,13 +163,6 @@ Performing a factory reset on your phone is a significant step as it wipes all e
 
 Sometimes, erasing all data on your phone is an evident need. If you want to delete all apps on your phone or restore them to factory settings, a direct factory reset provides a simple solution for this.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Forgotten Passwords
 
 Forgetting your phone's password is a catastrophe, and everyone is prone to it. If you end up locking yourself out of your phone after too many attempted tries to unlock it, a hard factory reset is sometimes the only option left. You can learn **how to factory reset your Vivo S18phone when locked** and end up with a clean slate without any password.
@@ -212,13 +209,6 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 
 ![tap on erase all data](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** You will be prompted to type your phone's passcode to proceed. Afterward, you can create a backup of your phone's data by clicking on the "Back up" option. If not, hit the "Factory Reset" button and click "Next."
 
 ![back up your device](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-4.jpg)
@@ -226,13 +216,6 @@ The easiest way to perform a complete wipe on your phone is via your phone's set
 **Step 4:** Wait for 10 seconds and click "OK" on the screen. Now, wait for the reset process to complete, and you are all done.
 
 ![tap on ok to confirm](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Permanently Erase Everything with Dr.Fone - Data Eraser (100% Wipe Data)
 
@@ -280,13 +263,6 @@ One of the go-to methods for factory resetting a locked Vivo S18phone is via the
 
 ![access the recovery mode](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Use the volume keys to scroll down the screen and find the "Wipe Data" option, then hit the Power button to select it.
 
 ![choose wipe data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-10.jpg)
@@ -308,10 +284,7 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Using ADB Fastboot Tools
@@ -400,24 +373,29 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 
 ![choose data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Click “Erase” to start erasing all data on the Android device. Think again about whether you want to delete all data and type “000000” to confirm.
 
 ![start data earser](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Wait for the erase process to end, and you can view the erasure report to check the data type erased after erasing completes.
 
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![data eraser completes](https://images.wondershare.com/drfone/guide/android-erase-07.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Reset Android without volume button in recovery mode (need home button)
 
@@ -451,18 +429,15 @@ After the reset is complete, navigate to the “reboot system now” option and 
 
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Reset Android with the reset pinhole
 
 There are many reasons for opting to reset an Android smartphone or tablet. Sometimes, a forgotten password might get your tablet locked. At times, the screen of your smartphone or tablet might get stuck and fail to respond. Or your device might come with a non-removable battery to make matters worse. For all these problems and many others, you might want to reset your device. But if your device does not come with a home button or volume buttons, you might want to use a different method. Generally, such devices come with a reset pinhole on the Vivo S18 device which can be used to reset the Vivo S18 device. To perform a tablet hard reset without the volume button, follow the simple steps described below.
 
 ![choose yes](https://images.wondershare.com/drfone/article/2017/04/14931910627827.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1: Find the Reset pinhole.**
 
@@ -488,11 +463,19 @@ After that, navigate or scroll down until you can find the “Backup and Reset�
 
 ![select the data reset folder](https://images.wondershare.com/drfone/article/2017/04/14931914941646.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3: Tap on Factory data reset.**
 
 Now swipe down to find the “Factory data reset” option and tap on it. A new screen will appear, requesting you for confirmation to proceed with the process. Tap on “Reset device” to start the process.
 
 ![backup reset](https://images.wondershare.com/drfone/article/2017/04/14931915614133.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 At the end of the process, your device will be reset and ready to use after it completes the mandatory reboot.
 
@@ -501,6 +484,10 @@ At the end of the process, your device will be reset and ready to use after it c
 If you are facing the challenge of resetting an Android tablet to unlock the lock screen, the easiest way is to use a dedicated tool. [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is recommended in this case. It is a helpful software that provides a solution to bypass screen lock and perform a reset on your Android tablet.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -533,18 +520,15 @@ Wait for the reboot process to complete, and then you can access the phone or ta
 
 ![screen unlock successfully](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 So these are the methods with which you can do a reset without using volume buttons. The difficulty level of the methods depends on the type and brand of the Android device. The first two parts can be performed easily by anyone, and that too in a matter of a few minutes. However, the third method may pose some difficulty, particularly because manufacturers set different key combinations for rebooting the Vivo S18 device into recovery. Nevertheless, once it is figured out, the rest is easy. Hence, it is up to you to decide on the method to be adopted for hard resetting your Android device.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -558,5 +542,20 @@ So these are the methods with which you can do a reset without using volume butt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-picture-perfect-how-to-accurately-date-your-photos/"><u>[New] 2024 Approved Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately/"><u>[New] In 2024, Launch Into Action Quick Tips to Start Going Live on Facebook Immediately</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-comprehensive-list-of-vimeo-downloader-utilities/"><u>[Updated] Comprehensive List of Vimeo Downloader Utilities</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-essential-guide-to-creating-stellar-films-with-win11s-movie-maker/"><u>[Updated] In 2024, Essential Guide to Creating Stellar Films with Win11's Movie Maker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-windows-mobile-video-playback-guide/"><u>[Updated] The Ultimate Windows Mobile Video Playback Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-pop-7-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Pop 7 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-gionee-f3-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Gionee F3 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-potential-of-wide-angle-360-photos/"><u>In 2024, Unlocking the Potential of Wide Angle 360 Photos</u></a></li>
+<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-won-t-play-on-c67-5g-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on C67 5G</u></a></li>
+<li><a href="https://fox-access.techidaily.com/the-professionals-secret-utilizing-windows-movie-maker-expertly-in-windows-8-systems-for-2024/"><u>The Professional's Secret Utilizing Windows Movie Maker Expertly in Windows 8 Systems for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-vs-2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic Vs 2</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi support - Forgotten screen lock.</u></a></li>
+</ul></div>
 

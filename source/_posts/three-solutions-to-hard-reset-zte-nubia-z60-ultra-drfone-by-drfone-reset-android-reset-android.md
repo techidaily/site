@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset ZTE Nubia Z60 Ultra? | Dr.fone
-date: 2024-09-23T01:05:43.494Z
-updated: 2024-09-24T09:16:13.536Z
+date: 2024-12-10T20:15:08.617Z
+updated: 2024-12-15T17:01:10.252Z
 tags: 
   - reset
 categories:
@@ -28,6 +28,10 @@ Since factory reset involves removing all data, adjusted settings and logged acc
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
 Flexiblely Back up and Restore Android Data
@@ -47,9 +51,17 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 ![click on backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on "Backup pow"  to proceed with the process. The backup process will start, keeping connected the ZTE Nubia Z60 Ultra device during the phone backup process.
 
 ![Click on “backup” again](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Within a few minutes, your whole device will be backed up. You can click "View Backups" to view all data that is backed up.
 
@@ -67,13 +79,6 @@ Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps yo
 
 ![launch screen unlock android](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2:** Choose "Android" > click "Unlock Android Screen" if you want to remove the lock screen. Choose your device brand. The hard reset methods vary for different device brands, so make sure that you choose the correct device brand.
 
 ![choose device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
@@ -81,13 +86,6 @@ Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps yo
 **Step 3:** Put the Android phone into Specific mode with the help of Dr.Fone. And then, Dr.Fone will factory reset your Android phone within a few minutes. Now you can access your Android phone without a password!
 
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -169,13 +167,6 @@ Therefore, we have gathered all that you need to know about a factory reset. Aft
 
 ## Part 1: What is ZTE Nubia Z60 Ultra Factory Reset?
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Principles of ZTE Nubia Z60 Ultra Factory Reset
 
 Before you reset your ZTE Nubia Z60 Ultra phone, you must ensure your data is all backed up someplace. It can be either on another device or transferred to the cloud. While changing your phone, you can exchange data from your old ZTE Nubia Z60 Ultra without much stretch. If you own a ZTE Nubia Z60 Ultra, a large portion of your data is put away securely in servers.
@@ -195,13 +186,6 @@ Now is the right time to **factory reset ZTE Nubia Z60 Ultra** when you have eve
 - On your ZTE Nubia Z60 Ultra, head into the settings application. Look over right down and search for System and click it. Look down and search for Reset options.
 
 ![reset options](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Go to System and tap the "Erase all data" option.
 
@@ -237,6 +221,10 @@ You can use Dr.Fone Data Eraser to reset your ZTE Nubia Z60 Ultra phone within m
 - Launch the Wondershare Dr.Fone software and click the "Data Eraser" from the main window.
 
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Connect your ZTE Nubia Z60 Ultra and PC using a connector. Please make sure that USB Debugging is on in your ZTE Nubia Z60 Ultra.
 
@@ -327,6 +315,10 @@ Before formatting your device, you have to keep in consideration Google's Factor
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Factory Reset ZTE Nubia Z60 Ultra
 
 If you know the passcode to your device, the procedure to factory reset your device is easy as a breeze. The following methods indicate how to factory reset a ZTE Nubia Z60 Ultraphone when it is not locked.
@@ -363,13 +355,6 @@ Install and launch Dr.Fone on your computer, and select the "Data Eraser" tool f
 
 ![choose data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Enable USB Debugging**
 
 Now connect your ZTE Nubia Z60 Ultraphone to your computer via a tethering cable and enable USB debugging on your ZTE Nubia Z60 Ultraphone.
@@ -389,6 +374,10 @@ The conventional method of wiping your phone using the Android settings suffers 
 The benefit of using Dr.Fone as your data eraser tool is that it can permanently erase everything on your phone. The program overwrites the phone memory with random data, hence securing your privacy. Data formatted via Dr.Fone cannot be recovered in any case, so you have nothing to worry about.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to Factory Reset ZTE Nubia Z60 Ultra When Locked
 
@@ -412,20 +401,6 @@ One of the go-to methods for factory resetting a locked ZTE Nubia Z60 Ultraphone
 
 ![confirm the wipe data process](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Via Find Device
 
 Xiaomi offers a "Find Device" option, using which you can learn to **factory reset your ZTE Nubia Z60 Ultraphone without a password** using your ZTE Nubia Z60 Ultraaccount. Note that for this process to work, you will require an active internet connection and a signed-in ZTE Nubia Z60 Ultraaccount on your phone. Then, you can perform the following steps to wipe data from your ZTE Nubia Z60 Ultraphone:
@@ -437,6 +412,10 @@ Xiaomi offers a "Find Device" option, using which you can learn to **factory res
 **Step 2:** Click on the "Find Device" option and select your phone from the screen's upper-right corner. Next, tap on "Erase Data" and confirm the process to erase all data from your device.
 
 ![tap on erase data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Using ADB Fastboot Tools
 
@@ -453,6 +432,10 @@ The Xiaomi ADB Fastboot Tools is a helpful app that enables users to perform ADB
 **Step 4:** Under the "Wiper" section in the app, click on "Wipe cache and user data" to reset your locked ZTE Nubia Z60 Ultraphone.
 
 ![choose wipe cache and data option](https://images.wondershare.com/drfone/article/2022/09/how-to-reset-locked-mi-phone-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: With Dr.Fone - Screen Unlock (Android)
 
@@ -476,14 +459,11 @@ Once the download is complete, click "Remove Now" to access your phone without a
 
 ![tap on remove now button](https://images.wondershare.com/drfone/guide/android-unlock-07.png)
 
-![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 ## Part 5: FAQs about ZTE Nubia Z60 Ultra
 
@@ -505,6 +485,10 @@ Use the Volume Up and Down buttons to navigate your way through the recovery mod
 
 If this method does not work, you can wait for the battery to drain fully from your phone and reboot it normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 ZTE Nubia Z60 Ultrais a famous brand that serves a large number of consumers worldwide. If you are also a ZTE Nubia Z60 Ultrauser, you now know **how to factory reset your ZTE Nubia Z60 Ultraphone without a password** owing to the in-depth guide mentioned above. Using these easy methods, such as Dr.Fone for resetting your device, can help save you a great deal of trouble.
@@ -521,5 +505,26 @@ ZTE Nubia Z60 Ultrais a famous brand that serves a large number of consumers wor
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-enabling-speech-to-text-on-powerpoint-essential-steps/"><u>[New] In 2024, Enabling Speech-to-Text on PowerPoint Essential Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unleashing-vintage-charm-filters-for-existing-media-on-ig/"><u>[Updated] 2024 Approved Unleashing Vintage Charm Filters for Existing Media on IG</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevated-website-insights-with-state-of-the-art-cookie-analysis/"><u>Elevated Website Insights With State-of-the-Art Cookie Analysis</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/how-comprehensive-are-windows-warranties-with-respect-to-memory-issues-a-deep-dive-by-yl-software-experts/"><u>How Comprehensive Are Windows Warranties with Respect to Memory Issues? A Deep Dive by YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-90-gt-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor 90 GT Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-find-n3-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find N3 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-prime-array-of-unplugged-digital-pastimes/"><u>In 2024, Prime Array of Unplugged Digital Pastimes</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-pushing-perceptions-with-the-advanced-dell-p2715q-display-review/"><u>In 2024, Pushing Perceptions with the Advanced Dell P2715Q Display Review</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-moto-g13-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Moto G13 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/skys-canvas-transforming-drones-into-dynamic-videos-for-2024/"><u>Sky's Canvas Transforming Drones Into Dynamic Videos for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-y56-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Y56 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-huawei-nova-y91-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Huawei Nova Y91 fingerprint</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-apples-latest-tech-marvel-the-macbook-pro-upgraded-with-m2-pro-and-mn-max-chips-key-insights-revealed/"><u>Unveiling Apple’s Latest Tech Marvel: The MacBook Pro Upgraded with M2 Pro & Mn Max Chips - Key Insights Revealed</u></a></li>
+<li><a href="https://techidaily.com/vivo-v29e-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo V29e support - Turn Off Screen Lock.</u></a></li>
+</ul></div>
 

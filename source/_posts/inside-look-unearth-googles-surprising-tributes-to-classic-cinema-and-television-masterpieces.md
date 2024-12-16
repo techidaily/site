@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-12-06T21:28:23.905Z
-updated: 2024-12-09T20:30:59.883Z
+date: 2024-12-12T20:18:49.131Z
+updated: 2024-12-16T04:19:47.893Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ---
 
 ## Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The Google Search Result pagefor Ross Geller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-screenshot-of-the-google-search-result-pagefor-ross-geller.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Each Friends character has a custom Easter egg attached to their name. This is your cue to find out what they all are.
@@ -62,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A small dog standing under a hair dryer with the Google search results for legally blonde in the background](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-small-dog-standing-under-a-hair-dryer-with-the-google-search-results-for-legally-blonde-in-the-background.png) 
 
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Recreate the Burn Book From “Mean Girls”
 
@@ -82,11 +82,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
@@ -95,7 +91,15 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google search results for 'war in Ba Sing Se'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-google-search-results-for-war-in-ba-sing-se.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Fill up Your Coin Purse With “Super Mario Bros”
 
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A minigame with buildings and robots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-minigame-with-buildings-and-robots.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
@@ -124,6 +124,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Apparently, the folks at Google agree that Baby Yoda is unbelievably cute too, because they gave him his own Easter egg. When you activate it, Baby Yoda uses the Force to pull down elements on your search page, starting with the search bar. 
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
 
@@ -136,16 +140,12 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A search results page with one of the links dissolving and a gauntlet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-one-of-the-links-dissolving-and-a-gauntlet.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Clicking the gauntlet a second time reverses the process and brings all the results back.
 
  This Easter egg has also been retired, but you can still [access it on elgooG](https://elgoog.im/thanos/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Summon The Dark Knight
 
@@ -156,7 +156,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Travel to the World of Oz
@@ -190,20 +190,20 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-iphone-x-secure-access-restoring-biometric-lock/"><u>[New] Mastering iPhone X Secure Access Restoring Biometric Lock</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-a-beginners-guide-to-mastering-windows-11-movie-maker-effortlessly/"><u>[Updated] A Beginner’s Guide to Mastering Windows 11 Movie Maker Effortlessly</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-capture-the-essence-of-your-favorite-series-with-these-extractors-for-2024/"><u>[Updated] Capture the Essence of Your Favorite Series with These Extractors for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-for-mac-gif-capturing-expert-reviews-for-2024/"><u>[Updated] Top 10 for Mac GIF Capturing Expert Reviews for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/7-things-that-belong-in-your-summer-edc/"><u>7 Things That Belong in Your Summer EDC</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-spark-20-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Spark 20 Pro+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-note-30-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/manual-efectivo-de-programacion-windows-dvd-con-winxdvd-guia-completa-y-facil-seguir/"><u>Manual Efectivo De Programación Windows DVD Con WinXDVD: Guía Completa Y Fácil Seguir</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-xiaomi-13t-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-z-flip-5-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy Z Flip 5 won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix without backup.</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-adb-error-on-windows-xp/"><u>Troubleshooting ADB Error on Windows XP</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-y02t-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Y02T.</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-visual-hooks-essential-steps-in-podcast-design/"><u>[Updated] In 2024, Visual Hooks Essential Steps in Podcast Design</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/diy-how-to-perform-self-service-repairs-on-your-broken-iphone-or-macbook-with-apples-new-initiative-learn-now/"><u>DIY: How to Perform Self-Service Repairs on Your Broken iPhone or MacBook with Apple's New Initiative - Learn Now!</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/experiencing-microsofts-surface-laptop-studio-unveiling-the-tech-that-sparked-my-envy-a-deep-dive-zdnet/"><u>Experiencing Microsoft's Surface Laptop Studio: Unveiling the Tech That Sparked My Envy - A Deep Dive | ZDNet</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-safety-account-verification-is-securityfbcom-reliable/"><u>Facebook Safety Account Verification: Is security@fb.com Reliable?</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-delving-into-the-world-of-mixed-reality-technology/"><u>In 2024, Delving Into the World of Mixed Reality Technology</u></a></li>
+<li><a href="https://howto.techidaily.com/nokia-c300-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C300 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-galaxy-m34-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Galaxy M34 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-7-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 7 lock with iTunes</u></a></li>
+<li><a href="https://media-tips.techidaily.com/various-strategies-for-converting-mts-videos-for-playback-on-an-ipad/"><u>Various Strategies for Converting MTS Videos for Playback on an iPad</u></a></li>
+<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12r-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 12R won’t play AVCHD .mts files</u></a></li>
 </ul></div>
 

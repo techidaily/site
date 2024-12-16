@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Art: Not Everything Is Created By An Algorithm"
-date: 2024-12-06T21:50:57.250Z
-updated: 2024-12-09T22:37:10.376Z
+date: 2024-12-12T02:46:23.558Z
+updated: 2024-12-16T00:57:24.179Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ## AI-Generated Art: Not Everything Is Created By An Algorithm
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 * [New Standards for Photography Are on the Horizon](https://tech-haven.techidaily.com/innovate-your-online-research-choose-perplexity-ai/)
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
@@ -52,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![An instagram post of a group of men shouting excitedly-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-instagram-post-of-a-group-of-men-shouting-excitedly-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Another photographer, Peter Yan, had his image of Mount Fuji tagged “Made With AI” because he used a generative AI tool to remove a trash bin in the photo.
@@ -60,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -82,10 +86,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
 
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
 
@@ -116,20 +116,19 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-channel-your-earnings-effective-youtube-money-methods/"><u>[New] 2024 Approved Channel Your Earnings Effective YouTube Money Methods</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-speech-synthesis-simplified-from-ssa-to-compelling-srt-files/"><u>[New] In 2024, Speech Synthesis Simplified From SSA to Compelling SRT Files</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-currency-of-clicks-youtube-view-revenue-explored-for-2024/"><u>[New] The Currency of Clicks Youtube View Revenue Explored for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-comparing-the-most-popular-linux-snapshots-tools/"><u>[Updated] 2024 Approved Comparing the Most Popular Linux Snapshots Tools</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-winters-chill-and-your-videos-selecting-heated-backdrops/"><u>[Updated] Winter's Chill & Your Videos Selecting Heated Backdrops</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/expert-guide-to-quick-screen-captures-on-mac-using-shortcuts-for-2024/"><u>Expert Guide to Quick Screen Captures on Mac Using Shortcuts for 2024</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/guide-to-legally-obtaining-youtube-movie-files-without-costing-a-penny/"><u>Guide to Legally Obtaining YouTube Movie Files Without Costing a Penny</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-tecno-pova-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Tecno Pova 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-open-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Open</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-first-impression-review-video/"><u>Updated How to Make First Impression Review Video</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-perfecting-your-recording-setup-pc-and-macs-best-software/"><u>[New] 2024 Approved Perfecting Your Recording Setup PC and Mac's Best Software</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-best-in-class-evaluating-the-top-8-sub-to-srt-convertors/"><u>2024 Approved The Best in Class Evaluating the Top 8 Sub to SRT Convertors</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-top-tricks-for-optimizing-windows-11/"><u>2024 Approved Top Tricks for Optimizing Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-stutter-ultimate-tips-for-smooth-gameplay-in-call-of-duty-vanguard-without-costs/"><u>Fixing Stutter: Ultimate Tips for Smooth Gameplay in Call of Duty: Vanguard Without Costs</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-12plus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/llifes-comeback-story-will-it-play-out-in-metaverse-times/"><u>LLife's Comeback Story: Will It Play Out In Metaverse Times?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ous-techniques-for-engaging-vlogs-for-2024/"><u>Luminous Techniques for Engaging Vlogs for 2024</u></a></li>
+<li><a href="https://techidaily.com/s23plus-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>S23+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/understanding-the-terms-digiartys-winxdvd-eulas-explained/"><u>Understanding the Terms: Digiarty's WinXDVD EULAs Explained</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unlocking-advanced-features-enabling-gpeditmsc-on-your-windows-home-pc/"><u>Unlocking Advanced Features: Enabling gpedit.msc on Your Windows Home PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-metas-latest-offer-the-unbeatable-512gb-quest-3-bargain-top-virtual-reality-purchase-for-today/"><u>Unveiling Meta's Latest Offer: The Unbeatable 512GB Quest 3 Bargain - Top Virtual Reality Purchase for Today!</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-105-classic-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from 105 Classic</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
 

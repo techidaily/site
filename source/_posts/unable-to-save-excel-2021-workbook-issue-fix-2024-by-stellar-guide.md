@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel 2021 Workbook Issue Fix 2024
-date: 2024-09-20T05:36:58.049Z
+date: 2024-12-12T01:14:27.648Z
 tags: 
   - repair
   - repair excel
@@ -22,18 +22,15 @@ It is easy to work with Microsoft Excel but sometimes, the application may creat
 
 ## Let’s take a look at the issue of Unable to Save Excel Workbook
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Instance 1:**
 
 In an organization, users connected to one of the servers (Windows 2008 R2) using Citrix – a Terminal Server configured with Windows 2008 R2 –and accessed their data through a File Server, also configured with Windows 2008R2. Since the connectivity to Shared Drive was established through a Terminal server, any conflict amongst the server configuration may create conflict in shared file.
 
 This issue was discussed at length at one of the [Tech Forums](https://community.spiceworks.com/topic/371563-excel-document-not-saved-issue), where the users were unable to access their workbooks stored on the shared drive. The File menu did not work. As a result, the users were forced to save the workbook by creating quick access shortcuts or locally on the desktop. In many cases, the saving option was ruled out completely.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Instance 2:**
 
@@ -49,19 +46,16 @@ Figure: Unable to Save Excel WorkBook Issue
 
 **Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
 
 1. The issue was detected in Microsoft Office Professional Plus 2010 32-bit, Service Pack 14.0.6029.1000.
 2. Excel version on the user system may or may not match with Excel version on File server.
 3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
 4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
 
@@ -86,13 +80,6 @@ If multiple users are unable to access their workbooks stored on the shared driv
 
 ![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure: Edit Registry
 
 2. You are prompted for the administrator password or for a confirmation, type the password, or click Continue
@@ -112,6 +99,10 @@ Figure: Create new key
 
 !['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: File parameters
 
 6. Right-click Parameters, point the cursor to New, and click DWORD (32-bit) Value
@@ -124,11 +115,19 @@ Figure: File parameter (DWORD – 32 bit) value
 
 ![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: Modify format database
 
 8. In the Value data box, type ‘1’, and click ‘OK’
 
 ![Image of Value Data set as 1 in the Value data box 1 after clicking on "Modify..."](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/value-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure: Value data
 
@@ -136,10 +135,7 @@ Figure: Value data
 10. Restart the system and verify if the files can be saved now
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Try Google Uploads
@@ -161,13 +157,6 @@ If the user is unable to save the changes after editing in a locally saved sprea
 
 ![Image of Open and Repair built-in utility in the browse window.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Open-and-Repair-1024x549.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure: Illustrates Steps to use ‘Open and Repair’ method
 
 The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
@@ -188,10 +177,7 @@ See the working of the software which has been declared as a tool that provides 
 The **Excel repair software** takes care to save the repaired data in a new file to minimize the chances of further corruption.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -221,5 +207,24 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-perfect-pairing-of-xbox-and-zooming-techniques-for-gaming/"><u>[Updated] The Perfect Pairing of Xbox and Zooming Techniques for Gaming</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unveiling-the-simple-path-to-video-conversations-on-snapchat/"><u>[Updated] Unveiling the Simple Path to Video Conversations on Snapchat</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/decrypting-privacy-efficient-methods-for-retrieving-mac-passwords-via-keychain/"><u>Decrypting Privacy: Efficient Methods for Retrieving Mac Passwords via Keychain</u></a></li>
+<li><a href="https://win11.techidaily.com/elevate-windows-1011-ui-install-portable-menu-extensions/"><u>Elevate Windows 10/11 UI: Install Portable Menu Extensions</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-elevate-your-content-with-professional-end-screen-templates/"><u>In 2024, Elevate Your Content with Professional End Screen Templates</u></a></li>
+<li><a href="https://fox-info.techidaily.com/masterful-examples-of-3d-font-art-available-from-these-9-web-destinations/"><u>Masterful Examples of 3D Font Art Available From These 9 Web Destinations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Methods to Change GPS Location On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2010-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2010</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-s23-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - S23</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-15-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-motorola-moto-g73-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Motorola Moto G73 5G</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Hot 40 Pro | Dr.fone</u></a></li>
+</ul></div>
 

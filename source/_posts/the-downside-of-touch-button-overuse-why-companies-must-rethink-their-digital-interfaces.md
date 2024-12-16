@@ -1,7 +1,7 @@
 ---
 title: "The Downside of Touch Button Overuse: Why Companies Must Rethink Their Digital Interfaces"
-date: 2024-10-31T00:36:43.884Z
-updated: 2024-11-04T02:09:05.725Z
+date: 2024-12-09T00:33:37.616Z
+updated: 2024-12-16T04:34:39.919Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6caf
 
 ## The Downside of Touch Button Overuse: Why Companies Must Rethink Their Digital Interfaces
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Capacitive touch buttons introduce usability issues in terms of responsiveness and lack of feedback.
@@ -18,13 +22,6 @@ thumbnail: https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6caf
 * Some companies abandoned touch for physical buttons due to issues with usability over a decade ago.
 
  Capacitive touch buttons trade usability for reliability, but I’m not convinced that’s a price worth paying considering the myriad of problems they introduce.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Problem With Capacitive Touch Buttons
 
@@ -47,10 +44,7 @@ thumbnail: https://thmb.techidaily.com/01214d410faf08a8a9dafcfa23316cefdeb8c6caf
 ![Touch interface on an AEG washing machine.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/img_1851.jpeg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -58,13 +52,6 @@ Tim Brookes / How-To Geek
  Induction stoves are quite possibly the best stoves you can buy. They’re energy-efficient, responsive, don’t fill the kitchen with [volatile organic compounds](https://mondly-stories.techidaily.com/charming-charms-italian-love-lingo-guide/), and with solar power can effectively allow you to cook for free. So why are manufacturers so obsessed with touch controls? I’m hoping I can find a good induction stove with chunky tactile knobs when it’s time to replace the gas stove in my kitchen.
 
  And then there are all the niche items, like my $60 [Hario drip coffee scales](https://www.amazon.com/Hario-VSTN-INT-2000B-Coffee-Scale-Black/dp/B0CBVZTNGD/?tag=hotoge-20&ascsubtag=UUhtgUeUpU2002430&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftouch-buttons-are-terrible-companies-need-to-stop-putting-them-on-everything%2F&asc%5Fcampaign=Evergreen). Nothing’s better than splashing hot water onto a scale designed specifically with liquids in mind only to have it reset and behave erratically until you dry it out. I’ve already committed to spending more on physical buttons when this thing finally gives up the ghost.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Why Are Touch Buttons Used So Much?
 
@@ -75,10 +62,7 @@ Tim Brookes / How-To Geek
 ![iPhone 8 with a capacitive Home button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/iphone_8_capacitive.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
@@ -89,6 +73,10 @@ Tim Brookes / How-To Geek
 
  I would prefer to replace a faulty button on my washing machine and avoid a miserable user experience for the lifespan of the appliance. Every time I put on a load of laundry I’m reminded that I bought the “wrong” washing machine, except I probably didn’t because every manufacturer seems to use them at this point.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Some Manufacturers Ditched Touch for a Reason
 
  Fortunately, not all manufacturers still think touch buttons are a good idea. For some, they fell out of favor several generations ago when lessons were learned about their usefulness.
@@ -96,6 +84,10 @@ Tim Brookes / How-To Geek
  The original PlayStation 4, released in early 2013 featured capacitive touch buttons for both power and disc eject. This model was plagued by touch-related issues. Speaking from experience, sometimes the console wouldn’t power up because the buttons didn’t always detect input. Sometimes the buttons would _always_ detect input, leading to a constant screeching from the console.
 
 ![A PlayStation 4 console being turned on using the touch power button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/ps4_touch.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tim Brookes / How-To Geek
 
@@ -124,24 +116,19 @@ Tim Brookes / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-iphones-secret-to-time-extended-videography/"><u>[New] In 2024, IPhone's Secret to Time-Extended Videography</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-comparing-magix-audio-tools/"><u>[Updated] 2024 Approved Comparing MAGIX Audio Tools</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-easy-customization-free-youtube-visual-templates/"><u>[Updated] In 2024, Easy Customization Free YouTube Visual Templates</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unlocking-youtubes-monetization-secrets-for-successful-crews/"><u>[Updated] Unlocking YouTube’s Monetization Secrets for Successful Crews</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-revolution-how-chatgpt-might-disrupt-the-workforce-landscape/"><u>AI Revolution: How ChatGPT Might Disrupt the Workforce Landscape</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722968123032-effortless-installation-get-your-zebra-gk420d-driver-downloaded-today/"><u>Effortless Installation: Get Your Zebra GK420D Driver Downloaded Today</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a18-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A18 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-spark-go-2024-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Spark Go (2024) Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco F5 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-v30-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo V30 to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro Max Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oppo-reno-10-proplus-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Oppo Reno 10 Pro+ 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to trade pokemon go from far away On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-poco-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Poco</u></a></li>
-<li><a href="https://techidaily.com/solved-bad-and-corrupt-videos-that-wont-play-on-nokia-c110-by-stellar-video-repair-mobile-video-repair/"><u>Solved Bad and Corrupt Videos that won't Play on Nokia C110</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-synergy-between-chatbots-and-writers-enhancing-content-craftsmanship-through-ai/"><u>The Synergy Between Chatbots and Writers: Enhancing Content Craftsmanship Through AI</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-galaxy-f04-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Galaxy F04</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-select-your-perfect-outro-soundtrack-online-for-free/"><u>[Updated] In 2024, Select Your Perfect Outro Soundtrack Online For Free</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-limelight-rhythms-the-creme-de-la-crop-of-yt-short-scores/"><u>[Updated] Limelight Rhythms The Crème De La Crop of YT Short Scores</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-seeing-my-friends-video-and-pics-on-chat-apps/"><u>2024 Approved Seeing My Friends' Video and Pics on Chat Apps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-mini-blacklist-removal-tips-and-tools-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 mini Blacklist Removal Tips and Tools</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-m14-5g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy M14 5G Phone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-70-lite-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 70 Lite 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-tecno-phantom-v-fold-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Tecno Phantom V Fold to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-leading-6-social-sites-for-enterprise-communication/"><u>In 2024, Leading 6 Social Sites for Enterprise Communication</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-s18-by-fonelab-android-recover-music/"><u>The way to get back lost music from S18</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-how-to-correct-a-lost-or-non-existent-normalizdll-error/"><u>Troubleshooting: How to Correct a Lost or Non-Existent Normaliz.dll Error</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-k11-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo K11 5G.</u></a></li>
 </ul></div>
 

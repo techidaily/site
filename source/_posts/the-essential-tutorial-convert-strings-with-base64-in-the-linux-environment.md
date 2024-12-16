@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2024-12-04T21:24:38.630Z
-updated: 2024-12-09T21:10:56.418Z
+date: 2024-12-09T19:04:24.563Z
+updated: 2024-12-15T20:09:15.788Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 Want to learn how to encode and decode strings using the base64 binary-to-text scheme? This tutorial will show you two methods to encode and decode a string on Linux using the base64 command and the Python programming language.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where Is base64 Used?
@@ -27,10 +27,6 @@ Want to learn how to encode and decode strings using the base64 binary-to-text s
 
  What you should know is that base64 is only an encoding scheme. The encoded data can be easily decoded to get the original data back. You should never use it if you need to [encrypt data instead](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g54-5g-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Encoding a String Using the base64 Command
 
  The most basic way to encode a string using base64 is to output it to the terminal using [the echo command](https://facebook.techidaily.com/cut-out-controversy-refresh-your-feed-focus/). The trick is to [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) of the echo command to base64, like this:
@@ -38,6 +34,10 @@ Want to learn how to encode and decode strings using the base64 binary-to-text s
 echo 'I love Linux' | base64
 
 ![The Linux terminal showing the process of encoding a string](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Because of the default behavior of the echo command, there's a trailing newline character at the end of the string. If you'd like to omit that and only use the string, run:
 
@@ -60,7 +60,7 @@ base64 <<< 'I love Linux'
  Similar to the echo command, here-strings also add a newline character at the end of the string.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Encoding Files Using the base64 Command
@@ -96,13 +96,13 @@ base64 -d <<< SG93VG9HZWVrCg==
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of here-strings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Sometimes, there might be non-alphanumeric characters in a string. You can ignore those while decoding the string by using the "-i" option.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using Python to Encode and Decode a base64 String
@@ -121,16 +121,16 @@ echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo commandâ€‹â€
 
 ![The Linux terminal showing the process of decoding a base64 string using the Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, the convenient way is to create a Python program that can handle the encoding and decoding by taking user input. First, let's create a program that will encode a string. Here's the encoding code:
 
         `import base64  
 
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Encode the string using base64  
 encoded_string = base64.b64encode(input_string.encode('utf-8'))  
@@ -149,13 +149,13 @@ python3 base64_encoder.py
 
 ![The Linux terminal showcasing the process of encoding a string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
         `import base64  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Get input base64 string from the user  
 encoded_string = input("Enter the Base64 string to decode: ")  
@@ -174,7 +174,7 @@ python3 base64_decoder.py
 ![The Linux terminal displaying the process of decoding a base64 string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can use these Python programs to encode and decode any strings.
@@ -198,24 +198,17 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-from-ordinary-to-outstanding-crafting-unique-shorts-thumbnails/"><u>[New] 2024 Approved From Ordinary to Outstanding Crafting Unique Shorts Thumbnails</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-maximizing-engagement-with-proper-yt-thumbnail-size/"><u>2024 Approved Maximizing Engagement with Proper YT Thumbnail Size</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/efficiently-archive-social-media-videos-with-top-5-pick-for-2024/"><u>Efficiently Archive Social Media Videos with Top 5 Pick for 2024</u></a></li>
-<li><a href="https://os-tips.techidaily.com/exploring-apples-classical-playlist-a-wealth-of-melodies-at-exceptional-prices/"><u>Exploring Apple's Classical Playlist: A Wealth of Melodies at Exceptional Prices</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-plus-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Plus Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/guide-your-way-through-uptime-verification-in-windows-11-with-these-tips/"><u>Guide Your Way Through Uptime Verification in Windows 11 with These Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-nokia-g42-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia G42 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y56-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y56 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-camon-30-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Camon 30 Pro 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-inshot-vs-competitors-a-detailed-video-app-review/"><u>In 2024, InShot vs Competitors A Detailed Video App Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-x100-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo X100 Location | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-vivo-t2-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Vivo T2 5G? Fixed | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/joining-live-shows-a-tiktok-perspective-for-2024/"><u>Joining Live Shows A TikTok Perspective for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/premium-camcorder-brands-for-clear-footage/"><u>Premium Camcorder Brands for Clear Footage</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-reno-11-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Reno 11 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-redmi-12-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Redmi 12 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-8-plus-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8 Plus screen lock without passcode</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-top-10-tools-to-perfect-your-igtv-edits/"><u>[New] 2024 Approved Top 10 Tools to Perfect Your IGTV Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-get-it-right-a-beginners-guide-to-iphone-screen-shots/"><u>[New] Get It Right A Beginner's Guide to iPhone Screen Shots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/avigating-youtube-submission-with-imovie-files/"><u>[New] Navigating YouTube Submission with iMovie Files</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-earthy-editing-free-screen-templates-that-elevate-video-creation-skills/"><u>2024 Approved Earthy Editing Free Screen Templates that Elevate Video Creation Skills</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-v30-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo V30 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/assessing-video-file-size-in-a-days-watching/"><u>Assessing Video File Size in a Day's Watching</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/elevate-your-gaming-with-fbx-capture-pro-for-2024/"><u>Elevate Your Gaming with FBX Capture Pro for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/top-5-infinix-smart-8-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Infinix Smart 8 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78t | Dr.fone</u></a></li>
 </ul></div>
 

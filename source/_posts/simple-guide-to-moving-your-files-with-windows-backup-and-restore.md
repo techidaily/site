@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Moving Your Files with Windows Backup & Restore
-date: 2024-12-08T18:01:34.383Z
-updated: 2024-12-09T22:30:13.195Z
+date: 2024-12-12T22:47:27.507Z
+updated: 2024-12-15T18:51:36.368Z
 tags:
   - deals
 categories:
@@ -18,10 +18,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Sign in to your Microsoft account to use Windows Backup for an easy transfer process.
@@ -29,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Backup your old PC, then restore the data to your new PC after signing in with your Microsoft account.
 
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 1: Sign in to Your Microsoft Account
 
@@ -38,16 +38,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 !['Settings' typed into the taskbar search box and the 'Settings' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, click "Accounts" and follow the on-screen instructions to sign in.
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 2: Manage Your Backup Settings
@@ -55,10 +51,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -75,6 +67,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To open Windows Backup, type **Backup** into your taskbar search box, and click "Windows Backup."
 
 !['Backup' is typed into the taskbar search box, and the 'Windows Backup' option is highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/open-windows-backup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the Windows Backup dialog box, you'll see the different things you can include in your transfer. Click the drop-down arrows next to each section to choose which folders, apps, settings, and credentials you want to transfer to your new computer.
 
@@ -93,10 +89,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 4: Restore to Your New PC
@@ -128,16 +128,22 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-how-to-optimize-your-presence-on-spotify-ads/"><u>[Updated] In 2024, How to Optimize Your Presence on Spotify Ads</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-ink-your-photos-leading-apps-for-captioning-iosandroid/"><u>2024 Approved Ink Your Photos Leading Apps for Captioning (iOS/Android)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-features-of-the-samsung-galaxy-a20-best-android-device-on-a-budget/"><u>Exploring the Features of the Samsung Galaxy A20 - Best Android Device on a Budget</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-xs-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By Apple iPhone XS Max without the Previous Owner?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-honor-play-40c-by-drfone-android/"><u>In 2024, How to Bypass FRP from Honor Play 40C?</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2000-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2000 Online with DigiSigner</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elite-chart-conversion-apps/"><u>[Updated] 2024 Approved Elite Chart Conversion Apps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-guide-to-understanding-android-lightroom-for-2024/"><u>[Updated] The Ultimate Guide to Understanding Android Lightroom for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-harmonizing-audio-with-visuals-in-the-webspace/"><u>2024 Approved Harmonizing Audio with Visuals in the Webspace</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-youtube-video-composition-techniques/"><u>2024 Approved Mastering YouTube Video Composition Techniques</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-sony-xperia-5-v-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a1-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A1 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y56-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y56 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-samsung-galaxy-z-fold-5-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Samsung Galaxy Z Fold 5 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-v27-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo V27 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/movavis-gratis-web-convertidor-para-transformar-arquivos-ogg-em-imagens-animadas-gif/"><u>Movavi's Gratis Web Convertidor Para Transformar Arquivos .ogg Em Imagens Animadas .gif</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-top-animation-tools-a-step-by-step-guide-to-bringing-your-drawings-to-life/"><u>New 2024 Approved Top Animation Tools A Step-by-Step Guide to Bringing Your Drawings to Life</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2000-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2000 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steer-clear-of-danger-learn-how-the-google-bard-app-poses-malware-risks/"><u>Steer Clear of Danger: Learn How the Google Bard App Poses Malware Risks</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-c110-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from C110.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-reno-11-pro-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo Reno 11 Pro 5G.</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oneplus-ace-2v-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from OnePlus Ace 2V</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/tga-jpg-png-gif/"><u>무료 인터넷 연결으로 TGA이미지를 JPG, PNG, GIF로 자주 바꾸기: 모바비</u></a></li>
 </ul></div>
 

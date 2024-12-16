@@ -1,7 +1,7 @@
 ---
 title: "Revolutionize Recycling: 13 Ingenious Ways to Repurpose Your Retired Android Smartphone"
-date: 2024-12-03T22:57:27.578Z
-updated: 2024-12-10T01:26:34.902Z
+date: 2024-12-12T18:02:15.169Z
+updated: 2024-12-16T02:24:15.425Z
 tags:
   - mobile
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  If you have an old Android phone or two lying around your house collecting dust, this article is for you. Phones are versatile devices that can do just about anything, so there's no need to buy specialized gadgets when an old phone does the trick.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1  Repurpose It as a Storage Device 
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
  One of the most versatile ways to use a phone is as a storage device in place of an external drive. Sure, USB sticks are small and inexpensive, and [external SSDs](https://facebook-videos.techidaily.com/updated-in-2024-how-to-engage-fans-through-real-time-streams-mobile-edition/) can reach insanely fast transfer speeds, but they also cost money to buy, whereas you already have an old phone. Plus, they don't usually support Bluetooth or Wi-Fi for wireless transfers or screens and speakers to show and play your stored media.
 
  You probably won't get a lot of mileage from a 16GB phone, but even a 32GB phone can [store](https://www.kingston.com/en/memory-cards/storage-chart) 26,786 12MP photos, 10,417 songs that are 3MB each, or 168 minutes of 1080p video. The real-world numbers would be slightly lower since the operating system takes up a few gigabytes, but those are still substantial numbers. Not to mention that many old Android phones have SD card slots, allowing you to [expand the storage](https://some-skills.techidaily.com/updated-thankful-discoveries-unlimited-outro-options/) significantly.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2  Use It as a Mini Smart Speaker 
 
@@ -55,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  There are [tools and apps you can use](https://extra-tips.techidaily.com/exclusive-android-3d-video-enthusiasts-choice/) to manage what your kids can do on their phones and how much they can use it. This way, your child can have a way to contact you without getting glued to their screen. Old phones also make for pretty decent [cameras for kids](https://article-helps.techidaily.com/new-maximize-your-iphone-xs-selfie-potential-top-free-apps-for-2024/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Use It as a TV Remote and Streaming Device 
 
  Many old Android phones have [IR blasters](https://tech-renaissance.techidaily.com/ultimate-tips-for-successfully-playing-pokemon-unite-online/), meaning you can use them as a traditional remote for devices with IR sensors, like TVs. If your old phone doesn't have one, you can still connect it to your smart TV and use [screen mirroring](https://extra-information.techidaily.com/photoshops-jiggle-minimizing-effective-or-overstated/) to watch a TV show.
@@ -69,29 +61,33 @@ thumbnail: https://thmb.techidaily.com/7d102d0691badd35a594ab43f1d9c5d7fc8e7e61f
 
  I'm all in favor of retrofitting touchscreens in old cars to get modern features like Android Auto, Google Maps, and Spotify. However, if you don't want to spend money on a car stereo and spend several hours figuring out the wiring, just hook up an old phone to the stereo. The phone can [double as a dash cam](https://remote-screen-capture.techidaily.com/in-2024-live-stream-to-screen-seamlessly-reviewed/), so if it's plugged in, it can act as a permanent multimedia solution for your car that doesn't rely on your main phone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Strap It to Your Bicycle 
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240615_124052773-2-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
  If you want the [Android Auto experience on your bicycle](https://games-able.techidaily.com/top-tier-games-subscription-matchup-psplus-vs-xbox-game-pass/), just use your old Android phone. This way, you won't damage your main phone in the case of an accident, and the constant vibrations won't break your camera's optical image stabilization (OIS).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 7  Leave It in Your Kitchen 
 
  A [kitchen tablet](https://facebook-video-content.techidaily.com/new-facebook-videos-vertical-or-horizontal-in-2024/) or phone left permanently on a phone holder above your counter is the best way to find and follow recipes or just watch YouTube. Simply [set the screen timeout](https://facebook-record-videos.techidaily.com/new-in-2024-10-free-youtube-thumbnail-downloaderssavers-online-download-youtube-thumbnail/) to 30 minutes and create a home screen dedicated to your favorite cooking apps and websites. You'll always have a device ready to go in an instant, and the best part is that you won't even care if you get tomato sauce all over the screen.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8  Use It as a PC Webcam 
 
 ![Woman in a meeting on a laptop using a phone as a webcam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ditch-the-webcam-i-use-my-android-phone-camera-to-look-better-on-video-calls.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/view-over-businesslady-shoulder-seated-workplace-1704165919) / Shutterstock
 
@@ -107,11 +103,19 @@ Lucas Gouveia / How-To Geek | [fizkes](https://www.shutterstock.com/image-photo/
 
 ![Android phone with gaming controller.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/android-phone-gaming-controller.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jason Montoya / How-To Geek
 
  If you don't want to spend money on a [dedicated handheld](https://hardware-updates.techidaily.com/latest-logitech-speaker-drivers-for-windows-download-now-pc-version-1178/), an old phone can do the trick. Granted, there's a strong argument in favor of using your main phone as a handheld, but the old phone can be more convenient if you want to attach a [game controller](https://www.amazon.com/Controller-Android-Wireless-PlayStation-Minecraft-iOS/dp/B0CVZZNZQM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003775&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fthings-to-do-with-an-old-android-phone%2F&asc%5Fcampaign=Evergreen) permanently to the phone. Your old phone is probably smaller, so it's more portable, and you can be more careless with it when you travel.
 
  Offloading a couple of games and emulators to the old phone also saves on storage. Not playing games on your main phone also means a longer battery life and no annoying notifications.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 11  Use It as a PC Media or DAW Controller 
 
@@ -122,10 +126,6 @@ Jason Montoya / How-To Geek
 ## 12  Transform It Into a Picture Frame or Calendar 
 
  Extremely slow Android phones and tablets are the perfect [digital photo frame](https://youtube-help.techidaily.com/2024-approved-the-monetary-journey-of-ajey-nagar-on-youtube/). If your old phone is so old and laggy that you can't use it for anything functional, you can at least use it as a decorative piece because it doesn't demand any advanced processing. Place it on a stand, plug it in to charge, and turn on a photo gallery app that supports slideshows (either from the cloud or device storage), such as [Fotoo](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU2003775/https://play.google.com/store/apps/details?id=com.bo.fotoo&cjevent=119f1894380a11ef80b07fba0a18ba74).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 13  Sell It 
 
@@ -148,19 +148,17 @@ Jason Montoya / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ow-to-get-youtube-sponsorship-for-small-channels-easy-for-2024/"><u>[New] How to Get YouTube Sponsorship for Small Channels (Easy) for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-the-art-of-audio-amalgamation-in-vimeo-videos/"><u>[Updated] 2024 Approved The Art of Audio Amalgamation in Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-a-profitable-youtube-content-strategy/"><u>[Updated] In 2024, Crafting a Profitable YouTube Content Strategy</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-oppo-a79-5g-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Oppo A79 5G</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/free-fast-skype-to-mp3-guide-for-call-recorders-for-2024/"><u>Free, Fast Skype to MP3 Guide for Call Recorders for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/grundlegende-tipps-zum-klonen-und-kopieren-von-vmdk-dateien-in-vmware-eine-umfassende-anleitung-fur-den-exportvorgang/"><u>Grundlegende Tipps Zum Klonen Und Kopieren Von VMDK-Dateien in VMware: Eine Umfassende Anleitung Für Den Exportvorgang</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-correct-vertical-line-display-problems-in-your-samsung-flat-panel-tv/"><u>How to Correct Vertical Line Display Problems in Your Samsung Flat Panel TV</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-nokia-105-classic-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia 105 Classic phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/innovating-flight-training-with-x-plane-amoeba-11-top-tier-graphics-unveiled/"><u>Innovating Flight Training with X-Plane Amoeba 11 – Top-Tier Graphics Unveiled</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix on Mac</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-y36i-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Y36i</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1161986-9781577313397-small-graces/"><u>Small Graces | Free Book</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-smart-7-hd-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-evolutionary-path-from-novice-to-expert-in-audio-recording-for-film/"><u>2024 Approved The Evolutionary Path From Novice to Expert in Audio Recording for Film</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/brightening-videos-android-tips/"><u>Brightening Videos Android Tips</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-v30-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme V30 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Realme GT 3? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-9-proplus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 9 Pro+ Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-ideal-7-video-players-for-apple-devices/"><u>In 2024, Ideal 7 Video Players for Apple Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/aging-branding-skills-skyrocketing-your-youtube-subscriber-base/"><u>Leveraging Branding Skills Skyrocketing Your YouTube Subscriber Base</u></a></li>
+<li><a href="https://discover-best.techidaily.com/premium-high-res-avengers-decor-for-screens-yl-software-collection/"><u>Premium High-Res Avengers Decor for Screens - YL Software Collection</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-tecno-spark-20-proplus-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor</u></a></li>
 </ul></div>
 

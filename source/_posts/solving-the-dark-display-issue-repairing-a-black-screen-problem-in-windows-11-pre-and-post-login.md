@@ -1,7 +1,7 @@
 ---
 title: "Solving the Dark Display Issue: Repairing a Black Screen Problem in Windows 11 Pre and Post Login"
-date: 2024-12-02T19:51:40.637Z
-updated: 2024-12-10T02:05:15.451Z
+date: 2024-12-10T21:53:41.480Z
+updated: 2024-12-15T16:52:20.534Z
 tags:
   - deals
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ## Solving the Dark Display Issue: Repairing a Black Screen Problem in Windows 11 Pre and Post Login
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Fix a Black Screen That Appears Before You Log In](https://extra-resources.techidaily.com/beyond-the-screen-metaverse-vs-omniverse-dissected-for-2024/)
 * [How to Fix a Black Screen That Appears After You Log In](https://techno-recovery.techidaily.com/graphics-card-capability/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,13 +30,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
  Common contributing factors to a black screen include a loose HDMI connection, a buggy Windows update, or issues with the graphics driver. Here's how to fix the problem.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Fix a Black Screen That Appears Before You Log In
 
  If the black screen appears before you sign in to your computer, run through these fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  1\. Check Your Display/Monitor and Connections
 
@@ -54,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Settings App With the Display Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-app-with-the-display-option-2.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  All the available monitors will appear at the top of the display page. Click "Identify" to identify your laptop display.
 
  Select the display you want to set as your primary display and click to expand the "Multiple display" option. Select "Make this my main display" to set your laptop display as the main display.
@@ -65,6 +61,10 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Settings App Multiple Display Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-settings-app-multiple-display-settings-1.jpg) 
 
  Now that you can sign in, [troubleshoot your second monitor for connection issues](https://hardware-tips.techidaily.com/level-up-your-game-with-our-top-pick-dell-s3222dgm-gaming-display-now-at-an-all-time-low-grab-it-for-229/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  3\. Run Startup Repair
 
@@ -75,7 +75,7 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 * **If your computer doesn't get to the sign in screen:** Turn your computer on and immediately start pressing the F11 key until you see the recovery screen. If this doesn't work, try a different function key, as it can vary depending on the computer manufacturer. For example, other manufacturers may use F2, F8, F12, and so on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the Choose an Option screen, click "Troubleshoot."
@@ -100,13 +100,13 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Recovery Menu Uninstall Updates Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-uninstall-updates-option-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Finally, click "Uninstall quality update" and wait for Windows to complete the process. Once done, click "Close" to view the "Choose an option" screen, then click "Continue".
 
 ![Windows 11 Recovery Menu Uninstall Quality Updates Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-uninstall-quality-updates-screen-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  5\. Perform a System Restore
 
@@ -128,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 Recovery Menu System Restore Affected Programs Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-affected-programs-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Next" when you are ready.
 
 ![Windows Select System Restore Point Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-select-system-restore-point-screen.png) 
@@ -137,10 +141,6 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Recovery Menu System Restore Finish Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-system-restore-finish-option-1.jpg) 
 
  System Restore will restart your computer and initialize the process. This process may take a few minutes to complete, so wait until your computer boots normally. If it fails, try again with a different restore point.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  6\. Boot Into Safe Mode
 
@@ -155,7 +155,7 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 ![Windows 11 Recovery Menu Startup Settings Restart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-recovery-menu-startup-settings-restart-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Press 5 on your keyboard to "Enable Safe Mode with Networking." Your computer will now restart with Safe Mode enabled, then sign in with your account password if prompted.
@@ -166,16 +166,12 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![Windows 11 in Safe Mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-in-safe-mode.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Fix a Black Screen That Appears After You Log In
 
  Fixing a blank screen that occurs after signing in is relatively straightforward. If you see a black screen after signing in, here are a few fixes to try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  1\. Wake Your Screen Using Keyboard Shortcuts
@@ -202,12 +198,16 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 ![WIndows 11 Device Manager Uninstall Display Adapter With Driver](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-device-manager-uninstall-display-adapter-with-driver-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the driver is uninstalled, in Device Manager, right-click on "Display adapters" and select "Scan for hardware changes." Windows will scan your computer for connected hardware and reinstall the necessary display driver.
 
 ![Windows 11 Device Manager Scan For Hardware Changes Option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-11-device-manager-scan-for-hardware-changes-option-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -229,20 +229,18 @@ thumbnail: https://thmb.techidaily.com/10f40441e17c1fa8de82fe459b0ca66adaa7f77ee
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-high-definition-hardware-unveiled-by-gamers-for-2024/"><u>[Updated] High-Definition Hardware Unveiled by Gamers for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-screen-saga-a-thousand-stories-one-channel-at-a-time/"><u>[Updated] In 2024, Screen Saga A Thousand Stories, One Channel at a Time</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-distinctive-digital-monikers-for-video-creators/"><u>2024 Approved Distinctive Digital Monikers for Video Creators</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-endurance-elevated-discover-top-long-flight-drones/"><u>2024 Approved Endurance Elevated Discover Top Long-Flight Drones</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-the-art-of-crafting-text-memes-quickly/"><u>2024 Approved The Art of Crafting Text Memes Quickly</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-smart-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Smart 7 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210193888-9780578830605-christ-renewed-everything-about-me/"><u>CHRIST RENEWED EVERYTHING ABOUT ME | Free Book</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/configuring-proxies-on-windows-11-pc/"><u>Configuring Proxies on Windows 11 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c110-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C110 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-redmi-13c-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Redmi 13C</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-game-launchers-for-steam-decks/"><u>The Ultimate Guide to Game Launchers for Steam Decks</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g-5g-2023-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G 5G (2023) Reset Code | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-addressing-serious-bugs-and-crashes-in-black-ops-4/"><u>Troubleshooting Steps: Addressing Serious Bugs and Crashes in Black Ops 4</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-finding-premium-free-music-without-breaking-copyrights-for-2024/"><u>[New] Finding Premium, Free Music Without Breaking Copyrights for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-searching-skills-unlock-additional-free-filters/"><u>[New] Instagram Searching Skills – Unlock Additional Free Filters</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-boosting-obs-streams-direct-to-facebook-feed/"><u>[Updated] Boosting OBS Streams Direct to Facebook Feed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-how-to-save-or-record-periscope-videos-complete-guide/"><u>[Updated] In 2024, How to Save or Record Periscope Videos Complete Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-quality-improvement-for-skype-video-calls/"><u>[Updated] Quality Improvement for Skype Video Calls</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/how-can-i-evaluate-my-data-restoration-procedure-with-yl-computings-tools/"><u>How Can I Evaluate My Data Restoration Procedure with YL Computing's Tools?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-y200-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo Y200 Phones</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-fix-bypassing-the-components-not-found-issue-on-w10w11/"><u>Quick Fix: Bypassing the Components Not Found Issue on W10/W11</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-g310-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia G310.</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-guide-to-high-quality-wav-conversion-top-dvd-ripper-tools/"><u>Ultimate Guide to High-Quality WAV Conversion: Top DVD Ripper Tools</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 </ul></div>
 

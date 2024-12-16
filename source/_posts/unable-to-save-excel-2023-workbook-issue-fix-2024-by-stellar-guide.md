@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel 2023 Workbook Issue Fix 2024
-date: 2024-09-20T16:11:36.105Z
+date: 2024-12-08T23:04:34.115Z
 tags: 
   - repair
   - repair excel
@@ -22,13 +22,6 @@ It is easy to work with Microsoft Excel but sometimes, the application may creat
 
 ## Let’s take a look at the issue of Unable to Save Excel Workbook
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Instance 1:**
 
 In an organization, users connected to one of the servers (Windows 2008 R2) using Citrix – a Terminal Server configured with Windows 2008 R2 –and accessed their data through a File Server, also configured with Windows 2008R2. Since the connectivity to Shared Drive was established through a Terminal server, any conflict amongst the server configuration may create conflict in shared file.
@@ -36,10 +29,7 @@ In an organization, users connected to one of the servers (Windows 2008 R2) usin
 This issue was discussed at length at one of the [Tech Forums](https://community.spiceworks.com/topic/371563-excel-document-not-saved-issue), where the users were unable to access their workbooks stored on the shared drive. The File menu did not work. As a result, the users were forced to save the workbook by creating quick access shortcuts or locally on the desktop. In many cases, the saving option was ruled out completely.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Instance 2:**
@@ -47,6 +37,10 @@ This issue was discussed at length at one of the [Tech Forums](https://community
 A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/unable-to-save-workbook-in-microsoft-excel?lang=en) was reported, wherein the users received an error when saving an Excel workbook after inserting a chart in an existing workbook (previously saved) or copying values from an existing workbook. A system is configured with Windows 7 and Microsoft Office 10 configuration. The issue arises when the user is unable to save the changes after editing in a saved spreadsheet. The following message displays on the screen:
 
 ![Image of Error message while trying to save excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Excel-Error.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure: Unable to Save Excel WorkBook Issue
 
@@ -56,19 +50,16 @@ Figure: Unable to Save Excel WorkBook Issue
 
 **Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
 
 1. The issue was detected in Microsoft Office Professional Plus 2010 32-bit, Service Pack 14.0.6029.1000.
 2. Excel version on the user system may or may not match with Excel version on File server.
 3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
 4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
 
@@ -85,6 +76,10 @@ There may be an issue with the Build version or the Registry Values settings may
 
 Once verified, look for a healthy and restorable backup. If backup is missing, resolve the issue of “Unable to open Excel File” with manual settings on local system or through a reliable Excel repair software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Modify Registry Entries
 
 If multiple users are unable to access their workbooks stored on the shared drive and facing unable to save Excel file problem (see Instance 1 above), then follow the below steps:
@@ -100,13 +95,6 @@ Figure: Edit Registry
 
 ![Image of Registry Editor window, locating the registry subkey](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/CSC-Location.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure: CSC Location
 
 4. Point the cursor to New, and click Key
@@ -119,18 +107,15 @@ Figure: Create new key
 
 !['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: File parameters
 
 6. Right-click Parameters, point the cursor to New, and click DWORD (32-bit) Value
 
 ![Image of selecting DWORD (32-bit) Value under "New" by right clicking on "File Parameters" in the Registry Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/DWORD32bit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure: File parameter (DWORD – 32 bit) value
 
@@ -138,24 +123,15 @@ Figure: File parameter (DWORD – 32 bit) value
 
 ![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure: Modify format database
 
 8. In the Value data box, type ‘1’, and click ‘OK’
 
 ![Image of Value Data set as 1 in the Value data box 1 after clicking on "Modify..."](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/value-data.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure: Value data
 
@@ -184,6 +160,10 @@ If the user is unable to save the changes after editing in a locally saved sprea
 Figure: Illustrates Steps to use ‘Open and Repair’ method
 
 The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Excel File Repair Software
 
@@ -227,5 +207,20 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-sketch-serious-snickers/"><u>[New] 2024 Approved Sketch Serious Snickers</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-x9b-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-monetize-your-collection-top-7-locations-to-sell-vintage-dvds-online/"><u>How to Monetize Your Collection: Top 7 Locations to Sell Vintage DVDs Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-precision-cuts-at-a-touch-select-the-best-short-form-editors/"><u>In 2024, Precision Cuts at a Touch Select the Best Short Form Editors</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-z50-ultra-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Z50 Ultra</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-blade-a73-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Blade A73 5G</u></a></li>
+<li><a href="https://program-issues.techidaily.com/step-by-step-troubleshooting-for-gtfo-software-stability-issues/"><u>Step-by-Step Troubleshooting for GTFO Software Stability Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-freezing-optimizing-fallout-3-for-smooth-gaming-on-windows-10-systems/"><u>Stop Freezing: Optimizing Fallout 3 for Smooth Gaming on Windows 10 Systems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tailored-sizing-for-windows-11-apps-and-profiles/"><u>Tailored Sizing for Windows 11 Apps and Profiles</u></a></li>
+<li><a href="https://article-files.techidaily.com/the-art-of-image-enhancement-pivotal-pixlr-insights-for-2024/"><u>The Art of Image Enhancement Pivotal Pixlr Insights for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-google-pixel-8-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Google Pixel 8 Pro</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Pro Reset Code | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Metaverse Unveiled: Understanding Its Depths Beyond Simple VR Technology"
-date: 2024-10-29T01:24:19.023Z
-updated: 2024-11-04T08:44:56.874Z
+date: 2024-12-12T04:16:53.488Z
+updated: 2024-12-16T01:05:18.110Z
 tags:
   - cutting-edge
 categories:
@@ -13,6 +13,10 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
 ###### [Read update](https://video-screen-grab.techidaily.com/screenstreamer-breaking-down-the-newest-recorder-for-2024/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [The Origins of "Metaverse": Snow Crash](https://video-capture.techidaily.com/updated-in-2024-premier-hd-picks-for-impeccable-video-recorders/)
@@ -21,13 +25,6 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 * [Microsoft and "Digital Twins"](https://win11.techidaily.com/avoid-frustration-fixing-the-missing-print-feature-on-windows/)
 
  Tech CEOs keep talking about "the metaverse." Mark Zuckerberg [insists](https://www.bloomberg.com/news/articles/2021-07-29/mark-zuckerberg-explains-metaverse-vision-to-facebook-fb-investors-analysts) that Facebook will be seen as a "metaverse company" instead of a social media company---so much so that he renamed the company "Meta." Satya Nadella [proclaims](https://www.linkedin.com/pulse/expanding-partner-opportunity-microsoft-cloud-satya-nadella/) Microsoft is creating a "metaverse stack" for the enterprise. We'll explain what's going on, starting with Snow Crash.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  The Origins of "Metaverse": Snow Crash
 
@@ -38,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  If you think this all sounds a bit like [Ready Player One](https://www.amazon.com/Ready-Player-One-Ernest-Cline/dp/0307887448?tag=hotoge-20&ascsubtag=UUhtgUeUpU209169&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2F745807%2Fwhat-is-the-metaverse-is-it-just-virtual-reality-or-something-more%2F&asc%5Fcampaign=Short-Term) or a higher-tech version of [Second Life](https://secondlife.com/), you're right.
 
  In fact, in 2011, Stephenson told [Forbes](https://www.forbes.com/sites/davidewalt/2011/09/19/neal-stephenson-reamde-video-games/) that he saw video games like World of Warcraft as the real metaverse: Virtual worlds you could inhabit with your friends. In 2021, games like Minecraft and Fortnite are perhaps closer to the vision of the metaverse he foresaw.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is the "Metaverse" Just Rebranded Virtual Reality?
 
@@ -50,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 > If you're in an AR application, you are where you are. You're in your physical environment, you're seeing everything around you normally, but there's additional stuff that's being added. So VR has the ability to take you to a completely different fictional place---the kind of thing that's described in the Metaverse in Snow Crash. When you go into the Metaverse, you're on the street, you're in the Black Sun, and your surroundings disappear. In the book, Hiro lives in a shabby shipping container, but when he goes to the Metaverse, he's a big deal and has access to super high-end real estate.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Maybe the Metaverse Is Just the New "Web 2.0"
@@ -75,10 +73,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  When you realize Facebook owns [Oculus](https://www.oculus.com/), the company's desire to strongly push a future VR-based platform makes a lot of sense.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Microsoft and "Digital Twins"
@@ -90,10 +85,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 ![51nbYwWXNuL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51nbywwxnul-_sl500_.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Coined the Term
@@ -121,20 +113,16 @@ Read the classic cyberpunk book that apparently inspired a generation of tech CE
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-transform-your-fb-advertising-simplify-with-a-free-toolkit/"><u>[New] 2024 Approved Transform Your FB Advertising Simplify with a Free Toolkit</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-iphone-tricks-to-embrace-cameras-motion-artistry/"><u>[New] In 2024, IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-top-10-mobile-mobas-for-android-gamers/"><u>[Updated] Top 10 Mobile MOBAs for Android Gamers</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-samsung-galaxy-s24plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://solve-help.techidaily.com/enhancing-visual-appeal-expert-techniques-for-fine-tuning-video-effects-like-a-pro/"><u>Enhancing Visual Appeal: Expert Techniques for Fine-Tuning Video Effects Like a Pro</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-13-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 13 Pro Max Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-harness-analytics-for-live-event-success/"><u>How to Harness Analytics for Live Event Success</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x6-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X6 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-a24-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy A24 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-xr-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone XR Apple ID and Apple Pay</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-reno-10-pro-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Reno 10 Pro 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edge-40-neo-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge 40 Neo Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://discover-exclusive.techidaily.com/winx-media-transfer-pro-top-app-for-moving-photos-and-music-videos-between-your-iphone-ipad-and-computer/"><u>WinX Media Transfer Pro - Top App for Moving Photos and Music Videos Between Your iPhone, iPad & Computer</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-hottest-online-hubs-for-metallic-3d-type-graphics/"><u>[Updated] Hottest Online Hubs for Metallic 3D Type Graphics</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-k11x-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo K11x Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Plus iOS System? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme C51 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-free-and-paid-tools-for-vimeo-video-downloads-for-2024/"><u>Mastering Free & Paid Tools for Vimeo Video Downloads for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-the-legal-landscape-of-youtube-guidelines-for-2024/"><u>Navigating the Legal Landscape of YouTube Guidelines for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-motorola-edge-40-neo-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Motorola Edge 40 Neo, is it possible?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-gametime-with-9-platforms-for-2024/"><u>Streamline Your Gametime with #9 Platforms for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-visual-treasures-top-10-free-image-stores-for-2024/"><u>Unlocking Visual Treasures – Top 10 FREE Image Stores for 2024</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-11-pro-max-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 11 Pro Max is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-13-5g-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi Note 13 5G won’t play MP4 files</u></a></li>
 </ul></div>
 

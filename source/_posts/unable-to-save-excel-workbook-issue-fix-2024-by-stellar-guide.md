@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel Workbook Issue Fix 2024
-date: 2024-09-17T09:22:22.160Z
+date: 2024-12-15T00:07:39.042Z
 tags: 
   - repair
   - repair excel
@@ -21,6 +21,10 @@ keywords: repair excel 2019,repair excel 2010,repair excel,repair excel 2013
 It is easy to work with Microsoft Excel but sometimes, the application may create issues thereby hampering the smooth functioning of the workbook. One such issue is “unable to Save Excel Workbook”.
 
 ## Let’s take a look at the issue of Unable to Save Excel Workbook
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Instance 1:**
 
@@ -43,10 +47,7 @@ Figure: Unable to Save Excel WorkBook Issue
 **Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
@@ -55,6 +56,10 @@ Figure: Unable to Save Excel WorkBook Issue
 2. Excel version on the user system may or may not match with Excel version on File server.
 3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
 4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
 
@@ -79,13 +84,6 @@ If multiple users are unable to access their workbooks stored on the shared driv
 
 ![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure: Edit Registry
 
 2. You are prompted for the administrator password or for a confirmation, type the password, or click Continue
@@ -99,31 +97,21 @@ Figure: CSC Location
 
 ![Image of Registry Window, Right clicking on the subkey 'CSC', hover over "New" and clicking on "Key"](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/New-Key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: Create new key
 
 5. Type ‘File Parameters’ in the available box
 
 !['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure: File parameters
 
 6. Right-click Parameters, point the cursor to New, and click DWORD (32-bit) Value
 
 ![Image of selecting DWORD (32-bit) Value under "New" by right clicking on "File Parameters" in the Registry Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/DWORD32bit.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure: File parameter (DWORD – 32 bit) value
 
@@ -132,10 +120,7 @@ Figure: File parameter (DWORD – 32 bit) value
 ![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure: Modify format database
@@ -149,13 +134,6 @@ Figure: Value data
 9. Exit ‘Registry Editor’
 10. Restart the system and verify if the files can be saved now
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Try Google Uploads
 
 If the user is unable to save the changes after editing in a locally saved spreadsheet (see Instance 2 above), then follow these steps:
@@ -164,6 +142,10 @@ If the user is unable to save the changes after editing in a locally saved sprea
 2. Check if all the formulae are active and working.
 3. Make changes to the Google Sheet and verify that all the changes are working fine.
 4. Use the Google Sheets export feature to download the file in Excel format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Resolve manually with Open and Repair
 
@@ -178,6 +160,10 @@ If the user is unable to save the changes after editing in a locally saved sprea
 Figure: Illustrates Steps to use ‘Open and Repair’ method
 
 The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Excel File Repair Software
 
@@ -221,5 +207,24 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-evaluating-the-financial-returns-for-makers-on-youtube-shorts/"><u>[New] Evaluating the Financial Returns for Maker's on YouTube Shorts</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-photoshops-stabilization-feature-aiding-creativity/"><u>[Updated] Is Photoshop's Stabilization Feature Aiding Creativity?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-infinix-smart-8-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Infinix Smart 8 HD Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-a2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/beyond-the-screen-vr-movie-innovation-for-2024/"><u>Beyond the Screen VR Movie Innovation for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-amd-ryzen-5-2600-gpu-drivers-fastest-way-forward/"><u>Download AMD Ryzen 5 2600 GPU Drivers - Fastest Way Forward</u></a></li>
+<li><a href="https://common-error.techidaily.com/errcachemiss-error-solutions-for-a-smooth-chrome-experience/"><u>ERR_CACHE_MISS Error Solutions for a Smooth Chrome Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-play-7t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/losungen-zur-problemlosung-daten-konnten-nicht-bereinigt-werden-in-windows-10-systemen/"><u>Lösungen Zur Problemlösung 'Daten Konnten Nicht Bereinigt Werden' In Windows 10-Systemen</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-content-structure-elevated-templates-for-yt/"><u>Mastering Content Structure Elevated Templates for YT</u></a></li>
+<li><a href="https://techidaily.com/sign-doc-file-online-add-signature-to-doc-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .doc file Online - Add Signature to .doc file for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-narzo-n53-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Narzo N53</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-huawei-nova-y91-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Huawei Nova Y91 without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A05s? | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/troubleshoot-your-stalled-windows-10-updates-with-these-5-proven-methods/"><u>Troubleshoot Your Stalled Windows 10 Updates with These 5 Proven Methods!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-y78-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Y78 5G</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78 5G | Dr.fone</u></a></li>
+</ul></div>
 

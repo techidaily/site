@@ -1,7 +1,7 @@
 ---
 title: Unable to Save Excel 2003 Workbook Issue Fix 2024 | Stellar
-date: 2024-09-21T02:21:08.370Z
-updated: 2024-09-23T22:06:16.271Z
+date: 2024-12-12T01:57:30.483Z
+updated: 2024-12-16T01:16:03.277Z
 tags: 
   - repair
   - repair excel
@@ -117,6 +117,10 @@ Figure: Value data
 9. Exit ‘Registry Editor’
 10. Restart the system and verify if the files can be saved now
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Try Google Uploads
 
 If the user is unable to save the changes after editing in a locally saved spreadsheet (see Instance 2 above), then follow these steps:
@@ -125,13 +129,6 @@ If the user is unable to save the changes after editing in a locally saved sprea
 2. Check if all the formulae are active and working.
 3. Make changes to the Google Sheet and verify that all the changes are working fine.
 4. Use the Google Sheets export feature to download the file in Excel format.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Resolve manually with Open and Repair
 
@@ -183,6 +180,10 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Corruption in Excel files can hamper workflow, bringing productivity to a halt. And what can be more concerning is that you may lose sensitive data if the corrupt or damaged file is not repaired on time. An Excel file may get corrupted due to various reasons.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Common Reasons Behind Excel File Corruption**
 
@@ -238,13 +239,6 @@ A user has shared how effectively the Stellar Repair for Excel software repaired
 The Excel Repair software got a rating of 4.5/5 on g2.com based on the positive reviews of the users.
 
 ![Stellar Repair for Excel software by g2.com](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/best-excel-repair-software-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - [**Softpedia**](http://www.softpedia.com/get/System/Back-Up-and-Recovery/Stellar-Excel-Recovery-MS-Excel-Repair-Recovery-Software.shtml) **–** **3.5/5**
 
@@ -318,13 +312,6 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
 
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
 
 **Summary:** Excel formulas sometimes fail to function correctly and even return an error. This article explains what you might be doing wrong that prevents Excel formulas from working properly and solutions to resolve the issue. If your formulas have disappeared from the Excel spreadsheet and you are having trouble recovering them, you can use an Excel repair tool to recover the formulas.
@@ -362,6 +349,10 @@ It’s easy to miss or incorrectly place parentheses or include extra parenthese
 
 Clicking ‘Yes’ might help fix the issue. But Excel might not fix the parentheses properly, as it tends to add the missing parentheses at the end of a formula which won’t always be the case.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution – Check for Visual Cues When Typing or Editing a Formula with Parentheses
 
 When typing a formula or editing one, Excel provides visual cues to determine if there’s an issue with the parentheses inserted in a formula. Checking for these visual cues can help you fix missing/mismatched parentheses.
@@ -379,13 +370,6 @@ When adding a number in an Excel formula, don’t add any decimal separator or s
 Use Format Cells instead of using a comma or currency signs for formatting a number in the formula. For instance, rather than entering a value of $10,000 in your formula, insert 10000, and click the ‘Ctrl+1’ keys together to open the Format Cells dialog box.
 
 ![Format Cells Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-3-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Problem 4 – Formatting Numbers as Text
 
@@ -413,19 +397,6 @@ Meaning if you enter a formula like =IF(A1>B1, “1”), Excel will consider the
 ### Solution – Don’t Enclose Numbers in Double Quotes
 
 Remove any double quotes around a number in your formula unless you want that number to be treated as text. For example, you can write the formula mentioned above as “1” =IF(A1>B1, 1).
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Problem 6 – Extra Space at Beginning of the Formula
 
@@ -484,16 +455,13 @@ The Runtime error 424: Object required can occur due to the following reasons:
 - You are trying to perform an invalid action on an object in a code.
 - Workbook is corrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##  **Solutions to Fix Runtime Error 424: Object Required in Excel**
 
 The VBA error ‘object required’ may occur due to different reasons. Based on the reason, you can follow the solutions mentioned below to fix the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Check the Name of the Object**
 
@@ -547,13 +515,6 @@ Sometimes, the ‘Object required’ error can occur if your Excel file is damag
 
 If the Open and Repair utility fails or stops working, then you can try a professional Excel repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It is an advanced tool that can repair severely corrupted Excel files **(.xls, .xlsx, .xltm, .xltx, and .xlsm)**. It helps recover all the file components, including images, charts, tables, pivot tables, cell comments, chart sheets, formulas, etc., without impacting the original structure.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 The Runtime error 424 usually occurs when there is an issue with the objects in your VBA code. In this article, we have covered some effective methods to resolve the “object required” error in Excel. If the error occurs due to corruption in Excel file, then you can repair the corrupt file using Stellar Repair for Excel. It is a reliable tool that can repair severely corrupted Excel file without changing its actual formatting. You can download the free trial version of the software to evaluate its functionality.
@@ -568,9 +529,21 @@ Sometimes, when you type a formula in a cell of worksheet and press Enter, inste
 
 ![Excel not Showing Formula](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 But you should get the result as:
 
 ![Excel Formula Working Sample](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Why Does Excel Show or Display the Formula Not the Result?**
 
@@ -581,6 +554,10 @@ But you should get the result as:
 3. ‘Automatic calculation’ feature in Excel is set to manual.
 4. Excel thinks your formula is text (Syntax are not followed).
 5. You type numbers in a cell with unnecessary formatting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to Fix ‘Excel Showing Formula Not Result’ Issue?**
 
@@ -664,20 +641,11 @@ So today, in this post, I’d like to share with you to everything you need to k
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/introduction.jpg)
 
-**Note**: In this post, we’ll be covering the .xls version (which is the extension for the file which is created in Excel 2007 or the earlier versions) and if you want to know about the new version, [here’s the quick fix](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) for that.
-
 <!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note**: In this post, we’ll be covering the .xls version (which is the extension for the file which is created in Excel 2007 or the earlier versions) and if you want to know about the new version, [here’s the quick fix](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) for that.
 
 ## Why My Excel File Got Corrupted?
 
@@ -831,6 +799,10 @@ And when you update your data you can simply click on the “Calculate Now” an
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/calculate-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Quick Tip:** Beware of Volatile Functions and use them with caution as recalculates them every time you change something in the worksheet.
 
 ### 2\. Use VBA Codes Instead of Formulas
@@ -912,5 +884,19 @@ I’m sure you found this post helpful, and please don’t forget to share this 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-broadcast-battle-obs-against-wirecast/"><u>[New] 2024 Approved Broadcast Battle OBS Against Wirecast</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-tomorrows-teachers-today-through-vr/"><u>[New] Crafting Tomorrow’s Teachers, Today Through VR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-choosing-a-streaming-powerhouse-obs-or-wirecast/"><u>2024 Approved Choosing a Streaming Powerhouse OBS or Wirecast?</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/discover-the-elite-seven-portals-for-watching-movie-trailers-online/"><u>Discover the Elite Seven Portals for Watching Movie Trailers Online</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-solutions-for-a-disappearing-touchpad-cursor-on-windows-11/"><u>Effective Solutions for a Disappearing Touchpad Cursor on Windows 11</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/master-the-art-of-cover-letters-using-ai-tips-from-chatgpt/"><u>Master the Art of Cover Letters Using AI - Tips From ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-a24-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy A24)</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://win-docs.techidaily.com/trasforma-video-quicktime-a-formato-wmv-online-senza-costi-con-movavi/"><u>Trasforma Video QuickTime a Formato WMV Online Senza Costi Con Movavi</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-a38-by-fonelab-android-recover-video/"><u>Undeleted lost videos from A38</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-lava-blaze-2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Lava Blaze 2</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12T Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

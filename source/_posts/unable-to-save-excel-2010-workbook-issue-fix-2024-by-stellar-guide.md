@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel 2010 Workbook Issue Fix 2024
-date: 2024-09-22T00:50:51.575Z
+date: 2024-12-12T01:49:44.546Z
 tags: 
   - repair
   - repair excel
@@ -23,10 +23,7 @@ It is easy to work with Microsoft Excel but sometimes, the application may creat
 ## Let’s take a look at the issue of Unable to Save Excel Workbook
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Instance 1:**
@@ -35,13 +32,6 @@ In an organization, users connected to one of the servers (Windows 2008 R2) usin
 
 This issue was discussed at length at one of the [Tech Forums](https://community.spiceworks.com/topic/371563-excel-document-not-saved-issue), where the users were unable to access their workbooks stored on the shared drive. The File menu did not work. As a result, the users were forced to save the workbook by creating quick access shortcuts or locally on the desktop. In many cases, the saving option was ruled out completely.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Instance 2:**
 
 A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/unable-to-save-workbook-in-microsoft-excel?lang=en) was reported, wherein the users received an error when saving an Excel workbook after inserting a chart in an existing workbook (previously saved) or copying values from an existing workbook. A system is configured with Windows 7 and Microsoft Office 10 configuration. The issue arises when the user is unable to save the changes after editing in a saved spreadsheet. The following message displays on the screen:
@@ -49,10 +39,7 @@ A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/
 ![Image of Error message while trying to save excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Excel-Error.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure: Unable to Save Excel WorkBook Issue
@@ -62,6 +49,10 @@ Figure: Unable to Save Excel WorkBook Issue
 “Excel encountered errors during save. However, Excel was able to minimally save your file to <**filename.xlsx**\>”.
 
 **Note:** This issue impacts build Version 1707 (Build 8326.2086) and later, and also only occurs with files that are stored locally, such as on the desktop. This problem does not occur if you manually enter values or insert a chart in a newly created workbook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Plausible reasons for the ‘Unable to save Excel workbook’ Issue
 
@@ -85,13 +76,6 @@ There may be an issue with the Build version or the Registry Values settings may
 
 Once verified, look for a healthy and restorable backup. If backup is missing, resolve the issue of “Unable to open Excel File” with manual settings on local system or through a reliable Excel repair software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 1: Modify Registry Entries
 
 If multiple users are unable to access their workbooks stored on the shared drive and facing unable to save Excel file problem (see Instance 1 above), then follow the below steps:
@@ -99,19 +83,6 @@ If multiple users are unable to access their workbooks stored on the shared driv
 1. Go to ‘Registry Entry’. To do this, type ‘regedit’ in the Start Search box, and press ENTER
 
 ![Image of Run window with the command 'regedit" that is to be Run](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Registry-Entry.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure: Edit Registry
 
@@ -126,6 +97,10 @@ Figure: CSC Location
 
 ![Image of Registry Window, Right clicking on the subkey 'CSC', hover over "New" and clicking on "Key"](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/New-Key.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: Create new key
 
 5. Type ‘File Parameters’ in the available box
@@ -139,10 +114,7 @@ Figure: File parameters
 ![Image of selecting DWORD (32-bit) Value under "New" by right clicking on "File Parameters" in the Registry Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/DWORD32bit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure: File parameter (DWORD – 32 bit) value
@@ -150,6 +122,10 @@ Figure: File parameter (DWORD – 32 bit) value
 7. Type ‘FormatDatabase’, and press ‘ENTER’. Right-click ‘FormatDatabase’, and click ‘Modify’
 
 ![Image of clicking on "Modify..." by right-clicking on FormatDatabase that was entered](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Modify.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure: Modify format database
 
@@ -180,6 +156,10 @@ If the user is unable to save the changes after editing in a locally saved sprea
 3. Access the **Location and Folder** and click the arrow icon beside **Open** followed by **Open and Repair.**
 
 ![Image of Open and Repair built-in utility in the browse window.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/Open-and-Repair-1024x549.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure: Illustrates Steps to use ‘Open and Repair’ method
 
@@ -227,5 +207,16 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[Updated] 2024 Approved Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-leading-tech-review-the-top-10-screen-recorders/"><u>2024 Approved Leading Tech Review The Top 10 Screen Recorders</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-12-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 12</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-a15-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy A15 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimizing-video-content-with-perfect-youtube-titles-for-2024/"><u>Optimizing Video Content with Perfect YouTube Titles for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-12-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Xiaomi Redmi 12 5G</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-oppo-find-x7-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Oppo Find X7</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-s23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel S23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/wise-owls-ultimate-general-knowledge-hubs/"><u>Wise Owls' Ultimate General Knowledge Hubs</u></a></li>
+</ul></div>
 

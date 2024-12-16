@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2024-12-09T00:43:36.898Z
-updated: 2024-12-09T19:00:45.947Z
+date: 2024-12-12T21:32:19.966Z
+updated: 2024-12-15T17:54:32.146Z
 tags:
   - cutting-edge
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
  The results show that after the initial big push from the government of El Salvador to encourage its citizens to begin using this new financial system, enthusiasm and adoption are lackluster. Adoption in most key metrics has atrophied, and there's little momentum.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Background on Bitcoin in El Salvador** 
@@ -37,13 +37,13 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  The government created a $30 incentive available to anyone who downloads the app and enrolls. Keep in mind that $30 is a decent amount of money for many citizens, and is equal to approximately [0.7% of per capita annual income in El Salvador](https://www.statista.com/statistics/1070121/gross-national-income-per-capita-el-salvador/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Data Shows Adoption Is Low and Stalled** 
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -57,10 +57,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  All businesses were required to begin accepting payments in Bitcoin but that has not happened. Only 20% of companies reported accepting Bitcoin as a form of payment and most of them were large organizations. Out of all sales, only 5% were conducted in Bitcoin and most transactions were converted to dollars within the Chivo Wallet upon receipt of payment.
@@ -68,10 +64,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -88,12 +80,16 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  Anecdotal evidence suggests that the app is used by a subset of the population like street vendors as a cash replacement because it's convenient for small peer-to-peer payments. This functionality is actually what is most used within the Chivo Wallet because you can use the app like Venmo and quickly send US dollars from person to person without any exposure to Bitcoin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Lack of Trust & Privacy Are Deterrents** 
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -118,6 +114,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  Sometimes it could take an hour or more on a bus to visit a bank on their day off to cash their checks. Workers can now receive their paychecks daily or weekly without having to visit a bank. The Chivo Wallet has two accounts, one for Bitcoin and the other for US dollars. They can transact in Bitcoin or dollars and anyone else with the Chivo wallet app can receive Bitcoin or dollars.
 
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Lessons Learned** 
 
@@ -146,19 +146,20 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearview-capture-watchlist/"><u>[New] 2024 Approved ClearView Capture Watchlist</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-unearthing-excellent-seeds-the-valheim-way/"><u>[Updated] In 2024, Unearthing Excellent Seeds The Valheim Way</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-gentle-request-for-a-greater-genuine-community/"><u>2024 Approved Gentle Request for a Greater, Genuine Community</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/getting-the-most-out-of-your-graphics-card-with-warzone-tips-for-windows-10-users/"><u>Getting the Most Out of Your Graphics Card with Warzone – Tips for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y28-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y28 5G Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-iphone-hdr-photo-guidebook/"><u>In 2024, Ultimate iPhone HDR Photo Guidebook</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagrams-most-trusted-grid-creation-applications-ranked-anew-for-2024/"><u>Instagram's Most Trusted Grid Creation Applications Ranked Anew for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-mac-video-editing-software-top-vsdc-alternatives/"><u>New 2024 Approved Mac Video Editing Software Top VSDC Alternatives</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-google-pixel-8-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Google Pixel 8</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-11-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 11 Pro Max screen lock</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-innovative-ideas-for-snapad-success-in-business/"><u>[New] 2024 Approved Innovative Ideas for SnapAd Success in Business</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-8-best-video-conferencing-software-for-small-business-safe-and-stable/"><u>[New] In 2024, 8 Best Video Conferencing Software for Small Business (Safe and Stable)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-precision-flight-the-new-era-with-yuneec-drone-review/"><u>[New] In 2024, Precision Flight The New Era with Yuneec Drone Review</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-premier-fb-video-mp4-downloader-no-ads-no-wait/"><u>[Updated] Premier FB Video MP4 Downloader - No Ads, No Wait</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-130-music-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia 130 Music Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/efficiency-in-advertising-post-facebook-algorithm-overhaul/"><u>Efficiency in Advertising Post-Facebook Algorithm Overhaul</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-repairing-the-interruption-in-hamachi-network-services/"><u>Expert Guide: Repairing the Interruption in Hamachi Network Services</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100a-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100A in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-moto-g23-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Moto G23 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-surprising-use-of-emojis-in-personal-finance-security-concerns-following-activision-breach-and-ais-impact-on-the-workforce/"><u>The Surprising Use of Emojis in Personal Finance | Security Concerns Following Activision Breach & AI's Impact on the Workforce</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-lava-blaze-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-v29-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo V29 Pro without backup.</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/web-tracking-optimized-with-the-help-of-cookiebot-technology/"><u>Web Tracking Optimized with the Help of Cookiebot Technology</u></a></li>
 </ul></div>
 

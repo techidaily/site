@@ -1,7 +1,7 @@
 ---
 title: "Guide: Operating ChatGPT on Your PC via Windows"
-date: 2024-12-08T22:36:55.301Z
-updated: 2024-12-09T16:36:45.922Z
+date: 2024-12-11T02:16:37.704Z
+updated: 2024-12-16T00:48:42.098Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 ---
 
 ## Guide: Operating ChatGPT on Your PC via Windows
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  To turn ChatGPT’s site into an app, you’ll use a built-in option in Chrome or Edge. This option turns any site you access in these web browsers into a Windows app. You can use either web browser, but Edge offers the option to change the app’s icon when you create the app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Download ChatGPT Using Chrome
 
 [Launch Chrome on your PC](https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/) and access the [ChatGPT site](https://chatgpt.com/). Log in to your account on the site and get to the chat screen (where you send and receive messages).
@@ -52,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Download ChatGPT Using Edge
 
  Open the Edge web browser and access the [ChatGPT site](https://chatgpt.com/). Sign in to your account if you haven’t already done so.
@@ -64,11 +52,19 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 !['Install This Site as an App' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-edge-install-chatgpt.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  An "Install This Site as an App" dialog box will open. To change the app’s default name, click the text field and type a new name. To change the app’s icon, beneath the current icon, click "Edit." Then, choose an ICO or [PNG file](https://remote-screen-capture.techidaily.com/new-2024-approved-immortalize-your-gaming-adventures-on-pc-6-ways/) as the app icon. There's a [way to turn any image into an icon file](https://location-social.techidaily.com/in-2024-how-to-change-location-on-tiktok-to-see-more-content-on-your-motorola-razr-40-drfone-by-drfone-virtual-android/).
 
  Once that’s done, click "Install" to add the app to your PC.
 
 ![The text box and 'Install' highlighted in Edge.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-edge-create-chatgpt-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s all.
 
@@ -85,13 +81,13 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 !['Pin to Start' and 'Pin to Taskbar' highlighted for ChatGPT in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-pin-chatgpt-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And you now have access to your favorite AI tool as a native Windows app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Uninstall the ChatGPT App
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
  To [delete the app using Settings on Windows 10](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), go to Settings > Apps. Select the ChatGPT app, click "Uninstall," and choose "Uninstall" in the prompt.
 
 !['Uninstall' highlighted for ChatGPT in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-delete-chatgpt-windows-10-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you made the app with Chrome, you can [use Control Panel to uninstall the app](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/) [as well](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/). To do that, navigate to Control Panel > Uninstall a Program. Find and select the ChatGPT app and choose "Uninstall" at the top. Click "Remove" in the prompt.
 
@@ -127,15 +127,17 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-essential-tips-for-obs-on-android-platforms-for-2024/"><u>[New] Essential Tips for OBS on Android Platforms for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-revolutionizing-art-sales-7-top-generators-for-turning-images-into-nfts/"><u>[New] Revolutionizing Art Sales - 7 Top Generators for Turning Images Into NFTs</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-social-media-savvy-tips-and-tricks-for-captivating-storytelling/"><u>[Updated] In 2024, Social Media Savvy Tips and Tricks for Captivating Storytelling</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Plus Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Nokia C12?</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2020)</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/mastery-in-maintaining-a-clean-feed-best-twitter-tools/"><u>Mastery in Maintaining a Clean Feed Best Twitter Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-hdmi-legacy-package/"><u>[New] 2024 Approved HDMI Legacy Package</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sims-4-gametime-the-recorders-handbook/"><u>[New] In 2024, Sims 4 Gametime The Recorder's Handbook</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/"><u>[Updated] Effective Strategies to Capture and Save Google Voice Dialogues for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-top-20-best-twitter-unfollowers-and-tools/"><u>[Updated] In 2024, Top 20 Best Twitter Unfollowers & Tools</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-xc0000142-blue-screen-in-win10win11/"><u>Fixing XC0000142 Blue Screen in WIN10/WIN11</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-blaze-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-13t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13T Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-play-7t-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor Play 7T Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138620388-9781722520281-the-kybalion-condensed-classics/"><u>The Kybalion (Condensed Classics) | Free Book</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-nubia-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Nubia password or pattern lock</u></a></li>
 </ul></div>
 

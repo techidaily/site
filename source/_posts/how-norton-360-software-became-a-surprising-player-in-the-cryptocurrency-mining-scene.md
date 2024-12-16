@@ -1,7 +1,7 @@
 ---
 title: How Norton 360 Software Became a Surprising Player in the Cryptocurrency Mining Scene
-date: 2024-12-08T18:59:27.509Z
-updated: 2024-12-09T21:52:49.814Z
+date: 2024-12-10T16:44:58.958Z
+updated: 2024-12-16T04:34:07.470Z
 tags:
   - cutting-edge
 categories:
@@ -34,7 +34,7 @@ _Norton_
  There's nothing malicious happening here, but users are never thrilled when they get a piece of software to do one thing (in this case, [protect their PCs](https://fox-info.techidaily.com/updated-in-2024-changing-video-pace-on-your-instagram-feed/)), and it adds something else without their permission. With that said, as long as it's not turned on by default and Norton is upfront about it, the company isn't technically doing anything wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 1/7/22 11:22 am Eastern
@@ -58,22 +58,19 @@ Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ffortless-guide-to-secure-and-free-youtube-music-downloads-for-2024/"><u>[New] Effortless Guide to Secure and Free YouTube Music Downloads for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-embarking-on-twitter-steps-for-newbies/"><u>[New] Embarking on Twitter Steps for Newbies</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-tech-tools-for-distance-podcasting/"><u>[New] Tech Tools for Distance Podcasting</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-2019-game-changer-in-vegaspro-for-2024/"><u>[New] The 2019 Game-Changer in VegasPro for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pc-video-magic-discovering-apowersofts-recorder-for-2024/"><u>[Updated] PC Video Magic Discovering Apowersoft’s Recorder for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/5-simple-fixes-for-genshin-impact-not-launching/"><u>5 Simple Fixes for Genshin Impact Not Launching</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-note-30-vip-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 VIP in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-samsung-galaxy-s24-ultra-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Samsung Galaxy S24 Ultra to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/master-the-art-of-pc-game-memories-with-these-6-steps/"><u>Master the Art of PC Game Memories with These 6 Steps</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-spark-20-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Tecno Spark 20 Pro</u></a></li>
-<li><a href="https://solve-outstanding.techidaily.com/step-by-step-guide-clearing-out-memory-dump-files-on-windows-11-with-yl-computings-techniques/"><u>Step-by-Step Guide: Clearing Out Memory Dump Files on Windows 11 with YL Computing's Techniques</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-100-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 100 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-poco-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Poco password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-tecno-spark-20c-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Tecno Spark 20C on Windows?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-f54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy F54 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-xr-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone XR takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[New] 2024 Approved The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-color-coding-in-the-digital-world-srgb-vs-rgb-for-2024/"><u>[Updated] Color Coding in the Digital World Srgb vs Rgb for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vr-and-the-future-of-teaching-strategies-for-2024/"><u>[Updated] VR and the Future of Teaching Strategies for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-9-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Red Magic 9 Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-f14-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy F14 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-zte-axon-40-lite-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-tips-for-resolving-a-stalled-torrent-download-problem/"><u>Top Tips for Resolving a Stalled Torrent Download Problem</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12-4g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi Note 12 4G won’t play HEVC H.265 media, how to fix? </u></a></li>
 </ul></div>
 

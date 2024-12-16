@@ -1,7 +1,7 @@
 ---
 title: "Elevate WhatsApp Conversations: Top Tips for Creative Message Formatting"
-date: 2024-12-03T18:46:10.221Z
-updated: 2024-12-09T20:10:45.500Z
+date: 2024-12-09T20:26:19.542Z
+updated: 2024-12-16T02:03:43.277Z
 tags:
   - web
 categories:
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![Italic text in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-19-59-am.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Strikethrough
 
  Do you want to show something that’s no longer relevant or make a correction? Use strikethrough by placing tildes (\~) around the text. Strikethrough text can be used for humor, to show edits, or to indicate something that's been completed or canceled. It adds a playful touch to your messages and can make corrections less formal.
@@ -58,11 +54,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Struckthrough text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-19-59-am-1.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Monospace
@@ -76,7 +68,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Monospace text in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-29-43-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Inline Code
@@ -90,10 +82,14 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Inline code in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-30-47-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Inline code is quite like the monospace text. The major change in output is that the inline code comes out highlighted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Quote
 
@@ -106,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Quoted text in WhatsApp](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-31-30-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Bulleted List
@@ -126,7 +122,7 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![Bulletted List in WhatsApp text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-32-05-am.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Numbered List
@@ -143,6 +139,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![Numbered list in WhatsApp text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-32-46-am.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Combining Formatting
 
  Why stick to just one format when you can combine them? Mix bold, italic, strikethrough, and more for greater emphasis.
@@ -151,6 +151,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![A WhatsApp text with different format types](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/whatsapp-image-2024-06-23-at-12-34-07-am.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Combining formats can help make your message clear and visually interesting. It allows you to emphasize different parts of your message in various ways, adding depth and creativity to your communication.
 
 ##  Easier Ways To Format Text In WhatsApp
@@ -158,10 +162,6 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
  Having all the symbols for formats in your head is pretty hard. Not to worry, though; there are easier ways to go about it. In the WhatsApp text box, you can just press down on the words you want to format and choose from the options. For now, the only options are bold, italic, monospace, and strikethrough.
 
 ![WhatsApp text highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/easy-formatting-whatsapp.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  WhatsApp Formatting on Desktop vs. Mobile
 
@@ -184,24 +184,18 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[New] 2024 Approved Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-windows-11-premium-video-grabber-selections/"><u>[New] 2024 Approved Windows 11 Premium Video Grabber Selections</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-isolating-photographs-within-windows-10-movie-files-for-2024/"><u>[New] Isolating Photographs Within Windows 10 Movie Files for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-step-by-step-tips-for-turning-gopro-into-professionals-best-work-for-2024/"><u>[New] Step-by-Step Tips for Turning GoPro Into Professionals' Best Work for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-jogging-beats-compile-your-ultimate-running-soundtrack/"><u>2024 Approved Jogging Beats Compile Your Ultimate Running Soundtrack</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-itel-p55-5g-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Itel P55 5G to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a14-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A14 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a14-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A14 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-60x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo 60x 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Max Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a1-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A1 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-m34-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy M34 5G Phone FRP Lock</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016986779-solve-your-windows-11-audio-cut-out-problem-with-these-expert-tips/"><u>Solve Your Windows 11 Audio Cut-Out Problem with These Expert Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-alan-wake-2-freezing-issues-expert-advice-for-gamers-in-202-groovy-titles-to-fix-your-game-crashes/"><u>Solving the Alan Wake 2 Freezing Issues: Expert Advice for Gamers in 202 Groovy Titles to Fix Your Game Crashes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ers-channel-blueprint-10-essential-tips-for-youtube-educators/"><u>Teachers’ Channel Blueprint 10 Essential Tips for YouTube Educators</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Infinix Note 30 5G</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-se-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone SE Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-sony-xperia-5-v-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Sony Xperia 5 V</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50 GT Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-iphone-hdr-a-step-by-step-journey-to-perfect-shots/"><u>[New] 2024 Approved IPhone HDR A Step-by-Step Journey to Perfect Shots</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-splitting-vision-assessing-splitcams-camera-excellence/"><u>[New] 2024 Approved Splitting Vision Assessing SplitCam's Camera Excellence</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-studio-exploration-in-depth-xvideoexamine/"><u>[Updated] Complete Studio Exploration In-Depth XVideoExamine</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-digital-broadcasting-battle-comparing-facebook-live-youtube-live-and-twitter-spaces-for-2024/"><u>[Updated] Digital Broadcasting Battle Comparing Facebook LIVE, YouTube Live, & Twitter Spaces for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-appreciative-adjacencies-templates-for-any-spend-plan/"><u>[Updated] In 2024, Appreciative Adjacencies Templates for Any Spend Plan</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-economical-desktop-encoders-under-100-for-2024/"><u>[Updated] Top Economical Desktop Encoders Under $100 for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-11-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 11 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/no-cost-upgrade-excellent-online-beat-detection-for-music-producers/"><u>No Cost Upgrade Excellent Online Beat Detection for Music Producers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/solving-the-msodll-error-a-comprehensive-guide/"><u>Solving the 'mso.dll' Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-poco-c55-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Poco C55 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-realme-11-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Realme 11 Pro</u></a></li>
+<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-12-mini-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 12 mini? | Stellar</u></a></li>
 </ul></div>
 

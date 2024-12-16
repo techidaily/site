@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2024-12-07T19:52:31.742Z
-updated: 2024-12-09T16:31:04.832Z
+date: 2024-12-13T22:18:34.325Z
+updated: 2024-12-16T00:19:13.175Z
 tags:
   - desktop
 categories:
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Manually Remove Recently Accessed Items
 
  To selectively remove recently accessed files and folders, [open File Explorer](https://pokemon-go-android.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-realme-c67-4g-drfone-by-drfone-virtual-android/) by clicking on the folder icon in the taskbar. Then, navigate to the "Home" tab on the left. Check the box(es) next to the files you want to remove from the history, right-click on the selected files, and select "Remove From Recent."
@@ -36,16 +32,12 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  It's important to note that removing items in this way only removes them from the Recent section in File Explorer and the jump list; they will remain intact in the Recent Items folder, where the record is stored. If you want to ensure others don't know what files and folders you've accessed, remove them from there as well.
 
@@ -53,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
  Windows doesn't display a confirmation popup when removing items from the Recent Items folder or Recent section in File Explorer, so proceed with caution while removing items.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Stop Windows From Keeping Recent Items History
@@ -70,7 +66,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  To clear the File Explorer History, click on the folder icon on the taskbar to open File Explorer. Click on the See More menu, represented by three horizontal dots at the top, and select "Options."
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
@@ -108,18 +108,21 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-best-webcam-tripods-flex-neck-and-stands/"><u>[New] 2024 Approved Best Webcam Tripods, Flex-Neck and Stands</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-fb-call-video-logging-essential-steps-in-4-ways/"><u>[New] 2024 Approved FB Call Video Logging - Essential Steps in 4 Ways</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flashglimpse-crafter/"><u>[New] 2024 Approved FlashGlimpse Crafter</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/onstruct-a-careerscape-on-camera-by-critiquing-closets/"><u>[New] Construct a Careerscape on Camera by Critiquing Closets</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-top-8-best-4k-blu-ray-players/"><u>[New] Top 8 Best 4K Blu-Ray Players</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-a-beginners-guide-to-embedding-youtube-playlists-in-code-for-2024/"><u>[Updated] A Beginner's Guide to Embedding YouTube Playlists in Code for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-how-to-adjust-when-videos-appear-sideways-or-upward/"><u>ASUS Laptop Troubleshooting: How to Adjust When Videos Appear Sideways or Upward</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s24plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S24+ in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-motorola-defy-2-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Motorola Defy 2</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-v30-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo V30 phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-streamline-your-online-experience-blocking-youtube-channels-effectively/"><u>In 2024, Streamline Your Online Experience Blocking Youtube Channels Effectively</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-13t-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oneplus-nord-ce-3-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on OnePlus Nord CE 3 5G without backup.</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-navigate-to-recent-fb-views-with-ease-2023-guide-for-2024/"><u>[New] Navigate to Recent FB Views with Ease, 2023 Guide for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-boost-your-broadcast-game-mastering-obs-plus-streamlabs-mac/"><u>[Updated] 2024 Approved Boost Your Broadcast Game Mastering OBS + Streamlabs, Mac</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-b-roll-builder-kit/"><u>[Updated] In 2024, B-Roll Builder Kit</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-untangling-aerial-vehicles-a-guide-to-drones-operation/"><u>[Updated] In 2024, Untangling Aerial Vehicles A Guide to Drones' Operation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-magix-beatstrip-harmonizing-your-beats-easily/"><u>2024 Approved Magix Beatstrip Harmonizing Your Beats Easily</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accessing-the-ultimate-10-lists-of-vector-pics-sites/"><u>Accessing the Ultimate 10 Lists of Vector Pics Sites</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/fixes-for-cod-vanguard-when-voice-chat-fails/"><u>Fixes for Cod: Vanguard When Voice Chat Fails</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Narzo 60 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-note-50-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme Note 50 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-lava-yuva-3-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-camon-20-premier-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Camon 20 Premier 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-latest.techidaily.com/vier-methoden-zum-hochladen-von-iphone-bildern-auf-ein-chromebook/"><u>Vier Methoden Zum Hochladen Von iPhone-Bildern Auf Ein Chromebook</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/why-does-itools-virtual-location-not-work-for-apple-iphone-14-proipad-solved-drfone-by-drfone-virtual-ios/"><u>Why Does iTools Virtual Location Not Work For Apple iPhone 14 Pro/iPad? Solved | Dr.fone</u></a></li>
 </ul></div>
 

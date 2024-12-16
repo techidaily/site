@@ -1,7 +1,7 @@
 ---
 title: "Top Savings Alert: Snag Discounts on Amazon Fire TV, EcoFlow Charger & Beyond!"
-date: 2024-12-08T20:01:03.777Z
-updated: 2024-12-09T22:35:27.417Z
+date: 2024-12-13T02:30:46.166Z
+updated: 2024-12-16T03:13:42.234Z
 tags:
   - deals
 categories:
@@ -17,10 +17,6 @@ You don't have to wait for Amazon's big Prime Day sale to save on some of the be
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/41uzyegvcgl-_sl500_-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #####  Amazon Fire TV Omni Series 4K UHD smart TV
 
 $630 $760 Save $130 
@@ -32,7 +28,7 @@ Amazon's 43-inch, 50-inch, and 65-inch Omni TVs deliver an excellent bang for yo
  Amazon's high-end Omni series smart TVs offer many features, such as Dolby Vision, HDR 10, and hands-free voice controls. Right now, you can get a stunning 65-inch model for the lowest price since Black Friday. [Save $200 on Amazon's 65-inch 4K TV](https://www.amazon.com/amazon-fire-tv-65-inch-omni-series-4k-smart-tv/dp/B08T6J1HG8?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## [Ring Battery Doorbell Plus and Stick Up Cam for $150 ($70 Off)](https://www.amazon.com/Ring-Battery-Doorbell-Stick-White/dp/B0CCZMMD9D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
@@ -47,10 +43,6 @@ Get the award-winning Ring Battery Doorbell Plus along with the popular Ring Sti
 
  If you've yet to get a video doorbell we have a deal for you. For Prime Day, one of Ring's best cameras, the Battery Doorbell Plus, is bundled with the indoor Stick Up camera. Better yet, you can [get both for $70 off](https://www.amazon.com/Ring-Battery-Doorbell-Stick-White/dp/B0CCZMMD9D?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## [Samsung Galaxy S24 for $720 ($80 Off)](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDMSZB4?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Samsung Galaxy S24](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/samsung-galaxy-s24.png) 
@@ -63,9 +55,17 @@ The Samsung Galaxy S24 may be the smallest in the line, but it has big-time proc
 
  If you're still rocking an older smartphone that won't be getting the [update to Android 15](https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-infinix-hot-40-pro-by-drfone-android/) (One UI 7), it might be time to upgrade. If so, consider snagging the [Galaxy S24 AI phone for $80 off](https://www.amazon.com/SAMSUNG-Smartphone-Unlocked-Android-Processor/dp/B0CMDPRN7M?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) at Amazon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [FLEXISPOT Adjustable Standing Desk for $136 ($35 Off)](https://www.amazon.com/FLEXISPOT-Standing-Electric-Adjustable-Whole-Piece/dp/B08BHPMYGK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-07-01 at 12.05.58 PM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-01-at-12-05-58-pm.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Flexispot Standing Desk Height Adjustable
 
@@ -75,12 +75,16 @@ The Flexispot is an affordable way to get into a height-adjustable standing desk
 
  Height-adjustable standing desks can get expensive, but if you want to elevate your workstation on a budget, the FLEXISPOT is a solid option. Their 48 x 24 sit or stand desk is [down to only $136](https://www.amazon.com/FLEXISPOT-Standing-Electric-Adjustable-Whole-Piece/dp/B08BHPMYGK?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## [EcoFlow Delta 2 (1024Wh) Portable Power Station for $499 ($490 Off)](https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
 ![Screenshot 2024-07-03 at 8.27.56 AM](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-03-at-8-27-56-am.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #####  ECOFLOW Delta 2 Portable Power Battery
@@ -90,10 +94,6 @@ If you need on-demand power in an affordable, reliable, and portable package, co
 [Buy on Amazon](https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term) 
 
  Right now, you can get the massive EcoFlow Delta 2 portable power station for nearly 50% off. Be ready for an emergency, have backup power ready for summer storms, go camping, and explore off-the-grid without worrying about power. [Get yours for only $499](https://www.amazon.com/EF-ECOFLOW-Portable-Charging-Generator/dp/B0B9XB57XM?th=1&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003918&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Ftop-tech-deals-fire-tv-power-stations-ring-doorbell-more%2F&asc%5Fcampaign=Short-Term).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  More Tech Deals
 
@@ -121,21 +121,15 @@ If you need on-demand power in an affordable, reliable, and portable package, co
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unleashing-the-power-of-time-lapse-photography-using-gopro/"><u>[New] In 2024, Unleashing the Power of Time-Lapse Photography Using GoPro</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-preserving-every-moment-of-your-switch-gaming-for-2024/"><u>[Updated] Preserving Every Moment of Your Switch Gaming for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-professional-tips-for-high-quality-video-disc-production-on-mac-for-2024/"><u>[Updated] Professional Tips for High-Quality Video Disc Production on Mac for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/8-surprising-methods-artificial-intelligence-transforms-dreams-into-reality/"><u>8 Surprising Methods Artificial Intelligence Transforms Dreams Into Reality</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/a-closer-look-at-twitters-most-shared-videos-of-2023/"><u>A Closer Look at Twitter's Most Shared Videos of 2023</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-i-eliminated-skyrims-eternal-load-screens-forever-guide/"><u>How I Eliminated Skyrim's Eternal Load Screens Forever (Guide)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-pro-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 Pro with a Broken Screen?</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-moto-g84-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Moto G84 5G</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-14-pro-max-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 14 Pro Max failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Blaze Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c110-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C110 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/top-externe-datentrager-fur-maximale-datensicherheit-und-effizientes-backup/"><u>Top-Externe Datenträger Für Maximale Datensicherheit Und Effizientes Backup</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-samsung-galaxy-m34-5g-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Samsung Galaxy M34 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-tecno-spark-10-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Tecno Spark 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-tecno-phantom-v-flip-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Tecno Phantom V Flip.</u></a></li>
-<li><a href="https://win11.techidaily.com/understanding-risks-ignoring-windows-11-push-notifications/"><u>Understanding Risks: Ignoring Windows 11 Push Notifications</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-constructive-methods-for-muting-users/"><u>[Updated] Constructive Methods for Muting Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-notch-visual-chronology-creator/"><u>[Updated] Top-Notch Visual Chronology Creator</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-balancing-visual-elements-with-ideal-video-ratios/"><u>2024 Approved Balancing Visual Elements with Ideal Video Ratios</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/snag-unbeatable-discounts-exclusive-oneplus-deals-for-prime-day-savvy-shoppers/"><u>Snag Unbeatable Discounts: Exclusive OnePlus Deals for Prime Day Savvy Shoppers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sprint-through-photo-composition-googles-easy-way-for-2024/"><u>Sprint Through Photo Composition - Google's Easy Way for 2024</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-xs-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone XS failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-mirror-site-reviewed-discover-what-sets-elgoog-apart-from-google/"><u>Ultimate Mirror Site Reviewed: Discover What Sets elgooG Apart From Google</u></a></li>
 </ul></div>
 

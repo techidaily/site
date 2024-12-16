@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Oppo A2? | Dr.fone
-date: 2024-09-19T20:59:22.894Z
-updated: 2024-09-23T20:35:34.354Z
+date: 2024-12-09T04:24:32.831Z
+updated: 2024-12-15T16:58:08.810Z
 tags: 
   - reset
 categories:
@@ -59,13 +59,6 @@ Phone Backup is one of the handiest and easy-to-use features within Wondershare 
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: Hard Reset Android using Dr.Fone - Screen Unlock (Android)
 
 Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps you unlock your Android device if you forget the passcode, pattern lock, PIN, or face/fingerprint lock. It supports various Android devices, allows you to bypass lock screens without data loss, and provides step-by-step instructions for easy unlocking. It also helps with FRP unlock and works on both Windows and Mac systems.
@@ -101,16 +94,13 @@ Follow the given steps to know how to hard reset an Android phone using PC.
 
 ![usb debugging](https://images.wondershare.com/drfone/article/2017/04/14932127102831.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1:** Enable USB Debugging in the Android settings. Open Settings>Developer options>USB Debugging. If developer options can’t be found on the Oppo A2 device, then please go to Settings > General > About phone > Common > Software info (tap on it 5-8 times).
 
 ![android sdk manager](https://images.wondershare.com/drfone/article/2017/04/14932127493438.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** Install Android SDK Tools. Ensure that Platform-tools and USB drivers are selected in the SDK manager window.
 
@@ -147,6 +137,10 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 
 ![go to find my](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-using-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1:** Directly go to the [Android Device Manager website](https://www.google.com/android/find/), and log in to your account. You will get three options: "Play Sound", "Secure Device" and "Erase Device".
 
 **Step 2:** Click on the "Play Sound" option will make it raise the alarm, notifying of the location, you can easily locate your Android phone if it is nearby.
@@ -159,13 +153,6 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 
 So these were the third different methods through which you can hard reset your Android device. Resetting the Oppo A2 device involves removing every data from the Oppo A2 device. The phone gets back to the same state as it was out of the box. Hence, most importantly, do not forget to back up data using Phone Backup and restore beforehand so that you do not end up losing anything important.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Reset a Oppo A2 Phone That Is Locked
 
 _“Looking for the best solutions on how to factory reset Oppo A2 phone when locked?”_
@@ -175,10 +162,7 @@ The need to reset a Oppo A2 phone arises in several situations like forgetting t
 In this article, we will discuss all these methods that can help you reset your device so that it can be accessed without any hassles.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Things You Should Be Aware of Before Resetting Oppo A2 Phones
@@ -192,6 +176,10 @@ Before you start resetting your Oppo A2 device through any of the methods, there
 ## Part 2: How to Reset Oppo A2 Phone When Locked?
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Oppo A2 phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Reset Oppo A2 using Google's Android Device Manager
 
@@ -237,6 +225,10 @@ The screen locks can be removed without rooting, and the software is completely 
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
 The Best Tool for factory reset Oppo A2 Phone When Locked
@@ -264,10 +256,7 @@ The Best Tool for factory reset Oppo A2 Phone When Locked
 ![remove now](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. How to Reset Oppo A2 Phone at Normal Cases?
@@ -312,24 +301,15 @@ Factory reset will delete all your user data from internal storage. Thus it is a
 
 You must ensure that all the steps are followed in sync so that the hard reset Android via PC is successful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Back up Android before hard reset
 
 Since factory reset involves removing all data, adjusted settings and logged accounts from the Oppo A2 device; therefore, it is very important to back up all the data before moving on with the factory reset process. So, in this section, we will show you how to first back up your Android device using the [Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This is an easy-to-use and very convenient [Android backup software](https://drfone.wondershare.com/backup/android-backup-software.html) that can be used to back up an Android device.
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -358,16 +338,13 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 ![backup completes](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Phone Backup is one of the handiest and easy-to-use features within Wondershare Dr.Fone. Users can select their opted files manually to restore. This tool supports 8000+ Android devices worldwide. Users will feel safe and secure using this revolutionary software.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Hard Reset Android using Dr.Fone - Screen Unlock (Android)
 
@@ -396,6 +373,10 @@ Follow the given steps to know how to hard reset an Android phone using PC.
 • PC that runs on Windows (Linux/Mac installer is also available)
 
 ![download android adb](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-phone-using-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 • You have to download Android ADB tools on your computer. Android ADB Download: [https://developer.android.com/studio](https://developer.android.com/studio)  
 • A USB Cable to connect your Oppo A2 with your computer.
@@ -443,13 +424,6 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 
 ![go to find my](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-using-pc-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1:** Directly go to the [Android Device Manager website](https://www.google.com/android/find/), and log in to your account. You will get three options: "Play Sound", "Secure Device" and "Erase Device".
 
 **Step 2:** Click on the "Play Sound" option will make it raise the alarm, notifying of the location, you can easily locate your Android phone if it is nearby.
@@ -457,6 +431,10 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 **Step 3:** Click "Secure Device", you can remotely lock your device with a new passcode, display a custom message on the lock screen, and even track the Oppo A2 device's location in real-time. It also gives you the option to add a contact number, so anyone who finds your device can reach out to you.
 
 **Step 4:** Select "Erase Device" to reset your device. Once you select this option, the interface will take over and complete the job. Congratulations! You have successfully used the Android Device Manager (ADM) to reset your Android smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -474,5 +452,19 @@ So these were the third different methods through which you can hard reset your 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-vivid-imagery-understanding-the-power-of-srgb/"><u>[New] 2024 Approved Vivid Imagery Understanding the Power of Srgb</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-spotlight-series-the-best-gamers-on-tiktok/"><u>[Updated] 2024 Approved Spotlight Series The Best Gamers on TikTok</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-meme-making-tools-discover-your-favorites/"><u>[Updated] In 2024, Top Meme-Making Tools Discover Your Favorites</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-thumbnails-as-a-key-player-in-video-marketing-strategies/"><u>2024 Approved Thumbnails as a Key Player in Video Marketing Strategies</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-13-proplus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 13 Pro+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-6-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 6 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-10t-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 10T 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-a24-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy A24? Try These Fixes</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-xiaomi-13-ultra-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Xiaomi 13 Ultra to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/pro-gif-designers-picks-online-vs-desktop-platforms-for-2024/"><u>Pro-Gif Designers' Picks Online vs Desktop Platforms for 2024</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/solve-the-dilemma-resetting-or-retrieving-a-forgotten-windows-11-password/"><u>Solve the Dilemma: Resetting or Retrieving a Forgotten Windows 11 Password</u></a></li>
+</ul></div>
 

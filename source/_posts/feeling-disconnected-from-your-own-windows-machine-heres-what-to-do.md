@@ -1,7 +1,7 @@
 ---
 title: Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
-date: 2024-12-02T22:37:10.169Z
-updated: 2024-12-09T18:33:07.258Z
+date: 2024-12-10T23:18:34.255Z
+updated: 2024-12-15T16:10:48.634Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,18 +23,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Offline Glory Days of Windows
 
  The first version of Windows I ever used, coming from MS-DOS, was Windows 3.1\. While Windows 3.1 might look incredibly primitive today, it's hard to explain just how big of a leap this was for a kid who had to memorize the Command Line instructions just to play some games. Things didn't really kick off for me until Windows 95 and our first taste of the internet, but even then, 99% of my Windows time up until Windows 7 was spent disconnected from the net.
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Advertising Sneaking In
@@ -53,21 +61,17 @@ Jerome Thomas / How-To Geek
 
  Forced, automatic Windows updates seem inevitable now, and with every workaround people come up with, the loopholes are closed. Updates can be delayed, but not deferred. Resistance is futile. Which is why I find it hard to even trust Windows to run a Plex server or a NAS, because inevitably it will reboot the computer without asking me first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Leave My Settings Alone, Microsoft
 
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -76,10 +80,6 @@ Sergio Rodriguez / How-To Geek
  Honestly, it might sound weird, but macOS feels like the offline Windows experience of old to me. In fact, the operating system tends to stay classy and out of my way as far as possible. I've been thinking that the common complaint that Macs cost too much for the hardware you get misses the fact that you are _also_ paying for the software. You get macOS and several other full-fat apps, such as the iWork suite, Garageband, and iMovie included in the price of entry. You pay more now, and don't have annoying monetization efforts later.
 
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Linux Respects Its Users
 
@@ -110,16 +110,22 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-broad-overview-delving-into-google-podcasts-application/"><u>[Updated] Broad Overview Delving Into Google Podcasts Application</u></a></li>
-<li><a href="https://driver-install.techidaily.com/clear-steps-recollecting-nvidia-drivers/"><u>Clear Steps: Recollecting NVIDIA Drivers</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic 6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Storm 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-12-pro-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone 12 Pro How to Bypass?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-lenovo-thinkphone-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Lenovo ThinkPhone for Parents | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/principles-of-plot-construction-for-2024/"><u>Principles of Plot Construction for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/stuck-disc-how-to-safely-remove-from-xbox-series-x/"><u>Stuck Disc: How to Safely Remove From Xbox Series X</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-tecno-spark-go-2024-by-fonelab-android-recover-music/"><u>Undelete lost music from Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12plus-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12+ 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-art-of-youtube-visibility-two-steps/"><u>[New] Master the Art of YouTube Visibility (Two Steps)</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-surfers-specs-top-action-camera-choices-2023/"><u>[Updated] 2024 Approved Surfers' Specs - Top Action Camera Choices 2023</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users/"><u>[Updated] Bring Back Contrast IPhone HDR Video Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[Updated] In 2024, A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-gaming-income-optimization-tips/"><u>[Updated] In 2024, Gaming Income Optimization Tips</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco C51 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/console-or-computer-the-ultimate-game-test/"><u>Console or Computer? The Ultimate Game Test</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-gt-10-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix GT 10 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 15 Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-how-much-do-podcasters-make/"><u>In 2024, How Much Do Podcasters Make?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-k11-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo K11 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iOS iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-phantom-v-fold-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Phantom V Fold</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oppo-a2-by-fonelab-android-recover-data/"><u>The way to get back lost data from Oppo A2</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-spark-10-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Spark 10 Pro fingerprint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722970374357-upgrade-your-gpu-skills-with-the-latest-nvidia-geforce-rtx-1660-super-driver-software-download-here/"><u>Upgrade Your GPU Skills with the Latest NVIDIA GeForce RTX 1660 SUPER Driver Software – Download Here</u></a></li>
 </ul></div>
 

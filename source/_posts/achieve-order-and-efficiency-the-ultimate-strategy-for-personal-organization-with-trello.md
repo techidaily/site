@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2024-12-07T23:11:11.462Z
-updated: 2024-12-10T01:13:53.097Z
+date: 2024-12-14T02:59:08.636Z
+updated: 2024-12-15T19:21:50.532Z
 tags:
   - web
 categories:
@@ -19,10 +19,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
  Each approach has its pros and cons, and over the years I think there are very few of them I haven't tried. But when it comes to a combination of flexibility, ease of use, and aesthetics, dedicated planning tools tend to have the edge. We'll get more into the specifics in a moment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Aren’t Project Management Apps for Work?
 
  Project management apps probably aren't the first thing that spring to mind when you think about planning personal projects. We tend to think of them in a work context, and they bring to mind large-scale team projects in enterprise companies.
@@ -30,6 +26,10 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  You might also have heard people mention their qualifications in project management tools, which again has the effect of making them seem complex.
 
  Some project management apps are indeed complicated—but there are also beautifully simple ones, like Trello.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Trello?
 
@@ -55,6 +55,10 @@ Ben Lovejoy
 
 ![A Trello board showing apartment design considerations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/design.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
  One of my goals for the move is to return to the more minimalist lifestyle I had until I moved in with someone who was very much _not_ a minimalist. So one of the tasks I needed to tackle was to go through every cupboard and decide what to keep, what to sell, and what to give away.
@@ -63,23 +67,15 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use Trello
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Creating a Board
 
@@ -95,20 +91,20 @@ Ben Lovejoy
 
 ![Click the small arrow to hide the sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/close-sidebar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  You'll now have an "Add List" button top left. Click that and give it a name, then click "Save." Doing that will prompt you for your next list, so repeat until you have as many lists as you want.
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Adding Cards
@@ -126,7 +122,7 @@ Ben Lovejoy
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -138,6 +134,10 @@ Ben Lovejoy
 Ben Lovejoy
 
  If you instead only want a photo to be visible when you open the card, then use the "Attachment" button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adding Links
 
@@ -151,6 +151,10 @@ Ben Lovejoy
 
  You'll also see here options to link to existing cards.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Adding Checklists
 
  Everything else from this point is added in the same way: Open the card, then choose the option from that right-hand menu we used to add the cover photo. I'll skip the screengrabs, as these would just be the same image.
@@ -163,10 +167,6 @@ Ben Lovejoy
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Using Color Coding
 
  To color-code cards, click the "Label" button. You'll get a set of default colors, but can also edit these. Just check the box next to a color to add that to the card. If you want to give your color-coded labels names, click the pencil (edit) button next to the color and type your name.
@@ -174,7 +174,7 @@ Ben Lovejoy
 ![Adding color-coding to the Trello board can make it easier to visually track your progress.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/color-coding.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -216,24 +216,18 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-illuminating-images-techniques-in-color-science/"><u>[Updated] In 2024, Illuminating Images Techniques in Color Science</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-premier-audio-broadcasts-networks/"><u>[Updated] In 2024, Premier Audio Broadcasts Networks</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tricks-for-faster-instagram-video-views-for-2024/"><u>[Updated] Tricks for Faster Instagram Video Views for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-masterful-thumbnails-in-a-flash-professional-valorant-creations/"><u>2024 Approved Masterful Thumbnails in a Flash Professional Valorant Creations</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/audio-dialogue-recorder-for-2024/"><u>Audio Dialogue Recorder for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/comprehensive-guide-to-resolving-inbox-notifications-on-pcs/"><u>Comprehensive Guide to Resolving Inbox Notifications on PCs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/exploring-the-features-and-functions-of-dts-virtualx/"><u>Exploring the Features and Functions of DTS Virtual:X</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-fade-out-techniques-in-audacity/"><u>In 2024, Perfecting Fade-Out Techniques in Audacity</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-student-potential-with-instructional-videos/"><u>In 2024, Unlocking Student Potential with Instructional Videos</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-avs-video-editor-review/"><u>New 2024 Approved The Ultimate AVS Video Editor Review</u></a></li>
-<li><a href="https://techidaily.com/remove-lock-screen-without-password-m6-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(M6 Pro 5G)</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-13t-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi 13T Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-x90s-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from X90S</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-g2-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from G2</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oneplus-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from OnePlus</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-100-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor 100 Pro on Windows?</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-samsung-galaxy-z-flip-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Samsung Galaxy Z Flip 5 on Windows?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-redmi-12-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Redmi 12 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/elevate-zoom-audio-clarity-with-strategic-effective-tweaks-for-2024/"><u>Elevate Zoom Audio Clarity with Strategic, Effective Tweaks for 2024</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/expert-guide-for-shifting-memories-updating-pics-on-your-new-iphone-from-an-outdated-version/"><u>Expert Guide for Shifting Memories: Updating Pics on Your New iPhone From an Outdated Version</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-get-your-windows-pcs-spotify-app-back-up-and-running-again/"><u>How To Get Your Windows PC's Spotify App Back Up and Running Again</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-pro-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to others devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/powerdirectorgif/"><u>PowerDirectorでプロフェッショナルなGIFを制作する究極ガイド：ステップバイステップ</u></a></li>
+<li><a href="https://win-special.techidaily.com/tecnica-di-backup-inviolabile-mantenere-i-tuoi-dati-chiave-al-sicuro-con-il-backup-di-outlook/"><u>Tecnica Di Backup Inviolabile: Mantenere I Tuoi Dati Chiave Al Sicuro Con Il Backup Di Outlook</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-huawei-p60-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Huawei P60</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-moto-g34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Moto G34 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-v2-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic V2 without backup.</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-xiaomi-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Xiaomi .</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-galaxy-s24plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung Galaxy S24+?</u></a></li>
 </ul></div>
 

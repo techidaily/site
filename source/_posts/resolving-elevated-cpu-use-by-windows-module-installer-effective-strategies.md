@@ -1,7 +1,7 @@
 ---
 title: "Resolving Elevated CPU Use by Windows Module Installer: Effective Strategies"
-date: 2024-12-08T23:24:45.662Z
-updated: 2024-12-09T19:39:15.845Z
+date: 2024-12-11T04:30:44.267Z
+updated: 2024-12-15T16:24:26.875Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
  Windows Modules Installer Worker (TiWorker.exe) is a normal Windows process related to your PC’s updates and maintenance. However, if it uses up a lot of CPU for an extended period it may be due to an error. Here are some things you can do to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Wait for It to Finish Running
 
  Windows launches the Windows Modules Installer Worker when there’s an update to install or a PC maintenance task to run. You should generally let the process finish running, even if it’s using up a lot of CPU.
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
  When the update or maintenance task has finished, the process will stop running.
 
  If it continues to run for an extended period or you want to perform other tasks, use the troubleshooting tips below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run Windows Update Troubleshooter
 
@@ -37,16 +45,12 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
 !['Run' highlighted for 'Windows Update' troubleshooter in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-update-troubleshooter-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On Windows 10, head to Settings > Update & Security > Troubleshoot > Additional Troubleshooters. Select "Windows Update" and click "Run the Troubleshooter."
 
 !['Run the Troubleshooter' highlighted for 'Windows Update' troubleshooter in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-windows-update-troubleshooter-windows-10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Follow the on-screen instructions in the tool to resolve any update issues.
@@ -73,10 +77,6 @@ services.msc
 
 !['Stop' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-stop-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open Run again by pressing Windows+R, type the following path in the box, and press Enter:
 
 C:\Windows\SoftwareDistribution\
@@ -84,6 +84,10 @@ C:\Windows\SoftwareDistribution\
  Select all files in the folder by pressing Ctrl+A, then right-click a selected file and choose "Delete" (a trash can icon on Windows 11). Make sure to [empty the Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/) as well.
 
 !['Delete' highlighted for Windows Update cache.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-delete-windows-update-cache.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that your update cache is deleted, pause the updates. [On Windows 11](https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/), navigate to Settings > Windows Update. On the right pane, next to "Pause Updates," click the drop-down menu and choose how long to pause the updates.
 
@@ -93,10 +97,6 @@ C:\Windows\SoftwareDistribution\
 
 !['Pause Until' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-pause-updates-windows-10.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Run Computer Maintenance at Your Specified Time
 
  Windows Modules Installer Worker runs when your PC is performing a maintenance task. Luckily, you can [change when the system runs those tasks](https://twitter-videos.techidaily.com/new-2024-approved-tweeting-with-videos-a-quick-tutorial/), allowing you to prevent the process from running when you’re working on important tasks.
@@ -105,13 +105,13 @@ C:\Windows\SoftwareDistribution\
 
 !['Change Maintenance Settings' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-change-windows-maintenance-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select the "Run Maintenance Tasks Daily at" drop-down menu and select when you want your PC to run the maintenance tasks. This should be when you aren’t working on important tasks on your PC. Then, select "OK."
 
 !['Run Maintenance Tasks Daily at' and 'OK' highlighted on the 'Automatic Maintenance' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-modify-windows-maintenance-time.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s all there is to eliminating or reducing Windows Modules Installer Worker’s CPU usage on a Windows computer. It isn't the only process related to Windows Updates that can cause problems, though. There are other [troubleshooting steps you can try if Windows Update is stuck](https://extra-guidance.techidaily.com/2024-approved-smoothing-out-the-rough-edges-in-photo-booth-videos/).
 
@@ -130,22 +130,14 @@ C:\Windows\SoftwareDistribution\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-tips-for-itunes-podcast-enrollment/"><u>[New] 2024 Approved Tips for iTunes Podcast Enrollment</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-expert-tips-for-flipping-video-courses-on-instagram/"><u>[New] In 2024, Expert Tips for Flipping Video Courses on Instagram</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-top-low-end-pc-screen-recorder-guide/"><u>[New] In 2024, Top Low-End PC Screen Recorder Guide</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024s-leading-karaoke-devices-a-comprehensive-ranking/"><u>2024'S Leading Karaoke Devices: A Comprehensive Ranking</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/5-preferred-sites-to-download-dynamic-and-versatile-text-effects/"><u>5 Preferred Sites to Download Dynamic and Versatile Text Effects</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s17-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S17 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-c67-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C67 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-vivo-y77t-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Vivo Y77t</u></a></li>
-<li><a href="https://fox-that.techidaily.com/navigating-icloud-challenges-a-comprehensive-fix-it-list-for-your-apple-device/"><u>Navigating iCloud Challenges: A Comprehensive Fix-It List for Your Apple Device</u></a></li>
-<li><a href="https://win-superb.techidaily.com/optimal-frequency-when-to-perform-pc-maintenance-guidance-from-yl-computing/"><u>Optimal Frequency: When To Perform PC Maintenance - Guidance From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-gt-5-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have GT 5 Pro fingerprint</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-streamselect-an-alternative-to-dacast/"><u>[New] StreamSelect An Alternative to DaCast</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-top-tier-aerial-vehicles-sold-here-for-2024/"><u>[Updated] Top-Tier Aerial Vehicles Sold Here for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-yuva-3-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Yuva 3 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23-fe-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23 FE in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100i-power-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100i Power 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/metodos-exitosos-y-faciles-reducir-el-tamano-de-archivos-video-para-campanas-por-email/"><u>Métodos Exitosos Y Fáciles: Reducir El Tamaño De Archivos Vídeo Para Campañas Por Email</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reel-of-triumph-celebrating-fig-skaters-in-22/"><u>Reel of Triumph - Celebrating Fig Skaters in '22</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reestablishing-efficiency-for-windows-fixer-utilities/"><u>Reestablishing Efficiency for Windows Fixer Utilities</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola</u></a></li>
 </ul></div>
 

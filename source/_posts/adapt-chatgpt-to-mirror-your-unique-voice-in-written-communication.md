@@ -1,7 +1,7 @@
 ---
 title: Adapt ChatGPT to Mirror Your Unique Voice in Written Communication
-date: 2024-10-28T10:53:26.640Z
-updated: 2024-11-03T16:38:18.557Z
+date: 2024-12-10T01:12:43.592Z
+updated: 2024-12-16T00:30:28.351Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Adapt ChatGPT to Mirror Your Unique Voice in Written Communication
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -47,10 +51,7 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
  It's up to you to judge how well ChatGPT is doing in your case. Note as well that you can specify which writing by the author you want to emulate. So if you've written different types of content for different publications, you can modify the emulated style by adding that information to the prompt.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using Text Samples to Teach ChatGPT Your Style
@@ -64,6 +65,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 > I want you to look at some sample text, and then copy the writing style according to my requests. Are you ready for the text sample?
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then after we get an affirmative response, we use this prompt and include the sample text after the colon.
 
@@ -82,10 +87,7 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As with the previous example, you'll have to judge how successful ChatGPT is for yourself.
@@ -107,10 +109,7 @@ Related: [How to Tell If an Article Was Written by ChatGPT](https://facebook-cli
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
@@ -119,13 +118,6 @@ ChatGPT 3.5 Output With Tone Specifiers In The Prompt
 
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
 
  The more complex model obviously has a better time adding the more subtle parts of the requests into the text output.
@@ -133,13 +125,6 @@ ChatGPT 3.5 Output With Tone Specifiers In The Prompt
  Keep in mind that you can tweak the output on the fly. For example, you ask something like, "Try that again, but use more active voice and less humor," or anything you like, really.
 
 Related: [ChatGPT Network Error: 7 Fixes to Try](https://discord-videos.techidaily.com/updated-decoding-the-secrets-of-discord/) 
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  Limitations and Points of Caution
 
@@ -173,19 +158,24 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-kickstarting-a-successful-social-good-campaign-online/"><u>[New] Kickstarting a Successful Social Good Campaign Online</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-crafting-a-complete-media-experience-mixing-music-and-video-in-premiere-pro/"><u>[Updated] 2024 Approved Crafting a Complete Media Experience Mixing Music and Video in Premiere Pro</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-prime-shopping-destinations-customizable-presents-with-flair-for-2024/"><u>[Updated] Prime Shopping Destinations Customizable Presents with Flair for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-smartphone-cinematography-crafting-perfect-youtube-thumbnails/"><u>[Updated] Smartphone Cinematography Crafting Perfect YouTube Thumbnails</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-creative-entrepreneurs-handbook-in-design/"><u>[Updated] The Creative Entrepreneur's Handbook in Design</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-become-a-pro-at-hosting-virtual-meetings-with-zoom-an-android-users-guide/"><u>2024 Approved Become a Pro at Hosting Virtual Meetings with Zoom An Android User's Guide</u></a></li>
-<li><a href="https://extra-information.techidaily.com/creating-a-unified-multimedia-experience-on-iphone-for-2024/"><u>Creating a Unified Multimedia Experience on iPhone for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/dias-del-mes-aprende-de-lunes-a-domingos-en-espanol/"><u>Días Del Mes: Aprende De Lunes a Domingos en Español</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-realme-11x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Realme 11X 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y100t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100t Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-x100-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo X100 Pro on Windows</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y100-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y100 5G.</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfecting-the-art-of-screen-recording-with-step-by-step-instructions-from-adobe-captivate/"><u>[New] In 2024, Perfecting the Art of Screen Recording with Step-by-Step Instructions From Adobe Captivate</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-avoiding-pitfalls-smart-strategies-for-acquiring-youtubes/"><u>[Updated] 2024 Approved Avoiding Pitfalls Smart Strategies for Acquiring Youtubes</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-gt-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme GT 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/easy-conversion-techniques-from-mp4-to-avi-files-via-the-handbrake-software/"><u>Easy Conversion Techniques From MP4 to AVI Files via the HandBrake Software</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-visual-presentation-youtube-shorts-thumbnails-fix/"><u>Ensuring Visual Presentation YouTube Shorts Thumbnails Fix</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-6-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 6 Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-7-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-recording-software-for-desktop-hd-video/"><u>In 2024, Expert Recording Software for Desktop HD Video</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-free-path-of-fcp/"><u>In 2024, Navigating the Free Path of FCP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mp2-in-mpg-konvertieren-gunstig-und-simpel-im-internet/"><u>MP2 in MPG Konvertieren - Günstig Und Simpel Im Internet</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-moviemagic-for-mac/"><u>New MovieMagic for Mac</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/printer-troubleshooting-guide-effective-techniques-for-home-repairs-expert-advice-by-yl-software/"><u>Printer Troubleshooting Guide: Effective Techniques for Home Repairs - Expert Advice by YL Software</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2016-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2016 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y78plus-t1-edition-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y78+ (T1) Edition Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor X7b? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-a15-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy A15 4G ?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-12-07T23:06:09.099Z
-updated: 2024-12-09T21:24:59.225Z
+date: 2024-12-10T22:44:24.488Z
+updated: 2024-12-16T04:44:16.930Z
 tags:
   - web
 categories:
@@ -38,25 +38,28 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-qualitysound-check/"><u>[New] In 2024, QualitySound Check</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nlock-your-favorites-anytime-anyplace-with-top-6-free-video-downloaders/"><u>[New] Unlock Your Favorites Anytime, Anyplace with Top 6 Free Video Downloaders</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-unbeatable-range-ultimate-4k-camera-rig-selection/"><u>[Updated] In 2024, Unbeatable Range Ultimate 4K Camera Rig Selection</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-radiance-studios-review-pinnacle-suite-deep-dive-into-studio-25-2023/"><u>2024 Approved Radiance Studios Review Pinnacle Suite Deep Dive Into Studio 25, 2023</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/digitize-effortlessly-turn-to-mematic-for-2024/"><u>Digitize Effortlessly - Turn to Mematic for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-beauty-essentials-how-to-achieve-smooth-skin-without-plugins/"><u>FCPX Beauty Essentials How to Achieve Smooth Skin Without Plugins</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-zte-nubia-z60-ultra-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset ZTE Nubia Z60 Ultra If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y78plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y78+ Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-11-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-infinix-note-30-vip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Note 30 VIP phone? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-from-twitter-to-facebook-sending-your-tweets/"><u>In 2024, From Twitter to Facebook Sending Your Tweets</u></a></li>
-<li><a href="https://win11.techidaily.com/navigating-through-high-contrast-settings-for-mouse-cursors-in-windows-11/"><u>Navigating Through High-Contrast Settings for Mouse Cursors in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-13-pro-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 13 Pro screen lock</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/ultimate-tutorial-on-migrating-quickbooks-data-to-a-fresh-pc/"><u>Ultimate Tutorial on Migrating QuickBooks Data to a Fresh PC</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-13-mini-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 13 mini?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart/"><u>[New] Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-making-words-dance-the-art-of-sculpted-photographic-content/"><u>[New] In 2024, Making Words Dance The Art of Sculpted Photographic Content</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-construct-playlist-with-film-assortments-for-2024/"><u>[Updated] Construct Playlist with Film Assortments for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-ultimate-unseen-ui-techniques-for-newcomers-for-2024/"><u>[Updated] Ultimate Unseen UI Techniques for Newcomers for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-superior-asmr-audio-with-top-recorder-mics/"><u>[Updated] Unlock Superior ASMR Audio with Top Recorder Mics</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/auto-gpt-vs-gpt-4-practical-value/"><u>Auto-GPT Vs. GPT-4: Practical Value?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/expertise-boost-for-editors-leveraging-story-remix-within-windows-photos/"><u>Expertise Boost for Editors Leveraging Story Remix Within Windows Photos</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y55s-5g-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y55s 5G (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x8b-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X8b in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-neo-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 Neo in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-10-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 10 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-launch-failures-in-call-of-duty-modern-warfare-3-with-these-quick-fixes/"><u>Overcome Launch Failures in Call of Duty Modern Warfare 3 with These Quick Fixes</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-gionee-f3-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Gionee F3 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edgeplus-2023-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-90-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on 90 Pro without backup.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unifying-individual-jpeg-pictures-into-one-convenient-pdf-document-tips-and-tricks/"><u>Unifying Individual JPEG Pictures Into One Convenient PDF Document - Tips & Tricks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

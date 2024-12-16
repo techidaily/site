@@ -1,7 +1,7 @@
 ---
 title: "Mastering Personalized Communication: Tailoring Your ChatGPT Responses"
-date: 2024-12-05T01:32:52.007Z
-updated: 2024-12-09T16:37:55.788Z
+date: 2024-12-13T17:19:04.695Z
+updated: 2024-12-16T03:24:46.141Z
 tags:
   - cutting-edge
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
  We're using a popular AI text detector here as a way to demonstrate that these methods make a real difference to the text, but it's important to note that AI text-detection tools are not a reliable way to [tell if the text is AI-generated or not](https://facebook-clips.techidaily.com/in-2024-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos/). These tools have [fundamental problems](https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/) that make them unsuitable for determining whether text is human-written. On top of this, while text may pass a detector, it might still obviously read as nonsense to a human reader. So use your own judgment on whether the humanized output is good enough for your needs or not.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Method 1: Use ChatGPT-4
 
  If you're a ChatGPT Plus subscriber, you'll have access to [GPT-4](https://extra-support.techidaily.com/new-pictorial-perfection-proven-techniques-for-stunning-photos/), which is [much more capable and sophisticated than the standard GPT 3.5 Turbo model](https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-honor-x50i-drfone-by-drfone-virtual-android/) that's on by default. Just left to its own devices, GPT-4 produces much more natural text, and in my testing using the popular GPT Zero service is much less likely to trigger a result that's confident of AI text. Here I've asked GPT-4 to write an opinion piece on why manual transmissions are better than automatic (because they are).
@@ -31,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 ![Portion of ChatGPT Output writing on how manual transmissions are better in cars.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-12-47-36.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In this case, on the second re-roll of the prompt, we get a good result and manually editing the few low-perplexity sentences is no big deal.
@@ -45,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 ![Burstines and Perplexity scores for the article you're reading right now with perplexity. at 1904.558 and Burstiness at 11030.752](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-10-at-09-52-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Use The "Humanize" Plugin
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 ![ChatGPT Humanize Plugin Runnin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-11-00-49.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  However, plugins are still a beta feature, and at the time of writing, the Humanize plugin seemed to have issues, although I've had good results with it in the past. There are also many other plugins in the store (with more added frequently) that promise to rephrase or otherwise humanize text for you, so have a browse of what's on offer.
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
 ![Prompt reading "Rewrite this in the style of Sydney Butler, writer for how-to geek"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-14-07-59.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're a ChatGPT Plus subscriber, you can use the [Custom Instructions](https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue-for-2024/) to make permanent changes to how ChatGPT responds in every chat, as long as those instruction are active.
 
  Again, we get a result for human, with a few single sentences flagged as potentially AI-generated.
@@ -83,7 +83,7 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 ![Low perplexity sentences](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-12-16-18.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also add additional flavor to your prompt, such as asking for the tone to be casual, friendly, etc., and in many cases, this will result in GPT Zero reporting with confidence that the text is human.
@@ -109,20 +109,22 @@ thumbnail: https://thmb.techidaily.com/7f4ae1b9b31cac38f7f5bddb79d648495e38c2278
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] 2024 Approved Aim Higher Boosting Views and Reach on YouTube</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-best-webcam-technology-boosting-audio-fidelity/"><u>[Updated] Best Webcam Technology Boosting Audio Fidelity</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-ttml-xml-and-beyond-creating-flawless-srts-for-audio-files/"><u>[Updated] In 2024, TTML, XML & Beyond Creating Flawless SRTs for Audio Files</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-gentle-growth-of-silence-in-audio-production/"><u>2024 Approved Achieving Gentle Growth of Silence in Audio Production</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-remove-unsolicited-podcast-episodes-on-spotify-app/"><u>2024 Approved Remove Unsolicited Podcast Episodes on Spotify App</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-turnback-artisan-hub/"><u>2024 Approved Turnback Artisan Hub</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/elevate-your-income-with-proven-vimeo-advertising-strategies-for-2024/"><u>Elevate Your Income with Proven Vimeo Advertising Strategies for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-xr21-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia XR21 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-enhanced-exhilaration-curated-list-of-best-srt-upgrades-for-pc-and-mac/"><u>In 2024, Enhanced Exhilaration Curated List of Best SRT Upgrades for PC & Mac</u></a></li>
-<li><a href="https://techidaily.com/is-your-asus-rog-phone-8-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Asus ROG Phone 8 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-5-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 5 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ix-masters-ideal-dj-videos-to-download-for-2024/"><u>[New] Mix Masters Ideal DJ Videos to Download for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/amplify-igtv-audiences-5-effective-ways-for-a-larger-following/"><u>Amplify IGTV Audiences 5 Effective Ways for a Larger Following</u></a></li>
+<li><a href="https://win11.techidaily.com/bypassing-the-mandatory-component-fault-windows-1011/"><u>Bypassing the Mandatory Component Fault Windows 10/11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chromatic-magic-transform-your-video-with-color-knowledge-for-2024/"><u>Chromatic Magic Transform Your Video with Color Knowledge for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100a-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-12-proplus-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 12 Pro+ 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guaranteed-safe-downloads-of-sades-headset-drivers-compatible-with-windows-systems/"><u>Guaranteed Safe Downloads of Sades Headset Drivers Compatible with Windows Systems</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c300-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C300 Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-infinix-hot-30i-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Infinix Hot 30i Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-11-pro-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone 11 Pro If Youve Tried Everything</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-edge-40-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Edge 40 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v16-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.6 File using PDF Repair Tool</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-for-implementing-bots-into-discord/"><u>The Ultimate Tutorial for Implementing Bots Into Discord</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-x-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone X without itunes or icloud</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager in Windows 10</u></a></li>
 </ul></div>
 

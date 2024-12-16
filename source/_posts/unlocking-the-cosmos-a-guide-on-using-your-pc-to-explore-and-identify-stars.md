@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars"
-date: 2024-12-03T23:29:21.918Z
-updated: 2024-12-09T20:17:57.873Z
+date: 2024-12-12T01:03:44.597Z
+updated: 2024-12-15T21:16:21.386Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 ---
 
 ## Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
  While sitting idle, your computer could be searching the sky for undiscovered stars using Einstein@Home. Folks such as yourself who volunteer their computing resources for this project, have discovered more than 90 stars! Here’s how you can join this awesome mission.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How It Works
@@ -50,10 +54,6 @@ NASA
 
 ![BOINC download button on the official page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/boinc-download-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I’m using the Windows version of BOINC for this demonstration.
 
  Launch the setup by double-clicking the file you downloaded. Click "Next" twice and wait for a successful installation.
@@ -68,13 +68,13 @@ NASA
 
 ![The blank project screen on the BOINC manager app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/welcome.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Add Project." Choose Einstein@Home from the list and click "Next." You’ll be asked to log into your Einstein@Home account. Under "Are you already running this project?", select "Yes, existing user." Enter your email and password. Click "Next."
 
 ![Adding Einstein@Home in the BOINC project list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-einsteinhome-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Accepting Einstein@Home terms of use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/enabling-einsteinhome.png) 
 
@@ -86,15 +86,15 @@ Close
 
 ![BOINC manager running Einstein@Home.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/running.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  hile I was first setting up Einstein@Home, my BOINC manager wouldn’t get any tasks. I had to fix it by manually adjusting my resource allocation. To do that:
 
  On the top menu, click "View" and select "Advanced view." Then click Options > Computing Preferences and increase the percentage of the CPU usage and CPU time. Then click "Save" and restart the BOINC manager.
 
  It might look stuck at first, but give it a couple of minutes to get up and running. If you see a green arrow next to a task, it means BOINC is actively working on it. If you see a red stop sign, it means BOINC has paused processing that task.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Pro Tips
 
@@ -108,15 +108,7 @@ Close
 
 ![Advanced view being activated on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Computing preferences in Advanced view on BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view-preferences-1.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Close 
 
@@ -124,9 +116,17 @@ Close
 
 ![Tasks shown in Advanced view on the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/task-details.PNG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Einstein@Home validates the results your machine sends in and grants you credits for every validated task. These credits will show up on your official certificate which is great for bragging rights.
 
 ![My BOINC computation certificate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/certificate.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -147,22 +147,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-effortless-share-of-igtv-on-your-stories-for-2024/"><u>[Updated] Effortless Share of IGTV on Your Stories for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-from-fuzzy-frames-to-sharpness-the-v22-journey/"><u>[Updated] From Fuzzy Frames to Sharpness - The V2.2 Journey</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-constructing-captivating-valorant-youtube-thumbnails/"><u>2024 Approved Constructing Captivating Valorant YouTube Thumbnails</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/exceptional-14-visual-text-motion-examples-for-2024/"><u>Exceptional 14 Visual Text Motion Examples for 2024</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/hottest-apple-watch-promotions-for-this-week/"><u>Hottest Apple Watch Promotions for This Week!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-battlenet-wont-open-2024-guide/"><u>How to Fix Battle.net Won’t Open – 2024 Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-poco-x5-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco X5 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-still-using-pattern-locks-with-samsung-galaxy-m34-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Samsung Galaxy M34 5G? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-webvidrecorder-download-fb-content-easily/"><u>In 2024, WebVidRecorder Download FB Content Easily</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transform-loneliness-interactive-ai-as-social-catalyst/"><u>Transform Loneliness: Interactive AI as Social Catalyst</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-realme-c67-4g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Realme C67 4G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-k11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from K11 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-htc-u23-by-fonelab-android-recover-music/"><u>Undelete lost music from HTC U23</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30 VIP Racing Edition.</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C51 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-match-image-taking-and-music-merging-technology/"><u>[New] Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-step-by-step-the-ultimate-guide-to-borders-on-insta-pics/"><u>2024 Approved Step-By-Step The Ultimate Guide to Borders on Insta Pics</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-a23-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Samsung Galaxy A23 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-web-gems-crafting-unique-wrapped-masterpieces/"><u>In 2024, Prime Web Gems Crafting Unique Wrapped Masterpieces</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-the-ultimate-guide-to-microphone-setup-in-audacity-for-mac/"><u>In 2024, The Ultimate Guide to Microphone Setup in Audacity for Mac</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-blaze-2-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Blaze 2 Pro on Windows</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a15-4g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy A15 4G won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://games-able.techidaily.com/strengthen-your-cognitive-muscles-with-nyts-exciting-new-brain-teaser-strands/"><u>Strengthen Your Cognitive Muscles With NYT’s Exciting, New Brain Teaser: Strands</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oneplus-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your OnePlus 11 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726029679273-xmedia-recode/"><u>XMedia Recode翻案中に遭遇した問題とその解決手順</u></a></li>
 </ul></div>
 

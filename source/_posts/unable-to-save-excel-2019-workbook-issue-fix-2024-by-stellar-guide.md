@@ -1,6 +1,6 @@
 ---
 title: Unable to Save Excel 2019 Workbook Issue Fix 2024
-date: 2024-09-19T04:15:05.613Z
+date: 2024-12-12T00:24:49.360Z
 tags: 
   - repair
   - repair excel
@@ -28,6 +28,10 @@ In an organization, users connected to one of the servers (Windows 2008 R2) usin
 
 This issue was discussed at length at one of the [Tech Forums](https://community.spiceworks.com/topic/371563-excel-document-not-saved-issue), where the users were unable to access their workbooks stored on the shared drive. The File menu did not work. As a result, the users were forced to save the workbook by creating quick access shortcuts or locally on the desktop. In many cases, the saving option was ruled out completely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Instance 2:**
 
 A [similar problem](https://www.dell.com/support/article/in/en/indhs1/sln308103/unable-to-save-workbook-in-microsoft-excel?lang=en) was reported, wherein the users received an error when saving an Excel workbook after inserting a chart in an existing workbook (previously saved) or copying values from an existing workbook. A system is configured with Windows 7 and Microsoft Office 10 configuration. The issue arises when the user is unable to save the changes after editing in a saved spreadsheet. The following message displays on the screen:
@@ -49,6 +53,10 @@ Figure: Unable to Save Excel WorkBook Issue
 3. The issue of ‘Unable to Save Excel Workbook’ impacts only the Build Version 1707 (Build 8326.2086) and later.
 4. In case of Issue 2, the problem surfaces when the user adds files, tables or charts in the locally saved excel files, such as on the desktop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods to fix the ‘Unable to Save Excel Workbook’ Issue
 
 There may be an issue with the Build version or the Registry Values settings may not be appropriate, which does not allow the Excel workbooks to save.
@@ -63,13 +71,6 @@ There may be an issue with the Build version or the Registry Values settings may
 6. **Excel spreadsheet is corrupt**: If none of the above factors have not caused hindrance in saving the file, then there may be a probability of [corruption in the Excel spreadsheet](https://www.stellarinfo.com/blog/simple-way-to-open-corrupt-excel-file-without-any-backup/).
 
 Once verified, look for a healthy and restorable backup. If backup is missing, resolve the issue of “Unable to open Excel File” with manual settings on local system or through a reliable Excel repair software.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Modify Registry Entries
 
@@ -86,6 +87,10 @@ Figure: Edit Registry
 
 ![Image of Registry Editor window, locating the registry subkey](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/CSC-Location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: CSC Location
 
 4. Point the cursor to New, and click Key
@@ -98,24 +103,15 @@ Figure: Create new key
 
 !['Type ‘File Parameters’ in the available box' ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/File-Parameter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: File parameters
 
 6. Right-click Parameters, point the cursor to New, and click DWORD (32-bit) Value
 
 ![Image of selecting DWORD (32-bit) Value under "New" by right clicking on "File Parameters" in the Registry Editor](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/DWORD32bit.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure: File parameter (DWORD – 32 bit) value
 
@@ -130,16 +126,17 @@ Figure: Modify format database
 ![Image of Value Data set as 1 in the Value data box 1 after clicking on "Modify..."](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/05/value-data.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure: Value data
 
 9. Exit ‘Registry Editor’
 10. Restart the system and verify if the files can be saved now
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Try Google Uploads
 
@@ -149,13 +146,6 @@ If the user is unable to save the changes after editing in a locally saved sprea
 2. Check if all the formulae are active and working.
 3. Make changes to the Google Sheet and verify that all the changes are working fine.
 4. Use the Google Sheets export feature to download the file in Excel format.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Resolve manually with Open and Repair
 
@@ -170,13 +160,6 @@ If the user is unable to save the changes after editing in a locally saved sprea
 Figure: Illustrates Steps to use ‘Open and Repair’ method
 
 The Open and Repair utility is not competitive enough and may not fix corruption in severely corrupted files. Hence, if you are unable to save Excel workbook after applying the manual methods, then you can search for a useful software-based repair utility.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Excel File Repair Software
 
@@ -194,10 +177,7 @@ See the working of the software which has been declared as a tool that provides 
 The **Excel repair software** takes care to save the repaired data in a new file to minimize the chances of further corruption.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -227,5 +207,20 @@ Hence, it is suggested to analyze the nature of the problem and decide an approp
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-pro-level-mac-audio-logging-tools-uncover-the-top-5/"><u>[New] 2024 Approved Pro-Level Mac Audio Logging Tools Uncover the Top 5</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-list-of-mac-screen-capture-software/"><u>[Updated] 2024 Approved The Ultimate List of Mac Screen Capture Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-youtubes-dimensions-decoded-a-comprehensive-ratio-handbook/"><u>[Updated] 2024 Approved YouTube's Dimensions Decoded A Comprehensive Ratio Handbook</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-htc-u23-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-storm-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Storm 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s24plus-phone-without-password-by-drfone-android/"><u>How To Unlock Samsung Galaxy S24+ Phone Without Password?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nokia-105-classic-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Nokia 105 Classic Phone Without Password?</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-merge-videos-without-ads-7-leading-software-choices/"><u>New In 2024, Merge Videos Without Ads 7 Leading Software Choices</u></a></li>
+<li><a href="https://discover-community.techidaily.com/overcoming-processor-overheat-challenges-expert-tips-by-yl-software-professionals/"><u>Overcoming Processor Overheat Challenges: Expert Tips by YL Software Professionals</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/solutions-pour-les-problemes-rencontres-en-tentant-de-restaurerextraire-des-fichiers-lors-de-la-configuration-ou-de-la-restauration-sur-windows-amo/"><u>Solutions Pour Les Problèmes Rencontrés en Tentant De Restaurer/Extraire Des Fichiers Lors De La Configuration Ou De La Restauration Sur Windows Amo.</u></a></li>
+</ul></div>
 

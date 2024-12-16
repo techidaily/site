@@ -1,6 +1,6 @@
 ---
 title: Top 5 Ways to Fix Excel File Not Opening Error
-date: 2024-09-18T08:25:23.318Z
+date: 2024-12-11T04:12:12.860Z
 tags: 
   - repair
   - repair excel
@@ -30,6 +30,10 @@ Following are some possible causes that may result in the ‘Excel file not open
 4. The file association might have been broken. This is a common problem faced by users who have upgraded their Excel application or operating system.
 5. The file you’re trying to open is corrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5 Ways to Fix Excel File Not Opening Error
 
 Let’s explore the ways to resolve the Excel file not opening error:
@@ -47,26 +51,12 @@ Dynamic Data Exchange (DDE)allows Excel to communicate with other programs. The 
 
 ![Advanced options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Advanced-options-02.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Further, find the **General** option on the screen.
 
 ![General Option uncheck Dynamic Data Exchange Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/general-option-uncheck-Dynamic-Data-Exchange-option-03.png)
 
 - Uncheck the option **‘Ignore other applications that use Dynamic Data Exchange (DDE)**’.
 - Click **OK** to save the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Reset Excel File Associations
 
@@ -97,10 +87,7 @@ Many people install third-party add-ins to enhance the application’s functiona
 ![Click on Add ins Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Click-on-Add-ins-option-07.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - In the window that opens, go to the **Manage** option at the bottom.
@@ -111,6 +98,14 @@ Many people install third-party add-ins to enhance the application’s functiona
 - In the COM Add-ins window, uncheck all the boxes to disable the add-ins. Click **OK.**
 
 ![Diasble Com Add ins Checkbox](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/diasble-com-add-ins-checkbox-09.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Repair MS Office Program
 
@@ -124,20 +119,21 @@ Sometimes the issue is not with your Excel file. Instead, the reason for the err
 
 ![appwiz.cpl in the run field](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/appwiz.cpl-in-the-run-field-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Find the MS Office program in the list of applications.
 
 ![locate Microsoft Office in the list](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/locate-Microsoft-Office-in-the-list-12.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Right-click on it and select **Change**.
 
 ![Right Click and Select Change](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/right-click-and-select-change-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In the new window, select the **Quick Repair** radio button. Click **Repair**.
 
@@ -146,10 +142,7 @@ Sometimes the issue is not with your Excel file. Instead, the reason for the err
 - Follow the on-screen instructions to repair the Office application. Once the repair process is completed, you can try opening the Excel file to see if the problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 5\. Disable Hardware Graphics Acceleration
@@ -163,13 +156,6 @@ The hardware graphics acceleration assists in the system’s better performance,
 
 ![Uncheck Disable Hardware Acceleration](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/hardware-accelaration-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## What If These Solutions Do Not Work?
 
 If you have applied all the methods mentioned above and still cannot open your Excel file, there are chances that your file is corrupted. You can use a specialized [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel to repair the corrupted Excel file. This software has powerful algorithms that can scan and repair even severely corrupt Excel files, without any file size limitation. After repairing the file, it restores all the data, including tables, charts, rules, etc. to a new Excel, with 100% integrity.
@@ -181,17 +167,11 @@ To know how the software works, see the video below:
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -213,5 +193,22 @@ Before you proceed with resolving the Excel file not opening error, try to find 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-how-to-extract-and-convert-twitter-videos-hosted-on-youtube-to-mp3s-for-2024/"><u>[New] How to Extract and Convert Twitter Videos Hosted on YouTube to MP3s for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-crafting-self-narratives-100-unique-instagram-captions/"><u>[Updated] 2024 Approved Crafting Self-Narratives - 100 Unique Instagram Captions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-classic-cinematography-step-by-step-guide-for-2024/"><u>[Updated] Crafting Classic Cinematography Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-meizu-21-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Meizu 21 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-s23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel S23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722172518949-enhance-interaction-quality-with-chatgpt-plus-here-are-ebox9-reasons-why/"><u>Enhance Interaction Quality with ChatGPT Plus - Here Are Ebox9 Reasons Why!</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-x9b-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X9b Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-upgrade-to-the-latest-targus-displaylink-drivers-on-your-window-based-pcs-versions-1187/"><u>How to Upgrade to the Latest Targus DisplayLink Drivers on Your Window-Based PCs (Versions 11/8/7)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/microsoft-store-access-immediate-fixes-needed/"><u>Microsoft Store Access: Immediate Fixes Needed?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-insiders-guide-to-professional-vsco-usage/"><u>The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-zte-nubia-z60-ultra-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-100-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor 100</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-y77t-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo Y77t</u></a></li>
+</ul></div>
 

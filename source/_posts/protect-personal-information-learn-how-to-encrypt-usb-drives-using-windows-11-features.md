@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2024-12-07T22:25:42.676Z
-updated: 2024-12-09T16:43:53.633Z
+date: 2024-12-12T03:21:10.497Z
+updated: 2024-12-15T19:28:45.556Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ---
 
 ## Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 * While BitLocker is suitable for protecting sensitive information on portable computers, there are third-party encryption options available for Windows Home users.
 
  Flash drives are convenient, but they're also easy to lose and often contain sensitive information you don't want in the wrong hands. Luckily, Windows 10 and 11 Pro users can easily encrypt and decrypt flash drives with no additional software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is BitLocker (And Why Use It)?
 
@@ -54,41 +54,37 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. Choose a password.
 
 ![BItLocker Window asking how the user wants to unlock the drive that's about to be encrypted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6\. Choose where and how to save your recovery key, which will let you decrypt the drive if you forget your password.
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
 ![Bitlocker asking the user whether they want to encrypt the entire disk or only part of it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  8\. Choose the encryption type, which in almost all cases should be "Compatibility Mode." This ensures that older versions of Windows can read the drive. Since we're encrypting a portable drive, this is presumably something you want. However, if you're only going to use this drive with one computer, feel free to select the newer encryption option instead.
 
 ![Bitlocker offering either the new encryption mode or the older compatible mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/7.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9\. Click "Start Encrypting" and wait for the process to finish.
 
 ![The BitLocker Ready screen with a 'Start Encrypting' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
 
@@ -105,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
  In the BitLocker management Windows, choose "Turn off BitLocker" for the drive in question.
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then simply confirm as you did when first encrypting the drive.
 
@@ -135,24 +135,19 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-strategies-capturing-saving-and-sharing-ps4-experiences/"><u>[New] Top Strategies Capturing, Saving & Sharing PS4 Experiences</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-13c-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-k11x-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo K11x Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/fixing-stutter-and-hitches-smooth-playthrough-tips-for-free-path-of-exile-version/"><u>Fixing Stutter & Hitches: Smooth Playthrough Tips for Free Path of Exile Version</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-chatgpt-reimagines-the-process-of-writing-film-scripts/"><u>How ChatGPT Reimagines the Process of Writing Film Scripts</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 Pro Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-t2-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo T2 Pro 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-lava-blaze-2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Lava Blaze 2 5G Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-spark-20-pro-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock Tecno Spark 20 Pro Phone without PIN</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1715860070034-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>In 2024, Infinite Jest Joyride - Top Kids' Game Lineup!</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/maximizing-your-video-cards-efficiency-tips-from-yl-software-experts/"><u>Maximizing Your Video Card's Efficiency: Tips From YL Software Experts</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/non-professional-strategies-for-stable-screens/"><u>Non-Professional Strategies for Stable Screens</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2003-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2003 Documents Online for Free</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-nord-ce-3-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Nord CE 3 5G</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-y17s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo Y17s.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-poco-m6-pro-4g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Poco M6 Pro 4G</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-zte-by-fonelab-android-recover-video/"><u>Undeleted lost videos from ZTE</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-realme-gt-5-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Realme GT 5 Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-system-updated-with-free-killer-e2-5gbe-ethernet-controller-driver-downloads/"><u>Get Your System Updated with Free Killer E2 5GbE Ethernet Controller Driver Downloads</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-samsung-galaxy-m54-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-the-art-of-sending-audio-notes-using-your-iphone/"><u>Mastering the Art of Sending Audio Notes Using Your iPhone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/playful-media-extractor-evaluation/"><u>Playful Media Extractor Evaluation</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v15-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v1.5 files on my Mac using tool | Stellar</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f14-5g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung Galaxy F14 5G won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-ultimate-verdict-on-x-chairs-x4-executive-chair-top-pick-for-professionals/"><u>The Ultimate Verdict on X-Chair's X4 Executive Chair – Top Pick for Professionals</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/top-13-freie-dvd-player-apps-fur-windows-11-eine-umfassende-liste/"><u>Top 13 Freie DVD-Player Apps Für Windows 11: Eine Umfassende Liste</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2021-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2021 File Not Opening Error</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-your-lava-yuva-3-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Lava Yuva 3 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-free-video-shrinking-software-for-windows-10-this-year/"><u>Updated In 2024, Best Free Video Shrinking Software for Windows 10 This Year</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-14-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from 14</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-m34-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy M34 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

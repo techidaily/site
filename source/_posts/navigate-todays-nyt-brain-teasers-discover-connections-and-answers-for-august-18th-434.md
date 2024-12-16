@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2024-12-07T21:28:23.146Z
-updated: 2024-12-10T01:23:48.361Z
+date: 2024-12-13T20:52:21.814Z
+updated: 2024-12-15T16:58:52.783Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ---
 
 ## Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Connections?
 
  Connections is a game from the New York Times. The objective is simple: sort 16 words into groups of 4\. Each group of words will be connected by some common idea or theme. That common element could be anything. We have seen everything from games that rely on the number of letters in the words to categories that require you to spot an extra letter at the end of the word. Sometimes they're references to economics, other times they reference fairy tales. There is no telling what sort of association there will be between words.
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 ![The unsorted words for August 18 Connections game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-18-connections-game.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still need help, the actual group names are:
 
 * **Yellow:** Alarm Clock Button
@@ -54,16 +58,12 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Purple:** Seven Dwarfs Minus Last Letter
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![The words for August 18 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-18-sorted-into-the-correct-groups.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Alarm Clock Buttons (Yellow):** 
 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  That left Do, Dope, Grump, and Sleep—once again, I was a bit stumped by Purple. I eventually realized that grump, dope, and sleep could all take a Y at the end and still make sense, but that didn't work for do. Purple turned out to be "Seven Dwarfs Minus Last Letter." Turns out that I need to up my fairytale game. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -125,22 +125,20 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-crafting-visuals-with-precision-5-top-tips-for-pros-for-2024/"><u>[New] Crafting Visuals with Precision 5 Top Tips for Pros for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-artisans-handbook-to-photomontage-creation/"><u>[New] The Artisan's Handbook to PhotoMontage Creation</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-c12-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-c51-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme C51 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/exclusive-lineup-all-angle-recorders/"><u>Exclusive Lineup All-Angle Recorders</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-zero-5g-2023-turbo-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Zero 5G 2023 Turbo If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-7-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 7 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-best-9-virtual-mic-recorders-to-enhance-remote-sessions-23/"><u>In 2024, Best 9 Virtual Mic Recorders to Enhance Remote Sessions ('23)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-inside-the-world-of-superior-screen-recording-with-recmeister/"><u>In 2024, Inside the World of Superior Screen Recording with Recmeister</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-a2-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo A2 on Mac</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor X50i+</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/tailored-web-experiences-powered-by-advanced-cookiebot-solutions/"><u>Tailored Web Experiences Powered by Advanced Cookiebot Solutions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-15-apps-to-hack-wifi-password-on-itel-s23-by-drfone-android/"><u>Top 15 Apps To Hack WiFi Password On Itel S23</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-galaxy-s24-ultra-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Galaxy S24 Ultra</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-a59-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo A59 5G on Mac?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-epitaph-to-entertainment-picking-the-ultimate-zombie-games/"><u>[New] In 2024, Epitaph to Entertainment Picking the Ultimate Zombie Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-underwater-cinematography-made-simple-top-7-tips/"><u>[Updated] Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-presentations-with-a-personal-touch-adding-audio/"><u>2024 Approved Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/efficient-techniques-for-upgrading-dell-webcam-driver-versions-correctly/"><u>Efficient Techniques for Upgrading Dell Webcam Driver Versions Correctly</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-audio-glitches-a-comprehensive-guide/"><u>How to Fix Windows Audio Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-13-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 13 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-find-n3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Find N3 Data? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721478266244-icloud-backup-failures-on-iphone-top-9-remedies/"><u>ICloud Backup Failures on iPhone - Top 9 Remedies</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-a60-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel A60</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g34-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G34 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-narzo-60x-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme Narzo 60x 5G on Mac?</u></a></li>
 </ul></div>
 

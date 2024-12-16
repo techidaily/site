@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-12-07T17:12:47.062Z
-updated: 2024-12-09T17:28:52.727Z
+date: 2024-12-14T22:13:25.990Z
+updated: 2024-12-15T21:29:39.397Z
 tags:
   - deals
 categories:
@@ -40,22 +40,25 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-from-sound-to-storage-logging-online-broadcasts-efficiently-for-2024/"><u>[New] From Sound to Storage Logging Online Broadcasts Efficiently for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-leverage-your-xbox-gameplay-for-virtual-engagement-on-fb/"><u>[Updated] Leverage Your Xbox Gameplay for Virtual Engagement on FB</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-ace-2v-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Ace 2V Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-angles-in-filming-versus-diverse-dimensions/"><u>Comprehensive Angles in Filming versus Diverse Dimensions</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-s18-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo S18 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/efficient-solutions-to-the-most-common-videography-faults/"><u>Efficient Solutions to the Most Common Videography Faults</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/elevate-your-social-media-presence-with-these-snapchat-strategies-for-2024/"><u>Elevate Your Social Media Presence with These Snapchat Strategies for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi 13T Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/overcoming-common-issues-with-your-ecipher-key-recovery-solutions/"><u>Overcoming Common Issues with Your eCipher Key - Recovery Solutions</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/storage-soaring-speeds-stalling-mp60-model/"><u>Storage Soaring, Speeds Stalling - MP60 Model</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Plus Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-13-pro-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Pro Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/ultimate-guide-to-selecting-the-best-cloning-software-for-different-windows-operating-systems-windows-111087vistaxp/"><u>Ultimate Guide to Selecting the Best Cloning Software for Different Windows Operating Systems (Windows 11/10/8/7/Vista/XP)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-photo-magic-weaving-text-into-your-imagery-journey/"><u>[Updated] Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/refsand/"><u>「ReFSパーティション修復&再生ガイド」</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia XR21 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-x6-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find X6 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s18-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S18 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-launch-games-with-eac-installation-checklist-for-easy-anti-cheat-software/"><u>How to Successfully Launch Games with EAC - Installation Checklist for Easy Anti-Cheat Software</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to others devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-laptop-guide-conducting-live-calls-on-whatsapp-browser/"><u>In 2024, Laptop Guide Conducting Live Calls on WhatsApp Browser</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-pricepoint-nimbus-economical-mass-storage-haven/"><u>In 2024, PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-dawn-of-a-different-day-in-silicon-valley-with-laws/"><u>The Dawn of a Different Day in Silicon Valley with Laws</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-gt-neo-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme GT Neo 5 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-rated-economical-video-doorbells-vuebell-model-breakdown-and-evaluation/"><u>Top Rated Economical Video Doorbells: VueBell Model Breakdown and Evaluation</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

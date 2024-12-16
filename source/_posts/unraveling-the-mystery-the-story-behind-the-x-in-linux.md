@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-12-04T01:09:43.294Z
-updated: 2024-12-09T19:17:58.727Z
+date: 2024-12-09T23:41:34.553Z
+updated: 2024-12-15T20:55:12.400Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ---
 
 ## Unraveling the Mystery: The Story Behind the 'X' In Linux
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  Meanwhile, the Multics project labored away until, in 1969, they produced a working operating system for the General Electrics GE 645 computer. Today, a collection of enthusiasts keep it alive, and you can download and [run it on your own computer](https://multics-wiki.swenson.org/index.php/Getting%5FStarted), on simulated hardware.
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
@@ -76,14 +80,10 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -98,7 +98,7 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -118,7 +118,7 @@ Dave McKay/How-To Geek
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s in a Name?
@@ -142,19 +142,22 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-chromes-multi-screen-magic-pip-tutorial/"><u>[Updated] 2024 Approved Chrome's Multi-Screen Magic PIP Tutorial</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-pixelpilot-expert-tips-for-screen-snagging/"><u>[Updated] 2024 Approved PixelPilot Expert Tips for Screen Snagging</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-navigating-the-world-of-video-screen-capture/"><u>[Updated] Navigating the World of Video Screen Capture</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/asf-wav-online/"><u>ASF 파일을 무료로 WAV 형식으로 바꾸는 방법 - Online 가이드</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/comprehensive-guide-free-pci-expansion-bus-drivers-for-windows-11-10-8-and-7-pcs/"><u>Comprehensive Guide: Free PCI Expansion Bus Drivers for Windows 11, 10, 8 & 7 PCs</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-12plus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-s24plus-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-vs-2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic Vs 2 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-lg-27ud68-4k-freesync-monitor-review/"><u>In 2024, LG 27UD68 4K FreeSync Monitor Review</u></a></li>
-<li><a href="https://some-tips.techidaily.com/online-gratis-conversion-de-archivos-swf-y-wmv-a-formatos-mas-recientes/"><u>Online Gratis Conversión De Archivos SWF Y WMV a Formatos Más Recientes</u></a></li>
-<li><a href="https://games-able.techidaily.com/steam-deck-gaming-101-integrating-emudeck/"><u>Steam Deck Gaming 101: Integrating EmuDeck</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-formulate-light-hearted-images-for-social-media-giphy/"><u>[New] Formulate Light-Hearted Images for Social Media Giphy</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capturing-your-workspace-a-step-by-step-screenrec-guide/"><u>[Updated] In 2024, Capturing Your Workspace A Step-by-Step ScreenRec Guide</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/2-kostengunstige-und-leichte-methoden-zum-schutz-ihrer-computerdaten-auf-google-drive/"><u>2 Kostengünstige Und Leichte Methoden Zum Schutz Ihrer Computerdaten Auf Google Drive</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-5-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 5 Lite Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-nord-n30-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Nord N30 SE Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-asus-rog-phone-8-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Asus ROG Phone 8 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>In 2024, Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-realme-gt-5-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Realme GT 5</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-overcoming-common-netflix-glitches-for-seamless-streaming-on-lg-televisions/"><u>Step-by-Step Guide: Overcoming Common Netflix Glitches for Seamless Streaming on LG Televisions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/sync-across-platforms-downloading-and-storing-gifs-from-facebook-for-2024/"><u>Sync Across Platforms Downloading and Storing GIFs From Facebook for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-quintessential-set-of-5-features-that-can-skyrocket-your-twitch-channel-growth/"><u>The Quintessential Set of 5 Features That Can Skyrocket Your Twitch Channel Growth</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/troubleshooting-guide-fixing-camera-issues-on-iphone-1514-following-recent-ios-updates/"><u>Troubleshooting Guide: Fixing Camera Issues on iPhone 15/14 Following Recent IOS Updates</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-v-purse-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor V Purse</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
 </ul></div>
 

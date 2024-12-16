@@ -1,7 +1,7 @@
 ---
 title: Top 5 Ways to Fix Excel 2016 File Not Opening Error | Stellar
-date: 2024-09-17T05:13:34.399Z
-updated: 2024-09-24T02:50:58.368Z
+date: 2024-12-10T02:28:07.602Z
+updated: 2024-12-16T02:07:17.664Z
 tags: 
   - repair
   - repair excel
@@ -57,13 +57,6 @@ Dynamic Data Exchange (DDE)allows Excel to communicate with other programs. The 
 - Uncheck the option **‘Ignore other applications that use Dynamic Data Exchange (DDE)**’.
 - Click **OK** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2\. Reset Excel File Associations
 
 When you launch your Excel file, the file association ensures that the Excel application is used to open the file. You can try to reset these associations and see if Excel opens after this. Proceed with the following steps to do so:
@@ -76,6 +69,10 @@ When you launch your Excel file, the file association ensures that the Excel app
 - A new window will open. Herein, find the Excel program in the list and select it. Now, select the option **‘Choose defaults for this program’**. Click **OK**.
 
 ![Set Defaults](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-defaults-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - A new window for **‘Set Program Associations’** will open.
 - Check the box against the **‘Select All’** option.
@@ -148,6 +145,10 @@ To know how the software works, see the video below:
 
 [![Free Download for Windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/03/free-download-windows-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Before you proceed with resolving the Excel file not opening error, try to find out the root cause of this error. If you know the real reason, you can try the method right away. If the reason for the error is corruption in the Excel file, the best option is to repair the file using a professional Excel repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
@@ -158,13 +159,6 @@ Before you proceed with resolving the Excel file not opening error, try to find 
 **Summary:** This blog discusses why hyperlinks won't work in Excel and solutions to fix it. If nothing works, try using Stellar Repair for Excel software to recover your workbook with hyperlinks and all the data intact.
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Hyperlinks in your Excel file could be references to a file’s location on the computer or a location within the same worksheet. Or, hyperlinks might be pointing to a URL. Sometimes, the hyperlinks won’t work and any of the following errors may pop up on your screen on clicking a hyperlink:
 
@@ -207,6 +201,10 @@ Open the file that contains the ‘#’ sign and rename it by following these st
 - Click **OK**.
 
 Now try opening the hyperlink.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Cause 3 – Sudden system shutdown causes abrupt closing of Excel
 
@@ -297,14 +295,11 @@ You may receive the “**File format and extension of excel don’t match**” e
 
 ![In the Trust Center Window, go to the Protected View tab and Disable all Protected View Checkboxes.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/select-all-the-options-under-protected-view.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **OK.** Then, try to open the Excel file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 4: Check and Provide the Excel File Permissions**
 
@@ -317,6 +312,10 @@ Sometimes, you can get the error if you don’t have sufficient permissions to o
 - In the **Properties** window, click the **Securities** option and select **Edit.**
 
 ![In Properties, Go to the Security Tab and click on Edit.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-security-and-then-click-edit-option.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In the **Security** window, under **‘Group or users name’**, select the user names. Check the file permissions and make sure **Full Control** is enabled. If not, then click on the **Add** option.
 
@@ -337,13 +336,6 @@ Sometimes, you can get the error if you don’t have sufficient permissions to o
 - In the **object names** field, you will see ‘**Everyone’**. Click on **OK.**
 
 ![After the ‘Everyone’ username is entered in the object names field, click on OK.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/selecting-everyone-from-the-listed-objects-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - In the **Permissions** window, select **“Everyone”** and enable all options **(Full Control, Modify, Read & Execute, Read,** and **Write**) under **Permissions for Everyone**.
 
@@ -437,10 +429,7 @@ The "Pivot Table field name is not valid" error can also occur due to merged col
     ![unmerging cells from home tab in Excel](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivotimage/click-home-select-unmergecells.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 6: Disable the Background Refresh Option**
@@ -458,13 +447,6 @@ If the "background refresh" option in the Excel file is enabled, it may also cre
 - Once you have chosen the Excel file, click **Properties.**  
 
     ![Selecting Properties for the Workbook connections.](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivotimage/click-properties-on-workbook-connections.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - In the **Connection Properties** window, unselect the **"Enable background refresh"**option, select the "**Refresh data when opening the file**", and click **OK.  
 
@@ -627,6 +609,10 @@ You can use the ‘Show Formulas’ feature to quickly view all formulas, but if
 
 ![Show Formula Enabled](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/06/show-formulas-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Solution 2 – Cell Format Set to Text**
 
 Another possible reason that only formula shows in Excel not result could be that the cell format is set to text. This means that anything written in any format in that cell will be treated as regular text. If so, change the format to General or any other. To get Excel to recognize the change in the format, you may need to enter cell edit mode by clicking into the formula bar or just press F2.
@@ -683,13 +669,6 @@ This blog outlined the possible reasons that may cause ‘Excel not showing form
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MS Excel is equipped with several brilliant features and functions which make working with large volumes of data easy. In addition to helping users save data into well-organized cells and tables, the application helps users draw inferences from the data. Pivot Table is one such Excel feature that helps users extract the gist from a large number of rowed data. But often, the Pivot table may get corrupted and lead to unexpected errors or data loss.
 
 **Corrupt Pivot Tables** can stop users from reopening previously saved Excel workbooks, raising the serious issue of data inaccessibility. Resolving such issues is an uphill task unless one gets to the actual root cause of the problem.
@@ -698,18 +677,15 @@ _However, with Stellar Repair for Excel software, you can **repair the corrupt P
 
 ![Repair Corrupt Pivot Table of MS Excel File](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Excel Pivot Tables & Associated Problems**
 
 Pivot Tables in Microsoft Excel are created by applying an operation such as sorting, averaging, or summing to the data in certain tables. The results of the operation are saved as summarized data in other tables. Typically, working on the grouping of saved data, Pivot Tables are used in data processing and are found in data visualization programs, such as spreadsheets or business intelligence software.
 
 Put simply, Pivot Tables in Excel allow you to extract the significance or the gist from a large, detailed data set by allowing you to slice-and-dice data, sort-and-filter data, or arrange it in any way you want.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Frequently Encountered Problems with Pivot Tables in MS Excel
 
@@ -725,6 +701,10 @@ Take a look at the most frequently encountered **Pivot Table issues**:
 - Field headings make no sense and **add clutter**
 
 While some of the above problems seem minute and can easily be resolved using a few tweaks, bigger issues like unexpected Pivot Table error messages that an Excel throws can be troublesome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Pivot Table Errors & Their Reasons**
 
@@ -795,6 +775,10 @@ If you have this utility by your side, you don’t need to think twice about any
 
 [![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/image-56.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What customer says about the Excel Repair Software?**
 
 [**Spiceworks**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
@@ -822,5 +806,19 @@ If you have this utility by your side, you don’t need to think twice about any
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-mastering-instagram-video-edits-ultimate-tutorial-guide/"><u>[New] Mastering Instagram Video Edits Ultimate Tutorial Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-6-youtuber-quizzes-to-know-which-youtuber-you-are-for-2024/"><u>[Updated] 6 YouTuber Quizzes to Know Which YouTuber You Are for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-vimeo-to-visual-story-crafting-gifs-from-captivating-videos/"><u>[Updated] In 2024, Vimeo to Visual Story Crafting GIFs From Captivating Videos</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-the-essential-audio-interface-for-your-podcaster/"><u>[Updated] The Essential Audio Interface for Your Podcaster</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/10-ways-to-employ-auto-gpt-in-daily-life/"><u>10 Ways to Employ Auto-GPT in Daily Life</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-a15-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy A15 4G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Android? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-best-free-flv-video-editors-for-beginners-and-pros-alike/"><u>New Best Free FLV Video Editors for Beginners and Pros Alike</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-endless-loop-breaker-deleting-your-account-forever/"><u>The Endless Loop Breaker: Deleting Your Account Forever</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/vidtap-chatcam-sniper-app-for-2024/"><u>VidTap - ChatCam Sniper App for 2024</u></a></li>
+</ul></div>
 

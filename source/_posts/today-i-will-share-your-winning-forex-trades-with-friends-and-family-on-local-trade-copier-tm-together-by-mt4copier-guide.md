@@ -1,6 +1,6 @@
 ---
 title: Today I will Share Your Winning Forex Trades With Friends and Family on Local Trade Copier™ Together
-date: 2024-09-19T13:03:43.857Z
+date: 2024-12-11T23:44:15.825Z
 tags: 
   - mt5
   - mt4
@@ -29,13 +29,6 @@ If you are a successful forex trader, you may want to share your winning trades 
 
 In this video, Rimantas explains how to make every MT4 & MT5 Client account use the same lot size as the Main account with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ for MT4 & MT5. It is an easy way to copy trades of equal lot size for all Metatrader accounts.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How To Easily Copy & Paste Your Forex and Gold Trades From MT5 to MT4
 
 If you are a Forex trader who uses MetaTrader 5 and MetaTrader 4, you may want to copy your trades from one platform to another. This can be a great way to diversify your trading and take advantage of the unique features of each platform. In this guide, we will show you how to copy your Forex and Gold trades from MT5 to MT4 in one click.
@@ -54,9 +47,17 @@ Think of it like copying a drawing from one piece of paper and pasting it onto a
 
 It’s like having a magic wand that does the work for you. So, even if you’ve never tried this magic trick before, Rimantas will guide you step by step. Get ready to become a trading magician!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How To Copy Trades From MT4 & MT5 Mobile App
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Are you using your mobile device to trade when you can’t get to your desktop setup? Are you using one MetaTrader account to copy trades across to other accounts using the FX Account Cloning setup? Well, then you’ve probably run into the problem that the MetaTrader mobile app doesn’t allow trade copier software. Let me give you a hack that will enable you to do personal copy trading on Android or iOS and copy trades from one Metatrader to another across multiple devices.
 
@@ -69,6 +70,10 @@ So, let’s dive straight in. We have to look at how the trades travel from your
 Understanding this is the key to setting up a way to copy trades from the Metatrader account on the mobile app to multiple accounts on other devices. That is very similar to what we’ve been doing with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ software in our other tutorials, but this time, there’s a twist that makes it work from an iPhone or Android mobile device. When you know how it works, you can even copy trades from the Android MT4 account to another phone.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 So, here’s the answer. The trick to doing this is taking advantage of how MetaTrader was designed. One of the functions of MetaTrader is that it allows you to log in to the same account from multiple devices. That is simple enough. That’s how a lot of social media accounts work. There’s no trade copier software involved in the process yet. That’s just how MetaTrader was built.
 
@@ -93,10 +98,7 @@ In the following image, you can see that I have accounts from Darwinex, Fusion M
 As long as you’ve completed the link up with the client accounts with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ software on your computer, you can use these accounts on your mobile app to clone trades across as many accounts as you need!
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Copy trades from Android MT4 account to another device
@@ -108,35 +110,18 @@ So here you have a screenshot of my VPS and the MetaTrader mobile app. This way,
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the following screenshot, you’ll see that when I open a trade in the Metatrader mobile app, it immediately appears on the master account and instantly gets sent to the client accounts. Getting trades copied across Metatrader accounts on different devices is like magic, right?
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Copy trades from Android MT5 account to another computer
 
 Of course, this works on MetaTrader 4 and MetaTrader 5 in the same way. Check out the following screenshot, which illustrates how I sent a trade to both client accounts. Both accounts picked up the trade and copied it perfectly. It means you can trade multiple accounts simultaneously from the MT5 Mobile app.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/7.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ will take care of the money management automatically. The beauty of this is that you can copy trades across with all of your settings and make sure that the lot sizes are appropriate to the size of the client accounts. If the capital of the client account is bigger than the master account, you can be sure that the lot size is appropriate for that account.
 
@@ -149,6 +134,10 @@ Here’s a video where I explain how the [Local Trade Copier](https://tools.tech
 So, you have just learned how to copy your trades to multiple MetaTrader accounts from your mobile device in no time at all. You can be anywhere in the world and run accounts for yourself, your friends and family, or any number of clients. Gone are the days when you’d be kicking yourself because you couldn’t get to your computer on time to take advantage of some fundamental market movements.
 
 They say that knowledge is power and, if that’s true, you just gained a lot of power, folks! With what you’ve just learned, you don’t need to miss out on those important events anymore. Now you can be sitting by the hotel pool on holiday and still make those trades across multiple accounts whenever you need to.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Configure MT4 and MT5 Accounts for Running a Local Trade Copier™ Together With Any Other Forex EA
 
@@ -202,5 +191,22 @@ Overall, the [Local Trade Copier](https://tools.techidaily.com/mt4copier/) can d
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-streamlining-screen-shots-efficiently-documenting-your-roblox-adventures-on-macos/"><u>[New] Streamlining Screen Shots Efficiently Documenting Your Roblox Adventures on MacOS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamline-your-screenshots-using-ezvides-capabilities/"><u>[Updated] 2024 Approved Streamline Your Screenshots Using EZvide's Capabilities</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/20232024avi/"><u>【新作】2023年順応ソフト、2024年も使える最高の無料AVIエディター</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y78-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y78 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-camon-20-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Camon 20 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guaranteed-driver-preservation-before-upgrading-or-reinstalling-windows-xp-vista-7-881-10/"><u>Guaranteed Driver Preservation Before Upgrading or Reinstalling Windows (XP, Vista, 7, 8/8.1, 10)</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y100i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y100i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-90-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 90 Lite phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-5-ways-to-get-into-a-locked-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14? 5 Ways to get into a Locked Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/"><u>In 2024, The Definitive 10 Screenshot Boosters with Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-problems-solved-play-cod-black-ops-cold-war-without-startup-troubles/"><u>PC Gaming Problems Solved: Play Cod: Black Ops Cold War Without Startup Troubles</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-iv-game-crashes-explained/"><u>Resolved: Common Heart of Iron IV Game Crashes Explained</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nokia-g310-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nokia G310</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-12-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 12 files after scanning? | Stellar</u></a></li>
+</ul></div>
 

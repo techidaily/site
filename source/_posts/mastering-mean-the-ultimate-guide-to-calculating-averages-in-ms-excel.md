@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2024-12-02T17:45:42.382Z
-updated: 2024-12-09T22:41:14.396Z
+date: 2024-12-12T23:57:34.422Z
+updated: 2024-12-15T21:15:20.332Z
 tags:
   - desktop
 categories:
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
  Excel has hundreds of functions that can help you to quickly and accurately perform calculations, among which are the AVERAGE functions. You might want to calculate the average sales figures, get the average of a group of data that contains numbers and text, or work out the average of all student scores over a certain number.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Many Average Functions Are There in Excel?
 
  There are four AVERAGE functions and each has different uses:
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 * **AVERAGEIFS**: This tells you the arithmetic mean of a set of numerical data that fulfill several criteria.
 
  Let's explore these in more detail.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGE in Excel
 
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
  To do this, we would type the following formula into cell D2:
@@ -55,10 +59,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 =AVERAGE(B2:B8)
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores has been calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-calculated-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The AVERAGE function includes 0 within its calculations, but ignores all empty cells, text, and logical values (TRUE or FALSE). So, we can be confident that this calculation will include Student C's score, but ignore Student F's score.
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In cell D5, we would type the following formula:
@@ -95,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  AVERAGEA counts any other text as 0 (for example, if you type FOUR, this is still represented as 0, and not 4), and ignores empty cells.
 
  As with AVERAGE, if any of the values being used in the AVERAGEA calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would return an error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIF in Excel
 
@@ -133,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  The criteria used in AVERAGEIF can use one of Excel's six logical operators—these are > (greater than), < (less than), = (equal to), <= (less than or equal to), >= (greater than or equal to), or <> (not equal to)—and wildcards (\* and ?). If you want to include an actual question mark or asterisk, add a tilde (\~) before the character.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use AVERAGEIFS in Excel
@@ -147,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  Take this example, where we want to work out the exam scores of students in Green House over the age of 10.
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To do this, we would use the following formula:
 
@@ -186,22 +186,16 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-tips-and-tricks-for-professional-logitech-webcam-recordings/"><u>[New] In 2024, Tips & Tricks for Professional Logitech Webcam Recordings</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-tv-off-a-step-by-step-guide-for-2024/"><u>[New] Instagram TV Off A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-top-notch-meme-editing-suite/"><u>[New] Top-Notch Meme Editing Suite</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-remarkable-judgment-and-substitutes-advice/"><u>[Updated] Remarkable Judgment & Substitutes Advice</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-premiere-pro-full-screen-insight/"><u>2024 Approved Complete Premiere Pro Full Screen Insight</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a18-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/cross-platform-commerce-innovation/"><u>Cross-Platform Commerce Innovation</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-guide-correcting-windows-defender-resource-errors-quickly/"><u>Expert Guide: Correcting Windows Defender Resource Errors Quickly</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-g310-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G310 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-ace-2v-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Ace 2V Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-magic-5-lite-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic 5 Lite Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Samsung Galaxy XCover 7? | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-effortless-mp3-audio-to-text-translation-explore-3-simplified-online-techniques-for-2024/"><u>New Effortless MP3 Audio-to-Text Translation Explore 3 Simplified Online Techniques for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nubia-z50s-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nubia Z50S Pro</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-breaking-down-why-syma-x5c-is-top-notch-for-new-dronists/"><u>[New] 2024 Approved Breaking Down Why Syma X5C Is Top-Notch for New Dronists</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-advertising-top-20-influential-expressions/"><u>2024 Approved Revolutionizing Advertising Top 20 Influential Expressions</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-13-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 13 Pro Max Space | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-enjoy-the-full-range-of-sharing-on-messenger/"><u>How to Enjoy the Full Range of Sharing on Messenger</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-advanced-filming-techniques-for-your-live-streaming-needs-using-logitech-cam/"><u>In 2024, Advanced Filming Techniques for Your Live-Streaming Needs Using Logitech Cam</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-sweeping-the-audio-board-top-strategies-for-sound-excellence-at-home-film-edition-2023-for-2024/"><u>New Sweeping the Audio Board Top Strategies for Sound Excellence at Home (Film Edition, 2023) for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/seamless-amd-driver-update-with-built-in-auto-detect-functionality/"><u>Seamless AMD Driver Update with Built-In Auto-Detect Functionality</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-v30-lite-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo V30 Lite 5G without backup.</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-sony-vegas-replacements-for-windows-users-for-2024/"><u>Updated Top Sony Vegas Replacements for Windows Users for 2024</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-11r-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from 11R</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Windows 10 Editions, Versions & Builds
-date: 2024-12-04T01:36:35.223Z
-updated: 2024-12-10T01:23:12.750Z
+date: 2024-12-14T23:03:19.747Z
+updated: 2024-12-15T23:48:37.322Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Identifying Your Windows 10 Editions, Versions & Builds
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Do Build Versions Mean?](https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/)
@@ -22,7 +18,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -32,7 +28,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -49,6 +45,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
 * **Edition.** This line tells you which edition of Windows 10 you're using—Home, Professional, Enterprise, or Education. If you're using Home and you'd like to upgrade to Professional, you can [upgrade to the Professional edition from within Windows 10](https://techidaily.com/best-fixes-for-tecno-camon-20-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/). Switching to Windows 10 Enterprise or Education editions will require a complete reinstall and a special key that isn't made available to normal home Windows users.
@@ -63,7 +63,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
@@ -71,7 +71,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
@@ -93,22 +93,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-find-your-perfect-game-recorder-top-10-free-apps/"><u>[New] 2024 Approved Find Your Perfect Game Recorder Top 10 Free Apps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-streamlining-earnings-with-youtube-studio-techniques/"><u>[New] 2024 Approved Streamlining Earnings with Youtube Studio Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-top-tier-iphone-camera-apps-for-amateurs-and-experts-alike-for-2024/"><u>[New] Top-Tier iPhone Camera Apps for Amateurs & Experts Alike for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-2023-update/"><u>[Updated] 2024 Approved GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better? -2023 Update</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-new-age-influencers-8-youtubes-swift-surge/"><u>In 2024, New-Age Influencers 8 YouTube's Swift Surge</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-spark-20-proplus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Spark 20 Pro+</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-syncing-audio-playback-during-pcphone-recording/"><u>Step-by-Step Guide: Syncing Audio Playback During PC/Phone Recording</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-narzo-n55-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme Narzo N55 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-a70-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on A70 without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-vivo-y100-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Vivo Y100 5G.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78t-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78t Users</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-asus-rog-phone-8-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Asus ROG Phone 8</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-does-my-iphoneipad-overheat-understanding-causes-and-solutions/"><u>Why Does My iPhone/iPad Overheat? Understanding Causes & Solutions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video-for-2024/"><u>[Updated] Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] How To Upload Videos to YouTube [a Step-by-Step Guide] for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-melodicmeasurement-reaction-to-tunes/"><u>[Updated] In 2024, MelodicMeasurement Reaction to Tunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-eliminating-unwanted-shutdowns-while-playing-ffxiv-on-pc/"><u>Expert Advice: Eliminating Unwanted Shutdowns While Playing FFXIV On PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-c55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C55 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-apex-legends-fixing-your-voice-chat-issues-solution/"><u>Troubleshooting Apex Legends: Fixing Your Voice Chat Issues - SOLUTION</u></a></li>
 </ul></div>
 

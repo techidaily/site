@@ -1,7 +1,7 @@
 ---
 title: The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.
-date: 2024-12-06T16:34:45.863Z
-updated: 2024-12-09T19:15:32.031Z
+date: 2024-12-14T02:10:40.377Z
+updated: 2024-12-16T00:37:14.165Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Extended Reality (XR) is a term that encompasses several technologies but also describes a spectrum of reality-changing methods including Virtual Reality (VR), [Augmented Reality](https://article-knowledge.techidaily.com/2024-approved-elevate-your-entertainment-perfecting-the-art-of-using-netflixs-floating-window-feature/) (AR), and Mixed Reality (MR). XR brings all of these ideas under a single umbrella.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ingredient 1: Virtual Reality
 
  Virtual Reality is probably the component of XR that most people are familiar with. Within the XR spectrum, VR stands alone as the only technology that completely disconnects you from reality. At the very least, VR replaces your vision and hearing of the world around you with a simulates virtual world. More advanced forms of VR also include [haptic feedback](https://instagram-video-files.techidaily.com/orientation-overhaul-instagrams-video-rotation-secret-for-2024/), which is the term used for the various forms of touch feedback.
@@ -27,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 [VR headsets](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) like the Oculus Quest 2 let you instantly travel to somewhere else entirely, letting you feel "presence" in a virtual world separate from the one you're actually occupying.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ingredient 2: Augmented Reality
@@ -35,7 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![A smartphone showing the Pokemon Go mobile game in an outdoor setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/pokemon-go-augmented-reality.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Matthew Corley/Shutterstock.com](https://www.shutterstock.com/image-photo/santa-cruz-california-july-12-2016-451598275)_
@@ -50,17 +58,9 @@ Related: [What Is Machine Learning?](https://some-tips.techidaily.com/new-unleas
 
  AR is a broad concept and it also includes some things many people wouldn't expect. For example, a heads-up display (HUD) found in fighter planes and some modern cars would qualify as AR. As long as digital information is being projected on your view of the real world, it's AR.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Ingredient 3: Mixed Reality
 
 ![Business-people using MR headsets to examine and discuss a miniature city-scape.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/mr-headsets-cityscape.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/two-business-persons-developing-project-using-390162811)_
 
@@ -73,7 +73,7 @@ _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/
  That being said, MR is already mainstream with headsets that have external cameras for motion tracking also integrate basic MR features. For example, the [Oculus Quest](https://extra-guidance.techidaily.com/revolutionize-your-designs-incorporating-3d-text-psx-for-2024/) can use its monochrome external tracking cameras to bring objects such as your real-world couch or keyboard into VR. Turning it into an MR experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Will XR Replace VR?
@@ -97,20 +97,14 @@ _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-best-balanced-tripods-for-dslr-phone-and-tablet-videos/"><u>2024 Approved Best Balanced Tripods for DSLR, Phone, and Tablet Videos</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-camon-20-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Camon 20 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/discounted-price-snag-a-high-quality-hp-156-touchscreen-laptop-for-just-230-insider-info/"><u>Discounted Price: Snag a High-Quality HP 15.6 Touchscreen Laptop for Just $230 - Insider Info !</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-realtek-usb-reader-drivers-on-windows-with-simple-steps/"><u>Download RealTek USB Reader Drivers on Windows with Simple Steps</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/exploring-the-most-suitable-new-language-option/"><u>Exploring the Most Suitable New-Language Option</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-nokia-g22-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia G22 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-14-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 14 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7 Plus/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ring-visual-identity-top-6-sources-for-youtube-icons-and-logos-for-2024/"><u>Mastering Visual Identity Top 6 Sources for YouTube Icons & Logos for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-y28-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Y28 5G</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-xiaomi-redmi-note-13-pro-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Xiaomi Redmi Note 13 Pro 5G Phone Network-Ready</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-13-mini-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 13 mini files after scanning? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-mastering-social-media-key-apps-for-professional-ig-videographers/"><u>[New] 2024 Approved Mastering Social Media Key Apps for Professional IG Videographers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streaming-sounds-into-your-social-story-arcs/"><u>[New] 2024 Approved Streaming Sounds Into Your Social Story Arcs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-fixing-non-functional-airdrop-between-iphones-ipads-and-macs/"><u>[New] Fixing Non-Functional AirDrop Between iPhones, iPads & Macs</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-c53-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme C53 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/smoothmoves-recordwatcher-study/"><u>SmoothMoves RecordWatcher Study</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12t-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12T Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fm-2019-crashes-tips-and-solutions-for-stable-gameplay/"><u>Troubleshooting FM 2019 Crashes - Tips & Solutions for Stable Gameplay</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 7</u></a></li>
 </ul></div>
 

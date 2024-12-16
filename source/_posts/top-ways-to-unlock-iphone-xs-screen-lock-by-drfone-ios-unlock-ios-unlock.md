@@ -1,7 +1,7 @@
 ---
 title: Top ways to unlock iPhone XS screen lock
-date: 2024-09-21T16:42:44.880Z
-updated: 2024-09-23T16:13:56.010Z
+date: 2024-12-12T04:11:27.033Z
+updated: 2024-12-16T00:10:19.457Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -53,9 +53,17 @@ This will start the wipe process on your iPhone remotely and your iPhone will be
 
 ![How to Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/3.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is unfortunate you are facing a locked Apple ID. Apple tries its best to make users aware of safety protocols they need to follow to minimize and mitigate such unfortunate occurrences, such as using two-factor authentication, trusted devices, trusted phone numbers, passwords, passcodes, etc. that serve as deterrents to prevent unauthorized access to devices and accounts. Yet, when the unfortunate happens, what to do?
 
 Here are the steps to unlock your Apple ID:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock Apple ID Via Two-Factor Authentication
 
@@ -66,10 +74,7 @@ Apple implemented two-factor authentication a long time ago to prevent unauthori
 ![https://iforgot.apple.com](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/4.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 2**: Key in your Apple ID and proceed.
@@ -78,16 +83,13 @@ Apple implemented two-factor authentication a long time ago to prevent unauthori
 
 ![Confirm your mobile number](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/5.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you have another device associated with the Apple ID and it is a trusted device, you can now receive instructions to proceed with a two-factor code on that device.
 
 ![Two-factor code](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/6.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4**: Use that code to unlock your Apple ID using two-factor authentication.
 
@@ -107,13 +109,6 @@ Dr.Fone is a collection of carefully crafted modules that helps you when most ne
 
 ![Unlock Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/8.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4**: Connect your device to the computer and wait for Dr.Fone - Screen Unlock (iOS) to detect it. You must know the passcode of your device.
 
 ![Connect your device](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/9.avif)
@@ -127,13 +122,6 @@ You will be asked on your iPhone XS to Trust the computer, and then you will nee
 - **Step 6**: Follow the on-screen instructions to reset all your settings on the iPhone and then reboot to start the unlocking process.
 
 ![Reset all settings](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/11.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Dr.Fone - Screen Unlock (iOS) will notify you when the process is complete.
 
@@ -149,19 +137,6 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 
 ![Unlock iOS Screen](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/1.avif)  
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3**: Follow the provided instructions to start the disabled iPhone XS in `Recovery Mode` to unlock it. If for any reason the phone does not boot in Recovery Mode, there are instructions provided at the bottom to enter what is called `DFU mode`.
 
 ![Enter Recovery Mode](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/2.avif)
@@ -175,10 +150,7 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone XS 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Your iPhone XS will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone XS prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
@@ -188,10 +160,7 @@ Your iPhone XS will be unlocked in a short span of time. Please note that all da
 An Activation Lock is not the end of the world, as Apple might have you believe. Nothing in the world is perfect, except for the world itself. As such, there are ways to bypass Activation Lock on an Apple device that you bought used, and the previous owner forgot to unlock or did so intentionally and is now trying to fleece you for more money to unlock it. Or an employee who just left the job surrendered their iPhone XS but forgot to erase the device before submitting and consequently, the device is still associated with their Apple ID, and you need to bypass Activation Lock for that iPhone XS to make it useable again. There are a few ways you can go about it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Bypassing Activation Lock Using Apple ID
@@ -199,13 +168,6 @@ An Activation Lock is not the end of the world, as Apple might have you believe.
 Disabling Activation Lock on iPhone XS is easy if you have the Apple ID credentials that are associated with the iPhone XS.
 
 ![Bypassing Activation Lock Using Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/1.avif)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 1**: Enter device Recovery Mode and Restore the device to factory settings.
 - **Step 2**: When you set up the device again, you will be required to sign in to the Apple ID associated with the device. Do that and you are golden!
@@ -219,10 +181,18 @@ You may also do away with Activation Lock using the Find My iPhone app in iCloud
 
 ![Bypassing Activation Lock from iCloud Website](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/2.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Click All Devices and select the device that was sold to the user.
 - **Step 4**: Click Erase iPhone and if the device is still there after the erase is complete, click Remove From Account.
 
 ![Erase iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/3.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This process requires that the data service be functional on the iPhone in question, otherwise, this will not work. When the process is done, restart the iPhone and set it up with your Apple ID to remove the lock.
 
@@ -249,6 +219,10 @@ There are times you have another iOS device in the family or just lying around, 
 
 ![Open the Find My app on your other iOS device or Mac](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/6.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Select your disabled iPhone XS from the devices from the left pane, click/ tap your disabled iPhone XS and click/ tap Erase This Device
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
@@ -262,6 +236,10 @@ Activation Lock is when your supported Apple device is locked for a number of re
 A locked Apple ID usually happens when the user has forgotten their password to their Apple ID account and attempts to figure out the password have been unsuccessful. Sometimes, Apple ID gets locked automatically under some conditions, and that requires users to reset their password to gain access. A locked Apple ID does not mean that your device is locked for your use. You can keep using it so long as you do not try to use another Apple ID with it since to do that you would have to sign out of your current Apple ID (which is locked) and you won't be able to do that. On the other hand, Activation Lock renders the entire device unusable till the lock is cleared.
 
 ![Locked Apple ID](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-iphone-without-apple-id/1.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In short, Apple ID Lock is about a user's account with Apple, akin to how Google Account works on Android devices. Apple ID Lock locks a user's account with Apple while retaining complete usage of the device whereas Activation Lock locks the device and prevents anyone from using it until the correct credentials are entered. This is about verifying the ownership of the device and works to deter theft of Apple devices.
 
@@ -277,5 +255,26 @@ In short, Apple ID Lock is about a user's account with Apple, akin to how Google
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-2023s-ideal-app-for-unmatched-intro-edits-on-various-gadgets/"><u>[New] In 2024, 2023’S Ideal App for Unmatched Intro Edits on Various Gadgets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-perfect-screen-recording-toolkit-systematic-how-to-manual-for-2024/"><u>[New] The Perfect Screen Recording Toolkit Systematic How-To Manual for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-guide-to-picture-perfect-framing-24-for-2024/"><u>[New] The Ultimate Guide to Picture-Perfect Framing '24 for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-crafting-an-impactful-waterway-teaser/"><u>[Updated] Crafting an Impactful Waterway Teaser</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-top-6-best-webcams-for-zoom/"><u>[Updated] Top 6 Best Webcams for Zoom</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-enhancing-engagement-through-thoughtful-youtube-tags/"><u>2024 Approved Enhancing Engagement Through Thoughtful YouTube Tags</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-unveiling-the-leading-8-open-source-business-meeting-solutions/"><u>2024 Approved Unveiling the Leading 8 Open-Source Business Meeting Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-hot-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-n30-se-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord N30 SE If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y100i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y100i Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-asus-rog-phone-8-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Asus ROG Phone 8 Phone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a05-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy A05 won’t play MKV movies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-game-crashes-with-these-confirmed-remedies-for-helldivers-ve-pc/"><u>Stop Game Crashes with These Confirmed Remedies for Helldivers Ve PC</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 11X 5G? | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-resume-post-creators-patching/"><u>Win11 Resume Post-Creators Patching</u></a></li>
+</ul></div>
 

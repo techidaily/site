@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Vivo Y100A? | Dr.fone
-date: 2024-09-22T09:21:15.747Z
-updated: 2024-09-23T22:22:44.421Z
+date: 2024-12-10T04:07:18.406Z
+updated: 2024-12-15T20:06:37.579Z
 tags: 
   - reset
 categories:
@@ -47,6 +47,10 @@ Let’s have a look at the easy process to back up Android before the factory re
 
 ![click on backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on "Backup pow"  to proceed with the process. The backup process will start, keeping connected the Vivo Y100A device during the phone backup process.
 
 ![Click on “backup” again](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
@@ -76,13 +80,6 @@ Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps yo
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In this process, we will learn how to hard reset Android phone to factory settings from a computer using SDK. This involves removing all data from the Vivo Y100A device using a PC.
 
@@ -140,6 +137,10 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 
 ![go to find my](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-using-pc-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1:** Directly go to the [Android Device Manager website](https://www.google.com/android/find/), and log in to your account. You will get three options: "Play Sound", "Secure Device" and "Erase Device".
 
 **Step 2:** Click on the "Play Sound" option will make it raise the alarm, notifying of the location, you can easily locate your Android phone if it is nearby.
@@ -167,10 +168,7 @@ A hard reset, also known as a factory reset and a master reset, returns the Vivo
 ![facotry reset android](https://images.wondershare.com/drfone/others/android-factory-reset-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Signs You Need to Reset Phone
@@ -196,10 +194,7 @@ Back up and restore data from your device to a computer with a single click. It'
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone Basic
@@ -250,6 +245,10 @@ Step 3. Press the button for 'Factory Data Reset' (please note - this is irrever
 ![factory reset android from settings menu](https://images.wondershare.com/drfone/others/factory-reset-from-settings.jpg)
 
 Step 4. If you have done this correctly a little Android robot will appear on your screen as the Vivo Y100A device resets itself.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2. Resetting Your Phone in Recovery Mode
 
@@ -303,16 +302,13 @@ Then you will be able to select what files you want to restore. You can click Re
 
 ![restore from backups](https://images.wondershare.com/drfone/guide/android-backup-and-restore-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you've successfully completed your first reset, you'll realize how simple the whole process is and the next time you need to perform one, you'll be able to do it with your eyes closed.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Are You Preparing to Exchange Your Phone?
 
@@ -332,6 +328,10 @@ Transfer Everything from Old Devices to New Devices in 1 Click!
 **3981454** people have downloaded it
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/_Fhd5Vugoek"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -363,6 +363,10 @@ Google Find My Device is your best bet if you want to reset your Vivo Y100A phon
 
 ![erase device](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Gmail account
 
 If you opt for a Vivo Y100A hard reset because of screen lock or phone locking issues, then your other option is to use the Gmail account to unlock it. If you are wondering how to use a Gmail account for unlocking, here is the step-by-step guide.
@@ -372,13 +376,6 @@ If you opt for a Vivo Y100A hard reset because of screen lock or phone locking i
 3. Click the Forgot pattern option.
 
 ![google account](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Fill in your Google Account credentials to log in.
 5. Now, unlock your device and choose a new password.
@@ -391,6 +388,10 @@ Google security questions or your device company Security questions will help yo
 2. Click on the Forgot pattern option.
 
 ![answer questions](https://images.wondershare.com/drfone/article/2022/08/vivo-hard-reset-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Click on the "Answer question".
 4. Answer the security questions correctly to unlock your phones and choose a new password or pattern lock.
@@ -415,6 +416,10 @@ Then Dr.Fone will automatically recognize and connect your Android device. Click
 
 ![erase start](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Since all the erased data are not recoverable, make sure you [have backed up all the needed data](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) before you proceed. Then key in “000000” into the box to confirm your operation.
 
 Type in "000000" to confirm and move on. Since you may lose your data in system repair and in case of a Vivo Y100A hard reset, your phone's memory is wiped, it is always important to keep a backup of your phone data. More on this in the next section.
@@ -431,40 +436,13 @@ After all app data, photos, and all other private data have been completely eras
 
 ![erase successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Now your Android phone has been completely wiped and it's like a brand new one.**
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: How to keep my data safe?
 
 The best thing you can do to keep your data secure, even in case of unwanted crashes and accidents, is to periodically back up your phone and computer. So, you might ask what the best way to back up my phone is. We recommend [Dr.Fone - Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/) because it is part of your phone's comprehensive suite of solutions and works efficiently without any technical input from you.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -482,5 +460,22 @@ In the current digital age, part of our life depends on our gadgets, so keeping 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-essential-studio-handbook-xvideo-studio-guide/"><u>[Updated] 2024 Approved The Essential Studio Handbook XVideo Studio Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-essentials-of-time-stamped-photography/"><u>[Updated] The Essentials of Time-Stamped Photography</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids/"><u>2024 Approved Cutting Edge Tactics for Grabbing Your Favorite FB Vids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/clear-out-your-windows-11-cache-a-comprehensive-tutorial/"><u>Clear Out Your Windows 11 Cache - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/free-and-easy-winx-media-creation-top-rated-dvd-burning-software-for-windows-11-users/"><u>Free and Easy WinX Media Creation - Top Rated DVD Burning Software for Windows 11 Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722959473202-get-the-latest-hp-deskjet-3630-printer-drivers-for-windows-10-users-free-download-now/"><u>Get the Latest HP Deskjet 3630 Printer Drivers for Windows 10 Users - Free Download Now!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-update-asus-motherboard-drivers-for-windows-systems/"><u>How to Download & Update ASUS Motherboard Drivers for Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/mpow-microphone-troubles-diagnosing-and-repairing-in-windows-environments/"><u>MPOW Microphone Troubles: Diagnosing and Repairing in Windows Environments</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/navigating-advanced-computing-solutions-on-tomaturbans-hardware-platform/"><u>Navigating Advanced Computing Solutions on Tom'aturbans Hardware Platform</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-itel-a70-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Itel A70</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-xiaomi-redmi-a2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Xiaomi Redmi A2</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-14-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 14 without Passcode or Face ID</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-blaze-2-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Blaze 2 Pro Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

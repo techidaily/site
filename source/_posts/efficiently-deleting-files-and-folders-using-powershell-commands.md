@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-12-08T23:18:28.502Z
-updated: 2024-12-09T18:58:32.875Z
+date: 2024-12-14T18:00:02.505Z
+updated: 2024-12-15T22:20:55.790Z
 tags:
   - deals
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files in a Folder But Keep the Folder](https://extra-skills.techidaily.com/new-pushing-creative-boundaries-with-these-top-7-film-color-techniques/)
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Delete a Specific File Using PowerShell
 
  To remove a specific file from your PC, use PowerShell’s "Remove-Item" [cmdlet](https://extra-guidance.techidaily.com/new-prophotomaster-the-ai-enhanced-editing-edge/).
@@ -55,10 +55,6 @@ Remove-Item PATH
 Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 ![The 'Remove-Item' cmdlet to delete a file in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-delete-file-powershell.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that the command won’t ask for a confirmation before deleting your file. If you’d like the command to do that, add the "Confirm" parameter as follows:
 
@@ -81,7 +77,11 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files in a Folder But Keep the Folder
@@ -98,11 +98,11 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
 
 ![The 'Remove-Item' cmdlet to delete all files inside a folder on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-delete-all-files-retain-folder-powershell.jpg) 
 
- In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
 ##  How to Delete All Files From a Folder and Its Subfolders
 
@@ -121,7 +121,7 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -161,22 +161,24 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-daily-dough-pewdiepies-earnings-breakdown/"><u>[Updated] 2024 Approved Daily Dough PewDiePie's Earnings Breakdown</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-vivo-x90s-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Vivo X90S | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/distinguished-top-5-effortless-action-recorder-recommendations/"><u>Distinguished Top 5 Effortless Action Recorder Recommendations</u></a></li>
-<li><a href="https://blog-min.techidaily.com/efficient-media-magic-how-to-seamlessly-transform-your-dvds-into-avis-using-the-latest-windows-systems-windows-1011/"><u>Efficient Media Magic: How to Seamlessly Transform Your DVDs Into AVIs Using the Latest Windows Systems (Windows 10/11)</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/essential-skills-for-efficient-teamsnap-photo-taking/"><u>Essential Skills for Efficient TeamSnap Photo Taking</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-or-install-new-drivers-on-your-asus-laptop-a-step-by-step-guide/"><u>How to Update or Install New Drivers on Your ASUS Laptop - A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/is-gpt-5-on-the-horizon-unveiling-potential-release-dates/"><u>Is GPT-5 on the Horizon? Unveiling Potential Release Dates</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-why-the-samsung-galaxy-s10-stands-out-as-a-superior-smartphone/"><u>The Ultimate Guide to Why the Samsung Galaxy S10 Stands Out as a Superior Smartphone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-motorola-moto-g34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Motorola Moto G34 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-reno-10-pro-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo Reno 10 Pro 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 15</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno .</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/understanding-why-chatgpt-falls-short-in-crypto-trading-insights-5-reasons/"><u>Understanding Why ChatGPT Falls Short in Crypto Trading Insights (5 Reasons)</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-oneplus-nord-3-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the OnePlus Nord 3 5G password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-8-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 8 takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-splitcam-review-is-it-the-best-video-recorder/"><u>[New] 2024 Approved SplitCam Review Is It The Best Video Recorder?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-tailoring-content-the-importance-of-aspect-ratios/"><u>[Updated] 2024 Approved Tailoring Content The Importance of Aspect Ratios</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-fanbase-titans-the-10-most-subscribed-youtube-creators/"><u>[Updated] In 2024, Fanbase Titans The 10 Most Subscribed YouTube Creators</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/big-names-reinstated-on-platforms-after-warnerchappell-amends-karaoke-exclusions-list/"><u>Big Names Reinstated on Platforms After Warner/Chappell Amends Karaoke Exclusions List</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-not-secure-expert-tips-to-restore-https-encryption-and-safety/"><u>Fixing 'Not Secure': Expert Tips to Restore HTTPS Encryption and Safety</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-11f-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 11F 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-pova-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pova 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-gionee-f3-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Gionee F3 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-huawei-nova-y71-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Huawei Nova Y71 phone? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/is-the-microsoft-sculpt-ergo-keyboard-a-top-choice-find-out-in-our-in-depth-assessment/"><u>Is the Microsoft Sculpt Ergo-Keyboard a Top Choice? Find Out in Our In-Depth Assessment</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-12-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi 12 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ess-transformation-top-tools-for-youtube-videos-for-2024/"><u>Seamless Transformation Top Tools for YouTube Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-great-debate-continues-is-bandicam-or-camtasia-better-in-2024/"><u>The Great Debate Continues Is Bandicam or Camtasia Better, In 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-7t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 7T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-edge-40-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/unlocking-performance-with-toms-hardware-picks/"><u>Unlocking Performance with Tom's Hardware Picks</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-moto-g04-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Moto G04</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G34 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

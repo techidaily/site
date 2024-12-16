@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2024-12-07T00:26:10.529Z
-updated: 2024-12-09T19:25:54.246Z
+date: 2024-12-13T23:13:14.153Z
+updated: 2024-12-15T17:17:23.425Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Connection
 
  On the "Let's connect you to a network" screen, you'll see the names of available connections. However, if you can't connect to any of them, whether it's Wi-Fi or your wired connection, there's probably a problem with the connection itself.
@@ -32,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Let's connect you to a network screen during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/let-s-connect-you-to-a-network.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To confirm that the problem lies with your Wi-Fi, not your Windows computer, try connecting your smartphone or another device to the Wi-Fi and check if you can access the internet on it. If the internet doesn't work on that device either, then it confirms that the issue resides with your Wi-Fi. The solution, in this case, is to [restart the router](https://extra-information.techidaily.com/updated-chuckle-centric-ringtone-websites-guide/). You can even contact your ISP for further assistance.
@@ -45,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
  When you encounter the "Let's connect you to a network" screen, you can execute the "OOBE\\BYPASSNRO" command in Command Prompt to bypass the connectivity requirement during the Windows 11 installation process. To achieve this, press Shift+F10 to launch Command Prompt while on the "Let's connect you to a network" screen.
@@ -53,15 +61,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Internet Bypass command in Command Prompt window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/internet-bypass-command.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Your computer will then restart, prompting you to select your region and keyboard layout once more. Afterward, you will arrive at the network setup screen. However, this time, you will have the "I don't have internet" option available, which you can click to proceed with the Windows 11 installation process without an internet connection.
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. End the Network Connection Flow Process
 
@@ -73,24 +81,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![Taskmgr command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/taskmgr-command.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Task Manager, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the "Network Connection Flow" process in the Processes tab and select "End task" from the context menu.
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
@@ -114,20 +114,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-crafting-a-music-career-15-essential-video-tutorials-for-artists-for-2024/"><u>[New] Crafting a Music Career 15 Essential Video Tutorials for Artists for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-decoding-the-code-for-quick-fb-media/"><u>[New] In 2024, Decoding the Code for Quick FB Media</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-navigating-lenovo-screen-capture-tools-effortlessly/"><u>[New] Navigating Lenovo Screen Capture Tools Effortlessly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-tour-through-top-virtual-biking-experiences/"><u>A Tour Through Top Virtual Biking Experiences</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-80-pro-straight-screen-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 80 Pro Straight Screen Edition in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-professional-icons-with-pre-made-graphic-elements/"><u>In 2024, Crafting Professional Icons with Pre-Made Graphic Elements</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-elevate-engagement-amplify-audience-youtube-marketing/"><u>In 2024, Elevate Engagement, Amplify Audience (YouTube Marketing)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-reversal-a-guide-to-rewinding-your-youtube-sequence/"><u>Mastering Reversal A Guide to Rewinding Your YouTube Sequence</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/profit-power-up-innovative-ways-to-earning-with-youtube-mobile-views/"><u>Profit Power-Up Innovative Ways to Earning with YouTube Mobile Views</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-xiaomi-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme GT 3? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-8-filtration-options-for-professional-streams-for-2024/"><u>Ultimate 8 Filtration Options for Professional Streams for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Tecno ?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-capturing-the-essence-cinematic-techniques-at-their-best/"><u>[New] Capturing the Essence Cinematic Techniques at Their Best</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/42314916-updated-top-free-audio-samples-for-youtube-creators/"><u>[Updated] Top Free Audio Samples for YouTube Creators</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-lava-storm-5g-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Lava Storm 5G.</u></a></li>
+<li><a href="https://facebook.techidaily.com/building-a-fact-based-online-world-during-the-outbreak/"><u>Building a Fact-Based Online World During the Outbreak</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cropping-videos-like-a-pro-tips-tricks-and-techniques-using-avidemux/"><u>Cropping Videos Like a Pro Tips, Tricks, and Techniques Using Avidemux</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/living-virtually-tips-for-an-active-facebook-presence/"><u>Living Virtually Tips for an Active Facebook Presence</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-modern-photography-editing-with-polarr-insights-for-2024/"><u>Mastering Modern Photography Editing with Polarr Insights for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-stunning-intros-on-your-pc-top-10-maker-tools/"><u>New Create Stunning Intros on Your PC Top 10 Maker Tools</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a70-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A70 on Mac</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-phantom-v-flip-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Phantom V Flip Reset Code | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-failed-contact-with-your-dhcp-server-fixed/"><u>Troubleshooting Failed Contact With Your DHCP Server (Fixed)</u></a></li>
 </ul></div>
 

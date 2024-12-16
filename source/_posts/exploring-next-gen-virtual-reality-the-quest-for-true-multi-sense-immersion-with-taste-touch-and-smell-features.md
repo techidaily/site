@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2024-12-07T19:08:54.724Z
-updated: 2024-12-09T18:31:09.881Z
+date: 2024-12-14T22:27:26.673Z
+updated: 2024-12-16T00:39:17.129Z
 tags:
   - cutting-edge
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  Virtual Reality (VR) has pretty much nailed providing high-quality virtual content for your eyes and ears, but what about the other sense organs? How far away are we from getting taste, touch, and smell as part of the VR experience?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's Not As Crazy As It Smells
@@ -35,13 +35,13 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
 
  It's not as if the idea of adding these sensory channels to media is new. Movie theaters have experimented with releasing smells during certain scenes. There have been video games known as "[feelies](https://www.pcgamer.com/boxes-feelies-and-the-good-old-days-of-pc-gaming/)" where you'd get items in the box that you're supposed to touch when instructed. It may have been largely a gimmick in the past, but many people hold that opinion of VR itself as well, so there's certainly a market for more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Simulated Taste: All Flavor, No Calories
 
 ![Woman in a kitchen wearing a virtual reality headset and eating a bowl of food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-eating-food.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautiful-attractive-young-woman-eating-healthy-696003394)_
 
@@ -51,12 +51,16 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
 
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
@@ -75,10 +79,6 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
 
 ![Woman wearing virtual reality headset and enjoying the smell of a bouquet of flowers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-flower-bouquet.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-vr-glasses-headset-enjoying-1780967699)_
 
  Of all the senses besides sight and sound, smell might be the most important and impactful one. Smell is actually a [strong trigger of memory](https://news.harvard.edu/gazette/story/2020/02/how-scent-emotion-and-memory-are-intertwined-and-exploited/), which suggests they're important to memory in general. Most of what we think of as "flavor" is actually smell as well. If you pinch your nose shut, you can still tell basic tastes such as sweet or bitter apart, but complex flavors go away. It's the complex chemical sensors in your nose combined with the tongue that really makes taste what it is.
@@ -92,7 +92,7 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
@@ -116,18 +116,15 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discover-the-hidden-gems-of-photography-on-pexels/"><u>[Updated] 2024 Approved Discover the Hidden Gems of Photography on Pexels</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-ultimate-list-the-best-vr-game-advancements/"><u>[Updated] 2024 Approved Ultimate List The Best VR Game Advancements</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-beyond-adjustments-the-influence-of-luts-on-art-for-2024/"><u>[Updated] Beyond Adjustments The Influence of LUTs on Art for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-maximize-creativity-with-no-investment-explore-these-8-video-editors/"><u>[Updated] Maximize Creativity with No Investment Explore These 8 Video Editors</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-constant-disconnects-a-user-friendly-usb-troubleshoot-guide/"><u>Fixing Constant Disconnects: A User-Friendly USB Troubleshoot Guide</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-mini-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 mini Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-airplay-how-to-easily-project-your-mac-screen-onto-a-television/"><u>Mastering AirPlay: How to Easily Project Your Mac Screen Onto a Television</u></a></li>
-<li><a href="https://extra-support.techidaily.com/smart-screenshot-assembly-leading-androidiphone-montage-aids-for-2024/"><u>Smart Screenshot Assembly Leading Android/iPhone Montage Aids for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-word-2007-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign Word 2007 documents online</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-note-30-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Note 30</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-infinix-note-30-pro-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Infinix Note 30 Pro to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-blaze-2-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Blaze 2 Pro?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tomtoms-actioncamera-reveal-2023-edition/"><u>[Updated] In 2024, TomTom's ActionCamera Reveal - 2023 Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/from-novice-to-pro-advanced-tips-for-efficiently-snapping-photos-on-your-computer/"><u>From Novice to Pro: Advanced Tips for Efficiently Snapping Photos on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>In 2024, Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-funniest-memes-download-now/"><u>The Funniest Memes, Download Now</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y100-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y100</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-find-n3-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Find N3</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y78t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y78t FRP Bypass</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-galaxy-s23plus-by-fonelab-android-recover-music/"><u>Undelete lost music from Galaxy S23+</u></a></li>
 </ul></div>
 

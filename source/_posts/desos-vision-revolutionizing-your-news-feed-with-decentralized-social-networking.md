@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2024-12-06T19:22:53.596Z
-updated: 2024-12-10T00:54:29.490Z
+date: 2024-12-10T16:24:14.418Z
+updated: 2024-12-16T02:04:41.375Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ## DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Decentralized Social, or DeSo, is a way of social networking built on open blockchain technology without a central authority that owns and operates the network, creating new opportunities for how we can use social media and giving more power to you, the user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **A Quick Note on Web2 and Web3** 
 
  For our discussion of DeSo, it's helpful to understand that legacy social media platforms and the type of interactive code that they use to host and share interactive content is often described as Web2\. The current mix of innovations happening with cryptocurrencies, [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), metaverse concepts, decentralized finance, and blockchain technology are often referred to as Web3.
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ![Network structures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Network-strcuture.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)_
@@ -53,10 +49,6 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
  The social graph used by legacy Web2 firms as we experience it can be understood like an iceberg in which we often only see the tip protruding above water while there's an enormous amount of data hidden below the surface which we may or may not be able to interact with or see. Essentially, they are choosing which parts of the iceberg to bring to the surface and allow you to interact with and see while deciding which parts to leave hidden below the water's surface. Furthermore, you don't get to know how they are making these selections for you.
 
  In Web2, central authorities have ultimate control over this trove of data, they own it, and they use it as they see fit. DeSo applications being built in Web3 are poised to bring more of the opaque aspects of our social graph above the surface so that developers and users can have more power, gain more insight, and build better systems for living and working together.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Decentralized Social Brings Power Back to the Users** 
 
@@ -78,11 +70,19 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Control** 
 
@@ -98,10 +98,6 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
  An open social graph allows for a social media experience that more closely resembles the native Web3 multiverse where things can connect with each other. The ability to move your friends list is quite a big change in how we understand social graphs. DeSo allows a future of social media that is not a unique universe or walled garden, but is a multiverse where things can talk to each other and interact in multi-faceted ways.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Choose Your Front-End** 
 
  The more power we have and the more data we control allows us to understand ourselves better. Now we can re-imagine what a front-end user experience using social media can be. If you don't like the data or user experience that comes out of a particular front-end application, you can move on or build your own.
@@ -112,9 +108,17 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
 ![Lens Protocol](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-05-at-1.51.56-PM.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Lens Protocol](https://lens.xyz/)_
 
@@ -129,10 +133,6 @@ _[Lens Protocol](https://lens.xyz/)_
  Community governance means that you can create new ways of controlling how an application functions, and the users have a say in the evolution of the app. For instance, when you follow someone else, you're given a "Follower NFT" which has built-in governance mechanisms, including[snapshotting and delegation](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system), which allow for sophisticated content sharing privileges or exclusive tiering of your follower list. Another example is that you can create modules with a built-in governance-managed treasury fee.
 
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
 
@@ -161,16 +161,20 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-webcam-master-ultimate-live-recording-guide-for-2024/"><u>[New] WebCam Master Ultimate Live Recording Guide for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-basics-in-the-realm-of-tale-construction/"><u>[Updated] Basics in the Realm of Tale Construction</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/bp550-review-latest-tech-advances/"><u>BP550 Review Latest Tech Advances</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p55-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P55 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro Max to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-c67-4g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme C67 4G Devices</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/instantaneous-identification-in-the-social-media-jungle-for-2024/"><u>Instantaneous Identification in the Social Media Jungle for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-motorola-razr-40-ultra-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Motorola Razr 40 Ultra.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-xiaomi-redmi-13c-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Xiaomi Redmi 13C password or pattern lock</u></a></li>
-<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-how-to-master-video-capture-using-adobe-presenter-for-2024/"><u>[New] How to Master Video Capture Using Adobe Presenter for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-shareable-video-surge-2024/"><u>[New] Shareable Video Surge 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-quick-and-easy-increase-or-decrease-story-video-speed/"><u>[Updated] In 2024, Quick and Easy Increase or Decrease Story Video Speed</u></a></li>
+<li><a href="https://extra-information.techidaily.com/bring-out-clarity-in-low-light-iphone-recordings-for-2024/"><u>Bring Out Clarity in Low-Light iPhone Recordings for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c12-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C12 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-14-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/navigating-amd-radeon-r9-troubleshooting-in-windows-11/"><u>Navigating AMD Radeon R9 Troubleshooting in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-a1-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo A1 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-tecno-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Tecno password or pattern lock</u></a></li>
+<li><a href="https://fox-http.techidaily.com/visionmeld-digital-artistry-at-your-fingertips/"><u>VisionMeld Digital Artistry at Your Fingertips</u></a></li>
+<li><a href="https://techidaily.com/vivo-video-recovery-recover-deleted-videos-from-vivo-by-fonelab-android-recover-video/"><u>Vivo Video Recovery - Recover Deleted Videos from Vivo</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
 

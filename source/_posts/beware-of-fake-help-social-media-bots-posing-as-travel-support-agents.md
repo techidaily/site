@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2024-12-04T23:38:09.963Z
-updated: 2024-12-09T16:19:16.628Z
+date: 2024-12-13T02:54:18.008Z
+updated: 2024-12-16T00:11:45.797Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ## Beware of Fake Help: Social Media Bots Posing as Travel Support Agents
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  Much like [scam phone calls](https://youtube-webster.techidaily.com/-sound-devices-for-digital-influencers-for-2024/) and their digital counterparts, [phishing emails](https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/) and social media scam bots aim to trick anyone they can into handing over private information or installing malicious software (sometimes both). The end goal is the utilization of that information or software as leverage to make money—by exploiting victims directly, appropriating or stealing their identity, selling their information off, etc.
 
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Spot a Phony Representative
 
@@ -46,23 +50,19 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
@@ -92,22 +92,22 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-accelerated-8-screencap-solutions/"><u>[New] Accelerated 8 Screencap Solutions</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-formulating-attractive-instagram-post-headlines-for-2024/"><u>[New] Formulating Attractive Instagram Post Headlines for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-melding-images-and-songs-into-screens/"><u>[New] Melding Images and Songs Into Screens</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-the-secrets-of-advanced-virtualization/"><u>[New] Unlocking the Secrets of Advanced Virtualization</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-accelerated-8-screencap-solutions/"><u>[Updated] 2024 Approved Accelerated 8 Screencap Solutions</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-rhythmic-updates-infuse-music-into-statuses/"><u>[Updated] In 2024, Rhythmic Updates Infuse Music Into Statuses</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-tips-for-efficiently-implementing-windows-11s-auto-hdr-mode/"><u>[Updated] Tips for Efficiently Implementing Windows 11'S Auto HDR Mode</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-pro-tips-chromebooks-finest-pencil-based-software/"><u>2024 Approved Pro Tips Chromebook's Finest Pencil-Based Software</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-13-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 13 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-hot-40i-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Hot 40i Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-moto-g14-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Moto G14 on Windows</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/resolved-lost-ark-game-audio-issues-fixed/"><u>Resolved: Lost Ark Game Audio Issues Fixed</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-xcover-7-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-xiaomi-13t-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Xiaomi 13T Pro</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>[New] In 2024, Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-world-of-premium-banners-for-media/"><u>[New] Unlocking the World of Premium Banners for Media</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-meaning-behind-tiktoks-pfp-emoji/"><u>[Updated] In 2024, Unlocking the Meaning Behind TikTok's PFP Emoji</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/get-grooving-with-affordable-karaoke-fun-save-big-on-party-tyme-subscription-at-only-4999month/"><u>Get Grooving with Affordable Karaoke Fun - Save Big on Party Tyme Subscription at Only $49.99/Month!</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-12-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 12 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-10t-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 10T 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s18e-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18e Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo Y78+ (T1) Edition</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-comprehensive-guide-to-injecting-vimeo-videos-into-decks/"><u>In 2024, Comprehensive Guide to Injecting Vimeo Videos Into Decks</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/izzie-stevens-wallpaper-collections-and-visuals-digital-artwork-by-yl-software/"><u>Izzie Stevens Wallpaper Collections & Visuals - Digital Artwork by YL Software</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Yuva 2</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-defy-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Defy 2</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Moto G34 5G</u></a></li>
 </ul></div>
 

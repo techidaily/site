@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Integrating Full-System Colour Selection on Windows 10 PCs"
-date: 2024-12-06T16:11:19.560Z
-updated: 2024-12-10T02:04:12.651Z
+date: 2024-12-10T04:33:21.455Z
+updated: 2024-12-15T21:02:57.067Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 ---
 
 ## Step-by-Step Guide: Integrating Full-System Colour Selection on Windows 10 PCs
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  Need to figure out a color quickly? Using [Microsoft's free PowerToys utility for Windows 10](https://facebook-video-footage.techidaily.com/updated-2024-approved-auto-play-youtube-iphoneandroid-no-notification/), you can instantly bring up a color picker with a keyboard shortcut and use your mouse cursor to identify any color on screen in hex, RGB, or HSL format. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Install PowerToys and Enable Color Picker
@@ -39,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 ![Download the latest release of the PowerToys installer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/powertoys.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After the installation process is complete, launch PowerToys Settings by right-clicking the icon on your taskbar, or from your desktop or the Start menu.
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
  Click "Color Picker" in the sidebar, then make sure that the "Enable Color Picker" switch is in the "On" position.
 
 ![Ensure the PowerToys color picker is enabled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/power-toy-color-picker.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By default, you'll use Windows+Shift+C to activate the color picker. You can change this keyboard shortcut to your preferred one from this screen, if you like.
 
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![Using Color Picker to identify a color in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/firefox_color_picker_1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can point your cursor at any color on screen that you want, including icons, applications, images, desktop backgrounds, the taskbar, and more. If you want more info on the color, click the left mouse button while hovering over it, and a window will pop up.
 
 ![The PowerToys Color Picker detail window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/color_detail_window.jpg) 
@@ -68,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![To copy a color value to the clipboard, click the "copy" icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/copy_to_clipboard.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Also, you can adjust the color value you just selected within Color Picker by clicking the center of the large color bar near the top of the window.
 
 ![In Color Picker, click the color bar to adjust the color values.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/12/click_color_bar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After clicking the color bar, you'll see another screen with sliders that allow you to adjust the color with your mouse or by entering values with your keyboard.
@@ -111,18 +111,21 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-effortless-video-streams-youtube-loops-for-television-viewers/"><u>[New] 2024 Approved Effortless Video Streams YouTube Loops for Television Viewers</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-techniques-to-overcome-blackout-during-obs-fullscreen/"><u>[New] In 2024, Techniques to Overcome Blackout During OBS Fullscreen</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-how-to-change-voice-on-tiktok-for-2024/"><u>[Updated] How to Change Voice on TikTok for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-lava-yuva-3-pro-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Lava Yuva 3 Pro in Minutes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-innovating-visual-storytelling-exploring-the-world-of-smart-hdr-photography/"><u>In 2024, Innovating Visual Storytelling Exploring the World of Smart HDR Photography</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-watermark-free-videos-how-to-remove-filmora-branding-with-or-without-paying/"><u>New In 2024, Watermark-Free Videos How to Remove Filmora Branding with or without Paying</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-infinix-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Infinix</u></a></li>
-<li><a href="https://common-error.techidaily.com/steps-to-improve-scanner-printer-conversation-epson/"><u>Steps to Improve Scanner-Printer Conversation (Epson)</u></a></li>
-<li><a href="https://some-tips.techidaily.com/subtlety-in-sound-fading-out-effectively-in-logic-pro-for-2024/"><u>Subtlety In Sound Fading Out Effectively in Logic Pro for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-in-the-classroom-best-practices-and-tips-for-educators/"><u>[Updated] In 2024, YouTube in the Classroom Best Practices and Tips for Educators</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-melodic-memory-bank-save-and-analyze-music-files/"><u>[Updated] Melodic Memory Bank Save & Analyze Music Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-igniting-online-frenzy-essential-trending-hashes/"><u>2024 Approved Igniting Online Frenzy Essential Trending Hashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-pinnacle-virtual-lecture-identifier/"><u>2024 Approved Pinnacle Virtual Lecture Identifier</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y27-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y27 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g73-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G73 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-simple-procedure-reverse-video-order-via-vlc/"><u>In 2024, Simple Procedure Reverse Video Order via VLC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-8-stellar-alternatives-to-windows-10-photos-for-enhanced-photography-experience-for-2024/"><u>New 8 Stellar Alternatives to Windows 10 Photos for Enhanced Photography Experience for 2024</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/streamline-your-downloads-with-winx-youtube-downloader-on-mobile-devices/"><u>Streamline Your Downloads with WinX YouTube Downloader on Mobile Devices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-art-of-lenovos-video-screen-capture/"><u>The Art of Lenovo's Video Screen Capture</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-definitive-guide-to-alienware-m18-r2-a-gamers-dream-machine-unveiled/"><u>The Definitive Guide to Alienware M18 R2 - A Gamer's Dream Machine Unveiled</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-camon-20-pro-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Camon 20 Pro 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12-pro-4g-music-recovery-recover-deleted-music-from-xiaomi-redmi-note-12-pro-4g-by-fonelab-android-recover-music/"><u>Xiaomi Redmi Note 12 Pro 4G Music Recovery - Recover Deleted Music from Xiaomi Redmi Note 12 Pro 4G</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
 

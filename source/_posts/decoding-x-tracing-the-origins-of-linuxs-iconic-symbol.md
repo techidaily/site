@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-12-06T22:51:05.471Z
-updated: 2024-12-10T01:13:22.262Z
+date: 2024-12-13T17:43:26.720Z
+updated: 2024-12-16T04:49:33.640Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ---
 
 ## Decoding X: Tracing the Origins of Linux's Iconic Symbol
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -53,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
@@ -80,10 +80,14 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -98,7 +102,7 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -116,10 +120,6 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -142,18 +142,18 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-boosting-video-quality-in-zoom-with-advanced-effects/"><u>[New] Boosting Video Quality in Zoom With Advanced Effects</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera/"><u>[New] In 2024, The Ultimate Guide to Choosing a Premium Portable Vlog Camera</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-beginners-backstage-pass-to-photo-tricks/"><u>[Updated] In 2024, Beginner's Backstage Pass to Photo Tricks</u></a></li>
-<li><a href="https://games-able.techidaily.com/create-a-unique-gaming-experience-with-personalized-xbox-game-bar-configurations/"><u>Create a Unique Gaming Experience with Personalized Xbox Game Bar Configurations</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a58-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A58 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-sound-visuals-illustrating-audio-signals-as-waveforms-and-enriching-footage-with-animation-in-adobe-premiere-pro/"><u>New The Art of Sound Visuals Illustrating Audio Signals as Waveforms & Enriching Footage with Animation in Adobe Premiere Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/recognizing-and-avoiding-bingchatgpt-coin-deception-schemes-online/"><u>Recognizing and Avoiding BingChatGPT Coin Deception Schemes Online</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy S24</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/step-by-step-guide-personalizing-your-pc-with-windows-control-panel-options-tips-from-yl-computing/"><u>Step-by-Step Guide: Personalizing Your PC with Windows Control Panel Options - Tips From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/tecno-camon-20-pro-5g-video-recovery-recover-deleted-videos-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>Tecno Camon 20 Pro 5G Video Recovery - Recover Deleted Videos from Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/troubleshooting-pc-startup-issues-what-to-do-when-your-computer-beeps-on-boot-post-ram-installation/"><u>Troubleshooting PC Startup Issues: What To Do When Your Computer Beeps on Boot Post-RAM Installation</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-a-complete-beginners-guide-to-tiktok-on-mac/"><u>[New] A Complete Beginner's Guide to TikTok on Mac</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-junior-jams-and-junction-gaming-for-2024/"><u>[Updated] Junior Jams & Junction Gaming for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-unlock-ultra-hd-content-with-youtubes-advanced-video-setting/"><u>2024 Approved Unlock Ultra HD Content with YouTube’s Advanced Video Setting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/how-to-transform-viewers-criticism-into-content-enhancement/"><u>How to Transform Viewers' Criticism Into Content Enhancement</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-silent-calls-11-tricks-for-restoring-iphone-ringers/"><u>Overcome Silent Calls: 11 Tricks for Restoring iPhone Ringers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/prime-mp4-fb-file-enhancer/"><u>Prime MP4-FB File Enhancer</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel Causes & Solutions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revamping-your-discord-display-photo-a-simple-walkthrough/"><u>Revamping Your Discord Display Photo - A Simple Walkthrough</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 15 | Stellar</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-zte-nubia-flip-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your ZTE Nubia Flip 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2024-12-04T23:50:44.090Z
-updated: 2024-12-09T21:55:18.139Z
+date: 2024-12-08T18:34:26.554Z
+updated: 2024-12-15T19:17:17.290Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ---
 
 ## Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 * [Teach Them Basic Windows Actions](https://extra-guidance.techidaily.com/new-revolutionize-your-audio-pazera-free-extractor-insights/)
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1  Make the Login Process Easier 
 
@@ -42,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
 ## 3  Pin Frequently Used Apps to the Taskbar 
@@ -52,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
   
@@ -83,19 +87,11 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
@@ -107,12 +103,16 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
@@ -140,22 +140,21 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-buzz-on-twitter-top-10-viral-tweets/"><u>2024 Approved The Buzz on Twitter Top 10 Viral Tweets</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-m54-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy M54 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/elevate-your-gaming-experience-proven-methods-to-enhance-fps-in-roblox-games-as-of-2024/"><u>Elevate Your Gaming Experience: Proven Methods to Enhance FPS in Roblox Games as of 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/getting-started-nvidias-gtx-1080-ti-gpu-drivers-installed-easily-online/"><u>Getting Started: Nvidia's GTX 1080 Ti GPU Drivers Installed Easily Online</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v29-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V29 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-x6-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-effortlessly-record-circles-iphone-techniques-for-fb-feed/"><u>In 2024, Effortlessly Record Circles IPhone Techniques for FB Feed</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-magic-5-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Magic 5 Pro Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/kodi-v19-matrix-update-comprehensive-guide-on-compatibility-new-features-and-step-by-step-installation/"><u>Kodi v19 Matrix Update - Comprehensive Guide on Compatibility, New Features & Step-by-Step Installation</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xperia-1-v-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xperia 1 V on Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-150-2023-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia 150 (2023) without backup.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-burning-a-flawless-copy-of-dvds-on-your-mac-for-perfect-playback/"><u>Ultimate Guide: Burning a Flawless Copy of DVDs on Your Mac for Perfect Playback</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-f5-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from F5 5G.</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-recovery-recover-lost-data-from-vivo-v30-by-fonelab-android-recover-data/"><u>Vivo Data Recovery – recover lost data from Vivo V30</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-1k-sub-club-joining-the-youtube-success-circles/"><u>[New] 2024 Approved 1K Sub Club Joining the YouTube Success Circles</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-lenovo-laptop-a-complete-guide-to-recording-screens-for-2024/"><u>[New] Lenovo Laptop A Complete Guide to Recording Screens for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-mastering-the-art-of-capturing-dynamic-images-on-ios-devices/"><u>[Updated] In 2024, Mastering the Art of Capturing Dynamic Images on iOS Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-why-does-my-photo-booth-videos-keep-freezing/"><u>[Updated] In 2024, Why Does My Photo Booth Videos Keep Freezing?</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/augmented-reality-computing-just-got-bigger-purchase-the-newest-100-inch-ar-laptop-display-sans-separate-monitor/"><u>Augmented Reality Computing Just Got Bigger: Purchase the Newest 100-Inch AR Laptop Display , Sans Separate Monitor!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/express-windows-file-audit-procedure/"><u>Express Windows File Audit Procedure</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/failed-to-play-mp4-movies-with-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Failed to play MP4 movies with Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-k11x-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo K11x Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 6s Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11-proplus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 Pro+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mac-users-download-vllo-and-find-the-best-alternatives-for-2024/"><u>Mac Users Download VLLO and Find the Best Alternatives for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/samsung-galaxy-s10e-review/"><u>Samsung Galaxy S10e Review</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-camon-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Camon 20 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
