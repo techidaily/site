@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2024-12-13T19:47:16.393Z
-updated: 2024-12-15T21:37:06.053Z
+date: 2024-12-23T00:46:16.408Z
+updated: 2024-12-24T19:19:00.811Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 ## 1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  If you just want to delete a user account from your system and aren't concerned about ending any running processes and other cleanup tasks, follow the steps in the "Deleting the User Account" section below. You'll need the `deluser` command on Debian-based distributions and the `userdel` command on other Linux distributions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  User Accounts on Linux
 
  Ever since the [first time-sharing systems appeared in the early 1960s](https://en.wikipedia.org/wiki/Compatible%5FTime-Sharing%5FSystem) and brought with them the capability for multiple users to work on a single computer, there's been a need to isolate and compartmentalize the files and data of each user from all the other users. And so user accounts—[and passwords—](https://en.wikipedia.org/wiki/Fernando%5FJ.%5FCorbat%C3%B3)were born.
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Everything's set. All eyes are on you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Login
 
  Let's see if he really is logged in and, if he is, how many sessions he's working with. The `who` command [will list active sessions](http://man7.org/linux/man-pages/man1/who.1.html).
@@ -63,11 +63,11 @@ who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
- Eric is logged in once. Let's see what processes he's running.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Eric is logged in once. Let's see what processes he's running.
 
 ##  Reviewing The User's Processes
 
@@ -88,6 +88,10 @@ top -U eric
 ![Output from top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png) 
 
  It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Locking the Account
 
@@ -120,7 +124,7 @@ sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
  Now that we've prevented the user from logging back in, we can kill his processes and log him out.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Killing the Processes
@@ -132,7 +136,7 @@ sudo pkill -KILL -u eric
 ![sudo pkill -KILL -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/6-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're returned to the command prompt in a decidedly anti-climactic fashion. To make sure something happened let's check `who` again:
@@ -140,10 +144,6 @@ sudo pkill -KILL -u eric
 who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  His session is gone. He's been logged off and his processes have been stopped. That's taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric's desk.
 
@@ -164,15 +164,15 @@ sudo tar cfjv eric-20200820.tar.bz /home/eric
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A lot of screen output will scroll in the terminal window. To check the archive has been created, use the `ls` command. We're using the `-l` (long format) and `-h` (human-readable) options.
 
 ls -lh eric-20200802.tar.bz
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
 
@@ -190,7 +190,15 @@ sudo crontab -r -u eric
 
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Removing Print Jobs
 
@@ -200,14 +208,10 @@ lprm -U eric
 
 ![lprm -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The jobs are removed and you are returned to the command line.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Deleting the User Account
@@ -250,10 +254,6 @@ sudo less /etc/group | grep eric
 
 ![sudo less /etc/group | grep eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  It's a Wrap
 
  Eric, for his sins, is gone. Security is still walking him out of the building and you've already secured and archived his files, deleted his account, and purged the system of any remnants.
@@ -275,18 +275,19 @@ sudo less /etc/group | grep eric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-instantaneous-viewership-metering/"><u>[Updated] 2024 Approved Instantaneous Viewership Metering</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-professionalscreenx-insiders-take-on-software/"><u>[Updated] In 2024, ProfessionalScreenX Insider’s Take on Software</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Additional Tips About Sinnoh Stone For Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/combine-the-fractions-on-the-left-side-since-they-have-the-same-denominator/"><u>Combine the Fractions on the Left Side Since They Have the Same Denominator:</u></a></li>
-<li><a href="https://facebook.techidaily.com/1719153450268-cryptocurrency-and-sheep-zuckerbergs-surprising-pet-name/"><u>Cryptocurrency and Sheep? Zuckerberg’s Surprising Pet Name</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-bootloader-easily-by-drfone-android/"><u>How to Unlock Infinix Smart 8 Bootloader Easily</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-collection-of-10-inspirational-movies/"><u>In 2024, The Ultimate Collection of 10 Inspirational Movies</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/the-art-of-picture-sharing-with-carver-photo-displays/"><u>The Art of Picture Sharing with Carver Photo Displays</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy M54 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-note-30-vip-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Note 30 VIP</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/thrill-in-the-cold-olympic-showcase-snowboarders-at-peak-performance/"><u>Thrill in the Cold Olympic Showcase - Snowboarders at Peak Performance</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-itel-a60-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Itel A60</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-ultimate-method-for-screen-recording-across-platforms/"><u>[New] 2024 Approved The Ultimate Method for Screen Recording Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-nba-streaming-discover-the-best-15-techniques/"><u>[New] The Art of NBA Streaming - Discover the Best 15 Techniques</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-profitable-videos-on-demand-leveraging-analytics-and-ad-revenue-everywhere/"><u>[Updated] In 2024, Profitable Videos on Demand Leveraging Analytics & Ad Revenue Everywhere</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-list-of-online-havens-for-free-tamil-ringtones/"><u>[Updated] The Ultimate List of Online Havens for Free Tamil Ringtones</u></a></li>
+<li><a href="https://win-trending.techidaily.com/apowersoft-background-eraser-faq-top-ios-and-android-user-queries/"><u>Apowersoft Background Eraser FAQ: Top iOS and Android User Queries</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-12-mini-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 12 mini Device from iCloud</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23plus-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23+ Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-nokia-g310-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Nokia G310 Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/simple-guide-to-installing-realtek-audio-drivers-for-enhanced-windows-10-experience/"><u>Simple Guide to Installing Realtek Audio Drivers for Enhanced Windows 10 Experience</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-oneplus-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on OnePlus without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-smart-8-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Smart 8 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a05-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A05 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-s18-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo S18 Pro</u></a></li>
 </ul></div>
 

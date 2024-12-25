@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Itel A05s? | Dr.fone
-date: 2024-09-23T13:10:15.744Z
-updated: 2024-09-23T16:30:06.980Z
+date: 2024-12-21T21:52:02.727Z
+updated: 2024-12-24T17:39:44.744Z
 tags: 
   - reset
 categories:
@@ -22,6 +22,10 @@ Factory reset will delete all your user data from internal storage. Thus it is a
 
 You must ensure that all the steps are followed in sync so that the hard reset Android via PC is successful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Back up Android before hard reset
 
 Since factory reset involves removing all data, adjusted settings and logged accounts from the Itel A05s device; therefore, it is very important to back up all the data before moving on with the factory reset process. So, in this section, we will show you how to first back up your Android device using the [Phone Backup](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/). This is an easy-to-use and very convenient [Android backup software](https://drfone.wondershare.com/backup/android-backup-software.html) that can be used to back up an Android device.
@@ -29,10 +33,11 @@ Since factory reset involves removing all data, adjusted settings and logged acc
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
@@ -65,6 +70,10 @@ Let’s have a look at the easy process to back up Android before the factory re
 Phone Backup is one of the handiest and easy-to-use features within Wondershare Dr.Fone. Users can select their opted files manually to restore. This tool supports 8000+ Android devices worldwide. Users will feel safe and secure using this revolutionary software.
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Hard Reset Android using Dr.Fone - Screen Unlock (Android)
 
@@ -158,6 +167,10 @@ Smartphones have become a must-have gadget in our lives. We need them to support
 
 Before dealing with the possible solutions and tools, let us get some background knowledge in the following section.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Some Common Causes we need to hard reset our Itel A05s
 
 Hard resetting is usually not easy because it means erasing all your phone data and coming out with a clean phone. Unless you follow a minimalist lifestyle inspired by Marie Kondo, it's a tough deal. So what may be the reasons for Itel A05s hard reset?
@@ -188,13 +201,6 @@ Google Find my device can hard reset your Itel A05s y20 phone if you already hav
 
 ![vivo unlock find my device](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Gmail account
 
 If you have configured your phone with a Gmail account, then your Gmail account supports recovering from screen lock. Here is how it works.
@@ -205,13 +211,6 @@ If you have configured your phone with a Gmail account, then your Gmail account 
 
 2. Choose Forgot Pattern/Password option and enter your Google account credentials to start the process.
 3. When you are done signing in, bypass your screen lock is complete, and you can configure a new password, pattern, or PIN.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Answer security questions
 
@@ -231,13 +230,6 @@ If you have not configured your phone earlier with a Google account and have not
 Precaution is better than cure. Hence having a phone backup that can be restored quickly is a great way to handle tough decisions like Itel A05s hard reset. Wondershare Dr.Fone is a simple utility with full features to facilitate periodic phone data backup for security. In the case of any Itel A05s hard reset or factory reset, a fully functional backup ensures little or no data loss.
 
 ![style arrow up](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/android-backup-and-restore/)
 
@@ -261,22 +253,23 @@ Let us review how Wondershare Dr.Fone works.
 
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Click the Backup up Now button to start the backup process of Itel A05s phone data. Keep your Itel A05s connected to the computer till your Itel A05s backup is complete.
 
 ![backing up device](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** When the backup is complete, your latest backup will show in the list of previous backups.
 
 ![completed backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Restore the backup to your Android phone
 
@@ -299,16 +292,7 @@ Smartphones are a critical part of our personal and professional lives now. Keep
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## You Might Also Like
@@ -338,6 +322,10 @@ Before proceeding with the reset using Dr.Fone - Data Eraser (Android), carefull
 - **Step 2:** Click “Erase” to start erasing all data on the Android device. Think again about whether you want to delete all data and type “000000” to confirm.
 
 ![start data earser](https://images.wondershare.com/drfone/guide/android-erase-03.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Wait for the erase process to end, and you can view the erasure report to check the data type erased after erasing completes.
 
@@ -373,31 +361,21 @@ You may have to confirm your choice by selecting “Yes”.
 
 ![select yes](https://images.wondershare.com/drfone/article/2017/04/14925874254055.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 5: Reboot your device.**
 
 After the reset is complete, navigate to the “reboot system now” option and select it to reboot your device. At the end of this process, your device will be reset.
 
 ![reboot system now](https://images.wondershare.com/drfone/others/factory-reset-huawei-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Reset Android with the reset pinhole
 
 There are many reasons for opting to reset an Android smartphone or tablet. Sometimes, a forgotten password might get your tablet locked. At times, the screen of your smartphone or tablet might get stuck and fail to respond. Or your device might come with a non-removable battery to make matters worse. For all these problems and many others, you might want to reset your device. But if your device does not come with a home button or volume buttons, you might want to use a different method. Generally, such devices come with a reset pinhole on the Itel A05s device which can be used to reset the Itel A05s device. To perform a tablet hard reset without the volume button, follow the simple steps described below.
 
 ![choose yes](https://images.wondershare.com/drfone/article/2017/04/14931910627827.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1: Find the Reset pinhole.**
 
@@ -486,5 +464,21 @@ So these are the methods with which you can do a reset without using volume butt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-unlocking-vimeo-content-step-by-step-free-and-licensed-tools-guide/"><u>[New] 2024 Approved Unlocking Vimeo Content Step-by-Step Free & Licensed Tools Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypass-slow-mobile-connectivity-a-step-by-step-solution-for-faster-browsing/"><u>Bypass Slow Mobile Connectivity: A Step-by-Step Solution for Faster Browsing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-15-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 15 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y36-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-note-50-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme Note 50 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-repair-an-unresponsive-hp-bluetooth-keypad/"><u>How to Repair an Unresponsive HP Bluetooth Keypad</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-premier-nintendo-switch-brawlers-list-max-156/"><u>In 2024, Premier Nintendo Switch Brawlers List (Max 156)</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-snippet-filmmaker-pro/"><u>In 2024, Snippet Filmmaker Pro</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-how-the-razer-portal-revolutionizes-wi-fi-gaming/"><u>In-Depth Evaluation: How the Razer Portal Revolutionizes Wi-Fi Gaming</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-11-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 11 SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/why-terramasters-128tb-hybrid-raid-setup-surpasses-expectations-for-massive-storage-needs/"><u>Why TerraMaster’s 128TB Hybrid RAID Setup Surpasses Expectations for Massive Storage Needs</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo X Fold 2 | Dr.fone</u></a></li>
+</ul></div>
 

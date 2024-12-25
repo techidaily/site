@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2024-12-11T02:14:46.361Z
-updated: 2024-12-15T19:04:00.998Z
+date: 2024-12-17T21:55:57.483Z
+updated: 2024-12-24T19:34:55.604Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ---
 
 ## Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * [Test for a Defective Battery](https://facebook-video-content.techidaily.com/new-fb-profile-picture-dimensions/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -37,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 * If you continue to have the problem, update the BIOS and reinstall the battery driver.
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  1\. Check Your Laptop Adapter
 
@@ -53,16 +45,12 @@ Aman Kumar / How-To Geek
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
 ![Multiple power adaptors and cables plugged into a power strip](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/52731312553_e2b752b4ab_o.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Jason Fitzpatrick / How-To Geek
 
@@ -75,6 +63,10 @@ Jason Fitzpatrick / How-To Geek
  For instance, using a counterfeit charger that claims fast charging on a laptop that doesn't support it can [damage the battery](https://on-screen-recording.techidaily.com/updated-webcam-techniques-for-live-recording-powerpoint/) by providing incorrect power levels. Similarly, if you try to charge your laptop that supports [USB-C](https://screen-activity-recording.techidaily.com/navigating-lenovo-screen-capture-tools-effortlessly/) charging with a smartphone charger, then you're likely to encounter charging issues, as the power supply from a smartphone charger is typically lower than what a laptop requires.
 
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Examine the Charging Port and Pin
 
@@ -116,6 +108,10 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
@@ -124,11 +120,11 @@ Aman Kumar / How-To Geek
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
 
@@ -145,6 +141,10 @@ Aman Kumar / How-To Geek
  Confirming this possibility on a laptop with a non-removable battery is more complicated. This is because you'll need to open the machine to access the battery. Doing so could not only damage important components if done incorrectly but may also void your laptop's warranty.
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -169,20 +169,20 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/oost-your-youtube-success-with-free-high-quality-audio/"><u>[New] Boost Your YouTube Success with Free, High-Quality Audio</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-budget-friendly-strategies-to-infuse-text-and-video/"><u>[Updated] Budget-Friendly Strategies to Infuse Text & Video</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-separate-visual-elements-videos-to-pics-via-windows-10-photos/"><u>[Updated] In 2024, Separate Visual Elements Videos to Pics via Windows 10 Photos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-premier-eco-cinema-tech-usage-and-mastery/"><u>[Updated] Premier Eco-Cinema Tech Usage and Mastery</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/bypassing-doctor-consults-chatgpt-pitfalls-explored/"><u>Bypassing Doctor Consults: ChatGPT Pitfalls Explored</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/crafting-your-virtual-alter-ego-in-a-metaverse-setting-for-2024/"><u>Crafting Your Virtual Alter Ego in a Metaverse Setting for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/iphone-photo-perfection-implement-these-10-composition-tenets-for-2024/"><u>IPhone Photo Perfection Implement These 10 Composition Tenets for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/puzzling-perfection-hunt-for-the-ultimate-rooms/"><u>Puzzling Perfection Hunt for the Ultimate Rooms</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60s-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60s on Windows</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y27s-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y27s Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>Undelete lost data from Tecno</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-x7b-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor X7b.</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-masterminds-of-making-magic-top-6-in-nft-innovation/"><u>[New] In 2024, Masterminds of Making Magic Top 6 in NFT Innovation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-how-to-secure-continuous-streaming-in-obs/"><u>[Updated] How To Secure Continuous Streaming In OBS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funnyframe-factory-quick-meme-crafters/"><u>2024 Approved FunnyFrame Factory Quick Meme Crafters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-v30-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme V30 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/amd-radeon-r9-display-driver-issues-on-windows-10-solved/"><u>AMD Radeon R9 Display Driver Issues on Windows 10 [Solved]</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/dissecting-the-features-of-inshots-editing-software/"><u>Dissecting the Features of InShot's Editing Software</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/conference-call-to-online-showcase-google-meet-on-youtube/"><u>From Conference Call to Online Showcase Google Meet on YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-apple-iphone-8-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 8 Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-ce-3-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord CE 3 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-c12-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C12 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-take-screenshots-on-lenovo-laptop/"><u>How to Take Screenshots on Lenovo Laptop</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-galaxy-z-flip-5-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-v27e-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo V27e</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-the-best-mouse-for-your-mac-computer-2n4/"><u>Ultimate Guide: The Best Mouse for Your Mac Computer - 2N4</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo S17 | Dr.fone</u></a></li>
 </ul></div>
 

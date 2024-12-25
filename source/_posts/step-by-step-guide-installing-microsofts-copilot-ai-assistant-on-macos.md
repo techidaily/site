@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-12-13T02:36:22.657Z
-updated: 2024-12-15T17:44:01.120Z
+date: 2024-12-19T16:57:19.052Z
+updated: 2024-12-24T23:24:53.963Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ---
 
 ## Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,20 +32,20 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
@@ -57,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
@@ -72,11 +76,7 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
@@ -98,22 +98,20 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-obs-direct-live-video-feed-for-instagram/"><u>[Updated] 2024 Approved OBS Direct Live Video Feed for Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-navigating-the-landscape-of-color-correction-innovative-uses-of-luts-in-video-editing/"><u>2024 Approved Navigating the Landscape of Color Correction Innovative Uses of LUTs in Video Editing</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discovering-social-gaming-in-the-metaverse/"><u>Discovering Social Gaming in the Metaverse</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/how-to-perform-a-thorough-iphone-data-wipe-without-leaving-traces-stellar-insights/"><u>How to Perform a Thorough iPhone Data Wipe Without Leaving Traces | Stellar Insights</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-vivo-y27s-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Vivo Y27s | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beginning-a-successful-item-evaluation-video-series/"><u>In 2024, Beginning a Successful Item Evaluation Video Series</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-tecno-camon-20-premier-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Tecno Camon 20 Premier 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-reno-9a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 9A working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Plus Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s24plus-video-recovery-recover-deleted-videos-from-samsung-galaxy-s24plus-by-fonelab-android-recover-video/"><u>Samsung Galaxy S24+ Video Recovery - Recover Deleted Videos from Samsung Galaxy S24+</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi 13 Ultra</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-best-motion-sensing-apps-for-android-iphone-and-ipad/"><u>The Best Motion Sensing Apps for Android, iPhone, and iPad</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-camon-20-premier-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Camon 20 Premier 5G</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-se-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-mp4-editing-software-effortless-conversion-and-cropping-techniques/"><u>Ultimate Guide to MP4 Editing Software - Effortless Conversion & Cropping Techniques</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-acclaimed-encoder-technology-in-broadcast-systems/"><u>[New] Acclaimed Encoder Technology in Broadcast Systems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-recording-skype-meetings-on-modern-operating-systems-for-2024/"><u>[New] Recording Skype Meetings on Modern Operating Systems for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nubia Red Magic 9 Pro+ Phone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/cambia-archivos-avi-a-formato-asf-online-de-forma-gratuita-con-moviemaker/"><u>Cambia Archivos AVI a Formato ASF Online De Forma Gratuita Con MovieMaker</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/crafting-uncomfortable-brews-in-minecraft-a-step-by-step-guide/"><u>Crafting Uncomfortable Brews in Minecraft: A Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-newest-intel-uhd-graphics-655-drivers-compatible-with-windows-11/"><u>Get the Newest Intel UHD Graphics 655 Drivers Compatible with Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://facebook.techidaily.com/managing-friend-access-to-live-updates/"><u>Managing Friend Access to Live Updates</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Tecno</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-x50i-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor X50i on Mac</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-zero-5g-2023-turbo-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Zero 5G 2023 Turbo</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 40i? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 10 & 7</u></a></li>
 </ul></div>
 

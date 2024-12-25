@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-12-14T16:44:22.270Z
-updated: 2024-12-16T04:18:52.039Z
+date: 2024-12-17T21:07:48.033Z
+updated: 2024-12-24T21:12:49.041Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ubuntu isn’t your only option for reviving old PCs through Linux. Xubuntu is a lighter version of Ubuntu capable of running on moderately old hardware. Let’s see how well it delivers the Ubuntu experience on an older laptop.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What is Xubuntu?
 
 [Xubuntu](https://xubuntu.org/) is a flavor of Ubuntu featuring the XFCE desktop environment (hence the “X” in the name). It’s supposed to strip down Ubuntu for a more minimalist (yet super configurable and supported) experience.
@@ -36,15 +32,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu desktop and terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_32_42.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From the very first boot, most apps you need to get working are right there in the app menu. The full [LibreOffice](https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/) suite (including Libre Draw), a mail client, GIMP (for image manipulation), and Mozilla Firefox are packaged with the installation. Plus, it has two GUI software stores to download any other apps: App Center and Synaptic Package Manager.
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -65,16 +61,12 @@ Close
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Put to the Test: Xubuntu on an Old Laptop
 
  I tested Xubuntu and Ubuntu one by one on this machine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Running Xubuntu
 
@@ -86,6 +78,10 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
@@ -93,6 +89,10 @@ Close
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
 
@@ -129,19 +129,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-techniques-for-successful-photo-background-alteration-on-fb-for-2024/"><u>[New] Techniques for Successful Photo Background Alteration on FB for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-building-confidence-and-trust-with-candidates/"><u>[Updated] Building Confidence and Trust with Candidates</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-online-cinema-top-youtube-essentials-for-2024/"><u>Curated Online Cinema Top YouTube Essentials for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/effective-methods-for-solving-starfields-excessive-cpu-demand-in-2e24/"><u>Effective Methods for Solving Starfield's Excessive CPU Demand in 2E24</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-samsung-galaxy-m14-4g-phone-by-drfone-android/"><u>How to Reset a Locked Samsung Galaxy M14 4G Phone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-revive-your-bricked-itel-p55t-in-minutes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Revive Your Bricked Itel P55T in Minutes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iCloud | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-samsung-galaxy-m14-5g-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Samsung Galaxy M14 5G FRP</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Narzo 60 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-honor-90-lite-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor 90 Lite</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1726220145638-movavi/"><u>새로운 Movavi 비디오 지원을 구매하세요: 전문가들에게 선호하는 기대진인 클라우드 스트로머</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-essential-20-country-melodies-to-unwind-and-groove-at-home-tiktok/"><u>[Updated] In 2024, Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x/"><u>2024 Approved Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-effortlessly-capture-mac-screenshots/"><u>2024 Approved How to Effortlessly Capture Mac Screenshots</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone-for-2024/"><u>How to Personalize and Change Ringtones on Your iPhone for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro with/without SIM Card</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-moto-g04-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Moto G04 Location | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-2022-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE (2022) Suddenly | Stellar</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210884475-9781646043255-the-modern-art-of-brujeria/"><u>The Modern Art of Brujería | Free Book</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Ace 2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x6-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X6.</u></a></li>
 </ul></div>
 

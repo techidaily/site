@@ -1,7 +1,7 @@
 ---
 title: "Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems"
-date: 2024-12-08T22:43:32.801Z
-updated: 2024-12-16T04:48:21.260Z
+date: 2024-12-18T17:28:20.458Z
+updated: 2024-12-24T19:52:56.037Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ---
 
 ## Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ##  What You Need to Know About Windows 10's Bash Shell
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
@@ -48,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  There are some limitations here. It won't officially work with [graphical Linux desktop applications](https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/). Not every command-line application works, either, as the feature isn't perfect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  How Windows Subsystem for Linux 2 (WSL2) Works
 
  Windows Subsystem for Linux 2 (WSL2) is designed to provide the exact same user experience as its predecessor, but the similarities mostly end there.
@@ -55,6 +55,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  WSL2 runs a full Linux Kernel in [an extremely efficient virtual machine.](https://facebook-record-videos.techidaily.com/updated-the-infographic-index-youtubes-surprising-stat-treasury-2017/) Just like WSL1, WSL2 allows you use a range of different Linux Distros including, Ubuntu, Debian, Kali, openSUSE, Fedora, and others. That also means that most any Linux application, package, or command will work without an issue.
 
  WSL2 supports GUI applications on Windows 11.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install Bash on Windows 10
 
@@ -91,7 +95,7 @@ wsl --install
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Use The Bash Shell and Install Linux Software
@@ -112,6 +116,10 @@ wsl --install
 
 ![Enter a username and password for your Linux distro.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985a5c26989.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can launch your installed Linux environment by running the `wsl` command. If you have multiple Linux distributions installed, you can [choose the default Linux environment](https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-infinix-note-30-vip-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/) this command launches.
 
  If you have Ubuntu installed, you can also run the `ubuntu` command to install it. For openSUSE Leap 42, use `opensuse-42` . For SUSE Linux Enterprise Sever 12, use `sles-12` . These commands are listed on each Linux distribution's page on the Windows Store.
@@ -119,6 +127,10 @@ wsl --install
  You can still launch your default Linux environment by running the `bash` command, but Microsoft says this is deprecated. This means the `bash` command may stop functioning in the future.
 
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
 
@@ -140,10 +152,6 @@ wsl --install
 
 ![The command &quot;ls&quot; run in the C:\ directory to list files and folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985d46b3c57.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll need to [use the apt command](https://screen-sharing-recording.techidaily.com/updated-best-practices-in-winning-tv-recording-with-software/) to install and update the Ubuntu environment's software. Be sure to prefix these commands with `sudo` , which makes them run as root--the Linux equivalent of Administrator. Here are the apt-get commands you'll need to know:
 
 * Download Updated Information About Available Packages: `sudo apt update`
@@ -158,6 +166,10 @@ wsl --install
 
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install the Ubuntu Font for a True Ubuntu Experience
 
  If you want a more accurate Ubuntu experience on Windows 10, you can also install the Ubuntu fonts and enable them in the terminal. You don't have to do this, as the default Windows command prompt font looks pretty good to us, but it's an option.
@@ -166,6 +178,10 @@ wsl --install
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
@@ -173,10 +189,6 @@ wsl --install
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Console
 
@@ -189,7 +201,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Navigate to the &quot;TrueTypeFont&quot; key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986517b1bec.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Right-click in the right pane and select New > String Value. Name the new value `000` .
@@ -198,21 +210,9 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
 
@@ -243,22 +243,22 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-zoom-meetings-for-beginners-a-comprehensive-introduction-guide/"><u>[New] Zoom Meetings for Beginners A Comprehensive Introduction Guide</u></a></li>
-<li><a href="https://article-tips.techidaily.com/best-of-the-best-essential-themes-for-animes-for-2024/"><u>Best of the Best Essential Themes for Animes for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-stuck-or-failing-delivery-of-imessages-on-your-iphone/"><u>Fixing Stuck or Failing Delivery of iMessages on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-a59-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-x6-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find X6 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-tecno-camon-20-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Tecno Camon 20 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>In 2024, Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nokia-c32-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nokia C32 in 3 Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-g2-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of G2</u></a></li>
-<li><a href="https://win-great.techidaily.com/schritt-fur-schritt-anleitung-alte-ssd-zu-neuen-laufwerken-migrieren-in-windows-111087/"><u>Schritt-Für-Schritt-Anleitung: Alte SSD Zu Neuen Laufwerken Migrieren in Windows 11/10/8/7</u></a></li>
-<li><a href="https://win11.techidaily.com/the-anatomy-of-windows-programming-and-linker-format-pe/"><u>The Anatomy of Windows' Programming and Linker Format (PE)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-podcast-writers-toolkit-essential-strategies-and-samples-for-2024/"><u>The Podcast Writer's Toolkit Essential Strategies & Samples for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-realme-narzo-60x-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy M34? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-poco-m6-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Poco M6 5G.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-secrets-to-superior-sprouts-in-the-world-of-valheim/"><u>[New] 2024 Approved Secrets to Superior Sprouts in the World of Valheim</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-online-obsession-the-8-must-watch-titles-for-2024/"><u>[New] Online Obsession The 8 Must-Watch Titles for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expertly-merge-vimeo-footage-with-ppts-using-modern-tools/"><u>[Updated] In 2024, Expertly Merge Vimeo Footage with PPTs Using Modern Tools</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/astrological-flair-in-digital-self-portrayals-on-whatsapp-for-2024/"><u>Astrological Flair in Digital Self-Portrayals on WhatsApp for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/experience-next-level-data-collection-and-targeting-powered-by-cookiebot/"><u>Experience Next-Level Data Collection and Targeting Powered by Cookiebot</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m34-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M34 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-13c-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 13C 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-note-30-vip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30 VIP without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/is-it-a-smart-choice-to-download-the-vlc-media-players-essential-codecs-bundle/"><u>Is It a Smart Choice to Download the VLC Media Player's Essential Codecs Bundle?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-wireless-connection-problems-for-the-surface-pro-user/"><u>Resolving Wireless Connection Problems for the Surface Pro User</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/seamless-windows-10-experience-fix-for-intel-and-nvidia-switchable-graphics/"><u>Seamless Windows 10 Experience: Fix for Intel & NVIDIA Switchable Graphics</u></a></li>
+<li><a href="https://techidaily.com/sign-word-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word Documents Online for Free</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simplifying-tasks-with-ez-grabber-techniques/"><u>Simplifying Tasks with EZ Grabber Techniques</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-file-error-the-document-cannot-be-saved-stellar-by-stellar-guide/"><u>Solved Microsoft Excel File Error The document cannot be saved | Stellar</u></a></li>
+<li><a href="https://techidaily.com/unable-to-save-excel-2007-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2007 Workbook Issue Fix 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-a60-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from A60.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 11 & 10 & 7</u></a></li>
 </ul></div>
 

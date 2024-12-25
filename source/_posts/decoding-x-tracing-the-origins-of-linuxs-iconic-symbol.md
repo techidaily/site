@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-12-13T17:43:26.720Z
-updated: 2024-12-16T04:49:33.640Z
+date: 2024-12-18T18:37:18.855Z
+updated: 2024-12-24T16:07:18.853Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ## Decoding X: Tracing the Origins of Linux's Iconic Symbol
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -80,14 +84,10 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -100,10 +100,6 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -120,6 +116,10 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -142,18 +142,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-a-complete-beginners-guide-to-tiktok-on-mac/"><u>[New] A Complete Beginner's Guide to TikTok on Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-junior-jams-and-junction-gaming-for-2024/"><u>[Updated] Junior Jams & Junction Gaming for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-unlock-ultra-hd-content-with-youtubes-advanced-video-setting/"><u>2024 Approved Unlock Ultra HD Content with YouTube’s Advanced Video Setting</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 11 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/how-to-transform-viewers-criticism-into-content-enhancement/"><u>How to Transform Viewers' Criticism Into Content Enhancement</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-silent-calls-11-tricks-for-restoring-iphone-ringers/"><u>Overcome Silent Calls: 11 Tricks for Restoring iPhone Ringers</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/prime-mp4-fb-file-enhancer/"><u>Prime MP4-FB File Enhancer</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel Causes & Solutions</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/revamping-your-discord-display-photo-a-simple-walkthrough/"><u>Revamping Your Discord Display Photo - A Simple Walkthrough</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 15 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-zte-nubia-flip-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your ZTE Nubia Flip 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ecovery-pathways-from-youtube-disqualification-for-2024/"><u>[New] Recovery Pathways From YouTube Disqualification for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-seamlessly-upload-twitter-videos-on-instagram/"><u>[New] Seamlessly Upload Twitter Videos on Instagram</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-synthesizing-elements-crafting-a-captivating-youtube-video-start/"><u>[Updated] Synthesizing Elements Crafting a Captivating YouTube Video Start</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tackling-problems-with-instagrams-video-feature-for-2024/"><u>[Updated] Tackling Problems with Instagram's Video Feature for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/achieving-reliable-internet-with-tp-links-deco-p9-in-depth-review-for-optimal-wi-fi-experience/"><u>Achieving Reliable Internet with TP-Link's Deco P9: In-Depth Review for Optimal Wi-Fi Experience</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 13T Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/free-video-downloads-from-oncourse-learning-platform-start-your-educational-journey-today/"><u>Free Video Downloads From OnCourse Learning Platform – Start Your Educational Journey Today!</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nubia-red-magic-8s-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nubia Red Magic 8S Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-poco-x6-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Poco X6 Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-c55-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme C55 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-xiaomi-redmi-a2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Xiaomi Redmi A2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s17-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S17 Pro phone? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-rejoice-crusader-kings-iii-crash-problems-resolved/"><u>PC Players Rejoice: Crusader Kings III Crash Problems Resolved!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-core-of-generative-ai-revealed/"><u>The Core of Generative AI Revealed</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-tecno-phantom-v-flip-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Tecno Phantom V Flip.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-y27-4g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo Y27 4G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-proplus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro+.</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel A05s | Dr.fone</u></a></li>
 </ul></div>
 

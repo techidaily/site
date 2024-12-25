@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Windows 10 Editions, Versions & Builds
-date: 2024-12-14T23:03:19.747Z
-updated: 2024-12-15T23:48:37.322Z
+date: 2024-12-22T20:35:56.607Z
+updated: 2024-12-24T21:07:13.021Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Identifying Your Windows 10 Editions, Versions & Builds
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Do Build Versions Mean?](https://facebook-video-footage.techidaily.com/updated-2024-approved-elevating-success-channel-ideas-to-spark-momentum/)
@@ -18,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  You may not have really thought about Windows build numbers in the past unless it was part of your job to do so. Here's how to find out what build—and edition and version—of Windows 10 you're running.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Do Build Versions Mean?
@@ -46,7 +50,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
@@ -63,16 +67,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -93,14 +93,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video-for-2024/"><u>[Updated] Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-how-to-upload-videos-to-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] How To Upload Videos to YouTube [a Step-by-Step Guide] for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-melodicmeasurement-reaction-to-tunes/"><u>[Updated] In 2024, MelodicMeasurement Reaction to Tunes</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-eliminating-unwanted-shutdowns-while-playing-ffxiv-on-pc/"><u>Expert Advice: Eliminating Unwanted Shutdowns While Playing FFXIV On PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-c55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C55 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XS without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-13t-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi 13T Pro | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-apex-legends-fixing-your-voice-chat-issues-solution/"><u>Troubleshooting Apex Legends: Fixing Your Voice Chat Issues - SOLUTION</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-compile-of-the-most-beautiful-wedding-videos-youtube-and-vimeo-edition/"><u>[New] In 2024, Compile of the Most Beautiful Wedding Videos - Youtube & Vimeo Edition</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-depth-examination-androids-photography-solution-lightroom/"><u>[Updated] In-Depth Examination Android's Photography Solution, Lightroom</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-latest-and-greatest-macbook-from-apple/"><u>Discover the Latest and Greatest MacBook From Apple</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-v30-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo V30 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A54 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-g2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo G2 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 Pro 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/monoprice-graphic-art-pad-assessment-a-high-quality-cost-effective-solution-for-creatives/"><u>Monoprice Graphic Art Pad Assessment: A High-Quality, Cost-Effective Solution for Creatives</u></a></li>
+<li><a href="https://extra-information.techidaily.com/navigate-the-excellent-world-of-top-vr-cycling/"><u>Navigate the Excellent World of Top VR Cycling</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/restore-accidentally-deleted-documents-on-windows-7-without-a-backup/"><u>Restore Accidentally Deleted Documents on Windows 7 Without a Backup</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1723808316530-stop-nuisance-phone-calls-in-their-tracks-a-step-by-step-blocking-tutorial-for-iphone-and-android-users/"><u>Stop Nuisance Phone Calls in Their Tracks – A Step-by-Step Blocking Tutorial for iPhone & Android Users</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Reno 10 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-itel-p40-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Itel P40 password or pattern lock</u></a></li>
 </ul></div>
 

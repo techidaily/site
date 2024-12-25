@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-12-11T22:54:52.683Z
-updated: 2024-12-15T23:40:46.038Z
+date: 2024-12-23T18:07:38.256Z
+updated: 2024-12-24T20:47:52.358Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
 ---
 
 ## Mastering Tune Recognition on macOS: A Step-by-Step Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Identify Music From the Menu Bar or Control Center
@@ -52,14 +48,22 @@ Close
 ![Safari for Mac displaying information about Blinding Lights by The Weeknd.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-safari-browser-shazam-website-song-information-blinding-lights-by-the-weeknd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Identify a Song With Siri
 
@@ -76,16 +80,12 @@ Close
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
 ![Details view in Shortcuts for Mac with the Add Keyboard Shortcut button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-add-keyboard-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Don't see the Shazam shortcut? Click "Gallery" in the sidebar, search for "Shazam," choose "Shazam shortcut," and hit the "Add Shortcut" button.
 
@@ -116,20 +116,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-pro-level-mobile-media-capture-iphone-and-androids-top-5-apps/"><u>[New] 2024 Approved Pro-Level Mobile Media Capture IPhone and Android's Top 5 Apps</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-pioneering-your-path-in-youtube-livestreams-on-mobiles/"><u>[New] Pioneering Your Path in YouTube Livestreams on Mobiles</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-superior-image-quality-the-power-of-youtubes-av1-settings/"><u>[Updated] In 2024, Superior Image Quality The Power of YouTube's AV1 Settings</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unraveling-filmora-editing-inquiries/"><u>2024 Approved Unraveling Filmora Editing Inquiries</u></a></li>
-<li><a href="https://extra-information.techidaily.com/clear-screen-choices-the-ultrawide-and-uhd-4k-showdown-for-2024/"><u>Clear Screen Choices The Ultrawide & UHD 4K Showdown for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-tips-on-burning-dvds-with-handbrake-proven-techniques-inside/"><u>Expert Tips on Burning DVDs with Handbrake - Proven Techniques Inside!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/fb-content-horizontal-or-vertical-format-debate/"><u>FB Content Horizontal or Vertical Format Debate</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y77t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y77t without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-hot-40-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Infinix Hot 40 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-m6-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco M6 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-google-pixel-8-by-fonelab-android-recover-music/"><u>Undelete lost music from Google Pixel 8</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/unlocking-the-potential-of-cds-a-wmp-masterclass/"><u>Unlocking the Potential of Cds A WMP Masterclass</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-13-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 13 files after scanning? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/will-samsung-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung play AVCHD mts files?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rafting-engaging-gamers-banners-using-pre-made-themes-for-2024/"><u>[New] Crafting Engaging Gamers' Banners Using Pre-Made Themes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-viacoms-top-10-screen-recorder-software/"><u>[New] In 2024, Viacom’s Top 10 Screen Recorder Software</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-unshackle-your-gaming-experience-with-diverse-capture-tools/"><u>[New] Unshackle Your Gaming Experience with Diverse Capture Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-complete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>[Updated] 2024 Approved Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>[Updated] Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-media-player-through-subtitles/"><u>2024 Approved Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x100-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X100 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/dont-lose-it-again-reviving-lost-taskbar-buttons-in-windows-11-using-simple-fixes/"><u>Don't Lose It Again! Reviving Lost Taskbar Buttons in Windows 11 Using Simple Fixes</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-xr-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XR Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-your-workspace-boosting-productivity-with-an-ipad-pro-in-a-home-office-setting-zdnet/"><u>Transforming Your Workspace: Boosting Productivity with an iPad Pro in a Home Office Setting | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-k11x-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo K11x</u></a></li>
 </ul></div>
 

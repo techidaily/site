@@ -1,7 +1,7 @@
 ---
 title: "Solving Chrome's Security Alert During File Download: A Step-by-Step Guide"
-date: 2024-12-15T04:10:05.065Z
-updated: 2024-12-15T21:46:06.698Z
+date: 2024-12-23T22:25:17.907Z
+updated: 2024-12-24T22:01:54.287Z
 tags:
   - desktop
 categories:
@@ -27,15 +27,15 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
  Sometimes, you might see the message "Failed - Virus Detected" when you try to download a file on Google Chrome. What does this message mean? Is it safe to bypass it? And how can you do that? Here's everything you need to know.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why Chrome Shows the "Failed - Virus Detected" Message
 
  When you try to download a file from the internet using Google Chrome, it's first scanned by Chrome's built-in security system and Windows Security. If the file passes both checks, then it's downloaded to your computer. However, if Chrome or Windows Security thinks the file contains a virus, it will stop you from downloading it and show the message "Failed - Virus Detected."
 
 ![Failed - Virus Detected messages in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/failed-virus-detected-messages-in-chrome.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It is important to note that the "Failed - Virus Detected" message doesn't mean that your PC has been infected with malware; quite the opposite. It means that Google Chrome or your system's antivirus has identified and blocked a potential threat.
 
@@ -45,23 +45,23 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Download link on the VirusTotal website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-link-on-the-virustotal-website.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The website will scan the file for you. If the results show that the file contains malicious code, then Chrome was correct with its message, and you should not download the file. However, if the results show the file is safe, then it means that Chrome probably raised a false alarm.
 
 ![VirusTotal result page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virustotal-result-page.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In such a case, you can proceed with downloading the file. Unfortunately, there isn't any one-click button to ignore this message and download the file. You'll need to make a few important changes to bypass this message.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Bypass Chrome's "Failed - Virus Detection" Message
 
  Once you're reasonably sure that Chrome is raising a false alarm and the file you are trying to download is safe, then you can bypass the "Failed - Virus Detection" message to download the file to your computer. You can perform a few different workarounds to bypass this message, depending on what's causing it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Change Chrome's Security Settings
 
@@ -76,31 +76,27 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under the Safe Browsing section, select "No Protection (Not Recommended)."
 
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Turn Off" in the confirmation that appears.
 
 ![Turn Off option in the Turn off Safe Browsing prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-option-in-the-turn-off-safe-browsing-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
 
 ![Standard Protection option Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/standard-protection-option-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Temporarily Disable the Security Program
@@ -139,13 +135,13 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Key Option in the Registry Option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/key-option-in-the-registry-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **attachments** into the field to name the new key. Then, right-click the "Attachments" key, hover over "New" and choose "DWORD (32-bit) Value."
 
 ![DWORD (32-bit) Value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dword-32-bit-value-in-the-registry-editor.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Name the DWORD **ScanWithAntiVirus**, then double-click the "ScanWithAntiVirus" key. Type **1** in the Value data field and click "OK."
 
@@ -156,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  Once the download is finished, you must disable the registry edit so your browser (Chrome, in this case) can keep scanning files for viruses during downloads. To disable it, double-click the "ScanWithAntiVirus," type **0** in the Value data field, and click "OK." Then, restart your computer again to apply the changes.
 
 ![Typing 0 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-0-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -180,17 +180,24 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-iphone-landscape-mastery-tips-that-work-like-magic/"><u>[New] 2024 Approved IPhone Landscape Mastery Tips That Work Like Magic</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-securing-your-games-with-diverse-screen-capture-options/"><u>[Updated] 2024 Approved Securing Your Games with Diverse Screen Capture Options</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-reducing-noise-amplitude-gently-using-lumafusion/"><u>[Updated] In 2024, Reducing Noise Amplitude Gently Using Lumafusion</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c51-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722975484530-effortless-driver-updates-and-downloads-for-your-microsoft-surface-book/"><u>Effortless Driver Updates & Downloads for Your Microsoft Surface Book!</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a78-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A78 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/identifying-your-computers-memory-specifications-with-ease-tips-from-yl-computing/"><u>Identifying Your Computer's Memory Specifications with Ease - Tips From YL Computing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-6-ways-to-transfer-text-messages-from-tecno-camon-30-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 6 Ways to Transfer Text Messages from Tecno Camon 30 Pro 5G to Other Android Devices | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-narzo-n53-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Narzo N53</u></a></li>
-<li><a href="https://article-helps.techidaily.com/the-ultimate-10plus-list-of-online-church-streaming/"><u>The Ultimate 10+ List of Online Church Streaming</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-vivo-by-fonelab-android-recover-music/"><u>Undelete lost music from Vivo</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-incredibly-swift-blackouts/"><u>[New] Incredibly Swift Blackouts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-broadcast-strategies-combining-facebook-and-tv/"><u>[Updated] 2024 Approved Broadcast Strategies Combining Facebook and TV</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-revealing-the-top-10-hidden-story-supporters/"><u>[Updated] Revealing the Top 10 Hidden Story Supporters</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tempo-treasure-hunters-dive-into-free-online-scanners/"><u>[Updated] Tempo Treasure Hunters Dive Into FREE Online Scanners</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-windows-hdri-techniques-for-videographers-for-2024/"><u>[Updated] Windows HDRI Techniques for Videographers for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-peeps-funny-photos-iphones-style/"><u>2024 Approved Peeps' Funny Photos, iPhones Style</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-resolve-windows-11s-bluetooth-drivers-compatibility-issues/"><u>How To Resolve Windows 11'S Bluetooth Drivers Compatibility Issues</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-moto-g24-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Moto G24 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-iphone-7-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 7 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/rectifying-asymmetric-screens-in-windows-11-pro/"><u>Rectifying Asymmetric Screens in Windows 11 Pro</u></a></li>
+<li><a href="https://techidaily.com/remove-lava-agni-2-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Lava Agni 2 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-magic-6-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor Magic 6 Pro</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24plus-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy S24+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s18e-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-y17s-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo Y17s</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi Redmi A2 won’t play MKV movies</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2024-12-13T20:52:21.814Z
-updated: 2024-12-15T16:58:52.783Z
+date: 2024-12-20T19:41:58.556Z
+updated: 2024-12-24T21:51:02.126Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ---
 
 ## Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -46,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 ![The unsorted words for August 18 Connections game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-18-connections-game.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you still need help, the actual group names are:
 
 * **Yellow:** Alarm Clock Button
@@ -58,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Purple:** Seven Dwarfs Minus Last Letter
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
 
 ![The words for August 18 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-18-sorted-into-the-correct-groups.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Alarm Clock Buttons (Yellow):** 
 
@@ -81,6 +77,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Do, Dope, Grump, Sleep
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  Today's game wasn't too bad. 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  That left Do, Dope, Grump, and Sleep—once again, I was a bit stumped by Purple. I eventually realized that grump, dope, and sleep could all take a Y at the end and still make sense, but that didn't work for do. Purple turned out to be "Seven Dwarfs Minus Last Letter." Turns out that I need to up my fairytale game. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -125,20 +125,19 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-epitaph-to-entertainment-picking-the-ultimate-zombie-games/"><u>[New] In 2024, Epitaph to Entertainment Picking the Ultimate Zombie Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-underwater-cinematography-made-simple-top-7-tips/"><u>[Updated] Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-perfect-presentations-with-a-personal-touch-adding-audio/"><u>2024 Approved Perfect Presentations with a Personal Touch Adding Audio</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/efficient-techniques-for-upgrading-dell-webcam-driver-versions-correctly/"><u>Efficient Techniques for Upgrading Dell Webcam Driver Versions Correctly</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel A70 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-windows-audio-glitches-a-comprehensive-guide/"><u>How to Fix Windows Audio Glitches: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Pro Max Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-iphone-13-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T iPhone 13 Pro Max with 3 Methods</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-find-n3-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Find N3 Data? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721478266244-icloud-backup-failures-on-iphone-top-9-remedies/"><u>ICloud Backup Failures on iPhone - Top 9 Remedies</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-a60-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel A60</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g34-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G34 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-realme-narzo-60x-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Realme Narzo 60x 5G on Mac?</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-discover-the-best-11-no-fee-name-crafting-for-channels-for-2024/"><u>[New] Discover the Best 11 No-Fee Name Crafting for Channels for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-enjoying-the-journey-discovering-pexels-treasures/"><u>[New] In 2024, Enjoying the Journey Discovering Pexels' Treasures</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>[Updated] In 2024, Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>[Updated] The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-expanding-your-social-horizon-connect-tiktok-to-facebook/"><u>2024 Approved Expanding Your Social Horizon Connect TikTok to Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/macdvd-mac/"><u>無料ディスクリッパー：Macで動画DVDの簡単コピーと変換マガジン - お得なMac用ツール</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-samsung-galaxy-a34-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Samsung Galaxy A34 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a05-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A05 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy A14 4G ?</u></a></li>
 </ul></div>
 

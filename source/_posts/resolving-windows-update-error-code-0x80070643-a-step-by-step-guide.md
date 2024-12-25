@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide"
-date: 2024-12-12T23:29:20.791Z
-updated: 2024-12-15T21:44:02.050Z
+date: 2024-12-20T22:45:35.458Z
+updated: 2024-12-25T01:48:23.707Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ## Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Is Downloading the Windows 10 KB5034441 Update Important?](https://unlock-android.techidaily.com/5-solutions-for-tecno-spark-10c-unlock-without-password-by-drfone-android/)
 * [What is the WinRE Recovery Partition?](https://vp-tips.techidaily.com/mastering-subtitle-craft-with-the-best-online-resources-today/)
 * [How to Fix the Windows Update Error 0x80070643](https://win11.techidaily.com/unlocking-dangers-hacked-fingerprints-on-windows-pcs/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 * To fix this issue, you'll need to resize the Recovery partition using the Command Prompt.
 
  Microsoft releases updates for Windows to add new features and fix bugs in the current version. Most updates download without problems, but some can cause errors during the download. One such error is Windows update error 0x80070643, which occurs while downloading the Windows 10 KB5034441 update.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Is Downloading the Windows 10 KB5034441 Update Important?
 
@@ -45,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Windows Update Error 0x80070643](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-update-error-0x80070643.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Microsoft clearly states that if your system doesn't have a Recovery partition, you don't need to download the KB5034441 update and you can ignore this error. However, if your system does feature a Recovery partition, it's important for you to download the update and, unfortunately, Microsoft isn't going to release an automatic fix that will solve the 0x80070643 error.
 
  Earlier, when the report broke about users facing this issue, Microsoft acknowledged it and said they were working on a fix. However, that hasn't panned out (yet). 
@@ -61,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Recovery partition in Disk Management](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-partition-in-disk-management.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows Recovery Environment (WinRE) is a built-in feature provided by Windows that helps you recover your computer when it has been corrupted for various reasons, and you cannot boot it. Additionally, it will help recover your system when it has become unusable due to incorrect updates or accidental removal of system files.
 
  To check if the Recovery partition is configured properly on your computer, [open Command Prompt as an administrator](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/), type **reagentc /info**, and hit Enter. If you see "Enabled" next to Windows RE status, it means your computer has a Recovery partition, and it is working properly.
@@ -68,10 +64,14 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 ![Windows RE status in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-re-status-in-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Fix the Windows Update Error 0x80070643
 
@@ -82,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
  Type **diskpart** and hit Enter.
 
 ![Diskpart command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diskpart-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Execute the **list disk** command to list all the disks.
 
@@ -103,24 +99,16 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Select partition 3 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-3-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll now have to shrink the partition. For that, type **shrink desired=250 minimum=250** and hit Enter.
 
 ![Shrink command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/shrink-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, select the Recovery partition. It will be labeled as "Recovery." For example, if it is Partition 4, type **select partition 4** and hit Enter.
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **delete partition override** and hit Enter to delete the recovery partition.
@@ -139,6 +127,10 @@ Close
 
 ![Format command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/format-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Execute **list vol** to confirm that the recovery partition has been created.
 
 ![List vol command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-vol-command-in-cmd.jpg) 
@@ -147,9 +139,17 @@ Close
 
 ![Exit command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Re-enable the Recovery partition by typing **reagentc /enable** and hitting Enter.
 
 ![Recovery parition enable command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-parition-enable-command-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Finally, to confirm the Recovery partition is configured properly on your computer, type **reagentc /info** and hit Enter. If you see "Enabled" next to Windows RE status, it means the Recovery partition is working properly. After that, [restart your computer](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) and try downloading the Windows update again. This time, the error code 0x80070643 shouldn't interrupt the download process.
 
@@ -172,24 +172,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-vkontakte-profile-picture-info-pixel-count-codec-time/"><u>[New] 2024 Approved VKontakte Profile Picture Info Pixel Count, Codec, Time</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-affordable-mcb-theme-images-for-channels-for-2024/"><u>[Updated] Affordable MCB Theme Images for Channels for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-precision-recording-advanced-screenrec-for-laptops/"><u>[Updated] In 2024, Precision Recording Advanced ScreenRec for Laptops</u></a></li>
-<li><a href="https://article-tips.techidaily.com/comprehensive-discussion-googles-podcast-uncovered/"><u>Comprehensive Discussion Google's Podcast Uncovered</u></a></li>
-<li><a href="https://techtrends.techidaily.com/converta-gravatamente-wmv-e-wma-em-on-line-com-o-movavi-suas-formatos-mais-populares-a-pdf-mobi-e-txt/"><u>Converta Gravatamente WMV E WMA Em On-Line Com O Movavi – Suas Formatos Mais Populares a PDF, MOBI E TXT</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-proplus-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro+ 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-prevent-and-fix-computer-overheating-problems-essential-tips-by-yl-software-experts/"><u>How to Prevent and Fix Computer Overheating Problems: Essential Tips by YL Software Experts</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c300-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C300 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Pro Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-high-definition-capture-top-applications/"><u>In 2024, High-Definition Capture Top Applications</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-honor-90-lite-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Honor 90 Lite Device</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-soft-melodies-pcos-guide/"><u>Mastering Soft Melodies PC/OS Guide</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Phantom V Flip</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-galaxy-z-flip-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Galaxy Z Flip 5</u></a></li>
-<li><a href="https://facebook.techidaily.com/swift-effortless-alteration-for-your-social-media-image/"><u>Swift, Effortless Alteration for Your Social Media Image</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nokia-c210-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nokia C210</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi won’t play HEVC H.265 media, how to fix?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-2023s-premier-movie-options-beyond-the-top-selections/"><u>[New] In 2024, 2023'S Premier Movie Options Beyond The Top Selections</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-zooming-into-perfection-a-compreenasional-tutorial-on-audio-recording-for-2024/"><u>[Updated] Zooming Into Perfection A Compreenasional Tutorial on Audio Recording for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comment-transformer-votre-dvd-en-fichiers-numeriques-pour-un-stockage-cloud-facile-avec-apple-icloud/"><u>Comment Transformer Votre DVD en Fichiers Numériques Pour Un Stockage Cloud Facile Avec Apple iCloud</u></a></li>
+<li><a href="https://techtrends.techidaily.com/essential-strategies-for-optimizing-medical-billing-processes-and-enhancing-cash-flow-efficiency-executive-overview/"><u>Essential Strategies for Optimizing Medical Billing Processes and Enhancing Cash Flow Efficiency - Executive Overview</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-fold-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel Fold in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g-5g-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G 5G (2023) in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/quick-fixes-for-your-gopro-footage-eliminate-fisheye-lens-distortion-effectively/"><u>Quick Fixes for Your GoPro Footage: Eliminate Fisheye Lens Distortion Effectively</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/simple-solutions-to-fix-android-systemui-has-stopped-error-for-poco-m6-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Simple Solutions to Fix Android SystemUI Has Stopped Error For Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2013-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2013 Spreadsheet Disappears after Opening | Stellar</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-100-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of 100 on Mac?</u></a></li>
 </ul></div>
 

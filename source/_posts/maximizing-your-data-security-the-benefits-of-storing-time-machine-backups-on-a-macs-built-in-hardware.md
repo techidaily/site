@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2024-12-13T00:43:50.791Z
-updated: 2024-12-15T23:30:36.436Z
+date: 2024-12-22T23:50:12.374Z
+updated: 2024-12-24T23:16:59.935Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ## Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 * While this method is convenient, it's important to note that if your local drive becomes corrupted or fails, you could lose both your original data and the backup.
 
  Using an external storage drive for Time Machine backups is the recommended way to back up your Mac. But what if you don't have an external storage drive? You can still make use of Time Machine by placing backups on your local drive. Here's why I use this method to back up my files and why you should consider it too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why I Use Local Storage for Time Machine Backup Despite the Risks
 
@@ -43,31 +47,31 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Opening the Disk Utility from the spotlight search on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/1-opening-the-disk-utility-from-the-spotlight-on-macos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, select the main volume, usually "Macintosh HD," and click "Partition."
 
 ![Opening the partition panel to parition a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/2-opening-the-partition-panel-to-parition-a-drive-on-macos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, click the "+" icon and select "Add Partition" from the popup menu.
 
 ![Adding a partition to a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-adding-a-parition-to-a-drive-on-macos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Name the newly created partition, choose "APFS" as the format, and allocate the desired size for the partition. Click "Apply," then "Partition," and finally "Continue" in the warning popup.
 
 ![Applying a partition by defining the partition information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-applying-a-parition-by-defining-the-partition-information.jpg) 
 
- Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
 
 ##  Use the Newly Created Partition for the Backup
 
@@ -76,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  Next, click "Select Backup Disk," choose the newly created partition, and click "Use Disk." Afterward, wait a few seconds, and Time Machine will begin your first backup.
 
 ![Setting up the newly created partition for the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-setting-up-the-newly-created-parition-for-the-time-machine-backup.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To restore a deleted or older file version from the backup, open the Time Machine utility. Navigate through the snapshots that Time Machine has taken and locate the file you want to restore. Then, click on "Restore" to recover the file.
 
@@ -114,18 +114,20 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-simplestrecorder-user-friendly-screen-capture/"><u>[New] 2024 Approved SimplestRecorder User-Friendly Screen Capture</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovate-visual-signatures-for-free-using-graphic-patterns/"><u>[Updated] Innovate Visual Signatures for Free Using Graphic Patterns</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-top-8-must-play-virtual-reality-titles-for-now/"><u>[Updated] Top 8 Must-Play Virtual Reality Titles for Now</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts-for-2024/"><u>[Updated] Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts for 2024</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/1725290388768-avangate/"><u>Avangateとは何ですか - オンライン支払いの安全性：クレジットカード処理における信頼できるソリューション</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h265-video-on-14-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on 14?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-structured-writing-tactics-for-boosting-facebook-ad-performance/"><u>In 2024, Structured Writing Tactics for Boosting Facebook Ad Performance</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/uncovering-the-full-potential-a-detailed-evaluation-of-samsungs-feature-rich-gear-s3-frontier/"><u>Uncovering the Full Potential: A Detailed Evaluation of Samsung's Feature-Rich Gear S3 Frontier</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-realme-narzo-n55-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Narzo N55</u></a></li>
-<li><a href="https://techtrends.techidaily.com/upgrading-your-entertainment-why-or-why-not-to-get-a-blu-ray-player/"><u>Upgrading Your Entertainment: Why or Why Not to Get a Blu-Ray Player</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-enhancing-your-youtube-content-with-right-camera-gear/"><u>[New] Enhancing Your YouTube Content with Right Camera Gear</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-elevate-your-driving-pleasure-with-essential-sj4000-gear/"><u>[Updated] Elevate Your Driving Pleasure with Essential SJ4000 Gear</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-find-x6-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find X6 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Galaxy Z Fold 5?</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/dealing-with-false-alarms-why-your-scanner-may-conflict-with-antivirus-insights-from-yl-computing/"><u>Dealing with False Alarms: Why Your Scanner May Conflict With Antivirus - Insights From YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-review-the-lian-li-galahad-ii-with-integrated-led-display-ideal-for-overclockers-and-gamers-using-the-i7-14900k/"><u>Expert Review: The Lian Li Galahad II with Integrated LED Display, Ideal for Overclockers and Gamers Using the I7-14900K</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a05s-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Samsung Galaxy A05s Data? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-google-pixel-8-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Google Pixel 8 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/navigating-between-macs-essential-tips-to-pick-your-ideal-laptop-macbook-air-or-macbook-pro-zdnet/"><u>Navigating Between Macs: Essential Tips to Pick Your Ideal Laptop - MacBook Air or MacBook Pro | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-note-30-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Note 30 5G</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nubia-red-magic-8s-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nubia Red Magic 8S Pro on Windows</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor</u></a></li>
 </ul></div>
 

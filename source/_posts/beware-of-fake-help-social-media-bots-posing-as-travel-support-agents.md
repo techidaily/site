@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2024-12-13T02:54:18.008Z
-updated: 2024-12-16T00:11:45.797Z
+date: 2024-12-19T23:55:28.334Z
+updated: 2024-12-24T18:10:56.535Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ## Beware of Fake Help: Social Media Bots Posing as Travel Support Agents
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  Much like [scam phone calls](https://youtube-webster.techidaily.com/-sound-devices-for-digital-influencers-for-2024/) and their digital counterparts, [phishing emails](https://visual-screen-recording.techidaily.com/updated-in-2024-the-essential-filmmakers-toolkit-a-guide-to-audio-recording/) and social media scam bots aim to trick anyone they can into handing over private information or installing malicious software (sometimes both). The end goal is the utilization of that information or software as leverage to make money—by exploiting victims directly, appropriating or stealing their identity, selling their information off, etc.
 
  Social media scammers have started creating loads of bots impersonating airline representatives in order to do just that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Spot a Phony Representative
 
@@ -50,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
@@ -72,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,22 +92,19 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-quick-guide-shrinking-and-changing-iphone-video-dimensions/"><u>[New] In 2024, Quick Guide Shrinking & Changing iPhone Video Dimensions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unlocking-the-world-of-premium-banners-for-media/"><u>[New] Unlocking the World of Premium Banners for Media</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-unlocking-the-meaning-behind-tiktoks-pfp-emoji/"><u>[Updated] In 2024, Unlocking the Meaning Behind TikTok's PFP Emoji</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/elevate-your-brand-with-these-essential-fb-strategies-for-all/"><u>Elevate Your Brand with These Essential FB Strategies (for All)</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://win-exclusive.techidaily.com/get-grooving-with-affordable-karaoke-fun-save-big-on-party-tyme-subscription-at-only-4999month/"><u>Get Grooving with Affordable Karaoke Fun - Save Big on Party Tyme Subscription at Only $49.99/Month!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-12-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 12 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Infinix Hot 40 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-10t-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 10T 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-s18e-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18e Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-vivo-y78plus-t1-edition-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Vivo Y78+ (T1) Edition</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-comprehensive-guide-to-injecting-vimeo-videos-into-decks/"><u>In 2024, Comprehensive Guide to Injecting Vimeo Videos Into Decks</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/izzie-stevens-wallpaper-collections-and-visuals-digital-artwork-by-yl-software/"><u>Izzie Stevens Wallpaper Collections & Visuals - Digital Artwork by YL Software</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Yuva 2</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-defy-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Defy 2</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-top-8-laptop-skins-and-backdrops/"><u>[New] The Ultimate Guide to Top 8 Laptop Skins & Backdrops</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-building-interactive-elements-a-guide-to-html-input-fields/"><u>[Updated] Building Interactive Elements A Guide to HTML Input Fields</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-humorhatchery-app/"><u>[Updated] HumorHatchery App</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/20-anker-battery-pack-the-ultimate-solution-for-your-portable-charger-woes-insights/"><u>$20 Anker Battery Pack: The Ultimate Solution for Your Portable Charger Woes - Insights</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamlining-youtube-edits-with-advanced-sony-vegas-techniques/"><u>2024 Approved Streamlining YouTube Edits with Advanced Sony Vegas Techniques</u></a></li>
+<li><a href="https://network-issues.techidaily.com/clear-out-dark-mode-difficulties/"><u>Clear Out Dark Mode Difficulties</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dont-miss-out-land-fantastic-savings-on-roku-products-this-amazon-prime-day/"><u>Don't Miss Out - Land Fantastic Savings on Roku Products This Amazon Prime Day</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-5-v-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 5 V If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-14-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 14 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-zero-30-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Zero 30 5G</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-synergy-in-hybrid-realms-mixed-reality-explained-for-2024/"><u>The Synergy in Hybrid Realms Mixed Reality Explained for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-v27e-by-fonelab-android-recover-messages/"><u>Undelete lost messages from V27e</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi K70E won’t play HEVC H.265 media, how to fix?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-12-12T20:18:49.131Z
-updated: 2024-12-16T04:19:47.893Z
+date: 2024-12-18T18:24:48.289Z
+updated: 2024-12-25T00:32:13.867Z
 tags:
   - web
 categories:
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  Google has several fun Easter eggs squirreled away in obscure corners of Search. But did you know that some of them reference your favorite TV shows and movies? From classics to new releases, Google’s got a bit of everything. Here are some of the best ones we’ve managed to unearth.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hang Out With Your Favorite “Friends” Character
 
  Name a TV show with a bigger global pop culture impact than "Friends." Go on, I'll wait.
@@ -39,15 +43,15 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google Search Result pagefor Ross Geller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-screenshot-of-the-google-search-result-pagefor-ross-geller.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Each Friends character has a custom Easter egg attached to their name. This is your cue to find out what they all are.
 
  Once you've explored each of the friends’ Easter eggs, you can further amuse yourself by checking out the Friends Glossary—a collection of fun words (most of them coined by Joey) and phrases made popular by the show. Simply search for the **Friends Glossary**, and you'll see a word, its part of speech, definition, and an example of how to use it in a sentence. My favorite is “On a Break.”
 
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make Your Search Results Fabulous With “Legally Blonde”
 
@@ -59,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Recreate the Burn Book From “Mean Girls”
 
  “Mean Girls” is another classic that has been blessed with its own Google Easter egg. In the movie, the girls have a pink journal called the "Burn Book" where they write mean things about their classmates. Google plays off this by letting you create your very own Burn Book right there in search.
@@ -70,6 +70,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  If you search **Mean Girls** in Google, you’ll see a lipstick print. Clicking it turns the screen pink (the color of the Burn Book), and clicking anywhere on the screen creates doodles in the style of the original book. 
 
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
 
@@ -82,7 +86,11 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
@@ -91,21 +99,17 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google search results for 'war in Ba Sing Se'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-google-search-results-for-war-in-ba-sing-se.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Fill up Your Coin Purse With “Super Mario Bros”
 
  Another game-turned-movie whose Easter egg you should check out is Super Mario Bros. Searching for **Super Mario** or **Super Mario Bros** brings up a mystery block, and clicking it earns you coins, just like in the [iconic retro game](https://vp-tips.techidaily.com/updated-2024-approved-pixels-of-laughter-mobile-apps-transform-images/). It pays to keep clicking too, as every hundred clicks, you get rewarded with the sweet sound of an extra mushroom. 
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
@@ -125,10 +129,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
 
 ##  Turn Half Your Search Results to Dust With Thanos’ Snap
@@ -138,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  It references “Avengers Infinity War” where Thanos snaps half of all living creatures out of existence. To activate it, simply click the gauntlet on the screen and watch your search results disintegrate. If you have a keen eye, you might also notice the moment the number of search results drops by a few million. 
 
 ![A search results page with one of the links dissolving and a gauntlet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-one-of-the-links-dissolving-and-a-gauntlet.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Clicking the gauntlet a second time reverses the process and brings all the results back.
 
@@ -153,11 +149,11 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
- The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
 
 ##  Travel to the World of Oz
 
@@ -166,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Click on the ruby slippers in the top left corner of the page to activate the Easter egg and watch as the screen spins and transports you into a different world where everything takes on a sepia tone, reminiscent of the original movie.
 
 ![A search results page in sepia tones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-in-sepia-tones.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’re ready to return to color, you can do so by clicking the tornado. A house will emerge from it, and the page will spin back to color with Dorothy's voice playing in the background.
 
@@ -190,20 +190,18 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-visual-hooks-essential-steps-in-podcast-design/"><u>[Updated] In 2024, Visual Hooks Essential Steps in Podcast Design</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/diy-how-to-perform-self-service-repairs-on-your-broken-iphone-or-macbook-with-apples-new-initiative-learn-now/"><u>DIY: How to Perform Self-Service Repairs on Your Broken iPhone or MacBook with Apple's New Initiative - Learn Now!</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/experiencing-microsofts-surface-laptop-studio-unveiling-the-tech-that-sparked-my-envy-a-deep-dive-zdnet/"><u>Experiencing Microsoft's Surface Laptop Studio: Unveiling the Tech That Sparked My Envy - A Deep Dive | ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-safety-account-verification-is-securityfbcom-reliable/"><u>Facebook Safety Account Verification: Is security@fb.com Reliable?</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-delving-into-the-world-of-mixed-reality-technology/"><u>In 2024, Delving Into the World of Mixed Reality Technology</u></a></li>
-<li><a href="https://howto.techidaily.com/nokia-c300-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nokia C300 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-14-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-galaxy-m34-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Galaxy M34 5G fingerprint</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-7-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 7 lock with iTunes</u></a></li>
-<li><a href="https://media-tips.techidaily.com/various-strategies-for-converting-mts-videos-for-playback-on-an-ipad/"><u>Various Strategies for Converting MTS Videos for Playback on an iPad</u></a></li>
-<li><a href="https://change-location.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Vivo Y100t? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-7-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 7? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-12r-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 12R won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-digital-video-capturing-demystified-systematic-guide/"><u>[New] Digital Video Capturing Demystified Systematic Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-quick-fixes-todays-rapidly-watched-videos/"><u>[Updated] 2024 Approved Quick Fixes Today's Rapidly Watched Videos</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-comprehensive-directors-manual-powerdirector-24/"><u>[Updated] Comprehensive Directors' Manual - PowerDirector '24</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-finest-yt-unboxing-sequences/"><u>[Updated] Explore the Finest YT Unboxing Sequences</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-dial-up-the-impact-with-50-free-branding-graphics/"><u>[Updated] In 2024, Dial Up the Impact with 50 FREE Branding Graphics!</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-sony-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Sony</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-smart-7-hd-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Smart 7 HD</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-magic5-ultimate-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor Magic5 Ultimate without backup.</u></a></li>
+<li><a href="https://win11.techidaily.com/tips-and-tricks-for-a-fresh-file-explorer-startup/"><u>Tips & Tricks for a Fresh File Explorer Startup</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-15-plus-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Plus by restoring</u></a></li>
+<li><a href="https://facebook.techidaily.com/unraveling-facebooks-operations-a-guide-through-the-transparency-center/"><u>Unraveling Facebook's Operations: A Guide Through the Transparency Center</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
 </ul></div>
 

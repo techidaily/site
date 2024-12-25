@@ -1,7 +1,7 @@
 ---
 title: "Easy Tutorial: Adjusting Windows 10 Icon Dimensions for Better Display"
-date: 2024-12-11T02:05:15.045Z
-updated: 2024-12-15T21:30:26.378Z
+date: 2024-12-23T21:36:09.433Z
+updated: 2024-12-25T00:52:47.511Z
 tags:
   - desktop
 categories:
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![Hover your cursor over 'View' and choose an icon size.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Hover-your-cursor-over-View-and-choose-an-icon-size..png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you find that the three available options aren't exactly what you're looking for, you can place your cursor anywhere on the desktop, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or reduce the size of the desktop icons, respectively. This adjusts the size in smaller increments, letting you get the size closer to what you want.
@@ -47,27 +47,23 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![Right-click the taskbar and choose Taskbar Settings from the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Right-click-the-taskbar-and-choose-Taskbar-Settings-from-the-context-menu..png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Taskbar Settings window will open. Near the top of the list of options, toggle the slider to the "On" position under the "Use Small Taskbar Buttons" option.
 
 ![Click the toggle switch under 'Use Small Taskbar Buttons.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-use-small-taskbar-buttons.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will reduce the size of the taskbar icons.
 
 ![Small taskbar icons.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/Small-taskbar-icons..png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To change the icons back to the default size, toggle the slider back to the "Off" position.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Resize File Explorer Icons
 
@@ -77,17 +73,21 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![Click the File Explorer icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-file-explorer.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click the "View" tab.
 
 ![Click the 'View' button near the top of the window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-click-view.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Layout" group, choose the icon size that you want. The current setting is highlighted in blue.
 
 ![Select between icon sizes, or a list view.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-icon-sizes.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If one of these four options doesn't fit your requirements, place your mouse anywhere in File Explorer, press and hold the Ctrl key, and then scroll your mouse wheel up or down to increase or decrease the icon size, respectively. This will adjust the size of the icons in smaller increments.
 
@@ -108,20 +108,15 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-begin-the-stream-an-introduction-to-instagram-lives/"><u>[New] 2024 Approved Begin the Stream An Introduction to Instagram Lives</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-looking-for-permission-to-view-friends-entirely-shared-media/"><u>[New] Looking for Permission to View Friend’s Entirely Shared Media</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-techniques-to-frame-photos-with-leading-lines-iphone/"><u>[Updated] 2024 Approved Techniques to Frame Photos with Leading Lines (iPhone)</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-discover-best-border-apps-to-elevate-instagram-visuals/"><u>[Updated] Discover Best Border Apps to Elevate Instagram Visuals</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-must-watch-10-unique-igtv-content-formats-for-brands-for-2024/"><u>[Updated] Must-Watch 10 Unique IGTV Content Formats for Brands for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-power-of-pixels-a-review-of-the-4k-cg318-4k-monitor/"><u>2024 Approved The Power of Pixels A Review of the 4K CG318-4K Monitor</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-90-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/connecting-on-java-server-from-bedrock-using-geysermc/"><u>Connecting on Java Server From Bedrock Using GeyserMC</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oppo-reno-10-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Reno 10 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 12 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nubia Red Magic 9 Pro+.</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-13-pro-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 13 Pro SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-honor-x7b-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor X7b fingerprint</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-customize-with-ease-adding-personalized-audio-to-android-devices/"><u>[New] Customize With Ease Adding Personalized Audio to Android Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-stepwise-instructions-enabling-or-disabling-youtubes-pip-mode/"><u>[New] Stepwise Instructions Enabling or Disabling YouTube's PIP Mode</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-fast-format-transformation-youtube-for-mac-ratio/"><u>[Updated] Fast Format Transformation YouTube for Mac Ratio</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-definitive-guide-to-srt-editing-on-mac/"><u>[Updated] In 2024, The Definitive Guide to SRT Editing on Mac</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-scraps-to-spectacle-a-collage-manual/"><u>2024 Approved From Scraps to Spectacle A Collage Manual</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-nokia-105-classic-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Nokia 105 Classic</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-zte-axon-40-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Axon 40 Lite Reset Code | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/1726030199275-vlc-media-player/"><u>VLC Media Player - 簡単な手順でビデオからオーディオコンテンツを取り出せます!</u></a></li>
 </ul></div>
 

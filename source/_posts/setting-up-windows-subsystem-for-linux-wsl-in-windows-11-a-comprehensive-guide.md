@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-12-15T03:08:34.676Z
-updated: 2024-12-15T20:15:10.521Z
+date: 2024-12-19T17:31:18.667Z
+updated: 2024-12-25T00:21:58.389Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ---
 
 ## Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install WSL through Windows Terminal
 
  Microsoft has made this process extremely simple on Windows 11\. You can enable the Windows Subsystem for Linux and install a Linux distribution like Ubuntu with a single command.
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![Right-click the Start button, then select "Terminal (Admin)."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-9.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To enable the Windows Subsystem for Linux and install Ubuntu, which is the default distribution, just run the following command:
 
 wsl --install
@@ -58,10 +62,6 @@ wsl --install
  When the process is complete, Windows will ask you to reboot your PC. Restart your computer by entering **shutdown /r /t 0** into the Terminal. You'll be able to use your Linux system after you do. (You can right-click the Start menu and click Shut Down or Sign Out > Restart to quickly reboot.)
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
@@ -80,16 +80,12 @@ wsl --install -d Debian
 ![List available Linux distributions and install one.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a3-list-distros.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once your computer has rebooted, you can launch the Linux distro that you installed from your Start menu.
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
@@ -98,6 +94,10 @@ wsl --install -d Debian
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
 
@@ -112,7 +112,7 @@ wsl --install -d Debian
 ![Enable the &quot;Windows Subsystem for Linux&quot; option and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b1-install-wsl.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you do, open the Microsoft Store app and search for the Linux distribution that you want to use. For example, you might search for "Ubuntu."
@@ -140,22 +140,17 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-nailing-the-perfect-shot-a-guide-to-instagram-videos/"><u>[New] In 2024, Nailing the Perfect Shot A Guide to Instagram Videos</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nseen-yet-seen-how-to-conceal-faces-and-objects-digitally-for-2024/"><u>[New] Unseen Yet Seen How to Conceal Faces and Objects Digitally for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-youtube-experience-shareable-playlists/"><u>[Updated] Streamline Your YouTube Experience Shareable Playlists</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-from-virality-to-value-ajays-playbook-for-profitable-content-creation/"><u>2024 Approved From Virality to Value Ajay’s Playbook for Profitable Content Creation</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y56 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-7-ultimate-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 7 Ultimate Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-google-pixel-7a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Google Pixel 7a without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Edge+ (2023) | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-creativity-on-a-tablet-leading-drawing-apps/"><u>In 2024, Creativity on a Tablet Leading Drawing Apps</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-oppo-find-n3-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Oppo Find N3 Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola without backup.</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y78t-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y78t Users</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Realme 11 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy S24 ?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlock-clearer-livestreams-with-these-4-tips/"><u>[New] 2024 Approved Unlock Clearer Livestreams with These 4 Tips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-ranking-top-10-video-conferencing-apps-on-mobile-devices/"><u>[New] In 2024, The Ultimate Ranking Top 10 Video Conferencing Apps on Mobile Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-navigating-updated-youtube-money-strategies/"><u>[Updated] In 2024, Navigating Updated YouTube Money Strategies</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-yuneec-typhoon-h-review-for-2024/"><u>[Updated] Yuneec Typhoon H Review for 2024</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/1-come-recuperare-le-foto-di-sistema-dal-tuo-disco-rigido-esterno/"><u>1. Come Recuperare Le Foto Di Sistema Dal Tuo Disco Rigido Esterno?</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-m34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy M34 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nubia-red-magic-8s-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nubia Red Magic 8S Pro+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-revealing-the-best-in-class-splitcams-videography-edge/"><u>In 2024, Revealing the Best in Class SplitCam's Videography Edge</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2000-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2000 Spreadsheet Disappears after Opening | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-online-sources-for-high-quality-vector-illustrations/"><u>Top Online Sources for High-Quality Vector Illustrations</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-music/"><u>Undelete lost music from Nubia Red Magic 8S Pro+</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-12-11T02:00:34.071Z
-updated: 2024-12-15T20:53:59.781Z
+date: 2024-12-21T00:57:51.866Z
+updated: 2024-12-24T22:06:36.283Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Why the Demise of Samsung Messages Spells Trouble for the Future of Android
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,12 +24,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
@@ -45,7 +49,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Google Messages Feels, First and Foremost, Like a Google App
@@ -59,7 +63,7 @@ Close
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
@@ -81,10 +85,6 @@ Close
  With Google Messages, this is no longer the case. Google Messages doesn't match Samsung's One UI. It's designed with stock Android in mind, meaning it looks most at home on Pixel devices or phones that stick closely to Android's default look, like Motorola phones. The differences are subtle and likely don't matter to most people, but for me, the distinctions are painfully felt.
 
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
 
@@ -123,16 +123,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/rassroots-video-marketing-strategies-for-2024/"><u>[New] Grassroots Video Marketing Strategies for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-essential-youtube-rules-for-content-creators/"><u>[New] In 2024, Essential YouTube Rules for Content Creators</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-navigating-content-size-on-igtv-top-5-expert-tips-to-consider-for-2024/"><u>[New] Navigating Content Size on IGTV Top 5 Expert Tips to Consider for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 7 Unavailable Issue With Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 15? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/1726030650715-mkvmov/"><u>MKV形式から高品質MOVへの完全変換ガイド</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/segment-screen-showdown-recorders-leader-status/"><u>Segment Screen Showdown Recorder's Leader Status</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-lava-yuva-3-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Lava Yuva 3 Pro</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-itel-p40plus-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Itel P40+.</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c300-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C300 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-xiaomi-redmi-k70-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Xiaomi Redmi K70?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlock-the-full-potential-of-windows-photos-app-with-visual-and-audio-tweaks/"><u>[New] 2024 Approved Unlock the Full Potential of Windows Photos App with Visual & Audio Tweaks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unveiling-the-magic-of-seamless-sound-integration-in-videos/"><u>[Updated] 2024 Approved Unveiling the Magic of Seamless Sound Integration in Videos</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-crafting-perfect-memos-through-sound-waves-for-2024/"><u>[Updated] Crafting Perfect Memos Through Sound Waves for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-global-youtube-elite-earnings-leader-for-2024/"><u>[Updated] Global YouTube Elite Earnings Leader for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ideal-beginning-enhancer-for-your-devices/"><u>2024 Approved The Ideal Beginning Enhancer for Your Devices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/compact-and-cute-discover-the-charming-switchbot-k10plus-pro-miniature-robovac/"><u>Compact and Cute: Discover the Charming SwitchBot K10+ Pro Miniature RoboVac</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x100-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X100 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-camera-to-chrome-youtube-shorts-video-upload-guide-for-2024/"><u>From Camera to Chrome YouTube Shorts Video Upload Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-vip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 VIP without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Sony Xperia 10 V? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-infinix-hot-40-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Infinix Hot 40 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/premiere-experts-exceptional-instagram-highlight-craftsmen/"><u>Premiere Experts Exceptional Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Moto G84 5G</u></a></li>
+<li><a href="https://location-fake.techidaily.com/top-lihan-lhfm1039-bluetooth-fm-transmitter-evaluation-enhance-in-car-audio-with-seamless-connections/"><u>Top Lihan LHFM1039 Bluetooth FM Transmitter Evaluation: Enhance In-Car Audio with Seamless Connections</u></a></li>
 </ul></div>
 

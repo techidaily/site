@@ -1,7 +1,7 @@
 ---
 title: "Learning From My Experience: Avoiding Risks While Shopping Through TikTok"
-date: 2024-12-13T00:47:39.398Z
-updated: 2024-12-15T18:26:56.164Z
+date: 2024-12-18T21:34:01.159Z
+updated: 2024-12-24T21:07:55.808Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 ## Learning From My Experience: Avoiding Risks While Shopping Through TikTok
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
  TikTok Shop opened for business in November 2022, and the operation now generates more than $17 billion per year. Almost anyone can monetize their TikTok account using Shopify—which is how I got burned. Here's what you need to know to make sure it doesn't happen to you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Tale of Two TikTok Purchases
 
  I was a latecomer to [TikTok](https://www.tiktok.com/) and if I'm being honest, I only got on board for clumsy panda content with a side of funny memes. I didn't plan to use it as a shopping platform.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  But who can resist the siren song of clothing and criss-cross chairs? Not me, apparently. Since I signed up for TikTok, I've made two purchases: a [viral oversized desk chair](https://www.amazon.com/Legged-Office-Armless-Computer-Adjustable/dp/B0CZLHFWL8/ref=sr%5F1%5F5?dib=eyJ2IjoiMSJ9.EYKqMjOnndRP7MShUqmOzZBgiPBKdwLlhpHETWBE2TO1s4a%5FiOHgexUu2sVrgA9MXTSiXV9ZdJx0%5Ftrvxq5caahoQAsYRLYi1BqnuR8KPv35286n7TBo0LYhksIhy3XgMIel5N1KvOUD7n8u4vry3KKSwTnmVF1hNHd3BEsWLqNX8EkeCC4%5FBjv5DF9jhNY1WTa3V8UDQdjPom8JEs26qD90ov-JewAEEIkAhYjz9JF7y621lAtnYpU8pQ6DqLNLTffBvck5gF8mtuNbr2vY0MxZPB3gRpnRf6LJ1teMrFM.fAmGlb014eQcxe5m1moZZ8MJENJo-Do1bOpdVSR6rb4&dib%5Ftag=se&hvadid=665639400447&hvdev=c&hvlocphy=1013462&hvnetw=g&hvqmt=e&hvrand=6948836597444604577&hvtargid=kwd-2162749065788&hydadcr=7665%5F13469258&keywords=viral+criss+cross+chair&qid=1718305400&sr=8-5&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003634&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-got-burned-shopping-on-tiktok-but-you-can-learn-from-my-mistake%2F&asc%5Fcampaign=Short-Term) and a [belted black jumpsuit](https://mccoyn.com/products/womens-sleeveless-wide-leg-jumpsuit). I sit upon my huge quilted throne as we speak, but the jumpsuit is lost to time and space (I got scammed out of $20).
 
  While the chair sale went through the typical TikTok Shop Shopify pipeline, at some point when purchasing the jumpsuit I was apparently lured to a third-party site. When the item never arrived and I requested a refund, I was met with radio silence. I'm not holding my breath.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How TikTok Shop Works
 
@@ -47,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 ![Select 'Shop' in the bottom bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-_profile_-in-the-bottom-bar-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or, you can click the Shop link in a video to shop for the product that they're talking about:
@@ -55,11 +55,7 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 ![Click the TikTok shop link in a post to buy the item shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tiktok-shop-link.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Red Flags When Buying on TikTok
@@ -71,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  Second, be wary of new accounts. While some brands create a new TikTok account and start to sell legitimate merchandise, other times, a new account deserves some suspicion. If you see a brand new unverified account that is selling its own merchandise, you may want to wait to purchase. Likewise, accounts with little to no engagement may be spam accounts worthy of caution.
 
  Lastly, avoid products with little description. Don't buy anything with little to no product specs or descriptions. Legit sellers will outline what you're getting and how you can return it. Look for contact info, too.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Best Practices for TikTok Shopping
 
@@ -95,20 +95,24 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-asmr-apps-android-and-ios-edition-for-2024/"><u>[Updated] Essential ASMR Apps Android & iOS Edition for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-tender-tracks-ideal-music-to-accompany-a-lifelayer-change/"><u>[Updated] Tender Tracks Ideal Music to Accompany a Lifelayer Change</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-whatsapps-call-conversations/"><u>2024 Approved Unveiling WhatsApp's Call Conversations</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-infinix-smart-7-hd-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Smart 7 HD Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-hot-30i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 30i in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/how-to-dominate-the-battlefield-learn-vocal-modification-for-free-fire-characters-for-2024/"><u>How to Dominate the Battlefield Learn Vocal Modification for Free Fire Characters for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-n30-se-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord N30 SE Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a78-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A78 Without Password | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-iphone-7-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iPhone 7 Plus iOS System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-lava-blaze-2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Lava Blaze 2 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-journey-ahead-an-in-depth-look-at-panasonics-hx-a1-wearable-camera/"><u>In 2024, Journey Ahead - An In-Depth Look at Panasonic’s HX-A1 Wearable Camera</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-samsung-galaxy-a05s-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Samsung Galaxy A05s Phone? Unlock It Now</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723211694512-nba-2k21s-ultimate-green-glitch-now-fixed/"><u>NBA 2K21's Ultimate Green Glitch: Now Fixed</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-a1-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo A1 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-pioneering-creativity-youtubes-playground-for-talent/"><u>[New] Pioneering Creativity YouTube's Playground for Talent</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-affordable-gopros-where-to-buy-with-best-price-for-2024/"><u>[Updated] Affordable GoPros Where to Buy with Best Price for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acclaimed-music-archives-for-visual-media/"><u>Acclaimed Music Archives for Visual Media</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/clear-video-soundtracks-free-vs-licensed-software-guide-for-2024/"><u>Clear Video Soundtracks Free Vs. Licensed Software Guide for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/effortless-typography-expansion-in-after-effects/"><u>Effortless Typography Expansion in After Effects</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-c65-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-pro-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 Pro 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-8t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 8T Without Password | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-remove-cortana-detection-service/"><u>How to Remove Cortana Detection Service</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g14-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G14 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Oppo Reno 8T | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-ultimate-guide-to-ioss-best-psp-gaming-tools/"><u>In 2024, The Ultimate Guide to iOS's Best PSP Gaming Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/make-every-gaming-moment-count-top-5-ways-to-record-in-minecraft-on-a-mac/"><u>Make Every Gaming Moment Count Top 5 Ways to Record in Minecraft on a Mac</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-poco-c65-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Poco C65</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-poco-m6-pro-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Poco M6 Pro 5G</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/steps-to-activate-chatgpts-enhanced-web-browsing-and-add-on-features-in-beta-phase/"><u>Steps to Activate ChatGPT’s Enhanced Web Browsing & Add-On Features in Beta Phase</u></a></li>
 </ul></div>
 

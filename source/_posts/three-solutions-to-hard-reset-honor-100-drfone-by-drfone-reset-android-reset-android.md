@@ -1,7 +1,7 @@
 ---
 title: Three Solutions to Hard Reset Honor 100? | Dr.fone
-date: 2024-09-22T00:34:46.249Z
-updated: 2024-09-24T10:41:19.327Z
+date: 2024-12-22T21:50:42.901Z
+updated: 2024-12-24T19:21:52.837Z
 tags: 
   - reset
 categories:
@@ -71,19 +71,6 @@ Dr.Fone - Screen Unlock (Android) is a user-friendly software tool that helps yo
 
 ![choose device brand](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-2.png)
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Put the Android phone into Specific mode with the help of Dr.Fone. And then, Dr.Fone will factory reset your Android phone within a few minutes. Now you can access your Android phone without a password!
 
 ![android screen unlocked](https://images.wondershare.com/drfone/guide/screen-unlock-any-android-device-6.png)
@@ -99,13 +86,6 @@ Follow the given steps to know how to hard reset an Android phone using PC.
 • PC that runs on Windows (Linux/Mac installer is also available)
 
 ![download android adb](https://images.wondershare.com/drfone/article/2023/05/hard-reset-android-phone-using-pc.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 • You have to download Android ADB tools on your computer. Android ADB Download: [https://developer.android.com/studio](https://developer.android.com/studio)  
 • A USB Cable to connect your Honor 100 with your computer.
@@ -134,6 +114,10 @@ Now, you have successfully reset your device using a PC.
 
 Although the first process is the easiest, in certain cases, you might have to look for other options too. Kindly follow the steps thoroughly and format your device with ease.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Hard reset Android using Android Device Manager (Find My Device)
 
 When someone loses their phone, or it is stolen, the two questions that commonly arise are: how to locate the phone? And if it is not possible, how to remotely wipe the phone’s data? People can use the Android Device Manager (also referred to as "Find My Device") and do the exact two things. The best thing about this is that it doesn’t need to be installed as it is inbuilt on all Android Devices.
@@ -160,6 +144,10 @@ _**Steps to use ADM to wipe or locate any Android Device:**_
 **Step 3:** Click "Secure Device", you can remotely lock your device with a new passcode, display a custom message on the lock screen, and even track the Honor 100 device's location in real-time. It also gives you the option to add a contact number, so anyone who finds your device can reach out to you.
 
 **Step 4:** Select "Erase Device" to reset your device. Once you select this option, the interface will take over and complete the job. Congratulations! You have successfully used the Android Device Manager (ADM) to reset your Android smartphone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The Bottom Line
 
@@ -206,14 +194,11 @@ Now is the right time to **factory reset Honor 100** when you have everything ba
 
 ![factory reset](https://images.wondershare.com/drfone/article/2022/08/factory-reset-pixel-4.jpg)
 
-- You might need to enter your password to complete the reset.
-
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- You might need to enter your password to complete the reset.
 
 ### Differences Between Hard Reset and Factory Reset
 
@@ -233,13 +218,6 @@ You can use Dr.Fone Data Eraser to reset your Honor 100 phone within minutes. Wh
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Launch the Wondershare Dr.Fone software and click the "Data Eraser" from the main window.
 
 ![data eraser](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -253,10 +231,7 @@ You can use Dr.Fone Data Eraser to reset your Honor 100 phone within minutes. Wh
 ![erase all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Type in "000000" to affirm your activity and continue.
@@ -273,16 +248,13 @@ As we mentioned before, we recommend you back up your files before a factory res
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Open Dr.Fone Phone Backup on your PC, and select the "Phone Backup" option.
 
 ![phone backup](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Connect your Honor 100 and PC through a USB connector. However, make sure to permit USB Debugging on your Honor 100.
 
@@ -297,11 +269,19 @@ As we mentioned before, we recommend you back up your files before a factory res
 
 ![backup complete](https://images.wondershare.com/drfone/guide/android-backup-and-restore-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 Factory resetting is not ideal for some problems, but sometimes it becomes the only possible solution. So, if you have your phone stuck or want to sell your old phone, you need to **factory reset Honor 100**. But make sure to back up your phone before going for a reset. You can back up your files before a factory reset using Dr.Fone - Phone Backup (Android).
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Reset a Honor 100 Phone That Is Locked
 
@@ -319,6 +299,10 @@ Before you start resetting your Honor 100 device through any of the methods, the
 - Ensure to clear the cache on your Honor 100 phone.
 - If your Honor 100 phone is not locked, make sure to take the backup of the Honor 100 device to prevent accidental loss of data. If the Honor 100 device is locked, ensure that from next time you keep taking the backup on regular basis.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Reset Honor 100 Phone When Locked?
 
 Once you have fulfilled the above mention pre-requisites, next comes the process of device resetting. If your Honor 100 phone is locked, there are different methods that can help you reset your device and the popular ones can be checked as below.
@@ -331,19 +315,16 @@ The Android Device Manager which is also known as Find My Phone is an excellent 
 
 ![android device manager](https://images.wondershare.com/drfone/article/2022/06/android-device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 1.** On your PC browser, using your Google account, sign in to the Google Find My Device.
 - **Step 2.** The list of devices will appear on the screen, from which you need to choose the Honor 100 phone that you want to unlock and reset.
 - **Step 3.** Now, from the available options, click on **ERASE DEVICE**.
 - **Step 4.** Again, tap on **ERASE DEVICE**, and to continue you need to log in to your Google account.
 
 With the completion of the above steps, your Honor 100 phone will reset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Perform a Hard Reset on Honor 100 with Hardware Keys
 
@@ -373,6 +354,10 @@ If the above-listed methods do not work for any reason, we recommend using [Dr.F
 The screen locks can be removed without rooting, and the software is completely safe to use.
 
 ![arrow](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Dr.Fone - Screen Unlock (Android)](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/)
 
@@ -414,13 +399,6 @@ To unlock the screen and reset your Honor 100 phone, the settings menu of the Ho
 
 The steps above will reset your phone to the default factory settings.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Reset Honor 100 phones with factory reset code
 
 There are Android Reset Codes for different brands of phones that can be used for resetting the Honor 100 device. These secret codes can be different phones as well as OS versions. In general, the code used for resetting Honor 100 phones is **\*#\*#2846579#\*#\***.
@@ -451,5 +429,22 @@ The above given are multiple options that can be used for resetting your Honor 1
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-direct-links-sending-fb-videos-via-whatsapp-for-2024/"><u>[Updated] Direct Links Sending FB Videos via WhatsApp for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y36i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-moto-g24-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Moto G24</u></a></li>
+<li><a href="https://solve-info.techidaily.com/empower-your-site-analytics-through-innovative-tracker-solutions/"><u>Empower Your Site Analytics Through Innovative Tracker Solutions</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-virtual-face-maker-websites-for-2024/"><u>Free Virtual Face Maker Websites for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/graphics-card-shows-as-microsoft-basic-display-adapter-solved/"><u>Graphics Card Shows as Microsoft Basic Display Adapter [Solved]</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jokes-jamboree-mastering-memelore-made-simple/"><u>In 2024, Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-reality-of-youtubes-fast-subscribe-technique/"><u>In 2024, The Reality of YouTube's Fast Subscribe Technique</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f54-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy F54 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210711787-9781454934547-the-power-of-crystal-healing/"><u>The Power of Crystal Healing | Free Book</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-13-proplus-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 13 Pro+ 5G can’t play AVCHD .mts video</u></a></li>
+</ul></div>
 

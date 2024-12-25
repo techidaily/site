@@ -1,7 +1,7 @@
 ---
 title: "How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide"
-date: 2024-12-14T03:12:31.418Z
-updated: 2024-12-16T01:45:36.851Z
+date: 2024-12-23T22:23:24.870Z
+updated: 2024-12-25T01:10:52.157Z
 tags:
   - desktop
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
  Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Create a Dynamic Wallpaper for macOS
 
  Equinox gives you three options for your dynamic wallpapers.
@@ -47,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The opening screen in the Equinox app showing the types of dynamic wallpaper you can make.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-opening-screen-in-the-equinox-app-showing-the-types-of-dynamic-wallpaper-you-can-make.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Solar
@@ -56,15 +60,15 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The Solar page in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-solar-page-in-equinox.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do this, click "Calculator." In the window that opens, click and drag on the map so that the pin is over the location you want (or you can fill in the Location details manually if you have them).
 
  Now set the time that the photo was taken, or when you want the wallpaper image to change. This will update the Azimuth and Altitude values in the Result section. Click and drag "Result" onto the first image.
 
 ![Calculating the Azimuth and Altitude settings in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/calcutating-the-azimuth-and-altitude-settings-in-equinox.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now adjust the time and drag the updated result onto the next image, and repeat until you've done all the images.
 
@@ -73,7 +77,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 ![The options to Save or Set your wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-options-to-save-or-set-your-wallpaper-in-equinox.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Time
@@ -89,7 +93,7 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 Your browser does not support the video tag. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Appearance
@@ -97,10 +101,6 @@ Your browser does not support the video tag.
  The last option is Appearance. Here, you just need two images, one that will be used when macOS is in Light mode, and the other when it is in Dark mode. Click "Appearance" and drag your two images into the window, then click "Create" to see the preview and set your wallpaper.
 
 ![An appearance wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-appearance-wallpaper-in-equinox.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For it to work, you need to go to System Settings > Appearance > Appearance > Auto so that your system cycles between light and dark modes.
 
@@ -125,20 +125,24 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-converting-your-clips-into-perfect-instagram-stories/"><u>[New] 2024 Approved Converting Your Clips Into Perfect Instagram Stories</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digital-dialogue-diaries-the-full-year-tweets-summary/"><u>[New] 2024 Approved Digital Dialogue Diaries The Full-Year Tweets Summary</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-essential-10-capture-hardware-recommendations-for-online-videos-for-2024/"><u>[New] Essential 10 Capture Hardware Recommendations for Online Videos for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-easy-guide-to-youtube-livestreaming-from-google-meet/"><u>[New] In 2024, Easy Guide to YouTube Livestreaming From Google Meet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-youtube-ventures-steps-for-monetizing-content/"><u>[Updated] 2024 Approved YouTube Ventures Steps for Monetizing Content</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-elevating-the-chilly-selecting-five-warm-video-backgrounds-for-2024/"><u>[Updated] Elevating the Chilly Selecting Five Warm Video Backgrounds for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-tips-for-professional-youtube-content-creation/"><u>[Updated] In 2024, Cutting-Edge Tips for Professional YouTube Content Creation</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/enhancing-intelligence-beyond-measure-7-features-making-googles-bard-ai-superior-with-palm-2-integration/"><u>Enhancing Intelligence Beyond Measure: 7 Features Making Google's BARD AI Superior with PaLM 2 Integration</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-c12-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia C12</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-s18-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo S18 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-itel-p55plus-by-fonelab-android-recover-data/"><u>The way to get back lost data from Itel P55+</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-huawei-p60-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Huawei P60</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/outlookhddby/"><u>どうやってOutlookのコンタクトをHDDに安全に保存するか：ステップbyステップガイド</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unlocking-the-art-of-extended-frame-shooting/"><u>[New] In 2024, Unlocking the Art of Extended Frame Shooting</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-laugh-loop-meme-treasures-for-diverse-events/"><u>[New] Laugh Loop Meme Treasures for Diverse Events</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-x-recorder-for-pc-audio-logger-at-no-cost/"><u>2024 Approved X-Recorder for Pc Audio Logger at No Cost</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-vr-boundaries-the-vive-cosmos-performance-amid-cutthroat-contestation/"><u>Exploring VR Boundaries - The Vive Cosmos' Performance Amid Cutthroat Contestation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-can-you-relocate-your-digital-photograph-collection-google-photos-to-icloud/"><u>How Can You Relocate Your Digital Photograph Collection: Google Photos to iCloud?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-audiovisual-powerhouses-select-best-laptops-for-editing/"><u>In 2024, Audiovisual Powerhouses Select Best Laptops for Editing</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unraveling-the-magic-of-mixed-reality/"><u>In 2024, Unraveling the Magic of Mixed Reality</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-charms-filmoras-most-charming-edit-traits/"><u>In 2024, Unveiling the Charms Filmora's Most Charming Edit Traits</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-defy-2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Defy 2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-a25-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy A25 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s24plus-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S24+ working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-vlog-like-a-pro-14-essential-video-editing-software-for-popular-platforms/"><u>New 2024 Approved Vlog Like a Pro 14 Essential Video Editing Software for Popular Platforms</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-c210-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(C210)</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/smart-deals-in-tech-ransomware-explained-to-all/"><u>Smart Deals in Tech; Ransomware Explained to All</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-x50-gt-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor X50 GT.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-5g-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G 5G (2023) fingerprint</u></a></li>
+<li><a href="https://techidaily.com/vivo-x100-pro-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo X100 Pro support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 

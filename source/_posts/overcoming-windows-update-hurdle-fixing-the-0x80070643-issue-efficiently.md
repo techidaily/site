@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Windows Update Hurdle: Fixing the 0X80070643 Issue Efficiently"
-date: 2024-12-08T20:53:02.182Z
-updated: 2024-12-15T20:22:42.033Z
+date: 2024-12-22T00:09:22.914Z
+updated: 2024-12-24T20:26:24.862Z
 tags:
   - desktop
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
  Microsoft releases updates for Windows to add new features and fix bugs in the current version. Most updates download without problems, but some can cause errors during the download. One such error is Windows update error 0x80070643, which occurs while downloading the Windows 10 KB5034441 update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Is Downloading the Windows 10 KB5034441 Update Important?
 
  Microsoft released the [KB5034441 update](https://support.microsoft.com/en-au/topic/kb5034441-windows-recovery-environment-update-for-windows-10-version-21h2-and-22h2-january-9-2024-62c04204-aaa5-4fee-a02a-2fdea17075a8) in January 2024\. If your computer uses Windows Recovery Environment (WinRE), this update automatically applies the Safe OS Dynamic Update to address a security vulnerability. If left unpatched, attackers could exploit this vulnerability to bypass [BitLocker encryption](https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/) through WinRE.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![Windows Update Error 0x80070643](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-update-error-0x80070643.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Microsoft clearly states that if your system doesn't have a Recovery partition, you don't need to download the KB5034441 update and you can ignore this error. However, if your system does feature a Recovery partition, it's important for you to download the update and, unfortunately, Microsoft isn't going to release an automatic fix that will solve the 0x80070643 error.
 
  Earlier, when the report broke about users facing this issue, Microsoft acknowledged it and said they were working on a fix. However, that hasn't panned out (yet). 
@@ -44,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
  They have [updated their blog](https://learn.microsoft.com/en-us/windows/release-health/resolved-issues-windows-10-22h2#3231msgdesc) that discusses the error to mention that "Automatic resolution of this issue won't be available in a future Windows update. Manual steps are necessary to complete the installation of this update on devices which are experiencing this error." This means the only way for you to get rid of the problem is to perform the manual fix released by Microsoft, which is resizing the partition.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What is the WinRE Recovery Partition?
@@ -61,15 +69,15 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
  For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Fix the Windows Update Error 0x80070643
 
  As mentioned earlier, the 0x80070643 error occurs when the Recovery partition doesn't have 250 MB of free space. This means that to fix the problem, you will need to provide more space to the Recovery partition. To do that, open Command Prompt as an administrator, type **reagentc /disable** to disable the Recovery partition, and hit Enter.
 
 ![Disable Recovery Partition command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/disable-recovery-partition-command.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Type **diskpart** and hit Enter.
 
@@ -79,16 +87,12 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 
 ![List disk command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-disk-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select the disk where your operating system is installed. For example, if it is Disk 1, type **select disk 1** and hit Enter.
 
 ![Select disk command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-disk-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Type **list partition** to list the partitions on the disk.
@@ -96,16 +100,12 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
 ![List partition command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-partition-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select the primary disk partition. For example, if it is Partition 3, type **select partition 3** and hit Enter.
 
 ![Select partition 3 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-3-command-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll now have to shrink the partition. For that, type **shrink desired=250 minimum=250** and hit Enter.
 
@@ -114,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/929becda16ad6e1d635249f853442c43d72fdee02
  Now, select the Recovery partition. It will be labeled as "Recovery." For example, if it is Partition 4, type **select partition 4** and hit Enter.
 
 ![select partition 4 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-4-command-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type **delete partition override** and hit Enter to delete the recovery partition.
 
@@ -135,16 +139,12 @@ Close
 
 ![List vol command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-vol-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **exit** and hit Enter to exit Diskpart.
 
 ![Exit command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Re-enable the Recovery partition by typing **reagentc /enable** and hitting Enter.
@@ -172,16 +172,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-simplified-social-media-sharing-youtube-to-facebook/"><u>[Updated] 2024 Approved Simplified Social Media Sharing YouTube to Facebook</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-narzo-60-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme Narzo 60 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-k11x-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo S17 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/navigating-through-predictive-ai-principles-processes-and-practical-uses/"><u>Navigating Through Predictive AI: Principles, Processes & Practical Uses</u></a></li>
-<li><a href="https://common-error.techidaily.com/solving-ethernet-network-malfunctions-on-windows-117-a-step-by-step-guide/"><u>Solving Ethernet Network Malfunctions on Windows 11/7: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-gt-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y100-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y100 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unboxing-and-testing-the-latest-google-nest-doorbell-with-batteries-our-detailed-insights/"><u>Unboxing and Testing the Latest Google Nest Doorbell with Batteries - Our Detailed Insights</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-c12-plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia C12 Plus.</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-deciphering-the-secrets-to-your-personalized-tiktok-code/"><u>[New] In 2024, Deciphering the Secrets to Your Personalized TikTok Code</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-examining-the-unique-features-of-youtubes-and-dailymentions/"><u>[Updated] 2024 Approved Examining the Unique Features of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-screen-capture-clarity-with-irecorder-tech-for-2024/"><u>[Updated] Screen Capture Clarity with iRecorder Tech for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On OnePlus 12R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s24-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S24 Ultra Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/find-the-most-economical-and-high-definition-petcam-by-petcube/"><u>Find the Most Economical and High Definition Petcam by Petcube</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/flexible-and-convenient-the-universal-moko-foldable-bluetooth-keyboard/"><u>Flexible and Convenient: The Universal MoKo Foldable Bluetooth Keyboard</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro+ without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-premier-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Premier 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y36i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y36i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-12r-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus 12R phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-retain-snapchat-moments-android-and-mac-solutions/"><u>In 2024, Retain Snapchat Moments Android and Mac Solutions</u></a></li>
+<li><a href="https://techidaily.com/remove-poco-m6-pro-4g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Poco M6 Pro 4G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-m54-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy M54 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-end-of-an-era-microsofts-bold-move-against-paint-3d/"><u>The End of an Era: Microsoft's Bold Move Against Paint 3D</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto E13? | Dr.fone</u></a></li>
 </ul></div>
 

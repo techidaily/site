@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-12-10T22:44:24.488Z
-updated: 2024-12-16T04:44:16.930Z
+date: 2024-12-21T21:04:05.474Z
+updated: 2024-12-24T17:56:31.021Z
 tags:
   - web
 categories:
@@ -38,28 +38,23 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-cam-crossover-showdown-sj6-power-meets-yis-four-k-kickstart/"><u>[New] Cam Crossover Showdown SJ6 Power Meets Yi’s Four-K Kickstart</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-making-words-dance-the-art-of-sculpted-photographic-content/"><u>[New] In 2024, Making Words Dance The Art of Sculpted Photographic Content</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-construct-playlist-with-film-assortments-for-2024/"><u>[Updated] Construct Playlist with Film Assortments for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-ultimate-unseen-ui-techniques-for-newcomers-for-2024/"><u>[Updated] Ultimate Unseen UI Techniques for Newcomers for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unlock-superior-asmr-audio-with-top-recorder-mics/"><u>[Updated] Unlock Superior ASMR Audio with Top Recorder Mics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/auto-gpt-vs-gpt-4-practical-value/"><u>Auto-GPT Vs. GPT-4: Practical Value?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/expertise-boost-for-editors-leveraging-story-remix-within-windows-photos/"><u>Expertise Boost for Editors Leveraging Story Remix Within Windows Photos</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y55s-5g-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y55s 5G (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x8b-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X8b in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-neo-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 Neo in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-10-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 10 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/overcome-launch-failures-in-call-of-duty-modern-warfare-3-with-these-quick-fixes/"><u>Overcome Launch Failures in Call of Duty Modern Warfare 3 with These Quick Fixes</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-gionee-f3-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Gionee F3 Pro</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-edgeplus-2023-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-90-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on 90 Pro without backup.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unifying-individual-jpeg-pictures-into-one-convenient-pdf-document-tips-and-tricks/"><u>Unifying Individual JPEG Pictures Into One Convenient PDF Document - Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-embedding-your-pre-recorded-video-in-a-live-facebook-showcase/"><u>[New] 2024 Approved Embedding Your Pre-Recorded Video in a Live Facebook Showcase</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fast-track-your-lexar-drive-functionality-with-this-instant-usb-driver-download/"><u>Fast Track Your Lexar Drive Functionality with This Instant USB Driver Download</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/fehlerbehebung-und-losungen-fur-herunterladen-von-dvds-in-formaten-wie-mp4-avi-auf-iphone-oder-ipad/"><u>Fehlerbehebung Und Lösungen Für Herunterladen Von DVDs in Formaten Wie MP4, AVI Auf IPhone Oder iPad</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/free-easy-and-fast-youtubes-best-subtitle-getters-for-2024/"><u>Free, Easy and Fast YouTube's Best Subtitle Getters for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-v27e-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo V27e Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 4G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-spark-10-pro-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Spark 10 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-comprehensive-sierras-icloud-drives-the-full-experience/"><u>In 2024, Comprehensive Sierra's iCloud Drives – The Full Experience</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/iphone-131415pc-3/"><u>IPhone 13・14・15をPCで安全確保! 最適なバックアップ手順トップ3</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-troubleshooting-guide-stop-final-cut-pro-x-from-crashing/"><u>New 2024 Approved Troubleshooting Guide Stop Final Cut Pro X From Crashing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-6-bargains-for-your-homes-ultimate-viewing-for-2024/"><u>Prime 6 Bargains for Your Home's Ultimate Viewing for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

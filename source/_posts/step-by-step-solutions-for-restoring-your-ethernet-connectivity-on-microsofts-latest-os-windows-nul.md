@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for Restoring Your Ethernet Connectivity on Microsoft's Latest OS, Windows Nul
-date: 2024-12-13T17:05:53.579Z
-updated: 2024-12-15T16:58:30.328Z
+date: 2024-12-23T22:56:23.425Z
+updated: 2024-12-24T18:32:12.142Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ## Step-by-Step Solutions for Restoring Your Ethernet Connectivity on Microsoft's Latest OS, Windows Nul
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -26,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 * [Ensure the Ethernet Connection Is Enabled](https://article-posts.techidaily.com/updated-in-2024-essential-iphone-techniques-for-video-downsizing/)
 * [Update or Reinstall Ethernet Adapter Drivers](https://extra-guidance.techidaily.com/new-quick-guide-integrating-titles-into-videos-within-windows-photos/)
 * [Disable Proxy Server Over LAN](https://youtube-docs.techidaily.com/024-approved-how-to-prevent-thumbnail-absence-in-shorts-uploads/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,13 +43,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 
 ![Opening other troubleshooters settings on windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-opening-other-troubleshooters-settings-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click the "Run" button next to Network and Internet. Follow the on-screen instructions in the Get Help app to identify and fix the problem.
 
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Preliminary Checks
 
@@ -70,7 +66,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2
 ![Ethernet cable plugged into an ethernet port on a router.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/52577999789_6417edb804_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
@@ -79,17 +75,29 @@ Hannah Stryker / How-To Geek
 
  If you can successfully connect to the internet via Wi-Fi, your internet connection is active, and the problem likely lies with your device's Ethernet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Test the Ethernet Connection on Another Device
 
  To ensure that the problem doesn't stem from your faulty router hardware, a damaged Ethernet cable, or misconfigured router settings, test your Ethernet connection on another device (if available). Connect your Ethernet cable to a different device and check if the connection works properly.
 
  If the connection works on the other device, it suggests that the problem may be with your device settings. In this case, you can proceed directly to the device-specific fixes outlined in the last three headings. However, if the connection does not work on the other device, ensure the problem isn't with the Ethernet cable, port, or router.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ensure the Ethernet Cable or Port Isn't Faulty
 
  Start troubleshooting the Ethernet connection issue by carefully inspecting the Ethernet cable. Examine the cable thoroughly from end to end to ensure it's not damaged. Besides obvious breaks in the wire, you should keep an eye out for very sharp bends, subtle slices, or tears in the exterior sheathing—any of those could result in a nonfunctional Ethernet cable. Also, check both ends of the cable to ensure the connectors are in good condition and that their internal wires are properly seated and not falling out.
 
  If the Ethernet cable and its connectors are in good condition, check the ports where the cable is plugged into your router or PC for any obvious signs of damage. Connect the cable to a different port on your PC (if one is available) to confirm whether the PC port is working properly. Then, try plugging the cable to a different port on your router. If changing the ports does not resolve the issue, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Rule Out Issues With Your Router
 
@@ -109,10 +117,6 @@ Ismar Hrnjicevic / How-To Geek
 
 ![Enabling the disabled ethernet connection adapter in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/enabling-the-disabled-ethernet-connection-adapter-in-device-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update or Reinstall Ethernet Adapter Drivers
 
  Outdated drivers can also cause problems with the Ethernet connection. To ensure this isn't the case, you should update the Ethernet adapter drivers. Download the latest drivers from the website of your device manufacturer—if you have a prebuilt, you're looking for the same brand as your PC. If you built your own PC, you should check your motherboard manufacturer's website. If the driver comes in an executable format, just run it to install it. Otherwise, you must manually update the driver from Device Manager.
@@ -120,6 +124,10 @@ Ismar Hrnjicevic / How-To Geek
  To do this, right-click the Start button and select "Device Manager." Expand the "Network Adapters" category, right-click the Ethernet adapter driver, and select "Update Driver."
 
 ![Updating the ethernet driver in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/updating-the-ethernet-driver-in-device-manager.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select "Browse My Computer for Drivers," then select the downloaded driver file from the Downloads folder and let Windows update it.
 
@@ -131,26 +139,18 @@ Ismar Hrnjicevic / How-To Geek
 
  Then, follow the previous instructions to reinstall it manually.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Disable Proxy Server Over LAN
 
  Using a proxy server over a LAN might be the cause of the issue at hand. If you're using a proxy server, you should turn it off. Type "Internet Options" in the Windows Search bar and open it.
 
 ![Opening the 'Internet Options' Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/1-opening-the-internet-options-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, move to the "Connections" tab and click the "LAN Settings" button. If the box beside"Use a Proxy Server for Your LAN" is checked, uncheck it to turn off the proxy server. Click "Apply" and hit "OK."
 
 ![Turning off the proxy server from LAN settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/2-turning-off-the-proxy-server-from-lan-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -172,19 +172,21 @@ Ismar Hrnjicevic / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-craft-your-podcasts-identity-with-ai-name-generators/"><u>[Updated] 2024 Approved Craft Your Podcast's Identity with AI Name Generators</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/adding-more-fun-tips-and-tricks-for-extending-your-nes-classic-collection/"><u>Adding More Fun: Tips & Tricks for Extending Your NES Classic Collection</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/creating-a-great-drivers-license-picture-in-2er-essential-strategies/"><u>Creating a Great Driver's License Picture in 2Er - Essential Strategies</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT 5 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y27s-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y27s phone? | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-live-streaming-with-phone-webcams-and-filming-hacks/"><u>In 2024, Elevate Your Live Streaming with Phone Webcams and Filming Hacks</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-leveraging-synergies-how-to-choose-ideal-youtube-duosgroups/"><u>In 2024, Leveraging Synergies How to Choose Ideal YouTube Duos/Groups</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-streamline-your-podcast-with-ease/"><u>In 2024, Streamline Your Podcast With Ease</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-f04-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy F04 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/real-time-visualizer/"><u>Real-Time Visualizer</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-samsung-galaxy-z-flip-5-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-smart-8-plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Smart 8 Plus.</u></a></li>
-<li><a href="https://media-tips.techidaily.com/weekly-insights-on-netflixs-discontinuation-of-basic-plan-and-expert-tips-for-enhanced-iphone-maintenance/"><u>Weekly Insights on Netflix's Discontinuation of Basic Plan & Expert Tips for Enhanced iPhone Maintenance</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-data-recovery-recover-lost-data-from-xiaomi-redmi-note-12-pro-5g-by-fonelab-android-recover-data/"><u>Xiaomi Data Recovery – recover lost data from Xiaomi Redmi Note 12 Pro 5G</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-path-to-professional-gopro-time-lapse-cinematography/"><u>[New] The Path to Professional GoPro Time-Lapse Cinematography</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-best-budget-game-recording-software-for-gamers/"><u>[Updated] 2024 Approved The Best Budget Game Recording Software for Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-interactive-display-decode-for-2024/"><u>[Updated] Interactive Display Decode for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-insights-into-androids-recording-features/"><u>[Updated] Professional Insights Into Android's Recording Features</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-accessing-social-network-videos-seamlessly-on-apple-tv/"><u>2024 Approved Accessing Social Network Videos Seamlessly on Apple TV</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-v-purse-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor V Purse Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-job-market-edge-by-learning-how-to-use-chatgpt-heres-why-it-matters/"><u>Boost Your Job Market Edge by Learning How to Use ChatGPT – Here’s Why It Matters</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/crafting-bespoke-exerciplines-via-chatai/"><u>Crafting Bespoke Exerciplines via ChatAI</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y56-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y56 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-civi-3-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Civi 3 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/the-upswing-of-precious-metals-and-energy-commodities-amidst-geopolitical-uncertainty-expert-analysis-by-yl-computing-yl-software/"><u>The Upswing of Precious Metals and Energy Commodities Amidst Geopolitical Uncertainty: Expert Analysis by YL Computing, YL Software</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y78-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y78 5G</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Which Pokémon can Evolve with a Moon Stone For Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-z-fold-5-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy Z Fold 5 ?</u></a></li>
 </ul></div>
 

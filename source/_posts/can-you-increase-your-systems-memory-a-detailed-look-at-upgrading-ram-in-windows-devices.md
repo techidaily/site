@@ -1,7 +1,7 @@
 ---
 title: Can You Increase Your System's Memory? A Detailed Look at Upgrading RAM in Windows Devices
-date: 2024-12-12T22:52:34.205Z
-updated: 2024-12-16T01:30:57.818Z
+date: 2024-12-19T16:44:10.428Z
+updated: 2024-12-25T00:07:59.471Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Can You Increase Your System's Memory? A Detailed Look at Upgrading RAM in Windows Devices
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Check RAM Speed, RAM Type, and More](https://buynow-reviews.techidaily.com/ultimate-freestyle2-blue-mac-version-analysis-the-ideal-choice-for-apple-enthusiasts/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -51,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Checking the installed RAM in the Windows Settings App.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-checking-the-installed-ram-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, check how much RAM your PC can accommodate. Type **PowerShell** in Windows Search, right-click on "Windows PowerShell," and select "Run as Administrator."
 
 ![Running Windows PowerShell as administrator from Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-running-windows-powershell-as-administrator-from-windows-search.jpg) 
@@ -62,6 +66,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Take note of the value under MaxCapacity, which represents the total RAM in kilobytes that your motherboard can accommodate. To convert kilobytes into gigabytes, divide the number by 1048576\. We've included a quick reference chart below for some common values you might see. If the maximum capacity is less than the RAM you currently have, for example, 32 GB compared to the 16 GB you're now using, you can add 16 GB of RAM to your system.
 
 ![Checking the maximum RAM capacity in Windows PowerShell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-checking-the-maximum-ram-capacity-in-windows-powershell.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Here is a quick reference chart if you don't want to work it out manually:
 
@@ -85,10 +93,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Hovering your mouse cursor over this number also details how much RAM each slot supports. If you have free slots available to accommodate the RAM you plan to upgrade, you're all set. However, what if no free slots are available, or you've already reached the maximum RAM capacity?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  No Free Slot or Reached Maximum RAM Capacity?
 
  If you have already reached your motherboard's maximum supported RAM capacity, that becomes the primary limiting factor. To confirm that you have really reached the maximum supported RAM, refer to the motherboard manufacturer's documentation and see how much RAM it supports. If the motherboard does not support additional RAM, [upgrading your motherboard](https://extra-hints.techidaily.com/superior-selections-pro-webcam-stabilizers/) is the only viable option.
@@ -98,7 +102,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Given the technical nature of this process, seeking advice from the manufacturer or a knowledgeable professional is advisable if you are uncertain about anything.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check RAM Speed, RAM Type, and More
@@ -112,10 +116,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 [Note the RAM speed](https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-v27-drfone-by-drfone-virtual-android/), indicated next to "Speed," and check the RAM type next to "MemoryType." If you see "0" next to MemoryType, as shown below, note the value next to "SMBIOSMemoryType." A value of 20 corresponds to DDR, 21 to DDR2, 22 to DDR2 FB-DIMM, 24 to DDR3, 26 to DDR4, and 34 to DDR5.
 
 ![Checking the specs of currently installed RAM in the Windows PowerShell utility.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-checking-the-specs-of-currently-installed-ram-in-the-windows-powershell-utility.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you see "0" or an unusual value and cannot determine the RAM type, consider using a third-party app like CPU-Z. Such apps can help you [confirm the type of RAM currently installed](https://win-answers.techidaily.com/expert-tips-to-overcome-bless-unleashed-performance-dips-and-elevate-your-gameplay-experience-on-pc/).
 
@@ -146,24 +146,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-the-science-behind-effective-instagram-puzzle-posts/"><u>[New] The Science Behind Effective Instagram Puzzle Posts</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-videos-at-full-hd-your-watchful-pathway-for-2024/"><u>[New] Twitter Videos at Full HD - Your Watchful Pathway for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-narrow-your-focus-on-elite-hdr-camera-systems/"><u>[Updated] 2024 Approved Narrow Your Focus on Elite HDR Camera Systems</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-mastering-the-art-of-accessing-your-facebook-watchlist/"><u>[Updated] In 2024, Mastering the Art of Accessing Your Facebook Watchlist</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-speak-out-altering-soundtracks-in-ps4ps5-games/"><u>[Updated] Speak Out Altering Soundtracks in PS4/PS5 Games</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-advanced-tips-for-professionally-changing-image-hues/"><u>2024 Approved Advanced Tips for Professionally Changing Image Hues</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/choosing-the-right-iphone-for-gamers-a-comprehensive-review/"><u>Choosing the Right iPhone for Gamers: A Comprehensive Review</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Nokia 130 Music | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-lava-blaze-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Blaze Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-amplifying-your-role-play-roblox-closeup-mastery/"><u>In 2024, Amplifying Your Role-Play Roblox Closeup Mastery</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-itel-a60-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Itel A60 Running Slow and Freezing | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-poco-c65-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Poco C65</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-ace-3-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Ace 3 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-c110-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - C110</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor 90 Lite</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>[New] Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-intro-to-radial-photo-distortion-ps-tutorial/"><u>[Updated] Intro to Radial Photo Distortion PS Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-streaming-showdown-obs-vs-twitch/"><u>2024 Approved The Streaming Showdown OBS vs Twitch</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-itel-p40plus-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Itel P40+? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-meizu-21-pro-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Meizu 21 Pro Face Lock?</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-go-2023-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark Go (2023) in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100a-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100A If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/prime-10-live-streaming-networks-revealed-and-compared-for-2024/"><u>Prime 10 Live Streaming Networks Revealed and Compared for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-v-purse-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor V Purse without backup.</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-apple-watch-cellular-connection-issues-a-step-by-step-guide/"><u>Troubleshooting Apple Watch Cellular Connection Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-a15-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy A15 5G play AVCHD mts files?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Magic5 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 

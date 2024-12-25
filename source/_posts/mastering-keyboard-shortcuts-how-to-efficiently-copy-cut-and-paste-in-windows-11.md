@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11"
-date: 2024-12-14T04:00:43.199Z
-updated: 2024-12-15T23:48:45.493Z
+date: 2024-12-18T16:41:55.938Z
+updated: 2024-12-24T18:32:49.591Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 ---
 
 ## Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,10 +36,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
  In Windows, you can even [synchronize your Clipboard between devices](https://support.microsoft.com/en-us/help/4028529/windows-10-clipboard) using the cloud. But that is an optional setting you have to turn on in System Settings.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Difference Between Copy and Cut
 
  When you copy something, Windows makes a copy of the information you want to the Clipboard and also leaves it in its original location. In contrast, when you perform the cut operation, Windows copies the information to the Clipboard but also removes the information from the original location.
@@ -64,10 +56,6 @@ Microsoft
 
 [These shortcuts now work in Windows 10's Command Prompt](https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/), too.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Alternative Copy, Cut, and Paste Keyboard Shortcuts
 
  If you need to copy in a program that interprets Ctrl+C as a break character (such as a terminal emulator), you can use Ctrl+Insert instead. To cut, use Shift+Delete. To paste, press Shift+Insert. These shortcuts aren't as commonly used today, but they are still almost universally recognized in Windows.
@@ -78,15 +66,15 @@ Microsoft
 
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
 
  The same principle works in File Explorer and on your Desktop. Select a file, folder, or group of files you'd like to Copy or Cut. Right-click on the files, and you'll see a context menu pop-up. Select "Copy" if you'd like to duplicate the file somewhere else. Select "Cut" if you'd like to move the file to another location.
 
 ![Select Cut or Copy on the Right-Click Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/right_click_file_copy.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then navigate to the new location and right-click where you'd like to put the files. The destination right-click can be inside a folder window, on the desktop, a drive on your computer, or even directly on a folder icon itself.
 
@@ -94,7 +82,15 @@ Microsoft
 
 ![Select Paste on the Right Click menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/aright_click_file_paste.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The files you just Cut or Copied will appear in the new location. Very handy!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Application Menus
 
@@ -103,7 +99,7 @@ Microsoft
 ![Copy, Cut, and Paste in a typical Windows Ribbon Interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/aribbon_copy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In programs with compressed or hamburger-style menus (like Chrome and Firefox), you can often find the Copy/Cut/Paste functions in a section labeled Edit.
@@ -111,10 +107,14 @@ Microsoft
 ![Copy, Cut, and Paste in Chrome's Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/chrome_menu_copy.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Also, many older Windows programs include a series of drop-down menus at the top of the application window. Among them, you'll often find a menu titled Edit (which you can often call up by pressing Alt+E). In that menu, you can usually find Copy, Cut, and Paste commands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Empty Your Clipboard
 
@@ -143,17 +143,16 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-cutting-edge-creatives-on-your-feed/"><u>[New] In 2024, The Cutting-Edge Creatives on Your Feed</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-expedited-pitch-modification-tools-repository/"><u>[Updated] Expedited Pitch Modification Tools Repository</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-become-a-short-form-video-star-with-these-10-proven-methods/"><u>[Updated] In 2024, Become a Short-Form Video Star with These 10 Proven Methods</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-unlocking-window-snapshots-in-windows-3-methods/"><u>2024 Approved Unlocking Window Snapshots in Windows (3 Methods)</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-oppo-reno-10-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Oppo Reno 10 5G | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/forgot-apple-iphone-13-pro-backup-password-heres-what-to-do-by-drfone-ios/"><u>Forgot Apple iPhone 13 Pro Backup Password? Heres What to Do</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-g24-power-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola G24 Power Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-nord-3-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Nord 3 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 iOS System? | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/in-2024-the-best-text-to-speech-online-tools-to-use/"><u>In 2024, The Best Text-to-Speech Online Tools To Use</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/twitter-livestreaming-a-comprehensive-guide/"><u>Twitter Livestreaming A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-quick-and-effortless-gif-to-professional-video-transformation-tools/"><u>[New] In 2024, Quick and Effortless GIF to Professional Video Transformation Tools</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-discover-why-av1-is-a-game-changer-for-youtube-viewers/"><u>[Updated] In 2024, Discover Why AV1 Is a Game Changer for YouTube Viewers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harness-kinemasters-power-techniques-for-professionals-and-top-online-platforms/"><u>Harness KineMaster's Power Techniques for Professionals & Top Online Platforms</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 iOS System? | Dr.fone</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/in-2024-the-essential-guide-to-emoji-memoji-animoji-and-bitmoji/"><u>In 2024, The Essential Guide to Emoji, Memoji, Animoji, and Bitmoji</u></a></li>
+<li><a href="https://techtrends.techidaily.com/protecting-young-users-on-discord-the-ultimate-guide-to-activating-parent-locks/"><u>Protecting Young Users on Discord: The Ultimate Guide to Activating Parent Locks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/select-vhs-magic-transforming-video-editing-today/"><u>Select VHS Magic Transforming Video Editing Today</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-lava-yuva-3-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-samsung-galaxy-a15-4g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Samsung Galaxy A15 4G</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/will-14-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will 14 play AVCHD mts files?</u></a></li>
 </ul></div>
 

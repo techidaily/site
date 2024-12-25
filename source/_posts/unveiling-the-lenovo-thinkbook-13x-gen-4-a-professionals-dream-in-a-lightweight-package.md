@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package"
-date: 2024-12-13T01:23:51.329Z
-updated: 2024-12-16T03:20:33.319Z
+date: 2024-12-20T19:49:31.705Z
+updated: 2024-12-24T17:39:09.484Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 ---
 
 ## Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #####  Lenovo ThinkBook 13x Gen 4
 
@@ -47,6 +55,10 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 ## 
 
 [_How We Test and Review Products_](https://vp-tips.techidaily.com/swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Price and Availability
 
@@ -128,10 +140,6 @@ Expand
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  The Lenovo ThinkBook 13x Gen 4 is a sleek, familiar build that most people who've used a ThinkBook will recognize. Encased in a premium aluminum chassis, I found its minimalist design exuded professionalism but looked contemporary and sleek. Whereas Lenovo might've gone a bit more experimental with the [ThinkBook Plus Gen 4 2-in-1 laptop](https://video-capture.techidaily.com/in-2024-streamline-communications-with-these-best-5-capture-tools/), they've stuck to basics for the 13x Gen 4\. Its build reminded me of the basic yet sleek [ThinkPad Z13 Gen 2 laptop](https://youtube-tips.techidaily.com/024-approved-quick-steps-to-quality-content-via-studio-editor/); it even had some similar specs.
@@ -154,10 +162,6 @@ Close
 
  The left side has just one of these ports, along with the 3.5mm headphone and microphone jack, while the right side has two of these ports, an e-privacy shutter for the webcam, and the laptop's power button.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Inputs: The Touchscreen, Touchpad, and the Keyboard
 
 ![The keyboard on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-keyboard-on-the-lenovo-thinkbook-13x-gen-4_53755343766_o.jpg) 
@@ -177,7 +181,7 @@ Jerome Thomas / How-To Geek
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -200,6 +204,10 @@ Close
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Jerome Thomas / How-To Geek
 
  With an Intel Core Ultra 5 125H CPU with an 18MB cache, 14 cores, and 18 threads, my everyday workload and multitasking on the ThinkBook 13x was a cinch. On a PCMark 10 benchmark, the laptop scored 6,210 overall, with fairly high scores in Essentials (9,463) and Digital Content Creation (8,638). Productivity wasn't far behind, with a score of 7,951.
@@ -211,7 +219,7 @@ Jerome Thomas / How-To Geek
  The device surpassed my expectations thanks to its powerful CPU for streaming and other media consumption and creation, like photo and video editing. Even though integrated [Intel ARC graphics wouldn't be my first choice for gaming](https://instagram-video-recordings.techidaily.com/updated-fast-track-to-fame-masterful-use-of-insta-likes-and-vids-for-2024/), the GPU worked well for most other content scenarios.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Gaming Performance: Surprisingly Good Gameplay for Casual Gamers
@@ -229,7 +237,7 @@ Jerome Thomas / How-To Geek
 ![The Lenovo Magic Light on the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-magic-light-on-the-lenovo-thinkbook-13x-gen-4_53755539983_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -248,26 +256,18 @@ Close
 
  Singing or speaking at louder volumes also triggered the noise cancellation to come on rather strongly, and it drowned out particular high tones of speech or voice.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 ### 
 
 ### 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -276,10 +276,6 @@ Jerome Thomas / How-To Geek
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
  If you're looking for an ultra-portable laptop that's powerful enough to handle many tasks at once and serve as a primary device for consuming and creating media, you won't need to look further than the [Lenovo ThinkBook 13x Gen 4](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fwww.lenovo.com%2Fus%2Fen%2Fp%2Flaptops%2Fthinkbook%2Fthinkbook-x%2Flenovo-thinkbook-13x-gen-4-%2813-inch-intel%29%2Flen101b0036). But it does have its limits—a smaller screen size won't be for everyone, the integrated graphics do well but aren't as powerful for gamers, and the keyboard could be better.
@@ -287,6 +283,10 @@ Jerome Thomas / How-To Geek
  Those looking for a more gaming-centric setup might consider a [gaming laptop](https://youtube-zero.techidaily.com/ed-gamers-galaxy-100plus-spaces-of-play/) or if you want the best of both worlds, something with a little more oomph, an upgraded [Dell XPS 16 (9640)](https://desktop-recording.techidaily.com/updated-in-2024-hone-your-talks-expert-insights-into-google-meet-chats/).
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -313,24 +313,17 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-quick-and-effective-methods-to-save-instagram-stories/"><u>[New] 2024 Approved Quick & Effective Methods to Save Instagram Stories</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-key-methods-from-video-links-to-downloaded-audios/"><u>[Updated] 2024 Approved Key Methods From Video Links to Downloaded Audios</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-7-creative-video-concepts-to-boost-your-fitness-channel/"><u>[Updated] In 2024, 7 Creative Video Concepts to Boost Your Fitness Channel</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-thumbnail-creation-a-step-by-step-guide/"><u>[Updated] In 2024, Mastering Thumbnail Creation A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-musics-big-screen-facebooks-top-ten-vids/"><u>[Updated] In 2024, Music's Big Screen Facebook's Top Ten Vids</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-inside-look-how-does-vr-headgear-work-in-2024/"><u>[Updated] Inside Look How Does VR Headgear Work, In 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-multitasking-media-expertise-in-using-picture-in-picture/"><u>2024 Approved Navigating Multitasking Media Expertise in Using Picture-in-Picture</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-zte-axon-40-lite-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting ZTE Axon 40 Lite Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-mini-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 mini without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-m6-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-s17-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo S17 Pro</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-user-friendly-way-to-fetch-newest-sata-driver-versions-compatible-with-windows-systems/"><u>The User-Friendly Way to Fetch Newest SATA Driver Versions Compatible with Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-razr-40-ultra-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-10t-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from 10T 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-y200e-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Y200e 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor ?</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/sila-seo-na-linux-v-2024-samye-effektivnye-utility-i-prilozheniya-dlya-prodvinutoj-optimizacii-sajta/"><u>Сила SEO На Linux В 2024: Самые Эффективные Утилиты И Приложения Для Продвинутой Оптимизации Сайта</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-legal-compliant-recording-your-pathway-to-secure-skype-call-management/"><u>[New] Legal-Compliant Recording Your Pathway to Secure Skype Call Management</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-creating-stunning-canon-time-lapse-videos/"><u>2024 Approved Creating Stunning Canon Time-Lapse Videos</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-pitfalls-with-a-healthy-skepticism-of-ai/"><u>Avoid Potential Pitfalls with a Healthy Skepticism of AI</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-vivo-v30-to-mac-drfone-by-drfone-android/"><u>How to Mirror Vivo V30 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-se-2020-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone SE (2020) to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-vivo-s18-pro-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Vivo S18 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-net.techidaily.com/preferred-alternatives-to-acronis-comprehensive-review-of-premier-backup-software-options/"><u>Preferred Alternatives to Acronis: Comprehensive Review of Premier Backup Software Options</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-20c-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Spark 20C Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://driver-install.techidaily.com/update-netgear-wireless-adapter-for-enhanced-performance/"><u>Update Netgear Wireless Adapter for Enhanced Performance</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-aria-elimination-kit-compose-one-of-a-kind-background-scores-for-2024/"><u>Updated Aria Elimination Kit Compose One-of-a-Kind Background Scores for 2024</u></a></li>
 </ul></div>
 

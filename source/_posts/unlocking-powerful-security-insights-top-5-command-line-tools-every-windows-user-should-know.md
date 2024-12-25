@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Powerful Security Insights: Top 5 Command-Line Tools Every Windows User Should Know"
-date: 2024-12-08T21:43:04.017Z
-updated: 2024-12-15T18:41:24.119Z
+date: 2024-12-19T18:26:57.049Z
+updated: 2024-12-24T20:20:26.499Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/03aa98ead41db04bf63114eadc16ec748777a4353
  Ever wanted to feel like a Hollywood hacker without the associated risks? Here's how to transform your boring Windows terminal into a "hacker" space with five harmless commands.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Prerequisite: Enable WSL and Set Terminal Color to Matrix Green
@@ -48,10 +48,6 @@ color 2
 
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
 
  Both of these commands will turn your text to a bright green color, instantly giving your terminal that classic hacker aesthetic. If you want to go back to the default colors, simply enter:
@@ -61,7 +57,7 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
@@ -92,7 +88,7 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -111,6 +107,10 @@ Your browser does not support the video tag.
 
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
 
  Let's step it up a notch with a command that truly embodies the hacker aesthetic—cmatrix. This command creates the falling green text effect popularized by The Matrix movies. Now this is a Linux command, and you’ll need to first install it on your system before you can use it. To do this, open the Ubuntu terminal—or whichever Linux terminal you've installed using WSL, and enter the following command:
@@ -126,7 +126,7 @@ Your browser does not support the video tag.
  Press CTRL+C to quit when you're done basking in the glow of your Matrix-inspired terminal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use genact to Simulate Running Random Tasks (WSL necessary)
@@ -196,24 +196,18 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foremost-4k-camcorders-our-best-picks/"><u>[New] 2024 Approved Foremost 4K Camcorders Our Best Picks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unveiling-hidden-potential-mastering-the-art-of-morphvox/"><u>[Updated] Unveiling Hidden Potential Mastering the Art of MorphVOX</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/demystifying-googles-advancements-palm-2-linguistic-powerhouse/"><u>Demystifying Google's Advancements: PaLM 2 Linguistic Powerhouse</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-se-2020-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone SE (2020) Data Completely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-beyond-playfulness-a-closer-look-at-snapchats-emojis/"><u>In 2024, Beyond Playfulness A Closer Look at Snapchat's Emojis</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-honor-play-7t-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Honor Play 7T Phone</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-y27-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y27 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcome-iphone-text-limit-errors-how-to-restore-full-typing-capacity/"><u>Overcome iPhone Text Limit Errors – How to Restore Full Typing Capacity</u></a></li>
-<li><a href="https://techidaily.com/remove-nubia-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Nubia unlock screen</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nokia-105-classic-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nokia 105 Classic</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/revolutionize-your-photography-top-rated-and-free-lightzone-software-for-all-platforms/"><u>Revolutionize Your Photography: Top Rated and Free LightZone Software for All Platforms</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 30 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/tips-for-removing-spotifys-auto-suggesting-podcasts/"><u>Tips for Removing Spotify's Auto-Suggesting Podcasts</u></a></li>
-<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-samsung-galaxy-m34-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Samsung Galaxy M34 Screen | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/unveiling-the-powerhouse-a-comprehensive-review-of-the-202-groovycompostsnew-seo-titles-for-apple-macbook-air-m1-chip-apple-m1-chip-inside-the-macbook-air-m22/"><u>Unveiling The Powerhouse: A Comprehensive Review Of The 202 groovy.com/posts/new-seo-titles-for-apple-macbook-air-m1-chip Apple M1 Chip Inside the MacBook Air (Mid-2020)</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>[New] Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-twists-that-tell-stories-mastering-the-art-and-technique-of-spinning-visuals-for-maximum-impact-on-social-media-platforms-for-2024/"><u>[New] Twists That Tell Stories Mastering the Art and Technique of Spinning Visuals for Maximum Impact on Social Media Platforms for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-art-of-blending-digital-canvases/"><u>2024 Approved The Art of Blending Digital Canvases</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-civi-3-disney-100th-anniversary-edition-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Civi 3 Disney 100th Anniversary Edition Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-motorola-edge-40-neo-by-fonelab-android-recover-music/"><u>How to restore wiped music on Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-optimal-youtube-playback-adjusting-speed-settings/"><u>In 2024, Optimal YouTube Playback Adjusting Speed Settings</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/keep-your-v305-printing-fresh-with-windows-updates/"><u>Keep Your V305 Printing Fresh with WIndows Updates</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor .</u></a></li>
 </ul></div>
 
