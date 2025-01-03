@@ -1,7 +1,7 @@
 ---
 title: "AI-Generated Art: Not Everything Is Created By An Algorithm"
-date: 2024-12-28T01:40:26.725Z
-updated: 2025-01-01T16:04:47.602Z
+date: 2025-01-02T08:07:01.843Z
+updated: 2025-01-03T01:46:04.281Z
 tags:
   - web
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Meta recently rolled out a new “Made with AI” tag to help users distinguish between real and AI-generated content. The problem is that the tag appears indiscriminately on images created entirely with AI and those merely edited with AI. This has sparked a debate about how much AI is enough to taint an image and introduced even more confusion about what is real and what is not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  AI Media Is So Real, We Need Help Distinguishing It From Reality
 
  Do you remember that photo of the Pope in the stylish puffer jacket? At first glance, it seemed perfectly normal, and we all thought we had just been sleeping on the pope’s swag. However, it was later revealed that the photo was AI-generated. 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![An AI-generated image of the Pope wearing a puffer jacket](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-ai-generated-image-of-the-pope-wearing-a-puffer-jacket.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Going over it a second time with a fine-toothed comb, [you can tell that the image is AI-generated](https://on-screen-recording.techidaily.com/in-2024-evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/), but that’s exactly the problem—no one is browsing the web with that much intensity.
@@ -40,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  With this in mind, Meta has started labeling AI-generated images uploaded to Facebook, Instagram, and Threads to help people tell them apart with ease. However, not everyone is happy about the way they’ve executed this plan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Meta’s Labeling Lumps AI-Generated and AI-Assisted Together
@@ -56,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 ![A threads post of Mount Fuji-1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-threads-post-of-mount-fuji-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is There a Difference Between AI-Generated and AI-Assisted?
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
  Other people try to find a middle ground, suggesting a separate “AI-assisted” tag for images that have only been minimally altered with AI. However, that idea immediately runs into difficulties. How much AI modification should be allowed until a photo is considered “Made with AI?” And would such a system even serve any purpose? Couldn't a malicious actor just alter a small part of an image with AI to create a misleading scene?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Meta’s AI Labeling Is Not Foolproof
 
  The entire “Made With AI” debate may be a moot point anyway since anyone who wants to could just avoid the tag entirely. Meta relies on information in the photo metadata to identify AI processes, and it is trivially easy to remove it. [PetaPixel](https://petapixel.com/2024/05/28/instagram-photos-are-being-labeled-made-with-ai-when-theyre-not/) found in its testing that simply copy-pasting the image into a blank document was enough to get around the tag, and posting a screenshot of the image also avoids the tag.
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
  The reliability of the labeling is also suspect, as there are several obviously AI-generated images on Meta’s platforms without the tag. In contrast, other images without any AI are slapped with it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  New Standards for Photography Are on the Horizon
@@ -116,16 +116,19 @@ thumbnail: https://thmb.techidaily.com/bb9accbf9aa450f0fe34df3fa6aee3bab970d5d0d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-top-4-techniques-for-effective-hp-laptop-screen-capture-for-2024/"><u>[New] Top 4 Techniques for Effective HP Laptop Screen Capture for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-extract-subtitles-for-free-top-10-tools-reviewed/"><u>[Updated] Extract Subtitles for Free Top 10 Tools Reviewed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-boost-engagement-in-stories-tips-for-adding-smoothly-animated-text/"><u>2024 Approved Boost Engagement in Stories Tips for Adding Smoothly Animated Text</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Reno 9A? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-m6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-bring-your-images-alive-on-android-with-these-5-powerful-editors/"><u>In 2024, Bring Your Images Alive on Android with These 5 Powerful Editors</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/navigating-new-hardware-innovations-on-toms-digital-workshop/"><u>Navigating New Hardware Innovations on Tom's Digital Workshop</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/revive-your-corrupted-video-files-mastering-mp4-and-mov-repairs-with-vlc/"><u>Revive Your Corrupted Video Files: Mastering MP4 and MOV Repairs with VLC</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-m6-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from M6 Pro 5G</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-from-single-shots-to-unified-visions-a-mosaic-story/"><u>[New] From Single Shots to Unified Visions A Mosaic Story</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-essential-list-premium-free-video-player-apps-pc-and-mobile/"><u>[New] In 2024, Essential List Premium Free Video Player Apps (PC & Mobile)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-premium-cameras-of-2024/"><u>[Updated] Unveiling the Premium Cameras of 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-unveilingnextgencameratech/"><u>2024 Approved UnveilingNextGenCameraTech</u></a></li>
+<li><a href="https://article-files.techidaily.com/achieving-visual-excellence-with-the-best-4k-monitors-on-the-market-for-2024/"><u>Achieving Visual Excellence with the Best 4K Monitors on the Market for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/budget-friendly-powerhouse-a-review-of-dell-g5-5090s-exceptional-performance-and-wide-range-of-features/"><u>Budget-Friendly Powerhouse: A Review of Dell G5 5090'S Exceptional Performance & Wide Range of Features</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-k70-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-tailoring-the-perfect-video-recording-and-post-production-with-adobe-connect/"><u>In 2024, Tailoring the Perfect Video Recording and Post-Production with Adobe Connect</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-c65-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco C65 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/rising-to-the-top-mastering-frame-rates-and-fixing-low-valorant-fps-on-windows/"><u>Rising to the Top: Mastering Frame Rates and Fixing Low Valorant FPS on Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-11-proplus-by-fonelab-android-recover-music/"><u>Undelete lost music from 11 Pro+</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x-fold-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X Fold 2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

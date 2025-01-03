@@ -1,7 +1,7 @@
 ---
 title: Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine
-date: 2024-12-27T02:26:05.324Z
-updated: 2025-01-02T11:04:42.933Z
+date: 2024-12-28T05:45:30.498Z
+updated: 2025-01-03T03:00:02.033Z
 tags:
   - desktop
 categories:
@@ -12,13 +12,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Quickly Lock Your Window's Desktop via Command Prompt on a Windows 11 Machine
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [Lock Your Windows 10 PC Using Command Prompt](https://vp-tips.techidaily.com/new-audiovisual-adaptability-in-free-fire-for-2024/)
 * [Set the Lock Screen Timeout Setting Using Command Prompt](https://eaxpv-info.techidaily.com/new-finding-a-different-way-to-naming-your-channel-with-filmora-for-2024/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,7 +39,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Click the Start button, search for 'cmd,' then open 'Command Prompt.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-cmd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Command Prompt will now open. Here, run this command to lock your Windows 10 PC.
@@ -44,14 +48,10 @@ Rundll32.exe user32.dll,LockWorkStation
 
 ![Locking your PC with Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-lock-pc-command-prompt.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once executed, your PC will be locked. You'll have to sign back in with your PIN, password, or whatever sign-in method you usually use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Set the Lock Screen Timeout Setting Using Command Prompt
@@ -72,10 +72,6 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 
 ![Change the timeout to 120.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-changing-timeout-to-120.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This command sets the lock screen timeout setting for your PC if it’s plugged in to a power source. To set the lock screen timeout setting for your PC if it’s running on battery, change`/SETACVALUEINDEX` to`/SETDCVALUEINDEX` and run the command as normal.
 
  Next, run this command:
@@ -83,6 +79,10 @@ powercfg.exe /SETACVALUEINDEX SCHEME_CURRENT SUB_VIDEO VIDEOCONLOCK 120
 powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 ![Apply the setting to the currently active scheme.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-set-active.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now your [lock screen](https://driver-download.techidaily.com/1722977751917-synaptics-drivers-download-and-update-for-windows-easily/) will timeout after the set amount of time. Give it a try!
 
@@ -101,18 +101,24 @@ powercfg.exe /SETACTIVE SCHEME_CURRENT
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-elaborate-evaluation-of-uncomplicated-hdr-techniques/"><u>[New] 2024 Approved Elaborate Evaluation of Uncomplicated HDR Techniques</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-the-essentials-of-creating-a-personalized-twitter-account/"><u>[New] 2024 Approved The Essentials of Creating a Personalized Twitter Account</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-jump-to-youtube-affiliate-ranking-with-a-swift-10000-views/"><u>[Updated] Jump to YouTube Affiliate Ranking with a Swift 10,000 Views</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>2024 Approved The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
-<li><a href="https://extra-information.techidaily.com/concealed-countenance-the-most-effective-blur-methods-for-2024/"><u>Concealed Countenance The Most Effective Blur Methods for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fixing-inactive-windows-headsets-communication-line/"><u>Fixing Inactive Windows Headset's Communication Line</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-lava-agni-2-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Agni 2 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G Stylus (2023)? | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-selecting-the-perfect-wedding-countdown-clock-for-android-and-ios-devices/"><u>In 2024, Selecting the Perfect Wedding Countdown Clock for Android & iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/is-your-meizu-21-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Meizu 21 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-tecno-by-fonelab-android-recover-data/"><u>The way to get back lost data from Tecno</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/toshiba-bluetooth-adapter-driver-free-download/"><u>Toshiba Bluetooth Adapter Driver – Free Download</u></a></li>
-<li><a href="https://win-web.techidaily.com/why-does-my-pc-get-hot-and-how-can-i-prevent-it-tips-by-yl-computing/"><u>Why Does My PC Get Hot, and How Can I Prevent It? - Tips by YL Computing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-the-insiders-guide-to-crafting-insta-tones/"><u>[New] In 2024, The Insider's Guide to Crafting Insta Tones</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-10-highly-trusted-free-video-communication-tools-with-security-features/"><u>[Updated] 2024 Approved 10 Highly-Trusted Free Video Communication Tools with Security Features</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-step-by-step-guide-to-posting-on-instagram-for-2024/"><u>[Updated] A Step-by-Step Guide to Posting on Instagram for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-p40plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P40+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/go-big-or-go-home-selecting-the-most-satisfying-1tbplus-cloud-services-for-2024/"><u>Go Big or Go Home - Selecting the Most Satisfying 1TB+ Cloud Services for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-does-photodna-thwart-digital-image-theft/"><u>How Does PhotoDNA Thwart Digital Image Theft?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-7-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 7 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S23 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/1723862695493-huge-savings-opportunity-snag-an-alienware-m18-r2-laptop-powered-by-rtx-4090-for-700-less/"><u>Huge Savings Opportunity: Snag an Alienware M18 R2 Laptop Powered by RTX 4090 for $700 Less</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-hits-and-misses-the-photographers-account/"><u>In 2024, Hits and Misses The Photographer's Account</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y100-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Y100 5G</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revolutionize-your-click-experience-ranking-the-best-wireless-mice-innovations-of-2024/"><u>Revolutionize Your Click Experience: Ranking the Best Wireless Mice Innovations of 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-method-for-resetting-and-deleting-iphone-data-safely/"><u>The Ultimate Method for Resetting and Deleting iPhone Data Safely</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-hot-40i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Hot 40i</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic5-ultimate-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-a60s-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel A60s.</u></a></li>
 </ul></div>
 

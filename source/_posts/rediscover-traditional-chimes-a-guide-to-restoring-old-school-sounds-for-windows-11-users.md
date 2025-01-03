@@ -1,7 +1,7 @@
 ---
 title: "Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users"
-date: 2024-12-26T11:22:29.669Z
-updated: 2025-01-01T19:07:02.558Z
+date: 2024-12-31T06:29:39.387Z
+updated: 2025-01-03T09:08:58.823Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 ---
 
 ## Rediscover Traditional Chimes: A Guide to Restoring Old School Sounds for Windows 11 Users
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d49ac0ed6459e7c8336f6b1a049bd052597f67371
 * To change the system sounds, open the sound settings, pick the Windows event, and switch it with the appropriate one in the sound pack.
 
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Get Sound Packs of Old Windows Sounds
 
@@ -55,10 +47,6 @@ Close
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Change System Sounds in Settings
 
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
@@ -66,7 +54,7 @@ Close
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
@@ -77,11 +65,23 @@ Close
 
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Enable Changing the Login Sound
 
@@ -96,7 +96,7 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
@@ -128,17 +128,14 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-speedy-solutions-snapshots-of-slideshows/"><u>[New] In 2024, Speedy Solutions Snapshots of Slideshows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-stabilize-your-lens-no-trips-only-tricks/"><u>[Updated] Stabilize Your Lens No Trips, Only Tricks</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-poco-m6-pro-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco M6 Pro 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x90s-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X90S to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-free-dailymotion-converter-download-and-convert-videos-in-seconds/"><u>New In 2024, Free Dailymotion Converter Download and Convert Videos in Seconds</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-shrink-mpeg2-files-download-virtualdub-for-video-compression-for-2024/"><u>New Shrink MPEG2 Files Download VirtualDub for Video Compression for 2024</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723341750233-psychological-support-can-play-a-significant-role-in-recovery-addressing-the-mental-health-impacts-of-ocular-trauma/"><u>Psychological Support Can Play a Significant Role in Recovery, Addressing the Mental Health Impacts of Ocular Trauma</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-nokia-c12-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Nokia C12 Pro without backup.</u></a></li>
-<li><a href="https://win-forum.techidaily.com/understanding-bios-an-in-depth-guide/"><u>Understanding BIOS: An In-Depth Guide</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-windows-media-player-guide-to-cd-ripping-and-burning/"><u>[New] In 2024, Windows Media Player Guide to CD Ripping and Burning</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a14-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A14 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Max Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-honor-magic-5-by-drfone-android/"><u>In 2024, How to Bypass FRP on Honor Magic 5?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-play-7t-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Play 7T To Phone | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/seamlessly-upgrade-azw3-books-to-digital-readers-friendly-epub-format-without-drm-restrictions/"><u>Seamlessly Upgrade AZW3 Books to Digital Readers-Friendly ePub Format Without DRM Restrictions</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-x5-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from X5</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-rated-bi-directional-folder-synchronization-tools-for-windows/"><u>Top Rated Bi-Directional Folder Synchronization Tools for Windows</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50 GT Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

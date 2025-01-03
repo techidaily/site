@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2024-12-26T22:07:08.564Z
-updated: 2025-01-02T03:24:43.877Z
+date: 2024-12-31T05:09:44.824Z
+updated: 2025-01-02T17:27:56.249Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -54,12 +54,16 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -79,11 +83,11 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-Dave McKay/How-To Geek
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Dave McKay/How-To Geek
 
 ##  Linus Torvalds and Freax
 
@@ -98,7 +102,7 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -116,10 +120,6 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -142,24 +142,22 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-marketers-edge-essential-tools-to-upgrade-instagram-videos/"><u>[New] The Marketer's Edge Essential Tools to Upgrade Instagram Videos</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-advanced-tips-for-effective-google-podcast-sharing/"><u>[Updated] In 2024, Advanced Tips for Effective Google Podcast Sharing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-upgrade-your-channels-visual-appeal/"><u>[Updated] Upgrade Your Channel's Visual Appeal</u></a></li>
-<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-honor-100-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Honor 100 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-xs-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone XS Data Completely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a54-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A54 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-8-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 8 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-track-imei-number-of-samsung-galaxy-s23-fe-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Samsung Galaxy S23 FE Through Google Earth?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-adjust-your-screen-with-confidence-and-ease-iphone/"><u>In 2024, Adjust Your Screen with Confidence and Ease (iPhone)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>In 2024, Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/leverage-free-luts-to-upgrade-your-obs-video-production-quality/"><u>Leverage Free LUTs to Upgrade Your OBS Video Production Quality</u></a></li>
-<li><a href="https://techidaily.com/sign-ott-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .ott file Documents Online for Free</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-razr-40-ultra-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-mystic-art-of-invisible-storytelling-on-snapchat/"><u>The Mystic Art of Invisible Storytelling on Snapchat</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/yl-softwares-guide-to-confidentially-checking-your-bitcoin-address-balance-the-ultimate-tool-for-digital-security/"><u>YL Software’s Guide to Confidentially Checking Your Bitcoin Address Balance – The Ultimate Tool for Digital Security</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-mirrorless-evolution-overshadowing-traditional-dslr-videography/"><u>[New] 2024 Approved Mirrorless Evolution Overshadowing Traditional DSLR Videography</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-aural-enhancement-for-your-inshot-clips/"><u>[Updated] Aural Enhancement for Your Inshot Clips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-guide-to-idevice-based-youtube-content-sharing/"><u>2024 Approved Guide to iDevice-Based YouTube Content Sharing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic5-ultimate-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic5 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-12-mini-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 12 mini Screen with PC | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-from-high-speed-to-serenity-making-captivating-slow-movies-on-instagram/"><u>In 2024, From High-Speed to Serenity Making Captivating Slow Movies on Instagram</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-sound-from-speakers-in-windows-heres-how-you-can-get-them-working-again/"><u>No Sound From Speakers in Windows? Here's How You Can Get Them Working Again</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-zte-blade-a73-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from ZTE Blade A73 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-code-28-fixing-device-manager-problems-easily/"><u>Troubleshooting Windows Code 28: Fixing Device Manager Problems Easily</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-kobo-nia-the-rising-star-in-ebook-readers-against-kindle/"><u>Unveiling Kobo Nia: The Rising Star in Ebook Readers Against Kindle</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-narzo-60-pro-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Narzo 60 Pro 5G?</u></a></li>
+<li><a href="https://techidaily.com/vivo-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo support - Turn Off Screen Lock.</u></a></li>
 </ul></div>
 

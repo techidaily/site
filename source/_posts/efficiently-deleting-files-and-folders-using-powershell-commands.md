@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2024-12-27T02:21:20.739Z
-updated: 2025-01-02T09:14:55.534Z
+date: 2024-12-27T07:39:55.831Z
+updated: 2025-01-02T18:50:47.925Z
 tags:
   - deals
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete All Files From a Folder and Its Subfolders](https://win-able.techidaily.com/how-i-finally-managed-to-start-rocket-league-after-persistent-problems/)
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To delete a file or folder, use the "Remove-Item PATH" cmdlet in PowerShell. In this command, replace "PATH" with the full path to the file or folder you want to remove.
@@ -31,10 +27,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * To remove all files from a folder and its subfolders, use the "Remove-Item PATH -Recurse -Include \*.\*" command, replacing "PATH" with the full path to your parent folder.
 
  PowerShell offers a straightforward way to delete files and folders on your Windows 11 or Windows 10 PC. You can remove folders, all files inside a folder, specific files from the specified directory, and so on using just a few commands. Here's how to do that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Before You Begin: How to Find a File or Folder’s Full Path
 
@@ -60,13 +52,13 @@ Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 ![The 'Remove-Item' cmdlet to delete a file in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-delete-file-powershell.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note that the command won’t ask for a confirmation before deleting your file. If you’d like the command to do that, add the "Confirm" parameter as follows:
 
 Remove-Item "C:\Users\username\Desktop\Old-List.txt" -Confirm
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Delete a Specific Folder Using PowerShell
 
@@ -85,7 +77,11 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files in a Folder But Keep the Folder
@@ -104,6 +100,10 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
 
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Delete All Files From a Folder and Its Subfolders
 
  If you’re looking to remove all files from a folder and its subfolders, add the "Recurse" and "Include" parameters to the "Remove-Item" cmdlet.
@@ -121,7 +121,7 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -161,22 +161,16 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-illuminate-your-recording-setup-how-to-prevent-a-dark-screen-on-obs/"><u>[New] 2024 Approved Illuminate Your Recording Setup How to Prevent a Dark Screen on OBS</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-superb-costless-video-rendezvous-games/"><u>[New] In 2024, Superb Costless Video Rendezvous Games</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/outube-shorts-content-strategy-for-success/"><u>[New] YouTube Shorts Content Strategy for Success</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-iphone-11-pro-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On iPhone 11 Pro Online</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96476478-9780880504287-born-with-a-question-mark-in-your-heart/"><u>Born With a Question Mark in Your Heart | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/easy-fix-for-the-windows-11-installation-failed-with-error-code-80240020-your-guide/"><u>Easy Fix for the Windows 11 Installation Failed with Error Code 80240020 - Your Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-lava-yuva-2-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Yuva 2 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Vivo T2x 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-civi-3-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Civi 3</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wbk-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wbk file documents online</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-oneplus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from OnePlus</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-note-30-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Note 30 without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a15-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A15 4G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-ranking-2-in-1-laptop-reviews-surprising-non-hp-and-lenovo-contenders-featured/"><u>Top Ranking 2-in-1 Laptop Reviews: Surprising Non-HP and Lenovo Contenders Featured</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-motorola-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Motorola password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/vivo-t2-5g-music-recovery-recover-deleted-music-from-vivo-t2-5g-by-fonelab-android-recover-music/"><u>Vivo T2 5G Music Recovery - Recover Deleted Music from Vivo T2 5G</u></a></li>
-<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-12-pro-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 12 Pro?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-best-gopro-accessories-for-beginners/"><u>[Updated] Best GoPro Accessories for Beginners</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-unveiling-the-art-of-itunes-video-capture/"><u>[Updated] Unveiling the Art of iTunes Video Capture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-youtube-streaming-made-simple-with-obs-guidebook/"><u>2024 Approved Youtube Streaming Made Simple with OBS Guidebook</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-triumph-with-apple-vision-pro-seven-key-improvements-insights-by-zdnet-exclusive/"><u>Achieving Triumph with Apple Vision Pro: Seven Key Improvements - Insights by ZDNet Exclusive</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-3-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 3 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-samsung-galaxy-m54-5g-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Samsung Galaxy M54 5G online without jailbreak</u></a></li>
+<li><a href="https://techidaily.com/remove-poco-lock-screen-without-password-poco-c65-by-drfone-android-unlock-android-unlock/"><u>Remove Poco Lock Screen without Password(Poco C65)</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-f5-pro-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from F5 Pro 5G</u></a></li>
+<li><a href="https://fox-that.techidaily.com/the-ultimate-guide-solving-hey-siri-problems-for-a-smoother-iphone-experience/"><u>The Ultimate Guide: Solving 'Hey Siri' Problems for a Smoother iPhone Experience</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-magic-vs-2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Magic Vs 2</u></a></li>
 </ul></div>
 

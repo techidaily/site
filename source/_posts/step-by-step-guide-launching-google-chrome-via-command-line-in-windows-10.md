@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10"
-date: 2024-12-29T06:39:01.197Z
-updated: 2025-01-01T19:27:30.836Z
+date: 2024-12-29T20:33:32.389Z
+updated: 2025-01-03T05:22:02.457Z
 tags:
   - deals
 categories:
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In Command Prompt, run the following command:
 
         `start chrome`
@@ -51,13 +47,13 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The web browser will now open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
@@ -70,11 +66,11 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll now be running Chrome as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Chrome in Incognito Mode
 
@@ -84,6 +80,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Start Google Chrome with the /incognito flag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-opening-chrome-in-incognito-mode.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To do this from the Run program, enter this command instead:
 
 `chrome /incognito` 
@@ -91,6 +91,10 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
  Chrome will now open in incognito mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -110,25 +114,21 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Combining incognito with a specific website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-incog-specific-site.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can achieve the same goal using Run by using this command:
 
 `chrome www.howtogeek.com` 
 
 ![Opening Chrome to a specific website using a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/9-run-howtogeek.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or, to open the site in incognito mode, use:
 
 `chrome /incognito www.howtogeek.com` 
 
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
 
@@ -147,20 +147,19 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ltimate-guide-to-the-most-effective-16-youtube-intros-for-2024/"><u>[New] Ultimate Guide to the Most Effective 16 YouTube Intros for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-100-free-windows-screen-capture-guides-and-methods/"><u>[Updated] In 2024, 100% Free Windows Screen Capture Guides & Methods</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-maximizing-virtual-reality-potential-for-2024/"><u>[Updated] Maximizing Virtual Reality Potential for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/generative-chatbot-face-off-unveiling-superior-bot-winner/"><u>Generative Chatbot Face-Off: Unveiling Superior Bot Winner</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-nord-n30-se-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Nord N30 SE Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-the-netgear-nighthawk-ax8-mesh-range-extender-shapes-up-in-the-era-of-wi-fi-6-an-essential-review/"><u>How the Netgear Nighthawk AX8 Mesh Range Extender Shapes Up in the Era of Wi-Fi 6 – An Essential Review</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-13t-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 13T without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-c55-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C55 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Nubia Red Magic 9 Pro+? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/instagram-mastery-the-top-10-steps-to-optimize-engagement/"><u>Instagram Mastery The Top 10 Steps to Optimize Engagement</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-honor-magic-6-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Honor Magic 6</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/topeightunleashed-cutting-edge-4k-blu-ray-systems/"><u>TopEightUnleashed Cutting-Edge 4K Blu-Ray Systems</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-8-best-music-production-software-for-mac-and-windows/"><u>Updated 2024 Approved 8 Best Music Production Software for Mac and Windows</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-eight-powerful-devices-for-prospective-filmora-alternatives/"><u>[New] Eight Powerful Devices for Prospective Filmora Alternatives</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-novice-to-nirvana-transform-your-instagram-edits/"><u>[New] From Novice to Nirvana Transform Your Instagram Edits</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-quick-guide-extracting-specific-segments-from-youtube/"><u>[Updated] 2024 Approved Quick Guide Extracting Specific Segments From YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-bypass-youtubes-short-video-playback-on-all-devices/"><u>2024 Approved Bypass YouTube's Short Video Playback on All Devices</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-gt-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix GT 10 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-6-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 6 Plus to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-oppo-find-n3-flip-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Oppo Find N3 Flip</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-luts-perfectly-in-final-cut-pro/"><u>New 2024 Approved How to Use LUTs Perfectly in Final Cut Pro</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-secrets-of-aether-revealed-what-it-is-and-how-you-can-join/"><u>The Secrets of Aether Revealed: What It Is & How You Can Join</u></a></li>
+<li><a href="https://win-dash.techidaily.com/troubleshooting-and-fixing-xbox-gaming-device-driver-errors-on-multiple-windows-versions/"><u>Troubleshooting and Fixing Xbox Gaming Device Driver Errors on Multiple Windows Versions</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme 11 5G.</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-pro-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 Pro lock with iTunes</u></a></li>
 </ul></div>
 

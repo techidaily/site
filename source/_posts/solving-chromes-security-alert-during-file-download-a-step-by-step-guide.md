@@ -1,7 +1,7 @@
 ---
 title: "Solving Chrome's Security Alert During File Download: A Step-by-Step Guide"
-date: 2024-12-25T22:05:33.881Z
-updated: 2025-01-02T01:57:28.903Z
+date: 2024-12-30T20:29:39.274Z
+updated: 2025-01-02T20:43:52.227Z
 tags:
   - desktop
 categories:
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 * [Temporarily Disable the Security Program](https://fox-boxes.techidaily.com/2024-approved-photography-tips-for-iphone/)
 * [Disable Virus Scanning for Downloads](https://extra-approaches.techidaily.com/updated-mobile-mastery-high-shots-with-your-smartphone/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The best way to avoid the "Failed - Virus Detected" message in Chrome is to download your files straight from the official website, not some random third-party site.
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 * You can get rid of the message by disabling Chrome's security, turning off your antivirus, and tweaking the registry settings for your system's security.
 
  Sometimes, you might see the message "Failed - Virus Detected" when you try to download a file on Google Chrome. What does this message mean? Is it safe to bypass it? And how can you do that? Here's everything you need to know.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Chrome Shows the "Failed - Virus Detected" Message
 
@@ -50,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Download link on the VirusTotal website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-link-on-the-virustotal-website.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The website will scan the file for you. If the results show that the file contains malicious code, then Chrome was correct with its message, and you should not download the file. However, if the results show the file is safe, then it means that Chrome probably raised a false alarm.
@@ -59,16 +51,12 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
  In such a case, you can proceed with downloading the file. Unfortunately, there isn't any one-click button to ignore this message and download the file. You'll need to make a few important changes to bypass this message.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Bypass Chrome's "Failed - Virus Detection" Message
 
  Once you're reasonably sure that Chrome is raising a false alarm and the file you are trying to download is safe, then you can bypass the "Failed - Virus Detection" message to download the file to your computer. You can perform a few different workarounds to bypass this message, depending on what's causing it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Change Chrome's Security Settings
@@ -79,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Settings option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/settings-option-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the left side of the Settings page, click "Privacy and Security," then choose "Security" on the right.
 
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
@@ -87,16 +79,24 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Turn Off" in the confirmation that appears.
 
 ![Turn Off option in the Turn off Safe Browsing prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-option-in-the-turn-off-safe-browsing-prompt.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
 
 ![Standard Protection option Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/standard-protection-option-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  2\. Temporarily Disable the Security Program
@@ -127,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Typing Registry Editor in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-registry-editor-in-the-start-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Registry Editor, navigate to the following location:
 
         `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies`
@@ -138,6 +134,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  On the left sidebar, right-click the "Policies" key, hover over "New," and then select "Key."
 
 ![Key Option in the Registry Option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/key-option-in-the-registry-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Type **attachments** into the field to name the new key. Then, right-click the "Attachments" key, hover over "New" and choose "DWORD (32-bit) Value."
 
@@ -154,7 +154,7 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Typing 0 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-0-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -180,14 +180,18 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-utilizing-in-presentation-speech-to-text-functionality-in-powerpoint/"><u>[Updated] 2024 Approved Utilizing In-Presentation Speech-to-Text Functionality in PowerPoint</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y36i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y36i | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-correctly-solve-the-persistent-error-0x803f8001-on-your-minecraft-launcher-for-modern-windows-versions/"><u>How to Correctly Solve the Persistent 'Error 0X803f8001' On Your Minecraft Launcher for Modern Windows Versions</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-11r-phone-without-pin-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 11R Phone without PIN</u></a></li>
-<li><a href="https://extra-information.techidaily.com/quick-file-integration-from-pc-to-iphone/"><u>Quick File Integration From PC to iPhone</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-your-terminal-visual-element/"><u>Upgrade Your Terminal Visual Element</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://techidaily.com/vivo-data-retrieval-tool-restore-lost-data-from-vivo-x-flip-by-fonelab-android-recover-data/"><u>Vivo Data Retrieval tool – restore lost data from Vivo X Flip</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-twists-that-tell-stories-crafting-captivating-visual-narratives-on-instagram-platforms/"><u>[New] Twists That Tell Stories Crafting Captivating Visual Narratives on Instagram Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-discovering-the-best-screen-recorder-obs-studio-vs-fraps/"><u>[Updated] Discovering the Best Screen Recorder OBS Studio Vs Fraps</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-ultimate-selection-of-cost-free-high-quality-video-editors/"><u>[Updated] In 2024, The Ultimate Selection of Cost-Free, High-Quality Video Editors</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-flawless-photography-with-picarts-background-erasure-tricks/"><u>2024 Approved Flawless Photography with PicArt’s Background Erasure Tricks</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/disney-pluss-most-popular-movie-selection-for-now/"><u>Disney Plus's Most Popular Movie Selection for Now</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g34-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G34 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-14-ultra-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi 14 Ultra to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-yokus-island-express-where-great-odysseys-begin/"><u>In-Depth Look at Yoku's Island Express: Where Great Odysseys Begin</u></a></li>
+<li><a href="https://extra-support.techidaily.com/inside-the-innovations-a-detailed-look-at-powerdirector-24-release-for-2024/"><u>Inside the Innovations A Detailed Look at PowerDirector '24 Release for 2024</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y100i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-s17-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of S17 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-11-proplus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme 11 Pro+</u></a></li>
 </ul></div>
 

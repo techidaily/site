@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2024-12-25T23:13:26.843Z
-updated: 2025-01-02T06:48:23.505Z
+date: 2024-12-26T20:43:30.871Z
+updated: 2025-01-03T04:46:53.382Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 ## Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
@@ -57,10 +61,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
@@ -70,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -87,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
@@ -95,20 +95,20 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
 ![Joystick settings for Steam controllers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-11.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When you're sure that Steam is reading your controller correctly, you can check a game in your Library to see if the game supports a controller in general and if it supports the DualSense 5\. Do this by checking the "Controller" section to the right.
 
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -138,18 +138,24 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/0plus-catchy-cooking-channel-names-to-attract-more-audience/"><u>[New] 80+ Catchy Cooking Channel Names to Attract More Audience</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-the-rotation-revelation-manual-transform-your-visual-content-on-social-media-sites-for-2024/"><u>[New] The Rotation Revelation Manual Transform Your Visual Content on Social Media Sites for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-your-world-no-cost-screen-recording-apps-for-pcmac/"><u>Capture Your World No-Cost Screen Recording Apps for PC/Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-your-windows-microphone-mute-status-in-google-meet/"><u>Fixing Your Windows Microphone Mute Status in Google Meet</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-xs-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone XS Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-7-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-plus-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 Plus to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/infusing-interactive-elements-incorrante-youtube-music-into-videography-for-2024/"><u>Infusing Interactive Elements Incorrante YouTube Music Into Videography for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF File using PDF Repair Tool | Stellar</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/youtubes-first-visual-hook-creating-personalized-thumbnails-for-2024/"><u>YouTube's First Visual Hook Creating Personalized Thumbnails for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-full-spectrum-kinetics-examination/"><u>[Updated] Full Spectrum Kinetics Examination</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-top-5-agile-camcorders-for-adventure-selections/"><u>[Updated] Key Top 5 Agile Camcorders for Adventure Selections</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-13c-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi 13C 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v27e-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V27e Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-strategies-for-repairing-missing-lib402dll-and-access-issues-on-your-computer/"><u>Effective Strategies for Repairing Missing lib402.dll and Access Issues on Your Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enablingdisabling-picture-in-picture-a-step-by-step-guide-for-iphones/"><u>Enabling/Disabling Picture-in-Picture A Step-by-Step Guide for iPhones</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-pova-6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-edge-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Android? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-search-of-excellence-top-10-4k-displays/"><u>In Search of Excellence #Top 10 4K Displays</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-update-process-how-to-get-the-newest-ios-version-on-your-device/"><u>Mastering the Update Process: How To Get The Newest iOS Version On Your Device</u></a></li>
+<li><a href="https://techidaily.com/sony-xperia-5-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 5 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-meizu-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Meizu without backup.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-to-transferring-and-watching-your-dvds-on-any-android-tv-device/"><u>Ultimate Guide to Transferring and Watching Your DVDs on Any Android TV Device</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 11/10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visually-dominating-podcast-identities-via-logo-designs/"><u>Visually Dominating Podcast Identities via Logo Designs</u></a></li>
 </ul></div>
 

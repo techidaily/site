@@ -1,7 +1,7 @@
 ---
 title: "Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows"
-date: 2024-12-29T07:23:43.876Z
-updated: 2025-01-01T22:52:28.723Z
+date: 2024-12-29T02:02:14.920Z
+updated: 2025-01-03T05:31:47.609Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 ---
 
 ## Preserving Your Group Policy Preferences: A Step-by-Step Guide to Backing Up GPOs in Windows
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
 * [How to Back Up and Restore the Local Group Policy Editor Settings Using LGPO](https://fake-location.techidaily.com/will-ispoofer-update-on-oppo-f23-5g-drfone-by-drfone-virtual-android/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -38,6 +42,10 @@ thumbnail: https://thmb.techidaily.com/1323edf73cef5ddeb6760a28b46d407c0ed89a315
  Because the Local Group Policy Editor manages a wide range of necessary settings, it's important to back it up. Doing so gives you the freedom to try out different apps, unstable Windows releases, and experimental features without worrying about losing your settings. Even if something goes wrong, you can quickly restore the Local Group Policy Editor settings to bring your computer back to a known good state.
 
  It also means that you can transfer the settings to another machine, if you have got a new computer or want to deploy the same configuration across multiple systems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Back Up Local Group Policy Editor Settings With File Explorer
 
@@ -74,18 +82,18 @@ attrib -H -S "%BACKUP_DIR%\*.*" /S /D`
 
 ![All files option in Notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/all-files.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, to back up your Local Group Policy Editor settings, go to the location where you saved the batch file, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on it, and choose "Run as administrator". This will create a new folder named "Local Group Policy Editor settings back up folder", which will contain all of your settings.
 
 ![Run as admin option in context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-as-admin-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You will need to run the batch file again each time you change the Local Group Policy Editor settings, since the two aren't synced.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Back Up Local Group Policy Editor Settings With a PowerShell Script
@@ -128,6 +136,10 @@ while ($true) {
 
 ![When the computer starts option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/when-the-computer-starts.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the Action tab, choose "Start a program" and click "Next".
 
 ![Start a program in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/start-a-program.jpg) 
@@ -146,15 +158,7 @@ while ($true) {
 
 ![Finish option in Task Scheduler](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/finish-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, whenever you change the Local Group Policy settings, the script runs automatically and saves the changes to the "Group Policy Backup" folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Restore the Local Group Policy Editor Settings
 
@@ -168,7 +172,7 @@ while ($true) {
 ![GroupPolicy folder in the C drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/grouppolicy-folder.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Back Up and Restore the Local Group Policy Editor Settings Using LGPO
@@ -179,10 +183,6 @@ while ($true) {
 
 ![Download option in Microsoft Site](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/download.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the file is downloaded, [extract it](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) somewhere on your computer. Then, open the extracted folder, copy the LGPO.exe file, and paste it in the following location:
 
         `C:\Windows\System32`
@@ -190,7 +190,7 @@ while ($true) {
 ![LGPO File in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lgpo-file.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Open the Start menu, type "Command Prompt" in the search bar, and click "Run as administrator". Type the following command in Command Prompt and press Enter. Replace "<backup\_folder\_address>" with the address of the folder where you want the utility to back up the Local Group Policy Editor settings.
@@ -199,13 +199,13 @@ while ($true) {
     
 ![LGPO command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/lgpo-command.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, open the backup folder, and you will see a folder with a random GUID name containing the settings. [Copy the folder to a pen drive](https://facebook-video-recording.techidaily.com/updated-introducing-top-tier-facebook-update-insights-for-2024/) or hard drive and move it to your new computer.
 
 ![GUID name folder in File Explorer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/guid-name-folder.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To restore local GPO settings on your new computer, open Command Prompt as administrative rights on your new computer, type the following command, and press Enter. Replace "<GUID\_folder\_address>" with the address where you have saved the backup folder.
 
@@ -234,24 +234,21 @@ while ($true) {
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-compact-cities-for-a-sustainable-future-for-2024/"><u>[New] Crafting Compact Cities for a Sustainable Future for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unleashing-potential-in-screen-recording-expertise-in-adobe-captivate/"><u>[New] In 2024, Unleashing Potential in Screen Recording Expertise in Adobe Captivate</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/aster-non-youtube-editors-the-top-5-list-you-need-for-2024/"><u>[New] Master Non-Youtube Editors The Top 5 List You Need for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-get-the-best-of-both-worlds-with-top-asymmetric-microphones/"><u>[Updated] Get the Best of Both Worlds with Top Asymmetric Microphones</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-memetic-innovations-ideas-that-delight-any-audience/"><u>2024 Approved Memetic Innovations Ideas That Delight Any Audience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ultimate-biking-experience-index/"><u>2024 Approved Ultimate Biking Experience Index</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-itel-p55-device-sim-by-drfone-android/"><u>Easily Unlock Your Itel P55 Device SIM</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-what-to-do-if-your-system-wont-turn-on/"><u>Fixing the Issue: What to Do If Your System Won't Turn On</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-infinix-hot-40i-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Hot 40i in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-13-mini-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-a56s-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo A56s 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/online-converter-vrije-3gpp-in-3gp-metgrens-door-movavi/"><u>Online Converter: Vrije 3GPP in 3GP Metgrens Door Movavi</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-a2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Xiaomi Redmi A2</u></a></li>
-<li><a href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-magic5-ultimate-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor Magic5 Ultimate)</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-wps-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .wps file documents online</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Blaze Curve 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-moto-g-stylus-2023-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Moto G Stylus (2023)</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-which-video-editor-reigns-supreme-final-cut-pro-vs-lumafusion-review/"><u>Updated Which Video Editor Reigns Supreme? Final Cut Pro vs LumaFusion Review</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-perfecting-your-phones-capability-for-youtube-thumbnail-creation/"><u>[Updated] 2024 Approved Perfecting Your Phone's Capability for YouTube Thumbnail Creation</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unravel-the-mysteries-of-morphvox-the-ultimate-guide-to-voice-modification/"><u>[Updated] Unravel the Mysteries of MorphVOX The Ultimate Guide to Voice Modification</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/best-hit-tracks-of-2015-the-ultimate-playlist-you-need/"><u>Best Hit Tracks of 2015: The Ultimate Playlist You Need</u></a></li>
+<li><a href="https://win11.techidaily.com/exclusive-access-to-recently-opened-files-on-windows/"><u>Exclusive Access to Recently Opened Files on Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gourmet-guide-mastering-nutritious-recipes-with-ai/"><u>Gourmet Guide: Mastering Nutritious Recipes with AI</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oneplus-12-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus 12 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-ai-portrait-generator-getting-closer-to-the-artistic-marvels/"><u>New 2024 Approved AI Portrait Generator Getting Closer to the Artistic Marvels</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-11-pro-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of 11 Pro</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/social-media-meets-artificial-intelligence-which-to-choose/"><u>Social Media Meets Artificial Intelligence: Which to Choose?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ins-and-outs-of-ai-prompt-engineering-is-it-the-future-for-job-seekers/"><u>The Ins and Outs of AI Prompt Engineering – Is It the Future for Job Seekers?</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-x8b-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor X8b Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-tips-resolving-issues-with-paramountplus-streaming-on-your-amazon-fire-tv-stick/"><u>Troubleshooting Tips: Resolving Issues with Paramount+ Streaming on Your Amazon Fire TV Stick</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-oppo-a18-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Oppo A18.</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 10</u></a></li>
 </ul></div>
 

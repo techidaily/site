@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2024-12-31T20:27:48.830Z
-updated: 2025-01-01T21:36:27.907Z
+date: 2024-12-28T21:31:57.487Z
+updated: 2025-01-03T05:53:25.223Z
 tags:
   - mobile
 categories:
@@ -13,13 +13,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Putting a phone in a mount on your bike works fine, but it's not great. The biggest problem is you run the risk of damaging the phone's camera. I wanted a map and media controls easily accessible without strapping my phone to my bike. A wild idea became a reality: What if my bike had an Android Auto display?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Why Not Just Mount Your Phone?
 
 ![Bone Tie 4 Pro bike mount on a road bike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/bone-tie4-mount.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Bone 
 
@@ -32,16 +32,12 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -52,12 +48,16 @@ Joe Fedewa / How-To Geek
  Android Auto is the perfect solution because it's essentially just a display for my phone, which I can keep safely in my pocket. But how does it work?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How It Works and What You Need
 
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -68,7 +68,7 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -94,18 +94,16 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/024-approved-cutting-edge-concepts-for-captivating-youtube-video-thumbnails/"><u>[New] 2024 Approved Cutting-Edge Concepts for Captivating YouTube Video Thumbnails</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-how-to-convert-youtube-to-mp3-in-3-ways-safe/"><u>[New] 2024 Approved How to Convert YouTube to MP3 in 3 Ways [Safe]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-ideal-online-audio-equipment-top-7-picks-2023-for-2024/"><u>[New] Ideal Online Audio Equipment Top 7 Picks 2023 for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-a-step-by-step-approach-to-rl-streaming/"><u>2024 Approved A Step-by-Step Approach to RL Streaming</u></a></li>
-<li><a href="https://extra-information.techidaily.com/accelerated-conversion-guide-from-complex-srt-to-txt-2023-for-2024/"><u>Accelerated Conversion Guide From Complex SRT to TXT 2023 for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-top-15-films-featuring-dolby-atmos-for-an-unmatched-home-viewing-experience/"><u>Discover the Top 15 Films Featuring Dolby Atmos for an Unmatched Home Viewing Experience</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-7-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 7 Space | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-samsung-960-evo-m2-ssd-drivers-on-your-windows-pc/"><u>How to Install Samsung 960 EVO M.2 SSD Drivers on Your Windows PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/master-the-art-of-editing-your-tiktok-number-for-2024/"><u>Master the Art of Editing Your TikTok Number for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/revitalize-your-reels-a-compreenas-guide-for-enhancer-22/"><u>Revitalize Your Reels A Compreenas Guide for Enhancer 2.2</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-workbook-issue-fix-2024-stellar-by-stellar-guide/"><u>Unable to Save Excel Workbook Issue Fix 2024 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-huawei-p60-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Huawei P60 password or pattern lock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unraveling-free-filter-treasures-through-instagrams-advanced-searches-for-2024/"><u>[New] Unraveling Free Filter Treasures Through Instagram’s Advanced Searches for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beginners-guide-to-av1-codec/"><u>Beginner's Guide to AV1 Codec</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-your-pc-upgraded-download-tailored-pci-device-drivers-for-windows-11-through-7/"><u>Get Your PC Upgraded: Download Tailored PCI Device Drivers for Windows 11 Through 7</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-x9a-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X9a Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-6-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic 6 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-c67-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C67 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oneplus-ace-2v-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On OnePlus Ace 2V Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterful-monitoring-with-the-latest-asus-proart-4k-display/"><u>Masterful Monitoring with the Latest ASUS ProArt 4K Display</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/removing-device-from-apple-id-for-your-iphone-12-pro-by-drfone-ios/"><u>Removing Device From Apple ID For your iPhone 12 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-hot-40-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Hot 40 Pro</u></a></li>
 </ul></div>
 

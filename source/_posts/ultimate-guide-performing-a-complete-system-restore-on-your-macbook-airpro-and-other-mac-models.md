@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models"
-date: 2024-12-31T19:36:58.934Z
-updated: 2025-01-02T02:20:36.148Z
+date: 2024-12-28T03:41:31.284Z
+updated: 2025-01-03T01:17:30.193Z
 tags:
   - desktop
 categories:
@@ -11,19 +11,11 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ## Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Requirements (And Tips for Older Macs)](https://www.howtogeek.com/806350/how-to-factory-reset-a-macbook-air-macbook-pro-or-any-mac/#requirements-and-tips-for-older-macs)
 * [How to Erase All Content and Settings on an Apple Silicon Mac](https://facebook-video-content.techidaily.com/updated-2024-approved-expanding-reach-fb-live-on-broadcast-networks/)
 * [How to Factory Reset an Older Mac](https://hardware-reviews.techidaily.com/building-and-choosing-hardware-wisely-insights-from-toms-computer-chronicles/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 * Intel Macs or older macOS versions require a more complex reset process involving reinstalling macOS.
 
  Are you planning to sell your Mac? Or is it getting cluttered up with apps and data and you want to give it a good spring clean? A factory reset is what you need. Let's take a look at how to do it on both Apple Silicon and Intel Macs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Requirements (And Tips for Older Macs)
 
@@ -49,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![The Transfer or Reset option in System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-transfer-or-reset-option-in-system-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select "Erase All Content and Settings." Enter your password when prompted and this will launch the Erase Assistant.
 
 ![Enter your password to launch Erase Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/enter-your-password-to-launch-erase-assistant.png) 
@@ -57,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![In the menu bar, click "System Preferences" then choose "Erase All Content And Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/choose_erase_all_content_and_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With Erase Assistant launched, you'll see exactly what will be removed during the factory reset. Along with your data, apps, and settings, you'll be signed out of your Apple ID, your Touch ID fingerprints will be removed, Bluetooth accessories will be unpaired, and the Mac will no longer appear under the Find My service.
 
 ![Screenshot showing what will be removed during a factory reset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-showing-what-will-be-removed-during-a-factory-reset.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're happy to proceed, click "Continue." For security reasons, you'll be prompted to enter your Apple ID password, which will then sign you out.
@@ -76,14 +80,10 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 ![The screen to confirm that you should erase all your content.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-screen-to-confirm-that-you-should-erase-all-your-content.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After clicking, your Mac will restart and show a progress bar as it erases all the content on your device. When it's done, you'll be asked to set up your Mac again. You can start from scratch as if it were a brand-new Mac, or hand it off to someone else to set up later.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Factory Reset an Older Mac
 
@@ -126,16 +126,21 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-efficient-techniques-to-record-your-idevice/"><u>[Updated] 2024 Approved Efficient Techniques to Record Your iDevice</u></a></li>
-<li><a href="https://article-tips.techidaily.com/comprehensive-insight-into-the-ultra-clear-lg-monitor-for-2024/"><u>Comprehensive Insight Into the Ultra-Clear LG Monitor for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-draft-to-delightful-storyboarding-animations-in-movie-maker-for-2024/"><u>From Draft to Delightful Storyboarding Animations in Movie Maker for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-y27s-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y27s Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Max Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/smooth-sailing-after-fixing-upgrade-issue-0x80246007-in-windows-11/"><u>Smooth Sailing After Fixing Upgrade Issue 0X80246007 in Windows 11</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/tumblr-mavens-live-on-snapchat-feed-for-2024/"><u>Tumblr Mavens Live on Snapchat Feed for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlock-nokia-130-music-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Nokia 130 Music Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/be-journey-enhancers-best-narrative-methods-for-2024/"><u>YouTube Journey Enhancers Best Narrative Methods for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-mastering-desktop-preservation-on-windows-8/"><u>[New] 2024 Approved Mastering Desktop Preservation on Windows 8</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-master-9-movie-extractor-hub-for-2024/"><u>[New] Master 9 Movie Extractor Hub for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-professional-subtitle-transformation-at-zero-price/"><u>[Updated] 2024 Approved Unlock Professional Subtitle Transformation at Zero Price</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029319918-and/"><u>最新動画コンプレッションツール無料ダウンロード&おすすめサイト</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/claim-the-future-how-claude-redefines-data-insights-and-solutions/"><u>Claim the Future: How Claude Redefines Data Insights and Solutions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722991105063-how-to-fix-warzone-directx-error-in-4-easy-steps/"><u>How to Fix 'Warzone DirectX Error' In 4 Easy Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-razr-40-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Razr 40 Ultra Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-effortless-image-bending-in-adobe/"><u>In 2024, Effortless Image Bending in Adobe</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G84 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-narzo-60-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme Narzo 60 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-motorola-g54-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola G54 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-realme-11-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Realme 11 Pro fingerprint</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-itel-p40-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Itel P40 on Windows?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel P55 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Powerful Security Insights: Top 5 Command-Line Tools Every Windows User Should Know"
-date: 2024-12-28T13:28:22.945Z
-updated: 2025-01-02T14:59:00.201Z
+date: 2025-01-02T06:06:46.653Z
+updated: 2025-01-02T19:25:18.478Z
 tags:
   - desktop
 categories:
@@ -45,7 +45,7 @@ color 2
 ![Windows command prompt color change to green](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-command-prompt-color-change-to-green.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The "color" command only works in Windows Command Prompt (cmd) and not in PowerShell.
@@ -57,7 +57,7 @@ color
  Now that we've got the look down, let's move on to some commands that'll make you feel like a hacker.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use dir /s Command to Create a Lot of Scrolling Text
@@ -88,7 +88,11 @@ dir /s | more
 ![Windows cmd output of dir command with more](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/windows-cmd-output-of-dir-command-with-more.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the ping-t Command to Ping a Website Continuously
@@ -108,7 +112,7 @@ Your browser does not support the video tag.
  This command will continuously display the server’s response time, giving you real-time network performance data. It's not only visually appealing with its constant stream of data, but also practically useful for monitoring network connectivity.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use cmatrix to Create the Iconic Matrix Text Rain (WSL necessary)
@@ -155,10 +159,6 @@ genact -m cryptomining
 
 Your browser does not support the video tag. 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use hollywood to Feel Like a Hacker From The Movies (WSL necessary)
 
  For our final command, let’s pull out all the stops and go full overboard with “hollywood”. This is another Linux command that creates a split-screen terminal that looks like something straight out of a Hollywood movie—the stereotypical mainstream hacker visuals.
@@ -196,20 +196,22 @@ sudo apt-get install byobu hollywood`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts/"><u>[Updated] The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-unveiling-the-virtual-realms-of-meta-and-omni/"><u>[Updated] Unveiling the Virtual Realms of Meta and Omni</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-of-the-economical-tp-link-re200-wifi-range-enhancer-ac750-cost-efficiency-with-reliable-service/"><u>Comprehensive Review of the Economical TP-Link RE200 WiFi Range Enhancer (AC750): Cost Efficiency with Reliable Service</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-canon-pixma-ts3322-driver/"><u>Download & Update | Canon PIXMA TS3322 Driver</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/durable-and-versatile-protection-the-brydge-sp-max-plus-keyboard-case-unveiled-for-your-surface-pro-8-zdnets-expert-analysis/"><u>Durable and Versatile Protection: The Brydge SP Max Plus Keyboard Case Unveiled for Your Surface Pro 8 – ZDNet's Expert Analysis</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-asus-rog-phone-7-ultimate-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Asus ROG Phone 7 Ultimate Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-meizu-21-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Meizu 21 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-valorant-playtime-strategies-to-combat-latency-and-optimize-fps-performance/"><u>Maximizing Valorant Playtime: Strategies to Combat Latency and Optimize FPS Performance</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/setting-up-automated-file-transfers-using-aomei-centralized-backupper/"><u>Setting Up Automated File Transfers Using AOMEI Centralized Backupper</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209846266-9780998155319-the-authentic-lover/"><u>The Authentic Lover | Free Book</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-realme-12-pro-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Realme 12 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-google-pixel-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Google Pixel 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rown-jewels-of-online-watching-youtubes-treasures/"><u>[New] Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/aximizing-visibility-a-comprehensive-guide-to-yt-gaming-hashes-for-2024/"><u>[New] Maximizing Visibility A Comprehensive Guide to YT Gaming Hashes for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-5-tricks-for-instantly-boosting-youtube-subscribers/"><u>[Updated] 2024 Approved 5 Tricks for Instantly Boosting YouTube Subscribers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>2024 Approved Ignite Engagement on Twitch Alive Tweeting Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/boost-your-interview-skills-using-chatgpt-tips-and-techniques/"><u>Boost Your Interview Skills Using ChatGPT - Tips and Techniques</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12t-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12T Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-z50s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Z50S Pro | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-plot-puns-on-pop-culture/"><u>In 2024, Plot Puns on Pop Culture</u></a></li>
+<li><a href="https://extra-information.techidaily.com/principles-of-plot-construction/"><u>Principles of Plot Construction</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-vivo-t2x-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Vivo T2x 5G</u></a></li>
+<li><a href="https://win-tips.techidaily.com/troubleshoot-your-windows-nbackup-problems-a-comprehensive-guide-to-get-it-running-smoothly/"><u>Troubleshoot Your Windows nBackup Problems: A Comprehensive Guide to Get It Running Smoothly!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-11r-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus 11R</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-camon-20-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Camon 20 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

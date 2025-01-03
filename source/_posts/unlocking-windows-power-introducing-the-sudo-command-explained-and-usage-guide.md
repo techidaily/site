@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2024-12-29T13:26:44.136Z
-updated: 2025-01-02T02:24:14.573Z
+date: 2024-12-26T23:26:16.485Z
+updated: 2025-01-02T17:10:53.133Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ## Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Is sudo So Revered?
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
 
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
 
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Enable sudo in Windows 11
@@ -63,7 +59,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -71,6 +67,10 @@ Microsoft
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
 
@@ -99,21 +99,21 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-soundscapes-in-hd-techniques-for-precision-recording/"><u>[New] 2024 Approved Soundscapes in HD Techniques for Precision Recording</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-startup-strategy-guide-affordable-channels-to-monetize/"><u>[New] 2024 Approved Startup Strategy Guide Affordable Channels to Monetize</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-launching-laughter-hilarious-initiation-hints/"><u>[Updated] Launching Laughter Hilarious Initiation Hints</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-sideways-surprise-decoding-instagram-video-strange-behavior/"><u>[Updated] The Sideways Surprise Decoding Instagram Video Strange Behavior</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-primer-to-social-media-symbol-mastery-facebooks-icons-explained/"><u>A Primer to Social Media Symbol Mastery: Facebook's Icons Explained</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-asus-rog-phone-8-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Asus ROG Phone 8 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nokia-c22-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia C22 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/how-to-create-stunning-igtv-video-footage-using-smartphones-and-dslr-for-2024/"><u>How to Create Stunning IGTV Video Footage Using Smartphones and DSLR for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-gt-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g24-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G24 Without Password | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-connectivity-problems-try-these-5-fixes-for-constant-wi-fi-disconnections/"><u>IPhone Connectivity Problems? Try These 5 Fixes for Constant Wi-Fi Disconnections</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-v30t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from V30T</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-samsung-galaxy-xcover-7-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Samsung Galaxy XCover 7 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-broadcasting-with-breeze-tips-for-fb-video-sharing/"><u>[New] 2024 Approved Broadcasting with Breeze Tips for FB Video Sharing</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-mastering-tiktoks-elements-success/"><u>[New] 2024 Approved Mastering TikTok's Elements Success</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-record-and-share-every-victory-in-obs/"><u>[New] 2024 Approved Record & Share Every Victory in OBS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlock-more-views-twitch-to-facebook-streaming-tips/"><u>[Updated] Unlock More Views Twitch to Facebook Streaming Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-optimal-sustainable-screen-capture-tools-usage-strategies/"><u>2024 Approved Optimal Sustainable Screen Capture Tools Usage Strategies</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-viral-anime-themed-videos-for-tiktok-success/"><u>2024 Approved Viral Anime-Themed Videos for TikTok Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/best-internet-capture-devices-for-2024/"><u>Best Internet Capture Devices for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-to-resolve-freezing-glitches-in-the-latest-assassins-creed-odyssey-pc-game-insights-from-2024/"><u>Expert Advice to Resolve Freezing Glitches in the Latest Assassin's Creed Odyssey PC Game - Insights From 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-tactical-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 Tactical Edition in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-gt-3-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme GT 3 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y56-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y56 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-mini-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 mini Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-zte-axon-40-lite-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

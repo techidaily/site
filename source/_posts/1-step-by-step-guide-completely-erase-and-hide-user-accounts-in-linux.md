@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2024-12-30T05:06:58.245Z
-updated: 2025-01-01T18:43:28.743Z
+date: 2024-12-28T20:00:58.567Z
+updated: 2025-01-02T18:52:47.609Z
 tags:
   - desktop
 categories:
@@ -48,7 +48,7 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  Everything's set. All eyes are on you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Login
@@ -60,7 +60,7 @@ who
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Eric is logged in once. Let's see what processes he's running.
@@ -73,6 +73,10 @@ ps -u eric
 
 ![ps -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  We can see the same processes with more information using the `top` command. `top` also has an `-U` (user) option to restrict the output to the processes owned by a single user. Note that this time it is an uppercase "U."
 
 top -U eric
@@ -83,11 +87,11 @@ top -U eric
 
 ![Output from top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png) 
 
- It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
 
 ##  Locking the Account
 
@@ -109,15 +113,15 @@ sudo passwd -l eric
 
 ![sudo passwd -l eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/18.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If we check the `/etc/passwd` file again, we'll see what's happened.
 
 sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 
 ![sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/21-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  An exclamation mark has been added to the start of the encrypted password. It doesn't overwrite the first character, it's just added to the start of the password. That's all that's required to prevent a user from being able to log in to that account.
 
@@ -136,10 +140,6 @@ sudo pkill -KILL -u eric
 who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  His session is gone. He's been logged off and his processes have been stopped. That's taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric's desk.
 
@@ -160,6 +160,10 @@ sudo tar cfjv eric-20200820.tar.bz /home/eric
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A lot of screen output will scroll in the terminal window. To check the archive has been created, use the `ls` command. We're using the `-l` (long format) and `-h` (human-readable) options.
 
 ls -lh eric-20200802.tar.bz
@@ -167,10 +171,6 @@ ls -lh eric-20200802.tar.bz
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png) 
 
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Removing cron Jobs
 
@@ -180,10 +180,6 @@ sudo ls -lh /var/spool/cron/crontabs/eric
 
 ![sudo ls -lh /var/spool/cron/crontabs/eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If anything exists in this location it means there are `cron` jobs queued for that user account. We can delete them with this `crontab` command. The `-r` (remove) option will remove the jobs, and the `-u` (user) option tells `crontab` [whose jobs to remove](http://man7.org/linux/man-pages/man1/crontab.1.html).
 
 sudo crontab -r -u eric
@@ -191,7 +187,7 @@ sudo crontab -r -u eric
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
@@ -221,7 +217,7 @@ type userdel
 ![type deluser in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/22-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although they're both available, the recommendation is to use `deluser` [on Debian-derived distributions](http://manpages.ubuntu.com/manpages/eoan/man8/userdel.8.html):
@@ -234,6 +230,10 @@ sudo deluser --remove-home eric
 
 ![sudo deluser --remove-home eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The command to use for non-Debian distributions is `userdel`, with the `--remove` flag:
 
 sudo userdel --remove eric
@@ -245,7 +245,7 @@ ls /home
 ![ls /home in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The `eric` group has also been removed because the user account `eric` was the only entry in it. We can check this quite easily by piping the contents of `/etc/group` through `grep`:
@@ -275,21 +275,22 @@ sudo less /etc/group | grep eric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>[Updated] In 2024, Efficient Editing Techniques Mastering Video Cropping and Exporting</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-superior-sonic-collectors-for-seminars/"><u>[Updated] In 2024, Superior Sonic Collectors for Seminars</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-master-video-cropping-for-unique-instagram-visuals/"><u>2024 Approved Master Video Cropping for Unique Instagram Visuals</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-promises-vs-performance-of-the-feature-heavy-midland-lxt500vp3-transceiver-range/"><u>Analyzing the Promises Vs. Performance of the Feature-Heavy Midland LXT500VP3 Transceiver Range</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/enhancing-client-experience-through-abbyys-advanced-process-insights-by-emerson/"><u>Enhancing Client Experience Through ABBYY's Advanced Process Insights by Emerson</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c110-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C110 FRP Bypass</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/quick-guide-to-restoring-full-sound-capacity-on-windows-10-devices/"><u>Quick Guide to Restoring Full Sound Capacity on Windows 10 Devices</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/russias-representation-at-g20-in-india-lavrov-to-lead-delegation-while-putin-skips-event-analyze-with-yl-software-expertise/"><u>Russia's Representation at G20 in India: Lavrov to Lead Delegation While Putin Skips Event, Analyze with YL Software Expertise</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/the-speed-demons-manual-transforming-video-audio-in-no-time/"><u>The Speed-Demon’s Manual: Transforming Video Audio in No Time</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C53 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-neo-5-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT Neo 5 SE Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-enhance-tv-broadcasts-with-seamless-video-loops-from-youtube/"><u>[New] 2024 Approved Enhance TV Broadcasts with Seamless Video Loops From YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-essential-3d-modeling-programs-for-animators/"><u>2024 Approved Essential 3D Modeling Programs for Animators</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-iphones-high-dynamic-range/"><u>2024 Approved Unlocking the Power of iPhone's High Dynamic Range</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y78t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y78t Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/detecting-moisture-harm-unveil-these-9-key-indicators-on-your-iphone/"><u>Detecting Moisture Harm: Unveil These 9 Key Indicators on Your iPhone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/earn-big-savings-amazon-prime-day-kicks-off-on-july-16-2024/"><u>Earn Big Savings: Amazon Prime Day Kicks Off on July 16, 2024!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/fixing-stop-code-0x0000001d-comprehensive-troubleshooting-steps/"><u>Fixing STOP Code 0X0000001D - Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/how-youtube-really-measures-your-contents-popularity/"><u>How YouTube Really Measures Your Content's Popularity</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-10-essential-animated-text-makers-for-unbeatable-engagement/"><u>New 10 Essential Animated Text Makers for Unbeatable Engagement</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-troubleshooting-and-repairing-hewlett-packard-code-e43-faults/"><u>Step-by-Step Guide: Troubleshooting and Repairing Hewlett-Packard Code E43 Faults</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-excel-documents-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>The best electronic signature way to sign Excel documents online</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-g54-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola G54 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-ace-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Ace 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-x50i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from X50i</u></a></li>
 </ul></div>
 

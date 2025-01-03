@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Hidden Gems: Top 14 Often-Ignored FaceTime Functions You Need"
-date: 2024-12-25T20:37:24.392Z
-updated: 2025-01-02T10:52:00.577Z
+date: 2024-12-31T16:45:10.161Z
+updated: 2025-01-02T23:46:42.936Z
 tags:
   - mobile
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ---
 
 ## Unlocking the Hidden Gems: Top 14 Often-Ignored FaceTime Functions You Need
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 
  To switch to FaceTime Video on the fly, hit the camera icon on the calling screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Fake Eye Contact for a More Natural Feel
 
  If your iPad lacks a landscape camera, you'll appear to the other party as if you're not tuned in. Thankfully, AI can correct your gaze. Turn on "Eye Contact" in FaceTime's settings to make it look like you're maintaining eye contact even when you aren't.
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fb
 ![The RTT settings in the iPhone's Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-16-settings-app-accessibility-real-time-text-software-rtt-tty-enabled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
@@ -74,6 +74,10 @@ Apple
 
 ![RTT call menu on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-16-contacts-app-rtt-tty-call-menu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Apple
 
  When the call is connected, touch the RTT icon to enter your message.
@@ -81,12 +85,16 @@ Apple
 ![RTT chat in the Phone app on iPhone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-16-phone-app-rtt-tty-call-real-time-text-chat.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Apple
 
  RTT is useful if you're hard of hearing or in a noisy environment, and is an excellent option for privately exchanging sensitive info like passwords or addresses in public.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  4\. Move the FaceTime Window to an iPad
 
@@ -106,23 +114,19 @@ Apple
 
 ![The Screen Recording icon highlighted in the iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-control-center-screen-recording.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On your Mac, press Command+Shift+5 and select "Record Selected Portion." Then drag the corners to fit the FaceTime window and click "Record" to capture the designated area.
 
 ![Using the Record Selected Portion feature in the Mac's Screenshot app to record a FaceTime video call.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-screenshot-app-record-selected-portion-quicktime-player.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or open QuickTime Player and click File > New Screen Recording. Hit the downward-pointed arrow, select your iPhone under both Camera and Microphone, then enable the "Maximum" quality setting. Start recording, then open FaceTime on your iPhone and initiate a call.
 
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
  iOS 18 enables call recording in some countries with an automatic warning to the other party that the call is being recorded to comply with consent laws.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Take Control of Another Device
 
@@ -133,10 +137,6 @@ Apple
 ![Choosing the screen sharing option during a FaceTime video call on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-share-my-screen-menu-selected.jpg) 
 
  The other party will need to choose "Open" next to Join Screen Sharing in the notification that appears on their device to accept your invite and start sharing their screen with you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  7\. Boost Your Mac's Image Quality With Continuity Camera
 
@@ -159,7 +159,7 @@ Close
 ![Choosing iPhone Continuity Camera when recording video using QuickTime Player for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-quicktime-player-new-recording-continuity-camera-iphone-selected.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I use a [MagSafe Continuity mount from Belkin](https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-y100a-drfone-by-drfone-virtual-android/) to conduct FaceTime calls on my Apple TV like a boss—while sitting on the couch in front of my telly.
@@ -186,21 +186,17 @@ Christian Zibreg / How-To Geek
 
 ![FaceTime video call on iPhone displaying a notification that a Live Photo has been taken.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-ios-18-facetime-app-video-call-live-photos-notification.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Look for your image in the Live Photos album in the Photos app, where you can [turn your Live Photo into an animated GIF](https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  9\. FaceTime With Android or Windows Friends
 
  There's no FaceTime app for Android or Windows. Still, non-Apple folks can join your call through a browser, no login necessary. To [create a FaceTime link](https://screen-mirroring-recording.techidaily.com/new-in-2024-your-ultimate-guide-to-unmissable-games/) for a one-on-one or group FaceTime call, hit "Create Link" and choose the sharing method (Mail, Messages, etc.).
 
 ![Create a calling link in FaceTime for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-create-link-share-sheet-options-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The link will enable the other party to [join your call from their Android phone](https://techno-recovery.techidaily.com/solution-guide-why-are-some-emails-not-coming-to-your-yahoo-mail/) or [Windows device](https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/) using Chrome or another browser with H.264 video encoding support.
 
@@ -218,6 +214,10 @@ Close
 
 ![The Ringtone menu highlighted in the FaceTime for Mac settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-app-settings-general-section-ringtone-menu-highlight.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  11\. Mute Yourself or Switch to Audio-Only
 
  You can mute audio or video for more privacy to take another call or answer the door. Toggle the microphone icon on the calling screen to mute and unmute yourself.
@@ -229,10 +229,6 @@ Close
 Close 
 
  Handoff must be enabled in Settings > General > AirPlay & Handoff on your iPhone. On a Mac, go to System Settings > General > AirDrop & Handoff and enable "Allow Handoff between this Mac and your iCloud devices."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  12\. Collaborate on Projects or Documents
 
@@ -247,6 +243,10 @@ Close
  Become more productive with the helpful keyboard shortcuts in FaceTime for Mac. Click through the FaceTime menus to view the available shortcuts, and [Apple](https://support.apple.com/en-gb/guide/facetime/fctma3b7b94b/mac) has a full list of them.
 
 ![The FaceTime for Mac menu with the keyboard shortcuts higlhighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/apple-macos-sequoia-facetime-menu-keyboard-shortcuts-highlighted.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I've memorized two combinations for in-call control. One takes FaceTime full screen by pressing Control+Command+F because who wants to video chat in a window? The other switches between portrait and landscape mode with the Command+R combo. This also changes video orientation for the other party.
 
@@ -279,18 +279,16 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-your-lenovo-display-with-ease/"><u>[Updated] 2024 Approved Capturing Your Lenovo Display with Ease</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-virtual-decoration-google-vs-alternative-ar-tools/"><u>[Updated] 2024 Approved Virtual Decoration Google Vs. Alternative AR Tools</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-unlocking-the-power-of-seamless-youtube-content-flow-onto-facebook/"><u>[Updated] In 2024, Unlocking the Power of Seamless YouTube Content Flow Onto Facebook</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find X6 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-8-hit-virtual-reality-titles-for-oculus-enthusiasts/"><u>In 2024, 8 Hit Virtual Reality Titles for Oculus Enthusiasts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-harnessing-colors-in-lightroom-with-the-best-luts/"><u>In 2024, Harnessing Colors in LightRoom with the Best LUTs</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-v14-file-using-pdf-repair-tool-stellar-by-stellar-guide/"><u>Repair Corrupt PDF v1.4 File using PDF Repair Tool | Stellar</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/surviving-the-elements-an-in-depth-apple-watch-ultra-durability-assessment-spanning-nine-months-insights-from-zdnet/"><u>Surviving the Elements: An In-Depth Apple Watch Ultra Durability Assessment Spanning Nine Months | Insights From ZDNET</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-11-pro-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 11 Pro Message Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-smart-7-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Smart 7 password or pattern lock</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-efficiency-how-our-experts-rate-the-most-compact-and-high-performance-laptops-perfect-for-remote-workers-see-what-we-discovered-at-zdnet/"><u>Unlocking Efficiency: How Our Experts Rate the Most Compact and High-Performance Laptops Perfect for Remote Workers – See What We Discovered at ZDNet</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pixels-to-power-the-ultra-hd-world-of-samsung-ue590/"><u>[Updated] From Pixels to Power The Ultra HD World of Samsung UE590</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-help.techidaily.com/protection-integrale-du-systeme-windows-8-completement-gratuite/"><u>Protection Intégrale Du Système Windows 8, Complètement Gratuite</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/score-big-savings-on-gadgets-during-amazons-2024-prime-day-extravaganza/"><u>Score Big Savings on Gadgets During Amazon's 2024 Prime Day Extravaganza</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-magic-v2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor Magic V2</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-gems-within-spyro-reignited-trilogy-a-tiny-dragons-epic-quest-delivers-exceptional-value/"><u>Unveiling the Gems Within Spyro Reignited Trilogy – A Tiny Dragon's Epic Quest Delivers Exceptional Value</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme 12 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Eliminating Background From Images in Windows 11"
-date: 2024-12-31T00:53:09.234Z
-updated: 2025-01-02T01:28:16.003Z
+date: 2025-01-01T05:08:48.946Z
+updated: 2025-01-03T03:05:55.697Z
 tags:
   - deals
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 * [Remove the Entire Background of an Image](https://screen-video-capture.techidaily.com/efficient-tactics-for-recording-vimeo-media/)
 * [Remove Background From the Selected Area of an Image](https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-how-to-fix-it-by-drfone-ios/)
 * [Replace an Image's Background With a Solid Color](https://youtube-data.techidaily.com/024-approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-photo-with-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When Paint opens, in the "Image" section at the top, click Remove Background (the icon of multiple lines and a person).
@@ -50,12 +46,16 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
@@ -75,21 +75,17 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Use the rectangle tool to select the part of the image where you want to delete the background. After making the selection, from the "Image" section at the top, choose Remove Background (the icon of a person and multiple lines behind them).
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait while Paint deletes the background from the specified image area. Then, save your image by navigating to File > Save or pressing Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Replace an Image's Background With a Solid Color
 
@@ -108,19 +104,23 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 !['Remove Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-remove-background-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the right pane, select the "Replace" option.
 
 !['Replace' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-replace-background-photos.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ll see a color palette. Here, choose the color to fill your image’s current background. If you know a color’s [HEX](https://screen-capture.techidaily.com/updated-2024-approved-elite-group-of-high-speed-video-snapshot-apps/) or [RGB](https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/) code, enter those values in the given boxes. This helps you quickly get to the color you want.
 
 ![The color palette highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/13-choose-color-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you make your color selection, you’ll find Photos showing you a demo of the end result. If you’re happy with it, at the bottom of the right pane, click "Apply." To reset your preferences, choose "Reset Background."
@@ -132,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
  To save the image, click "Save Options" in the top-right corner. If you want to save the edited image as a copy of the original image, click "Save as Copy." To rewrite the original image with the edited image, just choose "Save." If you want copy the edited image to your clipboard so you can paste it in other apps, choose "Copy to Clipboard" instead. 
 
 ![Image save options highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/15-save-edited-image-photos.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And Photos will perform your chosen action.
 
@@ -148,10 +152,6 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
  If you see "Open" instead of "Update," your app version is already updated.
 
 !['Open' highlighted for Microsoft Photos in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-update-photos-microsoft-store.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Relaunch Photos and you’ll find the option to replace your images’ backgrounds.
 
@@ -172,17 +172,18 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-how-to-use-snapchat-to-send-a-snap-with-cartoon-face-lens/"><u>[New] How to Use Snapchat to Send a Snap with Cartoon Face Lens</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-cutting-edge-techniques-for-youtube-video-production-with-sony-vegas/"><u>[Updated] Cutting-Edge Techniques for YouTube Video Production with Sony Vegas</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-5-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-overcome-continuous-system-lag-and-keep-your-computer-running-smoothly/"><u>How to Overcome Continuous System Lag and Keep Your Computer Running Smoothly</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-expert-video-downloader-kit-ideal-for-firefox-browser-users/"><u>In 2024, Expert Video Downloader Kit Ideal for FireFox Browser Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/seamless-shooter-action-with-optimized-mouse-responsiveness/"><u>Seamless Shooter Action with Optimized Mouse Responsiveness</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-complete-guide-to-setting-up-safe-mail-filters-on-gmail/"><u>The Complete Guide to Setting Up Safe Mail Filters on Gmail</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/troubleshooting-complete-loss-of-sound-reviving-audios-in-mkv-media-player-on-pcs-with-windows-11-or-10/"><u>Troubleshooting Complete Loss of Sound: Reviving Audios in MKV Media Player on PCs with Windows 11 or 10</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2010-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2010 Workbook Issue Fix 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-v29e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo V29e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aster-video-production-best-lenses-for-online-platforms-for-2024/"><u>[New] Master Video Production Best Lenses for Online Platforms for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-focus-and-frame-essential-iphone-tools-for-cropping-photos/"><u>2024 Approved Focus & Frame Essential iPhone Tools for Cropping Photos</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-8-sites-to-get-free-green-screen-backgrounds-and-footage/"><u>2024 Approved Top 8 Sites to Get Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-videotweeteraudio-quick-audio-extractor/"><u>2024 Approved VideoTweeterAudio Quick Audio Extractor</u></a></li>
+<li><a href="https://techtrends.techidaily.com/on-line-mkaavi-movavi/"><u>無償で簡単! On-Line MKAとAVIファイルの自由変換 - MOVAVI</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Infinix Note 30 VIP | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/sprightly-spirits-top-kid-approved-games/"><u>Sprightly Spirits Top Kid-Approved Games</u></a></li>
 </ul></div>
 

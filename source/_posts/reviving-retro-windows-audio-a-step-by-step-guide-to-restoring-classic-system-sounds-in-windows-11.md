@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11"
-date: 2024-12-28T22:43:51.489Z
-updated: 2025-01-02T13:15:51.138Z
+date: 2024-12-28T23:49:16.512Z
+updated: 2025-01-02T19:52:01.544Z
 tags:
   - desktop
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Get Sound Packs of Old Windows Sounds
 
  The first thing you need to do is download a sound pack containing the sounds from an old Windows version. Also, ensure that every sound it contains is in WAV file format.
@@ -36,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
  An example of where to find sound packs is the Sound Schemes Gallery page on the [WinCustomize website](https://www.wincustomize.com/explore/sound%5Fschemes/). You can find sounds for Windows XP, Vista, 7, 8, 8.1, 10, and more. Select the one you want and click “Download” to save it to your computer.
 
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
 
@@ -56,7 +56,7 @@ Close
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Change System Sounds in Settings
@@ -66,7 +66,7 @@ Close
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
@@ -78,7 +78,7 @@ Close
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
@@ -128,22 +128,14 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>[New] In 2024, Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-securing-your-playtime-with-diverse-gaming-screen-capture-software/"><u>[New] Securing Your Playtime with Diverse Gaming Screen Capture Software</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-social-sensation-skills-making-a-buzz-on-your-profiles-wall-for-2024/"><u>[New] Social Sensation Skills Making a Buzz on Your Profile's Wall for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-sims-4-recording-techniques-for-gamers/"><u>[Updated] Sims 4 Recording Techniques for Gamers</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-strategies-for-displaying-your-screen-in-google-meet/"><u>2024 Approved Innovative Strategies for Displaying Your Screen in Google Meet</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/best-alternatives-to-gt-recovery-on-windows-explored-reviews-and-choices-analyzed/"><u>Best Alternatives to GT Recovery on Windows Explored: Reviews and Choices Analyzed</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/essential-tips-for-high-quality-print-output-from-photoshop/"><u>Essential Tips for High-Quality Print Output From Photoshop</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speed-boosting-hacks-for-faster-download-rates-on-utorrent-software/"><u>Speed Boosting Hacks for Faster Download Rates on uTorrent Software</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-google-pixel-8-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Google Pixel 8 Pro without backup.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/update-effective-remedies-for-compromised-pci-cipher-device-drivers/"><u>Update: Effective Remedies for Compromised PCI Cipher Device Drivers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-understanding-your-macs-capabilities-in-big-sur/"><u>[Updated] Understanding Your Mac's Capabilities in Big Sur</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-x-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone X Online</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://win-updates.techidaily.com/comparing-repackaging-strategies-the-role-of-snapshots-and-the-psappdeploytoolkit/"><u>Comparing Repackaging Strategies: The Role of Snapshots and the PSAppDeployToolkit</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/complimentary-vmware-safeguarding-tools-secure-and-shield-your-virtual-machines/"><u>Complimentary VMware Safeguarding Tools: Secure and Shield Your Virtual Machines</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enhance-productions-no-cost-sounds-available/"><u>Enhance Productions No-Cost Sounds Available</u></a></li>
+<li><a href="https://techidaily.com/remove-oppo-lock-screen-without-password-oppo-k11-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Lock Screen without Password(Oppo K11 5G)</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-edge-40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Edge 40 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-pop-8-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Pop 8</u></a></li>
 </ul></div>
 

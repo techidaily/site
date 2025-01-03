@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2024-12-27T00:26:17.004Z
-updated: 2025-01-02T12:26:59.387Z
+date: 2024-12-27T01:07:52.065Z
+updated: 2025-01-02T16:19:15.859Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  Excel has hundreds of functions that can help you to quickly and accurately perform calculations, among which are the AVERAGE functions. You might want to calculate the average sales figures, get the average of a group of data that contains numbers and text, or work out the average of all student scores over a certain number.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Many Average Functions Are There in Excel?
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores has been calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-calculated-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The AVERAGE function includes 0 within its calculations, but ignores all empty cells, text, and logical values (TRUE or FALSE). So, we can be confident that this calculation will include Student C's score, but ignore Student F's score.
 
  If any of the values being used in the AVERAGE calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would not work.
@@ -80,19 +76,11 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In cell D5, we would type the following formula:
 
 =AVERAGEA(B2:B8)
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and their average scores, calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-calculated.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Unlike the AVERAGE function, which ignores logical values, the AVERAGEA calculation includes FALSE within the calculation as 0\. If this were instead TRUE, this would be counted as 1\. As a result, in our example, Student C's score of 0 is included, and Student F is also calculated as having scored 0\. This is why the result is lower for this calculation than the previous one.
 
@@ -120,6 +108,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
  To work out the average scores of all students over 12 years of age, we would use the following formula:
@@ -131,6 +123,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  The "C2:C8" part of the formula tells Excel to look in that range (the students' ages) for the criteria, the ">12" part tells Excel to identify any values over 12 in the C2:C8 range (the students' ages), and "B2:B8" (the students' scores) is the part being averaged.
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
@@ -149,7 +145,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To do this, we would use the following formula:
@@ -159,6 +155,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  "B2:B8" contains the data to be averaged (the students' scores), "C2:C8" is the first range to be tested with the criterion of "Green" (the student's house), and "D2:D18" is the second range to be tested with the criterion of ">10" (the student's age).
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where an AVERAGEIFS calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-calculated-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This has correctly averaged the scores of Students D and G, as they are both in Green House and are over 10 years old.
 
@@ -186,16 +186,20 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-dive-into-todays-top-8-viral-video-phenomena/"><u>[Updated] In 2024, Dive Into Today’s Top 8 Viral Video Phenomena</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-examining-storage-space-for-bulk-movie-files-64128gb/"><u>[Updated] In 2024, Examining Storage Space for Bulk Movie Files, 64/128Gb</u></a></li>
-<li><a href="https://win11.techidaily.com/enhance-outdated-media-quality-an-introduction-to-madvr-on-windows/"><u>Enhance Outdated Media Quality: An Introduction to MadVR on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-c53-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C53 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-m14-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy M14 5G can’t play AVCHD .mts video</u></a></li>
-<li><a href="https://win11.techidaily.com/securing-systems-five-key-approaches-to-reinstate-defender-safeguard/"><u>Securing Systems: Five Key Approaches to Reinstate Defender Safeguard</u></a></li>
-<li><a href="https://howto.techidaily.com/why-is-my-samsung-galaxy-xcover-7-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Samsung Galaxy XCover 7 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-music-recovery-recover-deleted-music-from-xiaomi-by-fonelab-android-recover-music/"><u>Xiaomi Music Recovery - Recover Deleted Music from Xiaomi</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-dive-into-makers-earnings-exploring-youtube-shorts-revenue-structure-for-2024/"><u>[Updated] Dive Into Maker's Earnings Exploring YouTube Shorts Revenue Structure for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-fb-video-placement-upright-or-flat-angle/"><u>[Updated] FB Video Placement - Upright or Flat Angle?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/enhance-igtv-posts-with-best-video-edit-apps-for-2024/"><u>Enhance IGTV Posts with Best Video Edit Apps for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722902093046-expert-tips-on-how-to-excel-in-the-game-of-royal-match/"><u>Expert Tips on How to Excel in the Game of Royal Match</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/free-tools-to-save-big-screen-fb-video/"><u>Free Tools to Save Big Screen FB Video</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-13-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 13 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-10-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 10 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-optimizing-your-in-stream-ad-strategy-on-facebooks-platform/"><u>In 2024, Optimizing Your In-Stream Ad Strategy on Facebook's Platform</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-narzo-60-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-pixel-7a-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Pixel 7a</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-camon-20-pro-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Camon 20 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-xiaomi-redmi-12-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Xiaomi Redmi 12 5G without backup.</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-your-broadcasting-with-manycam-the-ultimate-solution-for-online-presentations-virtual-backgrounds-and-live-video-software/"><u>Transform Your Broadcasting with ManyCam - The Ultimate Solution for Online Presentations, Virtual Backgrounds, and Live Video Software</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-1011-issue-frozen-acer-laptop-keys/"><u>Windows 10/11 Issue: Frozen Acer Laptop Keys</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Surprising Expenses Behind Your Linux Operating System
-date: 2024-12-26T03:07:07.356Z
-updated: 2025-01-02T08:59:31.496Z
+date: 2024-12-27T19:38:47.894Z
+updated: 2025-01-03T01:07:46.066Z
 tags:
   - desktop
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I know it seems counterintuitive, but when the time comes to buy a new computer, I almost exclusively buy Linux PCs. I'll explain.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Linux Is Guaranteed to Work on These PCs
@@ -39,7 +39,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Star Labs StarLite MkIV laptop on a shelf.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/1000085879.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bertel King / How-To Geek
@@ -49,10 +49,6 @@ Bertel King / How-To Geek
  This isn't a flaw exclusive to Linux. If you try to [install Windows onto a Steam Deck](https://instagram-clips.techidaily.com/new-pinpointing-the-10-most-discreet-story-advocates/), you face the same kind of issues. That machine was designed for Linux and comes with a rock-solid Linux desktop. Most laptops are tested with Windows. When you try to swap out a computer's operating system, regardless of which one it is, you roll the dice. The same is true when you [install a custom ROM on your phone](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-huawei-by-drfone-android/).
 
  To save myself the headache of knowing whether everything will work, I like to buy computers that ship with Linux. This way I know they've been tested and verified to run the operating system I intend to use. I don't have to do any research to learn which processor, Wi-Fi card, and graphics card will work best for the kind of machine I have in mind. I can just browse the available PCs and pick one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  You Don't Need Technical Knowledge
 
@@ -79,7 +75,7 @@ Hannah Stryker / How-To Geek
  Folks like me already know which version of Linux we want, but we can still benefit from getting a pre-made machine. Many of us can't afford to reconfigure a machine during work hours, and we don't have the energy or the desire to do it during the rest of our day. We have families. We have other things we want to be doing. With a ready-made machine, we can sign in, install apps, transfer over our files, and be ready for work in the morning.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Have a Company to Contact for Hardware Support
@@ -89,10 +85,6 @@ Hannah Stryker / How-To Geek
  When you buy your computer from a company that prides itself on assembling and selling Linux hardware, you can usually go back to them for support. Sometimes that's a live chat bubble or an email address. You may even be able to pick up a phone. If they can't fix your issue directly, sometimes they can at least point you in the right direction.
 
  I'm not saying they're miracle workers; customer support is what it is. Though you may find you actually get better support from these small companies than trying to reach out directly to the massive conglomerate that made your Windows PC or the big box store that sold it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  A Way to Support the Linux Ecosystem
 
@@ -104,6 +96,10 @@ Hannah Stryker / How-To Geek
 
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Kubuntu Focus Ir16 (Gen2)
 
 8/ 10 
@@ -111,6 +107,10 @@ Hannah Stryker / How-To Geek
 The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with the meticulous OS integration and Linux-first support from Kubuntu Focus.
 
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Avoid Giving Big Tech Even More Money
 
@@ -141,18 +141,22 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-extending-your-content-a-detailed-youtube-video-upload-manual/"><u>[New] 2024 Approved Extending Your Content A Detailed YouTube Video Upload Manual</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-exploring-the-monetary-mechanics-of-t-series-youtube-channel/"><u>[New] In 2024, Exploring the Monetary Mechanics of T-Series Youtube Channel</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-perfected-techniques-for-high-quality-webp-to-jpg-conversion/"><u>[New] In 2024, Perfected Techniques for High-Quality WebP to JPG Conversion</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unlock-your-farming-potential-with-top-valheim-seeds-for-2024/"><u>[New] Unlock Your Farming Potential with Top Valheim Seeds for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-unveiling-the-latest-in-non-fbx-gameplay-tracking-for-2024/"><u>[Updated] Unveiling the Latest in Non-FBX Gameplay Tracking for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-smart-8-plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Smart 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-oppo-reno-9a-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Oppo Reno 9A</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-asus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-best-free-themes-to-personalize-your-experience-on-windows-11-top-15/"><u>The Best Free Themes to Personalize Your Experience on Windows 11 (Top 15)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ultimate-list-of-dvd-playing-solutions-applications-and-devices-for-apple-computers-macos/"><u>Ultimate List of DVD Playing Solutions: Applications and Devices for Apple Computers (macOS)</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-take-your-video-editing-to-the-next-level-with-these-adobe-premiere-shortcuts-for-2024/"><u>Updated Take Your Video Editing to the Next Level with These Adobe Premiere Shortcuts for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-redmi-note-12-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi Redmi Note 12 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-top-10-best-screen-recorders-for-computer/"><u>[New] 2024 Approved Top 10 Best Screen Recorders for Computer</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-anti-fog-strategies-optimal-gopro-video-quality/"><u>[New] Anti-Fog Strategies Optimal GoPro Video Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-unlocking-facebook-integration-sharing-youtube-vids-with-ease/"><u>[New] In 2024, Unlocking Facebook Integration Sharing YouTube Vids with Ease</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-midnight-tales-in-motion-evaluating-parental-choices-for-kids/"><u>[Updated] Midnight Tales in Motion Evaluating Parental Choices for Kids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unleashing-creativity-with-captivating-image-assemblies/"><u>2024 Approved Unleashing Creativity with Captivating Image Assemblies</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/beat-the-glitch-expert-tips-on-overcoming-twitch-error-4000-for-uninterrupted-broadcasts/"><u>Beat the Glitch: Expert Tips on Overcoming Twitch Error 4000 for Uninterrupted Broadcasts</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-v29-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V29 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y78plus-t1-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y78+ (T1) Edition Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 iOS System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-turn-every-instagram-moment-into-a-shareable-mp4-file/"><u>In 2024, Turn Every Instagram Moment Into a Shareable MP4 File</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/lore-lovers-lab-bestest-bunch/"><u>Lore Lovers Lab – Bestest Bunch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/securing-ai-systems-your-pathway-into-openais-bug-discovery-incentive-scheme/"><u>Securing AI Systems: Your Pathway Into OpenAI's Bug Discovery Incentive Scheme</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze 2 5G? | Dr.fone</u></a></li>
 </ul></div>
 

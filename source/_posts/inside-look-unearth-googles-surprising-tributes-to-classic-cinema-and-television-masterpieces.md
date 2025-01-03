@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2024-12-31T11:36:55.678Z
-updated: 2025-01-01T20:33:30.505Z
+date: 2024-12-27T22:15:11.313Z
+updated: 2025-01-03T09:18:13.092Z
 tags:
   - web
 categories:
@@ -27,10 +27,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  Google has several fun Easter eggs squirreled away in obscure corners of Search. But did you know that some of them reference your favorite TV shows and movies? From classics to new releases, Google’s got a bit of everything. Here are some of the best ones we’ve managed to unearth.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Hang Out With Your Favorite “Friends” Character
 
  Name a TV show with a bigger global pop culture impact than "Friends." Go on, I'll wait.
@@ -43,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google Search Result pagefor Ross Geller](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-screenshot-of-the-google-search-result-pagefor-ross-geller.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Each Friends character has a custom Easter egg attached to their name. This is your cue to find out what they all are.
 
  Once you've explored each of the friends’ Easter eggs, you can further amuse yourself by checking out the Friends Glossary—a collection of fun words (most of them coined by Joey) and phrases made popular by the show. Simply search for the **Friends Glossary**, and you'll see a word, its part of speech, definition, and an example of how to use it in a sentence. My favorite is “On a Break.”
@@ -54,7 +46,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Your Search Results Fabulous With “Legally Blonde”
@@ -68,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  When the animation ends, you’ll notice that your search results are more fabulous than before—that is to say, all the blue links are now very pink.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Recreate the Burn Book From “Mean Girls”
@@ -90,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
@@ -99,14 +91,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Google search results for 'war in Ba Sing Se'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-google-search-results-for-war-in-ba-sing-se.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fill up Your Coin Purse With “Super Mario Bros”
@@ -115,6 +103,14 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
 [If you live in the US](https://video-screen-grab.techidaily.com/new-academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/), you might not be familiar with Doctor Who, but in England, it's all the rage. The show features the Doctor and his trusty companion, and together, they travel through space and time in their time machine/spacecraft called the TARDIS, which masquerades as a police box.
@@ -122,6 +118,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Google allows you to join in on all the time-traveling fun with a cool mini-game. When you search for **Doctor Who**, a spinning blue police box appears. Click on it, hit play, choose your character, and the game begins. Your goal is to obtain all the letters that spell Google and return to the TARDIS without getting zapped by the robots.
 
 ![A minigame with buildings and robots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-minigame-with-buildings-and-robots.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
 
@@ -147,6 +147,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
  This Easter egg has also been retired, but you can still [access it on elgooG](https://elgoog.im/thanos/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Summon The Dark Knight
 
  Google created this Easter egg to mark the return of everyone’s favorite caped crusader to the big screen in “The Batman.” You can activate the Batman Easter egg by clicking on the bat signal. Doing so will [turn the page dark](https://youtube-webster.techidaily.com/024-approved-fullview-media-collaboration-guidebook/), and the bat signal will be projected against it. Keep your eyes peeled, and you might catch a familiar bat-like silhouette streaking across your screen. 
@@ -154,10 +158,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
  The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Travel to the World of Oz
 
@@ -190,24 +190,17 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-mastering-the-art-of-decreasing-decibents-a-guide-to-fading-out-sounds/"><u>[New] 2024 Approved Mastering the Art of Decreasing Decibents A Guide to Fading Out Sounds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/alking-head-techniques-diy-filming-made-simple/"><u>[New] Talking Head Techniques DIY Filming Made Simple</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-total-sphere-camera-systems/"><u>[Updated] In 2024, Total Sphere Camera Systems</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-high-octane-comparison-gopro-hero-4-vs-drift-ghost-s/"><u>2024 Approved High Octane Comparison GoPro Hero 4 Vs. Drift Ghost-S</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/chatgpt-and-google-bard-face-off-determining-the-leading-language-model/"><u>ChatGPT and Google Bard Face-Off: Determining the Leading Language Model</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-huawei-nova-y71-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Huawei Nova Y71 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12r-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12R phone? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-advanced-methods-for-creating-quick-quality-thumbnails/"><u>In 2024, Advanced Methods for Creating Quick, Quality Thumbnails</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-t2-pro-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo T2 Pro 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-honor-magic-6-lite-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Honor Magic 6 Lite Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-from-long-to-short-a-beginners-guide-to-splitting-videos-in-windows-live-movie-maker-for-2024/"><u>New From Long to Short A Beginners Guide to Splitting Videos in Windows Live Movie Maker for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-poco-f5-pro-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Poco F5 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y78t-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y78t</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-p40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel P40 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g-stylus-2023-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G Stylus (2023) fingerprint</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update your drivers on Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-samsung-galaxy-a23-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Samsung Galaxy A23 5G?</u></a></li>
-<li><a href="https://techidaily.com/will-galaxy-m34-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy M34 play AVCHD mts files?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-begin-with-class-in-every-screen-best-intro-editor-app/"><u>[New] In 2024, Begin with Class in Every Screen Best Intro Editor App</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-17-premier-lights-and-cameras/"><u>[New] The Ultimate Guide 17 Premier Lights & Cameras</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-the-editors-pathway-for-diminishing-sound-levels/"><u>[Updated] The Editor's Pathway for Diminishing Sound Levels</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-effortless-conversion-youtube-videos-to-mac-ratio/"><u>2024 Approved Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/cracking-windows-policy-on-script-execution-with-powershell/"><u>Cracking Windows Policy on Script Execution with PowerShell</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722880033241-deciding-between-building-or-purchasing-your-own-computer-find-out-the-best-option/"><u>Deciding Between Building or Purchasing Your Own Computer - Find Out the Best Option</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oppo-a38-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Oppo A38 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-xs-max-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone XS Max to Factory Settings? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-lock-screen-without-password-infinix-note-30-vip-racing-edition-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Lock Screen without Password(Infinix Note 30 VIP Racing Edition)</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-guide-to-crypto-conversion-best-generator-list-for-2024/"><u>The Ultimate Guide to Crypto Conversion – Best Generator List for 2024</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Samsung Galaxy XCover 6 Pro Tactical Edition?</u></a></li>
 </ul></div>
 

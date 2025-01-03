@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-12-26T16:31:29.954Z
-updated: 2025-01-02T00:44:19.640Z
+date: 2025-01-02T06:31:42.848Z
+updated: 2025-01-03T02:04:40.588Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [What Is the lolcat Command?](https://extra-lessons.techidaily.com/dissecting-the-utility-of-sns-hdr-for-hdri-tasks/)
@@ -23,10 +19,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Animate Your Text Using lolcat](https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-storm-5g-drfone-by-drfone-virtual-android/)
 * [Create Colorful ASCII Text Banner](https://unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-infinix-hot-40i-by-drfone-android/)
 * [Make Things Interesting With cowsay](https://youtube-docs.techidaily.com/024-approved-optimal-video-posting-frequency-for-increased-youtube-popularity/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -98,7 +90,7 @@ ls | lolcat
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
@@ -115,6 +107,10 @@ neofetch | lolcat
 
 ![Getting system information in rainbow colored format using neofetch and lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/neofetch-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also [create a permanent alias](https://hardware-help.techidaily.com/download-the-latest-logitech-camera-drivers-at-no-cost-for-windows-users/) for a frequently used command to automatically output in vibrant colors. For example, you can permanently set up an alias for the ls -l command by adding the following line to the [\~/.bashrc file](https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/):
 
 alias lolls="ls -l | lolcat"
@@ -125,6 +121,10 @@ vim ~/.bashrc
 
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -134,7 +134,7 @@ lolls
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
@@ -179,6 +179,10 @@ figlet "Welcome to HTG" | lolcat
 
 ![Displaying ASCII text banner in rainbow colored format using figlet and lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also adjust the fonts used by figlet to create different styles of text. For example, to get the same previous banner with a different font, run this:
 
 figlet -f slant "Welcome to HTG" | lolcat
@@ -186,7 +190,7 @@ figlet -f slant "Welcome to HTG" | lolcat
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Make Things Interesting With cowsay
@@ -217,10 +221,6 @@ cowsay -f tux "Linux is cool" | lolcat
 
 ![Displaying a rainbow-colored tux in the terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tux-lolcat-cowsay.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Tux has never looked so fabulous!
 
 ---
@@ -242,16 +242,14 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[New] In 2024, The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-facebook-financial-gains-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking Facebook Financial Gains A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-hidden-shotshaper-advanced-stealthy-methods-for-capturing-images/"><u>2024 Approved Hidden ShotShaper Advanced Stealthy Methods for Capturing Images</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-vector-graphics-101-overview-of-varieties-and-tools/"><u>2024 Approved Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-for-resolving-logitech-g-hub-problems-on-windows-systems/"><u>Expert Tips for Resolving Logitech G Hub Problems on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100t | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/prestige-pickers-top-ranked-websites-for-snapping-alert-songs/"><u>Prestige Pickers Top-Ranked Websites for Snapping Alert Songs</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-narzo-60x-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme Narzo 60x 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-11-pro-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 Pro screen lock without passcode</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-12-5g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi 12 5G won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://youtube-web.techidaily.com/bes-richest-content-creator-ever-for-2024/"><u>YouTube's Richest Content Creator Ever for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-visions-to-reality-vrs-historical-journey/"><u>[Updated] 2024 Approved Visions to Reality VR's Historical Journey</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-excellence-in-gaming-graphics-at-4k-speeds/"><u>[Updated] In 2024, Excellence in Gaming Graphics at 4K Speeds</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/access-top-10-trending-apps-with-google-play-store-on-your-firestick-or-fire-tablet/"><u>Access Top 10 Trending Apps with Google Play Store on Your Firestick or Fire Tablet</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oppo-a38-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo A38 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-play-7t-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Play 7T Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-c51-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C51 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-11-pro-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 11 Pro Is Unlocked</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/most-effective-chatgpt-techniques-on-github-repository/"><u>Most Effective ChatGPT Techniques on GitHub Repository</u></a></li>
 </ul></div>
 

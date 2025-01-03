@@ -1,7 +1,7 @@
 ---
 title: Mastering Side-by-Side File Comparisons with Notepad++ Tutorial
-date: 2024-12-27T17:21:07.266Z
-updated: 2025-01-02T13:43:16.845Z
+date: 2025-01-02T07:45:31.206Z
+updated: 2025-01-02T21:56:51.982Z
 tags:
   - desktop
 categories:
@@ -29,10 +29,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![The installation path and 'Next' highlighted in Notepad++'s installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-notepad-plus-plus-installation-path.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Enable the "Plugins Admin" option in the component list on the "Choose Components" screen. Then, at the bottom, select "Next."
 
 !['Plugins Admin' and 'Next' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2-install-plugins-admin-notepad-plus-plus.png) 
@@ -41,15 +37,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Create Shortcut on Desktop' and 'Install' highlighted in the Notepad++ installation wizard.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/3-create-notepad-plus-plus-desktop-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When you’ve installed the app, click "Finish."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 2\. Install the Compare Plugin Using Plugins Admin
 
@@ -65,16 +53,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Available,' 'Compare,' and 'Install' highlighted on the 'Plugins Admin' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5-install-compare-plugin-notepad-plus-plus.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Notepad++ will display a prompt saying the app will relaunch if you install the plugin. If you’ve saved your unsaved work in the app, choose "Yes" in the prompt to allow the app to close and install your plugin.
 
 !['Yes' highlighted in the 'Notepad++ is about to exit' prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/6-restart-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "User Account Control" prompt, select "Yes."
 
  Notepad++ will relaunch with the Compare plugin installed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 3\. Compare Two Files in Notepad++
@@ -97,25 +93,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Rotate to Left' and 'Rotate to Right' options highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10-change-view-mode-notepad-plus-plus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To change the colors used to highlight differences, from the app’s menu bar, select Plugins > Compare > Settings.
 
 !['Settings' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/11-compare-plugin-settings-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the "Compare Plugins" window, in the "Color Settings" section, choose the various colors you’d like to use. Then, click "OK." To revert your changes, choose "Reset."
 
 !['Color Settings' and 'OK' highlighted on the 'Compare Plugin Settings' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/12-change-color-settings-compare-plugin-notepad-plus-plus.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After using the plugin, when you want to close the plugin’s functionality, select Plugins > Compare > Clear All Compares from the menu bar.
 
 !['Clear All Compares' highlighted in Notepad++.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/13-clear-comparison-notepad-plus-plus.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And that’s how you quickly know the difference between two files using a free and open-source app on your computer. Notepad++ is a great [plain text editor](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-yuva-3-drfone-by-drfone-virtual-android/), and it can natively do all sorts of useful things besides compare files, like [replace specific characters with new lines](https://screen-mirror.techidaily.com/the-top-10-apple-iphone-6-plus-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/). It shines even more when you start adding plugins.
 
@@ -134,18 +134,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-radiance-and-refine-essential-editing-secrets-revealed/"><u>[Updated] Radiance and Refine Essential Editing Secrets Revealed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-taking-the-plunge-a-beginners-guide-to-metaverse-memes-and-gags/"><u>2024 Approved Taking the Plunge A Beginner's Guide to Metaverse Memes and Gags</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-z-flip-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy Z Flip 5 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ex3700-wireless-range-extender-by-netgear-ac750-a-full-review-for-potential-buyers-with-tips-and-comparisons/"><u>EX3700 Wireless Range Extender by Netgear AC750: A Full Review for Potential Buyers with Tips & Comparisons</u></a></li>
-<li><a href="https://discover-answers.techidaily.com/how-to-migrate-your-android-information-to-iphone-at-no-cost-three-effective-strategies/"><u>How to Migrate Your Android Information to iPhone at No Cost – Three Effective Strategies</u></a></li>
-<li><a href="https://games-able.techidaily.com/how-to-play-emulated-games-on-your-steam-deck-with-emudeck/"><u>How to Play Emulated Games on Your Steam Deck With EmuDeck</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-explore-the-advantages-of-switching-to-macos-11-big-sur/"><u>In 2024, Explore the Advantages of Switching to macOS 11 Big Sur</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-itel-a60-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Itel A60 on Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/streamlined-methods-for-saving-videos-on-desktops-tablets-and-phones/"><u>Streamlined Methods for Saving Videos on Desktops, Tablets & Phones</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/the-quest-for-enchanted-speech-is-the-magic-app-real-uncover-other-pathways/"><u>The Quest for Enchanted Speech Is the Magic App Real? Uncover Other Pathways</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-google-pixel-7a-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Google Pixel 7a</u></a></li>
-<li><a href="https://techidaily.com/top-iphone-13-mini-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 mini Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-the-lens-focus-techniques-for-storify-success/"><u>[New] 2024 Approved Mastering the Lens Focus Techniques for Storify Success</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-forecasting-facebooks-video-trajectory-with-a-focus-on-brevity/"><u>[New] In 2024, Forecasting Facebook's Video Trajectory with a Focus on Brevity</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-temporaryfreeze-immediate-recording-guide/"><u>[New] In 2024, TemporaryFreeze Immediate Recording Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-all-about-youtube-micro-videos/"><u>2024 Approved All About YouTube Micro Videos</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-s24plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy S24+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-magic-6-lite-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Magic 6 Lite in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ve-your-youtube-description-using-amazing-templates-for-2024/"><u>Improve Your YouTube Description Using Amazing Templates for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-plus-in-lost-mode-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 Plus in Lost Mode</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-elevating-content-strategy-with-effective-youtube-partnerships/"><u>In 2024, Elevating Content Strategy with Effective YouTube Partnerships</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-adobe-premiere-pro-for-mac-the-ultimate-pro-video-editing-tool/"><u>New 2024 Approved Adobe Premiere Pro for Mac The Ultimate Pro Video Editing Tool</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-connectivity-how-to-access-your-phone-number-from-various-devices-effortlessly/"><u>Seamless Connectivity: How to Access Your Phone Number From Various Devices Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Xiaomi Redmi Note 13 Pro+ 5G.</u></a></li>
 </ul></div>
 

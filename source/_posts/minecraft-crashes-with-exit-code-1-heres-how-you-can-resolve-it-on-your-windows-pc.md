@@ -1,7 +1,7 @@
 ---
 title: Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
-date: 2024-12-29T13:44:32.641Z
-updated: 2025-01-02T15:06:09.122Z
+date: 2024-12-28T21:43:04.959Z
+updated: 2025-01-03T00:05:59.912Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Change the Java Executable File](https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/)
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * The _Minecraft_ Exit Code 1 error often appears when the mod version you're using is different from the game version. You should make sure the mod version you use matches your _Minecraft_ version.
@@ -32,10 +28,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 _Minecraft_ is still one of the most popular games on the planet, but it's far from perfect. Sometimes the game will crash with the "Exit Code 1" error, leaving it in an unplayable state. Fortunately, it's a common issue, and we will show you how to fix it in no time.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use the Correct Mod Version
 
  One of the main reasons you're running into the Exit Code 1 error on _Minecraft_ is because your mod version doesn't match the _Minecraft_ version installed on your computer. All of the mods you're using should be the same as the version of _Minecraft_ you're using.
@@ -43,7 +35,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
@@ -51,10 +43,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
@@ -79,7 +67,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
@@ -101,7 +89,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Check for Updates option on the AMD Software Adrenaline Edition app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-on-the-amd-software-adrenaline-edition-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your computer has an NVIDIA graphics driver, download and install the [GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/) or [the newer NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/). Switch to the "Drivers" tab and click the "Check for Update" button. The program will go online to check for [updates to your NVIDIA graphics driver](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/). If it finds any, you will be given the option to download it.
@@ -109,19 +97,23 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Check for Updates option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-in-the-geforce-experience-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click the "Download" button next to the Game Ready Driver.
 
 ![Download option on the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-geforce-experience-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the download process is complete, choose the "Express Installation" option and then follow the on-screen instructions to complete the NVIDIA graphics driver installation process.
 
 ![Express Installation option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/express-installation.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have an Intel graphics driver, you can visit the [Intel official website](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:@tabfilter=[Downloads]&f:@stm%5F10385%5Fen=[Graphics]) and download the latest update for your graphics driver. The downloaded file will be in an executable format, which you can install like any other Windows application.
@@ -160,10 +152,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
         `C:\Program Files\Java\jre-1.8\bin`
@@ -175,6 +163,10 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
  Now, restart the game and check for the issue again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Reinstall _Minecraft_ 
 
@@ -188,9 +180,17 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have installed _Minecraft_, you can move the "Saves" folder to the following location:
 
@@ -217,22 +217,24 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-best-match-image-taking-and-music-merging-technology/"><u>[New] Best Match Image Taking & Music Merging Technology</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] In 2024, Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[Updated] In 2024, Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg/"><u>[Updated] In 2024, Revolutionizing Movie Magic with the 4K 31MU97-B From LG</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C22 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-t2x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo T2x 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y27-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y27 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-steps-for-mending-windows-hello-fingerprint-issues/"><u>Quick Steps for Mending Windows Hello Fingerprint Issues</u></a></li>
-<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-6s-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 6s screen lock</u></a></li>
-<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-15-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 15</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-huawei-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Huawei .</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unveiling-six-compelling-advantages-of-snapchats-intelligent-feature-over-merely-entertainment/"><u>Unveiling Six Compelling Advantages of Snapchat's Intelligent Feature Over Merely Entertainment</u></a></li>
-<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2019-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2019 File Error</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-phantom-v-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Phantom V Fold Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-poco-c51-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Poco C51 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/envisioning-visionos-future-my-top-picks-of-what-i-hope-apple-unveils-at-this-weeks-wwdc-event/"><u>Envisioning VisionOS Future: My Top Picks of What I Hope Apple Unveils at This Week's WWDC Event</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/fitness-pros-secret-to-more-accurate-chatgpt-prompt-responses/"><u>Fitness Pros' Secret to More Accurate ChatGPT Prompt Responses</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-conceptualization-to-production-writing-engaging-documentary-stories-for-2024/"><u>From Conceptualization to Production Writing Engaging Documentary Stories for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-google-pixel-8-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Google Pixel 8 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g13-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G13 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-lava-blaze-2-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Blaze 2 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-k11x-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo K11x without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-vs-2-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/locate-missing-files-effortlessly-using-microsofts-latest-recall-functionality-compatible-only-with-certain-pc-models-zdnet/"><u>Locate Missing Files Effortlessly Using Microsoft's Latest Recall Functionality - Compatible Only With Certain PC Models | ZDNet</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1629281-9781459728462-meeting-place-of-the-dead/"><u>Meeting Place of the Dead | Free Book</u></a></li>
+<li><a href="https://win-lab.techidaily.com/mengubah-jenis-pusat-pelayanan-data-anda-dari-hdd-menjadi-ssd-di-windows-11-alamat-tiga-langkah/"><u>Mengubah Jenis Pusat Pelayanan Data Anda Dari HDD Menjadi SSD Di Windows 11 - Alamat Tiga Langkah</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xperia-5-v-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xperia 5 V on Windows</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v10-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.0 File</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-10-apps-to-excitingly-edit-horizontal-and-vertical-igtv-for-2024/"><u>Top 10 Apps to Excitingly Edit Horizontal and Vertical IGTV for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-5-features-of-the-aphaca-bt69-the-ultimate-wireless-fm-transmitter-for-an-immersive-listening-experience/"><u>Top 5 Features of the Aphaca BT69 - The Ultimate Wireless FM Transmitter for an Immersive Listening Experience</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
 </ul></div>
 

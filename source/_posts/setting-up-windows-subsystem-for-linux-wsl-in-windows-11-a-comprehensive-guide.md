@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2024-12-26T19:38:44.435Z
-updated: 2025-01-02T08:44:18.847Z
+date: 2024-12-30T19:17:21.772Z
+updated: 2025-01-02T22:02:37.604Z
 tags:
   - deals
 categories:
@@ -11,25 +11,21 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ## Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How WSL Works on Windows 11](https://screen-sharing-recording.techidaily.com/easy-ways-to-record-steam-gameplay-2023-for-2024/)
 * [Install WSL through Windows Terminal](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/)
 * [The Slow Way: Enable WSL and Install a Distro](https://smart-video-creator.techidaily.com/new-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  To install the Windows Subsystem for Linux (WSL) on Windows 11, run Terminal as administrator, then enter "wsl --install" into the window. Run "wsl --install -d Distro", replacing "Distro" with the name of a Linux distro, to install a specific distribution instead of Ubuntu. You can install additional Linux distros from the Terminal or the Microsoft Store.
 
  The Windows Subsystem for Linux (WSL) lets you run Linux software on your Windows 11 PC. When you enable WSL, Windows will install a custom-built Linux kernel. You can then install Ubuntu or another Linux distribution of your choice.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How WSL Works on Windows 11
 
@@ -54,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  To launch a Windows Terminal with Administrator permissions, right-click the Start button on the taskbar or press Windows+X and click "Terminal (Admin)." (You can also find the Windows Terminal shortcut in your Start menu—right-click it and select "Run as Administrator.") Agree to the User Account Control prompt that appears.
 
 ![Right-click the Start button, then select "Terminal (Admin)."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To enable the Windows Subsystem for Linux and install Ubuntu, which is the default distribution, just run the following command:
 
@@ -84,7 +84,7 @@ wsl --install -d Debian
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
@@ -94,14 +94,10 @@ wsl --install -d Debian
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
 
@@ -120,6 +116,10 @@ wsl --install -d Debian
  Install the Linux distribution that you want to use (like Ubuntu) as you would any other application. Just click the "Get" button on its Store page.
 
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now launch it from your Start menu just as if it were installed from the command above. 
 
@@ -140,20 +140,24 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-engaging-audiences-through-vimeo-shares/"><u>[New] 2024 Approved Engaging Audiences Through Vimeo Shares</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-comprehensive-explanation-of-googles-automatic-transcription-technology/"><u>[New] Comprehensive Explanation of Google's Automatic Transcription Technology</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-explore-and-enjoy-virtual-reality-cinema-on-your-ipad/"><u>[New] Explore and Enjoy Virtual Reality Cinema on Your iPad</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-vintage-track-simulators-the-quintet/"><u>[New] In 2024, Vintage Track Simulators The Quintet</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-honor-90-lite-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor 90 Lite Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-drfone-by-drfone-ios/"><u>Disabled iPhone 8 How to Unlock a Disabled iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-picking-your-next-device-at-toms-tech-oasis/"><u>Expert Advice on Picking Your Next Device at Tom's Tech Oasis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-11-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 11 Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-motorola-moto-g-stylus-5g-2023-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Motorola Moto G Stylus 5G (2023) Phone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-poco-m6-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Poco M6 5G FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-a59-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo A59 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-galaxy-s23-tactical-edition-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-hunt-and-harvest-game-plan/"><u>[New] In 2024, The Ultimate Hunt and Harvest Game Plan</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-finding-those-who-fled-my-insta-friends/"><u>[Updated] Finding Those Who Fled My Insta Friends</u></a></li>
+<li><a href="https://change-location.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-6-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 6 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-guide-to-8-premium-free-software-apps-windowsmac/"><u>Essential Guide to 8 Premium Free Software Apps (Windows/Mac)</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-meizu-21-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Meizu 21 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS iOS System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-105-classic-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia 105 Classic Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v29-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V29 to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-zte-axon-40-lite-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of ZTE Axon 40 Lite</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-gionee-f3-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Gionee F3 Pro</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/streaming-with-fandango-on-your-apple-tv-a-comprehensive-walkthrough/"><u>Streaming with Fandango on Your Apple TV - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-seamless-media-magic-turning-xml-ssa-into-dynamic-srts/"><u>The Seamless Media Magic Turning XML, SSA Into Dynamic SRTs</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-m34-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy M34 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-samsung-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Samsung .</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-a56s-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo A56s 5G</u></a></li>
+<li><a href="https://win-superb.techidaily.com/troubleshooting-windows-security-access-problems-in-windows-10-learn-4-proven-fixes/"><u>Troubleshooting Windows Security Access Problems in Windows 10 - Learn 4 Proven Fixes</u></a></li>
 </ul></div>
 

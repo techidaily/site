@@ -1,7 +1,7 @@
 ---
 title: "Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems"
-date: 2024-12-27T07:38:38.019Z
-updated: 2025-01-02T10:51:38.298Z
+date: 2024-12-30T05:32:05.694Z
+updated: 2025-01-03T05:20:51.629Z
 tags:
   - deals
 categories:
@@ -26,7 +26,15 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  The Windows Subsystem for Linux, introduced in the [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/), became a stable feature in the [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/). You can now run Ubuntu, openSUSE, a remix of Fedora, and plenty of others on Windows, with more Linux distributions coming soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What You Need to Know About Windows 10's Bash Shell
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
 
@@ -48,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  WSL2 supports GUI applications on Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Install Bash on Windows 10
 
  This feature doesn't work on the 32-bit version of Windows 10, so [ensure you're using the 64-bit version of Windows](https://extra-tips.techidaily.com/acclaimed-websites-for-google-pixel-tonal-sounds-for-2024/). It's time to [switch to the 64-bit version of Windows 10](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/) if you're still using the 32-bit version, anyway.
@@ -55,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  Assuming you have 64-bit Windows, to get started, head to Control Panel > Programs > Turn Windows Features On Or Off. Enable the "Windows Subsystem for Linux" option in the list, and then click the "OK" button.
 
 ![Open up the Windows Features menu, scroll down until you find &quot;Windows Subsystem for Linux,&quot; then tick the box and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985001e7f37.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "Restart now" when you're prompted to restart your computer. The feature won't work until you reboot.
 
@@ -70,13 +78,13 @@ wsl --install
 
 ![PowerShell running WSL install command successfully.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/WSL-install.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After your computer restarts, open the Microsoft Store from the Start menu, and search for "Linux" in the store.
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
@@ -89,6 +97,10 @@ wsl --install
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
 
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use The Bash Shell and Install Linux Software
 
@@ -117,7 +129,7 @@ wsl --install
 ![Running &quot;bash&quot; in the Command Prompt will launch your default Linux environment.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985b14e9795.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're experienced using a Bash shell on Linux, Mac OS X, or other platforms, you'll be right at home.
@@ -139,6 +151,10 @@ wsl --install
  For more instructions, consult [our beginner's guide to the Linux command-line](https://facebook-clips.techidaily.com/downloading-facebook-gifs-pc-android-and-ios-guide/) and other similar introductions to the Bash shell, Ubuntu command line, and Linux terminal online.
 
 ![The command &quot;ls&quot; run in the C:\ directory to list files and folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985d46b3c57.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll need to [use the apt command](https://screen-sharing-recording.techidaily.com/updated-best-practices-in-winning-tv-recording-with-software/) to install and update the Ubuntu environment's software. Be sure to prefix these commands with `sudo` , which makes them run as root--the Linux equivalent of Administrator. Here are the apt-get commands you'll need to know:
 
@@ -162,24 +178,16 @@ wsl --install
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
 ![Open the font ZIP file, then double-click the font you want to preview or install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985eba01a04.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Double-click the "UbuntuMono-R.ttf" file and you'll see a preview of the font. Click "Install" to install it to your system.
 
 ![Click &quot;Install&quot; near the top if you want to use the font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985ee273570.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Console
@@ -202,19 +210,11 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use the Ubuntu Monospace Font in the Terminal
 
  If you're using the Windows Terminal—and you should be, it is [a big improvement in most ways](https://video-screen-grab.techidaily.com/updated-2024-approved-effortless-screen-saving-on-android-devices/)—changing fonts is easier. After you've installed the Ubuntu font, open up the Terminal, click the small downward facing arrow, and select "Settings."
 
 ![Open the Terminal Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/open-settings-terminal.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Open to Defaults > Appearance, then select "Ubuntu Mono" from the list of available fonts.
 
@@ -223,7 +223,7 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
@@ -243,16 +243,20 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-superior-gameplay-androids-leading-gba-emulators/"><u>[New] 2024 Approved Superior Gameplay Android's Leading GBA Emulators</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>[Updated] Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/assemble-visual-media-for-queue-upgrade/"><u>Assemble Visual Media for Queue Upgrade</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-resolving-dvd-playback-errors-in-windows-systems/"><u>Diagnosing and Resolving DVD Playback Errors in Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g84-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G84 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-selecting-androids-best-youtube-video-extractors/"><u>In 2024, Selecting Android's Best YouTube Video Extractors</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-m14-4g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy M14 4G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-google-pixel-8-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-voip-platforms-evaluated-does-vonage-maintain-its-position-as-the-best-choice/"><u>Top VoIP Platforms Evaluated: Does Vonage Maintain Its Position as the Best Choice?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[New] 2024 Approved Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-streamlining-srt-file-integration-on-digital-platforms/"><u>[New] In 2024, Streamlining SRT File Integration on Digital Platforms</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-hackers-handbook-advanced-win11-tactics/"><u>[New] The Hacker's Handbook Advanced Win11 Tactics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-building-your-way-to-greatness-a-complete-guide-to-valorant-video-thumbnails/"><u>[Updated] Building Your Way to Greatness A Complete Guide to Valorant Video Thumbnails</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards/"><u>[Updated] In 2024, Exclusive Look Top 5 Value-for-Money Gaming Mice & Keyboards</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 11 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-8-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 8 Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2022) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v20-files-on-my-mac-using-tool-by-stellar-guide/"><u>Repair corrupt PDF v2.0 files on my Mac using tool</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-your-pcs-no-bootable-device-dilemma-step-by-step-fixes/"><u>Solve Your PC's 'No Bootable Device' Dilemma: Step-by-Step Fixes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-final-verdict-on-vegas-pro-21-a-sports-enthusiasts-review/"><u>The Final Verdict on Vegas Pro '21 - A Sports Enthusiast's Review</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-4-apple-devices-to-avoid-purchasing-at-this-moment-insights/"><u>Top 4 Apple Devices To Avoid Purchasing at This Moment: Insights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-s23plus-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy S23+ Phone Network-Ready</u></a></li>
 </ul></div>
 

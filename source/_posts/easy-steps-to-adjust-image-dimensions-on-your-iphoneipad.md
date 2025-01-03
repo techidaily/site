@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Adjust Image Dimensions on Your iPhone/iPad
-date: 2024-12-26T23:20:19.593Z
-updated: 2025-01-01T16:17:52.091Z
+date: 2025-01-01T23:16:20.904Z
+updated: 2025-01-03T00:39:50.517Z
 tags:
   - mobile
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The editor in the Photos app is quite feature-rich, but you can't change the file size of photos. Luckily, you can use a shortcut or a third-party app to resize or reduce photo size on iPhone and iPad. Here's how.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Resize a Photo Using Shortcuts
 
  If you need to reduce a photo's resolution or file size, look no further [than the Shortcuts app](https://fox-http.techidaily.com/new-the-ultimate-guide-to-gopro-hero5-time-lapse-photography/). Shortcuts is Apple's built-in automation tool that helps you create your own tools and simplify multi-step processes that you perform frequently.
@@ -27,7 +31,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Just looking to crop a photo, rather than make the entire image smaller? You can [crop images in the Photos app](https://screen-mirroring-recording.techidaily.com/in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/) itself by tapping the "Edit" button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Creating an Image Resize Shortcut
@@ -49,13 +53,13 @@ Close
 ![The 'Resize' function followed by a 'Save' function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/09/8saveimage.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By default, this action will save the resized image to the "Recents" album. If you want, you can tap the "Recents" button to change the album.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Adding the Shortcut to the Share Sheet
@@ -69,7 +73,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Using the Shortcut to Resize an Image
@@ -81,10 +85,6 @@ Close
 Close 
 
  If you tried increasing the size of an image and it came out blurry or pixelated, you can [try a free or paid AI tool to upscale it](https://unlock-android.techidaily.com/in-2024-lock-your-vivo-y36i-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/) instead.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Resize a Photo Using a Third-Party App
 
@@ -121,17 +121,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-hps-simplified-guide-to-capturing-and-storing-pc-screen-content-for-2024/"><u>[New] HP's Simplified Guide to Capturing and Storing PC Screen Content for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-design-and-produce-your-fb-profile-vids/"><u>[New] In 2024, Design and Produce Your FB Profile Vids</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unleashing-potential-essential-win11-tools/"><u>2024 Approved Unleashing Potential Essential Win11 Tools</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-transactions-your-guide-to-navigating-apple-pay-with-an-apple-watch/"><u>Mastering the Art of Transactions: Your Guide to Navigating Apple Pay with an Apple Watch</u></a></li>
-<li><a href="https://howto.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-spark-10-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Spark 10 5G</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/top-trending-snapchat-augmentations-for-your-photos/"><u>Top Trending Snapchat Augmentations for Your Photos</u></a></li>
-<li><a href="https://some-tips.techidaily.com/uncovering-the-hidden-fees-of-that-free-smartphone-from-wireless-providers-insights-by-zdnet/"><u>Uncovering the Hidden Fees of That 'Free' Smartphone From Wireless Providers - Insights by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo .</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 10</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-frame-rate-showdown-evaluating-30fps-and-60fps-in-videography/"><u>[New] In 2024, Frame Rate Showdown Evaluating 30Fps and 60Fps in Videography</u></a></li>
+<li><a href="https://win-dash.techidaily.com/a-comprehensive-guide-on-acquiring-and-setting-up-your-epson-xp-830-printer-drivers/"><u>A Comprehensive Guide on Acquiring and Setting Up Your Epson XP-830 Printer Drivers</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/addressing-screen-anomalies-on-windows-7/"><u>Addressing Screen Anomalies on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/create-unique-instagram-ringtone-at-home/"><u>Create Unique Instagram Ringtone at Home</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 Plus System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xs-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XS Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-x-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone X Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-audio-recording-excellence-with-audacity/"><u>Pro Audio Recording Excellence with Audacity</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/subscriber-surge-strategy-on-flexible-budget-for-2024/"><u>Subscriber Surge Strategy on Flexible Budget for 2024</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-zte-blade-a73-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of ZTE Blade A73 5G on Mac?</u></a></li>
 </ul></div>
 

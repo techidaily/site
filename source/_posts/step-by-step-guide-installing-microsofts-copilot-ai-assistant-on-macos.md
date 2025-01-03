@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-12-27T10:25:36.238Z
-updated: 2025-01-02T08:32:44.775Z
+date: 2024-12-30T01:02:33.226Z
+updated: 2025-01-03T00:37:55.918Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ## Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
  There isn't a dedicated Mac app for Microsoft's Copilot AI companion. Fortunately, if you want to use it on your Mac, you've got two good options to choose from. Let's take a look at them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Copilot Web App
 
  Microsoft's Copilot AI assistant is available on the web in any web browser. You can simply load it up in whatever browser you use and access it from there. A better option, though, is to save it as a web app.
@@ -31,25 +35,29 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
 
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
 
 ![Microsoft Copilot running as a web app in Safari on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-running-as-a-web-app-in-safari-on-a-mac.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need to switch to the full Safari at any time, go to File > Open in Safari. If you no longer need the web app, you can delete it. Open Launchpad, then click and hold on the Copilot icon, and click the "X" button when it appears.
 
  You can save web apps in other browsers, too. In Chrome, tap the three-dot menu button, go to More Tools > Create Shortcut, check "Open as Window", and click "Create". In Edge, click the three-dot menu button and go to Apps > Install This Site as an App.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run the Copilot iPad App on Your Mac
 
@@ -61,17 +69,9 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
 
@@ -98,16 +98,21 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-arcade-affordability-index/"><u>[New] 2024 Approved ARCADE AFFORDABILITY INDEX</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/download-ripit-for-free-top-choice-and-best-alternatives-for-mac-users/"><u>Download RipIt for Free: Top Choice & Best Alternatives for Mac Users</u></a></li>
-<li><a href="https://article-posts.techidaily.com/explore-the-best-7-platforms-for-transforming-art-into-nfts-for-2024/"><u>Explore the Best 7 Platforms for Transforming Art Into NFTs for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-g2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo G2 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-oneplus-ace-2-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Ace 2 Pro Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ideal-sound-compilation-premium-download-locales-for-2024/"><u>Ideal Sound Compilation Premium Download Locales for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-how-the-satechi-stand-and-hub-elevates-your-mac-miniistudio-experience/"><u>In-Depth Analysis: How the Satechi Stand & Hub Elevates Your Mac Mini/iStudio Experience</u></a></li>
-<li><a href="https://discover-great.techidaily.com/revamp-your-screencast-experience-mastering-audio-enhanced-windows-screen-captures-latest-fixes-and-tips-for-231-users/"><u>Revamp Your Screencast Experience: Mastering Audio-Enhanced Windows Screen Captures - Latest Fixes and Tips for 2^31 Users!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oppo-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Oppo without backup.</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligences-journey-boons-and-busts/"><u>Understanding Artificial Intelligence's Journey: Boons & Busts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unveiling-the-art-of-instagram-video-filming-for-2024/"><u>[New] Unveiling the Art of Instagram Video Filming for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ideal-virtual-sets-crafting-excellent-google-meet-backdrops/"><u>[Updated] In 2024, Ideal Virtual Sets Crafting Excellent Google Meet Backdrops</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/embarking-on-the-av1-coding-journey/"><u>Embarking on the AV1 Coding Journey</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-g-5g-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto G 5G (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-14-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 14 When Its Locked Within Seconds</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-film-like-a-pro-scenic-filter-ideas-for-tiktok-stars/"><u>In 2024, Film Like a Pro Scenic Filter Ideas for TikTok Stars</u></a></li>
+<li><a href="https://driver-install.techidaily.com/rectifying-startech-driver-errors-in-multiple-windows/"><u>Rectifying StarTech Driver Errors in Multiple Windows</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-g42-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of G42 5G on Mac</u></a></li>
+<li><a href="https://fox-where.techidaily.com/section-grovelar-questions/"><u>Section Grovelar Questions:</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-r9-series-with-updated-software/"><u>Secure R9 Series with Updated Software</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-nova-y91-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Nova Y91</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-v27e-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from V27e.</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/top-causes-of-citizen-drop-off-in-government-digital-registration-unveiled-by-abbyys-latest-survay/"><u>Top Causes of Citizen Drop-Off in Government Digital Registration Unveiled by ABBYY's Latest Survay</u></a></li>
 </ul></div>
 

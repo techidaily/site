@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-12-31T06:17:40.557Z
-updated: 2025-01-01T20:03:54.406Z
+date: 2024-12-28T16:41:33.700Z
+updated: 2025-01-02T16:39:14.234Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -23,10 +23,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Xubuntu vs. Ubuntu](https://extra-tips.techidaily.com/complete-overview-the-spinning-lens-revolution-for-2024/)
 
  Ubuntu isn’t your only option for reviving old PCs through Linux. Xubuntu is a lighter version of Ubuntu capable of running on moderately old hardware. Let’s see how well it delivers the Ubuntu experience on an older laptop.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What is Xubuntu?
 
@@ -40,11 +36,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -65,7 +61,7 @@ Close
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Put to the Test: Xubuntu on an Old Laptop
@@ -82,17 +78,21 @@ Close
 
 Close 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Xubuntu vs. Ubuntu
 
@@ -129,21 +129,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-9-androidios-video-chat-platforms-ranked/"><u>[Updated] 2024 Approved Top 9 Android/iOS Video Chat Platforms Ranked</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/44cm44oh44o844k5yig5p6q44gr44gk44gr44kl44ox44ot44k744k544kk44oz44og44oq44k444kn44oz44k544gu55cg6kej77ya5ywl6zaa44ks44kk44oj44cn/"><u>「データ分析におけるプロセスインテリジェンスの理解：入門ガイド」</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-best-7-color-grades-in-editing/"><u>2024 Approved The Ultimate Guide Best 7 Color Grades in Editing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/eradicating-opengl-problems-code-3-and-windows-nvidia/"><u>Eradicating OpenGL Problems: Code 3 & Windows Nvidia</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/how-bosch-enhances-operational-efficiency-with-advanced-abbyy-automation-solutions/"><u>How Bosch Enhances Operational Efficiency with Advanced ABBYY Automation Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m34-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M34 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-motorola-razr-40-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Razr 40 Ultra phone? | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-timestamping-your-youtube-videos-desktop-and-mobile-guide/"><u>In 2024, Timestamping Your YouTube Videos Desktop & Mobile Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/mastering-iphone-capturing-time-stretched-movies/"><u>Mastering iPhone Capturing Time-Stretched Movies</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y56-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y56 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-find-x7-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Find X7</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-iphones-for-gamers-a-comprehensive-ranking/"><u>Top iPhones for Gamers: A Comprehensive Ranking</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2000-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2000 Workbook Issue Fix 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-magix-vpx-unveiled-next-level-media-production-at-your-fingertips/"><u>[New] Magix VPX Unveiled Next-Level Media Production at Your Fingertips</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-edge-40-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Edge 40 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/expedited-driver-changes-for-winos/"><u>Expedited Driver Changes for WINOS</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-oneplus-ace-2-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our OnePlus Ace 2 Pro Phone Screen?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55plus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-jaycut-tutorial-unlock-the-power-of-free-online-video-editing-for-2024/"><u>New Jaycut Tutorial Unlock the Power of Free Online Video Editing for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/next-level-action-gopro-hero5-black-meets-hero4-silver-for-2024/"><u>Next-Level Action GoPro Hero5 Black Meets Hero4 Silver for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-complete-guide-to-building-your-perfect-gamers-paradise-tips-and-tricks/"><u>The Complete Guide to Building Your Perfect Gamer's Paradise - Tips & Tricks</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-play-8t-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor Play 8T</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ultimate-ai-powered-image-editor/"><u>Ultimate AI-Powered Image Editor</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 7</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Tecno Phantom V Flip? | Dr.fone</u></a></li>
 </ul></div>
 

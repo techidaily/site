@@ -1,7 +1,7 @@
 ---
 title: Essential Top 10 TikTok Security Adjustments for Immediate Action
-date: 2024-12-25T18:47:18.310Z
-updated: 2025-01-01T21:14:40.924Z
+date: 2024-12-27T09:04:44.769Z
+updated: 2025-01-03T06:17:08.166Z
 tags:
   - web
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Already banned in many countries and facing restrictions in the US, TikTok is under intense scrutiny due to concerns about data collection. Given this, you may want to be mindful of the information you share on the app and with your followers. Here are some settings you can adjust to improve your privacy.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Set Your Account to Private 
 
  When your profile is public, anyone, whether they have a TikTok account or not, can view your profile and the content you’ve shared. By setting your account to private, only people you approve as followers can see your profile and content. So, to keep your content within a trusted circle of friends and family, you should make your account private.
@@ -37,6 +33,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To do that, tap the profile icon in the bottom-right corner, then tap the three horizontal lines in the top-right corner. Select Settings and Privacy > Privacy, and toggle "Private Account" on.
 
 ![Making a TikTok Acconut Private.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/1-making-a-tiktok-acconut-private.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2  Disable Activity Status 
 
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Disabling Activity Status in TikTok Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/2-disabling-activity-status-in-tiktok-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3  Limit Who Can Mention, Tag, or Comment on Your Posts 
@@ -62,10 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Managing who can mention or tag us on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/5-managing-who-can-mention-or-tag-us-on-tiktok-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 4  Make Your Following List Private 
 
  By default, TikTok allows your followers to view your entire following list, including mutual friends and users they don’t yet follow. This could enable them to track who you follow, potentially leading to unwanted interactions. If any of your followers have malicious intent, they could also target those individuals.
@@ -75,7 +71,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Limiting followers from seeing our Following List on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/6-limiting-followers-from-seeing-our-following-list-on-tiktok.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 5  Control Who Can Send You a DM 
@@ -85,10 +81,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Controlling who can send me a DM on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/controlling-who-can-sent-me-a-dm-on-tiktok.jpg) 
 
  You can also turn off the “Read Status” toggle to prevent others from knowing when you’ve read their messages. Additionally, you can enable “Safe Mode” to filter out messages with sensitive content. You can also turn on the ‘Nude Filter” to block nudity and filter messages containing specific keywords.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6  Change Your Ads Preferences 
 
@@ -101,7 +93,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Tweaking Ad Preferences in TikTok settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/7-tweaking-ad-preferences-in-tiktok-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Turn Off Profile and Post Views History 
@@ -113,7 +105,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Disabling Post View History feature in TikTok settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/8-disabling-post-view-history-feature-in-tiktok-settings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Turn Off Location Services 
@@ -123,6 +115,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  To adjust the Location Services setting, navigate to Settings and Privacy > Privacy > Location Services and select “Never.”
 
 ![Tweaking Location Services settings on TikTok.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/9-tweaking-location-services-settings-on-tiktok.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9  Turn Off Posts in Nearby Feed 
 
@@ -157,18 +157,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-instagram-4-pro-tips-for-looped-video-content/"><u>[New] 2024 Approved Mastering Instagram 4 Pro Tips for Looped Video Content</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-premium-applications-for-animating-3d-scenes/"><u>[New] Premium Applications for Animating 3D Scenes</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-how-to-use-video-titles-and-youtube-tags-for-2024/"><u>[Updated] How to Use Video Titles and YouTube Tags for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-itel-p40-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P40 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-14-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-optimize-your-videos-quickly-with-story-remix-in-windows-10-photos/"><u>In 2024, Optimize Your Videos Quickly with Story Remix in Windows 10 Photos</u></a></li>
-<li><a href="https://win-brilliant.techidaily.com/mastering-the-art-of-cryptocurrency-marketplaces-with-yl-software-solutions/"><u>Mastering the Art of Cryptocurrency Marketplaces with YL Software Solutions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/measuring-movie-gb-usage-over-a-day/"><u>Measuring Movie GB Usage Over a Day</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-a14-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy A14 4G</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-pop-8-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Pop 8? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-clearing-browsing-data-across-all-top-web-browsers/"><u>Ultimate Guide: Clearing Browsing Data Across All Top Web Browsers</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/understanding-the-significant-incidents-during-chinas-hundred-days-reform-era-with-yl-computing-insights/"><u>Understanding the Significant Incidents During China's Hundred Days' Reform Era with YL Computing Insights</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-expand-your-gameplay-leading-xbox-drives-reviewed-for-2024/"><u>[New] Expand Your Gameplay Leading Xbox Drives Reviewed for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-under-100-budget-friendly-action-cams-top-choices-guide/"><u>[Updated] In 2024, Under-$100 Budget-Friendly Action Cams – Top Choices Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-sync-your-ideas-on-mematic/"><u>2024 Approved Seamlessly Sync Your Ideas on Mematic</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-hot-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Hot 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/cutting-edge-psd-effects-guide/"><u>Cutting-Edge PSD Effects Guide</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-e13-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto E13 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-connect-a-docking-station-to-thinkpads-type-c-interface/"><u>How to Connect a Docking Station to ThinkPad's Type-C Interface</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x6-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X6 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-vivo-s18-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo S18 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-7-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 7 to Windows 10? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Smart 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1732133-9781885928245-initiation-into-hermetics/"><u>Initiation Into Hermetics | Free Book</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-google-pixel-fold-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Google Pixel Fold</u></a></li>
+<li><a href="https://techidaily.com/unable-to-save-excel-2003-workbook-issue-fix-2024-stellar-by-stellar-guide/"><u>Unable to Save Excel 2003 Workbook Issue Fix 2024 | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-redmi-a2-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Redmi A2</u></a></li>
 </ul></div>
 

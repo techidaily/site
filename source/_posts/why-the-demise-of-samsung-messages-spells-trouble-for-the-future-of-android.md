@@ -1,7 +1,7 @@
 ---
 title: Why the Demise of Samsung Messages Spells Trouble for the Future of Android
-date: 2024-12-27T11:48:45.212Z
-updated: 2025-01-01T16:38:46.100Z
+date: 2025-01-01T02:21:19.108Z
+updated: 2025-01-03T08:50:53.508Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Why the Demise of Samsung Messages Spells Trouble for the Future of Android
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,12 +25,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Samsung Messages has long been the text messaging app that comes on Samsung phones. Now, it's gone in favor of Google Messages. While Google Messages may be the better app, that doesn't mean this change is a good thing. In many ways, it's a step backward.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  RCS Was Supposed to Replace SMS, Not Become Another Walled Garden
 
 ![Samsung Messages recommending the user of Google Messages instead.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1000060161.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the surface, Google Messages is a texting app like any other. On the backend, though, it's not an online instant messaging app like WhatsApp or Signal. [It's built on RCS](https://screen-activity-recording.techidaily.com/updated-2024-approved-ideal-chat-and-meetup-tools-for-large-groups/), a protocol meant to serve as a replacement for SMS.
 
@@ -44,10 +48,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  There is now only one RCS app on Android: Google Messages. Samsung Messages used to have RCS support, but that feature was retired, and [now the app as a whole is following suit](https://youtube-tips.techidaily.com/ow-to-keep-unwanted-content-away-from-your-computer-and-phone/). There are absolutely valid reasons to [prefer Google Messages over Samsung Messages](https://remote-screen-capture.techidaily.com/new-voice-reinvention-with-technology-rankings-of-7-innovative-audio-tools-for-2024/). The sad part is, for all practical purposes, using RCS on Android now means everyone has to consolidate around the same app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Google Messages Feels, First and Foremost, Like a Google App
 
  Google Messages looks like a Google product. Google branding is present at the top, above your chats, whenever you tap the app icon. When you open settings, you find Google account options first and have to dig deeper to configure the actual app. This leads to the feeling that you're using a Google web service rather than a native app on your phone.
@@ -59,7 +59,7 @@ Close
  Most Android phones now come with Google Messages installed. It doesn't matter if your phone comes from Samsung, Motorola, OnePlus, Sony, or HTC. The text messaging app that once was simply part of the infrastructure of a phone, much like a dialer app, is now yet another Google app joining the likes of Gmail, Google Calendar, Google Maps, and the Play Store itself.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Samsung Messages Integrates With Other Samsung Apps
@@ -83,7 +83,7 @@ Close
  I used to prefer for phones to ship with [stock Android](https://driver-error.techidaily.com/remedy-for-ignored-logitech-unifying-hub-in-oses/). Now, I actually appreciate the distinctions Samsung has made with its devices. Samsung's One UI interface is not the garish affair that the company's former TouchWiz interface once was, and there is a lot of functionality baked into Samsung's system that I miss when using other Android devices.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  There's Now Less Competition Pushing Google to Innovate
@@ -123,22 +123,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-divide-and-conquer-easy-chapter-addition-for-vimeo-videos/"><u>[Updated] 2024 Approved Divide and Conquer Easy Chapter Addition for Vimeo Videos</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-shine-strategy-top-tools-to-brighten-streams/"><u>[Updated] 2024 Approved Shine Strategy Top Tools to Brighten Streams</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-complete-guide-timer-addition-to-video-broadcast-platforms/"><u>[Updated] Complete Guide Timer Addition to Video Broadcast Platforms</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-essential-list-top-16-best-free-video-viewers/"><u>[Updated] Essential List Top 16 Best Free Video Viewers</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-the-ultimate-rank-5-premium-android-image-editing-tools/"><u>[Updated] In 2024, The Ultimate Rank 5 Premium Android Image Editing Tools</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-quick-guide-to-enhanced-video-capturing-in-vlc/"><u>[Updated] Quick Guide to Enhanced Video Capturing in VLC</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y55s-5g-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y55s 5G (2023) Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-narzo-n53-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-itel-a05s-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel A05s Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Hot 40? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus System Issues? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gifts-that-speak-volumes-a-compendium-of-custom-box-shops-online/"><u>In 2024, Gifts That Speak Volumes A Compendium of Custom Box Shops Online</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-14-pro-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 14 Pro Suddenly | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-reno-9a-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Reno 9A</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-creators-lab-building-an-unstoppable-channel/"><u>[New] The Creator's Lab Building an Unstoppable Channel</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-head-to-head-evaluating-google-cardboard-and-samsungs-vr-world/"><u>[Updated] 2024 Approved Head-to-Head Evaluating Google Cardboard and Samsung’s VR World</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hidden-details-you-need-to-know-about-youtube-tv-service/"><u>[Updated] 2024 Approved Hidden Details You Need to Know About YouTube TV Service</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-oppo-a56s-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Oppo A56s 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2208461-9780007287901-an-angel-called-my-name/"><u>An Angel Called My Name | Free Book</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-gt-5-240w-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme GT 5 (240W) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-90-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor 90 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x8b-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X8b Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-find-x6-pro-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo Find X6 Pro Device</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-social-media-live-services-showdown-facebook-vs-youtube-vs-twitter-spaces/"><u>In 2024, Social Media Live Services Showdown Facebook Vs. YouTube Vs. Twitter Spaces</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastery-guide-for-instagrams-favorite-interrogation-icon/"><u>Mastery Guide for Instagram's Favorite Interrogation Icon</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y27s-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo Y27s</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-motorola-moto-g34-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Motorola Moto G34 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-f54-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy F54 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/ultimate-guide-finding-and-downloading-mp4-files-for-free/"><u>Ultimate Guide: Finding & Downloading MP4 Files for Free</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s18-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S18 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win11-shadowed-cursor-emerges/"><u>Win11 Shadowed, Cursor Emerges</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2024-12-28T22:45:04.855Z
-updated: 2025-01-02T12:59:46.177Z
+date: 2024-12-27T16:31:05.571Z
+updated: 2025-01-02T22:25:38.982Z
 tags:
   - mobile
 categories:
@@ -19,6 +19,10 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
@@ -30,18 +34,22 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Valve
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
@@ -61,15 +69,7 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Motorola
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
@@ -80,7 +80,7 @@ Motorola
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Other Stuff
@@ -104,20 +104,14 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-zooming-up-your-video-game-with-custom-filters/"><u>[New] In 2024, Zooming Up Your Video Game with Custom Filters</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-star-studded-stories-the-ultimate-guide-to-3-instagram-highlights/"><u>[New] Star-Studded Stories The Ultimate Guide to 3 Instagram Highlights</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[New] Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-deciphering-how-to-find-my-youtube-comments-posts/"><u>[Updated] 2024 Approved Deciphering How To Find My YouTube Comments Posts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-new-era-for-mobile-photography-iphone-x-explored/"><u>[Updated] New Era for Mobile Photography IPhone X Explored</u></a></li>
-<li><a href="https://win-dash.techidaily.com/highly-efficient-at-transferring-large-amounts-of-heat-with-small-temperature-differences/"><u>Highly Efficient at Transferring Large Amounts of Heat with Small Temperature Differences</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-lava-yuva-3-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Yuva 3 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y200e-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y200e 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-edge-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Edge 2023</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-creativity-with-costless-auditory-extras/"><u>Spark Creativity with Costless Auditory Extras!</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Magic V2</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11/10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-elevate-your-content-game-on-youtube-top-11-video-seo-insights/"><u>[New] 2024 Approved Elevate Your Content Game on YouTube Top 11 Video SEO Insights</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-f15-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy F15 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-picks-no-charging-high-definition-video-players-for-pcmacos-for-2024/"><u>Best Picks No-Charging, High Definition Video Players for PC/MacOS for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-13-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 13 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision-for-2024/"><u>Podcasts Vs. YouTube Making an Informed Media Decision for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-non-functional-voice-chat-feature-on-black-ops-cold-war-game/"><u>Troubleshooting Non-Functional Voice Chat Feature on Black Ops Cold War Game</u></a></li>
 </ul></div>
 

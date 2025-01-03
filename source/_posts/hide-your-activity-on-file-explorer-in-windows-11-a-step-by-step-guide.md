@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2024-12-31T12:38:37.708Z
-updated: 2025-01-02T06:39:32.683Z
+date: 2024-12-29T05:21:57.846Z
+updated: 2025-01-03T02:41:39.933Z
 tags:
   - desktop
 categories:
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To manually remove recently accessed items from File Explorer, select the items you wish to delete, right-click, and select "Remove From Recent."
@@ -26,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Manually Remove Recently Accessed Items
@@ -45,13 +49,13 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
  Windows doesn't display a confirmation popup when removing items from the Recent Items folder or Recent section in File Explorer, so proceed with caution while removing items.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Stop Windows From Keeping Recent Items History
 
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Clear the Entire History of Recent Items
 
  There isn't a dedicated feature in Windows that clears the history of your recently accessed items. Instead, you need to remove the entire File Explorer history to eliminate this record.
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
@@ -88,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Clearing File Explorer history from the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-clearing-file-explorer-history-from-the-folder-options-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By doing so, you will erase all the information, and File Explorer will start recording new actions from scratch, ensuring your privacy. Besides clearing your history, you can [customize many other settings](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) in Windows 11 to protect your privacy.
@@ -108,18 +108,14 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-survival-of-the-undead-cutthroat-top-8-zombie-titles/"><u>[New] 2024 Approved Survival of the Undead Cutthroat Top 8 Zombie Titles</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-techniques-for-subtle-sound-diminution-in-audacity/"><u>[New] In 2024, Techniques for Subtle Sound Diminution in Audacity</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-swift-sharing-twitter-to-whatsapp-videos/"><u>[Updated] 2024 Approved Swift Sharing Twitter to WhatsApp Videos</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-top-business-cloud-data-warehouse/"><u>[Updated] In 2024, Top Business Cloud Data Warehouse</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-hot-30-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Hot 30 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/discover-the-leading-spots-in-your-area-to-exchange-and-acquire-secondhand-dvds-ranked/"><u>Discover the Leading Spots in Your Area to Exchange and Acquire Secondhand DVDs - Ranked!</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-install-camera-drivers-on-windows-11-10-8-or-7/"><u>Download & Install Camera Drivers on Windows 11, 10, 8 or 7</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/from-snapchat-to-youtube-uploading-pics/"><u>From Snapchat to YouTube Uploading Pics</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-zte-axon-40-lite-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a ZTE Axon 40 Lite Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-showdown-between-meta-quest-3-and-apple-vision-pro-revealed-is-mark-zuckerbergs-take-right-techreview-by-zdnet/"><u>The Showdown Between Meta Quest 3 & Apple Vision Pro Revealed - Is Mark Zuckerberg's Take Right? | TechReview by ZDNET</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-update-service-failures-quick-and-effective-fixes/"><u>Troubleshooting Windows Update Service Failures - Quick and Effective Fixes</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-y36-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Y36?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-video-cam-gurus-top-picks/"><u>[Updated] Video Cam Gurus Top Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/exploring-the-superiority-of-googles-gemini-vs-chatgpt/"><u>Exploring the Superiority of Google's Gemini Vs. ChatGPT</u></a></li>
+<li><a href="https://win11.techidaily.com/fixes-for-windows-task-management-addressing-misplaced-cpu-metrics/"><u>Fixes for Windows Task Management: Addressing Misplaced CPU Metrics</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-the-lock-screen-and-screen-saver-timeout-settings-on-windows/"><u>How to Change the Lock Screen and Screen Saver Timeout Settings on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-on-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-messages-recovery-recover-deleted-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition Messages Recovery - Recover Deleted Messages from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
 </ul></div>
 

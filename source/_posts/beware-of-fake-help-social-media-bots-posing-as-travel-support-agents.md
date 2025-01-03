@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2024-12-26T11:07:17.157Z
-updated: 2025-01-02T06:50:54.119Z
+date: 2024-12-26T23:24:35.138Z
+updated: 2025-01-02T16:21:25.565Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ## Beware of Fake Help: Social Media Bots Posing as Travel Support Agents
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 * Pay attention to the account handles, photos, join dates, and what they're asking for. Don't trust anything that seems off.
 
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
 
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
@@ -50,12 +46,16 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
@@ -65,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![Fake representative account page using a poorly cropped photo of a NBC news anchor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-07.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Check the account details page and look at when the account was first made. Scam accounts are often extremely “young” since scammers constantly have to make new ones as other attempts are reported and removed.
 
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -92,22 +92,24 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/1-official-guide-in-depth-technology-specifications-of-winx-dvd-ripper-platinum/"><u>1. Official Guide: In-Depth Technology Specifications of WinX DVD Ripper Platinum</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-tips-and-tricks-from-tomntech-expertise/"><u>Advanced Hardware Tips and Tricks From Tom'nTech Expertise</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-mix-fold-3-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Mix Fold 3 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/directing-the-flow-of-gaming-power-epic-plus-steam-integration/"><u>Directing the Flow of Gaming Power: Epic + Steam Integration</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-12-pro-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 12 Pro Data Completely | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-13-mini-to-chromecast-drfone-by-drfone-ios/"><u>How to Cast Apple iPhone 13 mini to Chromecast? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-camon-20-premier-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Camon 20 Premier 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max iOS? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-a-comprehensive-look-at-vr-video-recording-systems/"><u>In 2024, A Comprehensive Look at VR Video Recording Systems</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-crystal-clear-playback-top-5-ultra-hd-gaming-displays-with-hdmi-21-ps5/"><u>In 2024, Crystal Clear Playback Top 5 Ultra HD Gaming Displays with HDMI 2.1 [PS5]</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-samsung-galaxy-s24-ultra-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Samsung Galaxy S24 Ultra Phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/mini-luxe-lights-studiokits-affordable-glow/"><u>Mini Luxe Lights: StudioKit's Affordable Glow</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Play 40C? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Gionee F3 Pro</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-pova-6-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-lost-footage-immediate-removal-impacts/"><u>[Updated] 2024 Approved Lost Footage Immediate Removal Impacts</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/experts-guide-to-the-best-ipad-voice-recording-tools-3-for-2024/"><u>Expert's Guide to the Best iPad Voice Recording Tools #3 for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-6-lite-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic 6 Lite phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-t2-5g-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo T2 5G without App | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-vivo-y78t-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Vivo Y78t</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-accelerate-your-channel-growth-affordable-subscribers-available/"><u>In 2024, Accelerate Your Channel Growth - Affordable Subscribers Available</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-oppo-a2-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Oppo A2 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-microsofts-bold-bet-on-new-ai-processor-technology-poised-to-outshine-macbook-exclusive-zdnet-insight/"><u>Inside Microsoft's Bold Bet on New AI Processor Technology Poised to Outshine MacBook - Exclusive ZDNet Insight</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-magic-v2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic V2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028155116-pcyoutube/"><u>PCで楽にYouTubeオーディオを記録する簡単ガイド</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/regione-free-dvd-conversion-tricks-liberate-il-tuo-dvd-dal-vincolo-di-zona/"><u>Regione-Free DVD Conversion Tricks: Liberate Il Tuo DVD Dal Vincolo Di Zona</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/rt-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-edgeplus-2023-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-p40plus-by-fonelab-android-recover-music/"><u>Undelete lost music from P40+</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-note-30-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Note 30 5G fingerprint</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers in Windows 11/10/7</u></a></li>
 </ul></div>
 

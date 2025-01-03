@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2024-12-31T12:44:33.867Z
-updated: 2025-01-02T05:08:41.504Z
+date: 2024-12-31T23:13:20.592Z
+updated: 2025-01-03T04:39:40.587Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use These Six GNOME Extensions
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Recommended Extensions Installed in Ubuntu Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-recommended-extensions-installed-in-ubuntu-extension-manager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, let's take a quick look at each of the extensions. Starting with Dash to Panel, it transforms the dash (the iconic left-side apps panel on Ubuntu) into a panel similar to the Windows taskbar. Alternatively, you can use Dash to Dock to transform the dash into a macOS-like dock.
 
 Close 
@@ -66,13 +70,13 @@ Close
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
  Here's a guide to using [KDE Connect on Windows](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/). You can expect the same features and workflow with GSConnect on Ubuntu as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Make These Three GNOME Tweaks
 
@@ -84,6 +88,10 @@ Close
 
 ![Set Startup Applications with GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/11-set-startup-applications-with-gnome-tweaks.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, head over to the "Windows" section and make these two tweaks:
 
 1. Select Titlebar Buttons > Placement > Left to move the window buttons to the left, similar to macOS (it's set to right by default).
@@ -92,11 +100,7 @@ Close
 ![Set Window options in GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/12-set-window-options-in-gnome-tweaks.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Finally, Change These Four Settings
@@ -116,16 +120,12 @@ Close
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -146,17 +146,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-from-passion-to-paycheck-a-strategic-guide-to-attracting-brand-backers-on-instagram/"><u>[New] From Passion to Paycheck A Strategic Guide to Attracting Brand Backers on Instagram</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-5-tactics-to-record-gameplay-in-minecraft-via-macos-for-2024/"><u>[New] Top 5 Tactics to Record Gameplay in Minecraft via MacOS for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-guide-to-top-8-gold-text-in-3d-realms/"><u>[Updated] 2024 Approved Ultimate Guide to Top 8 Gold Text in 3D Realms</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-perfecting-remote-conferences-with-focused-scopes/"><u>2024 Approved Perfecting Remote Conferences with Focused Scopes</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-90-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 90 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/ideal-apps-for-editing-and-mixing-dji-video-tapes/"><u>Ideal Apps for Editing and Mixing DJi Video Tapes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-best-no-fee-livestream-options-on-all-devices-for-2024/"><u>In-Depth Analysis of Best No-Fee LiveStream Options on All Devices for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-great-photography-with-your-iphone-or-ipad/"><u>Mastering the Art of Great Photography with Your iPhone or iPad</u></a></li>
-<li><a href="https://driver-error.techidaily.com/overcoming-the-nvidia-geforce-gtx-950-code-43-error-steps-to-successfully-fix-it-on-windows-10/"><u>Overcoming the NVIDIA GeForce GTX 950 Code 43 Error: Steps to Successfully Fix It on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-realme-gt-5-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Realme GT 5 Pro</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 11/10/7</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-elevating-engagement-with-strategic-audio-additions/"><u>[New] 2024 Approved Elevating Engagement with Strategic Audio Additions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-expert-guide-to-cutting-edge-online-streaming-via-vlc-media-player/"><u>[New] Expert Guide to Cutting-Edge Online Streaming via VLC Media Player</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-content-creators-revenue-gain-from-each-click/"><u>2024 Approved Content Creators' Revenue Gain From Each Click</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/advanced-screen-recording-of-facetime-dialogues-for-2024/"><u>Advanced Screen Recording of FaceTime Dialogues for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazonbasics-smartwatch-evaluation-a-top-choice-for-budget-friendly-wearables/"><u>AmazonBasics Smartwatch Evaluation: A Top Choice for Budget-Friendly Wearables</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-10-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 10 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-z-flip-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy Z Flip 5 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c210-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C210 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Car Locator Apps for Vivo S18 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-lava-yuva-3-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Lava Yuva 3 Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 12 | Stellar</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-splitgates-lag-issues-a-comprehensive-guide/"><u>Solving Splitgate's Lag Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-find-x7-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo Find X7</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/transforming-your-dvds-into-mp4-format-top-10-methods-for-windows-and-mac-users/"><u>Transforming Your DVDs Into MP4 Format: Top 10 Methods for Windows and Mac Users</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-play-8t-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor Play 8T</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-6s-plus-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 6s Plus takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

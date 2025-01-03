@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2024-12-30T23:50:37.676Z
-updated: 2025-01-02T13:59:16.939Z
+date: 2024-12-28T02:29:19.484Z
+updated: 2025-01-03T03:33:49.749Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ---
 
 ## Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
@@ -49,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Enter the name of your shortcut, then click 'Create.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-click-create.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From your desktop, right-click on the shortcut, and click "Pin to Start." You can now delete the shortcut on your desktop. You can also select "Unpin from Taskbar" if you don't want it on your taskbar. 
 
  If you set the website to open as a window, it will open immediately as its own window. You can then right-click its shortcut on your taskbar and select "Pin to Taskbar" without using the desktop shortcut.
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Website from Firefox
@@ -65,19 +61,23 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
 ![Create a Firefox Browser Shortcut](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right-click the new Firefox icon on your desktop, and click "Properties." In the Target field, insert the full URL of the website you want to pin after the quotation mark. Here's an example of what the Target field should look like:
 
         `"C:\Program Files (x86)\Mozilla Firefox\firefox.exe" https://www.howtogeek.com`
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "OK."
 
@@ -86,7 +86,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
@@ -114,20 +114,19 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-top-10-live-broadcast-gaming-applications/"><u>[New] Top 10 Live Broadcast Gaming Applications</u></a></li>
-<li><a href="https://win-dash.techidaily.com/5255-drivers-free-downloads-available-now/"><u>5255 Drivers - Free Downloads Available Now!</u></a></li>
-<li><a href="https://some-tips.techidaily.com/eliminate-email-mess-chaos-effortlessly-with-a-smart-tip-that-works-across-all-mail-learn-how-at-zdnet/"><u>Eliminate Email Mess Chaos Effortlessly with a Smart Tip That Works Across All Mail | Learn How at ZDNet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/enhance-your-feed-efficiently-adding-multiple-photographs-and-videos-to-ig-for-2024/"><u>Enhance Your Feed Efficiently Adding Multiple Photographs & Videos to IG for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/game-wont-start-check-your-save-files-and-resolve-issues/"><u>Game Won't Start? Check Your Save Files & Resolve Issues</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y78t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y78t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-12-pro-4g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 12 Pro 4G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-sony-xperia-10-v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 10 V Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-share-apple-iphone-14-plus-screen-with-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Share Apple iPhone 14 Plus Screen with PC | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-overcoming-youtubes-content-id-blockades-with-tactics/"><u>In 2024, Overcoming YouTube's Content ID Blockades with Tactics</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-lava-blaze-2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Lava Blaze 2 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/making-oculus-quest-compatible-with-windows-vr-systems/"><u>Making Oculus Quest Compatible with Windows VR Systems</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-c300-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia C300</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-moto-g84-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-real-time-content-creation-on-facebook-2023-insights/"><u>[New] 2024 Approved Real-Time Content Creation on Facebook, 2023 Insights</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-creative-command-center-studio-for-youtubers/"><u>[Updated] In 2024, Creative Command Center Studio for YouTubers</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-the-complete-guide-to-cd-conversion-and-burning-with-wmp/"><u>[Updated] The Complete Guide to CD Conversion & Burning with WMP</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1728505238845-vs/"><u>『データ復旧』vs『データ復元』: 主要な相違点について深掘り</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on HTC U23? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-sd-card-options-for-gopro-hero-8-plus-7-cameras/"><u>In 2024, Best SD Card Options for GoPro Hero 8 + 7 Cameras</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-why-is-my-social-media-not-showing-suggested-youtube-videos/"><u>In 2024, Why Is My Social Media Not Showing Suggested YouTube Videos?</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-in-2024-how-to-make-a-video-meme-with-4-best-meme-video-makers/"><u>New In 2024, How to Make a Video Meme with 4 Best Meme Video Makers</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-itel-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Itel</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-guide-conducting-a-reverse-image-search-using-your-android-device/"><u>Step-by-Step Guide: Conducting a Reverse Image Search Using Your Android Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-rated-asmr-gear-high-quality-priced-right/"><u>Top-Rated ASMR Gear High Quality, Priced Right</u></a></li>
 </ul></div>
 
