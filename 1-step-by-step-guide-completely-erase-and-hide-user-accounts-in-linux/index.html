@@ -44,8 +44,8 @@
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-2.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png">
 <meta property="og:image" content="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/16-1.png">
-<meta property="article:published_time" content="2024-12-29T21:06:58.245Z">
-<meta property="article:modified_time" content="2025-01-01T10:43:28.743Z">
+<meta property="article:published_time" content="2024-12-28T12:00:58.567Z">
+<meta property="article:modified_time" content="2025-01-02T10:52:47.609Z">
 <meta property="article:author" content="Ian">
 <meta property="article:tag" content="desktop">
 <meta name="twitter:card" content="summary">
@@ -730,15 +730,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-12-30 05:06:58</span>
-        <span class="mobile">2024-12-30 05:06:58</span>
+        <span class="desktop">2024-12-28 20:58</span>
+        <span class="mobile">2024-12-28 20:58</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2025-01-01 18:43:28</span>
-            <span class="mobile">2025-01-01 18:43:28</span>
+            <span class="desktop">2025-01-02 18:52:47</span>
+            <span class="mobile">2025-01-02 18:52:47</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -811,7 +811,7 @@
 <p> In our scenario, we’ll pretend that a user, Eric, has done something that warrants his immediate removal from the premises. At this moment he is unaware of this, he’s still working, and logged in. As soon as you give the nod to security he’s going to be escorted from the building.</p>
 <p> Everything’s set. All eyes are on you.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h2 id="Check-the-Login"><a href="#Check-the-Login" class="headerlink" title="Check the Login"></a>Check the Login</h2><p> Let’s see if he really is logged in and, if he is, how many sessions he’s working with. The <code>who</code> command <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/who.1.html" >will list active sessions <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -823,7 +823,7 @@
                       alt="who in a terminal window"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Eric is logged in once. Let’s see what processes he’s running.</p>
@@ -835,6 +835,10 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/2-2.png"
                       alt="ps -u eric in a terminal window"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> We can see the same processes with more information using the <code>top</code> command. <code>top</code> also has an <code>-U</code> (user) option to restrict the output to the processes owned by a single user. Note that this time it is an uppercase “U.”</p>
 <p>top -U eric</p>
 <p><img  
@@ -850,11 +854,11 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png"
                       alt="Output from top -U eric in a terminal window"
                 > </p>
-<p> It doesn’t look like he’s doing much, just using <code>less</code> to view a file. We’re safe to proceed. But before we kill his processes, we’ll freeze the account by locking the password.</p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+<p> It doesn’t look like he’s doing much, just using <code>less</code> to view a file. We’re safe to proceed. But before we kill his processes, we’ll freeze the account by locking the password.</p>
 <h2 id="Locking-the-Account"><a href="#Locking-the-Account" class="headerlink" title="Locking the Account"></a>Locking the Account</h2><p> We’ll lock the account before we kill the processes because when we kill the processes it will log out the user. If we’ve already changed his password, he won’t be able to log back in.</p>
 <p> The encrypted user passwords are stored in the <code>/etc/shadow</code> file. You wouldn’t normally bother with these next steps, but so that you can see what happens in the <code>/etc/shadow </code> file when you lock the account we’ll take a slight detour. We can use the following command to look at the first two fields of the entry for the <code>eric</code> user account.</p>
 <p>sudo awk -F: ‘&#x2F;eric&#x2F; {print $1,$2}’ &#x2F;etc&#x2F;shadow</p>
@@ -869,13 +873,13 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/18.png"
                       alt="sudo passwd -l eric in a terminal window"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> If we check the <code>/etc/passwd</code> file again, we’ll see what’s happened.</p>
 <p>sudo awk -F: ‘&#x2F;eric&#x2F; {print $1,$2}’ &#x2F;etc&#x2F;shadow</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/21-1.png" alt="sudo awk -F: &#39;/eric/ {print $1,$2}&#39; /etc/shadow in a terminal window"> </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> An exclamation mark has been added to the start of the encrypted password. It doesn’t overwrite the first character, it’s just added to the start of the password. That’s all that’s required to prevent a user from being able to log in to that account.</p>
 <p> Now that we’ve prevented the user from logging back in, we can kill his processes and log him out.</p>
 <h2 id="Killing-the-Processes"><a href="#Killing-the-Processes" class="headerlink" title="Killing the Processes"></a>Killing the Processes</h2><p> There are different ways to <a class="link"   target="_blank" rel="noopener" href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-magic-v2-drfone-by-drfone-virtual-android/" >kill a user’s processes <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, but the command shown here is widely available and is a more modern implementation than some of the alternatives. The <code>pkill</code> command will find and kill processes. We’re passing in the KILL signal, and using the <code>-u</code> (user) option.</p>
@@ -894,10 +898,6 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png"
                       alt="who in a terminal window"
                 > </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> His session is gone. He’s been logged off and his processes have been stopped. That’s taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric’s desk.</p>
 <p>Related: <a class="link"   target="_blank" rel="noopener" href="https://fox-links.techidaily.com/updated-gif-magic-transformations-without-extra-files-downloaded-for-2024/" >How to Add and Remove Users on Ubuntu <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> </p>
 <h2 id="Archiving-the-User’s-home-Directory"><a href="#Archiving-the-User’s-home-Directory" class="headerlink" title="Archiving the User’s home Directory"></a>Archiving the User’s home Directory</h2><p> It’s not out of the question that in a scenario such as this, access to the user’s files will be required in the future. Either as part of an investigation or simply because their replacement may need to refer back to their predecessor’s work. We’ll use the <code>tar</code> command <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/tar.1.html" >to archive their entire home directory <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -910,21 +910,17 @@
 </ul>
 <p>sudo tar cfjv eric-20200820.tar.bz &#x2F;home&#x2F;eric</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-2.png" alt="sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window"> </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> A lot of screen output will scroll in the terminal window. To check the archive has been created, use the <code>ls</code> command. We’re using the <code>-l</code> (long format) and <code>-h</code> (human-readable) options.</p>
 <p>ls -lh eric-20200802.tar.bz</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png" alt="sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window"> </p>
 <p> A file of 722 MB has been created. This can be copied somewhere safe for later review.</p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <h2 id="Removing-cron-Jobs"><a href="#Removing-cron-Jobs" class="headerlink" title="Removing cron Jobs"></a>Removing cron Jobs</h2><p> We’d better check in case there are any <code>cron</code> jobs scheduled for user account <code>eric</code>. A <code>cron</code> job is a command that is triggered at specified times or intervals. We can check if there are any <code>cron</code> jobs scheduled for this user account by using <code>ls</code>:</p>
 <p>sudo ls -lh &#x2F;var&#x2F;spool&#x2F;cron&#x2F;crontabs&#x2F;eric</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/10-1.png" alt="sudo ls -lh /var/spool/cron/crontabs/eric in a terminal window"> </p>
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <p> If anything exists in this location it means there are <code>cron</code> jobs queued for that user account. We can delete them with this <code>crontab</code> command. The <code>-r</code> (remove) option will remove the jobs, and the <code>-u</code> (user) option tells <code>crontab</code> <a class="link"   target="_blank" rel="noopener" href="http://man7.org/linux/man-pages/man1/crontab.1.html" >whose jobs to remove <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <p>sudo crontab -r -u eric</p>
 <p><img  
@@ -934,7 +930,7 @@
                       alt="sudo crontab -r -u eric in a terminal window"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.</p>
@@ -959,7 +955,7 @@
                       alt="type deluser in a terminal window"
                 > </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> Although they’re both available, the recommendation is to use <code>deluser</code> <a class="link"   target="_blank" rel="noopener" href="http://manpages.ubuntu.com/manpages/eoan/man8/userdel.8.html" >on Debian-derived distributions <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>:</p>
@@ -972,13 +968,17 @@
                      data-src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/14-2.png"
                       alt="sudo deluser --remove-home eric in a terminal window"
                 > </p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <p> The command to use for non-Debian distributions is <code>userdel</code>, with the <code>--remove</code> flag:</p>
 <p>sudo userdel –remove eric</p>
 <p> All traces of user account <code>eric</code> have been erased. We can check that the <code> /home/eric/</code>directory has been removed:</p>
 <p>ls &#x2F;home</p>
 <p><img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png" alt="ls /home in a terminal window"> </p>
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p> The <code>eric</code> group has also been removed because the user account <code>eric</code> was the only entry in it. We can check this quite easily by piping the contents of <code>/etc/group</code> through <code>grep</code>:</p>
@@ -999,22 +999,23 @@
      data-full-width-responsive="true"></ins></p>
 <p><span class="atpl-alsoreadstyle">Also read:</span></p>
 <div><ul>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-recordings.techidaily.com/updated-in-2024-efficient-editing-techniques-mastering-video-cropping-and-exporting/"><u>[Updated] In 2024, Efficient Editing Techniques Mastering Video Cropping and Exporting</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://visual-screen-recording.techidaily.com/updated-in-2024-superior-sonic-collectors-for-seminars/"><u>[Updated] In 2024, Superior Sonic Collectors for Seminars</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://instagram-video-files.techidaily.com/2024-approved-master-video-cropping-for-unique-instagram-visuals/"><u>2024 Approved Master Video Cropping for Unique Instagram Visuals</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://buynow-reviews.techidaily.com/analyzing-the-promises-vs-performance-of-the-feature-heavy-midland-lxt500vp3-transceiver-range/"><u>Analyzing the Promises Vs. Performance of the Feature-Heavy Midland LXT500VP3 Transceiver Range</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g24-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://solve-latest.techidaily.com/enhancing-client-experience-through-abbyys-advanced-process-insights-by-emerson/"><u>Enhancing Client Experience Through ABBYY's Advanced Process Insights by Emerson</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-f23-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without iTunes? | Dr.fone</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://android-frp.techidaily.com/in-2024-about-nokia-c110-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C110 FRP Bypass</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://sound-issues.techidaily.com/quick-guide-to-restoring-full-sound-capacity-on-windows-10-devices/"><u>Quick Guide to Restoring Full Sound Capacity on Windows 10 Devices</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://win-remarkable.techidaily.com/russias-representation-at-g20-in-india-lavrov-to-lead-delegation-while-putin-skips-event-analyze-with-yl-software-expertise/"><u>Russia's Representation at G20 in India: Lavrov to Lead Delegation While Putin Skips Event, Analyze with YL Software Expertise</u></a></li>
-<li><a target="_blank" rel="noopener" href="https://smart-video-editing.techidaily.com/the-speed-demons-manual-transforming-video-audio-in-no-time/"><u>The Speed-Demon’s Manual: Transforming Video Audio in No Time</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-blaze-curve-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C53 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-neo-5-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT Neo 5 SE Hard Reset | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/024-approved-enhance-tv-broadcasts-with-seamless-video-loops-from-youtube/"><u>[New] 2024 Approved Enhance TV Broadcasts with Seamless Video Loops From YouTube</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-direct.techidaily.com/2024-approved-essential-3d-modeling-programs-for-animators/"><u>2024 Approved Essential 3D Modeling Programs for Animators</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-guidance.techidaily.com/2024-approved-unlocking-the-power-of-iphones-high-dynamic-range/"><u>2024 Approved Unlocking the Power of iPhone's High Dynamic Range</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y78t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y78t Hard Reset | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://fox-that.techidaily.com/detecting-moisture-harm-unveil-these-9-key-indicators-on-your-iphone/"><u>Detecting Moisture Harm: Unveil These 9 Key Indicators on Your iPhone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://buynow-info.techidaily.com/earn-big-savings-amazon-prime-day-kicks-off-on-july-16-2024/"><u>Earn Big Savings: Amazon Prime Day Kicks Off on July 16, 2024!</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://technical-tips.techidaily.com/fixing-stop-code-0x0000001d-comprehensive-troubleshooting-steps/"><u>Fixing STOP Code 0X0000001D - Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-video-recordings.techidaily.com/how-youtube-really-measures-your-contents-popularity/"><u>How YouTube Really Measures Your Content's Popularity</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-driven-video-production.techidaily.com/new-10-essential-animated-text-makers-for-unbeatable-engagement/"><u>New 10 Essential Animated Text Makers for Unbeatable Engagement</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://techno-recovery.techidaily.com/step-by-step-guide-troubleshooting-and-repairing-hewlett-packard-code-e43-faults/"><u>Step-by-Step Guide: Troubleshooting and Repairing Hewlett-Packard Code E43 Faults</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-excel-documents-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>The best electronic signature way to sign Excel documents online</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-g54-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola G54 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-ace-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Ace 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-13-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 13 Message Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-x50i-by-fonelab-android-recover-video/"><u>Undeleted lost videos from X50i</u></a></li>
 </ul></div>
 
 
@@ -1027,11 +1028,11 @@
         <li><strong>Title:</strong> 1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux</li>
         <li><strong>Author:</strong> Ian</li>
         <li><strong>Created at
-                :</strong> 2024-12-30 05:06:58</li>
+                :</strong> 2024-12-28 20:00:58</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2025-01-01 18:43:28
+                    :</strong> 2025-01-02 18:52:47
             </li>
         
         <li>
@@ -1071,13 +1072,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/top-virtual-reality-headset-picks-ultimate-guide/"
+                        href="/say-goodbye-to-windows-netflixs-decision-to-discontinue-offline-viewing/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Top Virtual Reality Headset Picks : Ultimate Guide</span>
+                                <span class="post-nav-title-item">Say Goodbye to Windows: Netflix&#39;s Decision to Discontinue Offline Viewing</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1087,10 +1088,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/solve-the-puzzle-with-new-york-times-connection-game-july-8th-episode-393-unveiled/"
+                        href="/the-way-to-recover-deleted-photos-on-motorola-without-backup-by-fonelab-android-recover-photos/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Solve the Puzzle with New York Times - Connection Game, July 8Th Episode</span>
+                                <span class="post-nav-title-item">The way to recover deleted photos on Motorola without backup.</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
