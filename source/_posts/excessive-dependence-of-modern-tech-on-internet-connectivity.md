@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2024-12-14T22:34:52.793Z
-updated: 2024-12-16T01:29:34.382Z
+date: 2024-12-28T06:41:12.668Z
+updated: 2025-01-02T09:15:02.350Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Forced Updates Are Disruptive
 
  Microsoft loves to force auto-updates, and there's no easy [way to disable them](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/). These updates are incredibly disruptive even when they go completely smoothly, as they can prevent your system from shutting down and turning on without installing the update. I was late to several online classes during the pandemic because of this; fortunately, so were my other colleagues and professors.
@@ -30,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Single Point of Failure
@@ -43,6 +47,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
 
  What about your home and the internet—you likely have a bunch of smart home devices that [rely on your Wi-Fi router](https://ai-topics.techidaily.com/new-top-6-celebrity-text-to-speech-ai-voice-generators-you-may-like/) and the cloud to operate. This makes sense for some devices that have to answer random questions, tell you the news and the weather, and play music from the web, such as your smart speaker. It's also great that you can control the devices when not at home, but not all devices need this capability.
@@ -53,15 +61,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clouds Can Vanish
 
@@ -72,13 +72,13 @@ Jerome Thomas / How-To Geek
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reduce Your Reliance on the Internet
@@ -102,16 +102,14 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-vcr-video-vault-extensive-reviews-and-summary/"><u>[New] VCR Video Vault Extensive Reviews & Summary</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-nokia-g310-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-benefits-of-apples-m1-in-post-production-editing/"><u>2024 Approved Benefits of Apple's M1 in Post-Production Editing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/4-things-you-must-know-about-iphone-11-pro-max-activation-lock-by-drfone-ios/"><u>4 Things You Must Know About iPhone 11 Pro Max Activation Lock</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-setup-of-razer-mice-for-windows-users-step-by-step-instructions/"><u>Effortless Setup of Razer Mice for Windows Users – Step by Step Instructions</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-12-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus 12 phone? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-windows-lunar-client-launch-hurdle/"><u>Overcoming Windows' Lunar Client Launch Hurdle</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-htc-u23-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from HTC U23</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-itel-s23plus-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel S23+ Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-realme-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Realme</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2021-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2021 Workbook Issue Fix 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-10t-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 10T 5G | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-from-realme-12-proplus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Realme 12 Pro+ 5G Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-ultimate-guide-to-converting-youtubes-into-vivid-gifs-no-save/"><u>In 2024, The Ultimate Guide to Converting YouTubes Into Vivid GIFs (No Save)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-ultimate-list-of-trending-instagram-hashtags-for-success/"><u>In 2024, The Ultimate List of Trending Instagram Hashtags for Success</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/pioneer-dj-ddj-sx2-software-fast-download-and-simple-installation-guide/"><u>Pioneer DJ DDJ-SX2 Software: Fast Download and Simple Installation Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-civi-3-disney-100th-anniversary-edition-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Civi 3 Disney 100th Anniversary Edition</u></a></li>
 </ul></div>
 

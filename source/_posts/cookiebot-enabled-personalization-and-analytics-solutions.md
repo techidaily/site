@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enabled Personalization & Analytics Solutions
-date: 2024-11-01T11:40:23.642Z
-updated: 2024-11-04T09:28:26.056Z
+date: 2024-12-27T00:02:54.266Z
+updated: 2025-01-02T13:54:29.601Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39ac21eb379e20d3f82b9c0ba.jpg
@@ -61,16 +61,7 @@ ABBYY FlexiCapture Connector for Blue Prism（Blue Prism用 FlexiCapture コネ�
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/blue-prism-vector-logo_rev_120px.png?h=23&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/webpage.svg?h=32&iar=0&w=32)
@@ -85,13 +76,50 @@ ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスと�
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/brochure.svg?h=32&iar=0&w=32)
+
+##### パンフレット 
+
+#### Blue PrismとABBYY Timelineのテクノロジーアライアンス
+
+[パンフレットをダウンロード](https://static4.abbyy.com/abbyycommedia/33469/brochure-timeline-blueprismpartnership-en.pdf)
+
+![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+##### ソリューションシート 
+
+#### ペイシェントジャーニーの最新化 
+
+[ソリューション概要のダウンロード](https://static3.abbyy.com/abbyycommedia/33029/solutionbrief-blueprism-abbyy-healthcare-en.pdf)
+
+![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/webpage.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+##### ニュース 
+
+#### Blue PrismとABBYY、自動化のパフォーマンスを最適化するProcess Intelligence製品を発表 
+
+ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスとタスク検出を標準機能として提供
+
+[記事を読む](https://tools.techidaily.com/abbyy/products/)
+
+![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
+
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/brochure.svg?h=32&iar=0&w=32)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### パンフレット 
@@ -101,6 +129,10 @@ ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスと�
 [パンフレットをダウンロード](https://static4.abbyy.com/abbyycommedia/33469/brochure-timeline-blueprismpartnership-en.pdf)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### ソリューションシート 
 
@@ -120,14 +152,11 @@ ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスと�
 
 ![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/brochure.svg?h=32&iar=0&w=32)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### パンフレット 
 
@@ -136,55 +165,6 @@ ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスと�
 [パンフレットをダウンロード](https://static4.abbyy.com/abbyycommedia/33469/brochure-timeline-blueprismpartnership-en.pdf)
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
-
-##### ソリューションシート 
-
-#### ペイシェントジャーニーの最新化 
-
-[ソリューション概要のダウンロード](https://static3.abbyy.com/abbyycommedia/33029/solutionbrief-blueprism-abbyy-healthcare-en.pdf)
-
-![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/webpage.svg?h=32&iar=0&w=32)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-##### ニュース 
-
-#### Blue PrismとABBYY、自動化のパフォーマンスを最適化するProcess Intelligence製品を発表 
-
-ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスとタスク検出を標準機能として提供
-
-[記事を読む](https://tools.techidaily.com/abbyy/products/)
-
-![](https://content.abbyy.com/-/media/feature/basecomponents/assets-thumbnails/abbyy_microscopic_web_photos_2_1486--836.jpg?h=836&iar=0&w=1486)
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/brochure.svg?h=32&iar=0&w=32)
-
-##### パンフレット 
-
-#### Blue PrismとABBYY Timelineのテクノロジーアライアンス
-
-[パンフレットをダウンロード](https://static4.abbyy.com/abbyycommedia/33469/brochure-timeline-blueprismpartnership-en.pdf)
-
-![](https://content.abbyy.com/-/media/project/abbyy/abbyy/resource-card-icons/solution-brief.svg?h=32&iar=0&w=32)
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##### ソリューションシート 
 
@@ -211,20 +191,24 @@ ABBYY TimelineをBlue Prism Captureに統合し、 包括的なプロセスと�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-mastering-profit-strategies-for-vimeo-content-creators-for-2024/"><u>[Updated] Mastering Profit Strategies for Vimeo Content Creators for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-clear-up-cloudy-captures-uncover-the-best-10-web-enhancers-ranked/"><u>2024 Approved Clear Up Cloudy Captures Uncover the Best 10 Web Enhancers Ranked</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-gopro-hero-series-comparison/"><u>2024 Approved The GoPro Hero Series Comparison</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/best-online-vaults-exclusive-ringtone-archives-for-2024/"><u>Best Online Vaults Exclusive Ringtone Archives for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/decoding-the-phenomenal-success-story-of-chatgpt-5-critical-reasons-behind-its-rapid-expansion/"><u>Decoding the Phenomenal Success Story of ChatGPT: 5 Critical Reasons Behind Its Rapid Expansion</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a58-4g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A58 4G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/expert-insights-ranking-the-best-21-hdmi-monitor-models/"><u>Expert Insights Ranking the Best 2.1 HDMI Monitor Models</u></a></li>
-<li><a href="https://win-special.techidaily.com/outlook-10/"><u>Outlookにおける添付ファイル表示問題解決: 10手配法</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-s24-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy S24</u></a></li>
-<li><a href="https://techidaily.com/tecno-camon-20-pro-5g-video-recovery-recover-deleted-videos-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-video/"><u>Tecno Camon 20 Pro 5G Video Recovery - Recover Deleted Videos from Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/tecno-video-recovery-recover-deleted-videos-from-tecno-by-fonelab-android-recover-video/"><u>Tecno Video Recovery - Recover Deleted Videos from Tecno</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/ultimate-savings-top-bargains-before-prime-day-strikes-zdnet-insights/"><u>Ultimate Savings: Top Bargains Before Prime Day Strikes | ZDNet Insights</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-special-deals-on-the-latest-amd-gaming-bundle-ryzen-7000-cpus-plus-radeon-rx-7000-gpus-plus-bonus-games-excludes-coming-soon-ryzen-9000/"><u>Unlock Special Deals on the Latest AMD Gaming Bundle: Ryzen 7000 CPUs + Radeon RX 7000 GPUs - Plus Bonus Games! Excludes Coming Soon Ryzen 9000</u></a></li>
-<li><a href="https://techidaily.com/will-moto-g-5g-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Moto G 5G (2023) play AVCHD mts files?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-initiating-engagement-start-your-live-on-instagram/"><u>[Updated] Initiating Engagement Start Your Live on Instagram</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-navigating-the-world-of-instagram-and-podcast-sharing/"><u>[Updated] Navigating the World of Instagram & Podcast Sharing</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-x100-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo X100 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a1x-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A1x 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo T2 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Pro System? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-tecno-phantom-v-fold-phone-without-pin-by-drfone-android/"><u>How to Unlock Tecno Phantom V Fold Phone without PIN</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-blur-the-outside-sharpen-inside-bokeh-balance-guide/"><u>In 2024, Blur the Outside, Sharpen Inside Bokeh Balance Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-honor-magic-5-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Honor Magic 5 online without jailbreak</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2007-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2007 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-zero-30-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Zero 30 5G</u></a></li>
+<li><a href="https://win-special.techidaily.com/sd3ds/"><u>SDカードの失われたバックアップを回復するための任天堂3DS用手順 : 詳細マニュアル</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808219192-seamless-direct3d-extraction-quick-effective-methods/"><u>Seamless Direct3D Extraction - Quick, Effective Methods</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lava-blaze-2-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lava Blaze 2 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m54-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/tp-link-archer-ax6000-vs-nighthawk-ax12-which-wins-the-wifi-showdown/"><u>TP-Link Archer AX6000 Vs. Nighthawk AX12: Which Wins the WiFi Showdown?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transitioning-audio-realms-in-reapers-bouncing-beats-for-2024/"><u>Transitioning Audio Realms in Reaper's Bouncing Beats for 2024</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 10</u></a></li>
 </ul></div>
 

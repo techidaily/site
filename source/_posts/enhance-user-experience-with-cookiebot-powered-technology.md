@@ -1,7 +1,7 @@
 ---
 title: Enhance User Experience with Cookiebot Powered Technology
-date: 2024-11-01T12:10:42.039Z
-updated: 2024-11-03T20:37:06.507Z
+date: 2025-01-01T09:36:40.702Z
+updated: 2025-01-02T03:59:52.162Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5e8a5ffb4e4a9c4a1397858e.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b4f580ce30c65e88850f0865bcf76e9b30f93eff5
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Chief Innovation Officer to Deliver Keynote for the World’s Largest AI Event for Business
 
 December 09, 2019
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/)®, a global leader in Digital IQ for the enterprise, today announced it will be among the technology experts sharing insights on Artificial Intelligence (AI) solutions transforming today’s workplace at the 4th annual [AI Summit New York](https://newyork.theaisummit.com/ "AI Summit New York") on December 11 – 12, 2019.
 
@@ -61,31 +69,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-endless-entertainment-the-science-behind-youtube-loops/"><u>[New] 2024 Approved Endless Entertainment The Science Behind YouTube Loops</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-leading-tools-for-clear-uncompromised-4k-recordings/"><u>[New] 2024 Approved Leading Tools for Clear, Uncompromised 4K Recordings</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-visualizing-2023-social-medias-next-big-thing/"><u>2024 Approved Visualizing 2023 Social Media's Next Big Thing</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/compiling-the-top-10-affordable-video-conferencing-for-phones/"><u>Compiling the Top 10 Affordable Video Conferencing for Phones</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-11-proplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 11 Pro+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-g22-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-x-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone X Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-note-30-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Note 30 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-y100t-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo Y100t Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-fix-msvcr70dll-not-found-or-missing-errors/"><u>How to Fix Msvcr70.dll Not Found or Missing Errors</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-vivo-y27-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo Y27 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-asus-rog-phone-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo X Flip? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-meizu-21-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Meizu 21 phone? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/mastering-the-playstation-5-controller-connection-in-windows-11-a-comprehensive-guide/"><u>Mastering the PlayStation 5 Controller Connection in Windows 11: A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-k70-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi K70 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/transform-your-pc-explore-the-top-15-no-cost-customization-options-for-windows-11/"><u>Transform Your PC: Explore the Top 15 No-Cost Customization Options for Windows 11</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-the-ultimate-virtualdub-alternative-guide/"><u>Updated In 2024, The Ultimate Virtualdub Alternative Guide</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/circles-vs-cubes-unraveling-camera-types-for-2024/"><u>Circles vs Cubes Unraveling Camera Types for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/expressive-ideas-on-a-canvas-direct-drawing-in-windows-11/"><u>Expressive Ideas on a Canvas: Direct Drawing in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-zte-blade-a73-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my ZTE Blade A73 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/how-to-implement-power-on-by-lan-functionality-on-windows-11/"><u>How to Implement Power On By LAN Functionality on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-seamlessly-integrate-toshiba-printer-drivers-with-windows-systems/"><u>How to Seamlessly Integrate Toshiba Printer Drivers with Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-from-choreographies-to-filters-a-comparison-of-content-creation-on-tiktok-and-snap/"><u>In 2024, From Choreographies to Filters A Comparison of Content Creation on TikTok & Snap</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-x7b-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor X7b Phone</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/mastering-your-marketplace-move-expert-insights-on-picking-an-ideal-exchange-yl-software-edition/"><u>Mastering Your Marketplace Move: Expert Insights on Picking an Ideal Exchange - YL Software Edition</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/propelling-progress-the-triumphant-five-in-ai-computing-technology/"><u>Propelling Progress: The Triumphant Five in AI Computing Technology</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2003-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2003 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restoring-audio-functionality-after-a-recent-windows-10-update/"><u>Restoring Audio Functionality After a Recent Windows 10 Update</u></a></li>
+<li><a href="https://techidaily.com/share-your-winning-forex-trades-with-friends-and-family-by-mt4copier-guide/"><u>Share Your Winning Forex Trades With Friends and Family</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-oppo-a58-4g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Oppo A58 4G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-nubia-z50-ultra-by-fonelab-android-recover-music/"><u>The way to get back lost music from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y78t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y78t Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-7-plus-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 7 Plus screen lock without losing data</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-a56s-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo A56s 5G</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

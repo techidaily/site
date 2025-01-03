@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings"
-date: 2024-12-19T00:42:56.507Z
-updated: 2024-12-24T23:35:23.971Z
+date: 2024-12-31T20:06:35.745Z
+updated: 2025-01-02T05:34:43.037Z
 tags:
   - deals
 categories:
@@ -11,13 +11,17 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 ## How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Check the Key That Turns Off the Caps Lock](https://vp-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/)
 * [Ensure the Caps Lock Key Isn't Faulty](https://tech-haven.techidaily.com/how-do-these-apps-harness-gpt-4s-power/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  Are you unable to deactivate the Caps Lock on your keyboard? This problem might occur if your keyboard settings are configured to turn off the lock when the Shift key is pressed. Another possible culprit could be a faulty Caps Lock key. Below, we have outlined the steps to identify the underlying cause and fix the problem.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Check the Key That Turns Off the Caps Lock
@@ -37,16 +41,12 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 ![Opening the typing settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-opening-the-typing-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, go to "Advanced Keyboard Settings" and click the "Language Bar Options" link. In the Text Services and Input Languages window, navigate to the "Advanced Key Settings" tab. Check the circle beside "Press the Caps Lock Key" option under "To Turn Off Caps Lock" if "Press the Shift Key" is selected. Apply the changes, then click "OK."
 
 ![Changing the key that turns off the Caps Lock in the advanced keyboard settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-changing-the-key-that-turns-off-the-caps-lock-in-the-advanced-keyboard-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Caps Lock Key Isn't Faulty
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the key registers and the testing window starts to type letters in lowercase, the key is not faulty. However, if the key doesn't register and fails to change the case, it indicates a defective key. It is possible there is debris inside the keyboard, causing keypresses to not register correctly. You can try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/) to see if that solves the issue. If that doesn't work, you can either have your keyboard (or laptop) inspected or [disable and remap the Caps Lock key](https://extra-information.techidaily.com/constructing-premium-canon-timelapse-movies-for-2024/).
@@ -80,14 +80,14 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-web.techidaily.com/best-learning-platforms-discover-top-websites-for-free-educational-video-content/"><u>Best Learning Platforms: Discover Top Websites for Free Educational Video Content</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s23-tactical-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S23 Tactical Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-motorola-moto-g14-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Moto G14 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/photoshop-sway-decrease-pivotal-or-superfluous-in-2024/"><u>Photoshop Sway Decrease Pivotal or Superfluous, In 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/quick-steps-for-reinstating-a-hidden-windows-service/"><u>Quick Steps for Reinstating a Hidden Windows Service</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-motorola-moto-e13-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Motorola Moto E13 Phone Hassle-Free</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-poco-x6-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Poco X6 Pro without backup.</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g23-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G23 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-instagram-tips-sharing-your-podcast-content/"><u>[New] 2024 Approved Instagram Tips Sharing Your Podcast Content</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-decoding-your-own-tiktok-trend-identifier-key/"><u>[Updated] In 2024, Decoding Your Own TikTok Trend Identifier Key</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazon-echo-dot-vs-apple-homepod-mini-a-comprehensive-showdown/"><u>Amazon Echo Dot vs Apple HomePod Mini: A Comprehensive Showdown</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ar-5-by-arcshell-exceptional-augmented-reality-experience-at-an-unbeatable-value/"><u>AR-5 by ArcShell: Exceptional Augmented Reality Experience at an Unbeatable Value</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-fixing-and-optimizing-your-pcs-mic-for-a-seamless-sea-of-thieves-gaming-experience/"><u>Guide: Fixing and Optimizing Your PC's Mic for a Seamless Sea of Thieves Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-se-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-100-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor 100</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-14-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 14 Pro Max | Stellar</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a25-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A25 5G Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

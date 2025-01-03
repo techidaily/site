@@ -1,6 +1,6 @@
 ---
 title: The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 6s Plus
-date: 2024-09-19T13:14:03.158Z
+date: 2024-12-30T23:03:37.457Z
 tags: 
   - ios unlock
   - ios devices unlock
@@ -40,16 +40,13 @@ As an authentication mechanism, Face ID enables you to unlock your iPhone 6s Plu
 - **Step2**: Look at the iPhone.
   When the lock symbol changes to the unlocked position, you can swipe up to unlock your iPhone 6s Plus using Face ID and get to the Home Screen.Note that Face ID will not work in landscape mode on an iPhone 6s Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Making Purchases Using Face ID on Your iPhone 6s Plus
 
 Face ID allows you to authenticate yourself to make purchases in the App Store, Book Store, and iTunes Store and use Apple Pay wherever supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Lowering Ringer and Alarm Volume Automatically
 
@@ -67,13 +64,6 @@ Setting up and using Attention Aware features is easy:
 
 That's it. Now, when you get a call and your iPhone 6s Plus is ringing loud, looking at your iPhone 6s Plus will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your iPhone. Additionally, your iPhone screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Autofill Passwords and Usernames in Safari and Other Apps
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your iPhone 15/14/13 with Face ID.
@@ -87,13 +77,6 @@ Step 3: Look at your iPhone to authenticate yourself with Face ID and Safari wil
 ### Authenticate Yourself for Third-Party Apps
 
 Face ID is also used for authenticating you for third-party apps that support Face ID. This means you can use Face ID to authenticate yourself for banking apps, password managers, and other apps that support Face ID.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Animojis and Memojis
 
@@ -119,6 +102,10 @@ Step 4: When done, the Record button changes to Send:
 
 Tap Send to send your first Memoji/ Animoji.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove Face ID on iPhone 6s Plus
 
 For all the hardware and software that make for a great experience for nearly all users around the world, Face ID can have its fair share of issues. Sometimes, your face might not get recognized, sometimes it might not work altogether.
@@ -136,10 +123,7 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/9.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to use Face ID on iPhone 6s Plus to pay with Apple Pay
@@ -158,13 +142,6 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 
 - **Step6**: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your iPhone 6s Plus, and wait for the Done message and checkmark to finish the process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to use Face ID on iPhone 6s Plus to make purchases in App Store, Book Store, and iTunes Store
 
 - **Step1**: Check if Face ID is enabled for purchases in these stores by going to **Settings > Face ID & Passcode** and ensuring that iTunes and App Store are toggled On.
@@ -172,10 +149,7 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 ![](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/how-to-remove-face-id-on-iphone/2.avif)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step2**: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
@@ -184,6 +158,10 @@ Sometimes, the issues have a way of persisting, and a restart does not resolve t
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 When done, a satisfying ting and a checkmark will confirm the action.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Set Up Face ID on Your iPhone 6s Plus
 
@@ -222,19 +200,6 @@ There are times you have another iOS device in the family or just lying around, 
 
 The disabled iPhone will be wiped and reset to factory settings. You can then set it up again.
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Unlock Disabled iPhone 6s Plus Using iCloud Website
 
 unlock your disabled iPhone 6s Plus is using the iCloud website to gain access back. This is a fairly easy way and doesn't require going through complex hoops.
@@ -250,6 +215,10 @@ Find My is available both online via the iCloud website and on iOS devices and o
 - **Step 3**: Click Erase iPhone and confirm.
 
 This will start the wipe process on your iPhone remotely and your iPhone will be reset to factory settings. You can now proceed to setup your iPhone once again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Difference Between Activation Lock and Locked Apple ID
 
@@ -290,13 +259,6 @@ You may also do away with Activation Lock using the Find My iPhone app in iCloud
 
 ![Erase iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/3.avif)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This process requires that the data service be functional on the iPhone in question, otherwise, this will not work. When the process is done, restart the iPhone and set it up with your Apple ID to remove the lock.
 
 ### Bypassing Activation Lock Using Microsoft Intune
@@ -313,6 +275,10 @@ If you are an IT administrator and are using Microsoft services, you may have gi
 - **Step 6**: When the device resets, it prompts for the Apple ID and password. Leave the ID blank and enter the bypass code as a password.
 
 The device will be reset, and employees can set it up again with a new Apple ID.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bypassing Activation Lock with a Professional Tool
 
@@ -337,6 +303,10 @@ Here is how to use Dr.Fone - Screen Unlock (iOS) to quickly circumvent Activatio
 - **Step 5**: Follow the instructions to continue to jailbreak the iPhone.
 
 ![Follow the instructions to continue to jailbreak the iPhone](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/bypass-iphone-activation-lock/7.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6**: After the jailbreak, continue to agree to the terms of use and note the device details displayed are correct.
 
@@ -366,9 +336,17 @@ Dr.Fone - Screen Unlock (iOS) is a tool that can help you unlock your iPhone 6s 
 
 ![Download Firmware](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/3.avif)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5**: After the download completes, please click `Unlock Now` to start unlocking the disabled iPhone 6s Plus.
 
 ![Unlock Now](https://tools.techidaily.com/images/apps/wondershare/dr.fone-ios-unlock/unlock-a-disabled-iphone/4.avif)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Your iPhone 6s Plus will be unlocked in a short span of time. Please note that all data would have been wiped out from the device. When you set the device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your iPhone 6s Plus prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the device again.
 
@@ -385,5 +363,24 @@ Your iPhone 6s Plus will be unlocked in a short span of time. Please note that a
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-a-step-by-step-guide-to-crafting-immersive-fb-video-experienenas/"><u>[New] 2024 Approved A Step-by-Step Guide to Crafting Immersive FB Video Experienenas</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-online-tale-creation-fundamentals/"><u>[New] Mastering Online Tale Creation Fundamentals</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-rise-to-the-top-the-essentials-of-starting-a-youtube-gaming-sensation/"><u>[Updated] Rise to the Top The Essentials of Starting a YouTube Gaming Sensation</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f34-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F34 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-a2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo A2 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-amateurs-to-aviators-9-top-rated-drone-editors-reviewed/"><u>In 2024, From Amateurs to Aviators 9 Top-Rated Drone Editors Reviewed</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/mastering-sims-4-recording-techniques-for-2024/"><u>Mastering Sims 4 Recording Techniques for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/movavi-audio-converter-pro-premium-quality-zero-cost-your-ultimate-audio-format-changer/"><u>Movavi Audio Converter Pro: Premium Quality, Zero Cost - Your Ultimate Audio Format Changer</u></a></li>
+<li><a href="https://windows11.techidaily.com/reclaiming-off-screen-windows-in-win11-6-step-guide/"><u>Reclaiming Off-Screen Windows in Win11: 6 Step Guide</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-note-30i-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix Note 30i on Windows</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-hot-40-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Hot 40</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-galaxy-a25-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung Galaxy A25 5G without backup.</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-oppo-reno-11-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Oppo Reno 11 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-11r-by-fonelab-android-recover-messages/"><u>Undelete lost messages from 11R</u></a></li>
+</ul></div>
 

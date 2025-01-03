@@ -1,7 +1,7 @@
 ---
 title: "Guide: Enabling and Using Apple Maps on Your Windows PC"
-date: 2024-12-23T00:29:32.626Z
-updated: 2024-12-25T00:01:46.266Z
+date: 2024-12-31T02:28:32.955Z
+updated: 2025-01-01T22:39:22.810Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
  We'll use Microsoft Edge for installing the web app on Windows, since it works well with websites that aren't set up as true Progressive Web Apps (PWAs).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Install Apple Maps
@@ -28,7 +28,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Apple Maps web app screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, click the main toolbar menu button in Microsoft Edge (it's the button with three dots), then select Apps > Install this site as an app.
@@ -36,7 +36,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Installing Apple Maps in Microsoft Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Edge will ask you to confirm the installation. Click the Install button to complete the process.
@@ -44,7 +44,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Confirmation for Apple Maps installation in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, the newly-installed web app will open in its own window. Edge will ask if you want to pin it to your Start menu, Taskbar, and desktop. You can leave Taskbar and desktop unselected, but Start menu needs to be selected, or you won't be able to search for it. Click the Allow button to confirm, and Windows might ask you one more time in a notification, depending on what you selected.
@@ -52,7 +52,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Allowing Apple Maps to be installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're done! Apple Maps is now an installed web app that you can quickly open at any time from the Start menu, and if you want, on your Taskbar and desktop as well. You'll always get the latest available version as Apple continues to improve the Apple Maps web app.
@@ -74,16 +74,18 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-privacy-pioneers-explore-instagram-stories-secretly/"><u>[Updated] 2024 Approved Privacy Pioneers Explore Instagram Stories Secretly</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-streamlining-speech-to-text-processing-in-powerpoint/"><u>[Updated] 2024 Approved Streamlining Speech-To-Text Processing in Powerpoint</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-comprehensive-guide-for-digital-video-photo-effects-application/"><u>[Updated] Comprehensive Guide for Digital Video Photo Effects Application</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/assessing-ai-for-mental-support-and-resilience-building/"><u>Assessing AI for Mental Support and Resilience Building</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-your-unique-email-a-step-by-step-guide/"><u>Discovering Your Unique Email: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-best-of-the-best-windows-11-webcams-for-recording/"><u>In 2024, Best of the Best Windows 11 Webcams for Recording</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-lava-blaze-2-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Lava Blaze 2 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-itel-s23plus-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Itel S23+</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95783088-9781620554623-teachings-of-the-peyote-shamans/"><u>Teachings of the Peyote Shamans | Free Book</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-perfecting-online-presentations-with-googles-whiteboard-tools-on-multiple-platforms/"><u>[New] 2024 Approved Perfecting Online Presentations with Google's Whiteboard Tools on Multiple Platforms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-pivotal-role-of-thumbnails-in-video-success-stories/"><u>[New] 2024 Approved The Pivotal Role of Thumbnails in Video Success Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/rief-snippet-analysis-for-beginners-for-2024/"><u>[New] Brief Snippet Analysis for Beginners for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-navigating-windows-10-must-have-techniques-for-2024/"><u>[Updated] Navigating Windows 10 Must-Have Techniques for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-kinetic-study-2023/"><u>2024 Approved Comprehensive Kinetic Study 2023</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-camon-20-premier-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Camon 20 Premier 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-x5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco X5 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a56s-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A56s 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-a-stepwise-approach-to-youtube-caption-addition/"><u>In 2024, A Stepwise Approach to YouTube Caption Addition</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-apple-id-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How To Unlink Apple ID From Apple iPhone 11</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-c67-5g-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme C67 5G Device</u></a></li>
 </ul></div>
 

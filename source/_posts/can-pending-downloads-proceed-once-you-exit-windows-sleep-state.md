@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2024-12-18T16:51:18.290Z
-updated: 2024-12-24T17:15:26.447Z
+date: 2024-12-28T05:38:14.261Z
+updated: 2025-01-02T00:03:05.643Z
 tags:
   - deals
 categories:
@@ -11,11 +11,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Can You Keep Downloads Running While Windows Is in Sleep Mode?](https://extra-support.techidaily.com/pinnacle-of-intellect-trivia-videos-for-2024/)
 * [How to Keep Downloads Running While Your Laptop's Lid Is Closed](https://extra-approaches.techidaily.com/how-to-make-a-photo-video-with-pixiz-for-2024/)
 * [How to Turn Off Sleep Mode on Your Windows PC](https://hardware-help.techidaily.com/get-the-newest-hp-officejet-pro-8720-windows-driver-software-free-of-charge/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -30,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  The answer to that question is no. If you [put your Windows system in sleep mode](https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/) (even by closing your laptop's lid), you can't keep downloads running. This is because when your system enters sleep mode, it disables your disk, causing your file downloads not to progress.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Keep Downloads Running While Your Laptop's Lid Is Closed
@@ -50,16 +58,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Choose What Closing the Lid Does' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-closing-lid-settings-control-panel.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the screen that opens, from the drop-down menus next to "When I Close the Lid", choose "Do Nothing". Then, at the bottom, select "Save Changes".
 
 !['When I Close the Lid' and 'Save Changes' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-do-nothing-close-lid-control-panel.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
 
@@ -71,16 +75,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Change When the Computer Sleeps' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/5-windows-sleep-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the following screen, in the "Put the Computer to Sleep" drop-down menus, select "Never" for both. Then, click "Save Changes".
 
 !["Put the Computer to Sleep" and "Save Changes" highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-disable-windows-sleep.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,22 +102,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-free-youtube-endings-that-stand-out-ranked/"><u>[New] Free YouTube Endings That Stand Out - Ranked</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-navigating-fade-inout-processes-in-audacity/"><u>[New] Navigating Fade-In/Out Processes in Audacity</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-essential-tools-for-adding-framing-to-digital-pictures-2023-edition/"><u>[Updated] Essential Tools for Adding Framing to Digital Pictures - 2023 Edition</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-immerse-in-vocal-customization-for-playstation-devices-for-2024/"><u>[Updated] Immerse in Vocal Customization for PlayStation Devices for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-transform-ordinary-posts-into-masterpieces-top-10-grid-makers-for-2024/"><u>[Updated] Transform Ordinary Posts Into Masterpieces Top 10 Grid Makers for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-10-best-online-vimeo-video-downloaders/"><u>2024 Approved 10 Best Online Vimeo Video Downloaders</u></a></li>
-<li><a href="https://fox-that.techidaily.com/fixing-an-unresponsive-home-button-on-your-iphone-effective-solutions-in-five-steps/"><u>Fixing an Unresponsive Home Button on Your iPhone: Effective Solutions in Five Steps</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-lava-blaze-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Lava Blaze Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone SE (2022) Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-for-madden-nfl-22-resolving-common-game-issues-effortlessly/"><u>Quick Fixes for Madden NFL 22: Resolving Common Game Issues Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-redmi-12-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Redmi 12 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-use-face-id-to-pay-for-itunes-and-app-store-purchases-on-iphone-12-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>The way to Use Face ID to Pay for iTunes & App Store Purchases on iPhone 12 Pro Max</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-gear-the-ultimate-guide-to-computers-and-peripherals/"><u>Tom's Tech Gear: The Ultimate Guide to Computers and Peripherals</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-infinix-smart-7-hd-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Infinix Smart 7 HD</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-smart-7-hd-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Smart 7 HD.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-support-turn-off-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi support - Turn Off Screen Lock.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/achieve-perfect-photo-clarity-on-your-iphone-camera-using-these-7-techniques/"><u>Achieve Perfect Photo Clarity on Your iPhone Camera Using These 7 Techniques</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/enrich-your-knowledge-student-approved-history-youtubes-to-watch-for-2024/"><u>Enrich Your Knowledge Student-Approved History YouTubes To Watch for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-mini-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 13 mini Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-motorola-edge-40-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Motorola Edge 40 Devices</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/innovative-fb-video-editors-the-best-20-tools-for-effective-ads-for-2024/"><u>Innovative FB Video Editors The Best 20 Tools for Effective Ads for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-micvoice-chat-issues-on-playstation-xbox-and-pc-in-battle-royales-top-game-warzone/"><u>Solving Mic/Voice Chat Issues on PlayStation, Xbox, and PC in Battle Royale's Top Game - Warzone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/sound-senses-try-our-free-online-rhythm-analyzers/"><u>Sound Senses Try Our FREE Online Rhythm Analyzers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/syncing-apple-tvplus-content-the-ultimate-guide-to-streaming-on-your-chromecast/"><u>Syncing Apple TV+ Content: The Ultimate Guide to Streaming on Your Chromecast</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Redmi Note 12T Pro?</u></a></li>
 </ul></div>
 

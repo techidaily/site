@@ -1,7 +1,7 @@
 ---
 title: Capture Crystal Clear Audio on Your iPhone Using These 8 FREE Techniques
-date: 2024-12-23T00:12:07.376Z
-updated: 2024-12-24T23:57:22.475Z
+date: 2025-01-01T14:21:51.204Z
+updated: 2025-01-02T15:04:02.948Z
 tags:
   - mobile
 categories:
@@ -31,6 +31,10 @@ Close
 
  When I record either music or vocals, I find that placing the phone about 6–12 inches (15-30 cm) from the source creates the most balanced sound without picking up on low-end frequencies. However, positioning also depends on the acoustics of the room. If you're in a room with little sound-dampening materials, you may want to try placing the phone further from the sound source.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Clean the iPhone's Microphone Ports
 
  A dirty microphone can cause your recording to sound muffled, muddy, or distant.
@@ -43,10 +47,6 @@ Justin Duino / How-To Geek
 
  If you have some stubborn grime, I'd recommend getting a toothpick to chip away at it. However, cover the tip of the toothpick with a cotton swab as you chip away at it, as this can prevent you from damaging the microphone. Always make sure to run some tests after you're finished to ensure your cleaning was a success.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Pause Notifications
 
  Maybe you're the type of person whose phone buzzes off the hook 24/7\. Regardless of your social status, when recording, shut off your notifications because these notifications can show up in the background. This might not matter for certain purposes, but if you're recording a song or a podcast it can get distracting.
@@ -54,7 +54,7 @@ Justin Duino / How-To Geek
  You can choose to mute the phone, but it could still vibrate and mess with the recording. The easiest solution is to flip on airplane mode and turn it off when you're done, as this ensures no notifications come through. However, if you need to use the internet while recording, you can [set your phone to Do Not Disturb using Focus](https://instagram-video-recordings.techidaily.com/updated-storystitcher-compelling-collage-for-instagram-users-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Prepare the Environment
@@ -65,10 +65,6 @@ Justin Duino / How-To Geek
 
  You can take it even further and get under a blanket with the iPhone, which reduces noise reflections. But only do so as long as it doesn't hinder your ability to record.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Download a Better Sound Recording App
 
  There are a lot of great apps that can immediately help improve iPhone recording.
@@ -76,7 +72,7 @@ Justin Duino / How-To Geek
 [Dolby On](https://www.dolby.com/apps/dolby-on/) is a great all-round option with plenty of helpful free features like noise reduction, dynamic EQ, stereo widening, compression, and fades. If you need recordings for work settings, consider an app like [Otter](https://otter.ai/), which uses AI to automate voice transcripts. However, while Otter has a free trial you can use, it only lasts a month.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Remove the Phone Case
@@ -85,6 +81,10 @@ Justin Duino / How-To Geek
 
 ![Bellroy Bio Phone Case being held by a human hand.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/03/bellroy-bio-phone-case-being-held-by-a-human-hand.JPG) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Tyler Hayes / How-To Geek
 
 The Bellroy Bio Phone Case being held after being buried for five months.
@@ -92,7 +92,7 @@ The Bellroy Bio Phone Case being held after being buried for five months.
  To check if your case might negatively affect recording quality, run a test where you record the exact same thing in the same environment. First, record with the case on, and then again with the case off. The difference may not be dramatic, but will likely be obvious enough to see if the playback is affected by your case.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Bonus Tip: Use an Apple Watch as a Discreet Microphone
@@ -120,24 +120,20 @@ The Bellroy Bio Phone Case being held after being buried for five months.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-lg-bp350-monitor-reviews-expert-opinions-and-ratings/"><u>[New] The Ultimate LG BP350 Monitor Reviews Expert Opinions & Ratings</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-seconds-to-enjoy-a-look-at-20mb-video-files/"><u>2024 Approved Seconds to Enjoy - A Look at 20MB Video Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/enhancing-graphics-with-ai-seamless-motion-and-improved-fps/"><u>Enhancing Graphics with AI: Seamless Motion and Improved FPS</u></a></li>
-<li><a href="https://win11.techidaily.com/eradicating-geforce-notaxc0f1103f-issue-on-windows-pcs/"><u>Eradicating GeForce NotaXC0F1103F Issue on Windows PCs</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/heartfelt-thanks-otu-selection-at-your-fingertips/"><u>Heartfelt Thanks OTU Selection at Your Fingertips</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6s-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6s without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m34-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M34 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y200e-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y200e 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 7 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-infinix-hot-40i-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Infinix Hot 40i Phone Without Password?</u></a></li>
-<li><a href="https://techidaily.com/is-your-nokia-c32-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C32 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/keeping-your-creative-content-on-ios-with-ease-for-2024/"><u>Keeping Your Creative Content on iOS with Ease for 2024</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/losungen-fur-den-schwarzen-bildschirm-nach-dem-update-auf-windows-11-schritte-zur-behebung-der-fehler/"><u>Lösungen Für Den Schwarzen Bildschirm Nach Dem Update Auf Windows 11: Schritte Zur Behebung Der Fehler</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-directx-installation-hurdles/"><u>Mending DirectX Installation Hurdles</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-reno-10-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Reno 10 5G unlock screen</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-samsung-galaxy-a05s-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Samsung Galaxy A05s</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Samsung Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/top-10-password-cracking-tools-for-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>Top 10 Password Cracking Tools For Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-lava-agni-2-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Lava Agni 2 5G</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-fb-watch-icon-recovery-tips-and-tricks/"><u>[Updated] In 2024, FB Watch Icon Recovery - Tips and Tricks</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-strategies-for-swiftly-locating-forgotten-reddit-threads/"><u>[Updated] Strategies for Swiftly Locating Forgotten Reddit Threads</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-play-7t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Play 7T Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-troubleshoot-an-unresponsive-oculus-touch-controller/"><u>How to Troubleshoot an Unresponsive Oculus Touch Controller</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/making-youtube-based-twitter-videos-hearable/"><u>Making YouTube-Based Twitter Videos Hearable</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722976410437-obtain-the-most-recent-windows-compatible-audio-drivers-from-msi-today/"><u>Obtain the Most Recent Windows-Compatible Audio Drivers From MSI Today!</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-tecno-spark-10-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/safeguarding-file-exchange-protocols-for-windows-10-and-11/"><u>Safeguarding File Exchange: Protocols for Windows 10 & 11</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/tackling-windows-system-hurdles-common-hardware-faults-explained-by-yl-tech-experts/"><u>Tackling Windows System Hurdles: Common Hardware Faults Explained by YL Tech Experts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-infinix-note-30-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Infinix Note 30 Pro without backup.</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-your-images-basic-tips-with-lunapic-for-2024/"><u>Transform Your Images Basic Tips with LunaPic for 2024</u></a></li>
 </ul></div>
 

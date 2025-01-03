@@ -1,7 +1,7 @@
 ---
 title: "Mastering Tune Recognition on macOS: A Step-by-Step Guide"
-date: 2024-12-23T18:07:38.256Z
-updated: 2024-12-24T20:47:52.358Z
+date: 2024-12-31T13:26:41.856Z
+updated: 2025-01-01T23:27:10.677Z
 tags:
   - desktop
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/753ea2eddd8b518b4665a97d288cc75a73bb10ccb
  Whether you hear a great song playing on the radio or TV, in a coffee shop, or in an app, your Mac can name it in a few seconds. With Shazam-powered music recognition built into macOS, discovering new music is a cinch. Here's how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Identify Music From the Menu Bar or Control Center
@@ -41,6 +41,10 @@ Close
 
  Download the free [Shazam Mac app](https://apps.apple.com/app/id897118787) to access additional features. With it, you can view time-synced lyrics, change the sound input, enable the always-listening Auto Shazam mode, share identified songs via Messages, open them on Spotify, Deezer, YouTube Music, and more.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to View Your Shazam History
 
  Your Shazam history is under the Music Recognition menu. Click the Shazam icon in the Control Center or menu bar and select any song to learn more about it on the Shazam website.
@@ -48,22 +52,14 @@ Close
 ![Safari for Mac displaying information about Blinding Lights by The Weeknd.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-safari-browser-shazam-website-song-information-blinding-lights-by-the-weeknd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To open the song in the Apple Music app instead, hover over it and click the tiny Apple Music button. Hitting the trashcan icon will remove the selected song from your Shazam history.
 
 ![Music Recognition in macOS menu bar displaying Shazam history.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-menu-bar-music-recognition-history-apple-music-trashcan-icons-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To automatically back up your Shazam history to iCloud to access it on other devices using the same Apple ID, turn on "Music Recognition" in System Settings > \[your Apple ID\] > iCloud > Show More Apps.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Identify a Song With Siri
 
@@ -79,10 +75,6 @@ Close
 
 ![Shortcuts for Mac with the  Shazam shortcut highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-shortcut-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Open the Shortcuts app and select "All Shortcuts" in the sidebar. Double-click "Shazam Shortcut" on the right, under "Starter Shortcuts." Select View > Show Shortcut Details, hit the "Details" tab, click "Add Keyboard Shortcut," and press your desired key combination.
 
 ![Details view in Shortcuts for Mac with the Add Keyboard Shortcut button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shortcuts-app-shazam-add-keyboard-shortcut.png) 
@@ -93,7 +85,15 @@ Close
 
 ![The Shazam shortcut in macOS displaying music recognition menu, with the Copy to Clipboard option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/apple-macos-sonoma-14-4-shazam-shortcut-results-menu-options.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Shortcuts app is also available on your iPhone, iPad, Mac, and Apple Watch, which opens creative possibilities. For example, you could set the Shazam [shortcut to run when you double-tap the back of your iPhone](https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/) or press the Apple Watch Ultra's Action button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  More Ways to Identify Music
 
@@ -116,19 +116,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rafting-engaging-gamers-banners-using-pre-made-themes-for-2024/"><u>[New] Crafting Engaging Gamers' Banners Using Pre-Made Themes for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-viacoms-top-10-screen-recorder-software/"><u>[New] In 2024, Viacom’s Top 10 Screen Recorder Software</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-unshackle-your-gaming-experience-with-diverse-capture-tools/"><u>[New] Unshackle Your Gaming Experience with Diverse Capture Tools</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-complete-guidebook-to-evaluating-your-videos-impact-and-earning-power/"><u>[Updated] 2024 Approved Complete Guidebook to Evaluating Your Video's Impact and Earning Power</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-guide-unpacking-the-secrets-of-du-recorder/"><u>[Updated] Ultimate Guide Unpacking the Secrets of Du Recorder</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-full-potential-of-media-player-through-subtitles/"><u>2024 Approved Unlock the Full Potential of Media Player Through Subtitles</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-x100-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo X100 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/dont-lose-it-again-reviving-lost-taskbar-buttons-in-windows-11-using-simple-fixes/"><u>Don't Lose It Again! Reviving Lost Taskbar Buttons in Windows 11 Using Simple Fixes</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-moto-g23-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Moto G23 | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo A79 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xr-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XR Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/transforming-your-workspace-boosting-productivity-with-an-ipad-pro-in-a-home-office-setting-zdnet/"><u>Transforming Your Workspace: Boosting Productivity with an iPad Pro in a Home Office Setting | ZDNet</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-k11x-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo K11x</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-expertly-selecting-the-best-tools-for-browser-content-capturing/"><u>[New] Expertly Selecting the Best Tools for Browser Content Capturing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unearthing-the-potential-in-magixs-image-sorter/"><u>[New] Unearthing the Potential in MAGIX's Image Sorter</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-overwatch-recording-made-simple-with-us-for-2024/"><u>[Updated] Overwatch Recording Made Simple with Us for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-leading-platforms-for-digital-graffiti-fonts/"><u>2024 Approved Leading Platforms for Digital Graffiti Fonts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/chasing-the-best-deals-on-chinese-vr-helmets/"><u>Chasing the Best Deals on Chinese VR Helmets</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-create-and-schedule-a-google-meet-for-2024/"><u>How to Create and Schedule A Google Meet for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-x50iplus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X50i+ Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-neo-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT Neo 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-spark-10-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Spark 10 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlock-your-access-steps-to-score-free-study-streaming-with-tidal/"><u>Unlock Your Access: Steps to Score Free Study Streaming with Tidal</u></a></li>
 </ul></div>
 

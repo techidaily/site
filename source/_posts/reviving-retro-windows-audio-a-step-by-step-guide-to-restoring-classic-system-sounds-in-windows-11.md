@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11"
-date: 2024-12-23T18:51:45.223Z
-updated: 2024-12-24T20:09:38.417Z
+date: 2024-12-28T22:43:51.489Z
+updated: 2025-01-02T13:15:51.138Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ## Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Get Sound Packs of Old Windows Sounds](https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-150-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/)
@@ -22,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -42,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
@@ -59,6 +55,10 @@ Close
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Change System Sounds in Settings
 
  Once the sound pack is downloaded and extracted, it's time to change the system sounds. To do this, go to Settings > System > Sound and click "More Sound Settings" in the Advanced Section.
@@ -66,7 +66,7 @@ Close
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
@@ -78,7 +78,7 @@ Close
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
@@ -128,17 +128,22 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-earning-mastery-executing-a-3-step-procedure-to-evaluate-your-youtube-income/"><u>[New] 2024 Approved Earning Mastery Executing a 3-Step Procedure to Evaluate Your YouTube Income</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-transformative-tiktok-techniques-unveiled/"><u>[New] In 2024, Transformative TikTok Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-master-the-art-of-fb-story-downloads-on-every-device-for-2024/"><u>[New] Master the Art of FB Story Downloads on Every Device for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[Updated] In 2024, Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-samsung-galaxy-f54-5g-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Samsung Galaxy F54 5G Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/latest-solutions-to-pci-decryption-driver-malfunctions-now-resolved/"><u>Latest Solutions to PCI Decryption Driver Malfunctions - Now Resolved!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/restful-reelings-audiovisual-storytelling/"><u>Restful Reelings Audiovisual Storytelling</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-x6-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from X6</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v29-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V29 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-y78t-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Y78t</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2007-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2007 File Not Opening Error</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/zooming-into-aesthetics-a-visual-effects-handbook-for-meetings-for-2024/"><u>Zooming Into Aesthetics A Visual Effects Handbook for Meetings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlock-advanced-capturing-a-guide-to-aiseesoft-screen-recorder-use/"><u>[New] In 2024, Unlock Advanced Capturing A Guide to Aiseesoft Screen Recorder Use</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-securing-your-playtime-with-diverse-gaming-screen-capture-software/"><u>[New] Securing Your Playtime with Diverse Gaming Screen Capture Software</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-sensation-skills-making-a-buzz-on-your-profiles-wall-for-2024/"><u>[New] Social Sensation Skills Making a Buzz on Your Profile's Wall for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-sims-4-recording-techniques-for-gamers/"><u>[Updated] Sims 4 Recording Techniques for Gamers</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-innovative-strategies-for-displaying-your-screen-in-google-meet/"><u>2024 Approved Innovative Strategies for Displaying Your Screen in Google Meet</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/best-alternatives-to-gt-recovery-on-windows-explored-reviews-and-choices-analyzed/"><u>Best Alternatives to GT Recovery on Windows Explored: Reviews and Choices Analyzed</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic 5 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/essential-tips-for-high-quality-print-output-from-photoshop/"><u>Essential Tips for High-Quality Print Output From Photoshop</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-rog-phone-7-ultimate-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speed-boosting-hacks-for-faster-download-rates-on-utorrent-software/"><u>Speed Boosting Hacks for Faster Download Rates on uTorrent Software</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-google-pixel-8-pro-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Google Pixel 8 Pro without backup.</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-effective-remedies-for-compromised-pci-cipher-device-drivers/"><u>Update: Effective Remedies for Compromised PCI Cipher Device Drivers</u></a></li>
 </ul></div>
 

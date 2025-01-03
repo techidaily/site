@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-12-18T01:04:32.856Z
-updated: 2024-12-25T00:32:43.964Z
+date: 2024-12-31T10:28:24.075Z
+updated: 2025-01-02T01:54:38.158Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ## Unraveling the Mystery: The Story Behind the 'X' In Linux
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Before the X, There Was CS](https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-video-hits-compilation/)
@@ -19,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Many operating systems have X in their name to pay homage to Unix.
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -62,7 +58,7 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -84,10 +80,14 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -100,10 +100,6 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -120,6 +116,10 @@ Dave McKay/How-To Geek
  We can’t talk about naming Linux [without mentioning GNU](https://www.gnu.org/). All of Linus Torvalds’ effort was to develop the _kernel_ of an operating system. To flesh it out to a truly functional operating system, the Linux kernel was paired with the GNU utilities.
 
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What’s in a Name?
 
@@ -142,22 +142,20 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-drone-powerhouses-the-ultimate-heavy-lift-guide/"><u>[New] Drone Powerhouses The Ultimate Heavy-Lift Guide</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s23plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S23+ in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-mini-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 mini Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-apple-media-access-and-download-youtube-videos-on-iphoneipad/"><u>In 2024, Apple Media Access and Download YouTube Videos on iPhone/iPad</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-best-gimbals-matched-for-high-res-dslrs/"><u>In 2024, Best Gimbals Matched for High-Res DSLRs</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-x7b-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X7b working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/latest-tp-link-wifi-router-drivers-compatible-with-windows-11-8-and-7/"><u>Latest TP-Link WiFi Router Drivers: Compatible with Windows 11, 8 & 7</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-review-of-avs-video-editor-a-beginners-guide/"><u>New The Ultimate Review of AVS Video Editor A Beginners Guide</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic V2 | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/form-free-channel-into-a-profitable-venture-with-500plus-subscribers-for-2024/"><u>Transform Free Channel Into a Profitable Venture - With 500+ Subscribers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trouble-with-call-of-duty-resolve-black-ops-cold-war-error-0xc0000005/"><u>Trouble with Call of Duty? Resolve Black Ops Cold War Error 0Xc0000005</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-blaze-2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Blaze 2.</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://network-issues.techidaily.com/upgraded-windows-experience-release-of-new-amd-radeon-hd-6950-drivers/"><u>Upgraded Windows Experience: Release of New AMD Radeon HD 6950 Drivers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-leverage-editing-to-boost-youtube-profile-impact/"><u>[New] In 2024, Leverage Editing to Boost YouTube Profile Impact</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-novices-guide-to-photo-perfection-in-snapseed/"><u>2024 Approved The Novice's Guide to Photo Perfection in Snapseed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/are-tablets-like-the-ipad-evolving-enough-to-dethrone-pcs-and-laptops-analysis-by-zdnet/"><u>Are Tablets Like the iPad Evolving Enough to Dethrone PCs and Laptops? | Analysis by ZDNET</u></a></li>
+<li><a href="https://media-tips.techidaily.com/efficient-steps-for-transforming-mts-videos-into-high-quality-avi-playbacks/"><u>Efficient Steps for Transforming MTS Videos Into High-Quality AVI Playbacks</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-erratic-power-consumption-display-in-windows-11-environment/"><u>Fixing Erratic Power Consumption Display in Windows 11 Environment</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/w-your-favorites-top-6-mobile-apps-for-downloading-youtube-beats/"><u>Follow Your Favorites Top 6 Mobile Apps for Downloading YouTube Beats</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-v30t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme V30T in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-gt-5-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme GT 5 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016426967-hp-laptop-muting-mystery-get-it-working-in-windows-10-and-beyond/"><u>HP Laptop Muting Mystery? Get It Working in Windows 10 and Beyond</u></a></li>
+<li><a href="https://techidaily.com/remove-vivo-lock-screen-without-password-vivo-y27s-by-drfone-android-unlock-android-unlock/"><u>Remove Vivo Lock Screen without Password(Vivo Y27s)</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-infinix-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Infinix on Windows</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/speaking-through-screens-effective-communication-on-youtube-for-2024/"><u>Speaking Through Screens Effective Communication on YouTube for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12r-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12R Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

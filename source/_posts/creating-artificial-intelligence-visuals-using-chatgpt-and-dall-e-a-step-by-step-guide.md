@@ -1,7 +1,7 @@
 ---
 title: "Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide"
-date: 2024-12-10T04:47:42.422Z
-updated: 2024-12-15T23:28:48.635Z
+date: 2024-12-31T02:20:20.939Z
+updated: 2025-01-02T11:39:47.634Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
 ## Creating Artificial Intelligence Visuals Using ChatGPT and DALL-E: A Step-by-Step Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  Using DALL-E to generate images with AI has become an invaluable service for many, whether for work or fun. However, now you can generate images with DALL-E directly through ChatGPT, allowing you the best of both worlds. So, how does this work?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is ChatGPT's DALL-E Feature?
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/5d7dcfd1995cfb2b2cd35f38aacc2ff6a59f7f19a
  While both DALL-E and ChatGPT use AI, the former focuses entirely on image generation. DALL-E uses either text-based prompts to generate media, or offers the option to upload an image from the user's device. From this information, DALL-E creates a range of media to fit the user's preferences.
 
 ![Cyberpunk scene of robot woman buying a fruit from a robot man](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/cybepun-fruit.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 DALL-E / Sydney Butler / How-To Geek
 
@@ -48,7 +52,7 @@ DALL-E / Sydney Butler / How-To Geek
 ![ChatGPT's list of DALL-E restrictions on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-restricted-images.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you may expect, sexually explicit and hateful images are prohibited, as well as images depicting real people or deepfakes. Images depicting violence and illegal activity and the use of copyright content is also off-limits. [DALL-E is also available in Bing](https://fox-direct.techidaily.com/advanced-speed-adjustment-techniques-in-media-editing-for-2024/) at no charge.
@@ -59,10 +63,6 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT processing DALL-E image request on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After sending your DALL-E prompt, ChatGPT will spend a few seconds generating the image. This may take longer if your internet connection is poor, or if ChatGPT is experiencing high user demand.
 
 ![ChatGPT DALL-E image generation response on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat1.jpg) 
@@ -71,6 +71,10 @@ DALL-E / Sydney Butler / How-To Geek
 
 ![ChatGPT's response to DALL-E prompt on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt-dalle-cat2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While ChatGPT can generate some visually stunning images with the DALL-E plugin, it's very difficult to make small changes to a previous image without other things being changed, too.
 
  We requested that the image above be kept the same, but that a blanket was added to the cat's lap, and the cat looked sleepy. Instead of fulfilling this request, ChatGPT created an entirely new image. When we stressed that we wanted it the same but with the two minor changes, ChatGPT did little to help, again creating a new image.
@@ -78,10 +82,6 @@ DALL-E / Sydney Butler / How-To Geek
 ![ChatGPT DALL-E updated image result on desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/gpt4-dalle-cat3.jpg) 
 
  This is because ChatGPT can't keep the previous image exactly the same upon each new request. This is a very limiting aspect, as you can't make small changes to an image that you already like for the most part.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use DALL-E in ChatGPT on Mobile
 
@@ -114,18 +114,19 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-elevating-your-audio-craftsminas-with-magix-kompakt-vst/"><u>[New] In 2024, Elevating Your Audio Craftsminas with Magix Kompakt VST</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-sparking-viewers-interest-top-youtube-themes-for-channels/"><u>[New] In 2024, Sparking Viewers' Interest Top YouTube Themes for Channels</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-understanding-instagrams-max-video-length-guide/"><u>[New] In 2024, Understanding Instagram's Max Video Length Guide</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-telepathy-through-tech-healthcare-reimagined/"><u>[New] Telepathy Through Tech Healthcare Reimagined</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-transforming-facebook-streams-into-flawless-records/"><u>[Updated] In 2024, Transforming Facebook Streams Into Flawless Records</u></a></li>
-<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 2 Pro</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-blaze-curve-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze Curve 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Android devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-c55-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme C55</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-optimal-energy-packs-for-black-gopro-hero5-certified-and-imposters/"><u>In 2024, Optimal Energy Packs for Black GoPro Hero5 – Certified & Imposters</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-itel-a05s-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel A05s</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comprehensive-overview-of-google-docs-voice-input-functionality/"><u>[Updated] Comprehensive Overview of Google Docs Voice Input Functionality</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-vr-surgical-training-and-planning-systems/"><u>[Updated] In 2024, VR Surgical Training and Planning Systems</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-gestural-recognition-technologies/"><u>[Updated] The Ultimate Guide to Gestural Recognition Technologies</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-visual-enhancement-expertly-applying-borders-on-social-media-images/"><u>2024 Approved Visual Enhancement Expertly Applying Borders on Social Media Images</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/essential-guide-the-finest-free-windows-screen-capture-tools-1-5/"><u>Essential Guide The Finest Free Windows Screen Capture Tools #1-5</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-factory-reset-iphone-14-plus-and-ipad-without-apple-id-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Factory Reset iPhone 14 Plus and iPad Without Apple ID | Stellar</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55plus-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55+ in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-smart-7-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 7 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-how-to-perfectly-log-off-video-conferencing-on-devices/"><u>In 2024, How to Perfectly Log-Off Video Conferencing on Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/leveraging-the-potential-of-5g-why-building-strong-foundations-is-key/"><u>Leveraging the Potential of 5G: Why Building Strong Foundations Is Key</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-tecno-spark-20c-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Tecno Spark 20C</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-6s-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6s lock with iCloud</u></a></li>
 </ul></div>
 

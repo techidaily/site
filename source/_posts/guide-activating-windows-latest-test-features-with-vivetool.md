@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating Windows' Latest Test Features with ViVeTool"
-date: 2024-12-12T00:58:47.792Z
-updated: 2024-12-15T20:41:10.344Z
+date: 2024-12-28T03:12:55.944Z
+updated: 2025-01-02T14:02:03.928Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ## Guide: Activating Windows' Latest Test Features with ViVeTool
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is ViVeTool, and How Does It Work?](https://extra-guidance.techidaily.com/new-navigating-towards-excellent-free-photography-choices/)
@@ -18,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 * [Should You Use the GUI or Command-Line Version of ViVeTool?](https://win-able.techidaily.com/tackle-high-processor-load-in-god-of-war-best-practices-and-solutions/)
 * [How to Use ViVeTool (GUI) to Activate Windows Features](https://www.howtogeek.com/what-is-vivetool-and-how-to-use-it/#how-to-use-vivetool-gui-to-activate-windows-features)
 * [How to Use ViVeTool (Command-Line) to Activate Windows Features](https://www.howtogeek.com/what-is-vivetool-and-how-to-use-it/#how-to-use-vivetool-command-line-to-activate-windows-features)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,7 +44,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  ViVeTool interacts with the Windows Feature Store by using feature IDs. Each feature in the Windows Feature Store possesses a unique ID, which ViVeTool uses to toggle the feature's state. By default, feature IDs are set to state 0, indicating the feature's normal behavior. To disable a feature, you'll need to change its state to 1\. Conversely, to forcibly enable a feature, you'll need to set its state to 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is ViVeTool Safe to Use?
@@ -75,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![Install option in ViVeTool installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/install-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the installation is complete, open the app, click the drop-down icon in the top-left corner, and choose your [current Windows build](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/). ViVeTool will now populate the data grid view, which may take some time, so be patient.
 
 ![Selecting features in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-features-in-vivetool.jpg) 
@@ -84,7 +88,7 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 ![Activate Feature option in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/activate-feature-option.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see the "Success" prompt, indicating the feature has been successfully enabled.
@@ -92,10 +96,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 ![Success message of ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/success-message.jpg) 
 
  If you want to disable a feature, enter the feature ID in the "Manually Change a Feature" field and choose "Deactivate Feature" from the drop-down menu.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use ViVeTool (Command-Line) to Activate Windows Features
 
@@ -105,17 +105,21 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![Zip file on the ViVeTool Downloads page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/zip-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) on the downloaded zip file and choose "Extract All" from the menu that appears.
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Choose a location where you want to [extract the file](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) and then click the "Extract" button.
 
 ![Extract option to Extract ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-option.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Now, open Command Prompt as an administrator (check out [ways to open Command Prompt with elevated rights](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/)) and [change the directory to the extracted folder](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). To do this, type the following command and press Enter:
 
@@ -134,10 +138,6 @@ ViVeTool.exe /enable /id:featureID
 ViVeTool.exe /enable /id:44788892
 
 ![ViVoTool Enable command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/enable-command.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the command executes successfully, close Command Prompt and [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/); the changes will take effect upon restart.
 
@@ -164,22 +164,20 @@ ViVeTool.exe /disable /id:44788892
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-masterful-video-marketing-techniques-youtube-editions-top-5-list/"><u>[Updated] 2024 Approved Masterful Video Marketing Techniques - YouTube Edition's #Top 5 List</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-navigate-the-treasure-trove-of-pexels-picture-paradise/"><u>[Updated] How to Navigate the Treasure Trove of Pexels' Picture Paradise</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/sing-blockbusters-2023-indie-favorites/"><u>Bypassing Blockbusters 2023 Indie Favorites</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/hering-the-must-haves-for-an-enhanced-youtube-experience-for-2024/"><u>Deciphering the Must-Haves for an Enhanced YouTube Experience for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/expand-your-reach-sharing-live-streams-on-facebook-for-2024/"><u>Expand Your Reach Sharing Live Streams on Facebook for 2024</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-c55-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme C55 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/o-brand-your-youtube-channel-to-get-more-subscribers-for-2024/"><u>How to Brand Your YouTube Channel to Get More Subscribers for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-g310-by-drfone-android/"><u>How to Bypass FRP from Nokia G310?</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721471035559-recovery-tactics-for-vanished-iphone-note-entries-learn-here/"><u>Recovery Tactics for Vanished iPhone Note Entries – Learn Here</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi on Mac</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-zte-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for ZTE</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-how-to-stop-your-madden-nfl-20-from-crashing-on-pc/"><u>Solved: How To Stop Your Madden NFL 20 From Crashing on PC</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Infinix Note 30 VIP Racing Edition.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-tecno-spark-20-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Tecno Spark 20 Pro fingerprint</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-10-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 10 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-tapping-into-the-power-of-visual-communication-on-facebook/"><u>[New] 2024 Approved Tapping Into the Power of Visual Communication on Facebook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-beginners-journey-to-selecting-the-right-action-cam/"><u>[Updated] A Beginner’s Journey to Selecting the Right Action Cam</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-airborne-ingenuity-sections/"><u>[Updated] In 2024, Airborne Ingenuity Sections</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-broadcast-your-best-gameplay-from-xbox-to-fb-live/"><u>[Updated] In 2024, Broadcast Your Best Gameplay From Xbox to FB Live</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-use-vlc-for-easy-webcam-footage-save/"><u>2024 Approved Use VLC for Easy Webcam Footage Save</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-license-expiration-alert-on-windows-11/"><u>Addressing 'License Expiration' Alert on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-google-pixel-8-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Google Pixel 8 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-camon-20-premier-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Camon 20 Premier 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-nokia-g42-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Nokia G42 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-ultimate-mobile-solutions-to-sharpen-dji-drone-shoots/"><u>In 2024, Ultimate Mobile Solutions to Sharpen DJi Drone Shoots</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlock-the-full-potential-of-taskbar-in-win11/"><u>Unlock the Full Potential of Taskbar in Win11</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-xcover-7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy XCover 7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy S21 FE 5G (2023) ?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
 

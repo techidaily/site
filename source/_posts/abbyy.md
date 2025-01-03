@@ -1,7 +1,7 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2024-10-31T08:08:23.689Z
-updated: 2024-11-03T19:31:24.669Z
+date: 2024-12-26T08:55:02.594Z
+updated: 2025-01-02T01:26:07.869Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY、グローバルでドキュメント内データへのアクセスに関する実態調査を実施
 
 11月17日, 2021
@@ -18,10 +22,11 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
@@ -60,10 +65,7 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 【調査方法】
@@ -97,24 +99,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-immaculatepixels-prograde-background-elimination/"><u>[New] ImmaculatePixels Prograde Background Elimination</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-audio-alternatives-weighing-the-pros-of-podcasts-and-youtube/"><u>2024 Approved Audio Alternatives Weighing the Pros of Podcasts and YouTube</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/depanner-et-restaurer-des-photos-sur-un-vieux-disque-dur-methodes-eprouvees/"><u>Dépanner Et Restaurer Des Photos Sur Un Vieux Disque Dur : Méthodes Éprouvées</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/end-the-endless-cycle-overcome-windows-11s-constant-restart-issue-with-ease/"><u>End the Endless Cycle: Overcome Windows 11'S Constant Restart Issue with Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-8-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-shift-your-apple-music-playlists-tofrom-youtube-music-with-ease-digital-trends/"><u>How to Shift Your Apple Music Playlists To/From YouTube Music with Ease | Digital Trends</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-10-proplus-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 10 Pro+ 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/is-your-job-at-risk-exploring-the-impact-of-chatgpt-in-various-workplace-scenarios/"><u>Is Your Job at Risk? Exploring the Impact of ChatGPT in Various Workplace Scenarios</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mejora-tus-videos-en-mac-introduccion-al-editor-de-video-movavi-experto/"><u>Mejora Tus Videos en Mac: Introducción Al Editor De Video Movavi Experto</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-vivo-y36-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Vivo Y36</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo S17? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-m6-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from M6 5G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-oneplus-nord-ce-3-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-take-your-videos-to-the-next-level-top-10-fcpx-plugins-you-need-now-for-2024/"><u>Updated Take Your Videos to the Next Level Top 10 FCPX Plugins You Need Now for 2024</u></a></li>
-<li><a href="https://techidaily.com/x5-pro-video-recovery-recover-deleted-videos-from-x5-pro-by-fonelab-android-recover-video/"><u>X5 Pro Video Recovery - Recover Deleted Videos from X5 Pro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/amp-up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>[New] Ramp Up Visibility Strategies for Engaging Shorts on YouTub</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/cinematic-closeness-a-kinemaster-expertise-for-close-up-craft/"><u>Cinematic Closeness A Kinemaster Expertise for Close-Up Craft</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Open Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/guide-complet-faites-pivoter-votre-fichier-video-mp4-a-90180270-avec-une-qualite-impeccable-sur-google/"><u>Guide Complet : Faites Pivoter Votre Fichier Vidéo MP4 À 90/180/270° Avec Une Qualité Impeccable Sur Google</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nokia-c02-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia C02 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/how-to-save-and-convert-videolecturesnet-content-to-mp4-format-for-offline-viewing/"><u>How to Save and Convert VideoLectures.net Content to MP4 Format for Offline Viewing</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/seamless-sharing-with-apple-devices-how-to-import-and-share-gopro-videos-on-iphones/"><u>Seamless Sharing with Apple Devices: How to Import and Share GoPro Videos on iPhones</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y27-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y27 4G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-pixel-8-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Pixel 8.</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unseen-chronicles-5-expertly-crafted-viewer-tools/"><u>Unseen Chronicles 5 Expertly Crafted Viewer Tools</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Online Marketing: Smart Analytics Powered by Cookiebot Solutions"
-date: 2024-10-29T23:44:58.955Z
-updated: 2024-11-04T09:09:07.037Z
+date: 2024-12-25T20:48:54.898Z
+updated: 2025-01-02T00:21:18.556Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73a148ad43909fb1af78cba44.jpg
@@ -17,14 +17,11 @@ Other | Accounts Payable Automation
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
-[Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+[Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 ## ABBYY FlexiCapture for Invoices Transforms Sportina Group’s Invoice Processing
 
@@ -88,6 +85,10 @@ Sportina’s new invoice processing system now includes the components necessary
 
 ![process](https://static1.abbyy.com/abbyycommedia/20186/sportina-diagramm.jpg?width=534&height=283)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Result
 
 Sportina’s previous invoice process took 8 to 15 business days to manually confirm an invoice and enter data into its ERP system. After deploying its new system with a DMS and ABBYY FlexiCapture for Invoices, the apparel company is now able to classify documents without human interference and processes invoices within 5 to 7 business days. Data is extracted from documents with high efficiency and passed to the DMS automatically, thus eliminating any manual entry. Sportina was able to significantly reduce costs and redirect resources to other business critical operations.
@@ -101,10 +102,7 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 [![ABBYY FlexiCapture for Invoices](https://static5.abbyy.com/abbyycommedia/14349/6-flexicapture-forinvoices.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture for Invoices](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
@@ -112,10 +110,7 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 [![Accounts Payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
@@ -123,10 +118,7 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/20184/sportina-360x162.jpg)](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") [PDF Version](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Read the document](https://static5.abbyy.com/abbyycommedia/20178/case-study-sportina-retail-en.pdf "PDF Version") 
@@ -160,18 +152,17 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-essential-ps-know-how-color-enhancement-basics/"><u>2024 Approved Essential PS Know-How Color Enhancement Basics</u></a></li>
-<li><a href="https://win-forum.techidaily.com/aiff-format-vanaf-mpeg-online-konverteren-met-movavi-zonder-ongedaan/"><u>AIFF Format Vanaf MPEG Online Konverteren Met Movavi - Zonder Ongedaan</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/connectivity-woes-solve-offline-canon-printer-issues/"><u>Connectivity Woes? Solve Offline Canon Printer Issues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/how-to-get-still-on-the-move-gopro-stability-tips/"><u>How to Get Still on the Move GoPro Stability Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-top-7-underrated-transition-sounds-for-enhanced-audio-experience-download-now/"><u>New 2024 Approved Top 7 Underrated Transition Sounds for Enhanced Audio Experience (Download Now!)</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-lava-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Lava</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-google-pixel-7a-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Google Pixel 7a</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-google-pixel-8-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Google Pixel 8 Pro</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/win-strategies-overcoming-fall-guys-connection-errors/"><u>Win Strategies: Overcoming Fall Guys Connection Errors</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-s23-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-effortless-video-downloads-at-fingertips-select-from-these-top-chrome-plugins/"><u>[New] 2024 Approved Effortless Video Downloads at Fingertips Select From These Top Chrome Plugins</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-syncing-your-presence-in-real-time-tiktoks-for-2024/"><u>[New] Syncing Your Presence in Real-Time TikToks for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/creative-edge-detected-bots-on-equal-footing-prompt/"><u>Creative Edge Detected: Bots on Equal Footing Prompt</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-greatest-lgbt-movies-available-on-netflix-as-of-july-2024/"><u>Discover the Greatest LGBT Movies Available on Netflix as of July 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-40i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus 11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/dget-maximum-quality-8-prime-editors-for-youtubers/"><u>No Budget, Maximum Quality 8 Prime Editors for YouTubers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-motorola-moto-g73-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Motorola Moto G73 5G</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/visual-output-denied-no-card-found/"><u>Visual Output Denied: No Card Found</u></a></li>
 </ul></div>
 

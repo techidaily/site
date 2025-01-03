@@ -1,7 +1,7 @@
 ---
 title: Minecraft Crashes with Exit Code 1? Here's How You Can Resolve It on Your Windows PC!
-date: 2024-12-22T16:01:02.214Z
-updated: 2024-12-24T20:02:31.633Z
+date: 2024-12-29T13:44:32.641Z
+updated: 2025-01-02T15:06:09.122Z
 tags:
   - desktop
 categories:
@@ -20,6 +20,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Change the Java Executable File](https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/)
 * [Reinstall Minecraft](https://win-able.techidaily.com/ultimate-guide-solving-pc-crashes-during-content-warnings/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * The _Minecraft_ Exit Code 1 error often appears when the mod version you're using is different from the game version. You should make sure the mod version you use matches your _Minecraft_ version.
@@ -28,17 +32,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 _Minecraft_ is still one of the most popular games on the planet, but it's far from perfect. Sometimes the game will crash with the "Exit Code 1" error, leaving it in an unplayable state. Fortunately, it's a common issue, and we will show you how to fix it in no time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Correct Mod Version
 
  One of the main reasons you're running into the Exit Code 1 error on _Minecraft_ is because your mod version doesn't match the _Minecraft_ version installed on your computer. All of the mods you're using should be the same as the version of _Minecraft_ you're using.
 
 ![Exit Code 1 on Minecraft.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/exit-code-1-on-minecraft.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For example, if you have _Minecraft_ version 1.20.6 installed on your computer and you have a mod made for version 1.19.4, you might see the error. In this case, you'll need to manually update the outdated mod to its latest version.
 
  To do this, you'll first need to check the _Minecraft_ version installed on your computer. Open _Minecraft_, click the "Installations" tab, and check the "Latest Release" entry to see your _Minecraft_ version.
 
 ![Latest Release entry in the Installation tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/latest-release-entry-in-the-installation-tab.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, open the Run dialogue box by pressing the Windows+R shortcut key, type **%appdata%** in the search field, and click "OK."
 
@@ -63,7 +79,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
@@ -76,10 +92,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
  Once you've identified the mod that causes the error, you can delete it from your computer. And if you want, you can also report the issue with that mod on its dedicated page on the CurseForge website.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Update Your Graphics Driver
 
  Having the latest version of a graphics driver installed on your computer can solve all sorts of problems. If your computer is running an extremely old version of your graphics driver, you could face different graphics-related issues on your computer, including this one.
@@ -89,12 +101,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Check for Updates option on the AMD Software Adrenaline Edition app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-on-the-amd-software-adrenaline-edition-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your computer has an NVIDIA graphics driver, download and install the [GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/) or [the newer NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/). Switch to the "Drivers" tab and click the "Check for Update" button. The program will go online to check for [updates to your NVIDIA graphics driver](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/). If it finds any, you will be given the option to download it.
 
 ![Check for Updates option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-in-the-geforce-experience-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click the "Download" button next to the Game Ready Driver.
 
@@ -105,7 +121,7 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Express Installation option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/express-installation.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have an Intel graphics driver, you can visit the [Intel official website](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:@tabfilter=[Downloads]&f:@stm%5F10385%5Fen=[Graphics]) and download the latest update for your graphics driver. The downloaded file will be in an executable format, which you can install like any other Windows application.
@@ -124,17 +140,9 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
     
 ![Target field in the Minecraft Properties window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/target-field-in-the-minecraft-properties-window.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Apply" and "OK."
 
  After that, [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/) and check for any improvements.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Change the Java Executable File
 
@@ -148,16 +156,12 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Edit option in the Installations tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/edit-option-in-the-installations-tab.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "More Options." Then, click the "Browse" option.
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
@@ -171,10 +175,6 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
 
  Now, restart the game and check for the issue again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Reinstall _Minecraft_ 
 
@@ -217,21 +217,22 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-go-frame-by-frame-on-youtube-video-5-methods/"><u>[New] 2024 Approved How to Go Frame by Frame on YouTube Video? [5 Methods]</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-no-more-queasiness-in-vr-worlds/"><u>[New] No More Queasiness in VR Worlds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-next-generation-of-green-visual-effects-tools/"><u>[Updated] 2024 Approved Next Generation of Green Visual Effects Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/cringe-worthy-tweets-the-collection-for-2024/"><u>Cringe-Worthy Tweets The Collection for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/elevating-your-craft-top-camera-optics-for-professional-videos/"><u>Elevating Your Craft Top Camera Optics for Professional Videos</u></a></li>
-<li><a href="https://win-dash.techidaily.com/essential-driver-installation-secure-the-newest-version-for-your-samsung-850-evo-drive/"><u>Essential Driver Installation: Secure the Newest Version for Your Samsung 850 EVO Drive</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-v2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic V2 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-11-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 11 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/intro-to-mp3-playing-with-agpteks-model-a01t/"><u>Intro to MP3 Playing with AGPTEK's Model A01T</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/melodic-matrix-mac-sound-recording/"><u>Melodic Matrix Mac Sound Recording</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-6-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-x-fold-2-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo X Fold 2</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-itel-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Itel</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-asus-rog-phone-8-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Asus ROG Phone 8 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-languages-mysteries-with-openais-text-tools/"><u>Unlocking Language's Mysteries with OpenAI’s Text Tools</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-edgeplus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Edge+ (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-best-match-image-taking-and-music-merging-technology/"><u>[New] Best Match Image Taking & Music Merging Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-joint-venture-campaigns-for-brands-on-video-platforms/"><u>[New] In 2024, Joint Venture Campaigns for Brands on Video Platforms</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-comprerante-guide-to-sierras-cloud-file-accessibility/"><u>[Updated] In 2024, Comprerante Guide to Sierra's Cloud File Accessibility</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg/"><u>[Updated] In 2024, Revolutionizing Movie Magic with the 4K 31MU97-B From LG</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c22-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-t2x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo T2x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y27-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y27 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-steps-for-mending-windows-hello-fingerprint-issues/"><u>Quick Steps for Mending Windows Hello Fingerprint Issues</u></a></li>
+<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-6s-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 6s screen lock</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-from-apple-iphone-15-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server From Apple iPhone 15</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-huawei-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Huawei .</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unveiling-six-compelling-advantages-of-snapchats-intelligent-feature-over-merely-entertainment/"><u>Unveiling Six Compelling Advantages of Snapchat's Intelligent Feature Over Merely Entertainment</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2019-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2019 File Error</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Oppo Reno 8T? | Dr.fone</u></a></li>
 </ul></div>
 

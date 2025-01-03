@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-12-14T22:13:25.990Z
-updated: 2024-12-15T21:29:39.397Z
+date: 2024-12-28T13:54:30.378Z
+updated: 2025-01-02T11:17:21.058Z
 tags:
   - deals
 categories:
@@ -40,25 +40,21 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/updated-photo-magic-weaving-text-into-your-imagery-journey/"><u>[Updated] Photo Magic Weaving Text Into Your Imagery Journey</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/refsand/"><u>「ReFSパーティション修復&再生ガイド」</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia XR21 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Motorola Defy 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-x6-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find X6 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-s18-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo S18 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-launch-games-with-eac-installation-checklist-for-easy-anti-cheat-software/"><u>How to Successfully Launch Games with EAC - Installation Checklist for Easy Anti-Cheat Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to others devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-laptop-guide-conducting-live-calls-on-whatsapp-browser/"><u>In 2024, Laptop Guide Conducting Live Calls on WhatsApp Browser</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-pricepoint-nimbus-economical-mass-storage-haven/"><u>In 2024, PricePoint Nimbus - Economical Mass Storage Haven</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-dawn-of-a-different-day-in-silicon-valley-with-laws/"><u>The Dawn of a Different Day in Silicon Valley with Laws</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-gt-neo-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme GT Neo 5 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-rated-economical-video-doorbells-vuebell-model-breakdown-and-evaluation/"><u>Top Rated Economical Video Doorbells: VueBell Model Breakdown and Evaluation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-of-ken-burns-motion-in-camtasa/"><u>[New] 2024 Approved Unveiling the Secrets of Ken Burns Motion in Camtasa</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-getting-started-with-azure-speech-to-text-service/"><u>[Updated] Getting Started with Azure Speech-to-Text Service</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100i-power-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100i Power 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/mastering-audio-magic-top-10-radio-sound-effects-for-2024/"><u>Mastering Audio Magic Top 10 Radio Sound Effects for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/quick-fix-guide-solving-non-responsive-chatgpt-problems-on-your-iphone/"><u>Quick Fix Guide: Solving Non-Responsive ChatGPT Problems on Your iPhone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/shining-spots-on-screen-top-video-lights-strategies-for-2024/"><u>Shining Spots on Screen Top Video Lights Strategies for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-k11-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo K11 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-f54-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G04</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-dts-play-fi-the-ultimate-guide/"><u>Understanding DTS Play-Fi: The Ultimate Guide</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2024-12-20T19:41:58.556Z
-updated: 2024-12-24T21:51:02.126Z
+date: 2024-12-28T00:45:11.412Z
+updated: 2025-01-02T03:24:31.894Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ---
 
 ## Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -50,7 +54,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Purple:** Seven Dwarfs Minus Last Letter
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Today's NYT Connections Answers
@@ -58,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ![The words for August 18 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-18-sorted-into-the-correct-groups.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Alarm Clock Buttons (Yellow):** 
@@ -77,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Do, Dope, Grump, Sleep
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Did We Solve This Connections Game?
 
  Today's game wasn't too bad. 
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  That left Do, Dope, Grump, and Sleep—once again, I was a bit stumped by Purple. I eventually realized that grump, dope, and sleep could all take a Y at the end and still make sense, but that didn't work for do. Purple turned out to be "Seven Dwarfs Minus Last Letter." Turns out that I need to up my fairytale game. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -125,19 +125,20 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-discover-the-best-11-no-fee-name-crafting-for-channels-for-2024/"><u>[New] Discover the Best 11 No-Fee Name Crafting for Channels for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-enjoying-the-journey-discovering-pexels-treasures/"><u>[New] In 2024, Enjoying the Journey Discovering Pexels' Treasures</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-macs-secret-shortcuts-to-instantaneous-screen-recording/"><u>[Updated] In 2024, Mac's Secret Shortcuts to Instantaneous Screen Recording</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-the-art-of-revisiting-historical-facebook-posts-mobilelaptop/"><u>[Updated] The Art of Revisiting Historical Facebook Posts (Mobile/Laptop)</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-expanding-your-social-horizon-connect-tiktok-to-facebook/"><u>2024 Approved Expanding Your Social Horizon Connect TikTok to Facebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/macdvd-mac/"><u>無料ディスクリッパー：Macで動画DVDの簡単コピーと変換マガジン - お得なMac用ツール</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-gionee-f3-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-samsung-galaxy-a34-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Samsung Galaxy A34 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-a05-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy A05 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-a14-4g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy A14 4G ?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-cutting-edge-tech-an-in-depth-review-of-apeaksofts-recorder-2023/"><u>[New] In 2024, Cutting-Edge Tech An In-Depth Review of Apeaksoft's Recorder, 2023</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-understanding-the-underrated-downsides-of-vr/"><u>[New] Understanding the Underrated Downsides of VR</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-20plus-digital-hubs-unlimited-image-access-for-all/"><u>[Updated] In 2024, 20+ Digital Hubs Unlimited Image Access for All</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-vegaspro-2019-update-changes-and-impacts/"><u>[Updated] VegasPro 2019 Update Changes & Impacts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-highest-rated-10-online-subtitle-tools/"><u>2024 Approved Highest-Rated 10 Online Subtitle Tools</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/fixing-the-0x80248007-windows-11-update-issue-a-comprehensive-guide/"><u>Fixing the '0X80248007' Windows 11 Update Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12t-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12T Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-avoiding-malware-downloading-safe-and-gratis-vlc-on-apple-devices/"><u>In 2024, Avoiding Malware Downloading Safe and Gratis VLC on Apple Devices</u></a></li>
+<li><a href="https://techidaily.com/sign-csv-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .csv files Online for Free</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-x-flip-by-fonelab-android-recover-data/"><u>The way to get back lost data from X Flip</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-tecno-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Tecno</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-writers-journey-through-podcast-production-for-2024/"><u>The Writer's Journey Through Podcast Production for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 without itunes or icloud</u></a></li>
+<li><a href="https://common-error.techidaily.com/win11-and-win10-overcoming-additional-display-problems/"><u>Win11 & Win10: Overcoming Additional Display Problems</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 

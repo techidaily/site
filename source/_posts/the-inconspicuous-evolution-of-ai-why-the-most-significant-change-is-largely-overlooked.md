@@ -1,7 +1,7 @@
 ---
 title: "The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked"
-date: 2024-12-11T00:21:56.986Z
-updated: 2024-12-15T16:13:13.318Z
+date: 2024-12-28T16:34:32.372Z
+updated: 2025-01-02T11:06:30.002Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 ## The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
  Qualcomm is developing a _lot_ of AI hardware and software, built up from the company’s experience with mobile image processing and other earlier implementations of on-device machine learning. The new [Snapdragon X chipsets for PC laptops](https://extra-skills.techidaily.com/updated-mobile-mastery-upgrade-photos-elevated-at-no-price/) have a dedicated neural processing unit (NPU) for on-device AI tasks. The company’s newer mobile chips, like the Snapdragon 8s Gen 3, can handle some large language models (LLMs) without help from an external server over an internet connection. Qualcomm isn’t alone here, to be clear—the latest laptop CPUs from AMD and Intel also have NPUs, and consumer Nvidia GPUs can also handle many on-device AI workloads.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Outside The Hype
@@ -42,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/9adfd98abe6d7a86109b6983123bd98e50d69397f
 ![Live demo of DJ software running on a Snapdragon X Elite laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/qualcomm.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Corbin Davenport / How-To Geek
@@ -54,7 +54,7 @@ Corbin Davenport / How-To Geek
  These advancements are pointing towards a future where more on-device AI features will be possible, and they will be implemented just like any other functionality in your favorite applications. The trend of obnoxious AI chatbots or AI-suggested replies on social media posts will eventually fade away (hopefully), but we’ll be left with the features that are _actually useful_. That’s the real AI revolution: not a giant Copilot button in Microsoft Edge, but your apps and devices becoming smarter and accomplishing specific tasks much quicker and more efficiently.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s Old Is New
@@ -82,22 +82,19 @@ _Disclosure: My trip to San Diego, California to visit the AI Analyst & Media Wo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-crest-of-crafts-review-pinnacle-studio-evaluation/"><u>[Updated] In 2024, Crest of Crafts Review Pinnacle Studio Evaluation</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-stream-controls-netflix-edition/"><u>[Updated] Mastering the Art of Stream Controls - Netflix Edition</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-mememorph-machine-20/"><u>[Updated] MemeMorph Machine 2.0</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-silent-strategies-learning-without-edge-videos/"><u>[Updated] Silent Strategies Learning Without EDGE Videos</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-audiophiles-guide-to-the-finest-window-based-podcast-tools-8/"><u>2024 Approved Audiophile's Guide to the Finest Window-Based Podcast Tools (#8)</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-methods-mastering-vob-playback-on-your-android-device/"><u>Effortless Methods: Mastering VOB Playback on Your Android Device</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722888197043-essentials-unveiled-a-buyers-guide-to-picking-the-perfect-smartwatch-top-5-tips/"><u>Essentials Unveiled: A Buyer's Guide to Picking the Perfect Smartwatch - Top 5 Tips!</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Plus Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-f5-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco F5 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-10-pro-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark 10 Pro phone? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-increasing-likes-and-shares-facebooks-best-practices/"><u>In 2024, Increasing Likes & Shares Facebook's Best Practices</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On HTC U23 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-12-pro-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 12 Pro failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-google-pixel-7a-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Google Pixel 7a Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-play-8t-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor Play 8T.</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-meizu-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Meizu password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-avoidance-tactics-for-edg-vids-in-learning/"><u>[Updated] Avoidance Tactics for EDG Vids in Learning</u></a></li>
+<li><a href="https://article-files.techidaily.com/dive-into-zoom-meeting-basics/"><u>Dive Into Zoom Meeting Basics</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722842673523-easy-steps-for-setting-up-shared-access-to-your-printer-from-various-gadgets/"><u>Easy Steps for Setting Up Shared Access to Your Printer From Various Gadgets</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/find-the-ultimate-free-mp4-converter-software-for-seamless-video-format-changes/"><u>Find the Ultimate Free MP4 Converter Software for Seamless Video Format Changes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-vivo-y78-5g-lock-screen-password-by-drfone-android/"><u>How To Change Vivo Y78 5G Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a38-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A38 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-z-flip-5-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy Z Flip 5 Phone FRP Lock</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-htc-u23-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from HTC U23 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nord-n30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nord N30 5G without backup.</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlocking-dual-boot-potential-deck-with-two-operating-systems/"><u>Unlocking Dual-Boot Potential: Deck with Two Operating Systems</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-honor-magic-5-pro-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Honor Magic 5 Pro? Here is How | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-14-pro-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 14 Pro?</u></a></li>
 </ul></div>
 

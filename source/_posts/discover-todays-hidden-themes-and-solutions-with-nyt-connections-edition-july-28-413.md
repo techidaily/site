@@ -1,7 +1,7 @@
 ---
 title: Discover Today's Hidden Themes and Solutions with NYT Connections, Edition July 28 (#413)
-date: 2024-12-18T21:28:55.968Z
-updated: 2024-12-25T00:52:38.105Z
+date: 2024-12-28T01:54:27.866Z
+updated: 2025-01-02T00:52:06.623Z
 tags:
   - web
 categories:
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Connections is a game from the New York Times that challenges you to find the association between words. It sounds easy, but it isn't—Connections categories can be almost anything, and they're usually quite specific. If you need a hand getting the answers, we've got you covered.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Connections?
@@ -32,7 +32,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Hints for Today's Connections Groups
@@ -47,7 +47,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![July 28 Connections unsorted words.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-28-connections.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
@@ -60,10 +60,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ##  Today's NYT Connections Answers
 
 ![July 28 Connections words sorted into groups.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/july-28-connections-filled.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Parts of a Book (Yellow):** 
 
@@ -81,6 +77,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Beethoven, Cornucopia, Kaleidoscope, Peacock
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Did We Solve This Connections Game?
 
  July 28th was another pretty straight forward game; the only tricky one was Purple, but it relied on a pretty common trick. 
@@ -94,7 +94,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  That left Beethoven, Cornucopia, Kaleidoscope, Peacock in Purple. As often as not, Purple involves some relationship between the words themselves rather than the _meaning_ of the words, and this was one of those days. Searching for a link between Beethoven and kaleidoscope wouldn't get you anywhere. However, the words all have one thing in common: they all start with a word that is a vegetable. Beet, corn, kale, and pea! The group name was "Starting with Vegetables." 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -125,18 +125,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-ignite-your-online-presence-nine-essential-tips-for-mastering-instagram-stardom-for-2024/"><u>[New] Ignite Your Online Presence Nine Essential Tips for Mastering Instagram Stardom for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-viral-videos-not-pricey-twitter-video-to-gif-conversion/"><u>[New] In 2024, Viral Videos, Not Pricey Twitter Video to GIF Conversion</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-greenhouse-gatherings-the-best-farm-titles-for-group-joy/"><u>[Updated] In 2024, Greenhouse Gatherings The Best Farm Titles for Group Joy</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-defy-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Defy 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-cutting-edge-tools-to-revamp-virtual-performer-voices/"><u>In 2024, Cutting-Edge Tools to Revamp Virtual Performer Voices</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/incorrect-display-11-windows-should-be-full-screen/"><u>Incorrect Display: 11 Windows Should Be Full-Screen</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-14-analysis-meeting-user-demands-punctually-reviewed-by-zdnet/"><u>IPhone 14 Analysis - Meeting User Demands Punctually Reviewed by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iTunes | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-3-common-missteps-in-using-the-apple-vision-pro-and-how-to-prevent-them-for-optimal-experience/"><u>Top 3 Common Missteps in Using the Apple Vision Pro and How to Prevent Them for Optimal Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-surveillance-capitalism/"><u>What Is Surveillance Capitalism?</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-14-pro-music-recovery-recover-deleted-music-from-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Xiaomi 14 Pro Music Recovery - Recover Deleted Music from Xiaomi 14 Pro</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-harnessing-the-power-of-followers-for-impactful-advertising-campaigns/"><u>[New] Harnessing the Power of Followers for Impactful Advertising Campaigns</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-lava-blaze-2-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Lava Blaze 2 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-motorola-edge-40-neo-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/dual-screen-optimization-using-safaris-picture-in-picture/"><u>Dual Screen Optimization Using Safari’s Picture In Picture</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a05s-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A05s Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/making-a-mark-on-instagram-strategies-for-securing-brand-funding-and-partnerships-for-2024/"><u>Making a Mark on Instagram Strategies for Securing Brand Funding and Partnerships for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/scan-for-collective-shared-content-on-messenger-for-2024/"><u>Scan for Collective Shared Content on Messenger for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-xiaomi-redmi-note-12-pro-5g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Xiaomi Redmi Note 12 Pro 5G ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-lava-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Lava .</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-hot-40-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/vivo-s17e-video-recovery-recover-deleted-videos-from-vivo-s17e-by-fonelab-android-recover-video/"><u>Vivo S17e Video Recovery - Recover Deleted Videos from Vivo S17e</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-itel-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Itel A05s Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

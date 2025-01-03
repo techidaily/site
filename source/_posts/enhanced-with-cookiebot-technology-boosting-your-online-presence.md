@@ -1,7 +1,7 @@
 ---
 title: "Enhanced with Cookiebot Technology: Boosting Your Online Presence"
-date: 2024-10-29T18:40:10.170Z
-updated: 2024-11-04T05:40:55.420Z
+date: 2024-12-31T22:32:19.854Z
+updated: 2025-01-02T13:20:36.248Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f099a461c4a5b1f228776ffdea.jpg
@@ -13,11 +13,19 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 BPO and Shared Services | PDF and Document Conversion
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Deloitte étend les fonctionnalités de sa suite eDiscovery avec ABBYY Recognition Server
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/93416.png?h=40&iar=0&w=120)
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Deloitte étend les fonctionnalités de sa suite eDiscovery avec ABBYY Recognition Server
 
@@ -25,15 +33,16 @@ Externalisation des processus métiers et Services partagés | Conversion de PDF
 
 ![](https://static1.abbyy.com/abbyycommedia/15274/cs-deloitte-556x303-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Aperçu du client
 
 ![Deloitte LLP](https://static3.abbyy.com/abbyycommedia/14693/logo-deloitte-new-162x30.svg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 | Prénom               | Deloitte LLP                                                 |
@@ -85,13 +94,6 @@ Avec cette nouvelle solution fluide, les documents dans la suite eDiscovery qui 
 
 [![ABBYY Recognition Server est maintenant nommé FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (maintenant FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![14-bpo](https://static2.abbyy.com/abbyycommedia/14364/14-bpo.jpg)](https://tools.techidaily.com/abbyy/products/) [BPO / Service bureau](https://tools.techidaily.com/abbyy/products/) 
@@ -100,13 +102,6 @@ Avec cette nouvelle solution fluide, les documents dans la suite eDiscovery qui 
 
 [![cs-hendre-360x162-2](https://static2.abbyy.com/abbyycommedia/15275/cs-hendre-360x162-2.jpg)](https://static1.abbyy.com/abbyycommedia/10536/cs%5Fdeloitte%5Frs%5Ff.pdf "version PDF") [version PDF](https://static1.abbyy.com/abbyycommedia/10536/cs%5Fdeloitte%5Frs%5Ff.pdf "version PDF") 
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Accéder au document](https://static1.abbyy.com/abbyycommedia/10536/cs%5Fdeloitte%5Frs%5Ff.pdf "version PDF") 
 
 ###### Like, share or repost
@@ -114,10 +109,7 @@ Avec cette nouvelle solution fluide, les documents dans la suite eDiscovery qui 
 Partager  True ?  : "" 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Prêt à parler à un expert ?
@@ -141,24 +133,22 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-engaging-audiences-with-dynamic-photoviewer-content-in-pixiz/"><u>[New] In 2024, Engaging Audiences with Dynamic Photoviewer Content in Pixiz</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-seamless-transition-cropping-and-exporting-to-instagram-videos-for-2024/"><u>[New] Seamless Transition Cropping & Exporting to Instagram Videos for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-free-photo-editor-showdown-15-best-in-class/"><u>[Updated] The Free Photo Editor Showdown #15 Best in Class</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-youtube-makeup-craft-color-correction-essentials/"><u>2024 Approved The YouTube Makeup Craft Color Correction Essentials</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/charting-the-course-for-a-cohesive-subscriber-rich-channel/"><u>Charting the Course for a Cohesive, Subscriber-Rich Channel</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-a-non-responsive-mouse-on-macbook-and-windows-pc-expert-advice/"><u>Fixing a Non-Responsive Mouse on MacBook and Windows PC – Expert Advice</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y27 5G | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-x5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-huawei-nova-y71-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Huawei Nova Y71 on Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-100-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor 100 Pro</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-zte-nubia-flip-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About ZTE Nubia Flip 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-reno-10-pro-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo Reno 10 Pro 5G.</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/trackcast-analysis/"><u>TrackCast Analysis</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-pick-your-preferred-music-editor-the-best-ios-and-android-apps/"><u>Updated In 2024, Pick Your Preferred Music Editor The Best iOS and Android Apps</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/windows-10-crisis-looms-for-microsoft-only-a-single-year-remains-to-fix-the-issues-techinsight/"><u>Windows 10 Crisis Looms for Microsoft - Only a Single Year Remains to Fix the Issues | TechInsight</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-ultimate-techniques-for-precise-iptv-screen-imaging/"><u>[New] Ultimate Techniques for Precise IPTV Screen Imaging</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-digital-dimensions-clash-metaverse-and-omniverse-analyzed/"><u>[Updated] 2024 Approved Digital Dimensions Clash Metaverse & Omniverse Analyzed</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s17-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S17 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/delight-in-motion-capturing-irresistible-culinary-shots/"><u>Delight in Motion Capturing Irresistible Culinary Shots</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-dynamic-denouements/"><u>Drafting Dynamic Denouements</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-itel-a70-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y28-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y28 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/master-the-art-of-image-compression-with-tips-by-yl-computing-experts/"><u>Master the Art of Image Compression with Tips by YL Computing Experts</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723964479571-most-affordable-graphic-cards-sale-alert-save-big-this-octobers-prime-day/"><u>Most Affordable Graphic Cards Sale Alert - Save Big This October's Prime Day!</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/mp4mp3movavi/"><u>MP4からMP3への最適な変換手法：動画コンバーターMovaviを活用する</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-realme-c53-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-14-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from 14 Pro</u></a></li>
+<li><a href="https://windows11.techidaily.com/starting-microsoft-paint-in-windows-11/"><u>Starting Microsoft Paint in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/tecno-pop-7-pro-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Tecno Pop 7 Pro Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-12-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-vivo-y28-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Vivo Y28 5G.</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
 

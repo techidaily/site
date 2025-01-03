@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2024-12-19T19:56:02.928Z
-updated: 2024-12-24T22:34:18.881Z
+date: 2024-12-26T16:31:29.954Z
+updated: 2025-01-02T00:44:19.640Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,7 +25,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Make Things Interesting With cowsay](https://youtube-docs.techidaily.com/024-approved-optimal-video-posting-frequency-for-increased-youtube-popularity/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -85,10 +89,6 @@ lolcat --help
 
 man lolcat
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Get Colored Terminal Output
 
  Now that you're familiar with the lolcat command and its options, let's see how you can use it to get colored terminal output. One of the easiest ways to use lolcat is to [pipe the output](https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/) of another Linux command through lolcat. For instance, if you want to colorize the output of the [ls command](https://extra-tips.techidaily.com/in-2024-capturecraft-hd-top-10-freepaid-filters-list/), you can run this:
@@ -98,7 +98,7 @@ ls | lolcat
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
@@ -134,7 +134,7 @@ lolls
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
@@ -185,6 +185,10 @@ figlet -f slant "Welcome to HTG" | lolcat
 
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Make Things Interesting With cowsay
 
  Want to make things more funny? Let's combine lolcat with [cowsay](https://github.com/cowsay-org/cowsay). This fun command allows you to create speech bubbles with cute animal characters that display a message you provide.
@@ -207,10 +211,6 @@ cowsay "Linux is Funny" | lolcat
 
 ![Displaying a rainbow-colored cow in the terminal window with some text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  But why stop at cows? Cowsay comes with a whole menagerie of ASCII animals. Let's see what a rainbow tux has to say:
 
 cowsay -f tux "Linux is cool" | lolcat
@@ -218,7 +218,7 @@ cowsay -f tux "Linux is cool" | lolcat
 ![Displaying a rainbow-colored tux in the terminal window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/tux-lolcat-cowsay.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Tux has never looked so fabulous!
@@ -242,24 +242,16 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-pathway-for-pixels-transferring-data-to-computers/"><u>[New] 2024 Approved Pathway for Pixels Transferring Data to Computers</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-the-quick-fix-guide-to-instagram-popularity-accelerate-your-visibility-with-15-tricks-of-the-trade-for-2024/"><u>[New] The Quick-Fix Guide to Instagram Popularity Accelerate Your Visibility with 15 Tricks of the Trade for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-pinterest-vid-extractor-guide-top-5-free-tools-summary/"><u>[Updated] 2024 Approved Pinterest Vid Extractor Guide Top 5 FREE Tools Summary</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-subtitles-that-shine-discover-the-best-free-online-tools/"><u>2024 Approved Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/apple-suspends-sales-of-apple-watch-9-ultra-2-online-repair-services-for-prior-editions-interrupted-gadgetnews-network/"><u>Apple Suspends Sales of Apple Watch 9, Ultra 2 Online - Repair Services for Prior Editions Interrupted | GadgetNews Network</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-dotx-file-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .dotx file free</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-z-fold-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy Z Fold 5 phone? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-motorola-edge-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Motorola Edge 2023 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Max Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-exploring-vn-video-editor-pro-is-this-app-right-for-you-for-2024/"><u>New Exploring VN Video Editor Pro Is This App Right for You for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-open-excel-2019-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel 2019 Read Only Documents</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-70-lite-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-factors-to-evaluate-when-purchasing-your-new-smartwatch/"><u>Top 5 Essential Factors to Evaluate When Purchasing Your New Smartwatch</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-find-n3-flip-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo Find N3 Flip fingerprint</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-x9b-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from X9b</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y36 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[New] In 2024, The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unlocking-facebook-financial-gains-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking Facebook Financial Gains A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-hidden-shotshaper-advanced-stealthy-methods-for-capturing-images/"><u>2024 Approved Hidden ShotShaper Advanced Stealthy Methods for Capturing Images</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vector-graphics-101-overview-of-varieties-and-tools/"><u>2024 Approved Vector Graphics 101 Overview of Varieties & Tools</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-resolving-logitech-g-hub-problems-on-windows-systems/"><u>Expert Tips for Resolving Logitech G Hub Problems on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y100t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/prestige-pickers-top-ranked-websites-for-snapping-alert-songs/"><u>Prestige Pickers Top-Ranked Websites for Snapping Alert Songs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-narzo-60x-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme Narzo 60x 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-11-pro-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 Pro screen lock without passcode</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-12-5g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi 12 5G won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://youtube-web.techidaily.com/bes-richest-content-creator-ever-for-2024/"><u>YouTube's Richest Content Creator Ever for 2024</u></a></li>
 </ul></div>
 

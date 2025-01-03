@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2024-12-14T22:27:26.673Z
-updated: 2024-12-16T00:39:17.129Z
+date: 2024-12-26T20:15:06.142Z
+updated: 2025-01-02T00:19:59.520Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 ---
 
 ## Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  Virtual Reality (VR) has pretty much nailed providing high-quality virtual content for your eyes and ears, but what about the other sense organs? How far away are we from getting taste, touch, and smell as part of the VR experience?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's Not As Crazy As It Smells
@@ -34,10 +38,6 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
  So adding in more sources of virtual sensory information isn't about achieving immersion, but more about coloring in that virtual world so that it becomes every more like the real world.
 
  It's not as if the idea of adding these sensory channels to media is new. Movie theaters have experimented with releasing smells during certain scenes. There have been video games known as "[feelies](https://www.pcgamer.com/boxes-feelies-and-the-good-old-days-of-pc-gaming/)" where you'd get items in the box that you're supposed to touch when instructed. It may have been largely a gimmick in the past, but many people hold that opinion of VR itself as well, so there's certainly a market for more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Simulated Taste: All Flavor, No Calories
 
@@ -52,16 +52,12 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
 
@@ -75,9 +71,17 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
 
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Smelling the Virtual Roses
 
 ![Woman wearing virtual reality headset and enjoying the smell of a bouquet of flowers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-flower-bouquet.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-vr-glasses-headset-enjoying-1780967699)_
 
@@ -90,10 +94,6 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  For smell specifically, the mask uses nine cartridges with different aromas that can be mixed together. These can be depleted and need to be replaced, but by combining them in various proportions this "scent generator" can offer a bouquet of smells.
 
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
 
@@ -116,15 +116,22 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tomtoms-actioncamera-reveal-2023-edition/"><u>[Updated] In 2024, TomTom's ActionCamera Reveal - 2023 Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/from-novice-to-pro-advanced-tips-for-efficiently-snapping-photos-on-your-computer/"><u>From Novice to Pro: Advanced Tips for Efficiently Snapping Photos on Your Computer</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-8-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 8 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-harmonic-hits-how-to-choose-the-perfect-song-for-ig-videos/"><u>In 2024, Harmonic Hits How to Choose the Perfect Song for IG Videos</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro When We Dont Have Apple ID or Password?</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-funniest-memes-download-now/"><u>The Funniest Memes, Download Now</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-vivo-y100-by-fonelab-android-recover-music/"><u>The way to get back lost music from Vivo Y100</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-find-n3-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo Find N3</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-vivo-y78t-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Vivo Y78t FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-galaxy-s23plus-by-fonelab-android-recover-music/"><u>Undelete lost music from Galaxy S23+</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-complete-preview-control-essentials-for-mac-users/"><u>[Updated] Complete Preview Control Essentials for Mac Users</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-visual-wonders-the-art-of-3d-text-in-psartwork/"><u>[Updated] Crafting Visual Wonders The Art of 3D Text in PSArtwork</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-cutting-edge-tips-for-stitching-your-best-tiktok-ever-for-2024/"><u>[Updated] Cutting Edge Tips for Stitching Your Best TikTok Ever for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-phantom-opening-of-microsoft-shop/"><u>Fixing the Phantom Opening of Microsoft Shop</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-note-30-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a60s-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60s in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-android-photo-editing-uncovered-complete-review-of-lightroom-app/"><u>In 2024, Android Photo Editing Uncovered Complete Review of Lightroom App</u></a></li>
+<li><a href="https://win-dash.techidaily.com/noise-problems-fix-your-logitech-g433-mic-with-these-proven-tips/"><u>Noise Problems? Fix Your Logitech G433 Mic with These Proven Tips!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/smart-editing-combining-human-expertise-and-ai-insight/"><u>Smart Editing: Combining Human Expertise and AI Insight</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-rise-and-fall-of-yahoo-messenger-why-did-it-cease-operations/"><u>The Rise and Fall of Yahoo! Messenger: Why Did It Cease Operations?</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-supercharging-srt-with-macwindows-for-2024/"><u>The Ultimate Guide to Supercharging SRT with Mac/Windows for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-a70-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A70 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

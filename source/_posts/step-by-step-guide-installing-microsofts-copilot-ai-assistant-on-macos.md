@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS"
-date: 2024-12-19T16:57:19.052Z
-updated: 2024-12-24T23:24:53.963Z
+date: 2024-12-27T10:25:36.238Z
+updated: 2025-01-02T08:32:44.775Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ## Step-by-Step Guide: Installing Microsoft's Copilot AI Assistant on macOS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![Select Add to Dock to save Copilot as a web app in your Mac Dock.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/select-add-to-dock-to-save-copilot-as-a-web-app-in-your-mac-dock.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A Copilot icon will now be placed in the Dock. Click this to launch Copilot as a web app.
@@ -40,7 +40,7 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 ![The Copilot web app appears in the Dock on a Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-web-app-appears-in-the-dock-on-a-mac.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It'll open in a Safari window, but runs independently of Safari as a whole—it won't interfere with any other tabs or windows you've got open, and doesn't share bookmarks, cookies, your history, or anything else. It is essentially a standalone app, and you can access most of [the best Copilot features](https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/) (apart from the Windows-specific ones).
@@ -61,12 +61,16 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 ![Microsoft Copilot in the Mac App Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/microsoft-copilot-in-the-mac-app-store.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the app and click "Continue" when prompted. You can use the app without signing in, but you're limited to five prompts per chat if you do, so click the Accounts button in the top-left corner to sign in. This allows up to 30 prompts.
 
 ![The Copilot iPad running app running on a Mac with Apple Silicon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/the-copilot-ipad-running-app-running-on-a-mac-with-apple-silicon.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're now ready to explore Copilot. It uses GPT-3.5 by default, but you can click the "Use GPT-4" toggle to get the newer experience. It's still free, but is a little slower.
@@ -74,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
  Click the three-dot menu button in the top right and select "Show All Tones" to change the conversation style. You can choose from Creative, Balanced, and Precise. You can access your chat history here, too.
 
 ![Change the Conversation style in Copilot by clicking Show All Tones.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/change-the-conversation-style-in-copilot-by-clicking-show-all-tones.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use Copilot on Windows for the Full Experience
 
@@ -98,20 +98,16 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-acclaimed-encoder-technology-in-broadcast-systems/"><u>[New] Acclaimed Encoder Technology in Broadcast Systems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-recording-skype-meetings-on-modern-operating-systems-for-2024/"><u>[New] Recording Skype Meetings on Modern Operating Systems for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/7-ways-to-unlock-a-locked-nubia-red-magic-9-proplus-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Nubia Red Magic 9 Pro+ Phone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/cambia-archivos-avi-a-formato-asf-online-de-forma-gratuita-con-moviemaker/"><u>Cambia Archivos AVI a Formato ASF Online De Forma Gratuita Con MovieMaker</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/crafting-uncomfortable-brews-in-minecraft-a-step-by-step-guide/"><u>Crafting Uncomfortable Brews in Minecraft: A Step-by-Step Guide</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-the-newest-intel-uhd-graphics-655-drivers-compatible-with-windows-11/"><u>Get the Newest Intel UHD Graphics 655 Drivers Compatible with Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-xr21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia XR21 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 Pro Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://facebook.techidaily.com/managing-friend-access-to-live-updates/"><u>Managing Friend Access to Live Updates</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-tecno-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Tecno</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-x50i-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor X50i on Mac</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-zero-5g-2023-turbo-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Zero 5G 2023 Turbo</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your drivers in Windows 10 & 7</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-arcade-affordability-index/"><u>[New] 2024 Approved ARCADE AFFORDABILITY INDEX</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/download-ripit-for-free-top-choice-and-best-alternatives-for-mac-users/"><u>Download RipIt for Free: Top Choice & Best Alternatives for Mac Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/explore-the-best-7-platforms-for-transforming-art-into-nfts-for-2024/"><u>Explore the Best 7 Platforms for Transforming Art Into NFTs for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-g2-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo G2 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-14-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi 14 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oneplus-ace-2-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a OnePlus Ace 2 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-sound-compilation-premium-download-locales-for-2024/"><u>Ideal Sound Compilation Premium Download Locales for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-how-the-satechi-stand-and-hub-elevates-your-mac-miniistudio-experience/"><u>In-Depth Analysis: How the Satechi Stand & Hub Elevates Your Mac Mini/iStudio Experience</u></a></li>
+<li><a href="https://discover-great.techidaily.com/revamp-your-screencast-experience-mastering-audio-enhanced-windows-screen-captures-latest-fixes-and-tips-for-231-users/"><u>Revamp Your Screencast Experience: Mastering Audio-Enhanced Windows Screen Captures - Latest Fixes and Tips for 2^31 Users!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-oppo-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Oppo without backup.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-artificial-intelligences-journey-boons-and-busts/"><u>Understanding Artificial Intelligence's Journey: Boons & Busts</u></a></li>
 </ul></div>
 

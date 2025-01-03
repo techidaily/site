@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10"
-date: 2024-12-11T18:15:42.873Z
-updated: 2024-12-15T22:04:52.586Z
+date: 2024-12-30T18:28:19.400Z
+updated: 2025-01-02T03:19:53.172Z
 tags:
   - deals
 categories:
@@ -54,24 +54,16 @@ C:\Windows\SoftwareDistribution\
 
 ![The trash can icon highlighted for the Windows Update cache files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-delete-windows-update-cache-files.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Close File Explorer and [empty the Recycle Bin](https://some-guidance.techidaily.com/new-the-complete-powerdirector-2024-users-handbook/).
 
  Then, return to the "Services" window, right-click "Windows Update," and choose "Start."
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This ensures your PC can continue to look for the latest updates.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Disk Cleanup
@@ -81,6 +73,10 @@ C:\Windows\SoftwareDistribution\
  To use it, open the Start Menu, search for **Disk Cleanup**, and launch the utility.
 
 ![Disk Cleanup highlighted in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-run-disk-cleanup.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Select your Windows installation drive and choose "OK."
 
@@ -97,10 +93,14 @@ C:\Windows\SoftwareDistribution\
 !['Windows Update Cleanup' and 'OK' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-delete-windows-update-cache-disk-cleanup.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The tool will begin cleaning up the update cache files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Command Prompt
 
@@ -109,6 +109,10 @@ C:\Windows\SoftwareDistribution\
  Begin by opening the Start Menu, searching for **Command Prompt**, and selecting "Run as Administrator."
 
 !['Run as Administrator' highlighted for Command Prompt in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-run-cmd-as-admin.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "User Account Control" (UAC) prompt, select "Yes."
 
@@ -130,7 +134,7 @@ del /f /s /q *.*
 ![Commands to clear the Windows Update cache typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/10-clear-update-cache-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After clearing the cache, restart the services you stopped above. Do that by typing the following commands and pressing Enter after each line.
@@ -161,10 +165,6 @@ net start bits`
 
 ![Windows' 'Save As' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/11-create-update-cache-removal-batch-file.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the future, to clear your Windows Update cache using the script, right-click the script file and select "Run as Administrator." In the User Account Control prompt, choose "Yes." The script will stop certain services, deletes the update cache files, and restarts the stopped services.
 
 ---
@@ -186,16 +186,18 @@ net start bits`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimal-low-cost-screen-recording-options-for-chromebook/"><u>[New] 2024 Approved Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-overview-total-investment-for-music-clip-shootings/"><u>2024 Approved Financial Overview Total Investment for Music Clip Shootings</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/apple-iphone-14-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>Apple iPhone 14 Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C210 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-c110-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C110 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-road-ahead-with-teslas-autonomous-taxi-prospective-costs-launch-windows-and-tech-specs-discussed/"><u>The Road Ahead with Tesla’s Autonomous Taxi - Prospective Costs, Launch Windows & Tech Specs Discussed</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-voice-changers-guide-free-easy-pathways-for-auditory-enhancements-for-2024/"><u>The Voice Changer's Guide Free, Easy Pathways for Auditory Enhancements for 2024</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-6-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 6 SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-poco-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Poco</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-the-ultimate-guide-to-no-cost-video-recording-software-for-2024/"><u>[Updated] The Ultimate Guide to No-Cost Video Recording Software for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-mastering-memory-allocation-elevating-minecraft-experience/"><u>2024 Approved Mastering Memory Allocation Elevating Minecraft Experience</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/fixed-unsupported-intelamd-drivers-premiere-pro/"><u>Fixed: Unsupported Intel/AMD Drivers Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v27e-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V27e in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-nubia-z50s-pro-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from Nubia Z50S Pro.</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-magic-6-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Magic 6 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/rtx-2060-gpu-drivers-update-download-latest-version-for-windows-versions-including-11-10-8-and-7/"><u>RTX 2060 GPU Drivers Update: Download Latest Version for Windows Versions Including 11, 10, 8 & 7</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ting-the-perfect-online-source-15-best-royalty-free-music-urls-for-2024/"><u>Selecting the Perfect Online Source 15 Best Royalty-Free Music URLs for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-google-pixel-fold-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Google Pixel Fold | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-magic-5-lite-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Magic 5 Lite Device</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2024-12-22T21:54:32.224Z
-updated: 2024-12-24T17:03:46.549Z
+date: 2024-12-28T22:45:04.855Z
+updated: 2025-01-02T12:59:46.177Z
 tags:
   - mobile
 categories:
@@ -15,17 +15,9 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ##  The Big News
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
@@ -37,10 +29,14 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Valve
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
@@ -51,17 +47,9 @@ Valve
 
  Chrome on iPhone, iPad, and Android now has a few more features.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
@@ -73,7 +61,15 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Motorola
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
@@ -82,6 +78,10 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -104,24 +104,20 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-capturing-ppt-slides-via-webcam-2023-techniques/"><u>[Updated] Capturing PPT Slides via Webcam 2023 Techniques</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-p55-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-x7b-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/rt-your-youtube-files-effortlessly-to-webm-for-2024/"><u>Convert Your YouTube Files Effortlessly to WebM for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crafting-and-downloading-personalized-insta-ringtones-for-2024/"><u>Crafting & Downloading Personalized Insta Ringtones for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-12-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-smart-7-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Smart 7 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-9-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 9 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-itel-a60-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Itel A60 Phones? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nokia-c32-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C32 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-s23-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy S23 Ultra phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-x-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone X Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-craft-a-memorable-first-snap-your-shorts-thumbnail-blueprint/"><u>In 2024, Craft a Memorable First Snap Your Shorts' Thumbnail Blueprint</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-elevating-engagement-tips-to-share-your-screen-on-facebook-lives/"><u>In 2024, Elevating Engagement Tips to Share Your Screen on Facebook Lives</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-solutions-for-the-crashy-windows-11-photos-app/"><u>In 2024, Quick Solutions for the Crashy Windows 11 Photos App</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-steps-browser-compatibility-with-ie-and-web-pages/"><u>Solution Steps: Browser Compatibility with IE and Web Pages</u></a></li>
-<li><a href="https://driver-install.techidaily.com/streamlined-process-for-flawless-nvidia-graphics-support/"><u>Streamlined Process for Flawless Nvidia Graphics Support</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/unforgettable-journeys-our-favorites-in-adventure-gameplay/"><u>Unforgettable Journeys Our Favorites in Adventure Gameplay</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C50 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-zooming-up-your-video-game-with-custom-filters/"><u>[New] In 2024, Zooming Up Your Video Game with Custom Filters</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-star-studded-stories-the-ultimate-guide-to-3-instagram-highlights/"><u>[New] Star-Studded Stories The Ultimate Guide to 3 Instagram Highlights</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-unleash-your-brands-potential-on-igtv-with-these-top-10-tactics/"><u>[New] Unleash Your Brand’s Potential on IGTV with These Top 10 Tactics</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-deciphering-how-to-find-my-youtube-comments-posts/"><u>[Updated] 2024 Approved Deciphering How To Find My YouTube Comments Posts</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-new-era-for-mobile-photography-iphone-x-explored/"><u>[Updated] New Era for Mobile Photography IPhone X Explored</u></a></li>
+<li><a href="https://win-dash.techidaily.com/highly-efficient-at-transferring-large-amounts-of-heat-with-small-temperature-differences/"><u>Highly Efficient at Transferring Large Amounts of Heat with Small Temperature Differences</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-lava-yuva-3-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Yuva 3 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-y200e-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y200e 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-edge-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Edge 2023</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-creativity-with-costless-auditory-extras/"><u>Spark Creativity with Costless Auditory Extras!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor Magic V2</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers in Windows 11/10</u></a></li>
 </ul></div>
 

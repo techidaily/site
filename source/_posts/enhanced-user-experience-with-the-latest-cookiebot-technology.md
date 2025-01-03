@@ -1,7 +1,7 @@
 ---
 title: Enhanced User Experience with the Latest Cookiebot Technology
-date: 2024-10-30T01:35:02.043Z
-updated: 2024-11-04T10:30:07.938Z
+date: 2024-12-30T20:27:25.987Z
+updated: 2025-01-02T14:25:32.197Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33cafa8864cd2873a58b515ce.png
@@ -13,23 +13,22 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 
 Legal | BPO and Shared Services | eDiscovery | Document Processing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## eDiscovery Leader Adds Advanced Intelligent Document Processing with ABBYY
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/en/182212.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## eDiscovery Leader Adds Advanced Intelligent Document Processing with ABBYY
@@ -39,22 +38,12 @@ BPO and Shared Services | Document Processing
 ![Costain Transforms Its Finance Department Using ABBYY Content Intelligence](https://static4.abbyy.com/abbyycommedia/36085/abbyy-nuix-556x303.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Customer Overview
 
 ![Nuix](https://static1.abbyy.com/abbyycommedia/36096/nuix-logo_117x56.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 | Name         | Nuix                                  |
 | ------------ | ------------------------------------- |
@@ -115,10 +104,7 @@ For Nuix, too, the benefits are multiple. “The added value that ABBYY brings i
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -142,20 +128,16 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-crafting-characters-animation-basics-in-wmm/"><u>[New] In 2024, Crafting Characters Animation Basics in WMM</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-ultimate-guide-to-instagram-analytics-tools-for-accurate-tracking/"><u>[Updated] 2024 Approved The Ultimate Guide to Instagram Analytics Tools for Accurate Tracking</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-sky-high-quality-unveiling-the-best-4k-video-converters/"><u>[Updated] Sky-High Quality Unveiling the Best 4K Video Converters</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-analysis-of-the-lg-65-inch-oled-c9-tv-a-visual-treat-for-enthusiasts/"><u>Expert Analysis of the LG 65-Inch OLED C9 TV - A Visual Treat for Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-70-lite-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor 70 Lite 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y55s-5g-2023-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y55s 5G (2023) If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/navigate-with-ease-selecting-the-perfect-mice-for-your-mac-this-year/"><u>Navigate with Ease: Selecting the Perfect Mice for Your Mac This Year</u></a></li>
-<li><a href="https://facebook.techidaily.com/sheryl-sandberg-and-social-media-dynamics/"><u>Sheryl Sandberg and Social Media Dynamics</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2016-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2016 Online for Free</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2016-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2016</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-13-pro-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 13 Pro failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-iphone-and-apple-watch-skin-guards-ultimate-shields-for-your-devices-in-2/"><u>Top-Rated iPhone and Apple Watch Skin Guards - Ultimate Shields for Your Devices in 2</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-y78-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo Y78 5G</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/yokus-island-express-critic-the-unexpected-twists-and-turns-of-grand-escapades/"><u>Yoku's Island Express Critic: The Unexpected Twists and Turns of Grand Escapades</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-looms-lens-sharpen-your-recording-skills/"><u>[Updated] Loom's Lens Sharpen Your Recording Skills</u></a></li>
+<li><a href="https://article-tips.techidaily.com/assessing-magixs-multimedia-capabilities/"><u>Assessing MAGIX's Multimedia Capabilities</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-fix-apple-id-verification-code-not-working-from-apple-iphone-13-by-drfone-ios/"><u>How To Fix Apple ID Verification Code Not Working From Apple iPhone 13</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-samsung-galaxy-a24-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Samsung Galaxy A24</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-sony-xperia-5-v-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Sony Xperia 5 V phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/squeezing-light-from-iphone-nocturnes-for-2024/"><u>Squeezing Light From iPhone Nocturnes for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-honor-90-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Honor 90 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-redmi-12-5g-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Redmi 12 5G play AVCHD mts files?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs"
-date: 2024-12-13T22:15:02.636Z
-updated: 2024-12-16T04:43:39.725Z
+date: 2024-12-26T11:07:43.659Z
+updated: 2025-01-01T18:36:25.378Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ---
 
 ## Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 * [Why Are NFTs Exploding?](https://facebook-clips.techidaily.com/new-integrating-gopro-adventures-with-popular-social-media-channels-for-2024/)
 
  If you're scratching your head at the deluge of Gorillaz-style monkey avatars everywhere on the web, congratulations! You've just had your first encounter with the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and it might make even less sense than you imagine.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  NFT Avatars in a Nutshell
 
@@ -40,7 +40,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  The last thing you need to know is that NFTs can be traded, or sold for currencies such as US dollars, [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/), or Ethereum. The last one is pretty important because NFTs are generally "minted" on the [Ethereum blockchain](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  So What's Up With The Monkey Business?
@@ -48,7 +48,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 ![NFTs on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nft-avatars.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Rokas Tenys/Shutterstock.com](https://www.shutterstock.com/image-photo/vilnius-lithuania-march-8-2021-nonfungible-1932205373)
@@ -58,10 +58,6 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Essentially, an outfit like Larvalabs will generate a set of avatar images using a random generation method that mixes and matches character art elements almost like a video game character creator. This ensures that every image is unique. You can look at it as a set of trading cards, but there's only one copy of each card in the set.
 
  Once the initial run of NFTs is purchased from the creators of the set, the monkey-trading begins. Owners of these NFTs can put them up for sale and see if there are any takers, and boy have there been some takers. Bored Ape Yacht Club NFT sales have totaled over [1 billion dollars](https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-nft-sales-1-billion-opensea-bayc-2022-1) alone. The current record for a [Bored Ape NFT is $3.4 million](https://hypebeast.com/2021/10/bored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse), although more typically they sell in the hundreds of thousands.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  OK, But Why Are They Worth Anything?
 
@@ -74,7 +70,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 ![Bored Ape #9055 displayed on a smartphone on a pile of cash.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ape-cash.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [mundissima/Shutterstock.com](https://www.shutterstock.com/image-photo/bored-ape-yacht-club-9055-nft-2101462063)
@@ -84,6 +80,10 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  It's hard to tell if a tweet like this one by [Gwyneth Paltrow](https://twitter.com/GwynethPaltrow/status/1486482496883625984) or a weird interview between [Jimmy Fallon and Paris Hilton](https://www.forbes.com/sites/danidiplacido/2022/01/25/awkward-moment-between-paris-hilton-and-jimmy-fallon-shows-the-absurdity-of-nfts/?sh=40434d66adee) are the result of sincere enthusiasm or cynical profit, but they provide the [social proof](https://www.psychologynoteshq.com/social-proof/) members of the public who are confused about NFTs need to take an interest in them.
 
  Celebrity involvement in NFTs, especially the Bored Ape Yacht Club, also makes sense thanks to extra perks that come with Yacht Club membership. For example, there's an exclusive Discord server, and you might get invited to [exclusive parties](https://www.theverge.com/22824387/bored-ape-yacht-club-nft-party-new-york) where you might run into famous Bored Ape owners such as [Eminem](https://fortune.com/2022/01/03/eminem-nft-bored-ape-yacht-club/) (who spent $462 000 on his Bored Ape) or [Snoop Dogg](https://boardroom.tv/bored-ape-nft-celebrity-owners/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Are NFTs Exploding?
 
@@ -110,21 +110,21 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-crafting-authenticity-secrets-of-successful-video-endorsements-for-2024/"><u>[New] Crafting Authenticity Secrets of Successful Video Endorsements for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-start-your-edit-journey-top-tips-for-photo-gurus-in-training/"><u>2024 Approved Start Your Edit Journey Top Tips for Photo Gurus in Training</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/apple-airpods-5-release-sneak-peek-a-side-by-side-look-at-the-latest-innovations-and-models-cnet/"><u>Apple AirPods 5 Release Sneak Peek: A Side-by-Side Look at the Latest Innovations and Models | CNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/are-independent-chatgpt-extensions-reliable-and-safe-to-use/"><u>Are Independent ChatGPT Extensions Reliable and Safe to Use?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/deciding-the-winner-in-media-streaming-a-detailed-comparison-of-chromecast-and-roku/"><u>Deciding the Winner in Media Streaming: A Detailed Comparison of Chromecast and Roku</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhance-zoom-experience-combat-fuzzy-sound/"><u>Enhance Zoom Experience Combat Fuzzy Sound</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-3-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 3 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-13-mini-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 13 mini iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/successfully-converting-dvds-and-videos-into-wmplayer-format-with-handbrake/"><u>Successfully Converting DVDs and Videos Into WMPlayer Format with HandBrake</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Sony Xperia 1 V | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-asus-rog-phone-8-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Asus ROG Phone 8 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[New] 2024 Approved The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-zenful-beats-top-10-free-downloads-for-serene-meditation-for-2024/"><u>[New] Zenful Beats - Top 10 Free Downloads for Serene Meditation for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[Updated] In 2024, Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
+<li><a href="https://win-docs.techidaily.com/come-scaricare-il-nuovo-sistema-operativo-su-una-ssd-compacta/"><u>Come Scaricare Il Nuovo Sistema Operativo Su Una SSD Compacta</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-mp4-a-flac-converter-online-pelo-site-movavi-sem-custo/"><u>Free MP4 a FLAC Converter Online Pelo Site Movavi - Sem Custo</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c22-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C22 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100A without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nubia-z50-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nubia Z50 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-zte-nubia-z60-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset ZTE Nubia Z60 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-c55-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Realme C55</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/imac-m1-analysis-how-apple-redefines-desktop-computing-experience/"><u>IMac M1 Analysis: How Apple Redefines Desktop Computing Experience</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-fix-the-frenzy-regain-access-after-tiktok-reload-error/"><u>In 2024, Fix the Frenzy Regain Access After TikTok Reload Error</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/periscope-prodigy-from-beginner-to-expert-for-2024/"><u>Periscope Prodigy From Beginner to Expert for 2024</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-s17e-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo S17e on Windows</u></a></li>
 </ul></div>
 

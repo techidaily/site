@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2024-12-17T21:07:48.033Z
-updated: 2024-12-24T21:12:49.041Z
+date: 2024-12-31T06:17:40.557Z
+updated: 2025-01-01T20:03:54.406Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Ubuntu isn’t your only option for reviving old PCs through Linux. Xubuntu is a lighter version of Ubuntu capable of running on moderately old hardware. Let’s see how well it delivers the Ubuntu experience on an older laptop.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is Xubuntu?
 
 [Xubuntu](https://xubuntu.org/) is a flavor of Ubuntu featuring the XFCE desktop environment (hence the “X” in the name). It’s supposed to strip down Ubuntu for a more minimalist (yet super configurable and supported) experience.
@@ -32,13 +36,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu desktop and terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_32_42.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the very first boot, most apps you need to get working are right there in the app menu. The full [LibreOffice](https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/) suite (including Libre Draw), a mail client, GIMP (for image manipulation), and Mozilla Firefox are packaged with the installation. Plus, it has two GUI software stores to download any other apps: App Center and Synaptic Package Manager.
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
 
@@ -61,7 +65,7 @@ Close
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Put to the Test: Xubuntu on an Old Laptop
@@ -78,21 +82,17 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Running Ubuntu
 
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
 
- When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
 ##  Xubuntu vs. Ubuntu
 
@@ -129,18 +129,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-essential-20-country-melodies-to-unwind-and-groove-at-home-tiktok/"><u>[Updated] In 2024, Essential 20 Country Melodies to Unwind and Groove at Home (TikTok)</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-changing-screens-and-tvs-discover-the-best-for-your-xbox-series-x/"><u>2024 Approved Game-Changing Screens & TVs - Discover the Best For Your Xbox Series X</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-effortlessly-capture-mac-screenshots/"><u>2024 Approved How to Effortlessly Capture Mac Screenshots</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/how-to-personalize-and-change-ringtones-on-your-iphone-for-2024/"><u>How to Personalize and Change Ringtones on Your iPhone for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-15-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-12-pro-withwithout-sim-card-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro with/without SIM Card</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-motorola-moto-g04-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Motorola Moto G04 Location | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-se-2022-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone SE (2022) Suddenly | Stellar</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210884475-9781646043255-the-modern-art-of-brujeria/"><u>The Modern Art of Brujería | Free Book</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oneplus-ace-2-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset OnePlus Ace 2? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x6-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X6.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-top-9-androidios-video-chat-platforms-ranked/"><u>[Updated] 2024 Approved Top 9 Android/iOS Video Chat Platforms Ranked</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-iphone-tips-bringing-out-the-best-with-hdr-photography/"><u>[Updated] IPhone Tips Bringing Out the Best with HDR Photography</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/44cm44oh44o844k5yig5p6q44gr44gk44gr44kl44ox44ot44k744k544kk44oz44og44oq44k444kn44oz44k544gu55cg6kej77ya5ywl6zaa44ks44kk44oj44cn/"><u>「データ分析におけるプロセスインテリジェンスの理解：入門ガイド」</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-best-7-color-grades-in-editing/"><u>2024 Approved The Ultimate Guide Best 7 Color Grades in Editing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eradicating-opengl-problems-code-3-and-windows-nvidia/"><u>Eradicating OpenGL Problems: Code 3 & Windows Nvidia</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/how-bosch-enhances-operational-efficiency-with-advanced-abbyy-automation-solutions/"><u>How Bosch Enhances Operational Efficiency with Advanced ABBYY Automation Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m34-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M34 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-motorola-razr-40-ultra-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Motorola Razr 40 Ultra phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-timestamping-your-youtube-videos-desktop-and-mobile-guide/"><u>In 2024, Timestamping Your YouTube Videos Desktop & Mobile Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-iphone-capturing-time-stretched-movies/"><u>Mastering iPhone Capturing Time-Stretched Movies</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y56-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y56 5G</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-find-x7-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Find X7</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-tecno-camon-20-premier-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-iphones-for-gamers-a-comprehensive-ranking/"><u>Top iPhones for Gamers: A Comprehensive Ranking</u></a></li>
+<li><a href="https://techidaily.com/unable-to-save-excel-2000-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2000 Workbook Issue Fix 2024</u></a></li>
 </ul></div>
 

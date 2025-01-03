@@ -1,7 +1,7 @@
 ---
 title: How Norton 360 Software Became a Surprising Player in the Cryptocurrency Mining Scene
-date: 2024-12-10T16:44:58.958Z
-updated: 2024-12-16T04:34:07.470Z
+date: 2024-12-27T02:51:12.567Z
+updated: 2025-01-02T09:25:28.015Z
 tags:
   - cutting-edge
 categories:
@@ -34,7 +34,7 @@ _Norton_
  There's nothing malicious happening here, but users are never thrilled when they get a piece of software to do one thing (in this case, [protect their PCs](https://fox-info.techidaily.com/updated-in-2024-changing-video-pace-on-your-instagram-feed/)), and it adds something else without their permission. With that said, as long as it's not turned on by default and Norton is upfront about it, the company isn't technically doing anything wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 1/7/22 11:22 am Eastern
@@ -58,19 +58,21 @@ Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-future-of-mp4s-seamless-srt-incorporation-techniques/"><u>[New] 2024 Approved The Future of MP4s Seamless SRT Incorporation Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-color-coding-in-the-digital-world-srgb-vs-rgb-for-2024/"><u>[Updated] Color Coding in the Digital World Srgb vs Rgb for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-vr-and-the-future-of-teaching-strategies-for-2024/"><u>[Updated] VR and the Future of Teaching Strategies for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-nubia-red-magic-9-proplus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Nubia Red Magic 9 Pro+ to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-blaze-2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Blaze 2? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-samsung-galaxy-f14-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Samsung Galaxy F14 5G to Another | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Asus ROG Phone 7? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 14 Pro Without Swiping Up? 6 Ways</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-zte-axon-40-lite-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from ZTE Axon 40 Lite</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/top-tips-for-resolving-a-stalled-torrent-download-problem/"><u>Top Tips for Resolving a Stalled Torrent Download Problem</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G 5G (2023)</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-12-4g-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi Note 12 4G won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pioneering-path-for-instantaneous-srt-to-text-conversions/"><u>[New] Pioneering Path for Instantaneous SRT to Text Conversions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-transformation-of-user-interaction-understanding-the-update-for-2024/"><u>[New] The Transformation of User Interaction Understanding the Update for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-essential-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android/"><u>[Updated] 2024 Approved Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-best-look-ups-for-gopro-movies-select-15-luts/"><u>2024 Approved Best Look-Ups for GoPro Movies Select 15 LUTs</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-close-up-magic-avoiding-distance-blur-on-videoleap/"><u>2024 Approved Close-Up Magic Avoiding Distance Blur on Videoleap</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-v2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic V2 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-persistent-startup-troubles-in-warframe-gaming-experience/"><u>Expert Tips for Fixing Persistent Startup Troubles in Warframe Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-play-7t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Play 7T in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-tecno-camon-20-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-huawei-nova-y71-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Huawei Nova Y71 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-lava-yuva-3-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Lava Yuva 3 Pro unlock screen</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/mline-your-videos-acoustic-appeal-on-youtube/"><u>Streamline Your Video's Acoustic Appeal on YouTube</u></a></li>
+<li><a href="https://windows11.techidaily.com/summoning-windows-11s-masked-search-facilitator/"><u>Summoning Windows 11'S Masked Search Facilitator</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-xiaomi-redmi-a2-by-fonelab-android-recover-music/"><u>The way to get back lost music from Xiaomi Redmi A2</u></a></li>
 </ul></div>
 

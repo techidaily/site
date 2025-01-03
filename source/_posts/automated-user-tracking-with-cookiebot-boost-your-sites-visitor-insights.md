@@ -1,7 +1,7 @@
 ---
 title: "Automated User Tracking with Cookiebot: Boost Your Site's Visitor Insights"
-date: 2024-10-30T05:22:39.219Z
-updated: 2024-11-04T11:58:22.508Z
+date: 2024-12-26T09:20:37.425Z
+updated: 2025-01-02T04:37:12.105Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e5417264806aa41339dccc8726c59258.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## TextGrabber for Android Now Captures Text in Real Time and Makes it Actionable
 
 December 15, 2017
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY®, a global provider of intelligent capture solutions to improve business outcomes, today announced the release of TextGrabber 2.0 for Android with Real-Time Recognition and a completely redesigned interface. Now TextGrabber for both iOS and Android transforms text within a camera viewer into digital data in real time, to help users capture, share, translate, and use text, links, phone numbers, addresses, promo codes, and other printed information on the go. This new capability works in both online and offline modes.
 
@@ -74,25 +82,16 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-adding-tunes-to-your-ios-clips-three-no-cost-ways-explored/"><u>[Updated] Adding Tunes to Your iOS Clips – Three No-Cost Ways Explored</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-crafting-captivating-youtube-presence-the-ultimate-guide-to-making-thumbnails-on-phones-for-2024/"><u>[Updated] Crafting Captivating YouTube Presence The Ultimate Guide to Making Thumbnails on Phones for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-narzo-60-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/deducing-the-return-on-investment-for-elite-ai-services/"><u>Deducing the Return on Investment for Elite AI Services</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-s23-fe-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy S23 FE Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Tecno Spark 20? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-plus-ios-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 Plus iOS System? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-navigating-the-world-of-facebook-analytics/"><u>In 2024, Navigating the World of Facebook Analytics</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/in-2024-top-video-editing-tools-you-need-to-know/"><u>In 2024, Top Video Editing Tools You Need to Know</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-samsung-galaxy-m54-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Samsung Galaxy M54 5G on Windows</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-c02-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from C02</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-90-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from 90.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-improvements-for-the-apple-vision-pro-strategies-to-thrive-in-corporate-markets/"><u>Top Improvements for the Apple Vision Pro: Strategies to Thrive in Corporate Markets</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-top-eco-friendly-film-tech-for-2024/"><u>[New] Top Eco-Friendly Film Tech for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-perfect-youtube-thumbnails-on-macos/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-11-pro-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 11 Pro Max Safe and Legal</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-a2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi A2 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-8t-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 8T 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-intellectual-property-guidelines-for-instahits/"><u>In 2024, Intellectual Property Guidelines for InstaHits</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c33-2023-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C33 2023 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor X50 GT</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/yl-software-tutorial-securely-transitioning-retrieved-information-between-devices/"><u>YL Software Tutorial: Securely Transitioning Retrieved Information Between Devices</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

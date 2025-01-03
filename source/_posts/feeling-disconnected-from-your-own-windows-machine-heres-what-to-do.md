@@ -1,7 +1,7 @@
 ---
 title: Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
-date: 2024-12-10T23:18:34.255Z
-updated: 2024-12-15T16:10:48.634Z
+date: 2024-12-29T04:09:09.097Z
+updated: 2025-01-01T23:04:54.589Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,26 +23,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Offline Glory Days of Windows
 
  The first version of Windows I ever used, coming from MS-DOS, was Windows 3.1\. While Windows 3.1 might look incredibly primitive today, it's hard to explain just how big of a leap this was for a kid who had to memorize the Command Line instructions just to play some games. Things didn't really kick off for me until Windows 95 and our first taste of the internet, but even then, 99% of my Windows time up until Windows 7 was spent disconnected from the net.
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Advertising Sneaking In
@@ -55,6 +47,10 @@ Jerome Thomas / How-To Geek
 
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Updates Breaking My PC
 
  At this point, I have lost count of the number of times that I've left my perfectly working Windows computer at the end of my work day, only to return to a completely broken computer that won't boot the next morning. We have numerous articles at How-To Geek on how to [stop Windows from updating](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/), and the mere fact that readers are searching for this information should tell you something.
@@ -62,7 +58,7 @@ Jerome Thomas / How-To Geek
  Forced, automatic Windows updates seem inevitable now, and with every workaround people come up with, the loopholes are closed. Updates can be delayed, but not deferred. Resistance is futile. Which is why I find it hard to even trust Windows to run a Plex server or a NAS, because inevitably it will reboot the computer without asking me first.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Leave My Settings Alone, Microsoft
@@ -72,6 +68,10 @@ Jerome Thomas / How-To Geek
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -110,22 +110,24 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-master-the-art-of-youtube-visibility-two-steps/"><u>[New] Master the Art of YouTube Visibility (Two Steps)</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-surfers-specs-top-action-camera-choices-2023/"><u>[Updated] 2024 Approved Surfers' Specs - Top Action Camera Choices 2023</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users/"><u>[Updated] Bring Back Contrast IPhone HDR Video Tips for Premiere Pro Users</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-a-compre-written-in-sounds-youtube-playlists-decoded/"><u>[Updated] In 2024, A Compre Written in Sounds YouTube Playlists Decoded</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-gaming-income-optimization-tips/"><u>[Updated] In 2024, Gaming Income Optimization Tips</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco C51 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/console-or-computer-the-ultimate-game-test/"><u>Console or Computer? The Ultimate Game Test</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-gt-10-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix GT 10 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A14 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 15 Plus to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-how-much-do-podcasters-make/"><u>In 2024, How Much Do Podcasters Make?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-oppo-k11-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Oppo K11 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-11-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Data From iOS iCloud | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-phantom-v-fold-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Phantom V Fold</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-oppo-a2-by-fonelab-android-recover-data/"><u>The way to get back lost data from Oppo A2</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-spark-10-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Spark 10 Pro fingerprint</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1722970374357-upgrade-your-gpu-skills-with-the-latest-nvidia-geforce-rtx-1660-super-driver-software-download-here/"><u>Upgrade Your GPU Skills with the Latest NVIDIA GeForce RTX 1660 SUPER Driver Software – Download Here</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-sail-through-smooth-sharing-with-instagram-troubleshooting/"><u>[New] Sail Through Smooth Sharing with Instagram Troubleshooting</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ideal-selfie-sticks-for-iphone-users-for-2024/"><u>[Updated] Ideal Selfie Sticks for iPhone Users for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-innovative-techniques-for-recording-instagram-story-highlights/"><u>[Updated] Innovative Techniques for Recording Instagram Story Highlights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-optimizing-audio-and-video-quality-during-zoom-recordings-for-2024/"><u>[Updated] Optimizing Audio & Video Quality During Zoom Recordings for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-recipes-that-resonate-best-practices-for-eating-themed-titles/"><u>2024 Approved Recipes That Resonate Best Practices for Eating-Themed Titles</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723004505445-how-to-boost-your-utorrent-download-speeds-expert-tips/"><u>How to Boost Your uTorrent Download Speeds - Expert Tips</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-6-pro-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 6 Pro 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone XS Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-130-music-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia 130 Music Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-infinix-smart-8-plus-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Infinix Smart 8 Plus Device</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/incremental-movie-moment-for-2024/"><u>Incremental Movie Moment for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/iphone-15-vs-iphone-14-assessing-the-significant-advancements-in-apples-newest-release-insights/"><u>IPhone 15 Vs. IPhone 14: Assessing the Significant Advancements in Apple's Newest Release - Insights</u></a></li>
+<li><a href="https://program-issues.techidaily.com/maximize-your-gameplay-in-ark-survival-evolved-with-top-notch-fps-enhancements-on-pc/"><u>Maximize Your Gameplay in ARK: Survival Evolved with Top-Notch FPS Enhancements on PC</u></a></li>
+<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2019-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2019 Causes & Solutions</u></a></li>
+<li><a href="https://techidaily.com/solved-excel-2007-spreadsheet-disappears-after-opening-stellar-by-stellar-guide/"><u>Solved Excel 2007 Spreadsheet Disappears after Opening | Stellar</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-magic-v2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor Magic V2</u></a></li>
 </ul></div>
 

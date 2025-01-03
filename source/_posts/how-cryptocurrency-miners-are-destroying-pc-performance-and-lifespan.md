@@ -1,7 +1,7 @@
 ---
 title: How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
-date: 2024-12-12T20:09:49.164Z
-updated: 2024-12-15T16:08:12.836Z
+date: 2025-01-01T08:56:15.255Z
+updated: 2025-01-02T03:45:53.560Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,10 +24,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [Laptops Are Bad at Mining, Anyway](https://facebook-video-share.techidaily.com/new-engaging-vlogger-subjects-each-day-for-2024/)
 
  Laptops and [mining crypto](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/) don't mix. Even a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) doesn't have the hardware to go all-out 24/7\. Using your laptop as a mining rig is a good way to damage the hardware---and it won't be able to mine well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Crypto Mining Does to a Computer
 
@@ -42,7 +38,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  This isn't necessarily a problem for desktop GPUs. [A GPU used for mining may still have a good lifespan ahead of it if it was properly cooled](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/). However, a laptop is very different from a mining rig.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Laptops Are Not Designed For This
@@ -53,12 +49,16 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  There are laptops that are designed as number-crunching workstations, but these computers are better described as "portable" rather than mobile computers. Some of these workstation laptops have socketed desktop CPUs, which are designed to suck power from a wall outlet and really push those thermal limits. Unless you have one of these behemoths, your laptop probably wasn't made to handle the stresses of mining.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Fans Wear Out
 
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
@@ -76,7 +76,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In 2018, Shuai Ma and colleagues published a [paper on thermal impact and lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S1002007118307536). They cite research showing that lithium batteries subjected to 75 °C for a few days show severe degradation. While that doesn't mean sustained high temperatures in your laptop will kill your batteries quickly, it's worth remembering that components like the GPU can hit temperatures close to 100 °C, especially in a laptop where the line between "safe" and "too hot" is very thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Laptops Are Bad at Mining, Anyway
@@ -100,24 +100,19 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unlocking-spotifys-advertising-opportunities-a-roadmap/"><u>[New] Unlocking Spotify’s Advertising Opportunities A Roadmap</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>2024 Approved Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-obs-clash-livestream-prodigies/"><u>2024 Approved OBS Clash - LiveStream Prodigies</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/accelerating-hevc-compression-a-guide-to-utilizing-hardware-resources/"><u>Accelerating HEVC Compression: A Guide to Utilizing Hardware Resources</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/boost-your-productivity-on-mac-crafting-customized-focus-modes-in-macos-monterey-to-dodge-distractions-zdnet-insights/"><u>Boost Your Productivity on Mac: Crafting Customized Focus Modes in macOS Monterey to Dodge Distractions | ZDNET Insights</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Max Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-tecno-spark-10c-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Tecno Spark 10C</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/professional-hd-media-converter-for-macos-seamless-format-change-for-avchd-mkv-and-mov-files/"><u>Professional HD Media Converter for macOS - Seamless Format Change for AVCHD, MKV & MOV Files</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-simple-hd-mpeg-video-editor-for-smooth-file-conversions/"><u>Quick & Simple HD MPEG Video Editor for Smooth File Conversions</u></a></li>
-<li><a href="https://article-files.techidaily.com/resolution-duel-comparing-gopro-hero-and-polaroid-cube-for-2024/"><u>Resolution Duel Comparing GoPro Hero and Polaroid Cube for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-itel-s23plus-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Itel S23+</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g84-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G84 5G</u></a></li>
-<li><a href="https://techidaily.com/tecno-spark-10-5g-video-recovery-recover-deleted-videos-from-tecno-spark-10-5g-by-fonelab-android-recover-video/"><u>Tecno Spark 10 5G Video Recovery - Recover Deleted Videos from Tecno Spark 10 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Lava Yuva 2</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/top-6-ios-apps-turn-youtube-videos-into-mp3-files/"><u>Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fps-feudalists-unearthing-the-top-7-war-games/"><u>[New] 2024 Approved FPS Feudalists – Unearthing the Top 7 War Games</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-beginners-path-to-professional-windows-10-video-production/"><u>[New] 2024 Approved The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-adding-emojis-in-youtube-discussions-for-2024/"><u>[Updated] Adding Emojis in YouTube Discussions for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-elevating-success-channel-ideas-to-spark-momentum/"><u>2024 Approved Elevating Success Channel Ideas to Spark Momentum</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-video-marketing-with-youtube-thumbnails/"><u>2024 Approved Elevating Video Marketing with YouTube Thumbnails</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-6s-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 6s Plus Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-ace-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Ace 2 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-t2-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-psd-drop-shadows/"><u>In 2024, Cutting-Edge PSD Drop Shadows</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-dual-display-dynamics-video-recorder-rankings/"><u>In 2024, Dual Display Dynamics Video Recorder Rankings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pro-tips-combining-gopro-with-time-lapse-shooting-techniques/"><u>Pro Tips Combining GoPro with Time-Lapse Shooting Techniques</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Ultra won’t play MKV movies</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic 6</u></a></li>
 </ul></div>
 

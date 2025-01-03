@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-12-20T21:44:09.294Z
-updated: 2024-12-24T23:25:37.036Z
+date: 2024-12-29T12:06:10.173Z
+updated: 2025-01-01T19:23:45.875Z
 tags:
   - desktop
 categories:
@@ -11,14 +11,14 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 
 ## Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Uninstall Software Using the Command Line on Ubuntu](https://tech-hub.techidaily.com/champion-your-fitness-qanda-mastering-the-art-of-effective-chatgpt-communication/)
 * [How to Uninstall Software Using the Command Line in Fedora](https://fox-that.techidaily.com/10-effective-solutions-for-resolving-ghost-touch-issues-on-your-iphone/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -46,16 +46,12 @@ apt list --installed
 
 ![Running &quot;dpkg --list&quot; in the Termminal on Ubuntu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/dpkg-list-being-run-in-terminal.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Scroll through the list of installed packages in the Terminal window to find the one you want to uninstall. Note the full name of the package.
 
 ![GIMP listed as an installed program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/GIMP-listed-in-the-installed-packages.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To uninstall a program, use the `apt` command, which is the general command for installing programs and manipulating installed programs. For example, the following command uninstalls gimp and deletes all the configuration files, using the `purge` command.
@@ -75,7 +71,7 @@ sudo apt purge gimp
 ![GIMP was successfully removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/Sudo-apt-purge-ran-successfully.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't want to remove the configuration files, simply substitute the command `remove `for `purge`, as shown in the following command.
@@ -89,6 +85,10 @@ sudo apt remove gimp
 sudo apt autoremove
 
 ![Run &quot;sudo apt autoremove&quot; to remove a package and all of the dependencies it installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-autoremove-in-the-terminal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can combine the two commands for removing a program and removing dependencies that are no longer being used into one, as shown below (two dashes before "auto-remove").
 
@@ -115,7 +115,7 @@ sudo apt clean
 | Networking        | [netstat](https://screen-capture.techidaily.com/updated-memorize-mastery-galaxy-phone-gameplay-archive/) **·** [ping](https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-poco-x6-pro-drfone-by-drfone-virtual-android/) **·** [traceroute](https://fox-hovers.techidaily.com/beginners-pathway-to-grasping-hd-content-standards-for-2024/) **·** [ip](https://techtrends.techidaily.com/step-by-step-instructions-on-configuring-any-universal-remote-easily/) **·** [ss](https://techidaily.com/is-your-honor-play-7t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/) **·** [whois](https://article-tips.techidaily.com/why-cant-i-watch-video-on-sony-a6400-camera/) **·** [fail2ban](https://some-tips.techidaily.com/in-2024-transformative-meme-making-discovering-the-best-8-tools/) **·** [bmon](https://youtube-clips.techidaily.com/unlocking-your-creative-potential-style-and-niche/) **·** [dig](https://screen-sharing-recording.techidaily.com/updated-is-splitcam-the-pinnacle-of-recording-capabilities-for-2024/) **·** [finger](https://facebook-video-content.techidaily.com/new-2024-approved-from-ordinary-to-extraordinary-transform-your-facebook-profile-with-these-tips/) **·** [nmap](https://youtube-video-recordings.techidaily.com/updated-building-a-professional-online-brand-as-a-game-vlogger/) **·** [ftp](https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y27s-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/) **·** [curl](https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-mix-fold-3-frp-locks-by-drfone-android/) **·** [wget](https://common-error.techidaily.com/expert-guide-to-overcoming-bluetooth-paired-yet-unconnected-woes-in-your-windows-10-pc/) **·** [who](https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/) **·** [whoami](https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/) **·** [w](https://hardware-reviews.techidaily.com/exploring-technology-with-toms-hardware-insights-and-analysis/) **·** [iptables](https://hardware-tips.techidaily.com/advanced-hardware-uncovered-by-tom-top-picks-and-performance-tips/) **·** [ssh-keygen](https://youtube-tips.techidaily.com/n-2024-laughter-labyr-writes-making-memorable-parodies/) **·** [ufw](https://remote-screen-capture.techidaily.com/in-2024-pioneering-pedagogy-choosing-from-the-premier-10-lecture-recorders/) **·** [arping](https://extra-skills.techidaily.com/pivoting-from-xsplit-top-video-splitters-ranked-for-2024/) **·** [firewalld](https://instagram-video-files.techidaily.com/updated-in-2024-examining-the-usefulness-of-instagrams-selfie-validation/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |  |
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Uninstall Software Using the Command Line in Fedora
@@ -127,6 +127,10 @@ sudo apt clean
 dnf list --installed
 
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Scroll through the list until you find the program that you're looking for.
 
@@ -157,10 +161,6 @@ sudo dnf remove gimp
 
 ![The DNF auto-remove command being used to remove GIMP and all its dependencies.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_075114.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Fedora is usually pretty good at grabbing only the correct dependencies, but if you notice something on the "Removing Unused Dependencies" list that you'd like to keep, you can manually flag it to be kept. Enter the following command in a command line to keep a dependency:
 
 dnf mark install (Dependency/Package Name)
@@ -184,20 +184,17 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-advanced-tips-for-animation-using-windows-movie-maker-for-2024/"><u>[Updated] Advanced Tips for Animation Using Windows Movie Maker for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-best-practices-expert-picks-for-4k-dslr-mounts/"><u>[Updated] In 2024, Best Practices Expert Picks for 4K DSLR Mounts</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-masterful-zoom-techniques-simple-iphone-solutions/"><u>2024 Approved Masterful Zoom Techniques Simple iPhone Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30 Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-agni-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s24-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S24 Ultra Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-pc-game-crashes-in-nier-automata-solved/"><u>How to Troubleshoot PC Game Crashes in Nier: Automata - Solved!</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-lava-blaze-2-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Blaze 2 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/mastering-file-recovery-fix-system-corruption-issues-on-windows-11/"><u>Mastering File Recovery: Fix System Corruption Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-vivo-by-fonelab-android-recover-data/"><u>The way to get back lost data from Vivo</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-gt-10-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from GT 10 Pro</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-p55-by-fonelab-android-recover-video/"><u>Undeleted lost videos from P55</u></a></li>
-<li><a href="https://facebook.techidaily.com/understanding-the-added-value-of-facebook-gestures/"><u>Understanding the Added Value of Facebook Gestures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-page-a-guide-to-growing-facebook-followers/"><u>[New] Elevate Your Page A Guide to Growing Facebook Followers</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-precision-video-capturing-on-mac-for-snapshares-for-2024/"><u>[New] Precision Video Capturing on Mac for Snapshares for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-top-minded-channels-ultimate-yt-educational-guide/"><u>[Updated] In 2024, Top Minded Channels Ultimate YT Educational Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-dramatically-rewind-your-snaps-the-snapchat-way/"><u>2024 Approved Dramatically Rewind Your Snaps The Snapchat Way</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-the-pitch-black-display-issue-in-resident-evil-village-a-guide-for-pc-gamers/"><u>Fixing the Pitch-Black Display Issue in Resident Evil Village: A Guide for PC Gamers</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-pova-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pova 5 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/introducing-scrolling-upgrade-add-a-source-scrollbar-feature-in-your-emeditor-experience/"><u>Introducing Scrolling Upgrade: Add a Source Scrollbar Feature in Your EmEditor Experience</u></a></li>
+<li><a href="https://article-tips.techidaily.com/overview-djis-ultra-hd-vr-flight-headsets-for-2024/"><u>Overview DJI's Ultra-HD VR Flight Headsets for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-tecno-spark-20-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Tecno Spark 20 Pro.</u></a></li>
+<li><a href="https://win11.techidaily.com/vanishing-variables-discreet-windows-controls/"><u>Vanishing Variables: Discreet Windows Controls</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2020-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2020) is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-11-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 11 Pro 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

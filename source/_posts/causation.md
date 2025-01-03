@@ -1,7 +1,7 @@
 ---
 title: Causation
-date: 2024-12-10T03:03:10.623Z
-updated: 2024-12-16T03:33:19.393Z
+date: 2025-01-01T11:52:03.005Z
+updated: 2025-01-02T07:33:29.883Z
 tags:
   - cutting-edge
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Causation
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Tell If ChatGPT Wrote That Article](https://remote-screen-capture.techidaily.com/updated-behind-the-scenes-how-to-log-overwatch-games-for-2024/)
@@ -23,7 +19,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Train Your Brain To Catch AI](https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +29,10 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  AI technology is changing what we see online and how we interact with the world. From a Midjourney photo of the [Pope in a puffer coat](https://www.buzzfeednews.com/article/chrisstokelwalker/pope-puffy-jacket-ai-midjourney-image-creator-interview) to language learning models like ChatGPT, artificial intelligence is working its way into our lives.
 
  The more sinister uses of AI tech, like a political disinformation campaign blasting out fake articles, mean we need to educate ourselves enough to spot the fakes. So [how can you tell](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-phone-unlock-it-now-by-drfone-android/) if an article is actually AI generated text?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Tell If ChatGPT Wrote That Article
 
@@ -46,10 +46,14 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 
 ![Chat GPT answering the question "Can you explain quantum computing in simple terms?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-08-at-12.29.13-PM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Short, simple connecting words are regularly used, the sentences are all a similar length, and paragraphs all follow a similar structure. The end result is writing that sounds and feels a bit robotic.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Can You Use AI to Detect AI-Generated Text?
@@ -59,10 +63,6 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  Researchers are also working on watermarking methods to detect AI articles and text. Tom Goldstein, who teaches computer science at the University of Maryland, is working on a way to [build watermarks](https://arxiv.org/pdf/2301.10226.pdf) into AI language models in the hope that it can help detect machine-generated writing even if it's good enough to mimic human randomness.
 
  Invisible to the naked eye, the watermark would be detectable by an algorithm, which would indicate it as either human or AI generated depending on how often it adhered to or broke the watermarking rules. Unfortunately, this method hasn't tested so well on later models of ChatGPT.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Tools to Check If An Article Was Written By ChatGPT
 
@@ -83,7 +83,7 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 Related: [Can ChatGPT Write Essays: Is Using AI to Write Essays a Good Idea?](https://digital-screen-recording.techidaily.com/2024-approved-smartest-devices-to-modify-your-speech-on-the-go/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Train Your Brain To Catch AI
@@ -113,20 +113,22 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-artistic-advancements-top-smartphone-innovations/"><u>[New] Artistic Advancements Top Smartphone Innovations</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-clear-black-boards-in-your-youtube-videos-in-2024/"><u>[New] How to Clear Black Boards in Your YouTube Videos, In 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-the-science-of-scheduling-your-best-view-days/"><u>[Updated] 2024 Approved The Science of Scheduling Your Best-View Days</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-easy-media-sharing-on-twitter-no-retweets-required/"><u>[Updated] Easy Media Sharing on Twitter - No Retweets Required</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-enhance-clips-best-winter-bgs-for-video-warmth/"><u>[Updated] In 2024, Enhance Clips Best Winter Bg's for Video Warmth</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-screenmasterreview-latest-editions-performance-insights/"><u>[Updated] ScreenMasterReview Latest Edition's Performance Insights</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/fire-hd-10-by-amazon-reviewed-the-perfect-media-companion-for-every-age-group/"><u>Fire HD 10 by Amazon Reviewed: The Perfect Media Companion for Every Age Group</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y200-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y200 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23+? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-zte-nubia-flip-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock ZTE Nubia Flip 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-realme-gt-5-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Realme GT 5</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-itel-s23plus-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Itel S23+</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c300-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C300</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweetvidsoundscape-instant-video-to-sound/"><u>[New] TweetVidSoundscape Instant Video-to-Sound</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/comprehensive-solution-for-igfxem-component-not-responding-errors/"><u>Comprehensive Solution for igfxEM Component Not Responding Errors</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-g54-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola G54 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-f34-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy F34 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-realme-11-5g-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Realme 11 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-honor-magic-5-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Honor Magic 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-becoming-a-leader-in-video-marketing-on-youtube/"><u>In 2024, Becoming a Leader in Video Marketing on YouTube</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-samsung-galaxy-s23-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Samsung Galaxy S23 Lock Screen Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/restoring-your-obs-cameras-integrated-functionality-for-2024/"><u>Restoring Your OBS Camera’s Integrated Functionality for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/rgb-basics-and-their-evolution-into-srgb-format/"><u>Rgb Basics and Their Evolution Into Srgb Format</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g04-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G04</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A58 4G | Dr.fone</u></a></li>
 </ul></div>
 

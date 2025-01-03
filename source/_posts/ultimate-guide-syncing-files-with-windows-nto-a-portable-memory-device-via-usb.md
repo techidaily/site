@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2024-12-22T00:49:23.563Z
-updated: 2024-12-25T00:56:46.047Z
+date: 2024-12-29T11:24:56.104Z
+updated: 2025-01-01T19:52:03.164Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ## Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [How to Copy Files by Dragging and Dropping](https://ai-driven-video-production.techidaily.com/join-the-ranks-top-5-free-online-video-joiners-you-need-to-try/)
 * [How to Copy Files Using Copy and Paste](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [What to Do If You Run out of Space on the Flash Drive](https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-bootloader-easily-by-drfone-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![The devices and drives on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/devices-and-drives.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your USB drive has been recognized correctly and is ready to receive files, it will appear in this location with a name and a drive letter assigned to it, such as "D:", "E:", or "F:", or another letter. Note that the "C:" drive is almost always the main drive on your PC, unless you go very out of your way to change it.
@@ -59,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find the Files You Want to Copy
@@ -72,23 +68,19 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  What happens next depends on how you'd like to copy the files. There are several ways to do it, but here are the two most common methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Copy Files by Dragging and Dropping
 
  Using your mouse cursor, select the file (or files) you would like to copy, then click and hold the mouse button to drag the files to the USB thumb drive window.
 
 ![Dragging files between File Explorer windows performs a copy operation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/moving-files.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When an icon representing the file or files appears over the destination window, release the mouse button, and the files will be copied to that location.
 
 ![The files have been successfully moved to the USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moved.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the future, you can also drag files directly onto the USB flash drive icon in "This PC" to copy them to that location.
 
@@ -106,6 +98,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
 
 ##  What to Do If You Run out of Space on the Flash Drive
@@ -113,6 +109,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  If you're copying files to your USB flash drive and you receive a message such as "There is not enough space" or "There is insufficient disk space to complete the operation," then you've run out of free space on your flash drive.
 
 ![An insufficient space message in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/08/win10_not_enough_space.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are three basic solutions. The first is to explore the contents of your USB flash drive and see if it already contains data that you can delete to free up space. Be careful that you don't delete anything that you haven't already backed up somewhere else.
 
@@ -135,24 +135,19 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-unveiling-todays-hot-gems-a-guide-to-facebooks-favorites/"><u>[New] 2024 Approved Unveiling Today’s Hot Gems A Guide to Facebook's Favorites</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-unlisted-videos-a-deep-dive-into-youtube-secrecy/"><u>[New] In 2024, Decoding Unlisted Videos A Deep Dive Into YouTube Secrecy</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-incorporate-subtitles-for-improved-viewing-wmp-guide/"><u>[New] In 2024, Incorporate Subtitles for Improved Viewing WMP Guide</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ailored-thumbnails-elevating-your-video-visibility-on-youtube/"><u>[New] Tailored Thumbnails Elevating Your Video Visibility on YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-buzzfeed-gurus-flashing-with-snapchat/"><u>[Updated] In 2024, BuzzFeed Gurus Flashing with Snapchat</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/free-webp-file-converter-effortless-online-image-format-transformation-by-movavi/"><u>Free WebP File Converter: Effortless Online Image Format Transformation by Movavi</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-honor-play-8t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor Play 8T in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-note-50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Note 50 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/how-to-fix-erratic-tracking-on-your-computer-mouse-tips-by-yl-technology-solutions/"><u>How to Fix Erratic Tracking on Your Computer Mouse - Tips by YL Technology Solutions</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y100i-power-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y100i Power 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-x9b-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X9b phone? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-your-video-chats-update-the-webcam-software-compatible-with-windows-11/"><u>Improve Your Video Chats: Update the Webcam Software Compatible with Windows 11</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Vivo Y200e 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-honor-x50-gt-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Honor X50 GT unlock screen</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-y77t-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo Y77t without backup.</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/ultimate-prime-day-bot-vac-deals-for-over-50s-snag-discounted-roomba-roborock-and-beyond-zdnet-insights/"><u>Ultimate Prime Day Bot Vac Deals for Over 50S: Snag Discounted Roomba, Roborock & Beyond | ZDNET Insights</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-magic5-ultimate-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor Magic5 Ultimate</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-v-purse-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-saving-big-on-vr-equipment-from-china-for-2024/"><u>[New] Saving Big on VR Equipment From China for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/best-deals-in-technology-find-your-picks-at-amazon-prime-day-2024/"><u>Best Deals in Technology: Find Your Picks at Amazon Prime Day 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-find-x7-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Find X7 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-iphone-11-pro-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your iPhone 11 Pro</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/free-to-edit-top-10-online-video-editors-with-no-hidden-fees-or-watermarks/"><u>Free to Edit Top 10 Online Video Editors with No Hidden Fees or Watermarks</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Civi 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-n3-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-90-lite-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 90 Lite Lock Screen Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-lava-agni-2-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Lava Agni 2 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Plus Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-70-lite-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-next-phase-of-tech-tools-staying-ahead-in-an-age-dominated-by-ai-insights-from-zdnet/"><u>The Next Phase of Tech Tools: Staying Ahead in an Age Dominated by AI | Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-m14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
 </ul></div>
 
