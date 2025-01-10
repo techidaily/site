@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2024-12-29T18:17:42.698Z
-updated: 2025-01-02T21:19:14.352Z
+date: 2025-01-06T01:05:56.106Z
+updated: 2025-01-09T19:04:53.922Z
 tags:
   - web
 categories:
@@ -38,21 +38,22 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-androids-leading-video-tiles-ranked-8-freepaid-collage-creators/"><u>[New] Android's Leading Video Tiles Ranked #8-Free/Paid Collage Creators</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-a-filmmakers-handbook-mastering-close-up-videography/"><u>[Updated] A Filmmaker's Handbook Mastering Close-Up Videography</u></a></li>
-<li><a href="https://facebook.techidaily.com/authenticity-arena-vying-for-the-top-in-verified-metas-and-blue-ticks/"><u>Authenticity Arena: Vying for the Top in Verified Metas and Blue Ticks</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi 13T | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-iphone-11-pro-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On iPhone 11 Pro in the Best Ways</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/mp4-compressor-disminuyaacabose-el-tamano-de-los-archivos-mp4-manteniendo-la-mejor-calidad/"><u>MP4 Compressor: Disminuya/Acabose El Tamaño De Los Archivos MP4 Manteniendo La Mejor Calidad</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-infinix-smart-8-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Smart 8</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-vivo-v29-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Vivo V29 Pro</u></a></li>
-<li><a href="https://techidaily.com/vivo-messages-recovery-recover-deleted-messages-from-vivo-by-fonelab-android-recover-messages/"><u>Vivo Messages Recovery - Recover Deleted Messages from Vivo</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-commanders-quest-the-ultimate-list-of-total-war-classics/"><u>[New] Commanders’ Quest The Ultimate List of Total War Classics</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-complete-laptop-recording-manual-dell-edition/"><u>[New] The Complete Laptop Recording Manual Dell Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-ultimate-guide-to-adding-linktree-to-tiktok-bios/"><u>[New] The Ultimate Guide to Adding Linktree to TikTok Bios</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-how-to-screen-record-on-hp-laptop-for-2024/"><u>[Updated] How to Screen Record on Hp Laptop for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-enhancing-engagement-with-best-practices-for-fb-cover-vids/"><u>2024 Approved Enhancing Engagement with Best Practices for FB Cover Vids</u></a></li>
+<li><a href="https://driver-download.techidaily.com/behringer-usb-dac-instrument-driver-get-it-now/"><u>Behringer USB DAC Instrument Driver - Get It Now</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f04-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F04 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-v30-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme V30 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-max-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro Max To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-lava-yuva-2-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Lava Yuva 2 to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/optimal-7-dslr-recommendations-for-dynamic-video-content-for-2024/"><u>Optimal 7 DSLR Recommendations For Dynamic Video Content for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Honor 80 Pro Straight Screen Edition</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

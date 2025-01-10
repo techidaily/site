@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 User's Tutorial: Customizing Date and Time Display Preferences"
-date: 2024-12-30T06:46:53.687Z
-updated: 2025-01-03T08:11:27.660Z
+date: 2025-01-02T23:23:02.450Z
+updated: 2025-01-09T21:33:54.175Z
 tags:
   - desktop
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 * [Select From the Available Date and Time Formats](https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p40-drfone-by-drfone-virtual-android/)
 * [Set a Custom Date and Time Format](https://techtrends.techidaily.com/top-10-must-watch-teen-films-streaming-on-netflix/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * To modify the date and time format, open the Settings app and navigate to Time and Language > Language and Region > Regional Format. Then, click on Change Formats and select your preferred format.
@@ -28,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  If you don't like the default date and time format and prefer something more intuitive, changing it is simple. You can either choose from the available formats or create a custom one. This guide will show you how to do just that.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Select From the Available Date and Time Formats
@@ -37,19 +33,27 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![Opening the language and region settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-opening-the-language-and-region-settings-in-the-windows-settings-app.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Within the Region section, click on the "Regional Format" option—ensure that you do not click on the dropdown menu but on the blank space. Then, click on the "Change Formats" button.
 
 ![Opening the settings to change date and time formats in the Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-opening-the-settings-to-change-date-and-time-formats-in-the-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this menu, select your preferred date and time format next to "Short Date" and "Long Date," as well as "Short Time" and "Long Time."
 
 ![Changing the date and time format in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-changing-the-date-and-time-format-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Remember that Windows displays the short date and short time formats in the taskbar. These are values you need to edit to have the taskbar display your preferred format. If you're using Windows 10, the process to [change the date and time format](https://screen-activity-recording.techidaily.com/2024-approved-leading-water-and-liquid-game-simulations-unveiled/) is slightly different.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Set a Custom Date and Time Format
 
@@ -57,21 +61,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![Opening the region settings in the Windows Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-region-settings-in-the-windows-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to the "Formats" tab and click the "Additional Settings" button in the lower-right corner. Then, move to the "Time" tab and select your preferred time format next to "Short Time" and "Long Time" from the options provided. Otherwise, use the notation provided at the end of the window to set a custom format. After adding the desired formats, click "Apply" and "OK."
 
 ![Changing the time format from the additional region settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-changing-the-time-format-from-the-addition-region-settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, navigate to the "Date" tab and choose your preferred date format next to "Short Date" and "Long Date" from the available options. Or use the provided notations to set a custom date format.
 
 ![Changing the date format in the region settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-changing-the-date-format-in-the-region-settings-on-windows.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -92,14 +92,14 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/uide-to-creating-content-top-10-inclusive-video-ideas-for-anyone/"><u>[New] Guide to Creating Content Top 10 Inclusive Video Ideas for Anyone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-secretsunlocked-utilizingyoucamforrecording-for-2024/"><u>[Updated] SecretsUnlocked UtilizingYouCamForRecording for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/enhancing-speed-for-vimeo-playback-for-2024/"><u>Enhancing Speed for Vimeo Playback for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/experience-enhanced-photo-editing-on-windows-with-photo-8-software-order/"><u>Experience Enhanced Photo Editing on Windows with Photo 8 Software Order</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 7 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/maximizing-performance-monitoring-pcs-ram-gpu-and-cpu/"><u>Maximizing Performance: Monitoring PC's RAM, GPU & CPU</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-c51-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from C51</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-y27-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo Y27 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-x-lock-with-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone X lock with iTunes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-choosing-the-right-horizon-smart-strategies-for-buying-an-impressive-4k-display/"><u>[Updated] Choosing the Right Horizon Smart Strategies for Buying an Impressive 4K Display</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpts-my-bot-masterclass-merging-board-games-art-and-innovation/"><u>ChatGPT's My Bot Masterclass: Merging Board Games, Art & Innovation</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-connection-tricks-for-perfectly-pairing-your-logitech-mouse/"><u>Easy Connection Tricks for Perfectly Pairing Your Logitech Mouse</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-pace-facebook-videos-prime-extensions-tips-and-tricks-list/"><u>In 2024, Quick-Pace Facebook Videos Prime Extensions, Tips & Tricks List</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y27s-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y27s working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/smart-choices-8-best-convertors-from-sub-to-srt-format/"><u>Smart Choices 8 Best Convertors From Sub to SRT Format</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-vivo-y100i-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Vivo Y100i</u></a></li>
 </ul></div>
 

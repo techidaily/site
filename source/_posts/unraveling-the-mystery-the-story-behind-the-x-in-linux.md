@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2024-12-31T20:56:48.711Z
-updated: 2025-01-03T05:18:08.461Z
+date: 2025-01-04T02:00:06.684Z
+updated: 2025-01-09T22:07:33.460Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ## Unraveling the Mystery: The Story Behind the 'X' In Linux
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Before the X, There Was CS](https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-video-hits-compilation/)
@@ -22,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Linus Torvalds and Freax](https://some-guidance.techidaily.com/new-swift-transition-the-ultimate-guide-to-sierra-on-macs/)
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -58,7 +58,7 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -80,13 +80,13 @@ Dave McKay/How-To Geek
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
@@ -118,7 +118,7 @@ Dave McKay/How-To Geek
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s in a Name?
@@ -142,18 +142,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-pioneering-tools-for-modern-gameplay-recording/"><u>[New] 2024 Approved Pioneering Tools for Modern Gameplay Recording</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/asily-transform-youtube-music-into-mp3-for-mac-os/"><u>[New] Easily Transform YouTube Music Into MP3 for Mac OS</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-igtvs-elite-content-crews-you-must-see/"><u>[New] IGTV's Elite Content Crews You Must See</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/2024-approved-elevate-your-tiktok-game-innovative-username-ideas-for-growth/"><u>2024 Approved Elevate Your TikTok Game Innovative Username Ideas for Growth</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-visual-testimonial-advantage/"><u>2024 Approved The Visual Testimonial Advantage</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-spark-20-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Spark 20 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/memes-take-over-video-hits-on-twitters-map/"><u>Memes Take Over Video Hits on Twitter's Map</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/sculpting-memorable-moments-in-your-shows-start-for-2024/"><u>Sculpting Memorable Moments in Your Show's Start for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/tech-showdown-pixel-9-pro-xl-vs-iphone-15-pro-camera-face-off-who-won-and-whats-the-hidden-twist-analysis/"><u>Tech Showdown: Pixel 9 Pro XL Vs. IPhone 15 Pro Camera Face-Off | Who Won and What's the Hidden Twist? - Analysis</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-poco-m6-pro-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Poco M6 Pro 5G.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to reinstall your drivers on Windows 11</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-essential-retro-filters-to-polish-video-pieces/"><u>[New] 2024 Approved Essential Retro Filters to Polish Video Pieces</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-hidden-layers-of-personal-information/"><u>[New] 2024 Approved Hidden Layers of Personal Information</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-years-top-picks-affordable-livestream-software-and-apps-list/"><u>[Updated] In 2024, Year's Top Picks Affordable Livestream Software and Apps List</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pioneering-tools-top-5-cloud-based-videography-platforms/"><u>2024 Approved Pioneering Tools Top 5 Cloud-Based Videography Platforms</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-command-mastery-elite-educational-sessions/"><u>AI Command Mastery: Elite Educational Sessions</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/while-you-entertain-the-content-creators-guide/"><u>Earn While You Entertain The Content Creator's Guide</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-open-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Open Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-x-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone X to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-huawei-nova-y71-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Huawei Nova Y71 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-reno-11f-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo Reno 11F 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-xs-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone XS? Learn All 4 Methods</u></a></li>
+<li><a href="https://facebook.techidaily.com/techniques-for-moderating-your-virtual-connectedness/"><u>Techniques for Moderating Your Virtual Connectedness</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-compreenasolution-proficient-removal-techniques-for-adhesive-intrusions/"><u>The Compreenasolution Proficient Removal Techniques for Adhesive Intrusions</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-6-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C110? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-vivo-g2-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Vivo G2</u></a></li>
+<li><a href="https://win-dash.techidaily.com/windows-10-webcam-troubles-learn-how-to-update-the-drivers-easily/"><u>Windows 10 Webcam Troubles? Learn How to Update the Drivers Easily!</u></a></li>
 </ul></div>
 

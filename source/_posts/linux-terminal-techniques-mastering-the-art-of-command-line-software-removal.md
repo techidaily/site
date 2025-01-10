@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2024-12-31T21:00:27.387Z
-updated: 2025-01-02T18:51:59.876Z
+date: 2025-01-03T17:52:41.915Z
+updated: 2025-01-09T22:28:11.382Z
 tags:
   - desktop
 categories:
@@ -58,12 +58,16 @@ sudo apt purge gimp
 
 ![Run &quot;sudo apt purge gimp&quot; to uninstall GIMP and remove the configuration files on Ubuntu, or any Debian installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-purge-gimp-in-the-Terminal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The installation process continues. When it's done, type "exit" at the prompt and press "Enter" to close the Terminal window, or click the "X" button in the upper-left corner of the window.
 
 ![GIMP was successfully removed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/Sudo-apt-purge-ran-successfully.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you don't want to remove the configuration files, simply substitute the command `remove `for `purge`, as shown in the following command.
@@ -72,10 +76,6 @@ sudo apt remove gimp
 
 ![Enter &quot;sudo apt remove gimp&quot; to remove just GIMP, but leave the configuration files in place.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-remove-instead-of-sudo-apt-purge.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Programs installed in Linux — just like Windows and MacOS — depend on other packages to function. When you uninstall a program, there may be packages that the uninstalled program depended upon that are no longer used. To remove any unused packages, use the "autoremove" command, as shown in the following example.
 
 sudo apt autoremove
@@ -83,7 +83,7 @@ sudo apt autoremove
 ![Run &quot;sudo apt autoremove&quot; to remove a package and all of the dependencies it installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-autoremove-in-the-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can combine the two commands for removing a program and removing dependencies that are no longer being used into one, as shown below (two dashes before "auto-remove").
@@ -92,10 +92,6 @@ sudo apt purge --auto-remove gimp
 
 ![Run &quot;sudo apt purge --autoremove gimp&quot; to remove all of GIMP's dependencies and the configuration files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-purge-autoremove-to-uninstall-packages-and-unused-dependencies.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you're short on space, you can use the "clean" command to remove downloaded archive files, as shown below.
 
 sudo apt clean
@@ -103,6 +99,10 @@ sudo apt clean
  This command removes the aptitude cache in "/var/cache/apt/archives". When you install a program, the package file is downloaded and stored in that directory. You don't need to keep the files in that directory. However, there is a potential drawback from deleting them: if you decide to install any of those programs again, the packages will have to be downloaded again.
 
 ![Run &quot;sudo apt clean&quot; to remove archive files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/run-sudo-apt-clean.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The APT is a handy tool that makes downloading, installing, and uninstalling programs quick and easy. For more information about using the "apt" command, type "apt" at the prompt and press Enter.
 
@@ -125,12 +125,16 @@ dnf list --installed
 ![Terminal output of the DNF command to list installed packages.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072542.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Scroll through the list until you find the program that you're looking for.
 
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  There are two quick ways to remove a program using DNF.
 
@@ -150,10 +154,6 @@ sudo dnf remove gimp
  Note that though the list command showed the GIMP package with its architecture attached to the name, like "gimp.x86\_64", I don't have to include the architecture or its preceding period in the remove command.
 
 ![The DNF command to remove the GIMP package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_073703.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Just enter "y" and GIMP will be removed.
 
@@ -184,19 +184,22 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[New] The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-download-dynamics-of-hd-content-on-modern-social-networks/"><u>[Updated] 2024 Approved Download Dynamics of HD Content on Modern Social Networks</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-the-abcs-of-aspect-ratio-a-guide-to-twitter-videos/"><u>[Updated] The ABCs of Aspect Ratio A Guide to Twitter Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-complete-transformation-handbook-using-morphvox-tech/"><u>2024 Approved Complete Transformation Handbook Using MorphVOX Tech</u></a></li>
-<li><a href="https://facebook.techidaily.com/boosting-profits-with-top-4-business-metadata-strategies/"><u>Boosting Profits with Top 4 Business Metadata Strategies</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-huawei-nova-y91-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Huawei Nova Y91 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-30i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 30i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/how-to-troubleshoot-and-resolve-issues-with-youtube-on-your-ipad/"><u>How to Troubleshoot and Resolve Issues with YouTube on Your iPad</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-infinix-hot-30i-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Infinix Hot 30i to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/orchestrate-your-pixels-with-offline-harmony-for-2024/"><u>Orchestrate Your Pixels With Offline Harmony for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-google-pixel-8-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Google Pixel 8 Pro</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-4-free-avi-to-mp4-conversion-tools-windows-mac-and-online-options/"><u>Top 4 Free AVI to MP4 Conversion Tools: Windows, Mac & Online Options</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-freeze-time-on-mi-11-with-impeccable-screen-recording-features/"><u>[New] 2024 Approved Freeze Time on Mi 11 with Impeccable Screen Recording Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-immersive-teaching-transformative-learning/"><u>[New] Immersive Teaching, Transformative Learning</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-macbook-air-and-pro-powered-by-m1-decision-guide/"><u>[New] MacBook Air & Pro Powered by M1 Decision Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-social-media-sensation-spotlights-for-2024/"><u>[Updated] Social Media Sensation Spotlights for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-your-guide-to-youtubian-beginnings-establishing-a-channel-and-earning-money/"><u>2024 Approved Your Guide to Youtubian Beginnings Establishing a Channel and Earning Money</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-spark-10c-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Spark 10C Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-turn-off-the-screen-lock-on-my-nokia-g42-5g-by-drfone-android-unlock-android-unlock/"><u>How to turn off the screen lock on my Nokia G42 5G</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y100t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100t working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/leveraging-your-roku-setup-for-exclusive-fb-live-content-for-2024/"><u>Leveraging Your Roku Setup for Exclusive FB Live Content for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/raf-jpeg-raf-jpg-movavi/"><u>RAF 이미지를 JPEG로 자유성 원위: 웹 스토리지에서 효율적인 RAF-JPG 변환기 - Movavi</u></a></li>
+<li><a href="https://techidaily.com/remove-y100a-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Y100A unlock screen</u></a></li>
+<li><a href="https://techidaily.com/sign-wbk-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-moto-g-stylus-5g-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-f23-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo F23 5G fingerprint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/zoom-blackout-blues-heres-your-ultimate-guide-to-clear-the-screen/"><u>Zoom Blackout Blues? Here’s Your Ultimate Guide to Clear the Screen</u></a></li>
 </ul></div>
 

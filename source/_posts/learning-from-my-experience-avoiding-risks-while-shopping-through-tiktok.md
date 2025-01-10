@@ -1,7 +1,7 @@
 ---
 title: "Learning From My Experience: Avoiding Risks While Shopping Through TikTok"
-date: 2024-12-28T08:26:43.898Z
-updated: 2025-01-02T19:32:13.729Z
+date: 2025-01-04T22:26:24.575Z
+updated: 2025-01-09T18:43:47.096Z
 tags:
   - web
 categories:
@@ -21,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  TikTok Shop opened for business in November 2022, and the operation now generates more than $17 billion per year. Almost anyone can monetize their TikTok account using Shopify—which is how I got burned. Here's what you need to know to make sure it doesn't happen to you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Tale of Two TikTok Purchases
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  But who can resist the siren song of clothing and criss-cross chairs? Not me, apparently. Since I signed up for TikTok, I've made two purchases: a [viral oversized desk chair](https://www.amazon.com/Legged-Office-Armless-Computer-Adjustable/dp/B0CZLHFWL8/ref=sr%5F1%5F5?dib=eyJ2IjoiMSJ9.EYKqMjOnndRP7MShUqmOzZBgiPBKdwLlhpHETWBE2TO1s4a%5FiOHgexUu2sVrgA9MXTSiXV9ZdJx0%5Ftrvxq5caahoQAsYRLYi1BqnuR8KPv35286n7TBo0LYhksIhy3XgMIel5N1KvOUD7n8u4vry3KKSwTnmVF1hNHd3BEsWLqNX8EkeCC4%5FBjv5DF9jhNY1WTa3V8UDQdjPom8JEs26qD90ov-JewAEEIkAhYjz9JF7y621lAtnYpU8pQ6DqLNLTffBvck5gF8mtuNbr2vY0MxZPB3gRpnRf6LJ1teMrFM.fAmGlb014eQcxe5m1moZZ8MJENJo-Do1bOpdVSR6rb4&dib%5Ftag=se&hvadid=665639400447&hvdev=c&hvlocphy=1013462&hvnetw=g&hvqmt=e&hvrand=6948836597444604577&hvtargid=kwd-2162749065788&hydadcr=7665%5F13469258&keywords=viral+criss+cross+chair&qid=1718305400&sr=8-5&tag=hotoge-20&ascsubtag=UUhtgUeUpU2003634&asc%5Frefurl=https%3A%2F%2Fwww.howtogeek.com%2Fi-got-burned-shopping-on-tiktok-but-you-can-learn-from-my-mistake%2F&asc%5Fcampaign=Short-Term) and a [belted black jumpsuit](https://mccoyn.com/products/womens-sleeveless-wide-leg-jumpsuit). I sit upon my huge quilted throne as we speak, but the jumpsuit is lost to time and space (I got scammed out of $20).
 
  While the chair sale went through the typical TikTok Shop Shopify pipeline, at some point when purchasing the jumpsuit I was apparently lured to a third-party site. When the item never arrived and I requested a refund, I was met with radio silence. I'm not holding my breath.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How TikTok Shop Works
 
@@ -43,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 ![Select 'Shop' in the bottom bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-_profile_-in-the-bottom-bar-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or, you can click the Shop link in a video to shop for the product that they're talking about:
@@ -51,11 +55,11 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 ![Click the TikTok shop link in a post to buy the item shown.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/tiktok-shop-link.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Red Flags When Buying on TikTok
@@ -67,10 +71,6 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
  Second, be wary of new accounts. While some brands create a new TikTok account and start to sell legitimate merchandise, other times, a new account deserves some suspicion. If you see a brand new unverified account that is selling its own merchandise, you may want to wait to purchase. Likewise, accounts with little to no engagement may be spam accounts worthy of caution.
 
  Lastly, avoid products with little description. Don't buy anything with little to no product specs or descriptions. Legit sellers will outline what you're getting and how you can return it. Look for contact info, too.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Best Practices for TikTok Shopping
 
@@ -95,20 +95,18 @@ thumbnail: https://thmb.techidaily.com/6f6733cfbb7cb6eb16337cdb6f714ca1fb4c15216
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-minecraft-screen-capture-a-mac-guide-for-2024/"><u>[New] Mastering Minecraft Screen Capture A Mac Guide for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-a-beginners-pathway-building-a-simple-youtube-signup/"><u>2024 Approved A Beginner’s Pathway Building a Simple YouTube Signup</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/becoming-a-pro-at-using-igtv-for-business-and-personal-growth/"><u>Becoming a Pro at Using IGTV for Business and Personal Growth</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-f34-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy F34 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-how-to-effortlessly-install-and-switch-between-ubuntu-and-macos-with-an-unusual-trick-from-zdnet/"><u>Discover How to Effortlessly Install and Switch Between Ubuntu & macOS with an Unusual Trick From ZDNet!</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-narzo-60x-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme Narzo 60x 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lenovo-thinkphone-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lenovo ThinkPhone without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-narzo-60x-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme Narzo 60x 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-8-ways-to-transfer-photos-from-honor-magic-6-pro-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 8 Ways to Transfer Photos from Honor Magic 6 Pro to iPhone Easily | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-nokia-c110-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Nokia C110 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-streamline-your-projects-expert-techniques-for-mac-dvd-creation/"><u>In 2024, Streamline Your Projects Expert Techniques for Mac DVD Creation</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-trap-of-tricksy-traffic-instagrams-hidden-hazard/"><u>The Trap of Tricksy Traffic Instagram's Hidden Hazard</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-10-free-video-call-app-for-android-and-iphone-100-secure-for-2024/"><u>[Updated] 10 Free Video Call App for Android and iPhone (100% Secure) for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-eliminating-shake-effects-photographyvideo-guide-for-2024/"><u>[Updated] Eliminating Shake Effects Photography/Video Guide for 2024</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/1-trasferisci-in-modo-efficiente-i-tuoi-dati-hard-drive-da-un-dispositivo-ad-altri-le-top-4-opzioni/"><u>1. Trasferisci in Modo Efficiente I Tuoi Dati Hard Drive Da Un Dispositivo Ad Altri: Le Top 4 Opzioni</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-hot-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Hot 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-analysis-of-samsung-galaxy-watch-active-2-superior-connections-extended-functionality-compared-to-first-generation/"><u>Comprehensive Analysis of Samsung Galaxy Watch Active 2 - Superior Connections, Extended Functionality Compared to First Generation</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-access-the-ultimate-downloaded-instructions-for-behringers-usb-sound-device/"><u>Effortless Installation: Access the Ultimate Downloaded Instructions for Behringer's USB Sound Device!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exclusive-offer-save-on-your-ideal-lenovo-laptop-designed-for-hybrid-professionals-get-1000-off-this-octobers-amazon-prime-day-zdnet/"><u>Exclusive Offer: Save on Your Ideal Lenovo Laptop Designed for Hybrid Professionals - Get $1,000 Off This October's Amazon Prime Day! | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-k70-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi K70 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-noise-solutions-identifying-and-treating-unwanted-buzzing-sounds-effectively/"><u>Headphone Noise Solutions: Identifying and Treating Unwanted Buzzing Sounds Effectively</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-u23-pro-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on U23 Pro, is it possible?</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-oppo-reno-9a-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Oppo Reno 9A</u></a></li>
+<li><a href="https://techidaily.com/reno-10-5g-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Reno 10 5G support - Forgotten screen lock.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-blaze-pro-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Blaze Pro 5G.</u></a></li>
 </ul></div>
 

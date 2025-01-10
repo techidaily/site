@@ -1,7 +1,7 @@
 ---
 title: "How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11"
-date: 2024-12-28T13:54:30.378Z
-updated: 2025-01-02T11:17:21.058Z
+date: 2025-01-02T22:04:42.291Z
+updated: 2025-01-10T02:35:29.850Z
 tags:
   - deals
 categories:
@@ -40,21 +40,24 @@ Windows 10 started the trend of asking people to use Microsoft accounts when set
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-unveiling-the-secrets-of-ken-burns-motion-in-camtasa/"><u>[New] 2024 Approved Unveiling the Secrets of Ken Burns Motion in Camtasa</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-getting-started-with-azure-speech-to-text-service/"><u>[Updated] Getting Started with Azure Speech-to-Text Service</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y100i-power-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y100i Power 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-activation-lock-from-the-apple-iphone-6-plus-without-previous-owner-by-drfone-ios/"><u>How to Remove Activation Lock From the Apple iPhone 6 Plus Without Previous Owner?</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/mastering-audio-magic-top-10-radio-sound-effects-for-2024/"><u>Mastering Audio Magic Top 10 Radio Sound Effects for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/quick-fix-guide-solving-non-responsive-chatgpt-problems-on-your-iphone/"><u>Quick Fix Guide: Solving Non-Responsive ChatGPT Problems on Your iPhone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/shining-spots-on-screen-top-video-lights-strategies-for-2024/"><u>Shining Spots on Screen Top Video Lights Strategies for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-oppo-k11-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Oppo K11 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-f54-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy F54 5G</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g04-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G04</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-dts-play-fi-the-ultimate-guide/"><u>Understanding DTS Play-Fi: The Ultimate Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-unveiling-the-power-of-reverse-recording-in-phantom-cameras/"><u>[New] Unveiling the Power of Reverse Recording in Phantom Cameras</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-premium-subscription-should-you-get-one-in-2024/"><u>[Updated] YouTube Premium Subscription - Should You Get One, In 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-xiaomi-redmi-note-12-proplus-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Xiaomi Redmi Note 12 Pro+ 5G</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/herstellung-eines-disk-images-fur-ihren-windows-xp-laufwerk-in-zwei-unkomplizierten-schritten-sichern/"><u>Herstellung Eines Disk Images Für Ihren Windows XP Laufwerk in Zwei Unkomplizierten Schritten Sichern</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-14-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 14 Plus iOS? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-comprehensive-instructions-for-disposing-of-video-downloads/"><u>In 2024, Comprehensive Instructions for Disposing of Video Downloads</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-exploring-the-core-inside-apples-m1-innovation/"><u>In 2024, Exploring the Core Inside Apple’s M1 Innovation</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-create-movies-online-for-free-top-9-tools/"><u>New Create Movies Online for Free Top 9 Tools</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restore-touchpads-right-click-capability-in-windows-11/"><u>Restore Touchpad's Right-Click Capability in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-realme-narzo-n55-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Realme Narzo N55.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-red-magic-8s-proplus-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Red Magic 8S Pro+ fingerprint</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-se-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2021-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2021 File Error | Stellar</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
