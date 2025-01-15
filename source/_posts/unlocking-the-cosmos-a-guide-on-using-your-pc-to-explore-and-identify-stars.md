@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars"
-date: 2024-12-27T01:54:31.645Z
-updated: 2025-01-02T06:29:43.460Z
+date: 2025-01-08T19:22:20.709Z
+updated: 2025-01-15T17:39:43.289Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 ## Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,25 +23,21 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
  While sitting idle, your computer could be searching the sky for undiscovered stars using Einstein@Home. Folks such as yourself who volunteer their computing resources for this project, have discovered more than 90 stars! Here’s how you can join this awesome mission.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How It Works
 
 [Einstein@Home](https://einsteinathome.org/about) processes data from telescopes all over the world on your machine, searching for faint signals of far-off stars. More specifically, it looks for gravitational waves which Einstein predicted a century ago (hence the name). Neutron stars spin at almost the [same speed as your kitchen blender](https://science.nasa.gov/universe/neutron-stars-are-weird/) and that sends out gravitational waves. Unique waves that we can pick up and trace to their star of origin.
 
 ![Neutron star emitting gravitational waves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/neutron_star_merger_still_2_new.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 NASA
 
  The project mostly crunches data from LIGO gravitational-wave detectors. But the MeerKAT radio telescope, Arecibo radio telescope, and Fermi gamma-ray satellite also contribute.
 
  Like many[other volunteer science projects](https://easy-unlock-android.techidaily.com/unveiling-critical-privacy-risks-in-modern-day-chatbots-3-key-concerns-revealed/), Einstein@Home runs on the BOINC platform. [BOINC](https://fox-hovers.techidaily.com/updated-in-2024-highest-quality-ai-voice-to-text-software/) is an app developed by UC Berkeley to share and use volunteer computing resources. You can share your CPU, GPU, storage, and network resources through BOINC. All you have to do is download the BOINC app and run the Einstein@Home project on it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Creating the Perfect Einstein@Home Setup
 
@@ -72,23 +68,31 @@ NASA
 
 ![The blank project screen on the BOINC manager app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/welcome.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Add Project." Choose Einstein@Home from the list and click "Next." You’ll be asked to log into your Einstein@Home account. Under "Are you already running this project?", select "Yes, existing user." Enter your email and password. Click "Next."
 
 ![Adding Einstein@Home in the BOINC project list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-einsteinhome-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Accepting Einstein@Home terms of use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/enabling-einsteinhome.png) 
 
 ![Logging into the Einstein@Home project on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/logging-in.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
  After the Einstein@Home project has been successfully added, click "Finish." At this point, Einstein@Home should show up in the list of projects while BOINC downloads work from the server.
 
 ![BOINC manager running Einstein@Home.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/running.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  hile I was first setting up Einstein@Home, my BOINC manager wouldn’t get any tasks. I had to fix it by manually adjusting my resource allocation. To do that:
 
@@ -108,11 +112,11 @@ Close
 
 ![Advanced view being activated on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Computing preferences in Advanced view on BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view-preferences-1.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -123,10 +127,6 @@ Close
  Einstein@Home validates the results your machine sends in and grants you credits for every validated task. These credits will show up on your official certificate which is great for bragging rights.
 
 ![My BOINC computation certificate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/certificate.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -147,22 +147,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-streamlabs-vs-top-embedding-platforms/"><u>[New] Streamlabs Vs. Top Embedding Platforms</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unleash-your-inner-filmmaker-sports-videos-101/"><u>[New] Unleash Your Inner Filmmaker Sports Videos 101</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-collective-wisdom-on-easeus-products/"><u>[Updated] In 2024, Collective Wisdom on EaseUS Products</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/beyond-imagination-cutting-edge-vr-tech/"><u>Beyond Imagination Cutting-Edge VR Tech</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/boost-your-photo-skills-with-these-top-pixlr-tricks-for-2024/"><u>Boost Your Photo Skills with These Top Pixlr Tricks for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-se-2022-ios-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone SE (2022) iOS System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/relentless-joy-in-9-full-length-holiday-spectacles-free-online-for-2024/"><u>Relentless Joy in 9 Full-Length Holiday Spectacles, Free Online for 2024</u></a></li>
-<li><a href="https://techidaily.com/remove-nokia-g310-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Nokia G310 unlock screen</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-xiaomi-redmi-note-13-pro-5g-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://win-trending.techidaily.com/step-by-step-tutorial-for-moving-and-installing-windows-10-onto-an-alternate-hddssd/"><u>Step-by-Step Tutorial for Moving and Installing Windows 10 Onto an Alternate HDD/SSD</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-growing-concern-over-the-failure-of-artificular-intelligence-in-spotting-copycat-content/"><u>The Growing Concern over the Failure of Artificular Intelligence in Spotting Copycat Content</u></a></li>
-<li><a href="https://howto.techidaily.com/unboxing-and-testing-the-budget-friendly-upgradable-pc-masterpiece-the-cyberpowerpc-gamer-xtreme/"><u>Unboxing and Testing the Budget-Friendly, Upgradable PC Masterpiece - The CyberPowerPC Gamer Xtreme</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-14-pro-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro lock with iCloud</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-sony-xperia-1-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Sony Xperia 1 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-5-best-racing-simulator-games-you-can-find-for-2024/"><u>[New] 5 Best Racing Simulator Games You Can Find for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-speedy-solutions-snapshots-of-slideshows/"><u>2024 Approved Speedy Solutions Snapshots of Slideshows</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/breaking-the-barrier-acquiring-mass-tiktok-videos-easily/"><u>Breaking the Barrier Acquiring Mass TikTok Videos Easily</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-user-experience-for-your-website/"><u>Cookiebot-Enhanced User Experience for Your Website</u></a></li>
+<li><a href="https://techidaily.com/cookiebot-enhanced-user-experience-the-ultimate-power-boost-for-your-website/"><u>Cookiebot-Enhanced User Experience: The Ultimate Power Boost for Your Website</u></a></li>
+<li><a href="https://techidaily.com/customizing-content-curation-with-the-help-of-advanced-cookiebot-technologies/"><u>Customizing Content Curation with the Help of Advanced Cookiebot Technologies</u></a></li>
+<li><a href="https://techidaily.com/elevate-your-tech-savviness-learn-to-transact-with-phones-edit-stunning-images-and-compose-original-poems-tips-straight-from-the-abbyy-experts/"><u>Elevate Your Tech Savviness: Learn to Transact with Phones, Edit Stunning Images, and Compose Original Poems - Tips Straight From the ABBYY Experts</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-to-recover-deleted-files-in-windows-10-without-spending-a-penny/"><u>How to Recover Deleted Files in Windows 10 Without Spending a Penny</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ransomware-explained-podcasts-aided-by-budget-phones/"><u>Ransomware Explained: Podcasts Aided by Budget Phones</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-mac-players-guide-to-counter-strike-2/"><u>The Ultimate Mac Player's Guide to Counter-Strike 2</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy A05s | Dr.fone</u></a></li>
 </ul></div>
 

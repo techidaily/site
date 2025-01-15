@@ -1,7 +1,7 @@
 ---
 title: The Easiest Methods to Hard Reset Sony Xperia 5 V | Dr.fone
-date: 2024-09-17T22:47:28.188Z
-updated: 2024-09-24T02:29:12.702Z
+date: 2025-01-12T18:55:48.646Z
+updated: 2025-01-15T19:31:03.927Z
 tags: 
   - reset
 categories:
@@ -19,13 +19,6 @@ You can use **Sony Xperia 5 V A37 hard reset** to solve your various smartphone 
 When you do a factory reset from settings, you will need the Sony Xperia 5 V device's password. Dr.Fone is the best tool to hard reset your Sony Xperia 5 V without a password. It has an easy-to-use UI, and safe data backup features to enable users to back up their data before resetting. Here is the complete guide to hard reset your Sony Xperia 5 V using three methods.
 
 ## Part 1: In What Cases Should I Hard Reset My Sony Xperia 5 V?
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1: Can't Unlock it (forgot password, too many wrong attempts)
 
@@ -92,13 +85,6 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 ![connect your Sony Xperia 5 V](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - After the connection is complete, Dr.Fone will recognize your smartphone and open the "Erase All Data" screen. Click on the "Start" option to continue.
 
 ![start erasing all data](https://images.wondershare.com/drfone/guide/android-erase-02.png)
@@ -107,9 +93,17 @@ Hard Reset Oppo A37 Without Any Hassle!
 
 ![erase data confirmation](https://images.wondershare.com/drfone/guide/android-erase-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Once the process ends, Dr.Fone will ask you to tap on the "Factory Reset" option on your smartphone. It will erase all settings and complete the factory reset.
 
 ![data erased](https://images.wondershare.com/drfone/guide/android-erase-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -143,6 +137,10 @@ When you suspect your phone is affected by a virus attack, your best bet is to r
 
 You can try to hard reset your Sony Xperia 5 V using different methods depending on the primary cause of the issue. Google has introduced different methods to bypass screen locks in case of a forgotten password. However, it would help if you had the proper configuration of your account in the phone before locking it. Let us review these methods and how to use them for vivo y20 hard reset without a password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Google Find My Device (data loss)
 
 Google Find my device can hard reset your Sony Xperia 5 V y20 phone if you already have configured your device in your Google account. Since it can work remotely, you can use it even if you do not hold your phone. Let us see how it works for hard reset Sony Xperia 5 V y20.
@@ -152,13 +150,6 @@ Google Find my device can hard reset your Sony Xperia 5 V y20 phone if you alrea
 3. Click Erase All Data>Erase and confirm. That's it; Sony Xperia 5 V y20 hard reset is complete.
 
 ![vivo unlock find my device](https://images.wondershare.com/drfone/article/2022/08/vivo-y20-hard-reset-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Gmail account
 
@@ -208,13 +199,6 @@ Let us review how Wondershare Dr.Fone works.
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Connect your Sony Xperia 5 V to the computer via a USB cable.
 
 ![backup and restore](https://images.wondershare.com/drfone/guide/android-backup-and-restore-1.png)
@@ -227,21 +211,11 @@ Let us review how Wondershare Dr.Fone works.
 
 ![completed backup](https://images.wondershare.com/drfone/guide/android-backup-and-restore-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Restore the backup to your Android phone
 
@@ -258,16 +232,7 @@ When you have an updated phone backup, you can restore it right after the Sony X
 ![data restored](https://images.wondershare.com/drfone/guide/android-backup-and-restore-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Bottom Line
@@ -285,6 +250,10 @@ Resetting a Sony Xperia 5 V smartphone to factory settings could be necessary. Y
 If the Sony Xperia 5 V device is functioning properly, hard resetting a Sony Xperia 5 V tablet without volume buttons won't be too difficult and can be completed in a matter of taps. However, if the apparatus is broken, it may be an issue. Let's have a look at all the possibilities.
 
 ## Part 1: 4 Easy solutions to hard reset your Sony Xperia 5 V
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. From recovery mode to delete all data
 
@@ -351,11 +320,19 @@ Utilize a USB cord to link your Sony Xperia 5 V phone to the PC. Make sure USB d
 
 ![connect to device](https://images.wondershare.com/drfone/guide/android-erase-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Start erasing your Sony Xperia 5 V phone
 
 Your Sony Xperia 5 V smartphone will then be immediately detected and connected by Dr.Fone. To begin wiping all of your data, click the "Erase All Data" option.
 
 ![start erase](https://images.wondershare.com/drfone/guide/android-erase-02.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Make sure you have all the necessary data backed up before continuing because all wiped data cannot be recovered. After that, enter "000000" to verify your action.
 
@@ -365,18 +342,15 @@ The data on your Sony Xperia 5 V phone will then begin to be deleted by Dr. Fone
 
 ![erasing data](https://images.wondershare.com/drfone/guide/android-erase-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Reset the factory data on your phone.
 
 Dr.Fone will prompt you to tap on Factory Data Reset or Erase All Data on the phone once all app data, photographs, and other private data have been entirely removed. You may use this to entirely erase all of the phone's settings.
 
 ![erase successfully](https://images.wondershare.com/drfone/guide/android-erase-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![safe Download](https://images.wondershare.com/drfone/security.svg)safe & secure
 
@@ -385,6 +359,10 @@ Dr.Fone will prompt you to tap on Factory Data Reset or Erase All Data on the ph
 ### 1\. Is there any simple tool to have my Sony Xperia 5 V backup? (Dr.Fone - Phone Backup)
 
 Yes, there are very few simple tools available that you can use to back up your Sony Xperia 5 V phone. One such tool is Dr.Fone - Phone backup which is super simple to use and extremely beginner friendly and how you recover all of your lost data from your Sony Xperia 5 V phone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Do these solutions damage my Sony Xperia 5 V?
 
@@ -408,5 +386,24 @@ Now that you know how to reset a Sony Xperia 5 V phone that is locked and how to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-cloud-service-pricing-a-comparative-look/"><u>[New] 2024 Approved Cloud Service Pricing A Comparative Look</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortlessly-post-videos-on-youtube-with-our-expert-guide/"><u>[New] 2024 Approved Effortlessly Post Videos on YouTube with Our Expert Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-audio-intellectual-property/"><u>[Updated] In 2024, Instagram Audio Intellectual Property</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-covert-capture-strategies-for-shrouding-personal-info/"><u>2024 Approved Covert Capture Strategies for Shrouding Personal Info</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-12-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 12 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-iphone-13-pro-or-ipad-by-drfone-ios/"><u>How to Bypass Activation Lock on iPhone 13 Pro or iPad?</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s18e-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18e Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-11-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 11 Pro Max iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-11-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 11 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-12plus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Yuva 2</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/unmatched-3d-viewing-excellence-with-elite-decks-reviewed/"><u>Unmatched 3D Viewing Excellence with Elite Decks Reviewed</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-secrets-analyzing-why-chatgpt-becomes-a-prime-objective-for-hackers/"><u>Unveiling the Secrets: Analyzing Why ChatGPT Becomes a Prime Objective for Hackers</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-105-classic-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from 105 Classic</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C02 | Dr.fone</u></a></li>
+</ul></div>
 

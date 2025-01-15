@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs"
-date: 2024-12-29T04:30:00.007Z
-updated: 2025-01-02T11:53:36.891Z
+date: 2025-01-10T16:30:51.159Z
+updated: 2025-01-15T19:06:13.480Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ## Enhancing Conversational AI with a Human Touch: Strategies for Naturalizing ChatGPT Outputs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
  We're using a popular AI text detector here as a way to demonstrate that these methods make a real difference to the text, but it's important to note that AI text-detection tools are not a reliable way to [tell if the text is AI-generated or not](https://facebook-clips.techidaily.com/in-2024-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos/). These tools have [fundamental problems](https://arstechnica.com/information-technology/2023/07/why-ai-detectors-think-the-us-constitution-was-written-by-ai/) that make them unsuitable for determining whether text is human-written. On top of this, while text may pass a detector, it might still obviously read as nonsense to a human reader. So use your own judgment on whether the humanized output is good enough for your needs or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 1: Use ChatGPT-4
@@ -45,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 ![Burstines and Perplexity scores for the article you're reading right now with perplexity. at 1904.558 and Burstiness at 11030.752](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-10-at-09-52-01.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Method 2: Use The "Humanize" Plugin
@@ -56,29 +56,29 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
  However, plugins are still a beta feature, and at the time of writing, the Humanize plugin seemed to have issues, although I've had good results with it in the past. There are also many other plugins in the store (with more added frequently) that promise to rephrase or otherwise humanize text for you, so have a browse of what's on offer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Method 3: Just Ask for Humanized Text
 
  However, you might not need that plugin at all, since you can use the magic word "Humanize" in your ChatGPT prompt, whether you're using 3.5 or version 4\. Of course, GPT-4 is much more successful on average, but you can take text generated by GPT 3.5 and ask GPT-4 to humanize it as well, or you can write your prompt to ask for humanized text, e.g. "Please write a humanized article."
 
 ![ChatGPT 4 offers to natively humanize text without a plugin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-13-00-35.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After asking GPT-4 to humanize its text, we get a full endorsement from GPT Zero, but also the actual text reads _much_ better than before.
 
 ![GPT Zero result showing confidence in full human text origin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-11-06-10.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Method 4: Prompt Specific Author Styles
 
  Finally, another way to get more human-like output is to ask ChatGPT to emulate an author it knows or by providing it with a sample writing style. We've covered [how to make ChatGPT copy your writing style](https://solve-manuals.techidaily.com/boost-your-sites-analytics-using-our-advanced-cookiebot-technology/) in detail, so I won't repeat it all here. I'm simply going to ask ChatGPT to rewrite that first piece of text in my own writing style.
 
 ![Prompt reading "Rewrite this in the style of Sydney Butler, writer for how-to geek"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/screenshot-2023-08-07-at-14-07-59.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you're a ChatGPT Plus subscriber, you can use the [Custom Instructions](https://facebook-video-content.techidaily.com/new-mastering-monetization-a-beginners-guide-to-facebook-revenue-for-2024/) to make permanent changes to how ChatGPT responds in every chat, as long as those instruction are active.
 
@@ -109,20 +109,19 @@ thumbnail: https://thmb.techidaily.com/571b6953560c969952a7e82657ab3c73d752ed211
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-how-to-change-video-speed-on-instagram-stories/"><u>[New] How to Change Video Speed on Instagram Stories?</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-revolutionize-your-gameplay-with-this-gratuitous-voice-alterer/"><u>[New] In 2024, Revolutionize Your Gameplay with This Gratuitous Voice Alterer</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-iphone-video-editing-showdown-cameo-against-filmorago/"><u>[Updated] 2024 Approved IPhone Video Editing Showdown Cameo Against FilmoraGo</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-seipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone SE/iPad/iPod</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/compatibilidad-de-codificacion-av1-con-el-programa-handbrake/"><u>Compatibilidad De Codificación AV1 Con El Programa HandBrake</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a1-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A1 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-se-2022-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone SE (2022) Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Plus without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/live-stream-recorder-companies/"><u>Live Stream Recorder Companies</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-v29-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Vivo V29</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone | Stellar</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/tecno-phantom-v-flip-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Tecno Phantom V Flip ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-wet-proof-smart-timepieces-comprehensive-ratings-and-insights-by-tech-experts/"><u>Top-Rated Wet-Proof Smart Timepieces - Comprehensive Ratings & Insights by Tech Experts</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-comprehensive-guide-to-sound-in-powerpoint-presentations/"><u>[Updated] Comprehensive Guide to Sound in PowerPoint Presentations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-distinctive-fb-video-aspects/"><u>[Updated] In 2024, Distinctive FB Video Aspects</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-on-selecting-best-free-srt-tools/"><u>2024 Approved Expert Tips on Selecting Best FREE SRT Tools</u></a></li>
+<li><a href="https://techidaily.com/abbyy-and-bizagi-synergistic-software-partnerships-delivering-comprehensive-digital-workflows/"><u>ABBYY & Bizagi: Synergistic Software Partnerships Delivering Comprehensive Digital Workflows</u></a></li>
+<li><a href="https://techidaily.com/abbyy-healthcare-document-management-software-digitize-your-medical-records-efficiently/"><u>ABBYY Healthcare Document Management Software: Digitize Your Medical Records Efficiently</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-google-pixel-fold-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Google Pixel Fold</u></a></li>
+<li><a href="https://games-able.techidaily.com/determining-hardwares-graphic-memory/"><u>Determining Hardware's Graphic Memory</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effiziente-verringerung-von-dateigrossen-fur-hochauflosende-videoformate-hd4k8k-erfolgreich-um-bis-zu-90-minimieren/"><u>Effiziente Verringerung Von Dateigrößen Für Hochauflösende Videoformate (HD/4K/8K): Erfolgreich Um Bis Zu 90% Minimieren!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/gentle-glide-of-noises-subdued-amplitude-adjustment-for-2024/"><u>Gentle Glide of Noises Subdued Amplitude Adjustment for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-hide-subtitles-during-your-amazon-prime-watch-party/"><u>How to Hide Subtitles During Your Amazon Prime Watch Party</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-7-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 7</u></a></li>
+<li><a href="https://techidaily.com/navigate-through-high-tech-terrains-with-toms-hardware-guides/"><u>Navigate Through High-Tech Terrains with Tom's Hardware Guides</u></a></li>
+<li><a href="https://techidaily.com/the-ultimate-insight-into-netflixs-online-media-library-and-services/"><u>The Ultimate Insight Into Netflix's Online Media Library and Services</u></a></li>
+<li><a href="https://techidaily.com/unlock-new-looks-with-these-15-free-windows-11-themes-for-personalized-computing/"><u>Unlock New Looks with These 15 Free Windows 11 Themes for Personalized Computing</u></a></li>
 </ul></div>
 

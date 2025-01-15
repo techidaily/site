@@ -1,7 +1,7 @@
 ---
 title: ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer
-date: 2024-12-26T02:51:38.417Z
-updated: 2025-01-01T22:48:47.516Z
+date: 2025-01-11T16:15:21.735Z
+updated: 2025-01-15T18:33:55.547Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c669607905f5ab705b440efbb.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paul Nizov rejoint ABBYY au poste de Chief Information Security Officer
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Paul Nizov sera en charge de la stratégie opérationnelle et budgétaire liée à la sécurité.
@@ -67,18 +67,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-boosting-your-online-presence-a-step-by-step-guide-to-viral-youtube-shorts/"><u>[New] In 2024, Boosting Your Online Presence A Step-by-Step Guide to Viral YouTube Shorts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-streamline-your-content-google-podcast-upload/"><u>[New] Streamline Your Content Google Podcast Upload</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-textual-enhancements-in-visual-media-for-2024/"><u>[Updated] Textual Enhancements in Visual Media for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/click-without-the-rush-learn-to-deactivate-mouse-acceleration-windows-style/"><u>Click Without the Rush: Learn to Deactivate Mouse Acceleration Windows Style</u></a></li>
-<li><a href="https://fox-info.techidaily.com/how-to-create-a-3d-text-art-effect-in-adobe-illustrator-for-2024/"><u>How to Create a 3D Text Art Effect in Adobe Illustrator for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone X Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-fl-studios-approach-to-cautious-sound-dimming/"><u>In 2024, FL Studio's Approach to Cautious Sound Dimming</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-playstation-vrs-coming-stars-predicted-top-5-titles-to-track/"><u>In 2024, PlayStation VR's Coming Stars Predicted Top 5 Titles to Track</u></a></li>
-<li><a href="https://techidaily.com/is-your-motorola-edge-40-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola Edge 40 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C12? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-14-using-macos-finder-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 14 using macOS finder</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-enrich-meeting-experience-a-compilation-of-the-top-10-free-apps/"><u>[New] 2024 Approved Enrich Meeting Experience A Compilation of the Top 10 Free Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-clicks-ultimate-youtube-banner-guidebook-for-2024/"><u>[Updated] Maximizing Clicks Ultimate YouTube Banner Guidebook for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-lava-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Lava</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-agni-2-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Agni 2 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-detailed-review-and-tips-picsart-users/"><u>In 2024, Detailed Review & Tips PicsArt Users</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-conference-quality-the-list-of-top-10-free-audio-capture/"><u>In 2024, Elevate Conference Quality The List of Top 10 Free Audio Capture</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-income-via-youtube-channel/"><u>Mastering Income via YouTube Channel</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pioneering-panoramic-photography-gear/"><u>Pioneering Panoramic Photography Gear</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-crossover-of-chic-and-cardio-a-balanced-review-of-the-amazfit-gts-wearable/"><u>The Crossover of Chic and Cardio: A Balanced Review of the Amazfit GTS Wearable</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-10-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark 10 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-vivo-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Vivo .</u></a></li>
 </ul></div>
 

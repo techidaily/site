@@ -1,7 +1,7 @@
 ---
 title: Boosting Digital Marketing with Cutting-Edge Cookiebot Technology
-date: 2024-11-01T21:50:36.616Z
-updated: 2024-11-04T11:20:39.472Z
+date: 2025-01-11T18:31:21.835Z
+updated: 2025-01-15T17:40:53.151Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/7d12c1a2b9062c22c49da3112113895938f2f84207e4cf8f6da12a2e349be4f3.jpg
@@ -17,6 +17,10 @@ Other | Accounts Payable Automation
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/93420.png?h=40&iar=0&w=120)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
 ## PepsiCo automates invoice processing with ABBYY FlexiCapture
@@ -24,6 +28,10 @@ Other | Accounts Payable Automation
 Other | Accounts Payable 
 
 ![](https://static1.abbyy.com/abbyycommedia/15764/pepsico.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -67,15 +75,16 @@ PepsiCo Imaging Technology creates document imaging and management solutions for
 
 documents for processing
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **40,000** pages
 
 in a mix of 5 languages
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### a **3**\-month
@@ -134,23 +143,9 @@ According to Patel, the Imaging Technology team is working on new ways to levera
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static2.abbyy.com/abbyycommedia/15765/pepsico1.png)](https://static5.abbyy.com/abbyycommedia/7370/case-study-pepsico-beverage-en.pdf "PDF version") [PDF version](https://static5.abbyy.com/abbyycommedia/7370/case-study-pepsico-beverage-en.pdf "PDF version") 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [Read more](https://static5.abbyy.com/abbyycommedia/7370/case-study-pepsico-beverage-en.pdf "PDF version") 
 
@@ -159,16 +154,7 @@ According to Patel, the Imaging Technology team is working on new ways to levera
 Share  True ?  : "" 
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -192,19 +178,24 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-evolutionary-leap-with-macos-11-big-sur-what-you-need/"><u>[New] Evolutionary Leap with macOS 11 Big Sur – What You Need</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-guide-to-prime-church-livestreaming-services-for-2024/"><u>[New] Guide to Prime Church Livestreaming Services for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-navigating-the-nuances-of-sound-reduction-in-pp-projects/"><u>[New] Navigating the Nuances of Sound Reduction in PP Projects</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-cultivating-patience-with-youtube-disapproval/"><u>[Updated] In 2024, Cultivating Patience with YouTube Disapproval</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s17-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S17 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-c67-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme C67 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722995035220-immediate-fixes-for-combat-arms-delays-streamlined-approach/"><u>Immediate Fixes for Combat Arms Delays - Streamlined Approach</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-quickcapture-5000-chrome-os-recording-pro/"><u>In 2024, QuickCapture 5000 Chrome OS Recording Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/maximizing-lenovo-experience-through-effective-recording-for-2024/"><u>Maximizing Lenovo Experience Through Effective Recording for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-gt-5-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have GT 5 Pro fingerprint</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/l-storyteller-toolkit/"><u>Visual Storyteller Toolkit</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-pinnacle-motorsport-replicas-top-5/"><u>[Updated] In 2024, Pinnacle Motorsport Replicas (Top 5)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-edge-infusing-artistry-with-slow-motion-for-2024/"><u>[Updated] Instagram's Edge Infusing Artistry with Slow Motion for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-expert-tips-download-youtube-playlists-in-minutes/"><u>2024 Approved Expert Tips Download YouTube Playlists in Minutes</u></a></li>
+<li><a href="https://facebook.techidaily.com/beyond-boundaries-exploring-virtual-realitys-future/"><u>Beyond Boundaries: Exploring Virtual Reality's Future</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-12-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-from-standard-to-supreme-mastering-sdr-to-hdr-video-upgrade/"><u>In 2024, From Standard to Supreme Mastering SDR-to-HDR Video Upgrade</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-samsung-galaxy-z-flip-5-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Samsung Galaxy Z Flip 5 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Oppo Reno 10 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/insight-into-the-propella-7s-40-your-guide-to-a-cost-effective-agile-and-compact-tech-solution/"><u>Insight Into the Propella 7S 4.0: Your Guide to a Cost-Effective, Agile, and Compact Tech Solution</u></a></li>
+<li><a href="https://techidaily.com/is-your-itel-p40-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel P40 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-oppo-find-n3-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Oppo Find N3</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-viewers-attention-employing-jump-cuts-in-video-editing/"><u>Shaping Viewers’ Attention Employing Jump Cuts in Video Editing</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-itel-p55t-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Itel P55T</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-find-x6-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Find X6 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-90-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor 90 Pro</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
 

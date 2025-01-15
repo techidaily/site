@@ -1,7 +1,7 @@
 ---
 title: Windows Nine's Smart App Management Feature - Turning On the Functionality Guide
-date: 2024-12-30T02:52:57.671Z
-updated: 2025-01-02T11:20:19.265Z
+date: 2025-01-08T16:58:52.876Z
+updated: 2025-01-15T17:06:18.025Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Windows Nine's Smart App Management Feature - Turning On the Functionality Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -40,7 +36,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !['Smart App Control has blocked this app' notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-app-blocking-notification.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft intends that SAC is only useable on a clean Windows installation. By doing so, Windows can ensure that all the apps installed on your computer are vetted by SAC, thus ensuring the devices' safety. If you received SAC as a part of a Windows 11 update, you'll need to [perform a factory reset](https://facebook-video-footage.techidaily.com/new-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/) or [clean install Windows 11](https://instagram-video-files.techidaily.com/new-2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/) before you can use it (unless you perform a registry tweak, explained below).
@@ -49,11 +45,11 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Smart App Control Evaluation mode selected in Windows 11](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-screen-windows-security-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the evaluation is complete, if Windows thinks SAC can work without too many interruptions on your system, it's automatically turned on. If not, it's disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Turn On Smart App Control
 
@@ -63,13 +59,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Windows 11 Privacy & security settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-privay-security-screen.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Open Windows Security" to launch the Windows Security app.
 
 ![Windows 11 Settings app showing Open Windows Security option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-showing-open-windows-security-option.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In Windows Security, select the "App & Browser Control" tab. Then, beneath "Smart App Control", click "Smart App Control Settings".
 
@@ -78,6 +74,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Select "On" to enable Smart App Control on your Windows device. Once enabled, SAC starts monitoring and blocks any suspicious app execution on your computer.
 
 ![Smart App Control turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-turned-on-in-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Force Enable Smart App Control Using the Registry Editor
 
@@ -97,6 +97,10 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 ![Windows 11 Registry Editor showing the 'VerifiedAndReputablePolicyState' value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-registry-editor-showing-smart-app-control-policy.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Value Data" field, type 1 to enable Smart App Control and click "OK" to save the changes. Alternatively, type 2 to put SAC in Evaluation mode, or 0 to turn it off. You need to relaunch the Windows Security app to apply the changes.
 
 ![Changing VerifiedAndReputablePolicyState value in Registry Editor to 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/changing-verifiedandreputablepolicystate-value-in-registry-editor-to-1-in-windows-11.jpg) 
@@ -110,7 +114,7 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 ![Smart App Control in Windows 11 search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-in-windows-11-search.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Within the Smart App Control window, select "Off."
@@ -120,10 +124,6 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
  Read the confirmation prompt, then click "Yes, I'm Sure" to disable Smart App Control.
 
 ![Smart App Control confirmation screen when turning off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-off-confirmation-screen.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -144,22 +144,19 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-a-comprehensive-overview-recording-saving-and-sharing-youtube-videos-for-free/"><u>[Updated] In 2024, A Comprehensive Overview Recording, Saving & Sharing YouTube Videos for Free</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/dable-techniques-to-enhance-written-content-with-media/"><u>Affordable Techniques to Enhance Written Content with Media</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100i-power-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100i Power 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-find-x6-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Find X6 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-t2-5g-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Vivo T2 5G Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor Magic 6 | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocketing-view-figures-by-sustaining-youtubes-creative-commons-license/"><u>In 2024, Skyrocketing View Figures by Sustaining YouTube's Creative Commons License</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-synching-release-timings-to-audience-trends/"><u>In 2024, Synching Release Timings to Audience Trends</u></a></li>
-<li><a href="https://article-helps.techidaily.com/navigating-color-change-pro-methods-uncovered/"><u>Navigating Color Change Pro Methods Uncovered</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/scale-down-hd4k8k-videos-by-up-to-90-top-techniques-and-tools/"><u>Scale Down HD/4K/8K Videos by Up to 90%: Top Techniques and Tools</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-vs-2-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic Vs 2 without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme .</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy M34 5G.</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 10</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-earnings-audit-the-monetization-process/"><u>YouTube Earnings Audit The Monetization Process</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-essential-guide-broadcast-360-videos-on-facebook-for-2024/"><u>[Updated] Essential Guide Broadcast 360 Videos on Facebook for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-solution-for-twitter-videos-not-playing-in-chrome/"><u>[Updated] In 2024, Solution for Twitter Videos Not Playing in Chrome</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-stopcapture-screen-freeze-assist/"><u>[Updated] In 2024, StopCapture Screen Freeze Assist</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-by-step-techniques-for-making-a-standout-slowed-motion-video-on-instas-trendy-reels/"><u>[Updated] Step by Step Techniques for Making a Standout Slowed-Motion Video on Insta's Trendy Reels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/enhance-roblox-playback-on-desktop/"><u>Enhance Roblox Playback on Desktop</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-strategizing-your-approach-highlight-and-story-downloads/"><u>In 2024, Strategizing Your Approach Highlight & Story Downloads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/one-ring-to-rule-them-all-configuring-your-primary-phone-number-on-multiple-phones-effortlessly/"><u>One Ring to Rule Them All: Configuring Your Primary Phone Number on Multiple Phones Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/simple-solutions-resolve-your-logitech-keyboard-delay-issues-with-these-effortless-tips/"><u>Simple Solutions: Resolve Your Logitech Keyboard Delay Issues with These Effortless Tips</u></a></li>
+<li><a href="https://techidaily.com/simple-steps-switching-your-windows-10-connection-from-public-to-private-mode/"><u>Simple Steps: Switching Your Windows 10 Connection From Public to Private Mode</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-process-for-pairing-android-smartphone-with-pc-using-bluetooth-technology/"><u>Step-by-Step Process for Pairing Android Smartphone with PC Using Bluetooth Technology</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-to-enhance-fps-and-reduce-stuttering-in-call-of-duty-modern-warfares-cold-war-2nv-update/"><u>Step-by-Step Solutions to Enhance FPS & Reduce Stuttering in Call of Duty: Modern Warfare's Cold War (2Nv) Update</u></a></li>
+<li><a href="https://techidaily.com/step-by-step-solutions-making-drag-and-drop-functional-again-on-your-pc/"><u>Step-by-Step Solutions: Making Drag & Drop Functional Again on Your PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-tips-to-fix-high-demand-error-with-chatgpt-on-windows/"><u>Troubleshooting Tips to Fix High Demand Error with ChatGPT on Windows</u></a></li>
 </ul></div>
 

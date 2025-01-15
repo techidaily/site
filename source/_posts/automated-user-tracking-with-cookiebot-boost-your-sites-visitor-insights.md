@@ -1,7 +1,7 @@
 ---
 title: "Automated User Tracking with Cookiebot: Boost Your Site's Visitor Insights"
-date: 2024-12-26T09:20:37.425Z
-updated: 2025-01-02T04:37:12.105Z
+date: 2025-01-08T16:24:07.044Z
+updated: 2025-01-15T17:44:52.134Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e5417264806aa41339dccc8726c59258.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/db4e48751ba30895c50ceb8d3925c537e54172648
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## TextGrabber for Android Now Captures Text in Real Time and Makes it Actionable
@@ -22,7 +22,7 @@ December 15, 2017
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ABBYY®, a global provider of intelligent capture solutions to improve business outcomes, today announced the release of TextGrabber 2.0 for Android with Real-Time Recognition and a completely redesigned interface. Now TextGrabber for both iOS and Android transforms text within a camera viewer into digital data in real time, to help users capture, share, translate, and use text, links, phone numbers, addresses, promo codes, and other printed information on the go. This new capability works in both online and offline modes.
@@ -82,16 +82,19 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-top-eco-friendly-film-tech-for-2024/"><u>[New] Top Eco-Friendly Film Tech for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-crafting-perfect-youtube-thumbnails-on-macos/"><u>[Updated] 2024 Approved Crafting Perfect YouTube Thumbnails on macOS</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-c300-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-on-apple-iphone-11-pro-max-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud on Apple iPhone 11 Pro Max Safe and Legal</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-a2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi A2 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-8t-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 8T 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-intellectual-property-guidelines-for-instahits/"><u>In 2024, Intellectual Property Guidelines for InstaHits</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-c33-2023-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C33 2023 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-x50-gt-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor X50 GT</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/yl-software-tutorial-securely-transitioning-retrieved-information-between-devices/"><u>YL Software Tutorial: Securely Transitioning Retrieved Information Between Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-analyzing-social-media-reach-for-igtv-videos/"><u>[Updated] Analyzing Social Media Reach for IGTV Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-innovating-engagement-integrate-thoughtful-chapters-into-your-youtube-videos/"><u>[Updated] In 2024, Innovating Engagement Integrate Thoughtful Chapters Into Your YouTube Videos</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streamline-storytelling-with-inshots-transition-features/"><u>[Updated] Streamline Storytelling with Inshot's Transition Features</u></a></li>
+<li><a href="https://win-answers.techidaily.com/best-practices-for-reducing-size-of-mpeg-video-files-software-solutions-for-pcmac-users/"><u>Best Practices for Reducing Size of MPEG Video Files: Software Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-review-ricoh-theta-s-unveiled-in-detail/"><u>Expert Review Ricoh Theta S Unveiled in Detail</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a34-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A34 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y78t on Windows</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/seamless-integration-turning-audio-into-written-format-in-ms-word/"><u>Seamless Integration Turning Audio Into Written Format in MS Word</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/simple-guide-zum-speichern-von-daten-auf-ssd-wechseln-sie-ihr-laufwerk-c-mit-windows-betriebssystemen/"><u>Simple Guide Zum Speichern Von Daten Auf SSD - Wechseln Sie Ihr Laufwerk C Mit Windows Betriebssystemen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-tracking-iphone-user-locations-responsibly/"><u>Step-by-Step Tutorial: Tracking iPhone User Locations Responsibly</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Tecno Spark Go (2023)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-itel-a70-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Itel A70.</u></a></li>
 </ul></div>
 

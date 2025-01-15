@@ -1,7 +1,7 @@
 ---
 title: "Revolutionizing Digital Intake: Discover Why ABBYY Dominated Intelligent Docs in 202N, According to ISG"
-date: 2024-10-31T22:50:36.918Z
-updated: 2024-11-04T01:40:51.311Z
+date: 2025-01-09T19:53:14.197Z
+updated: 2025-01-15T17:27:17.483Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f064bef6cc6988deae36a1c0c9.jpg
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Named 2021 Leader in Intelligent Document Processing by ISG and Quadrant Knowledge Solutions
 
 February 22, 2022
@@ -18,6 +22,10 @@ February 22, 2022
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 ![News 15 Businessbuildings](https://static4.abbyy.com/abbyycommedia/33670/news-15-businessbuildings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fueled by the growing momentum for its intelligent document processing (IDP) solutions, [ABBYY](https://tools.techidaily.com/abbyy/products/) reports that it has been named a technology leader in both the **[ISG Provider Lens™ Intelligent Automation Solutions & Services Report](https://tools.techidaily.com/abbyy/products/)** for the U.S. U.K., Nordics, Brazil, and Germany, and [**Quadrant Knowledge Solutions 2021 SPARK Matrix for IDP**](https://tools.techidaily.com/abbyy/products/). The recognition is due to the strong ratings of its comprehensive no-code platform for document processing, ABBYY Vantage. ABBYY is also positioned in the top grouping of **[ISG’s Matrix for the process mining market](https://tools.techidaily.com/abbyy/products/)**.
 
@@ -33,6 +41,10 @@ Going beyond traditional optical character recognition (OCR), ISG, a leading glo
 
 ![](https://static1.abbyy.com/abbyycommedia/35269/isg-idp-leader-2021.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ABBYY’s recognition as an IDP Leader comes after a successful launch of [ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) and [ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/). More than 500 organizations have started using the platform since the general release and provided overwhelmingly positive feedback about ABBYY’s new way of document processing, including four of the top U.S. banks and many cloud-based companies. The product was also named among the [Trend-Setting Products of 2021](https://tools.techidaily.com/abbyy/products/) by KMWorld Magazine. To learn about the latest features and benefits of ABBYY Vantage, please visit [Advanced AI Document Processing | Latest ABBYY Vantage 2.1 Release](https://tools.techidaily.com/abbyy/products/).
 
 To access the full report on ISG Provider Lens™ Intelligent Automation – Solutions & Services 2021 – IDP (U.S.), please visit: <https://www.abbyy.com/resources/report/intelligent-document-processing-isg-provider-lens/>.
@@ -42,16 +54,7 @@ To access the full report on ISG Provider Lens™ Intelligent Automation – Sol
 To access the full report on Quadrant Knowledge Solutions SPARK Matrix for IDP 2021, please visit: <https://www.abbyy.com/resources/report/intelligent-document-processing-quadrant-knowledge-solutions/>.
 
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -61,22 +64,12 @@ ABBYY empowers organizations to gain a complete understanding of their business 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies, and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ABBYY editorial contacts
 
 ![02C Catherinejohnson](https://static1.abbyy.com/abbyycommedia/23661/02c-catherinejohnson.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Catherine Johnson
 
@@ -85,13 +78,6 @@ _Director of Analyst Relations & Global Media Relations_
 [catherine.johnson@abbyy.com](https://tools.techidaily.com/abbyy/products/)
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Gina Ray, APR
 
@@ -116,17 +102,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-top-picks-and-tips-for-thriving-in-valheim/"><u>[New] 2024 Approved Top Picks & Tips for Thriving in Valheim</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-vmix-os-transcendence-software/"><u>[New] In 2024, VMix OS Transcendence Software</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-top-strategies-for-zoom-use-with-a-chrome-os-device/"><u>2024 Approved Top Strategies for Zoom Use with a Chrome OS Device</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unearth-these-quirky-overlooked-facebook-pages/"><u>2024 Approved Unearth These Quirky, Overlooked Facebook Pages</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-find-n3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Find N3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-11-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 11 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-spark-10-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-full-guide-to-unlock-your-vivo-y200-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Vivo Y200</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/joining-the-twitter-community-from-scratch/"><u>Joining the Twitter Community From Scratch</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-recommended-vpn-services-for-students-insights-from-zdnet/"><u>Top 5 Recommended VPN Services for Students : Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-honor-90-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor 90</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-6-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 6 screen lock without data loss</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-comprehensive-snapshot-tool-az-reviews-and-substitutes-for-2024/"><u>[New] Comprehensive Snapshot Tool - AZ Reviews & Substitutes for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-hidden-realms-a-comprehensive-guide-to-youtubes-unlisted-videos/"><u>[Updated] Exploring Hidden Realms A Comprehensive Guide to YouTube’s ‘Unlisted’ Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-launch-into-action-quick-tips-to-start-going-live-on-facebook-immediately-for-2024/"><u>[Updated] Launch Into Action Quick Tips to Start Going Live on Facebook Immediately for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-posting-tweets-with-vids-check-the-aspect-ratio/"><u>2024 Approved Posting Tweets with Vids? Check the Aspect Ratio</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126888-9781612830032-aarons-crossing/"><u>Aaron's Crossing | Free Book</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/btc-valuation-skyrockets-near-35k-insights-from-yl-computings-analysis-of-crypto-derivatives-point-to-fresh-capital/"><u>BTC Valuation Skyrockets Near $35K: Insights From YL Computing's Analysis of Crypto Derivatives Point to Fresh Capital</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-k70-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-15-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 15 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-10-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 10 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-k11x-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo K11x Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12-4g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12 4G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-xiaomi-redmi-note-13-5g-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Xiaomi Redmi Note 13 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2019-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2019 Documents Online for Free</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/step-by-step-guide-rebuilding-your-pc-with-a-system-image-on-windows/"><u>Step-by-Step Guide: Rebuilding Your PC with a System Image on Windows</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-amazon-offers-in-september-2024-exclusive-insights-from-zdnet/"><u>Top Amazon Offers in September 2024 - Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g34-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-discover-free-sound-fx-websites-and-integrate-with-final-cut-pro/"><u>Updated 2024 Approved Discover Free Sound FX Websites and Integrate with Final Cut Pro</u></a></li>
 </ul></div>
 

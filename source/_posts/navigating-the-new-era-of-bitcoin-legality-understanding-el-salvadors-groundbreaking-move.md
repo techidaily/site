@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2024-12-28T16:34:02.234Z
-updated: 2025-01-02T10:38:59.927Z
+date: 2025-01-10T17:24:30.799Z
+updated: 2025-01-15T18:23:54.469Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 ---
 
 ## Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -37,13 +33,13 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  The government created a $30 incentive available to anyone who downloads the app and enrolls. Keep in mind that $30 is a decent amount of money for many citizens, and is equal to approximately [0.7% of per capita annual income in El Salvador](https://www.statista.com/statistics/1070121/gross-national-income-per-capita-el-salvador/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Data Shows Adoption Is Low and Stalled** 
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -57,20 +53,20 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  All businesses were required to begin accepting payments in Bitcoin but that has not happened. Only 20% of companies reported accepting Bitcoin as a form of payment and most of them were large organizations. Out of all sales, only 5% were conducted in Bitcoin and most transactions were converted to dollars within the Chivo Wallet upon receipt of payment.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
@@ -90,6 +86,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ## **Lack of Trust & Privacy Are Deterrents** 
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -116,7 +116,7 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Lessons Learned** 
@@ -146,20 +146,20 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nnovative-strategies-for-iphoneipad-screenshots-in-media/"><u>[New] Innovative Strategies for iPhone/iPad Screenshots in Media</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-unveiling-the-ultimate-secret-amplifying-gaming-vids-with-hashes/"><u>[New] Unveiling the Ultimate Secret Amplifying Gaming Vids with Hashes</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-free-makers-hub-for-top-tier-fb-visuals/"><u>[Updated] 2024 Approved Free Maker's Hub for Top-Tier FB Visuals</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-emoji-tips-for-yt-comments-a-quick-guide/"><u>[Updated] In 2024, Emoji Tips for YT Comments A Quick Guide</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-galaxy-s23-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Galaxy S23</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-htc-u23-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For HTC U23 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-google-pixel-fold-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/correcting-inverted-display-in-windows-10-os/"><u>Correcting Inverted Display in Windows 10 OS</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/google-drive-und-mac-perfekt-synchron-eine-einfache-anleitung/"><u>Google Drive Und Mac - Perfekt Synchron: Eine Einfache Anleitung</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/leading-9-mic-technology-a-comprehensive-analysis/"><u>Leading 9 Mic Technology A Comprehensive Analysis</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-google-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Google</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-infinix-smart-8-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Infinix Smart 8 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-smiles-to-text-where-to-find-amusing-tones/"><u>[New] 2024 Approved Smiles to Text Where to Find Amusing Tones?</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-top-10-discord-dating-communities-unveiled/"><u>[New] Top 10 Discord Dating Communities Unveiled</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-tab-a-2020-analysis-uncover-the-lacking-essential-function/"><u>Comprehensive Samsung Galaxy Tab A (2020) Analysis - Uncover the Lacking Essential Function</u></a></li>
+<li><a href="https://techidaily.com/hide-your-activity-on-file-explorer-in-windows-11-a-step-by-step-guide/"><u>Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-windows-11-enables-camera-sharing-using-android-phones/"><u>How Windows 11 Enables Camera Sharing Using Android Phones</u></a></li>
+<li><a href="https://techidaily.com/identifying-your-windows-10-editions-versions-and-builds/"><u>Identifying Your Windows 10 Editions, Versions & Builds</u></a></li>
+<li><a href="https://techidaily.com/important-considerations-prior-to-purchasing-your-icloud-storage-plan/"><u>Important Considerations Prior to Purchasing Your iCloud Storage Plan</u></a></li>
+<li><a href="https://techidaily.com/improve-your-virtual-meetings-with-microsoft-teams-new-ai-assisted-webcam-backdrop-management/"><u>Improve Your Virtual Meetings with Microsoft Teams' New AI-Assisted Webcam Backdrop Management</u></a></li>
+<li><a href="https://techidaily.com/ipad-purchase-top-factors-to-evaluate-before-making-your-decision/"><u>IPad Purchase: Top Factors to Evaluate Before Making Your Decision</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/is-a-133-screen-size-ideal-for-your-new-e-reader-purchase/"><u>Is a 13.3 Screen Size Ideal for Your New E-Reader Purchase?</u></a></li>
+<li><a href="https://techidaily.com/maximizing-your-data-security-the-benefits-of-storing-time-machine-backups-on-a-macs-built-in-hardware/"><u>Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/saving-the-day-resurrected-hdmi-connection/"><u>Saving the Day: Resurrected HDMI Connection</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/speedy-uninstall-strategies-personalizing-the-win-1110-menu/"><u>Speedy Uninstall Strategies: Personalizing the Win 11/10 Menu</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-11-breakthroughs-in-technology-since-the-invention-of-morse-code-1844/"><u>Top 11 Breakthroughs in Technology Since the Invention of Morse Code (1844)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-kid-friendly-dvd-players-the-ultimate-buyers-guide/"><u>Top 5 Kid-Friendly DVD Players : The Ultimate Buyer's Guide</u></a></li>
 </ul></div>
 

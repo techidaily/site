@@ -1,7 +1,7 @@
 ---
 title: The 5 Best Methods to Track a Lost or Stolen iPhone 6s Plus | Stellar
-date: 2024-09-21T02:21:37.807Z
-updated: 2024-09-23T17:02:18.684Z
+date: 2025-01-12T21:00:42.306Z
+updated: 2025-01-15T19:45:33.050Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -38,6 +38,10 @@ So, as soon as you discover that your iPhone has been stolen or lost, first, try
 5. Use **location-tracking apps**
 
 ![tack lost iPhone- Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/11/iPhone-stolen-infographic.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **<u>Method 1: Use Find My iPhone</u>**
 
@@ -76,9 +80,17 @@ Use a trusted and safe data recovery solution such as **[Stellar Data Recovery f
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/11/a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you have set up **Family Sharing,** use it to track your iPhone. Family Sharing helps the members to know each one’s device location. Ask another member in the Family Sharing group to trace your iPhone via the Find My iPhone app. The member can also sign into iCloud.com to locate the missing iPhone.
 
 |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Is your missing iPhone switched off or offline?
 
@@ -94,6 +106,10 @@ Note: The iPhone’s last known location remains only for one day. In case your 
 - Change your social media and other Internet account passwords like Gmail, Twitter, Facebook, Instagram, etc.
 - Report the device as missing to the authorities.
 - Report your network carrier to disable the services like calls, messages, or data use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **<u>Method 3: Use Google Timeline to find lost iPhone</u>**
 
@@ -136,13 +152,6 @@ Is this post helpful? Share your experience in the comments below, how you manag
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When Matt opened his iPhone 14 Notes after iOS 16.4 upgrade, he found many of his old Notes had disappeared. He was repenting about the upgrade and now looking for ways to get back his Notes on his iPhone.
 
 Notes are important for those who make optimum use of this app. _However, if you have also lost them for some reason, this post shares how to restore the lost Notes on your iPhone._
@@ -150,19 +159,6 @@ Notes are important for those who make optimum use of this app. _However, if you
 Often underrated, iPhone Notes app lets you do much more than you can think of  — scribbling thoughts, ideas, checklists, sketching, adding photos, and videos, attaching location links from Maps, etc.
 
 However, Notes may disappear after an iOS update, jailbreak, factory reset, accidental deletion, etc.
-
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to Recover Notes on iPhone?**
 
@@ -214,13 +210,6 @@ You can view the lost and deleted Notes of iPhone in the demo version of the sof
 
 ![Stellar Data Recovery for iPhone - Select the iPhone notes and save at desired location.](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/Screenshot-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click on **Save** and browse the desired location to save the recovered notes.
 
 #### **<u>Recover Notes from Apple Backups</u>**
@@ -255,6 +244,10 @@ Once you delete Notes, they remain in the recently deleted folder on your iPhone
 - Select the notes you want to restore
 - Click **Recover** in the toolbar. The note moves to the Notes folder
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5.** **Restore Notes from an e-mail account on iPhone**
 
 When you delete a Note from your iPhone, it remains in your e-mail account of your iPhone. So, for example, suppose you use Gmail on your iPhone, and all your Notes are saved to the e-mail address.
@@ -272,6 +265,10 @@ When you delete a Note from your iPhone, it remains in your e-mail account of yo
 - Turn on Notes for each account
 
 ![Turn on Notes for each account](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/3-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Open the Notes app to see if they are back
 
@@ -297,27 +294,17 @@ Once quick scan is completed, in the preview window choose **Click Here** option
 
 ![Stellar Data Recovery for iPhone - Click Deep Scan](https://www.stellarinfo.com/images/kb/Deep-scan1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When the scanning process is completed, a dialog box displaying the message ‘Deep Scan completed’ is displayed.
 
 ![Stellar Data Recovery for iPhone - Deep Scan process](https://www.stellarinfo.com/images/kb/Deep-scan2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In case the additional data is not recovered through Deep Scan, the dialog box displays the message ‘Deep Scan completed. No additional data found.’
 
 ![Stellar Data Recovery for iPhone - Deep Scan Completed](https://www.stellarinfo.com/images/kb/Deep-scan3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Files found during Deep Scan can be viewed in the preview window and saved at any desired location.
 
@@ -356,10 +343,7 @@ If you are entering DFU mode, make sure to [back up your iPhone data](https://s
 However, if you have lost iPhone data and don’t have a backup, then immediately download iPhone data recovery software — [Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/). The software helps to restore lost or deleted iPhone contacts, call logs, photos, videos, text, FaceTime, audio, chats, Calendar, Notes, Safari bookmarks, etc. It is quick to recover and extremely user-friendly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **What is required to perform Recovery and DFU modes in iPhone?**
@@ -376,18 +360,15 @@ Follow the below steps to enter Recovery Mode on iPhone 6, iPhone 6s, iPhone 6s 
 
 ![put iPhone 6 in Recovery Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/restart-iphon6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Then connect the USB cable to iPhone and turn it on by holding the Home button.
 - Continue to hold the **Home** button until a pop-up appears informing ‘an iPhone has been detected in recovery mode’ on your system.
 - In **Recovery** mode, you can either restore the iPhone, set it up as new, or just recover your backups.
 
 ![Recovery Mode in  iphone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/iphone-recover-mode-detected.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **How to put iPhone 7 in Recovery Mode**  
 It’s easy to enter Recovery Mode on iPhone 7 or iPhone 7 Plus. Follow the below steps:
@@ -444,6 +425,10 @@ Entering Recovery Mode on iPhone 13 and iPhone 13 Pro has the same steps as iPho
 - Press and continue to hold the side button until the **‘Connect to iTunes’** screen appears on iPhone.
 
 ![enter iPhone 13 recovery mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/iphone-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **How to put Recovery Mode on iPhone 14**  
 To use recovery mode on iPhone 14 and iPhone 14 Pro, follows these steps:
@@ -514,13 +499,6 @@ Press and hold the Power or Sleep button and the Volume down button until you se
 **How to Exit DFU Mode on iPhone 6 or Earlier versions**  
 Hold the **Home** button and the Power button of the iPhone simultaneously until Apple’s logo appears on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Conclusion**
 
 Whenever your iPhone and its variants show problems like being stuck at the Apple logo, won’t upgrade, restore, or respond, you can use Recovery Mode and DFU Mode functions to resolve the problem. But don’t forget to back up your iPhone data before using these functions.
@@ -553,5 +531,26 @@ A computer is not necessary to enter the recovery mode on an iPhone. You only ne
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-haven.techidaily.com/bypass-the-phone-verification-easy-registration-tips-for-chatgpt-and-messaging-apps/"><u>Bypass the Phone Verification: Easy Registration Tips for ChatGPT and Messaging Apps</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-10-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/google-image-mastery-rapid-and-remarkable-mosaics-created-for-2024/"><u>Google Image Mastery Rapid & Remarkable Mosaics Created for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-blaze-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-vip-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 VIP Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-13t-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13T Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-on-apple-iphone-14-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account On Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR without Passcode or Face ID</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-xiaomi-redmi-k70e-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Xiaomi Redmi K70E? Fixed | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/maximize-productivity-and-entertainment-with-a-discounted-550-lenovo-laptop-for-memorial-day-at-zdnet-offers/"><u>Maximize Productivity and Entertainment with a Discounted $550 Lenovo Laptop for Memorial Day at ZDNet Offers</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-guide-fixing-pc-issues-for-a-smooth-cult-of-the-lamb-gaming-experience/"><u>Optimized Guide: Fixing PC Issues for a Smooth 'Cult of the Lamb' Gaming Experience</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-methods-for-skyrocketing-viewership-on-youtube-shorts/"><u>Proven Methods for Skyrocketing Viewership on YouTube Shorts</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-tecno-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Tecno</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-poco-x5-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Poco X5</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-finest-9-cross-platform-video-conferencing-apps-for-iphonestablets/"><u>The Finest 9 Cross-Platform Video Conferencing Apps for iPhones/Tablets</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-slow-motion-spectrum-top-cams-reviewed-by-experts/"><u>The Slow-Motion Spectrum Top Cams Reviewed by Experts</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix Note 30 VIP Racing Edition</u></a></li>
+</ul></div>
 

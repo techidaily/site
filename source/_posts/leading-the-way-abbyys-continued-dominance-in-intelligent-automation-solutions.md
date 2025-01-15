@@ -1,7 +1,7 @@
 ---
 title: "Leading the Way: ABBYY's Continued Dominance in Intelligent Automation Solutions"
-date: 2024-10-29T17:34:48.261Z
-updated: 2024-11-03T18:29:07.871Z
+date: 2025-01-08T19:20:07.959Z
+updated: 2025-01-15T17:11:51.868Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/316b7f440a48066f0155d24f5ae2cf9cf3a70b004023bda547f2450ae65311f0.jpg
@@ -11,13 +11,25 @@ thumbnail: https://thmb.techidaily.com/316b7f440a48066f0155d24f5ae2cf9cf3a70b004
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY Reaffirms Its Position as an Intelligent Automation Market Leader
 
 January 25, 2023
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News Conference9](https://static1.abbyy.com/abbyycommedia/33873/news-conference9.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 With a rising demand for [intelligent automation](https://tools.techidaily.com/abbyy/products/) in the enterprise and the market expected to soar to $49 billion by 20261, [ABBYY](https://tools.techidaily.com/abbyy/products/) is honored to have been named a leader by 10 industry analyst firms in 2022.
 
@@ -47,13 +59,6 @@ For more information on the most recent analyst reports featuring ABBYY, please 
 
 _1 IDC, Worldwide Intelligent Process Automation Software Forecast, 2022–2026, September 2022._
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### About ABBYY
 
 ABBYY powers intelligent automation. We reimagine the way people work and how companies accelerate business by delivering the intelligence that fuels automation platforms. Our solutions transform enterprise data and empower you with the insights you need to work smarter and faster. 
@@ -65,10 +70,7 @@ ABBYY is a US-based global company with offices in 14 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ABBYY Editorial Contact
@@ -76,10 +78,7 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Gina Ray
@@ -105,22 +104,21 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-the-art-of-rebranding-online-expert-tips-for-transforming-your-tiktok-username/"><u>[New] 2024 Approved The Art of Rebranding Online Expert Tips for Transforming Your TikTok Username</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/eciphering-digital-domination-a-deep-dive-into-directors-videos-for-2024/"><u>[New] Deciphering Digital Domination A Deep Dive Into Directors' Videos for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-unseen-video-on-sony-a6400-whats-going-wrong/"><u>[New] Unseen Video on Sony A6400 What's Going Wrong?</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-pro-level-playback-advanced-techniques-for-capturing-minecraft-games-on-mac/"><u>2024 Approved Pro-Level Playback Advanced Techniques for Capturing Minecraft Games on Mac</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-narzo-n55-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme Narzo N55 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/eardial-hifi-earplug-review-great-low-profile-concert-earplugs/"><u>EarDial HiFi Earplug Review: Great, Low-Profile Concert Earplugs</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/expedite-excitement-fast-video-on-android/"><u>Expedite Excitement Fast Video on Android</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-itel-p55plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel P55+ without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s24-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S24 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-sony-xperia-5-v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 5 V without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-tecno-phantom-v-fold-frp-bypass-by-drfone-android/"><u>In 2024, About Tecno Phantom V Fold FRP Bypass</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-timeless-videos-with-historical-flair/"><u>In 2024, Crafting Timeless Videos with Historical Flair</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-innovation-comprehensive-review-of-apple-mac-mini-m1-2020-a-leap-forward-in-arm-computing-supremacy/"><u>Mastering Innovation: Comprehensive Review of Apple Mac Mini (M1, 2020) - A Leap Forward in ARM Computing Supremacy</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-play-40c-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/backup-software-showdown-aomei-backupper-vs-macrium-reflect-which-reigns-supreme/"><u>Backup Software Showdown: AOMEI Backupper Vs. Macrium Reflect - Which Reigns Supreme?</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-go-2023-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-sony-xperia-5-v-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Sony Xperia 5 V to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-90-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Sony Xperia 1 V? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://win-web.techidaily.com/professional-skyline-r34-hd-wallpaper-collection-crisp-detailed-graphics-from-yl-software-solutions/"><u>Professional Skyline R34 HD Wallpaper Collection - Crisp, Detailed Graphics From YL Software Solutions</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-xiaomi-13t-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Xiaomi 13T</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-next-generation-of-mac-video-capture-software-not-bandicam-for-2024/"><u>The Next Generation of Mac Video Capture Software (Not Bandicam) for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-k70e-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi K70E Reset Code | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/transformative-health-targets-crafting-with-chatgpt-expertise/"><u>Transformative Health Targets: Crafting with ChatGPT Expertise</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-xiaomi-13t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Xiaomi 13T Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/vivid-visuals-brush-up-your-youtube-beauty-videos-for-2024/"><u>Vivid Visuals Brush up Your YouTube Beauty Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/be-ready-360-videos-editing-and-sharing-made-simple-for-2024/"><u>YouTube-Ready 360 Videos Editing & Sharing Made Simple for 2024</u></a></li>
 </ul></div>
 

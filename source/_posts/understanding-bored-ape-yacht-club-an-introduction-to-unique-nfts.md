@@ -1,7 +1,7 @@
 ---
 title: "Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs"
-date: 2024-12-26T11:07:43.659Z
-updated: 2025-01-01T18:36:25.378Z
+date: 2025-01-13T18:01:37.495Z
+updated: 2025-01-15T16:58:22.955Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 ## Understanding Bored Ape Yacht Club: An Introduction to Unique NFTs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c29c22f9ff431826e0b45507bb8fd6710d810a2c3
 * [Why Are NFTs Exploding?](https://facebook-clips.techidaily.com/new-integrating-gopro-adventures-with-popular-social-media-channels-for-2024/)
 
  If you're scratching your head at the deluge of Gorillaz-style monkey avatars everywhere on the web, congratulations! You've just had your first encounter with the [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/), and it might make even less sense than you imagine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  NFT Avatars in a Nutshell
 
@@ -39,16 +43,12 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
  The last thing you need to know is that NFTs can be traded, or sold for currencies such as US dollars, [Bitcoin](https://extra-support.techidaily.com/navigating-through-excellent-hdr-cam-choices-for-2024/), or Ethereum. The last one is pretty important because NFTs are generally "minted" on the [Ethereum blockchain](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  So What's Up With The Monkey Business?
 
 ![NFTs on a smartphone.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/nft-avatars.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Rokas Tenys/Shutterstock.com](https://www.shutterstock.com/image-photo/vilnius-lithuania-march-8-2021-nonfungible-1932205373)
@@ -58,6 +58,10 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Essentially, an outfit like Larvalabs will generate a set of avatar images using a random generation method that mixes and matches character art elements almost like a video game character creator. This ensures that every image is unique. You can look at it as a set of trading cards, but there's only one copy of each card in the set.
 
  Once the initial run of NFTs is purchased from the creators of the set, the monkey-trading begins. Owners of these NFTs can put them up for sale and see if there are any takers, and boy have there been some takers. Bored Ape Yacht Club NFT sales have totaled over [1 billion dollars](https://markets.businessinsider.com/news/currencies/bored-ape-yacht-club-nft-sales-1-billion-opensea-bayc-2022-1) alone. The current record for a [Bored Ape NFT is $3.4 million](https://hypebeast.com/2021/10/bored-ape-yacht-club-nft-3-4-million-record-sothebys-metaverse), although more typically they sell in the hundreds of thousands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  OK, But Why Are They Worth Anything?
 
@@ -69,10 +73,6 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 ![Bored Ape #9055 displayed on a smartphone on a pile of cash.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/ape-cash.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [mundissima/Shutterstock.com](https://www.shutterstock.com/image-photo/bored-ape-yacht-club-9055-nft-2101462063)
 
  Whether we like to admit it or not, celebrities and other influencers have an effect on how we live our lives and, in particular, how we spend our money. This is at least partly because of the "[halo effect](https://www.simplypsychology.org/halo-effect.html)" where one positive trait (such as being a beautiful actor) makes us think of someone as having other positive traits, such as intelligence or trustworthiness.
@@ -82,7 +82,7 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
  Celebrity involvement in NFTs, especially the Bored Ape Yacht Club, also makes sense thanks to extra perks that come with Yacht Club membership. For example, there's an exclusive Discord server, and you might get invited to [exclusive parties](https://www.theverge.com/22824387/bored-ape-yacht-club-nft-party-new-york) where you might run into famous Bored Ape owners such as [Eminem](https://fortune.com/2022/01/03/eminem-nft-bored-ape-yacht-club/) (who spent $462 000 on his Bored Ape) or [Snoop Dogg](https://boardroom.tv/bored-ape-nft-celebrity-owners/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Are NFTs Exploding?
@@ -110,21 +110,22 @@ Related: [What Are NFTs? Meet Crypto's Digital Collectibles](https://sound-tweak
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-the-writers-toolkit-dialogue-and-narration-techniques-for-success/"><u>[New] 2024 Approved The Writer's Toolkit Dialogue and Narration Techniques for Success</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-zenful-beats-top-10-free-downloads-for-serene-meditation-for-2024/"><u>[New] Zenful Beats - Top 10 Free Downloads for Serene Meditation for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-presence-how-to-change-voice-effectively-on-ig/"><u>[Updated] In 2024, Enhance Your Presence How to Change Voice Effectively on IG</u></a></li>
-<li><a href="https://win-docs.techidaily.com/come-scaricare-il-nuovo-sistema-operativo-su-una-ssd-compacta/"><u>Come Scaricare Il Nuovo Sistema Operativo Su Una SSD Compacta</u></a></li>
-<li><a href="https://blog-min.techidaily.com/free-mp4-a-flac-converter-online-pelo-site-movavi-sem-custo/"><u>Free MP4 a FLAC Converter Online Pelo Site Movavi - Sem Custo</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c22-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C22 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100a-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100A without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-nubia-z50-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nubia Z50 Ultra Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-zte-nubia-z60-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset ZTE Nubia Z60 Ultra without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-realme-c55-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Realme C55</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/imac-m1-analysis-how-apple-redefines-desktop-computing-experience/"><u>IMac M1 Analysis: How Apple Redefines Desktop Computing Experience</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-fix-the-frenzy-regain-access-after-tiktok-reload-error/"><u>In 2024, Fix the Frenzy Regain Access After TikTok Reload Error</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/periscope-prodigy-from-beginner-to-expert-for-2024/"><u>Periscope Prodigy From Beginner to Expert for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-s17e-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo S17e on Windows</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>[Updated] 2024 Approved How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-breakthrough-techniques-for-streaming-success-obs-studio-android/"><u>[Updated] Breakthrough Techniques for Streaming Success OBS Studio (Android)</u></a></li>
+<li><a href="https://techidaily.com/10-essential-functions-of-microsofts-bing-chatbot-boost-your-productivity/"><u>10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-android-plus-mac-how-to-archive-your-snap-videos/"><u>2024 Approved Android + Mac How to Archive Your Snap Videos</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-fix-blue-screen-error-code-0x0000007e-on-your-windows-7-computer-a-detailed-guide/"><u>How to Fix Blue Screen Error Code 0X0000007E on Your Windows 7 Computer – A Detailed Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-realme-12plus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-magic-6-lite-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor Magic 6 Lite Phone</u></a></li>
+<li><a href="https://techidaily.com/the-inconspicuous-evolution-of-ai-why-the-most-significant-change-is-largely-overlooked/"><u>The Inconspicuous Evolution of AI: Why the Most Significant Change Is Largely Overlooked</u></a></li>
+<li><a href="https://techidaily.com/the-potential-impact-of-the-spacex-t-mobile-alliance-on-opposing-phone-carriers-according-to-atandt-and-verizon/"><u>The Potential Impact of the SpaceX-T-Mobile Alliance on Opposing Phone Carriers, According to AT&T and Verizon</u></a></li>
+<li><a href="https://techidaily.com/top-virtual-reality-game-experiences-oculus-quest-pc-and-ps-vr-edition/"><u>Top Virtual Reality Game Experiences: Oculus Quest, PC, & PS VR Edition</u></a></li>
+<li><a href="https://techidaily.com/top-virtual-reality-headset-picks-ultimate-guide/"><u>Top Virtual Reality Headset Picks : Ultimate Guide</u></a></li>
+<li><a href="https://techidaily.com/transform-your-pc-into-a-powerhouse-of-ai-generated-art-using-stable-diffusion-technology/"><u>Transform Your PC Into a Powerhouse of AI-Generated Art Using Stable Diffusion Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/trouble-with-a-wet-lightning-connector-on-your-iphone-discover-the-top-2-fixes-for-damage-control/"><u>Trouble with a Wet Lightning Connector on Your iPhone? Discover the Top 2 Fixes for Damage Control</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unfolding-the-future-discover-samsung-galaxy-z-fold-6s-launch-dates-costs-and-features/"><u>Unfolding the Future: Discover Samsung Galaxy Z Fold 6'S Launch Dates, Costs, & Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unforgettable-mothers-day-presents-perfect-surprises-for-the-woman-who-loves-you/"><u>Unforgettable Mother's Day Presents: Perfect Surprises for the Woman Who Loves You</u></a></li>
+<li><a href="https://techidaily.com/unlocking-amazon-how-to-easily-set-up-and-use-passkeys-for-login/"><u>Unlocking Amazon: How to Easily Set Up and Use Passkeys for Login</u></a></li>
+<li><a href="https://techidaily.com/unveiling-web3-the-next-evolutionary-step-in-digital-connectivity/"><u>Unveiling Web3: The Next Evolutionary Step in Digital Connectivity</u></a></li>
 </ul></div>
 

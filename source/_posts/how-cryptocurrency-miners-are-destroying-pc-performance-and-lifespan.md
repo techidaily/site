@@ -1,7 +1,7 @@
 ---
 title: How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
-date: 2025-01-01T08:56:15.255Z
-updated: 2025-01-02T03:45:53.560Z
+date: 2025-01-09T17:00:11.953Z
+updated: 2025-01-15T18:36:04.042Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 * [Laptops Are Bad at Mining, Anyway](https://facebook-video-share.techidaily.com/new-engaging-vlogger-subjects-each-day-for-2024/)
 
  Laptops and [mining crypto](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/) don't mix. Even a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) doesn't have the hardware to go all-out 24/7\. Using your laptop as a mining rig is a good way to damage the hardware---and it won't be able to mine well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Crypto Mining Does to a Computer
 
@@ -38,7 +42,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  This isn't necessarily a problem for desktop GPUs. [A GPU used for mining may still have a good lifespan ahead of it if it was properly cooled](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/). However, a laptop is very different from a mining rig.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Laptops Are Not Designed For This
@@ -49,16 +53,12 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  There are laptops that are designed as number-crunching workstations, but these computers are better described as "portable" rather than mobile computers. Some of these workstation laptops have socketed desktop CPUs, which are designed to suck power from a wall outlet and really push those thermal limits. Unless you have one of these behemoths, your laptop probably wasn't made to handle the stresses of mining.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Fans Wear Out
 
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
@@ -69,15 +69,15 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  Modern laptops dynamically adjust fan speeds to match the thermal load, with some even switching them off when the system is only under a light load. If you're mining cryptocurrency, they'll be screaming headlong towards the end.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Thermal Battery Aging
 
  While most of your electronic components will probably be fine as long as they stay within the rated safe temperate range, one component that might not take the heat well is the laptop's battery. Lithium-ion batteries should operate between -20 °C to 60 °C depending on the specific application and manufacturer recommendation. If they are exposed to temperatures higher than that, they can degrade and have their lifespans shortened due to an effect known as thermal aging.
 
  In 2018, Shuai Ma and colleagues published a [paper on thermal impact and lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S1002007118307536). They cite research showing that lithium batteries subjected to 75 °C for a few days show severe degradation. While that doesn't mean sustained high temperatures in your laptop will kill your batteries quickly, it's worth remembering that components like the GPU can hit temperatures close to 100 °C, especially in a laptop where the line between "safe" and "too hot" is very thin.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Laptops Are Bad at Mining, Anyway
 
@@ -100,19 +100,20 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-fps-feudalists-unearthing-the-top-7-war-games/"><u>[New] 2024 Approved FPS Feudalists – Unearthing the Top 7 War Games</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-2024-approved-the-beginners-path-to-professional-windows-10-video-production/"><u>[New] 2024 Approved The Beginner's Path to Professional Windows 10 Video Production</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-adding-emojis-in-youtube-discussions-for-2024/"><u>[Updated] Adding Emojis in YouTube Discussions for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-elevating-success-channel-ideas-to-spark-momentum/"><u>2024 Approved Elevating Success Channel Ideas to Spark Momentum</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevating-video-marketing-with-youtube-thumbnails/"><u>2024 Approved Elevating Video Marketing with YouTube Thumbnails</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-6s-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 6s Plus Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-ace-2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Ace 2 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-itel-p55plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel P55+ Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-t2-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2 Pro 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-cutting-edge-psd-drop-shadows/"><u>In 2024, Cutting-Edge PSD Drop Shadows</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-dual-display-dynamics-video-recorder-rankings/"><u>In 2024, Dual Display Dynamics Video Recorder Rankings</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/pro-tips-combining-gopro-with-time-lapse-shooting-techniques/"><u>Pro Tips Combining GoPro with Time-Lapse Shooting Techniques</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-ultra-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy S23 Ultra won’t play MKV movies</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-magic-6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor Magic 6</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-supercharge-your-games-premium-top-10-drives/"><u>[New] 2024 Approved Supercharge Your Games Premium Top 10 Drives</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-secret-sonic-snatchers-6-in-the-shadows-voice-recording-apps/"><u>[New] In 2024, Secret Sonic Snatchers 6 In-the-Shadows Voice Recording Apps</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-seamless-srt-discover-the-top-8-subs-to-srts-software-for-every-os/"><u>[New] Seamless SRT Discover the Top 8 Subs to SRTS Software for Every OS</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-charting-a-course-through-youtubes-copyright-maze/"><u>[Updated] 2024 Approved Charting a Course Through YouTube's Copyright Maze</u></a></li>
+<li><a href="https://techidaily.com/1724312958750-abbyy/"><u>「言語無関係な請求書管理 - フレックスキャプチャABBYYの日本語対応完了！」</u></a></li>
+<li><a href="https://techidaily.com/1724313687620-abbyy/"><u>「ABBYYの最先端機能による知的なレシート管理ガイド」</u></a></li>
+<li><a href="https://techidaily.com/2-enhance-your-digital-footprint-naturally-discover-the-power-of-cookiebot-for-seo-success/"><u>2. Enhance Your Digital Footprint Naturally - Discover the Power of Cookiebot for SEO Success</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-taking-control-of-quality-edit-your-published-videos-on-youtube/"><u>2024 Approved Taking Control of Quality Edit Your Published Videos on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-perfect-crossfading-techniques-using-audacity/"><u>In 2024, Perfect Crossfading Techniques Using Audacity</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/save-big-this-cyber-monday-find-the-best-budget-friendly-laptops-under-1000-at-costco-amazon-and-dell-insights-by-zdnet/"><u>Save Big This Cyber Monday: Find the Best Budget-Friendly Laptops Under $1000 at Costco, Amazon & Dell | Insights by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/seamless-document-processing-using-abbyys-flexicapture-software-for-laserfiche-systems/"><u>Seamless Document Processing Using ABBYY's FlexiCapture Software for Laserfiche Systems</u></a></li>
+<li><a href="https://techidaily.com/streamlining-logistics-the-future-of-digital-and-automated-freight-with-abbyys-insights/"><u>Streamlining Logistics: The Future of Digital & Automated Freight with ABBYY's Insights</u></a></li>
+<li><a href="https://techidaily.com/tailored-web-interaction-through-advanced-analytics-discover-the-benefits-of-cookiebot-solutions/"><u>Tailored Web Interaction Through Advanced Analytics: Discover the Benefits of Cookiebot Solutions</u></a></li>
+<li><a href="https://techidaily.com/understanding-ocr-vs-idp-key-differences-explained/"><u>Understanding OCR Vs. IDP: Key Differences Explained</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-top-10-free-video-rotators-to-rotateflip-videos-for-2024/"><u>Updated Top 10 Free Video Rotators to Rotate/Flip Videos for 2024</u></a></li>
 </ul></div>
 

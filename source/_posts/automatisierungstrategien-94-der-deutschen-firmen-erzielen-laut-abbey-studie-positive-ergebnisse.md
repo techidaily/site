@@ -1,7 +1,7 @@
 ---
 title: "Automatisierungstrategien: 94%% Der Deutschen Firmen Erzielen Laut ABBEY-Studie Positive Ergebnisse"
-date: 2024-10-31T22:51:58.178Z
-updated: 2024-11-04T13:47:41.338Z
+date: 2025-01-11T19:47:50.571Z
+updated: 2025-01-15T16:20:14.778Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac6bf71f33265c2968e32a513.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 94% der deutschen Unternehmen erzielten laut ABBYY-Umfrage Erfolge beim Einsatz von Automatisierungstechnologien
 
 26\. April 2022
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![News Automation 2](https://static5.abbyy.com/abbyycommedia/33484/news-automation-2.jpg) 
 
@@ -33,6 +41,10 @@ Befragt wurden 1,208 IT-Entscheider in Deutschland, Großbritannien, Frankreich,
 * 20%, dass sie Druck von ihren Mitarbeitern verspürten (Deutschland: 22%).
 
 [![](https://static1.abbyy.com/abbyycommedia/35599/2022-04-25_infgraphic_survey_de_final.jpg?width=1068&height=558)](https://www.abbyy.com/media/35599/2022-04-25%5Finfgraphic%5Fsurvey%5Fde%5Ffinal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vor dem Hintergrund, dass das Arbeiten im Home Office für die meisten Unternehmen zur Norm geworden ist, unzufriedene Arbeitnehmer eine größere Kündigungswelle begünstigt haben und die Vereinbarkeit von Beruf und Privatleben zur Priorität geworden ist, stellt dies eine positive Entwicklung dar.
 
@@ -56,13 +68,6 @@ _„Die Pandemie, eine größere Kündigungswelle aufgrund von Unzufriedenheit u
 
 Diese Studie wurde von Sapio Research im März 2022 im Auftrag von ABBYY durchgeführt. Die Umfrage wurde unter 1,208 IT-Entscheidern in Deutschland, Großbritannien, Frankreich, den USA und Japan durchgeführt, um zu erfassen, wo Unternehmen in Automatisierungsprojekte investieren, warum sie neue Technologien einsetzen und wie sich das Verhalten auf den Erfolg der Projekte auswirkt.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Über ABBYY
 
 ABBYY treibt die intelligente Automatisierung voran. Wir gestalten die Art und Weise, wie Menschen arbeiten neu, indem wir Automatisierungsplattformen mit der Intelligenz ausstatten, die es Unternehmen ermöglicht, ihr Geschäft zu beschleunigen. Unsere Lösungen wandeln Unternehmensdaten in verwertbare Daten um und liefern die Erkenntnisse, die für ein smarteres und schnelleres Arbeiten erforderlich sind.
@@ -74,10 +79,7 @@ ABBYY ist ein globales Unternehmen mit Sitz in den USA und Niederlassungen in 15
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pressekontakt:
@@ -85,10 +87,7 @@ ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeich
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Bianca Stupp
@@ -114,20 +113,17 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-art-of-subtlety-decoding-snapchats-concealed-messages/"><u>[New] 2024 Approved The Art of Subtlety Decoding Snapchat's Concealed Messages</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/potlight-on-8-trusted-youtube-growth-services/"><u>[New] Spotlight on 8 Trusted Youtube Growth Services</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-premier-playstation-simulators-top-5-selection-for-2024/"><u>[Updated] Premier PlayStation Simulators Top 5 Selection for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-how-to-embed-youtube-in-your-gslides-presentation/"><u>2024 Approved How to Embed YouTube in Your GSlides Presentation</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-ultimate-directory-where-to-download-youtube-ringtones/"><u>2024 Approved Ultimate Directory Where to Download YouTube Ringtones?</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-t2x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-play-40c-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Play 40C Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-note-30i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30i without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-top-7-icloud-activation-bypass-tools-for-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Top 7 iCloud Activation Bypass Tools For your iPhone 6s Plus</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nokia-c110-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nokia C110</u></a></li>
-<li><a href="https://common-error.techidaily.com/step-by-step-tutorial-overcoming-the-windows-11-update-issue-with-error-code-0xc1900208-fixed/"><u>Step-by-Step Tutorial: Overcoming the Windows 11 Update Issue with Error Code 0xC1900208 [FIXED]</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-realme-note-50-by-fonelab-android-recover-music/"><u>The way to get back lost music from Realme Note 50</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-p55plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from P55+.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-the-basics-a-guide-to-rtx-graphics-cards/"><u>Understanding the Basics: A Guide to RTX Graphics Cards</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-15-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 15 Plus files after scanning? | Stellar</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearpathstoexpertisewithyoucamcapture/"><u>[New] 2024 Approved ClearPathsToExpertiseWithYouCamCapture</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors/"><u>[New] Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-strategies-for-buying-economical-gopros/"><u>2024 Approved Smart Strategies for Buying Economical GoPros</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/capture-and-record-videos-from-your-webcam/"><u>Capture and Record Videos From Your Webcam</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g73-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G73 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a05-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A05 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/revamp-auditory-functionality-updating-drivers-in-win11/"><u>Revamp Auditory Functionality – Updating Drivers in Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/syncing-soundtracks-with-pals-using-spotifys-shared-likes/"><u>Syncing Soundtracks with Pals Using Spotify's Shared Likes</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-find-x7-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Find X7</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/visionary-viewing-tripod-travelers-reliable-choice/"><u>Visionary Viewing Tripod: Traveler’s Reliable Choice</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-11-pro-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 11 Pro Max takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

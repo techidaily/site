@@ -1,7 +1,7 @@
 ---
 title: "Advancing Cognitive Capabilities in Bots: Insights From ABBYY and UiPath Innovations"
-date: 2024-12-27T10:09:10.064Z
-updated: 2025-01-01T19:30:53.264Z
+date: 2025-01-09T21:19:49.943Z
+updated: 2025-01-15T18:47:29.270Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473b14b1614804e43117d93320.jpg
@@ -9,11 +9,11 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 
 ## Advancing Cognitive Capabilities in Bots: Insights From ABBYY and UiPath Innovations
 
-## 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 
 
 ## ABBYY | UiPath
 
@@ -28,14 +28,10 @@ UiPathのテクノロジーパートナーとして、ABBYYは、UiPathのお客
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### ABBYYとUiPathがどう連携するか 
 
@@ -45,6 +41,10 @@ UiPathのためにABBYYソリューションで実現できること：
 * 業界をリードするOCR、文書の仕分け、データ抽出テクノロジーを活用し、文書を中心に取り扱う業務プロセスの自動化を進めることができます。
 * 継続的な自動学習とユーザからのインプットによって、文書の仕分けやデータの抽出作業を自動化できます。
 * 文書、画像やテキストを含むコンテンツ中心の処理作業を自動化するためにRPAの使用範囲を拡大できます。これにより、戦略的なDX（デジタルトランスフォーメーション）の活動をサポートすることができます。
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 連携するメリット 
 
@@ -73,11 +73,11 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 専門家に相談してみませんか？
@@ -99,17 +99,22 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-artisans-guide-to-chromatic-mastery/"><u>[New] The Artisan's Guide to Chromatic Mastery</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-what-is-google-ar-sticker-and-are-there-alternatives/"><u>[Updated] What Is Google AR Sticker and Are There Alternatives?</u></a></li>
-<li><a href="https://article-files.techidaily.com/discover-a-world-of-creative-slide-show-patterns-at-no-cost/"><u>Discover a World of Creative Slide Show Patterns at No Cost</u></a></li>
-<li><a href="https://extra-information.techidaily.com/discovering-why-your-social-media-feed-freezes-and-how-to-fix-it/"><u>Discovering Why Your Social Media Feed Freezes and How to Fix It</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-issue-how-to-restore-your-laptops-or-pcs-backlit-keyboard/"><u>Fixing the Issue: How to Restore Your Laptop's or PC's Backlit Keyboard</u></a></li>
-<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-realme-10t-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Realme 10T 5G Devices | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-music-on-honor-by-fonelab-android-recover-music/"><u>How to restore wiped music on Honor</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-c51-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Realme C51</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-motorola-edge-40-neo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Motorola Edge 40 Neo on Windows</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p55t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P55T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-y17s-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Y17s without backup.</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-6-youtuber-quizzes-to-know-which-youtuber-you-are/"><u>[New] In 2024, 6 YouTuber Quizzes to Know Which YouTuber You Are</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-perfect-photos-effortless-best-10-screenshot-sticker-enhancers-for-smartphones/"><u>[Updated] In 2024, Perfect Photos, Effortless Best 10 Screenshot-Sticker Enhancers for Smartphones</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-youtube-studio-editor-step-by-step-video-tutorial-creation/"><u>[Updated] In 2024, YouTube Studio Editor Step-by-Step Video Tutorial Creation</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-long-does-it-take-to-rank-locally-by-link-assistant-rank-tracker-local-rankings-local-rankings/"><u>How long does it take to rank locally?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G 5G (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-meizu-21-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Meizu 21 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>In 2024, 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y78-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y78 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-alienware-command-center-freeze-a-comprehensive-guide/"><u>Resolving Alienware Command Center Freeze: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-future-of-content-creation-profitability-on-youtube-for-2024/"><u>The Future of Content Creation Profitability on YouTube for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-impact-of-advanced-chatbots-on-modernizing-patient-care-can-they-revolutionize-medicine/"><u>The Impact of Advanced Chatbots on Modernizing Patient Care: Can They Revolutionize Medicine?</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-poco-x6-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Poco X6 Pro</u></a></li>
+<li><a href="https://article-tips.techidaily.com/unlock-the-power-of-spotifys-advertising-potential-for-2024/"><u>Unlock the Power of Spotify’s Advertising Potential for 2024</u></a></li>
+<li><a href="https://techidaily.com/update-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update drivers with Device Manager in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 14 support - Forgotten screen lock.</u></a></li>
 </ul></div>
 

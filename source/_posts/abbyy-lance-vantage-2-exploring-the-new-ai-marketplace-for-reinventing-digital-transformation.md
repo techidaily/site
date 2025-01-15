@@ -1,7 +1,7 @@
 ---
 title: "ABBYY Lance Vantage 2: Exploring the New AI Marketplace for Reinventing Digital Transformation"
-date: 2024-10-31T00:38:05.696Z
-updated: 2024-11-04T03:41:15.242Z
+date: 2025-01-12T18:16:40.758Z
+updated: 2025-01-15T21:00:42.103Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f0746613af42a2c779a9073e228.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/84d0bc5cbf75aff634c938ea8def6c75418d8f074
 
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY lance Vantage 2 et sa nouvelle Marketplace d’IA pour ré-imaginer la transformation numérique
 
 23 mars 2021
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Vantage 2 offre des procédés d’automatisation clés en main basés sur l’Intelligence Artificielle.**
 * **La Marketplace d’ABBYY quant à elle fournit aux utilisateurs les compétences cognitives nécessaires pour accélérer les initiatives d’automatisation.**
@@ -71,25 +79,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1726221386898-jpeggif-movavi/"><u>完全無料のオンライン画像編集:JPEGとGIFを効率良く変換する方法 - Movavi</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/capturing-attention-the-power-of-these-top-10-tags-for-2024/"><u>Capturing Attention The Power of These Top 10 Tags for 2024</u></a></li>
-<li><a href="https://driver-install.techidaily.com/connect-your-usb-to-wifi-directly-with-ethernet/"><u>Connect Your USB to WiFi Directly with Ethernet</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/enhancing-audience-connection-through-android-and-ios-streams-for-2024/"><u>Enhancing Audience Connection Through Android & iOS Streams for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-itel-p55-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Itel P55 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 Plus without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-movies-with-yi-4k-hero/"><u>In 2024, Mastering Movies with YI 4K HERO</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-8-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 8 Plus Suddenly | Stellar</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi A2+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-x50iplus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor X50i+.</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshoot-with-us-8-proven-fixes-to-stop-guardians-of-the-galaxy-from-crashing-on-pc/"><u>Troubleshoot with Us: 8 Proven Fixes to Stop Guardians of the Galaxy From Crashing on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-delving-into-the-world-of-asmr-soundscapes/"><u>[New] 2024 Approved Delving Into the World of ASMR Soundscapes</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-music-sections-advanced-audacity-techniques/"><u>[New] Bridging Music Sections Advanced Audacity Techniques</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-visual-vaults-expert-tips-on-capturing-and-storing-twitter-video/"><u>[New] In 2024, Visual Vaults Expert Tips on Capturing and Storing Twitter Video</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-unpacking-the-features-of-androids-lightroom-app-for-2024/"><u>[New] Unpacking the Features of Android's Lightroom App for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-ways-to-refresh-system-drivers-on-your-windows-based-dell-xps-15-notebook/"><u>Easy Ways to Refresh System Drivers on Your Windows-Based Dell XPS 15 Notebook</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-12plus-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme 12+ 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-20-proplus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark 20 Pro+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g-5g-2023-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G 5G (2023) Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-fix-apple-id-verification-code-not-working-from-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, How To Fix Apple ID Verification Code Not Working From iPhone 15 Pro Max</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6s Plus Passcode not Working?</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from ZTE Blade A73 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-c55-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme C55 without backup.</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-ranked-laptops-in-depth-comparison-between-apple-dell-asus-and-others-insights-from-zdnet/"><u>Top-Ranked Laptops : In-Depth Comparison Between Apple, Dell, Asus & Others - Insights From ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/universal-unlock-pattern-for-realme-c33-2023-by-drfone-android/"><u>Universal Unlock Pattern for Realme C33 2023</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-drivers-with-windows-device-manager-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning drivers with Windows Device Manager on Windows 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/vivo-y56-5g-messages-recovery-recover-deleted-messages-from-vivo-y56-5g-by-fonelab-android-recover-messages/"><u>Vivo Y56 5G Messages Recovery - Recover Deleted Messages from Vivo Y56 5G</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-x6-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco X6 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

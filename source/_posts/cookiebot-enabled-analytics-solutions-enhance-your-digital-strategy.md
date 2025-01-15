@@ -1,7 +1,7 @@
 ---
 title: Cookiebot-Enabled Analytics Solutions - Enhance Your Digital Strategy
-date: 2024-12-31T04:59:49.017Z
-updated: 2025-01-01T22:24:43.491Z
+date: 2025-01-12T17:21:32.304Z
+updated: 2025-01-15T20:15:34.754Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11fd5d20364906665ccf8e2b9a.jpg
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/b3073e71d549e5dda027e19f13416a5fe4cf0a11f
 Education/Research
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## L’université de Southampton améliore l’accès à sa collection en numérisant de volumineuses quantités de documents imprimés
@@ -22,18 +22,18 @@ Education/Research
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/39653.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## L’université de Southampton améliore l’accès à sa collection en numérisant de volumineuses quantités de documents imprimés
 
 [Afficher ou télécharger une version imprimable de cet article (PDF 329 kb)](https://static4.abbyy.com/abbyycommedia/10189/cs-unisouthampton-rs-f.pdf) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Contexte
 
@@ -42,7 +42,7 @@ Education/Research
 ABBYY FineReader, un produit logiciel conçu pour la numérisation et la numérisation ad-hoc, a été utilisé par la bibliothèque pendant un certain nombre d’années pour numériser une petite quantité de pages, et occasionnellement l’intégralité de livres. Ce programme est aussi utilisé pour la reconnaissance de texte et la reconnaissance optique de caractères (OCR, optical character recognition). La bibliothèque s’est rapidement rendue compte que pour automatiser le processus OCR, avec un rendement élevé, et atteindre son objectif, qui est de numériser un demi-million de pages par an, elle aurait besoin d’un produit plus robuste et capable de traiter automatiquement d’importants volumes de documents.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solution
@@ -76,10 +76,6 @@ La réussite de la numérisation peut également être attribuée à la soupless
 
 « L’installation d’ABBYY Recognition Server a été rapide. Les premières réponses d’ABBYY et de leurs équipes de support vis-à-vis de toutes les questions posées ont été rapides, avec un suivi de bonne qualité. Nous avons été très satisfaits des résultats et nous avons hâte d’utiliser le produit pour continuer à remplir nos objectifs en termes de numérisation. »
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## À propos de l’université de Southampton
 
 L’unité de numérisation de bibliothèques de l’université de Southampton propose  
@@ -88,6 +84,10 @@ un service de numérisation aux bibliothèques, aux archives et au secteur comme
 Contact: [www.soton.ac.uk/library/ldu](http://www.soton.ac.uk/library/ldu)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## À propos d’ABBYY et contact
 
@@ -118,18 +118,22 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-best-economical-choice-high-performance-asmr-mic-picks-for-2024/"><u>[New] Best Economical Choice High-Performance ASMR Mic Picks for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-quadcopters-unveiled-their-intricate-workings-revealed/"><u>[New] In 2024, Quadcopters Unveiled Their Intricate Workings Revealed</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-6-fiscal-picks-in-the-4k-projector-market/"><u>[New] Top 6 Fiscal Picks in the 4K Projector Market</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-fast-guide-mastering-instagram-live-conversations-for-2024/"><u>[Updated] Fast Guide Mastering Instagram Live Conversations for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/an-introduction-to-effective-image-previews/"><u>An Introduction to Effective Image Previews</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/custom-wallpapers-from-spotlight-photos-on-windows/"><u>Custom Wallpapers From Spotlight Photos on Windows</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-meizu-21-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Meizu 21 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/high-quality-ford-falcon-backgrounds-download-free-images-from-yl-computings-extensive-collection/"><u>High-Quality Ford Falcon Backgrounds - Download Free Images From YL Computing's Extensive Collection</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-edge-40-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Edge 40 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-into-every-detailed-detail-expert-strategies-to-record-immersive-sims-4-adventures/"><u>In 2024, Into Every Detailed Detail Expert Strategies to Record Immersive Sims 4 Adventures</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-your-go-to-guide-to-exceptional-4k-mirrorless-cameras/"><u>[New] 2024 Approved Your Go-To Guide to Exceptional 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-guide-cost-effective-pc-screen-recording-apps-for-2024/"><u>[New] Ultimate Guide Cost-Effective PC Screen Recording Apps for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-advanced-text-dynamics-presets-collection/"><u>[Updated] Advanced Text Dynamics Presets Collection</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-expertise-essentials-removing-unwanted-backdrops-with-canva/"><u>[Updated] Expertise Essentials Removing Unwanted Backdrops with Canva</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-reimagining-your-video-presentation-update-facebook-covers-today/"><u>2024 Approved Reimagining Your Video Presentation Update Facebook Covers Today</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-compreomed-approach-for-making-tiktok-songs-your-ringtone-for-2024/"><u>A Compreomed Approach for Making TikTok Songs Your Ringtone for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-11-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/comparing-sonic-prowess-how-apples-homepod-outperforms-the-compact-homepod-mini-zdnet-review/"><u>Comparing Sonic Prowess: How Apple's HomePod Outperforms the Compact HomePod Mini | ZDNet Review</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-disney-100th-anniversary-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Disney 100th Anniversary Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-13c-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y78t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y78t Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-phantom-v-fold-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Phantom V Fold</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-hot-30-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Hot 30 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-tecno-spark-10c-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Tecno Spark 10C</u></a></li>
 </ul></div>
 

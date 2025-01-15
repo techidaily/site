@@ -1,7 +1,7 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2024-12-26T08:55:02.594Z
-updated: 2025-01-02T01:26:07.869Z
+date: 2025-01-13T17:42:49.120Z
+updated: 2025-01-15T16:02:17.070Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY、グローバルでドキュメント内データへのアクセスに関する実態調査を実施
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 【調査方法】
@@ -99,18 +99,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/amp-up-visibility-strategies-for-engaging-shorts-on-youtub/"><u>[New] Ramp Up Visibility Strategies for Engaging Shorts on YouTub</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/cinematic-closeness-a-kinemaster-expertise-for-close-up-craft/"><u>Cinematic Closeness A Kinemaster Expertise for Close-Up Craft</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for OnePlus Open Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/guide-complet-faites-pivoter-votre-fichier-video-mp4-a-90180270-avec-une-qualite-impeccable-sur-google/"><u>Guide Complet : Faites Pivoter Votre Fichier Vidéo MP4 À 90/180/270° Avec Une Qualité Impeccable Sur Google</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-nokia-c02-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia C02 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-cheats.techidaily.com/how-to-save-and-convert-videolecturesnet-content-to-mp4-format-for-offline-viewing/"><u>How to Save and Convert VideoLectures.net Content to MP4 Format for Offline Viewing</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/seamless-sharing-with-apple-devices-how-to-import-and-share-gopro-videos-on-iphones/"><u>Seamless Sharing with Apple Devices: How to Import and Share GoPro Videos on iPhones</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-vivo-y27-4g-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Vivo Y27 4G ? Fix It Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-oneplus-nord-ce-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-pixel-8-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Pixel 8.</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unseen-chronicles-5-expertly-crafted-viewer-tools/"><u>Unseen Chronicles 5 Expertly Crafted Viewer Tools</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78plus-t1-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78+ (T1) Edition Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-7-top-ranked-cameras-for-snowboarding-and-skiing-enthusiasts/"><u>[New] In 2024, 7 Top-Ranked Cameras for Snowboarding & Skiing Enthusiasts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-instant-on-maximizing-your-video-playback-time/"><u>[New] In 2024, Instant-On Maximizing Your Video Playback Time</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-starting-with-a-gopro-essential-upgrades-for-new-filmmakers-for-2024/"><u>[New] Starting with a GoPro Essential Upgrades for New Filmmakers for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-edge-pc-techniques-for-stellar-youtube-video-production/"><u>Cutting-Edge PC Techniques for Stellar YouTube Video Production</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-x100-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo X100 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-google-pixel-8-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Google Pixel 8 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-how-to-ensure-consistent-frame-rates-in-multi-camera-setups/"><u>In 2024, How to Ensure Consistent Frame Rates in Multi-Camera Setups</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-instantly-hide-faces-with-picscanner-tricks/"><u>In 2024, Instantly Hide Faces with PicScanner Tricks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastery-through-motion-a-garageband-guide-to-podcasting-for-2024/"><u>Mastery Through Motion A GarageBand Guide to Podcasting for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/nostalgic-film-techniques-for-contemporary-projects-using-vhs/"><u>Nostalgic Film Techniques for Contemporary Projects Using VHS</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-infinix-hot-30-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Infinix Hot 30 5G on Windows</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-90-pro-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from 90 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-x100-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo X100 Pro | Dr.fone</u></a></li>
 </ul></div>
 

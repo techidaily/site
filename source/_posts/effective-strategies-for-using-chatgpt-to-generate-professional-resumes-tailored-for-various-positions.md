@@ -1,7 +1,7 @@
 ---
 title: Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions
-date: 2024-12-29T05:24:23.275Z
-updated: 2025-01-01T23:05:31.783Z
+date: 2025-01-10T17:24:31.171Z
+updated: 2025-01-15T16:19:24.546Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Effective Strategies for Using ChatGPT to Generate Professional Resumes Tailored for Various Positions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  We used the free version of ChatGPT (GPT 3.5) for illustrations throughout this piece. While it's decent, we expect you’ll get better results using the premium version of ChatGPT (GPT 4).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Use ChatGPT to Analyze the Job Description
@@ -32,10 +36,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Let’s assume I was to apply for the role of digital marketing manager that I found on LinkedIn. I tried to have ChatGPT analyze the job description by prompting it: “Based on the job description below, please identify and highlight the key skills and requirements the employer seeks in bold.” ChatGPT did just as I requested—determining the most essential qualifications and competencies sought by the employer.
 
 ![Job description for digital marketing manager entered in ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/job-description-for-digital-marketing-manager-entered-in-chatgpt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, I gave ChatGPT a hypothetical professional background for the next exercise. I laid out a few years of experience as a digital marketing manager at previous companies, key projects I led, big wins for clients, and all the usual résumé checklist items—just to set the table with a sample candidate profile. Armed with that, I told ChatGPT: "Based on my work history as a digital marketing manager below, do I meet the requirements for this position?" Putting it to the test to see how I'd stack up.
 
@@ -49,22 +49,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![ChatGPT's response to providing additional details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-response-to-providing-additional-details.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Create a Resume from Scratch with ChatGPT
 
  Here's the fun part. I let ChatGPT take a first pass at writing my resume. I prompted it to: “craft a resume that fits the job I’m applying for based on the information I provided before.” And it definitely took a first crack at it. ChatGPT put together a chronological resume, organizing my hypothetical background into nicely formatted sections: professional summary, work experience, education, skills, and additional information.
 
 ![ChatGPT-crafted resume based on prompting](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-crafted-resume-based-on-prompts.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Obviously, to protect my personal information, I didn't provide ChatGPT with any real specifics like my name, address, contact details, etc. The last thing you'd want is your data to get stored on some server to train algorithms without your permission! So, for privacy's sake, it’s best to feed it career details only. Once you like the outcome, you can edit and polish ChatGPT's draft, adding specifics like your personal details and tweaking anything that needs finesse (outside of ChatGPT, though). Use your human judgment to perfect the end result.
 
 ![Screenshot of snippet of a ChatGPT-crafted resume](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/snippet-of-a-chatgpt-crafted-resume.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  You Can Use ChatGPT to Strengthen Your Existing Resume
@@ -87,13 +87,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ![Asking ChatGPT to determine if a resume is ATS compatible](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/asking-chatgpt-to-determine-if-a-resume-is-ats-compatible.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Make the changes ChatGPT suggests so everything the hiring manager cares about is clear and optimized for ATS friendliness. Do a once over yourself to polish the language and convey your awesome personality.
 
 ![ChatGPT providing recommendations on optimizing a resume for applicant tracking systems (ATS)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/chatgpt-suggested-tips-to-make-a-resume-ats-friendly.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -114,21 +114,18 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-discover-the-7-most-popular-video-apps-for-iphones-and-android-live-streaming/"><u>[New] Discover The 7 Most Popular Video Apps for iPhones & Android Live Streaming</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-adept-vlc-playback-and-capture-techniques-for-2024/"><u>[Updated] Adept VLC Playback & Capture Techniques for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-essential-steps-for-cropping-images-on-websites/"><u>[Updated] Essential Steps for Cropping Images on Websites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-to-use-zoom-camera-for-instant-sharing/"><u>[Updated] In 2024, Easy-to-Use Zoom Camera for Instant Sharing</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-spotlight-play-how-to-stand-out-with-youtube-gaming/"><u>[Updated] In 2024, Spotlight Play How to Stand Out with YouTube Gaming</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-civi-3-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Civi 3 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-a70-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A70 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1721810323228-instant-access-to-8-bespoke-language-models-for-now/"><u>Instant Access to 8 Bespoke Language Models for Now!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/navigating-through-comfort-and-clarity-the-ultimate-guide-to-the-rotibox-bluetooth-headset-hat/"><u>Navigating Through Comfort and Clarity: The Ultimate Guide to the Rotibox Bluetooth Headset Hat</u></a></li>
-<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-samsung-galaxy-m34-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Samsung Galaxy M34? 7 Ways to Resolve | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/ps4-broadcasting-basics-with-a-focus-on-obs-integration/"><u>PS4 Broadcasting Basics with a Focus on OBS Integration</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-note-30-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Note 30 Pro</u></a></li>
-<li><a href="https://techidaily.com/sony-data-recovery-recover-lost-data-from-sony-xperia-5-v-by-fonelab-android-recover-data/"><u>Sony Data Recovery – recover lost data from Sony Xperia 5 V</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-gt-neo-5-se-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-deciphering-how-burst-improves-video-continuity/"><u>[Updated] 2024 Approved Deciphering How Burst Improves Video Continuity</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-11-5g-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for OnePlus 11 5G Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/mastering-marketing-magic-20-keywords-for-profound-impact/"><u>Mastering Marketing Magic 20 Keywords for Profound Impact</u></a></li>
+<li><a href="https://win11.techidaily.com/1719362597425-navigating-networked-notebooks-effortless-file-sharing-with-c/"><u>Navigating Networked Notebooks: Effortless File Sharing with C:</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-your-website-insights-using-the-advanced-cookiebot-technology/"><u>Revolutionize Your Website Insights Using the Advanced Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/revolutionize-your-workflow-discover-the-latest-sharp-multifunction-printers-with-integrated-abbyy-ocr-insights-from-the-official-abbyy-blog/"><u>Revolutionize Your Workflow: Discover the Latest Sharp Multifunction Printers with Integrated ABBYY OCR - Insights From the Official ABBYY Blog</u></a></li>
+<li><a href="https://techidaily.com/revolutionizing-claim-handling-for-insurers-ecclesias-abbyy-approach/"><u>Revolutionizing Claim Handling for Insurers: Ecclesia's ABBYY Approach</u></a></li>
+<li><a href="https://win11.techidaily.com/surface-laptop-go-3-review-improved-performance-vs-stagnant-features/"><u>Surface Laptop Go 3 Review: Improved Performance Vs. Stagnant Features</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-russian-connection-exploring-vk-as-a-virtual-community/"><u>The Russian Connection: Exploring VK as a Virtual Community</u></a></li>
+<li><a href="https://techidaily.com/top-abbyy-papers-innovations-in-smart-process-automation/"><u>Top ABBYY Papers : Innovations in Smart Process Automation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/troubleshooting-tips-update-your-epson-wf-7720-printers-drivers-for-optimal-windows-compatibility/"><u>Troubleshooting Tips: Update Your Epson WF-7720 Printer's Drivers for Optimal Windows Compatibility</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-oppo-find-x7-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Oppo Find X7 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/ultimate-guide-mastering-the-art-of-pagination-in-web-design/"><u>Ultimate Guide: Mastering the Art of Pagination in Web Design</u></a></li>
 </ul></div>
 

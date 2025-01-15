@@ -1,7 +1,7 @@
 ---
 title: The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.
-date: 2024-12-26T05:46:47.564Z
-updated: 2025-01-01T16:19:45.032Z
+date: 2025-01-08T20:58:42.981Z
+updated: 2025-01-15T17:26:55.354Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## The Evolution From VR to XR - Understanding How Extended Reality Could Dominate the Market.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 
  Extended Reality (XR) is a term that encompasses several technologies but also describes a spectrum of reality-changing methods including Virtual Reality (VR), [Augmented Reality](https://article-knowledge.techidaily.com/2024-approved-elevate-your-entertainment-perfecting-the-art-of-using-netflixs-floating-window-feature/) (AR), and Mixed Reality (MR). XR brings all of these ideas under a single umbrella.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ingredient 1: Virtual Reality
 
  Virtual Reality is probably the component of XR that most people are familiar with. Within the XR spectrum, VR stands alone as the only technology that completely disconnects you from reality. At the very least, VR replaces your vision and hearing of the world around you with a simulates virtual world. More advanced forms of VR also include [haptic feedback](https://instagram-video-files.techidaily.com/orientation-overhaul-instagrams-video-rotation-secret-for-2024/), which is the term used for the various forms of touch feedback.
@@ -31,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 [VR headsets](https://vp-tips.techidaily.com/visual-harmony-ios-and-macos-photoviewer-blend/) like the Oculus Quest 2 let you instantly travel to somewhere else entirely, letting you feel "presence" in a virtual world separate from the one you're actually occupying.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ingredient 2: Augmented Reality
@@ -39,7 +43,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![A smartphone showing the Pokemon Go mobile game in an outdoor setting.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/pokemon-go-augmented-reality.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[Matthew Corley/Shutterstock.com](https://www.shutterstock.com/image-photo/santa-cruz-california-july-12-2016-451598275)_
@@ -53,10 +57,6 @@ Related: [What Is Machine Learning?](https://some-tips.techidaily.com/new-unleas
  Thanks to [machine learning](https://some-tips.techidaily.com/new-unleash-creative-potential-the-ultimate-hdr-guide/) and machine vision technology, AR software can now recognize objects such as tables and walls, correctly projecting the images on those surfaces.
 
  AR is a broad concept and it also includes some things many people wouldn't expect. For example, a heads-up display (HUD) found in fighter planes and some modern cars would qualify as AR. As long as digital information is being projected on your view of the real world, it's AR.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Ingredient 3: Mixed Reality
 
@@ -73,7 +73,7 @@ _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/
  That being said, MR is already mainstream with headsets that have external cameras for motion tracking also integrate basic MR features. For example, the [Oculus Quest](https://extra-guidance.techidaily.com/revolutionize-your-designs-incorporating-3d-text-psx-for-2024/) can use its monochrome external tracking cameras to bring objects such as your real-world couch or keyboard into VR. Turning it into an MR experience.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Will XR Replace VR?
@@ -97,17 +97,16 @@ _[Yuganov Konstantin/Shutterstock.com](https://www.shutterstock.com/image-photo/
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-latest-samsung-bd-j5900-updated-review-2023/"><u>[New] In 2024, Latest Samsung BD-J5900 Updated Review 2023</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-sifting-through-mr-beasts-bank-statements/"><u>[Updated] Sifting Through Mr. Beast's Bank Statements</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-y36i-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo Y36i Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/enhancing-visuals-the-role-of-a-tripod-in-video-content-for-2024/"><u>Enhancing Visuals The Role of a Tripod in Video Content for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/expert-advice-navigating-into-windows-8s-safe-mode-for-graphics-driver-issues-resolution/"><u>Expert Advice: Navigating Into Windows 8'S Safe Mode for Graphics Driver Issues Resolution</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/flawless-typing-ahead-diagnosing-and-fixing-bluetooth-keyboard-pairing-failures-with-laptops-or-desktops/"><u>Flawless Typing Ahead: Diagnosing and Fixing Bluetooth Keyboard Pairing Failures with Laptops or Desktops</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-plus-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Plus to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/in-2024-mastering-the-art-of-leaving-a-discord-server/"><u>In 2024, Mastering the Art of Leaving a Discord Server</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-nova-11-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei Nova 11</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210668472-9781684931118-the-ways-of-the-lonely-ones/"><u>The Ways of the Lonely Ones | Free Book</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-a54-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy A54 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-instantaneous-creation-and-edits-of-dynamic-multi-snaps/"><u>[New] Instantaneous Creation & Edits of Dynamic Multi-Snaps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-elevate-every-story-prime-video-editor-apps-for-android/"><u>2024 Approved Elevate Every Story Prime Video Editor Apps for Android</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268088292-access-free-tools-for-fixing-broken-pictures-professional-photo-repair-software-downloads/"><u>Access Free Tools for Fixing Broken Pictures: Professional Photo Repair Software Downloads.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/create-memes-for-free-with-the-meme-maker-tools-for-2024/"><u>Create Memes for Free with the Meme Maker Tools for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcoming-freezing-glitches-in-outriders-on-windows-step-by-step-fixes/"><u>Overcoming Freezing Glitches in Outriders on Windows - Step-by-Step Fixes</u></a></li>
+<li><a href="https://techidaily.com/the-metaverse-unveiled-understanding-its-depths-beyond-simple-vr-technology/"><u>The Metaverse Unveiled: Understanding Its Depths Beyond Simple VR Technology</u></a></li>
+<li><a href="https://techidaily.com/trouble-preserving-chatgpt-discussions-discover-the-ultimate-solutions/"><u>Trouble Preserving ChatGPT Discussions? Discover the Ultimate Solutions!</u></a></li>
+<li><a href="https://techidaily.com/understanding-ethereums-transaction-costs-a-guide-to-eth-gas-fees/"><u>Understanding Ethereum's Transaction Costs: A Guide to ETH Gas Fees</u></a></li>
+<li><a href="https://techidaily.com/unlock-your-cars-full-potential-mercedes-revolutionary-subscription-based-performance-upgrade/"><u>Unlock Your Car's Full Potential: Mercedes' Revolutionary Subscription-Based Performance Upgrade</u></a></li>
+<li><a href="https://techidaily.com/unlocking-new-possibilities-in-document-management-adobe-powers-up-pdf-communication-using-artificer-intelligence/"><u>Unlocking New Possibilities in Document Management: Adobe Powers Up PDF Communication Using Artificer Intelligence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/unlocking-the-secrets-of-pubg-sound-personalization-for-2024/"><u>Unlocking the Secrets of PUBG Sound Personalization for 2024</u></a></li>
 </ul></div>
 

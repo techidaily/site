@@ -1,7 +1,7 @@
 ---
 title: Automated Vehicle Parts Supplier Enhances Billing Efficiency Using ABBYY Software
-date: 2024-10-30T19:05:52.056Z
-updated: 2024-11-04T13:43:17.012Z
+date: 2025-01-11T20:03:27.685Z
+updated: 2025-01-15T17:41:22.340Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be60c27a53dccac395eaf5dc89.jpg
@@ -13,17 +13,29 @@ thumbnail: https://thmb.techidaily.com/50f06f10102684400d0f9b1cdbff97cb986996be6
 
 Other | Accounts Payable Automation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Vehicle Component Manufacturer Automates Invoice Processing with ABBYY
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Vehicle Component Manufacturer Automates Invoice Processing with ABBYY
 
 Other | Accounts Payable Automation 
 
 ![](https://static1.abbyy.com/abbyycommedia/15583/27-vehicle-component-manufacturer-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -36,13 +48,6 @@ Other | Accounts Payable Automation
 #### Partner Overview
 
 ![UFC Inc.](https://static5.abbyy.com/abbyycommedia/15298/user-friendly-consulting-logo.jpg) 
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 | Name         | UFC Inc.                                        |
 | ------------ | ----------------------------------------------- |
@@ -71,6 +76,10 @@ America’s leading supplier of Wheel Ends to OEM manufactures now receives over
 ### **3** times
 
 faster invoice processing
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### near **100**%
 
@@ -130,23 +139,9 @@ He also sees even more benefits in the future: “There’s no end to the ideas 
 
 [![FlexiCapture for Invoices](https://static5.abbyy.com/abbyycommedia/14349/6-flexicapture-forinvoices.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture for Invoices](https://tools.techidaily.com/abbyy/products/) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
@@ -163,10 +158,7 @@ Share  True ?  : ""
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -190,17 +182,24 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-50plus-youtube-channel-names-for-vloggers-100-new-filmora/"><u>[New] 2024 Approved 50+ Youtube Channel Names for Vloggers [100% New] - Filmora</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlabs-vs-obs-assessing-the-leading-livestream-tools/"><u>[New] Streamlabs Vs. OBS Assessing the Leading Livestream Tools</u></a></li>
-<li><a href="https://tiktok-video-files.techidaily.com/updated-bizarre-tiktok-quests-the-10-most-hilarious-games-to-try-now-for-2024/"><u>[Updated] Bizarre TikTok Quests The 10 Most Hilarious Games to Try Now for 2024</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-k11x-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo K11x Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-zte-blade-a73-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset ZTE Blade A73 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-vivo-t2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-tecno-pop-7-pro-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Tecno Pop 7 Pro For Mobile Legends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oneplus-open-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from OnePlus Open</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-night-light-issues-on-windows-11-devices/"><u>Troubleshooting Guide: Night Light Issues on Windows 11 Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-itel-p40plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Itel P40+.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-vivo-g2-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Vivo G2.</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/youtube-hd-video-download-techniques-achieve-1080p-quality/"><u>YouTube HD Video Download Techniques - Achieve 1080P Quality</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-story-syndicate-visionary-voyages-best/"><u>[New] Story Syndicate – Visionary Voyage's Best</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-content-spotlight-platform-perks-compared/"><u>[Updated] Content Spotlight Platform Perks Compared</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-high-definition-spectacle-our-top-7-camera-lineup-for-2024/"><u>[Updated] High-Definition Spectacle Our Top 7 Camera Lineup for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-video-lessons-to-vivid-engaging-gifs-no-download-needed/"><u>[Updated] In 2024, From Video Lessons to Vivid, Engaging GIFs – No Download Needed</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-understanding-the-algorithm-maximizing-earning-potential-on-youtube/"><u>[Updated] Understanding the Algorithm Maximizing Earning Potential on YouTube</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-shatter-the-status-quo-with-these-instagram-9-methods-for-stardom/"><u>2024 Approved Shatter the Status Quo with These Instagram #9 Methods for Stardom</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-x50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor X50 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/cutting-edge-strategies-for-transmitting-obs-livestreams-to-facebook-for-2024/"><u>Cutting-Edge Strategies for Transmitting OBS Livestreams to Facebook for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-10c-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark 10C Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y27-4g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y27 4G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-smart-8-plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Smart 8 Plus without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-s23-fe-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy S23 FE FRP Without Computer</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/paving-pathways-in-pixels-the-leading-vr-treadmills-reviewed-for-2024/"><u>Paving Pathways in Pixels The Leading VR Treadmills Reviewed for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-nubia-lock-screen-without-password-nubia-red-magic-8s-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Nubia Lock Screen without Password(Nubia Red Magic 8S Pro)</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a54-5g-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy A54 5G won’t play MKV movies</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Play 8T | Dr.fone</u></a></li>
 </ul></div>
 

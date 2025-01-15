@@ -1,7 +1,7 @@
 ---
 title: Adapt ChatGPT to Mirror Your Unique Voice in Written Communication
-date: 2024-12-27T14:46:21.108Z
-updated: 2025-01-02T10:07:47.468Z
+date: 2025-01-12T17:44:37.132Z
+updated: 2025-01-15T20:49:13.661Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Adapt ChatGPT to Mirror Your Unique Voice in Written Communication
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,6 +48,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It's up to you to judge how well ChatGPT is doing in your case. Note as well that you can specify which writing by the author you want to emulate. So if you've written different types of content for different publications, you can modify the emulated style by adding that information to the prompt.
 
 ##  Using Text Samples to Teach ChatGPT Your Style
@@ -58,10 +66,6 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then after we get an affirmative response, we use this prompt and include the sample text after the colon.
 
 > Here is the sample:
@@ -69,16 +73,12 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We get another affirmative from ChatGPT.
 
 ![Prompt asking ChatGPT if it know's the writing style of a certain author.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-10.18.34.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then follow up with the prompt to start writing, which in this example is:
 
@@ -91,6 +91,10 @@ Related: [ChatGPT: How to Use the AI Chatbot for Free](https://extra-resources.t
  You don't need to use elaborate prompts such as the ones in this example, we've written them to be human-friendly, but you can condense these steps and leave out words like "please."
 
 Related: [How to Tell If an Article Was Written by ChatGPT](https://facebook-clips.techidaily.com/in-2024-a-compreehers-path-to-aspect-ratio-mastery-in-facebook-videos/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Using Generic Tone Prompts to Describe Your Style
 
@@ -105,7 +109,7 @@ Related: [How to Tell If an Article Was Written by ChatGPT](https://facebook-cli
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
@@ -113,10 +117,6 @@ ChatGPT 3.5 Output With Tone Specifiers In The Prompt
  That was using ChatGPT 3.5, but here's the same prompt, but with a ChatGPT 4 upgrade:
 
 ![ChatGPT 3.5 Output With Tone Specifiers In The Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/Screenshot-2023-03-28-at-11.33.24.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ChatGPT 3.5 Output With Tone Specifiers In The Prompt
 
@@ -158,17 +158,21 @@ Related: [8 Surprising Things You Can Do With ChatGPT](https://facebook-clips.te
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-ultimate-guide-to-superior-liquid-games/"><u>[New] 2024 Approved The Ultimate Guide to Superior Liquid Games</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-leading-platforms-for-digital-graffiti-fonts/"><u>[New] In 2024, Leading Platforms for Digital Graffiti Fonts</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-elevate-your-team-with-expert-talent-selections/"><u>[Updated] In 2024, Elevate Your Team with Expert Talent Selections</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-guide-to-identifying-recent-instagram-leavers/"><u>[Updated] In 2024, Guide to Identifying Recent Instagram Leavers</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-youtube-visibility-by-sustaining-creativity-commons-license/"><u>2024 Approved Optimize YouTube Visibility by Sustaining Creativity Commons License</u></a></li>
-<li><a href="https://app-tips.techidaily.com/enhancing-customer-connection-through-design-thinking-a-boon-for-technology-professionals/"><u>Enhancing Customer Connection Through Design Thinking: A Boon for Technology Professionals</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-infinix-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Infinix</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-11r-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-11-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 11 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/optimize-your-pc-the-best-12-free-disk-defrag-programs-of-2024/"><u>Optimize Your PC: The Best 12 FREE Disk Defrag Programs of 2024</u></a></li>
-<li><a href="https://techidaily.com/sign-wbk-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online for Free</u></a></li>
-<li><a href="https://techidaily.com/will-motorola-edge-2023-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Motorola Edge 2023 play AVCHD mts files?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-blades-new-vision-in-ultra-high-definition-clarity/"><u>[New] Blade's New Vision in Ultra-High Definition Clarity</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-navigating-instagrams-question-marker-magic/"><u>[New] In 2024, Navigating Instagram’s Question Marker Magic</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-content-with-custom-fonts-in-adobe-ae/"><u>[Updated] Crafting Content with Custom Fonts in Adobe AE</u></a></li>
+<li><a href="https://win-bits.techidaily.com/1-three-simple-methods-for-iphone-application-backups-without-using-itunes/"><u>1. Three Simple Methods for iPhone Application Backups Without Using iTunes</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-bridging-moments-creating-fluid-edits-with-inshot/"><u>2024 Approved Bridging Moments Creating Fluid Edits with Inshot</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-kivalasztott-hatarzokba-a-legjobb-ocakkal-szolo-tv-futarak-epitesekbe-movavi/"><u>A Kiválasztott Határzókba - A Legjobb Ócakkal Szóló TV Futárák Építésekbe - Movavi</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-13t-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi 13T Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-infinix-smart-8-hd-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Infinix Smart 8 HD Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-y17s-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Y17s</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/stellar-upgrades-revolutionize-your-mac-performance/"><u>Stellar Upgrades - Revolutionize Your Mac Performance</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-samsung-galaxy-z-flip-5-by-fonelab-android-recover-music/"><u>The way to get back lost music from Samsung Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-htc-u23-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on HTC U23 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-11-pro-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 11 Pro SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-samsung-galaxy-f54-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Samsung Galaxy F54 5G.</u></a></li>
 </ul></div>
 

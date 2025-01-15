@@ -1,7 +1,7 @@
 ---
 title: Explore Innovative Solutions with ABBYY at Their May 2024 Intelligence Automation Summit
-date: 2024-10-29T13:12:01.282Z
-updated: 2024-11-04T12:38:13.289Z
+date: 2025-01-12T20:38:44.502Z
+updated: 2025-01-15T18:55:22.814Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e5b172234fc08b6d719a1524.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYY 2nd Annual Intelligent Automation Month Highlights the Power of Purpose-Built AI to Accelerate Business
 
 August 14, 2024
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### During September, global innovation experts educate business and IT leaders how to increase efficiencies and ROI using AI
 
@@ -39,10 +47,7 @@ Bruce Orcutt, CMO at ABBYY
 Take your organization to the next level of operational efficiency by registering for Intelligent Automation Month sessions today at [www.abbyy.com/intelligent-automation-month/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -68,17 +73,17 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-starter-selection-affordable-site-purchases-for-beginners/"><u>[New] 2024 Approved Starter Selection Affordable Site Purchases for Beginners</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-after-effects-textwork-essentials-the-10-best-presets/"><u>[New] After Effects Textwork Essentials The 10 Best Presets</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cultivating-growth-selecting-the-right-co-stars-for-youtube/"><u>[New] In 2024, Cultivating Growth Selecting the Right Co-Stars for YouTube</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-deep-dive-gopro-hero5-performance/"><u>[Updated] In 2024, Deep Dive GoPro Hero5 Performance</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-the-roadmap-for-visual-impact-professionals/"><u>2024 Approved The Roadmap for Visual Impact Professionals</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-vivo-y77t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y77t Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Pro Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2010-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2010</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-13-pro-max-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 Pro Max without Passcode</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-say-goodbye-to-watermarks-best-online-tiktok-video-editors/"><u>Updated 2024 Approved Say Goodbye to Watermarks Best Online TikTok Video Editors</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y36i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-speedy-tiktok-video-performance-a-step-by-step-plan/"><u>[New] In 2024, Speedy TikTok Video Performance A Step-by-Step Plan</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-investment-worthy-asmr-sound-for-every-fan-for-2024/"><u>[New] Investment-Worthy ASMR Sound for Every Fan for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-select-the-right-font-to-stand-out-on-youtube/"><u>[Updated] 2024 Approved Select the Right Font to Stand Out on YouTube</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guilty-gear-strives-release-unveiling-the-delay-mysteries/"><u>Guilty Gear Strive's Release: Unveiling the Delay Mysteries</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oneplus-ace-2v-by-fonelab-android-recover-pictures/"><u>How To Restore Missing Pictures Files from OnePlus Ace 2V.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-f23-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on F23 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-motorola-moto-g73-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Motorola Moto G73 5G</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-converting-a-2tb-hard-drive-into-a-bootable-1tb-solid-state-drive/"><u>Step-by-Step Guide: Converting a 2TB Hard Drive Into a Bootable 1TB Solid State Drive</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-realme-11-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme 11 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-c53-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme C53? | Dr.fone</u></a></li>
 </ul></div>
 

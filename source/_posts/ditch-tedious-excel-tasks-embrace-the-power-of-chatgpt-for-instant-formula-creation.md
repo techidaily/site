@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2025-01-01T04:44:47.798Z
-updated: 2025-01-02T05:50:45.519Z
+date: 2025-01-12T18:21:26.253Z
+updated: 2025-01-15T19:49:39.858Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,10 +30,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  In a fast-paced work environment, you need to maximize efficiency, and AI tools like ChatGPT can make short work of tedious tasks, such as creating Excel formulas. If you haven't yet tried ChatGPT for custom Excel formulas, you're missing out on a serious game changer.
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Get a Quick Excel Formula From ChatGPT
 
@@ -48,16 +48,12 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
 
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
@@ -71,10 +67,6 @@ Close
 
  If you've subscribed to Copilot Pro, you can [add GPT-4 Turbo directly to Excel](https://extra-skills.techidaily.com/in-2024-photoshop-facebackground-anonymity-guide/). This integration allows Copilot to analyze your data and suggest relevant formulas in addition to providing direct access to GPT.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  You Can Create Formatting Rules With ChatGPT
 
  Excel has a complex interface that makes it hard to navigate, especially for novices, and conditional formatting rules require you to poke around to figure them out. In the following example, I have a list of articles with columns that track whether they have been written and have photos.
@@ -82,7 +74,7 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
@@ -92,6 +84,14 @@ Close
  I went through the steps exactly how ChatGPT laid them out, and the results are perfect. Even if I had no prior knowledge of using Excel, I would be able to create the formatting rule to keep the project organized.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
@@ -130,19 +130,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-hype-generator-chief-architect/"><u>[New] Hype Generator Chief Architect</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-interactive-interface-for-podcasters/"><u>[New] Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-time-travelers-guide-to-youtube-queue-watch-from-end-to-start-for-2024/"><u>[Updated] A Time Traveler’s Guide to YouTube Queue Watch From End to Start for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-enhance-your-reel-with-rhythms-instagrams-music-guide/"><u>[Updated] In 2024, Enhance Your Reel with Rhythms Instagram's Music Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-windowsmac-captioning-crusade-the-ultimate-guide-to-text-placement/"><u>[Updated] In 2024, Windows/Mac Captioning Crusade The Ultimate Guide to Text Placement</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-realme-narzo-60x-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme Narzo 60x 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-picks-top-cell-phone-signal-amplification-devices-of-2024/"><u>Expert Picks: Top Cell Phone Signal Amplification Devices of 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-issues-with-a-non-functional-realtek-audio-input-device/"><u>Fixing Issues with a Non-Functional Realtek Audio Input Device</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-f5-pro-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco F5 Pro 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/secure-boot-woes-overcome-support-issues-with-top-fixes/"><u>Secure Boot Woes: Overcome Support Issues with Top Fixes</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-tecno-camon-20-pro-5g-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p40plus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P40+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-honor-play-7t-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Honor Play 7T.</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-nocturnal-narrative-videos-analysis/"><u>[New] 2024 Approved Nocturnal Narrative Videos Analysis</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-toddler-tycoon-how-ryans-channel-earnings-shook-the-internet/"><u>[Updated] Toddler Tycoon How Ryan's Channel Earnings Shook the Internet</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/big-name-apps-missing-from-apple-vision-pro-exclusive-insight-revealed-by-zdnet/"><u>Big Name Apps Missing From Apple Vision Pro: Exclusive Insight Revealed by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/1723262342685-explore-the-latest-in-computer-components-at-your-site-name-innovation-like-never-before/"><u>Explore the Latest in Computer Components at [Your Site Name] - Innovation Like Never Before</u></a></li>
+<li><a href="https://techidaily.com/exploring-tencentclouds-latest-release-an-exclusive-os-tailored-for-chinese-cpu-chips-including-huawei-kunpeng-and-sugon-hygon/"><u>Exploring TencentCloud’s Latest Release – An Exclusive OS Tailored for Chinese CPU Chips Including Huawei Kunpeng and Sugon Hygon</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2013-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2013 Cannot Access the File Error | Stellar</u></a></li>
+<li><a href="https://techidaily.com/from-indiegogo-to-your-desk-meet-ayaneos-newly-released-amd-am01-classic-inspired-mini-computer/"><u>From Indiegogo to Your Desk: Meet Ayaneo's Newly Released AMD AM01 Classic Inspired Mini Computer</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-edit-your-fax-cover-using-windows-11-tools/"><u>How to Edit Your Fax Cover Using Windows 11 Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-infinite-twitterscape-embracing-the-hd-experience/"><u>In 2024, Infinite Twitterscape - Embracing the HD Experience</u></a></li>
+<li><a href="https://techidaily.com/master-your-tech-choices-toms-in-depth-hardware-evaluations/"><u>Master Your Tech Choices: Tom's In-Depth Hardware Evaluations</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-mw3-comprehensive-troubleshooting-for-dev-error-6068/"><u>Mastering MW3: Comprehensive Troubleshooting for Dev Error 6068</u></a></li>
+<li><a href="https://techidaily.com/minisforum-s100-the-ultimate-portable-computer-with-alder-lake-n-poe-and-fast-ethernet/"><u>Minisforum S100: The Ultimate Portable Computer with Alder Lake-N, PoE & Fast Ethernet</u></a></li>
 </ul></div>
 

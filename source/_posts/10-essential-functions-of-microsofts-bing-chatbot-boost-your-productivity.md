@@ -1,7 +1,7 @@
 ---
 title: "10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity"
-date: 2024-12-27T18:51:24.108Z
-updated: 2025-01-02T08:04:02.152Z
+date: 2025-01-11T16:19:58.242Z
+updated: 2025-01-15T17:43:59.576Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 ---
 
 ## 10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Microsoft's [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/)\-based AI chatbot is part of what the company calls "New Bing." It's slowly being added to more things, and [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) is surprisingly useful---if you know what to do with it. We'll show you the ropes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Bing Chat in Google Chrome
 
 ![Chrome running Bing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chrome-with-bing.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
@@ -38,10 +46,6 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 ![Select a conversation style.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_13-44-08.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Bing Chat has three different conversation styles to choose from, and the responses you'll get will vary greatly depending on which one you use. Make sure to [choose a conversation style](https://screen-capture.techidaily.com/updated-sectionalviewpoint-investigation-for-2024/) before you submit a prompt.
 
 * **More Creative**: Longer, more descriptive, and "imaginative" answers.
@@ -52,15 +56,15 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 ![Bing Chat image creation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-25-56.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  There's a lot that [separates Bing Chat and ChatGPT](https://extra-skills.techidaily.com/2024-approved-step-into-virtuality-comparing-best-vr-treadmills/), but one of the big ones is the ability to [generate images with another AI tool](https://review-topics.techidaily.com/recover-excel-2013-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/) inside the text conversation. Bing uses OpenAI's DALL-E AI image generator, and it actually [has fewer limits than the official DALL-E website](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/). Using the "More Creative" conversation style, simply ask it to create an image.
 
 ##  Share Responses
 
 ![Share responses from Bing Chat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-30-40.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Get a particularly cool response from Bing Chat? You can easily share responses with the share button. You can quickly share to Facebook, Twitter, email, and Pinterest, or copy the link to share in any other way you'd like. [Links open in Bing](https://sl.bing.net/kVF1MyTSKei) and the response is given in real-time again.
 
@@ -68,23 +72,11 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 ![Rate the answer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-27-57.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another thing you can do from responses is rate them. Click the thumbs up and thumbs down icons on the corner of responses to tell Bing if it did a good or bad job answering your prompt. This is supposed to help improve responses over time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Ask For Changes
 
 ![Follow-up questions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-41-16.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You never have to settle for Bing's first response to a prompt. It can be tweaked and changed until you reach the 20-message limit, and you don't have to repeat the prompt every time. Let's say you asked for a recipe for vegetable soup, but the first response didn't include turnips. Simply follow-up by asking "add turnips to the recipe."
 
@@ -96,6 +88,10 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly.techidaily.com/updated-the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Bing Chat on Android and iPhone
 
 ![Tap the Bing Chat button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-19-23.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
@@ -103,22 +99,26 @@ Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly
  Bing Chat isn't limited to only the Microsoft Edge browser. The chatbot can be easily accessed on iPhone and Android with the Bing app as well. First, download the app from the [App Store](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231?at=1010l392g&ct=htg882581) or [Google Play Store](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.microsoft.bing%26hl%3Den%5FUS%26gl%3DUS&cuid=xid:fr1681838202aaa). Sign in and tap the big Bing Chat button in the toolbar to start chatting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Bing Chat from the Windows Start Menu
 
 ![Click &quot;Chat&quot; in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-49-58.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can initiate Bing Chat conversations from the Start Menu in Windows 11\. Simply open the Start Menu, start typing your prompt, and click the "Chat" button to send it to Bing Chat. Microsoft Edge will open directly to Bing Chat with your prompt already submitted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Remove Bing Chat from Microsoft Edge
 
 ![Toggle off &quot;Show Disocer.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-27_9-24-28.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Even if you really like using Bing Chat, you may not want a big, gaudy Bing button in the Edge sidebar all the time. That button was added in [Microsoft Edge 111](https://tech-revival.techidaily.com/eliminating-streaming-glitches-on-chatgpt-platform/), but it took Microsoft over a week to add an [easy way to disable the Bing Chat button](https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-a1x-5g-screen-mirroring-app-drfone-by-drfone-android/). Thank you.
 
@@ -143,17 +143,22 @@ Related: [How to Remove Bing Chat "Discover" Button in Microsoft Edge](https://s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-leading-screen-grabbers-top-picks-for-windows-11/"><u>[New] Leading Screen Grabbers Top Picks for Windows 11</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-stepwise-guide-for-powerpoints-speech-to-text-functionality/"><u>2024 Approved Stepwise Guide for PowerPoint's Speech-to-Text Functionality</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/get-your-hands-on-the-best-quality-2013-world-cup-games-for-pc-no-cost/"><u>Get Your Hands on the Best Quality 2013 World Cup Games for PC - No Cost!</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-icloud-photos-back-in-line-essential-troubleshooting-steps-for-iphone-users/"><u>Getting iCloud Photos Back in Line: Essential Troubleshooting Steps for iPhone Users</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-narzo-60x-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme Narzo 60x 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-minecraft-lag-and-non-responsiveness-on-pcs/"><u>How to Resolve Minecraft Lag and Non-Responsiveness on PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-it-time-to-switch-phones-understanding-upgrade-cycles/"><u>Is It Time to Switch Phones? Understanding Upgrade Cycles</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-xcover-7-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy XCover 7 won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-y78plus-t1-edition-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Y78+ (T1) Edition</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-how-to-change-pitch-in-audacity-without-losing-quality-for-2024/"><u>Updated How to Change Pitch in Audacity? Without Losing Quality for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-oppo-reno-10-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Oppo Reno 10 5G</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-effective-methods-share-twitch-stream-on-facebook/"><u>[New] 2024 Approved Effective Methods | Share Twitch Stream on Facebook?</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-moments-perfecting-zooms-snap/"><u>[Updated] 2024 Approved Capturing Moments Perfecting Zoom's Snap</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-record-zoom-meeting/"><u>[Updated] How to Record Zoom Meeting</u></a></li>
+<li><a href="https://techidaily.com/1724312839676-abbyy/"><u>「タスクマイニング入門：理解して活用するためのタスク分析・自動化ガイド」 - ABBYYブログで見つけようタスク処理を最適化する方法</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-innovative-techniques-for-enhancing-livestream-quality/"><u>2024 Approved Innovative Techniques for Enhancing Livestream Quality</u></a></li>
+<li><a href="https://techidaily.com/5-cles-pour-triompher-dans-lexecution-dun-projet-rpa-avec-abbyy-guide-complet/"><u>5 Clés Pour Triompher Dans L'Exécution D'Un Projet RPA Avec ABBYY : Guide Complet</u></a></li>
+<li><a href="https://techidaily.com/abbey-and-toppan-finance/"><u>ABBEY & TOPPAN FINANCE: 中野区と京都電子計算による四社統合での課税手続き改善モデル開発</u></a></li>
+<li><a href="https://techidaily.com/1724313211244-abbyy-flexicapture/"><u>ABBYY FlexiCapture®採用で請求書管理効率化:デジタル化で非生産業から価値向上</u></a></li>
+<li><a href="https://techidaily.com/abbyy-go-revolutionizing-quick-loan-approvals-with-powerful-mobile-ocr-technology/"><u>Abbyy Go: Revolutionizing Quick Loan Approvals with Powerful Mobile OCR Technology</u></a></li>
+<li><a href="https://techidaily.com/abbyy-named-market-leader-by-gartner-magic-quadrant-for-process-mining-platforms-in-2/"><u>ABBYY Named Market Leader by Gartner Magic Quadrant for Process Mining Platforms in 2</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/experts-blueprint-revolutionizing-your-screencasting-experience-with-mobizen-for-2024/"><u>Expert's Blueprint Revolutionizing Your Screencasting Experience with Mobizen for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-htc-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from HTC Phones with/without a PC</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pro-shooters-guide-the-best-4k-camcorders-ranked/"><u>In 2024, Pro Shooters' Guide The Best 4K Camcorders Ranked</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-the-features-a-users-perspective-on-the-msi-pro-mp161-e2-screen/"><u>Navigating the Features: A User's Perspective on the MSI PRO MP161 E2 Screen</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-google-chrome-profile-anomalies-in-windows/"><u>Overcoming Google Chrome Profile Anomalies in Windows</u></a></li>
+<li><a href="https://techidaily.com/unveiling-the-secrets-of-process-mining-exploring-its-limits-and-alternatives/"><u>Unveiling the Secrets of Process Mining: Exploring Its Limits & Alternatives</u></a></li>
+<li><a href="https://techidaily.com/utilizing-cookiebot-technology-for-dynamic-content-customization/"><u>Utilizing Cookiebot Technology for Dynamic Content Customization</u></a></li>
 </ul></div>
 

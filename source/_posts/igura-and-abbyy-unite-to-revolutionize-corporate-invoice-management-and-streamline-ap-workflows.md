@@ -1,7 +1,7 @@
 ---
 title: Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows
-date: 2024-11-02T13:23:51.791Z
-updated: 2024-11-04T00:09:12.895Z
+date: 2025-01-13T16:58:26.921Z
+updated: 2025-01-15T16:22:16.298Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## iGuana and ABBYY join forces to help enterprises streamline and automate accounts payable processes
 
 February 15, 2018
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ABBYY, a leading provider of technologies and solutions to action information, and [iGuana](https://iguana-idm.com/ "IGuana"), a leading Document Management and Digital Archiving Solutions provider for the BENELUX region, are pleased to announce their partnership.
 
@@ -105,26 +113,16 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-exclusive-selection-of-cutting-edge-online-platforms-for-facebook-covers/"><u>[New] 2024 Approved Exclusive Selection of Cutting-Edge Online Platforms for Facebook Covers</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-5-best-sites-for-quick-templates-on-youtube/"><u>[New] In 2024, 5 Best Sites for Quick Templates on YouTube</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-master-list-of-premium-4k-yt-converters-ranked-by-usage/"><u>[Updated] 2024 Approved Master List of Premium 4K YT Converters Ranked by Usage</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-cost-free-webm-viewing-a-list-of-industry-standouts/"><u>[Updated] In 2024, Cost-Free WebM Viewing A List of Industry Standouts</u></a></li>
-<li><a href="https://media-tips.techidaily.com/free-ultimate-mkv-video-player-for-windows-8-and-81-64-bit-32-bit-download-now/"><u>Free Ultimate MKV Video Player for Windows 8 & 8.1 (64-Bit / 32-Bit) - Download Now!</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-f5-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco F5 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-sonic-canvas-painting-sounds-on-a-mac/"><u>In 2024, Sonic Canvas Painting Sounds on a Mac</u></a></li>
-<li><a href="https://techidaily.com/is-your-vivo-v29-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo V29 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/sign-docm-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .docm file Documents Online for Free</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-art-of-seamless-editing-mastering-the-filmora-experience-for-2024/"><u>The Art of Seamless Editing Mastering the Filmora Experience for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-itel-p55-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Itel P55 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-zero-30-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Zero 30 5G</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/wattpad-stars-moments-on-snapchat/"><u>Wattpad Stars Moments on Snapchat</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>[New] A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solved-beat-saber-keeps-crashing/"><u>[Solved] Beat Saber Keeps Crashing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-success-through-the-most-effective-15-youtube-themes/"><u>[Updated] In 2024, Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet-for-2024/"><u>[Updated] Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tiktok-meets-snap-a-comparative-study-of-social-media-platforms/"><u>2024 Approved TikTok Meets Snap A Comparative Study of Social Media Platforms</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-go-2024-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark Go (2024) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-camon-20-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Camon 20 FRP</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s18-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S18 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/vivo-y200-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo Y200 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 3 | Dr.fone</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
