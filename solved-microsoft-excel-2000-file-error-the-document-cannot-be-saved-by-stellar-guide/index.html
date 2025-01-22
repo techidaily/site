@@ -30,18 +30,10 @@
 <meta property="og:image" content="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/VBA-error-subscript-out-of-range-when-incorrect-name.jpg">
 <meta property="og:image" content="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/modified-code-from-emp-to-emp2.jpg">
 <meta property="og:image" content="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/content-copied-from-emp-to-emp2.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/7443-2037338">
-<meta property="og:image" content="https://appsumo.8odi.net/i/5597632/2037338/7443">
 <meta property="og:image" content="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/run-time-error-9-when-not-declared-array.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/11832-1013424">
-<meta property="og:image" content="https://imp.i357552.net/i/5597632/1013424/11832">
-<meta property="og:image" content="https://a.impactradius-go.com/display-ad/19272-2080342">
-<meta property="og:image" content="https://aligracehair.sjv.io/i/5597632/2080342/19272">
 <meta property="og:image" content="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/macro-settings-in-trust-center.jpg">
-<meta property="og:image" content="https://a.impactradius-go.com/display-clicktoplayimage/1770526.png">
-<meta property="og:image" content="https://imp.pxf.io/i/5597632/1770526/20702">
-<meta property="article:published_time" content="2024-09-22T22:01:46.899Z">
-<meta property="article:modified_time" content="2024-09-25T01:38:08.702Z">
+<meta property="article:published_time" content="2025-01-17T11:43:27.662Z">
+<meta property="article:modified_time" content="2025-01-22T01:33:53.695Z">
 <meta property="article:author" content="Ian">
 <meta property="article:tag" content="repair">
 <meta property="article:tag" content="repair excel">
@@ -724,15 +716,15 @@
                         <div class="article-meta-info">
     <span class="article-date article-meta-item">
         <i class="fa-regular fa-pen-fancy"></i>&nbsp;
-        <span class="desktop">2024-09-23 06:01:46</span>
-        <span class="mobile">2024-09-23 06:01:46</span>
+        <span class="desktop">2025-01-17 19:43:27</span>
+        <span class="mobile">2025-01-17 19:43:27</span>
         <span class="hover-info">Created</span>
     </span>
     
         <span class="article-date article-meta-item">
             <i class="fa-regular fa-wrench"></i>&nbsp;
-            <span class="desktop">2024-09-25 09:38:08</span>
-            <span class="mobile">2024-09-25 09:38:08</span>
+            <span class="desktop">2025-01-22 09:33:53</span>
+            <span class="mobile">2025-01-22 09:33:53</span>
             <span class="hover-info">Updated</span>
         </span>
     
@@ -820,6 +812,10 @@
 <li>Not specified the number of elements in an array.</li>
 <li>Workbook in which you trying to use VBA is corrupted.</li>
 </ul>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h2 id="Methods-to-Fix-Excel-VBA-Error-‘Subscript-out-of-Range’"><a href="#Methods-to-Fix-Excel-VBA-Error-‘Subscript-out-of-Range’" class="headerlink" title="Methods to Fix Excel VBA Error ‘Subscript out of Range’"></a><strong>Methods to Fix Excel VBA Error ‘Subscript out of Range’</strong></h2><p>Following are some workarounds you can try to fix the runtime error 9 in Excel.</p>
 <h3 id="Method-1-Check-the-Name-of-Worksheet-in-the-Code"><a href="#Method-1-Check-the-Name-of-Worksheet-in-the-Code" class="headerlink" title="Method 1: Check the Name of Worksheet in the Code"></a><strong>Method 1: Check the Name of Worksheet in the Code</strong></h3><p>Sometimes, Excel throws the runtime error 9: Subscript out of range if the name of the worksheet is not defined correctly in the code. For example – When trying to copy content from one Excel sheet (emp) to another sheet (emp2) via VBA code, you have mistakenly mentioned wrong name of the worksheet (see the below code).</p>
 <div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">Private Sub CommandButton1_Click()</span><br><span class="line">Worksheets(&quot;emp&quot;).Range(&quot;A1:E5&quot;).Select</span><br><span class="line">Selection.Copy</span><br><span class="line">Worksheets(&quot;emp3&quot;).Activate</span><br><span class="line">Worksheets(&quot;emp3&quot;).Range(&quot;A1:E5&quot;).Select</span><br><span class="line">ActiveSheet.Paste</span><br><span class="line">Application.CutCopyMode = False</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure></div>
@@ -843,6 +839,10 @@
                      data-src="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/modified-code-from-emp-to-emp2.jpg"
                       alt="Modified Code From emp to emp2"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <ul>
 <li>Now run the code.</li>
 <li>The content in ‘emp’ worksheet will be copied to ‘emp2’ (see below).</li>
@@ -854,15 +854,7 @@
                       alt="Content Copied From emp to emp2"
                 ></p>
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://appsumo.8odi.net/i/5597632/2037338/7443"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <h3 id="Method-2-Check-the-Range-of-the-Array"><a href="#Method-2-Check-the-Range-of-the-Array" class="headerlink" title="Method 2: Check the Range of the Array"></a>Method 2: Check the Range of the Array</h3><p>The VBA error “Subscript out of range” also occurs if you have declared an array in a code but didn’t specify the number of elements. For example – If you have declared an array and forgot to declare the array variable with elements, you will get the error (see below):</p>
@@ -873,31 +865,11 @@
                       alt="Runtime Error 9 When Not Declared Array"
                 ></p>
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.i357552.net/i/5597632/1013424/11832"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <p>To fix this, specify the array variable:</p>
 <div class="highlight-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">Sub FillArray()</span><br><span class="line">Dim curExpense(364) As Currency</span><br><span class="line">Dim intI As Integer</span><br><span class="line">For intI = 0 to 364</span><br><span class="line">curExpense(intI) = 20</span><br><span class="line">Next</span><br><span class="line">End Sub</span><br></pre></td></tr></table></figure></div>
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://aligracehair.sjv.io/i/5597632/2080342/19272"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
 
 <h3 id="Method-3-Change-Macro-Security-Settings"><a href="#Method-3-Change-Macro-Security-Settings" class="headerlink" title="Method 3: Change Macro Security Settings"></a><strong>Method 3: Change Macro Security Settings</strong></h3><p>The Runtime error 9: Subscript out of range can also occur if there is an issue with the macros or macros are disabled in the Macro Security Settings. In such a case, you can check and change the macro settings. Follow these steps:</p>
 <ul>
@@ -912,6 +884,10 @@
                      data-src="https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/macro-settings-in-trust-center.jpg"
                       alt="Macro Settings In Trust Center"
                 ></p>
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 <h3 id="Method-4-Repair-your-Excel-File"><a href="#Method-4-Repair-your-Excel-File" class="headerlink" title="Method 4: Repair your Excel File"></a><strong>Method 4: Repair your Excel File</strong></h3><p>The name or format of the Excel file or name of the objects may get changed due to corruption in the file. When the objects are not identified in a VBA code, you may encounter the Subscript out of range error. You can use the Open and Repair utility in Excel to repair the corrupted file. To use this utility, follow these steps:</p>
 <ul>
 <li>In your MS Excel, click <strong>File &gt; Open</strong>.</li>
@@ -922,29 +898,6 @@
 <li>Click on the <strong>Repair</strong> option to extract the data as much as possible. If <strong>Repair</strong> button fails, then click <strong>Extract</strong> button to recover data without formulas and values.</li>
 </ul>
 <p>If the “Open and Repair” utility fails to repair the corrupted&#x2F;damaged macro-enabled Excel file, then try an advanced Excel repair tool, such as Stellar Repair for Excel. It can easily repair severely corrupted Excel workbook and recover all the items, including macros, cell comments, table, charts, etc. with 100% integrity. The tool is compatible with all versions of Microsoft Excel.</p>
-<!-- affiliate ads begin -->
-<span id="1770526">
-                    <video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-       <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-       <img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-                      style="border: none; height: 100%; width: 100%; object-fit: contain"
-                >
-    </video>
-    <div style="width:150px;text-align:center"><a class="link"   href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);" >Click here <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></div>
-</span>
-<img  height="0" width="0" 
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://imp.pxf.io/i/5597632/1770526/20702"
-                      style="position:absolute;visibility:hidden;" border="0" 
-                >
-<!-- affiliate ads end -->
-
 <h2 id="Conclusion"><a href="#Conclusion" class="headerlink" title="Conclusion"></a><strong>Conclusion</strong></h2><p>You may experience the “Subscript out of range” error while using VBA in Excel. You can follow the workarounds discussed in this blog to fix the error. If the Excel file is corrupt, then you can use <a class="link"   target="_blank" rel="noopener" href="https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/" >Stellar Repair for Excel <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> to repair the file. It’s a powerful software that can help fix all the issues that occur due to corruption in the Excel file. It helps to recover all the data from the corrupt Excel files (.xls, .xlsx, .xltm, .xltx, and .xlsm) without changing the original formatting. The tool supports Excel 2021, 2019, 2016, and older versions.</p>
 <p><ins class="adsbygoogle"
      style="display:block"
@@ -956,6 +909,21 @@
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins></p>
+<p><span class="atpl-alsoreadstyle">Also read:</span></p>
+<div><ul>
+<li><a target="_blank" rel="noopener" href="https://youtube-zero.techidaily.com/024-approved-maximizing-reach-understanding-tag-importance-for-videos/"><u>[New] 2024 Approved Maximizing Reach Understanding Tag Importance for Videos</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://youtube-webster.techidaily.com/024-approved-tips-for-constructing-motivating-daily-routine-vids/"><u>[New] 2024 Approved Tips for Constructing Motivating Daily Routine Vids</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://some-approaches.techidaily.com/2024-approved-top-10-memetic-artistry-codes/"><u>2024 Approved Top 10 Memetic Artistry Codes</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a78-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A78 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone? | Dr.fone</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f15-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F15 5G Phones with/without a PC</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/mastering-network-management-wi-fi-removal-guide/"><u>Mastering Network Management: Wi-Fi Removal Guide</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://ai-video-tools.techidaily.com/new-2024-approved-motion-capture-apps-android-and-ios-essentials/"><u>New 2024 Approved Motion Capture Apps Android and iOS Essentials</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-xiaomi-redmi-note-12r-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xiaomi Redmi Note 12R</u></a></li>
+<li><a target="_blank" rel="noopener" href="https://windows11.techidaily.com/unlocking-power-settings-for-cpu-state-insights/"><u>Unlocking Power Settings for CPU State Insights</u></a></li>
+</ul></div>
+
 
         </div>
 
@@ -966,11 +934,11 @@
         <li><strong>Title:</strong> Solved Microsoft Excel 2000 File Error The document cannot be saved</li>
         <li><strong>Author:</strong> Ian</li>
         <li><strong>Created at
-                :</strong> 2024-09-23 06:01:46</li>
+                :</strong> 2025-01-17 19:43:27</li>
         
             <li>
                 <strong>Updated at
-                    :</strong> 2024-09-25 09:38:08
+                    :</strong> 2025-01-22 09:33:53
             </li>
         
         <li>
@@ -1018,13 +986,13 @@
                     <div class="article-prev border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="prev"
                         rel="prev"
-                        href="/sign-dot-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"
+                        href="/unveiling-the-changes-how-windows-11-transforms-the-classic-task-manager/"
                         >
                             <span class="left arrow-icon flex justify-center items-center">
                                 <i class="fa-solid fa-chevron-left"></i>
                             </span>
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Sign .dot file Documents Online for Free</span>
+                                <span class="post-nav-title-item">Unveiling the Changes: How Windows 11 Transforms the Classic Task Manager</span>
                                 <span class="post-nav-item">Prev posts</span>
                             </span>
                         </a>
@@ -1034,10 +1002,10 @@
                     <div class="article-next border-border-color shadow-redefine-flat shadow-shadow-color-2 rounded-medium px-4 py-2 hover:shadow-redefine-flat-hover hover:shadow-shadow-color-2">
                         <a class="next"
                         rel="next"
-                        href="/simple-ways-to-get-lost-videos-back-from-oppo-a2-by-fonelab-android-recover-video/"
+                        href="/solutions-to-repair-corrupt-excel-file-2000-stellar-by-stellar-guide/"
                         >
                             <span class="title flex justify-center items-center">
-                                <span class="post-nav-title-item">Simple ways to get lost videos back from Oppo A2</span>
+                                <span class="post-nav-title-item">Solutions to Repair Corrupt Excel File 2000 | Stellar</span>
                                 <span class="post-nav-item">Next posts</span>
                             </span>
                             <span class="right arrow-icon flex justify-center items-center">
