@@ -1,7 +1,7 @@
 ---
 title: Solved Microsoft Excel File Error The document cannot be saved | Stellar
-date: 2024-09-17T21:55:23.971Z
-updated: 2024-09-24T03:30:11.532Z
+date: 2025-01-18T01:02:25.724Z
+updated: 2025-01-21T18:40:53.647Z
 tags: 
   - repair
   - repair excel
@@ -68,6 +68,10 @@ Figure 2 – Component Services Settings
 - **Default Impersonation Level**: Identify
 
 ![My Computer Properties](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/My-Computer-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure 3 – Illustrates My Computer Properties
 
@@ -206,6 +210,10 @@ If you are able to save the file without any issue, then this means that the err
 
     ![Add-ins Window](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/errorsweredetected/add-ins-window.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **_Note_**_: Disabling add-ins does not remove them from the system. To remove them permanently, you need to uninstall them._
 
 ### **Method 2: Check the Excel File Name**
@@ -260,15 +268,16 @@ The “Errors were detected while saving Excel” issue can also occur if the Ex
  However, sometimes, the Open and Repair utility fails to fix the file if it is severely corrupted or large-sized. In such a case, you can take the help of a third-party Excel repair software, such as **[Stellar Repair for Excel.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** The tool performs a comprehensive scan of the corrupted Excel file to fix the issues and recover all the items from the file without changing the original formatting. It can recover pivot tables, charts, images, engineering formulas, etc. The tool is compatible with Windows 11/10/8.1/8/7. You can download the free trial version of the tool to evaluate its functionality.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  **Closure**
 
 Many Excel users reported facing the situation when they are saving the Excel file. You can check the file’s compatibility to fix the “Errors were detected while saving Excel” issue. If you are getting this error in a Macro-enabled file then you can try deleting the VBA project from a document to resolve the issue. However, deleting the entire VBA code cannot be a better solution as it can lead a data loss in the Project you are working on. In the above article, you have learned the reasons behind the issue and discovered how to fix the error. Follow the methods and if none of them works then try using Stellar Repair for Excel. It is an advanced tool that can quickly repair corruption in Excel worksheets at any level. It lets you restore the corrupted components from the corrupted file without removing the existing data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top 5 Ways to Fix Excel File Not Opening Error
 
@@ -331,13 +340,6 @@ When you launch your Excel file, the file association ensures that the Excel app
 
 ![Set Program Associations](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-program-associations-06.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Disable Add-Ins
 
 Many people install third-party add-ins to enhance the application’s functionality. Sometimes, these add-ins can create an issue. Follow the below-mentioned steps to disable the problem creating add-ins:
@@ -351,6 +353,10 @@ Many people install third-party add-ins to enhance the application’s functiona
 - Herein, select the **COM Add-ins** option from the dropdown list. Click **Go.**
 
 ![Select Com Addins](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/Select-Com-Addins-08.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In the COM Add-ins window, uncheck all the boxes to disable the add-ins. Click **OK.**
 
@@ -406,13 +412,6 @@ To know how the software works, see the video below:
 ## Conclusion
 
 Before you proceed with resolving the Excel file not opening error, try to find out the root cause of this error. If you know the real reason, you can try the method right away. If the reason for the error is corruption in the Excel file, the best option is to repair the file using a professional Excel repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Data Disappears in Excel - How to get it back
 
@@ -601,13 +600,6 @@ Sometimes, run-time errors might arise because of incorrect security settings. T
 
 ![Macro Settings in Microsoft Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/09/macro-settings.png)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **OK**.
 
 ### **Run Open and Repair Tool**
@@ -652,13 +644,6 @@ Unable to Open an Excel File Due to Invalid Extension?
 
 ![Unable-to-Open-an-Excel-File-Due-to-Invalid-Extension](https://www.stellarinfo.com/public/image/catalog/usecase/excel-repair/Unable-to-Open-an-Excel-File-Due-to-Invalid-Extension.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You may face an error - "Excel cannot open the file .xlsx” in Excel 2021, 2019, 2016, etc., leading to data loss. This error occurs when you try to open corrupt Excel file or an invalid file format. Using the correct extension can resolve the issue, if there is no corruption. However, you need an Excel repair tool if the file is corrupt. Stellar Repair for Excel can repair the corrupt file and recover all objects in intact form.
 
 [_Learn More_ ![arrow](https://www.stellarinfo.com/public/image/catalog/v6/arrow.svg)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
@@ -670,13 +655,6 @@ Excel File Not Opening Due to Corruption?
 You cannot open an Excel file if it is corrupted. For example, opening an Excel file created in a lower version like Excel 2007 in Excel 2010 or later version can throw a corruption error message. Or, the file may open in a ‘protected view,’ not allowing any write operations. The Excel repair tool from Stellar provides a comprehensive solution to fix corrupt Excel files across all versions, including Excel 2021, 2019, 2016, 2013, and older.
 
 [_Learn More_ ![arrow](https://www.stellarinfo.com/public/image/catalog/v6/arrow.svg)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Excel Found Unreadable Content?
 
@@ -698,6 +676,10 @@ Stellar Repair for Excel software previously known as Stellar Phoenix Excel Repa
 [Learn More](https://www.stellarinfo.com/support/kb/index.php/article/repair-corrupt-excel-file)
 
 ![Resolves All Excel Corruption Errors ](https://www.stellarinfo.com/image/catalog/feature-icon/Excel/Resolve-All-Excel-Corruption-Errors.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Resolves All Excel Corruption Errors
 
@@ -734,10 +716,7 @@ Stellar Excel repair software helps users unaware of the Excel file location to 
 ![Stellar Toolkit for File Repair ](https://www.stellarinfo.com/image/catalog/feature-icon/Excel/Stellar-Toolkit-for-File-Repair.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Stellar Toolkit for File Repair
@@ -746,13 +725,6 @@ Stellar Toolkit for File Repair provides essential tools to repair corrupt Offic
 [Learn More](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/)
 
 HOW TO USE STELLAR REPAIR FOR EXCEL
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Screenshots & Video
 
@@ -865,6 +837,10 @@ Free download to scan and preview all recoverable Excel data.
 
 A personal macro workbook (Personal.xlsb file) is a hidden workbook in Excel that stores all macros in a single workbook. This allows you to automate processes while working in Excel. Sometimes, when recording macro codes in the personal macro workbook, you may get the message “**Personal Macro Workbook in a startup folder must stay open for recording**”. When you click on the **OK** button, it will show the “unable to record” error. This prevents you from recording the macros. Below, we’ll see the causes behind this error and discuss how to resolve this error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Causes of Unable to Record Macro Error**
 
 You may be unable to record macros in Excel due to several reasons. Let’s take a look at the possible causes that can lead to this issue.
@@ -876,6 +852,10 @@ You may be unable to record macros in Excel due to several reasons. Let’s take
 ## **Methods to Fix the “Unable to Record Macro” Error in Excel**
 
 Here are some possible solutions that can help you resolve the unable to record macro error in Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Check the Path of XLStart Folder
 
@@ -939,6 +919,10 @@ You may fail to record macros if there is corruption in the workbook. In such a 
 
 ![Open And Repair Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/open-and-repair-window.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Excel will prompt you to repair the file or extract data from it. Click **Repair** to retrieve maximum data. If the Repair option fails, then click on the Extract Data option to recover the data without formulas and values.
 
 If the Microsoft utility “Open and Repair” fails to repair the corrupted Excel workbook, then try a professional Excel repair tool such as Stellar Repair for Excel. It is an advanced tool that can easily repair severely corrupted Excel (XLSX and XLS) files. It can recover all the file items, including chart sheets, cell comments, tables, macros, formulas, etc. without impacting the properties and cell format of the Excel file.
@@ -960,5 +944,21 @@ You may receive the “unable to record” error in Excel while creating or stor
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-smiles-snorts-and-sighs-top-10-ig-meme-communities-of-the-decade/"><u>[New] Smiles, Snorts & Sighs Top 10 IG Meme Communities of the Decade</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>[New] The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-effortless-guide-to-share-your-videos-as-shorts-on-computers-and-phones-for-2024/"><u>[Updated] Effortless Guide to Share Your Videos as Shorts on Computers & Phones for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-harness-the-power-of-youtube-video-for-stunning-gif-masterpieces-for-2024/"><u>[Updated] Harness the Power of YouTube Video for Stunning GIF Masterpieces for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-nailing-the-perfect-timelapse-with-ios-devices/"><u>2024 Approved Nailing the Perfect Timelapse with iOS Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/come-eccellente-strategie-di-mixaggio-audio-video-top-3/"><u>Come Eccellente: Strategie Di Mixaggio Audio-Video Top 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-fatal-errors-encountered-by-developers-in-activisions-top-shooters/"><u>Expert Tips for Fixing Fatal Errors Encountered by Developers in Activision's Top Shooters</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-nord-ce-3-lite-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus Nord CE 3 Lite 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oppo-k11x-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo K11x phone? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-gt-neo-5-se-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme GT Neo 5 SE to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-nubia-z50-ultra-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Nubia Z50 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-t2x-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo T2x 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-poco-m6-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Poco M6 5G</u></a></li>
+</ul></div>
 

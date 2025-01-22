@@ -1,7 +1,7 @@
 ---
 title: Solved - The File is Corrupted and Cannot be Opened - Excel 2013 | Stellar
-date: 2024-09-17T08:36:51.442Z
-updated: 2024-09-23T21:27:28.179Z
+date: 2025-01-16T23:44:35.156Z
+updated: 2025-01-21T19:56:15.764Z
 tags: 
   - repair
   - repair excel
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/59a195ec28420319fea5f3f07d0383273230910a4
 **Microsoft Excel** is a widely used spreadsheet application that comes bundled with MS Office. Users tend to update the application with new security patches and features. Sometimes these updates can cause problems, and result in “**The file is corrupted and cannot be opened**” error.
 
 ![The File is Corrupt and Cannot be Opened Error Message](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/the-file-is-corrupt-and-cannot-be-opened.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure 1 – Excel File Corrupted Error Message
 
@@ -57,13 +61,6 @@ Here are a few possible solutions that you can try to fix the ‘Excel file is c
 ___
 
 ![Changing Component Services Settings](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/Changing-Component-Services-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 2 – Component Services Settings
 
@@ -107,13 +104,6 @@ Figure 6 – Uncheck Protected View Settings
 - Click ‘**OK’.** Restart the application and try opening the Excel file again.
 
 If none of the above solutions works for you, your Excel file is likely severely corrupt. To repair corrupt Excel files, you need to use advanced options like Stellar Repair for Excel tool. It repairs corrupt and damaged Excel files and helps in retrieving lost data.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Solution 3: **Use Excel File Repair Tool****
 
@@ -177,13 +167,6 @@ Microsoft [Excel may stop responding](https://tools.techidaily.com/stellardata-r
 
 ![A problem caused the MS Excel to stop working correctly](https://www.stellarinfo.com/image/catalog/article/excelnew3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Why Does Excel Keep Crashing?
 
 If Excel keeps crashing on your PC while opening a workbook, saving Excel file, scrolling or editing cells, etc., it indicates a problem with your Excel program or the Excel file.
@@ -222,6 +205,10 @@ If you are trying to access and edit or view an Excel file from a network drive,
 Excel files can grow fairly large when you start adding lots of formatting and shapes. Make sure that your system has enough RAM to run the application.
 
 ![Ensure Sufficient Memory](https://www.stellarinfo.com/image/catalog/article/excelnew5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you often work with large Excel files and complex data values& formulas, then install 64-bit versions of MS Office. It will give you an advantage of larger processing capacities and prevent Excel from crash or freeze.
 
@@ -288,6 +275,10 @@ Find and remove the faulty add-in. It can resolve the issue. To do so, follow th
 
 ![Uncheck all the check boxes](https://www.stellarinfo.com/image/catalog/article/excel11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Restart Excel and check if the issue is resolved
 -  If Excel doesn't crash or freeze anymore, open COM Add-ins and enable one add-in at a time followed by Excel restart. Then observe Excel for freeze or crash problem
 
@@ -345,6 +336,10 @@ To disable the animations in MS Excel, follow these steps:
 
 ![Disable hardware graphics acceleration](https://www.stellarinfo.com/image/catalog/article/excel14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click 'OK' to close the window and then restart MS Excel
 
 This has helped many users in fixing the Excel crash issue. If it doesn't work for you, head to the next solution.
@@ -389,6 +384,10 @@ After this, close all running applications and restart your PC
 
 Check if the crash problem with Excel is resolved. Uninstall the conflicting apps or update them. If your issue is not resolved, follow the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 10: Repair or Reinstall MS Office
 
 Repairing Office programs may also resolve Excel crash issues if caused by damaged MS Excel program or MS Office files. The steps are as follow,
@@ -426,13 +425,6 @@ Has your Microsoft Excel program stopped working or is acting strange? Excel not
 
 Figure 1 – Microsoft Excel Has Stopped Working Error Message
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Possible Causes behind ‘Microsoft Excel has Stopped Working’ Error, and Solutions Thereof**
 
 _**Note:** Several users have reported about encountering the ‘_**_Excel has stopped working’ issue on Windows 10, 8, and 7 OS_** _after installing an update for Excel (KB3118373). If you too have installed the update, then uninstall it and check if it solves the error. For detailed information, refer to this_ [link](https://docs.microsoft.com/en-us/office/troubleshoot/excel/excel-has-stopped-working-error)_._
@@ -462,19 +454,16 @@ Click on the desired tab to repair that file format.
 
 ![Select word file](https://stellarinfo.com/support/kb/images/Select-word-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
                                      _<small>Figure 2 - Illustrates Selection of single doc/.docx file or multiple files</small>_
 
 - Once the file is selected, click the **Scan** button to scan and repair the file.
 - A preview of the repaired Word file is displayed on the screen. Verify the file contents from the right pane of the preview window.
 
 ![Preview of word repair](https://stellarinfo.com/support/kb/images/preview-repaired-word-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
                                          _<small>Figure 3 - Preview of Repaired Word Document</small>_
 
@@ -541,13 +530,6 @@ The repaired file gets saved at the preferred location.
 
 ![Save ppt](https://stellarinfo.com/support/kb/images/Select-location-to-save-ppt.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
                                                     _<small>Figure 10 - Select Location to Save PPT File</small>_
 
 - Click on the **OK** button and the repaired file is saved at preferred location.
@@ -603,6 +585,10 @@ You may encounter the Compile error in hidden module due to one of the following
 
 Excel can throw the compile error while compiling the code that exists in the protected module. So, first check the error and identify the hidden module that is creating the issue. You can unprotect the module. Also, ensure that you have permission to access the VBA code in the module. If the error still exists, follow the below troubleshooting methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Re-register ActiveX Control Files or mscomctl.ocx Files
 
 You can get the compile error in the Excel file, containing the VBA code related to ActiveX controls or OCX files. The ActiveX control files and OCX files (mscomctl.ocx files) are the components of Microsoft’s standard controls library. The compile error in the hidden module can occur if these files are missing. In this case, you can use the Regsvr32 tool to re-register the OCX files. The [Regsvr32](https://support.microsoft.com/en-au/topic/how-to-use-the-regsvr32-tool-and-troubleshoot-regsvr32-error-messages-a98d960a-7392-e6fe-d90a-3f4e0cb543e5) is a command-line utility to register and unregister OLE controls in the Windows registry.
@@ -630,6 +616,10 @@ You can get the compile error in the Excel file, containing the VBA code related
 ### Method 3: Rollback the Office Updates
 
 MS Office updates or upgrades may also cause the compile error in hidden module in Excel. If the error has occurred after downloading the recent Microsoft Office updates, try [reverting to the previous version](https://support.microsoft.com/en-us/topic/how-to-revert-to-an-earlier-version-of-office-2bd5c457-a917-d57e-35a1-f709e3dda841) or uninstalling the recent updates to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Unselect Missing References
 
@@ -702,6 +692,10 @@ You can get the “compile error in hidden module” when Excel detects any issu
 
 In Excel, you need to refresh the pivot table data source after adding new data. However, sometimes, while refreshing the pivot table, you may experience an error “PivotTable Report cannot Overlap.” This issue usually appears when there are multiple pivot tables in a single worksheet. It often occurs when you try to place one pivot table on top of another or if you try to set a common cell range to multiple pivot tables. However, there are many other causes associated with the error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Reasons for a pivot table report cannot overlap another pivot table report issue:**
 
 - Merged cells in a pivot table may cause the overlap issue
@@ -745,6 +739,10 @@ When the Autofit column widths option is enabled, Excel automatically resizes th
 
     ![Select Pivot Table](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivottable/select-pivot-table.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     **
 
 - In the **PivotTable Options** window, unselect **Autofit column widths on update**.  
@@ -752,19 +750,6 @@ When the Autofit column widths option is enabled, Excel automatically resizes th
     ![select autofit column widths in pivot table options](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/pivottable/select-autofit-column-widths-in-pivottable-options.jpg)
 
 - Click on the **OK.**
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **4\. Check the Workbook.RefreshAll Method**
 
@@ -807,13 +792,6 @@ AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 
 ## Methods to Fix ‘Excel AutoRecover Not Working’ Issue
 
 ### Manual Methods
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1 - Enable the 'AutoRecover' Feature if Disabled
 
@@ -873,5 +851,26 @@ To help resolve the problem of ‘AutoRecover not working’, different methods 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-revolutionize-your-editing-with-fcps-premier-tools/"><u>[New] In 2024, Revolutionize Your Editing with FCP's Premier Tools</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-2024-approved-cutting-edge-techniques-for-outstanding-tiktok-video-production-using-templates/"><u>[Updated] 2024 Approved Cutting-Edge Techniques for Outstanding TikTok Video Production Using Templates</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-farm-fantasy-a-decade-of-dirt-digging-delights/"><u>[Updated] 2024 Approved Farm Fantasy A Decade of Dirt Digging Delights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-techniques-for-more-watches-on-your-insta-vids-for-2024/"><u>[Updated] Techniques for More Watches on Your Insta Vids for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/amd-ryzen-master-overcoming-common-pitfalls-during-software-setup-and-installation/"><u>AMD Ryzen Master: Overcoming Common Pitfalls During Software Setup and Installation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-x100-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo X100 via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y55s-5g-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y55s 5G (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y100i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-storm-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Storm 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-ace-the-hd-audiovideo-experience-in-android/"><u>In 2024, Ace the HD Audio/Video Experience in Android</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/insider-secrets-how-to-skyrocket-your-follower-count-on-instagram/"><u>Insider Secrets: How to Skyrocket Your Follower Count on Instagram</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-narzo-60-pro-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://win-superb.techidaily.com/solving-network-card-problems-in-windows-with-yl-softwares-guidance/"><u>Solving Network Card Problems in Windows with YL Software's Guidance</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-infinix-zero-30-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Infinix Zero 30 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy XCover 6 Pro Tactical Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-90-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor 90</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-zte-blade-a73-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your ZTE Blade A73 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/zany-tiktok-trials-the-ultimate-unusual-game-list/"><u>Zany TikTok Trials The Ultimate Unusual Game List</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2025-01-09T18:19:05.727Z
-updated: 2025-01-15T20:48:35.565Z
+date: 2025-01-20T01:01:05.034Z
+updated: 2025-01-22T00:44:33.599Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ---
 
 ## Fix Your Windows Install When It Gets Stuck During Network Connection
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,15 +25,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  1\. Check Your Connection
 
  On the "Let's connect you to a network" screen, you'll see the names of available connections. However, if you can't connect to any of them, whether it's Wi-Fi or your wired connection, there's probably a problem with the connection itself.
 
 ![Let's connect you to a network screen during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/let-s-connect-you-to-a-network.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm that the problem lies with your Wi-Fi, not your Windows computer, try connecting your smartphone or another device to the Wi-Fi and check if you can access the internet on it. If the internet doesn't work on that device either, then it confirms that the issue resides with your Wi-Fi. The solution, in this case, is to [restart the router](https://extra-information.techidaily.com/updated-chuckle-centric-ringtone-websites-guide/). You can even contact your ISP for further assistance.
 
@@ -48,10 +44,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
  Since you're currently offline, you'll have to install Windows 11 without an internet connection. After the Windows installation is complete, you'll simply need to [restart your computer](https://instagram-clips.techidaily.com/2024-approved-15-must-use-hashtags-for-popularity-on-instagram-feed/), and upon restart, Windows will be able to connect with the network drivers again.
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
@@ -65,7 +57,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. End the Network Connection Flow Process
 
@@ -78,20 +78,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Taskmgr command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/taskmgr-command.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In Task Manager, [right-click](https://desktop-recording.techidaily.com/updated-the-art-of-recording-fun-6-techniques-to-document-minecraft-for-2024/) the "Network Connection Flow" process in the Processes tab and select "End task" from the context menu.
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
 
@@ -114,22 +114,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-solutions.techidaily.com/guilty-gear-strive-release-deferred-exploring-the-causes-behind-the-decision/"><u>'Guilty Gear Strive' Release Deferred: Exploring the Causes Behind the Decision</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-decoding-canvas-best-kept-secrets-for-stunning-images/"><u>[New] Decoding Canva's Best-Kept Secrets for Stunning Images</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-mastering-live-broadcasts-obs-tips-for-youtube-and-twitch-for-2024/"><u>[New] Mastering Live Broadcasts OBS Tips for YouTube & Twitch for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-elevate-your-channel-with-these-top-11-budget-friendly-tools/"><u>2024 Approved Elevate Your Channel with These Top 11 Budget-Friendly Tools</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/enhancing-stability-solutions-for-continuous-play-of-fall-guys-on-personal-computers/"><u>Enhancing Stability: Solutions for Continuous Play of Fall Guys on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-solutions-optimize-your-gameplay-and-enjoy-seamless-performance/"><u>Forza Horizon #5 Lag Solutions - Optimize Your Gameplay and Enjoy Seamless Performance</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-g310-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia G310 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-15-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-g2-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo G2 on Windows</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-gionee-f3-pro-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Gionee F3 Pro</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-motorola-edge-40-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Motorola Edge 40 Pro.</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-xs-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone XS Max screen lock</u></a></li>
-<li><a href="https://discover-helper.techidaily.com/top-rated-cross-platform-file-synchronization-tools-how-to-effortlessly-transfer-data-between-iphone-and-pc/"><u>Top-Rated Cross-Platform File Synchronization Tools: How to Effortlessly Transfer Data Between iPhone & PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719165858880-unleash-your-inner-hero-in-the-ultimate-free-game-collection/"><u>Unleash Your Inner Hero in The Ultimate Free Game Collection!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-ios-175s-hidden-feature-resurrecting-deleted-photos-expert-advice-for-users-cnet/"><u>Unveiling iOS 17.5'S Hidden Feature: Resurrecting Deleted Photos - Expert Advice for Users | CNET</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-5-traps-for-newbies-in-online-advertising-how-to-evade-them/"><u>[New] In 2024, 5 Traps for Newbies in Online Advertising – How to Evade Them</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860499283-updated-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[Updated] Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-mastering-content-and-connections-insta-follower-rise/"><u>[Updated] In 2024, Mastering Content & Connections Insta-Follower Rise</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tips-navigating-without-watching-edgenuity-content/"><u>[Updated] Pro Tips Navigating Without Watching Edgenuity Content</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sunny-side-up-videography-for-android/"><u>2024 Approved Sunny Side-Up Videography for Android</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-facebook-ads-trend/"><u>2024 Facebook Ads Trend</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhance-gameplay-boosting-fps-levels-for-a-smoother-run-of-forza-horizon-5-on-windows/"><u>Enhance Gameplay: Boosting FPS Levels for a Smoother Run of Forza Horizon 5 on Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-c65-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco C65 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-the-ultimate-avs-companion-a-deep-dive-into-audio-editing-tools-key-traits-reviews-and-options-to-consider/"><u>New The Ultimate AVS Companion A Deep Dive Into Audio Editing Tools, Key Traits, Reviews & Options to Consider</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Pro Max Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-oppo-find-n3-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Oppo Find N3 on Windows</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-hot-30-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix Hot 30 5G</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-capacity-exceeded-message-on-your-windows-pc/"><u>Troubleshooting the ‘ChatGPT Capacity Exceeded’ Message on Your Windows PC</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2013-file-error-stellar-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2013 File Error | Stellar</u></a></li>
 </ul></div>
 

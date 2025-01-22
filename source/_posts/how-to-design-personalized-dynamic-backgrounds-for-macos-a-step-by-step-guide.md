@@ -1,7 +1,7 @@
 ---
 title: "How to Design Personalized Dynamic Backgrounds for macOS: A Step-by-Step Guide"
-date: 2025-01-14T20:03:13.303Z
-updated: 2025-01-15T18:54:15.794Z
+date: 2025-01-16T18:31:29.331Z
+updated: 2025-01-21T23:52:18.206Z
 tags:
   - desktop
 categories:
@@ -32,11 +32,11 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The Equinox home page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-equinox-home-page.png) 
 
- Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Equinox works well with photos of the same location that you've shot yourself, stills grabbed from a time-lapse video, or abstract images made in Photoshop. It's also a great use for AI. You can [create images in MidJourney](https://facebook-record-videos.techidaily.com/snappy-fortnite-visuals-in-no-time-for-2024/) or [use the ChatGPT-based tool DALL-E](https://extra-guidance.techidaily.com/step-by-step-process-for-gradual-audio-fading-in-premiere-for-2024/). Lots of AI services can even [polish your existing images](https://tech-hub.techidaily.com/unveiling-the-secrets-of-ai-black-boxes-understanding-their-functionality/).
 
 ##  How to Create a Dynamic Wallpaper for macOS
 
@@ -50,15 +50,19 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![The opening screen in the Equinox app showing the types of dynamic wallpaper you can make.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-opening-screen-in-the-equinox-app-showing-the-types-of-dynamic-wallpaper-you-can-make.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Solar
 
  Click "Solar" and drag your images into the window. For each image, you will need to fill in the Altitude and Azimuth values.
 
 ![The Solar page in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-solar-page-in-equinox.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To do this, click "Calculator." In the window that opens, click and drag on the map so that the pin is over the location you want (or you can fill in the Location details manually if you have them).
 
@@ -66,15 +70,15 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
 
 ![Calculating the Azimuth and Altitude settings in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/calcutating-the-azimuth-and-altitude-settings-in-equinox.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now adjust the time and drag the updated result onto the next image, and repeat until you've done all the images.
 
  When you've done that, close the Calculator window and click "Create." This will open another window, where you can see a preview of your dynamic wallpaper. Click "Set" to apply it immediately, or "Save" to save it as a file.
 
 ![The options to Save or Set your wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/the-options-to-save-or-set-your-wallpaper-in-equinox.jpeg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Time
 
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/c6b90e18ceea22d6abdcc88044c37b5416ce971b6
  The app will automatically apply time intervals to each image in your wallpaper, spaced evenly across a 24-hour period. So, if you have four images, they will change every six hours starting at midnight.
 
 ![Set the time intervals in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/set-the-time-intervals-in-equinox.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click the times to adjust them if you want to, otherwise, select "Create." You'll now see the preview screen and can set and save your wallpaper.
 
@@ -99,7 +99,7 @@ Your browser does not support the video tag.
 ![An appearance wallpaper in Equinox.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-appearance-wallpaper-in-equinox.jpeg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For it to work, you need to go to System Settings > Appearance > Appearance > Auto so that your system cycles between light and dark modes.
@@ -125,17 +125,17 @@ Your browser does not support the video tag.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-best-approach-for-managing-cc-rights-and-usage/"><u>[New] In 2024, Best Approach for Managing CC Rights & Usage</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-clearing-up-the-darkness-tips-for-non-black-screens-with-obs/"><u>[New] In 2024, Clearing Up the Darkness Tips for Non-Black Screens with OBS</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-visionary-composer-sensory-media-masterpiece-for-2024/"><u>[Updated] Visionary Composer Sensory Media Masterpiece for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 9A Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/coding-helper-face-off-determining-if-github-copilot-outshines-chatgpt/"><u>Coding Helper Face-Off: Determining if GitHub Copilot Outshines ChatGPT</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/score-a-steal-premium-asus-notebook-goes-for-250-at-walmart-packed-with-essential-ports-tech-review/"><u>Score a Steal: Premium ASUS Notebook Goes for $250 at Walmart, Packed with Essential Ports Tech Review</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-realme-c53-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Realme C53 without backup.</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x-flip-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X Flip Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-10-film-editorwindows-1011/"><u>Windows 10 Film Editor免费下载：如何在Windows 10及11版本中制作视频</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/1728487948363-cf/"><u>シンプルな方法で、無料のツールによるCFカードバックアップとリストア</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-the-ultimate-android-resource-guide-to-download-videos-from-youtube/"><u>[New] 2024 Approved The Ultimate Android Resource Guide to Download Videos From YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-visual-harmony-crafting-chromatic-magic-for-2024/"><u>[New] Visual Harmony Crafting Chromatic Magic for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-edge-adjusting-fcpx-to-vertical-footage/"><u>[Updated] Instagram Edge Adjusting FCPX to Vertical Footage</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-targeted-ads-spreading-awareness-in-the-medical-sphere/"><u>2024 Approved Targeted Ads Spreading Awareness in the Medical Sphere</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-pro-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze Pro 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-15-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 15 When You Forget the Passcode?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-instagram-image-addition-playbook/"><u>In 2024, The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-z-fold-5-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-v27-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-16-livres-gravadores-de-video-mais-eficientes-para-o-ano-de-2024/"><u>Top 16 Livres Gravadores De Vídeo Mais Eficientes Para O Ano De 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
-date: 2025-01-13T17:09:08.700Z
-updated: 2025-01-15T18:55:20.112Z
+date: 2025-01-16T18:22:32.890Z
+updated: 2025-01-22T01:18:23.089Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Can Pending Downloads Proceed Once You Exit Windows' Sleep State?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -29,13 +29,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Does Windows 11 or Windows 10 continue your file downloads when your PC enters sleep mode? Do you want to download a file but are worried sleep mode will interrupt that download? We’ll answer those questions as well as give you some relevant tips here in this guide. Let’s dive in.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Can You Keep Downloads Running While Windows Is in Sleep Mode?
 
  The answer to that question is no. If you [put your Windows system in sleep mode](https://tech-haven.techidaily.com/speak-up-discover-how-openai-revolutionizes-chatbot-experience-with-voice-recognition-in-chatgpt/) (even by closing your laptop's lid), you can't keep downloads running. This is because when your system enters sleep mode, it disables your disk, causing your file downloads not to progress.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Keep Downloads Running While Your Laptop's Lid Is Closed
 
@@ -49,10 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Power Options' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/2-power-options-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the left sidebar, select "Choose What Closing the Lid Does".
 
 !['Choose What Closing the Lid Does' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/3-closing-lid-settings-control-panel.jpg) 
@@ -61,10 +57,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['When I Close the Lid' and 'Save Changes' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/4-do-nothing-close-lid-control-panel.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  All done! Now, you can close your laptop’s lid and your system won’t enter sleep mode. Your downloads and other tasks will continue as usual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Sleep Mode on Your Windows PC
@@ -80,7 +80,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 !["Put the Computer to Sleep" and "Save Changes" highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/6-disable-windows-sleep.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -102,21 +102,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-elevating-listener-experience-through-podcast-exits/"><u>[Updated] 2024 Approved Elevating Listener Experience Through Podcast Exits</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-the-complete-guide-to-sharing-subtitle-files-socially-for-2024/"><u>[Updated] The Complete Guide to Sharing Subtitle Files Socially for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-troubleshooting-iphone-camera-failing-to-autofocus/"><u>[Updated] Troubleshooting iPhone Camera Failing to Autofocus</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-xbox-gameplay-perfect-screen-recording-guide-for-2024/"><u>[Updated] Xbox Gameplay Perfect Screen Recording Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/facing-issues-with-chatgpt-implement-these-5-straightforward-fixes-to-resume-your-interaction/"><u>Facing Issues With ChatGPT? Implement These 5 Straightforward Fixes to Resume Your Interaction!</u></a></li>
-<li><a href="https://techidaily.com/fix-desktop-icons-gone-astray-on-windows-11-now-resolved/"><u>Fix Desktop Icons Gone Astray on Windows 11 - Now Resolved</u></a></li>
-<li><a href="https://techidaily.com/fix-it-right-away-tackling-the-problem-of-itunes-and-iphone-connection-failure-due-to-invalid-response-errors/"><u>Fix It Right Away: Tackling the Problem of iTunes and iPhone Connection Failure Due to Invalid Response Errors</u></a></li>
-<li><a href="https://techidaily.com/fixing-persistent-latency-how-to-resolve-windows-compatible-wireless-keyboard-delays/"><u>Fixing Persistent Latency: How to Resolve Windows-Compatible Wireless Keyboard Delays</u></a></li>
-<li><a href="https://techidaily.com/fixing-unsafe-connection-warnings-for-your-website-in-google-chrome/"><u>Fixing Unsafe Connection Warnings for Your Website in Google Chrome</u></a></li>
-<li><a href="https://techidaily.com/get-error-this-computer-does-not-meet-the-minimum-requirement-for-installing-software-when-installing-intel-graphics-driver/"><u>Get Error “This Computer Does Not Meet the Minimum Requirement for Installing Software.” When Installing Intel Graphics Driver</u></a></li>
-<li><a href="https://techidaily.com/get-your-free-updated-dell-driver-packs-for-optimal-performance-on-windows-11/"><u>Get Your Free Updated Dell Driver Packs for Optimal Performance on Windows 11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-show-fps-in-csgo-quick-and-easy/"><u>How to Show FPS in CS:GO | Quick & Easy</u></a></li>
-<li><a href="https://win-remarkable.techidaily.com/icloud-setup-error-on-windows-resolving-installation-issues/"><u>ICloud Setup Error on Windows - Resolving Installation Issues</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-the-insider-features-of-zoom-software-for-windows-11/"><u>In 2024, Navigating the Insider Features of Zoom Software for Windows 11</u></a></li>
-<li><a href="https://article-tips.techidaily.com/streamline-your-creative-process-with-instagrams-audio-features-for-2024/"><u>Streamline Your Creative Process with Instagram's Audio Features for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ynamics-behind-t-series-profit-on-youtube/"><u>The Dynamics Behind T-Series' Profit on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-the-key-elements-in-achieving-proficient-interview-performance/"><u>[New] 2024 Approved The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-avoid-oversaturated-greenscreen-effective-strategies-for-mac-editors/"><u>[Updated] In 2024, Avoid Oversaturated Greenscreen Effective Strategies for Mac Editors</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-tech-jest-crafter/"><u>[Updated] Tech Jest Crafter</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-funnyframe-easy-memes-no-stress/"><u>2024 Approved FunnyFrame Easy Memes, No Stress</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficiently-managing-extraneous-tasks-on-windows/"><u>Efficiently Managing Extraneous Tasks on Windows</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-1-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-a2plus-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi A2+ Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-13-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 13? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-itel-a60s-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Itel A60s FRP</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721462618674-iphone-text-message-woes-fix-incoming-mms-from-android-devices-now/"><u>IPhone Text Message Woes? Fix Incoming MMS From Android Devices Now!</u></a></li>
+<li><a href="https://techidaily.com/sign-excel-2007-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign Excel 2007 Online for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-pova-5-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Pova 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-se-2020-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone SE (2020) | Stellar</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-zte-blade-a73-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on ZTE Blade A73 5G</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-motorola-g24-power-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Motorola G24 Power password or pattern lock</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro/"><u>Updated In 2024, How to Find Free Sites for Sound Effect and Add Them in Final Cut Pro</u></a></li>
+<li><a href="https://techidaily.com/vivo-x-fold-2-video-recovery-recover-deleted-videos-from-vivo-x-fold-2-by-fonelab-android-recover-video/"><u>Vivo X Fold 2 Video Recovery - Recover Deleted Videos from Vivo X Fold 2</u></a></li>
 </ul></div>
 

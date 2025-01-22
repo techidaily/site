@@ -1,7 +1,7 @@
 ---
 title: Solutions to open Excel Read Only Documents | Stellar
-date: 2024-09-18T09:09:45.594Z
-updated: 2024-09-23T21:01:25.629Z
+date: 2025-01-19T18:00:19.123Z
+updated: 2025-01-22T01:07:48.512Z
 tags: 
   - repair
   - repair excel
@@ -112,6 +112,11 @@ If none of the solutions worked, the Excel workbook could be damaged or corrupt.
 Sometimes, the 'Excel cannot open read-only documents' error can be resolved by a simple restart. But if it doesn't work, you can follow the solutions discussed in this article to resolve the 'Excel cannot open read-only documents' issue.  However, if the issue is caused due to a damaged or corrupt Excel workbook, these methods may not work. In such a case, you can use Excel's inbuilt repair utility, i.e., **Open and Repair,** or install Stellar Repair for Excel software recommended by **MVPs** and **industry experts** to fix all kinds of problems with MS Excel workbooks.
 
 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Excel Run Time Error 1004
 
 **Summary:** Run-time errors are windows-specific issues that occur while the program is running. This blog will teach you how to fix Excel run-time error 1004. In addition, you’ll learn about an Excel repair tool that can help fix the error 1004 if it occurs due to corruption in Excel files.
@@ -127,13 +132,6 @@ The run time error 1004 usually occurs when you run a VBA macro with the Legend 
 ## **Ways to Fix Excel Run-Time Error 1004?**
 
 Try the below workarounds to fix Excel run-time error 1004:
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Create a Macro to Reduce Chart Legend Font Size**
 
@@ -243,6 +241,10 @@ Now you know the Excel run-time error 1004, its cause, and solutions. Follow the
 
 Several Microsoft Excel users have reported encountering the ‘Excel file not opening’ error when opening their Excel file. There are several reasons that may cause this error. In this post, we’ll be discussing the reasons that may lead to the ‘Excel file not opening’ error and the top 5 ways to fix this error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Does the ‘Excel File Not Opening’ Error Appear?
 
 Following are some possible causes that may result in the ‘Excel file not opening’ error:
@@ -296,6 +298,10 @@ When you launch your Excel file, the file association ensures that the Excel app
 
 ![Set Program Associations](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/set-program-associations-06.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Disable Add-Ins
 
 Many people install third-party add-ins to enhance the application’s functionality. Sometimes, these add-ins can create an issue. Follow the below-mentioned steps to disable the problem creating add-ins:
@@ -329,6 +335,10 @@ Sometimes the issue is not with your Excel file. Instead, the reason for the err
 - Find the MS Office program in the list of applications.
 
 ![locate Microsoft Office in the list](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/10/locate-Microsoft-Office-in-the-list-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Right-click on it and select **Change**.
 
@@ -439,6 +449,10 @@ Sometimes, you can get the error if you don’t have sufficient permissions to o
 
 ![Right Click on Excel file and click on Properties](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/go-to-folder-and-select-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the **Properties** window, click the **Securities** option and select **Edit.**
 
 ![In Properties, Go to the Security Tab and click on Edit.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/click-security-and-then-click-edit-option.jpg)
@@ -486,6 +500,10 @@ The [Open and Repair utility may fail](https://tools.techidaily.com/stellardata-
 
 You can encounter the “File format and extension of \[filename\] don’t match” error due to different reasons. To resolve the issue, you can check the file extension, permissions, protected settings, etc. If you suspect the error has occurred due to corruption in the Excel file, you can try repairing the Excel file using the Open and Repair tool. If nothing works for you, then try [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It can repair highly damaged Excel files and recover all the data while preserving the file properties and cell formatting. The tool can help you fix all the common corruption-related errors quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Excel Repair Tool to Repair Corrupt Excel files (.XLS/.XLSX)
 
 ## When to Use Stellar Excel File Repair Tool?
@@ -519,6 +537,10 @@ KEY FEATURES FOR REPAIR FOR EXCEL
 ### Software Important Capabilities
 
 ![Repair Large-sized Excel Files ](https://www.stellarinfo.com/image/catalog/feature-icon/Excel/Repairs-Large-Size-Excel-Files.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Repair Large-sized Excel Files
 
@@ -567,19 +589,6 @@ Stellar Toolkit for File Repair provides essential tools to repair corrupt Offic
 [Learn More](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/)
 
 HOW TO USE STELLAR REPAIR FOR EXCEL
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Screenshots & Video
 
@@ -640,6 +649,10 @@ AWARDS & REVIEWS
 
 DATA SHEET
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Technical Specifications
 
 ![product Icon](https://www.stellarinfo.com/image/catalog/feature-icon/Excel/excel-repair-product.svg)
@@ -690,13 +703,6 @@ Several Excel users have reported about experiencing ‘Excel spreadsheet disapp
 
 ![Excel blank screen](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 1 - Excel Blank Screen
 
 ## **User Instances of ‘Excel Open But Can’t See Spreadsheet’ Issue**
@@ -705,15 +711,16 @@ Figure 1 - Excel Blank Screen
 
 **Instance 2:** The user reported that _“Attempting to open a spreadsheet, either by double-clicking the file or by opening Excel, it opens but only a blank Excel window is visible. When trying to save that particular file, Excel behaves as though there is no file open at all and all the file saving options, such as save, save as, print, etc. are greyed out.”_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Causes Behind ‘Excel Open But Can’t See Spreadsheet’ Issue & the Solutions Thereof**
 
 Following are some of the possible reasons behind the ‘Excel open but can’t see spreadsheet’ issue, along with their solutions:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cause 1: Excel File is Hidden**
@@ -730,25 +737,11 @@ Note: If the ‘Hide’ tab under the View menu is greyed out, the sheet you’r
 
 ![unhide excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 2 - Unhide Excel File
 
 - A dialog box will pop-up showing the worksheet name that can be unhidden. For instance, below is an image of Unhide box that lists ‘Daily\_Reports’ spreadsheet under Unhide workbook.
 
 ![unhide excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 3 – Select and Unhide Excel Workbook
 
@@ -783,13 +776,6 @@ Figure 5 - Excel Options Window
 - In ‘Advanced’ window, locate the **General** section, and then uncheck the “Ignore other applications that use Dynamic Data Exchange (DDE)” checkbox.
 
 ![uncheck ignore DDE](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 6 - Uncheck Ignore Other Applications that use DDE
 
@@ -846,13 +832,6 @@ If repairing your Office installation fails to resolve the issue, continue to so
 ### **Cause 4: Problematic Excel and COM Add-ins**
 
 Sometimes, Excel and COM add-ins may cause Excel file open a blank grey screen problem.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Solution: Disable the Add-ins**
 
@@ -942,5 +921,18 @@ This article described the possible causes behind the ‘Excel open but can’t 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-breaking-the-internet-with-these-hysterical-stickers/"><u>[Updated] 2024 Approved Breaking the Internet with These Hysterical Stickers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-elevate-your-youtube-livestream-game-plan/"><u>[Updated] 2024 Approved Elevate Your YouTube Livestream Game Plan</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-unwinding-a-livestream-in-seconds-seven-proven-methods-for-twitch-viewers/"><u>2024 Approved Unwinding a Livestream in Seconds Seven Proven Methods for Twitch Viewers</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y100-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y100 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-apple-id-activation-lock-on-iphone-15-by-drfone-ios/"><u>How to Unlock Apple ID Activation Lock On iPhone 15?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-practices-in-selecting-premium-hdr-cameras/"><u>In 2024, Best Practices in Selecting Premium HDR Cameras</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-import-photos-and-videos-in-windows-11-deepest-secret/"><u>In 2024, How to Import Photos and Videos in Windows 11 (Deepest Secret)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-galaxy-z-flip-5-by-fonelab-android-recover-music/"><u>The way to get back lost music from Galaxy Z Flip 5</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-tecno-spark-10c-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Tecno Spark 10C without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-moto-g04-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Moto G04</u></a></li>
+</ul></div>
 

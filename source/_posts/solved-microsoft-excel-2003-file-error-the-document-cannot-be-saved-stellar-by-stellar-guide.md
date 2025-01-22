@@ -1,7 +1,7 @@
 ---
 title: Solved Microsoft Excel 2003 File Error The document cannot be saved | Stellar
-date: 2024-09-20T20:57:40.245Z
-updated: 2024-09-23T21:24:22.986Z
+date: 2025-01-19T21:59:07.228Z
+updated: 2025-01-21T21:43:47.223Z
 tags: 
   - repair
   - repair excel
@@ -69,6 +69,10 @@ Figure 2 – Component Services Settings
 
 ![My Computer Properties](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/My-Computer-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 3 – Illustrates My Computer Properties
 
 - Click ‘**OK**’ to change ‘**Default Properties**’
@@ -118,13 +122,6 @@ Figure 7 – Illustrates Selecting Corrupt Excel File in Stellar Repair for Exce
 - Select the file, and then click on **Repair**.
 
 ![select corrupt file and repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/2-select-file.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 8 – Illustrates Initiating Excel File Repair in Stellar Repair for Excel
 
@@ -220,19 +217,6 @@ You can try reverting to the previously saved version of the Excel file. Here’
 
 - Click on the **Restore** option you see at the top of the file.
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 3: Set the Calculation Option to Manual**
 
 When the calculation mode is set to automatic, Excel automatically recalculates all the formulas in the file even if you make a minor change. It can take time to load the file and stop you from parsing data in your Excel file. You can change the calculation option to manual so that Excel only recalculates when you explicitly tell the application to do it. Here are the steps:
@@ -316,9 +300,17 @@ When typing a formula or editing one, Excel provides visual cues to determine if
 - Excel does not make the opening parentheses bold. So, if you’ve inserted the last closing parentheses in a formula, you can determine if your parentheses are mismatched.
 - Excel helps identify parentheses pairs by highlighting and formatting them with the same color once you cross over them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Problem 3 – Formatting Cells in an Excel Formula
 
 When adding a number in an Excel formula, don’t add any decimal separator or special characters like $ or €. You may use a comma to separate a function’s argument in an Excel formula or use a currency sign like $ or € as part of cell references. Formatting the numbers may prevent the formula from functioning correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution – Use Format Cells Option for Formatting
 
@@ -332,7 +324,15 @@ Numbers are displayed as left-aligned in a sheet in a worksheet, and text format
 
 ![Cells Formatted as Text](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/cells-formatted-as-text-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Sometimes, you may also see an apostrophe in the cells or green triangles in the top-left corner of all the cells when numbers in those cells are formatted as Text.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution – Do Not Format Numbers as Text
 
@@ -367,6 +367,10 @@ The fix to this issue is pretty simple. You need to look for extra space before 
 - When you refer to other worksheets with spaces or any non-alphabetical character in their names, enclose the names in ‘single quotation marks’. For example, an external 5reference to cell A2 in a sheet named Data enclose the name in single quotes: **‘Data’!A1**.
 - You may see the formula instead of the result if you have accidentally clicked the ‘Show Formulas’ option. So, click on the problematic cell, click on the Formula tab, and then click Show Formulas.
 - If you’re getting an error “Excel found a problem with one or more formula references in this worksheet”, find solutions to fix the error [here](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -478,6 +482,10 @@ If you have this utility by your side, you don’t need to think twice about any
 
 [![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/image-56.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What customer says about the Excel Repair Software?**
 
 [**Spiceworks**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
@@ -491,13 +499,6 @@ If you have this utility by your side, you don’t need to think twice about any
 ## **Conclusion**
 
 **Excel Pivot Table corruption** may occur due to any unexpected errors or reasons. This can lead to inaccurate observation in data analysis and also cause data loss if not fixed quickly. However, you can prevent data loss due to problems caused by **Pivot Table corruption** by keeping a backup of all your critical Excel files and fix the Pivot Table corruption by using proper tools, such as Excel file repair software, that can help you get over any Excel corruption and errors quickly.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 'Open and Repair' Doesn't Work in MS Excel
 
@@ -561,16 +562,13 @@ In this case too, there are two options to recover the data. Try to perform one,
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/New-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - From the **Available Templates** window, select **Blank workbook**.
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/12/Blank-workbook.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click **File** -> **Options**.
 - Under **Formulas**, in the **Calculation options** section, click **Manual**.
@@ -617,13 +615,6 @@ Thus, if the above methods do not yield the desired results, a quick and easy wa
 
 Though one of the above-mentioned techniques should recover Excel file if ‘_**Open and Repair’ utility doesn’t work**_, in case you’ve reached nowhere even after using them, contact Microsoft support for more help.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## [Fixed]: Freeze Panes not Working in Excel
 
 **Summary:** This blog discusses the “freeze panes not working” issue in Excel. It mentions the possible reasons behind the issue and offers workarounds and methods to fix it. If the issue is associated with corruption in the Excel file, you can use the specialized Excel repair tool mentioned in the blog to repair the affected file.
@@ -631,10 +622,7 @@ Though one of the above-mentioned techniques should recover Excel file if ‘_**
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The freeze panes feature in Excel is used to freeze the row/column headings to keep them visible while scrolling the worksheet. It is a useful feature when you’re working on a large worksheet containing data that exceeds the rows and columns on the screen. Sometimes, you notice that the ‘Excel freeze panes feature is not working’. There could be numerous factors that can trigger this issue. Let’s know the reasons for the freeze pane not working issue in Excel and how to resolve this issue.
@@ -656,13 +644,6 @@ The freeze panes feature in Excel is used to freeze the row/column headings to k
 
 The freeze panes option is available in the View bar. Sometimes, you’re unable to see the View option. It usually occurs if you are using the Excel Started version. Check and try to open the file in the advanced Excel version, which supports all the features. If you are using the advanced Excel version, then try the below workarounds to fix the freeze panes not working issue in Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Workaround 1: Exit the Cell Editing Mode**
 
 If your Excel file is switched from normal file view mode to cell editing mode, you can encounter the freeze panes not working issue. In cell editing mode, certain features in Excel, such as the freeze panes, are temporarily disabled to prevent any conflicts. You can disable cell editing mode by pressing the ESC or Enter key. Now locate the View tab and check whether the freeze pane feature is working. If not, then try the next workaround.
@@ -672,19 +653,6 @@ If your Excel file is switched from normal file view mode to cell editing mode, 
 The Excel freeze panes not working issue can also occur if your workbook is opened in Page Layout view. The Page Layout view doesn’t support freeze panes. If you select page layout, the freeze panes option gets disabled.
 
 ![Excel freeze panes not working in Page Layout view](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/08/freeze-panes-open-is-disabled.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To enable the **freeze pane** option, go to **View** and click the **Page Break Preview** tab.
 
@@ -744,6 +712,10 @@ In case of corruption in the Excel file, you can use the Open and Repair tool in
 
 If the [Open and Repair tool doesn’t work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to resolve complex file-related issues and your Excel file is severely corrupted, you can opt for a reliable third-party Excel repair tool, such as Stellar Repair for Excel. This tool can help you repair the Excel file and recover all the data with complete integrity. You can try the software’s demo version to scan the affected file and preview the recoverable data. The software is compatible with all MS Excel versions and Windows operating systems, including Windows 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Closure**
 
 The “freeze panes not working” issue in Excel can occur due to several reasons, like protected worksheet, incompatible Excel version, and incorrect cell position. Try the workarounds shared in the blog to fix the issue. If the Excel file is corrupt, you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to fix the corruption issues in the file. This tool can quickly repair the Excel file and recover all the data from the file with 100% integrity.
@@ -761,5 +733,26 @@ The “freeze panes not working” issue in Excel can occur due to several reaso
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-ballot-battlegrounds-prime-election-strategy-games/"><u>[New] Ballot Battlegrounds Prime Election Strategy Games</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-unveiled-process-how-to-save-instagram-videos-with-computermac-os/"><u>[Updated] 2024 Approved The Unveiled Process How to Save Instagram Videos with Computer/Mac OS</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-fuse-melodies-into-your-youtube-digital-realm/"><u>[Updated] Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/wmv-mod/"><u>簡単で安全なWMV変換 - 無料MODオンラインサービス</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/focusing-the-lens-detailed-film-techniques/"><u>Focusing the Lens Detailed Film Techniques</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g-5g-2023-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G 5G (2023) without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2022-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2022) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-inshot-editors-handbook-to-smoothness/"><u>In 2024, The Complete Inshot Editor's Handbook to Smoothness</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-gadgets-with-toms-hardware-experts/"><u>Mastering Gadgets with Tom's Hardware Experts</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-11-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 11 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-12-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 12 Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/subtle-sound-level-lowering-in-fl-studio/"><u>Subtle Sound Level Lowering in FL Studio</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-x50iplus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from X50i+</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-xiaomi-mix-fold-3-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Xiaomi Mix Fold 3</u></a></li>
+<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-12-pro-max-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 12 Pro Max screen lock</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-x9b-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor X9b.</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-google-pixel-7a-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Google Pixel 7a fingerprint</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/why-the-apple-watch-series-7-is-still-worth-it-over-the-hypothetical-series-10-insights-from-a-tech-blogger/"><u>Why the Apple Watch Series 7 Is Still Worth It Over the Hypothetical Series 10 - Insights From a Tech Blogger</u></a></li>
+</ul></div>
 

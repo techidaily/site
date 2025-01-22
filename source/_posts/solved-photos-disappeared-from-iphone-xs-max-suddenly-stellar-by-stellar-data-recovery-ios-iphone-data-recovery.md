@@ -1,7 +1,7 @@
 ---
 title: Solved Photos Disappeared from iPhone XS Max Suddenly | Stellar
-date: 2024-09-22T11:54:09.027Z
-updated: 2024-09-23T16:20:24.603Z
+date: 2025-01-17T18:54:34.772Z
+updated: 2025-01-21T17:38:22.113Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -112,6 +112,10 @@ The biggest advantage of using the software is that it doesn’t remove your exi
 
 ![Recover from iPhone](https://www.stellarinfo.com/screenshots/data-ios/win/1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Select the Camera Roll or Photo Stream from where the photos have disappeared and click **Next** to the start the scanning process.
 - Now preview the recoverable photos, select them, and click **Save** to restore on iPhone or computer.
 
@@ -124,6 +128,10 @@ The biggest advantage of using the software is that it doesn’t remove your exi
 When you find suddenly photos disappearing from iPhone try any of the above 7 methods to get back the lost pictures. However, of all we recommend solutions Stellar Data Recovery for iPhone software is quick and easy to use. It is also of great help when you don’t want to recover from iCloud or iTunes backup that removes the existing data on iPhone.
 
 ___
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7 Ways to Fix iTunes Error 9
 
@@ -200,13 +208,6 @@ After updating iTunes, reboot your computer and check if the iTunes error 9 is f
 
 ![iPhone in Recovery Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/06/error-9-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _iPhone in Recovery Mode_
 
 All the above methods fail to fix iTunes error 9? As last resort choose Recovery Mode to restore iPhone in iTunes. Choosing this option means you will lose all your iPhone data. Thus, first take backup in iCloud or iTunes before applying this fix.
@@ -231,13 +232,6 @@ Stellar **[iPhone data recovery software](https://tools.techidaily.com/stellarda
 
 ![Select Software Update in Settings on iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/06/error-9-3-300x266.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 _Select Software Update in Settings on iPhone_
 
 Alternatively update iPhone wirelessly, without using iTunes.  Make sure you have a continuous Internet connection. Go to Settings > General > Software Update. If an update is available, tap on Download and Install.
@@ -256,6 +250,10 @@ _One of the above methods is surely going to help you out. Also do not forget to
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Messages have been an integral part of our personal and professional lives. Losing important messages can be a nightmare. Since most Apple systems work seamlessly with cloud backups, there’s not much to worry about if the backup exists. The heavens fall flat, though, when there’s no backup.
 
 Fret not, as we have a list of top iMessage recovery software to help you get the messages back. We’ve walked the hard yard to make a list and take notes of all the available software. Then, we tested each and listed only the best 10 iMessage Recovery Software for your perusal.
@@ -263,6 +261,10 @@ Fret not, as we have a list of top iMessage recovery software to help you get th
 ## What are iMessages?
 
 iMessage is Apple’s proprietary messaging service. iMessages are a secure form of text, photo, and video messaging across Apple devices. They can only be sent from and received by an Apple device, like an iPhone, iPad, or a Mac.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Top iMessage Recovery Software
 
@@ -284,6 +286,10 @@ The best iPhone Message Recovery software, and more, are available for both Wind
 #### Steps to Recover iMessages using Stellar Data Recovery for iPhone
 
 ![Stellar Data Recovery for iPhone](https://www.stellarinfo.com/blog/wp-content/uploads/2018/02/2recover-file2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Download and install Stellar Data Recovery for iPhone to your computer. It is available for both Windows and Mac users.
 - Use your data cable to connect your Apple device to your computer.
@@ -307,6 +313,10 @@ Dr. Fone for iOS comes from the house of Wondershare, which supports a wide arra
 - Fast Data Recovery
 - Compatible with all the iPhones
 - Recover from iTunes, iCloud, as well as iPhone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. [Primo iPhone Data Recovery](https://download.cnet.com/Primo-iPhone-Data-Recovery/3000-2248_4-77477998.html)
 
@@ -424,6 +434,10 @@ Since FaceTime calls are integrated into your recent calls list on iPhone, once 
 
 Here we share various methods to restore FaceTime call history on iPhone 14, 13, 12, 11, XS, XS Max, XR, X, 8, 8 Plus, 7, 7 Plus, 6 and below versions and iPad.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to recover the lost or deleted FaceTime call history?**
 
 ### **1\. Restore FaceTime call history without iTunes/ iCloud backup**
@@ -443,26 +457,16 @@ In contrast to iTunes and iCloud backup, Stellar iPhone data recovery software l
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/recover-lost-facetime-calls-from-iPhone-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **Next**
 - Preview and choose the FaceTime calls you want to restore from the list. **Note:** All the calls marked in red color are the deleted calls
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/recover-lost-facetime-calls-from-iPhone-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click You can save the call history either on your computer or iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Recover FaceTime call history with iCloud**
 
@@ -480,25 +484,11 @@ Stellar Data Recovery for iPhone can also restore FaceTime calls from iCloud bac
 
 ![recover from iCloud Backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/recover-from-iCloud-Backup.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Select **Contacts & Call Logs** and click **Next**
 - Enter the Apple ID and password. List of all available iCloud backup files appears. Select the relevant backup of your iPhone
 - Click **Scan**
 
 ![recover from iCloud Backup 1](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/recover-from-iCloud-Backup-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click **Call History** on the left window. Preview the existing and deleted FaceTime calls. Click **Deep Scan,** if you don’t find your required calls.
 
@@ -548,6 +538,10 @@ The software protects your current data on iPhone and recovers only the call his
 
 ![Recover from iTunes Backup 1](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/Recover-from-iTunes-Backup-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Select **Contacts & Call Logs**
 - Click Next. From the list of the iTunes backup files, select the relevant iTunes backup
 
@@ -565,20 +559,10 @@ The software protects your current data on iPhone and recovers only the call his
 
 ![Restore FaceTime call history from iTunes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2019/09/Restore-FaceTime-call-history-from-iTunes.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **Restore Backup**
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Contact Apple**
@@ -609,5 +593,18 @@ The software works in all data loss situations due to deletion, jailbreak, water
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-spotting-the-top-10-covert-story-spectators-for-2024/"><u>[New] Spotting the Top 10 Covert Story Spectators for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-past-top-10-educational-history-yt-channels/"><u>[Updated] 2024 Approved Exploring the Past Top 10 Educational History YT Channels</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-and-easy-apods-episodes-access-on-gadgets/"><u>[Updated] Quick and Easy APods Episodes Access on Gadgets</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-hp-officejet-pro-8740-drivers-compatible-with-windows-11-10-and-8/"><u>Download the Latest HP OfficeJet Pro 8740 Drivers Compatible with Windows 11, 10 & 8</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edgeplus-2023-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge+ (2023) Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-tecno-spark-10c-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Tecno Spark 10C</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-realme-11-proplus-by-fonelab-android-recover-data/"><u>The way to get back lost data from Realme 11 Pro+</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/trouble-with-printer-connections-in-certain-software-heres-what-yl-software-recommends/"><u>Trouble With Printer Connections in Certain Software? Here’s What YL Software Recommends!</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-meizu-21-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Meizu 21 fingerprint</u></a></li>
+</ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Solved Excel Spreadsheet Disappears after Opening
-date: 2024-09-21T16:52:17.979Z
+date: 2025-01-17T23:43:03.304Z
 tags: 
   - repair
   - repair excel
@@ -26,13 +26,6 @@ Figure 1 - Excel Blank Screen
 
 **Instance 2:** The user reported that _“Attempting to open a spreadsheet, either by double-clicking the file or by opening Excel, it opens but only a blank Excel window is visible. When trying to save that particular file, Excel behaves as though there is no file open at all and all the file saving options, such as save, save as, print, etc. are greyed out.”_
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Causes Behind ‘Excel Open But Can’t See Spreadsheet’ Issue & the Solutions Thereof**
 
 Following are some of the possible reasons behind the ‘Excel open but can’t see spreadsheet’ issue, along with their solutions:
@@ -57,18 +50,15 @@ Figure 2 - Unhide Excel File
 
 ![unhide excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 3 – Select and Unhide Excel Workbook
 
 - Click **OK** to unhide your Excel sheet.
 
 If this fails to work, there’s a possibility that the spreadsheet window pane may have slided to one side of the visible desktop. To bring back the displayed area, click the ‘Arrange All’ option under the View tab. If the issue persists, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Cause 2: Ignore Dynamic Data Exchange (DDE) Option is Enabled**
 
@@ -86,31 +76,21 @@ Note: Skip these steps for Excel 2019 and Excel Office 365.
 
 ![Excel options](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 4 - Select Excel Options
 
 - From the left-side of the ‘Options’ window, choose **Advanced**.
 
 ![Excel Options Window](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 5 - Excel Options Window
 
 - In ‘Advanced’ window, locate the **General** section, and then uncheck the “Ignore other applications that use Dynamic Data Exchange (DDE)” checkbox.
 
 ![uncheck ignore DDE](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 6 - Uncheck Ignore Other Applications that use DDE
 
@@ -119,10 +99,7 @@ Figure 6 - Uncheck Ignore Other Applications that use DDE
 If these steps don’t work, proceed to the next workaround.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Cause 3: Issue within Office Program**
@@ -147,25 +124,11 @@ Figure 7 - Windows Settings Screen
 
 ![modify MS Office program](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 8 - Modify MS Office Program
 
 - In ‘How would you like to repair your Office programs’ dialog box, select the **Online Repair**radio button, and then click the **Repair**
 
 ![repair MS Office program](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 9 - Repair MS Office Program
 
@@ -185,6 +148,10 @@ You may be asked to restart your system after completion of the repair process.
 
 If repairing your Office installation fails to resolve the issue, continue to solution 4.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cause 4: Problematic Excel and COM Add-ins**
 
 Sometimes, Excel and COM add-ins may cause Excel file open a blank grey screen problem.
@@ -197,19 +164,6 @@ Disabling the Excel and COM add-ins one at a time may help resolve the problem. 
 - From ‘Excel Options’ left-side panel, click **Add-Ins**, and then choose **COM Add-ins** from the ‘Manage’ drop-down. Click the **Go**
 
 ![COM Add-ins](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img10.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 10 - Select COM Add-ins
 
@@ -227,9 +181,17 @@ If you’re still experiencing the same problem after unchecking all the COM add
 
 If Excel can load the file, then the add-in that you disabled last leads to the problem. If turning off add-ins does not work, try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cause 5: Problem with Excel File Associations**
 
 The Excel file opening a blank screen problem may occur if the file associations are not performing correctly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution: Reset Excel File Associations**
 
@@ -263,15 +225,27 @@ If the file type is different than .xlsx, open the file in a different applicati
 - If you’re unable to find Excel, browse the Excel installation folder.
 - Select **exe** and then choose **Excel**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What Next? Use Stellar Repair for Excel to Recover Your File**
 
 If the above solutions don’t help recover your Excel file, use an Excel file repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to recover it. The software can restore the Excel spreadsheet and its components, including tables, pivot tables, charts, formulas, etc. while preserving the spreadsheet properties and formatting.
 
 [![Free download Stellar Repair for Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check out the video to recover Excel file by using Stellar Repair for Excel software.
 
 <iframe src="//www.youtube.com/embed/VAeGzHnETu0" width="640" height="360" frameborder="0"></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -292,5 +266,23 @@ This article described the possible causes behind the ‘Excel open but can’t 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-revolutionizing-receiving-a-new-paradigm-in-openings/"><u>[New] In 2024, Revolutionizing Receiving A New Paradigm in Openings</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-switching-to-grid-view-in-google-meet-chat-room/"><u>[New] In 2024, Switching to Grid View in Google Meet Chat Room</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-teaching-through-media-pro-video-editing-hacks/"><u>[New] Teaching Through Media Pro Video Editing Hacks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unravel-iphone-tricks-for-repetitive-videos-for-2024/"><u>[Updated] Unravel iPhone Tricks for Repetitive Videos for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/beginners-guide-mastering-your-first-steps-with-iphone-shortcuts/"><u>Beginner's Guide: Mastering Your First Steps with iPhone Shortcuts</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-se-2022-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone SE (2022) Space | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-nokia-c32-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C32 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-spark-20-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Spark 20 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-14-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi 14 Ultra Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-step-by-step-modify-username-in-google-meet/"><u>In 2024, Step-by-Step Modify Username in Google Meet</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-guide-to-asus-rog-gt-ac5300-a-dream-wifi-router-for-gamers-and-technology-buffs/"><u>In-Depth Guide to Asus ROG GT-AC5300 – A Dream Wifi Router for Gamers and Technology Buffs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/remote-work-revolution-discovering-the-ultimate-portable-powerhouse-the-top-rated-lightweight-laptop-for-professionals-zdnet/"><u>Remote Work Revolution: Discovering the Ultimate Portable Powerhouse - The Top-Rated Lightweight Laptop for Professionals | ZDNet</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-mastering-quick-adjustments-altering-audio-pace/"><u>Updated Mastering Quick Adjustments Altering Audio Pace</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11 & 10</u></a></li>
+</ul></div>
 

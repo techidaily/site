@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2025-01-08T18:11:06.401Z
-updated: 2025-01-15T20:05:10.120Z
+date: 2025-01-19T16:31:14.604Z
+updated: 2025-01-22T00:48:39.195Z
 tags:
   - deals
 categories:
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 * [How WSL Works on Windows 11](https://screen-sharing-recording.techidaily.com/easy-ways-to-record-steam-gameplay-2023-for-2024/)
 * [Install WSL through Windows Terminal](https://ios-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-by-drfone-ios/)
 * [The Slow Way: Enable WSL and Install a Distro](https://smart-video-creator.techidaily.com/new-blur-unwanted-parts-of-your-videos-with-these-mobile-apps/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install WSL through Windows Terminal
 
  Microsoft has made this process extremely simple on Windows 11\. You can enable the Windows Subsystem for Linux and install a Linux distribution like Ubuntu with a single command.
@@ -51,10 +51,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
 ![Right-click the Start button, then select "Terminal (Admin)."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-9.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To enable the Windows Subsystem for Linux and install Ubuntu, which is the default distribution, just run the following command:
 
 wsl --install
@@ -62,10 +58,6 @@ wsl --install
  When the process is complete, Windows will ask you to reboot your PC. Restart your computer by entering **shutdown /r /t 0** into the Terminal. You'll be able to use your Linux system after you do. (You can right-click the Start menu and click Shut Down or Sign Out > Restart to quickly reboot.)
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
@@ -84,12 +76,16 @@ wsl --install -d Debian
 ![List available Linux distributions and install one.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a3-list-distros.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once your computer has rebooted, you can launch the Linux distro that you installed from your Start menu.
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
@@ -98,6 +94,10 @@ wsl --install -d Debian
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
 
@@ -112,7 +112,7 @@ wsl --install -d Debian
 ![Enable the &quot;Windows Subsystem for Linux&quot; option and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b1-install-wsl.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you do, open the Microsoft Store app and search for the Linux distribution that you want to use. For example, you might search for "Ubuntu."
@@ -140,22 +140,20 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expert-picks-of-premium-timelapse-capture-software/"><u>[New] 2024 Approved Expert Picks of Premium Timelapse Capture Software</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-design-innovators-club-exclusive-free-text-psdfree/"><u>[Updated] 2024 Approved Design Innovators Club Exclusive Free Text PSDFree</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-dynamo-craft-your-content-empire/"><u>[Updated] In 2024, Channel Dynamo Craft Your Content Empire</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-inside-the-score-understanding-aspect-ratios-for-video-success/"><u>[Updated] In 2024, Inside The Score Understanding ASPECT RATIOS for Video Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-alternatives-3-best-video-sharing-sites-for-2024/"><u>[Updated] YouTube Alternatives 3 Best Video Sharing Sites for 2024</u></a></li>
-<li><a href="https://win-web3.techidaily.com/how-to-optimally-transfer-your-hard-drive-data-to-a-virtualbox-vm/"><u>How to Optimally Transfer Your Hard Drive Data to a VirtualBox VM</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-with-a-mask-on-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max with a Mask On</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-windows-10/"><u>How to Update Windows 10</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-poco-m6-5g-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Poco M6 5G Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/lost-gmail-password-recover-it-with-these-2022-verification-tips/"><u>Lost Gmail Password? Recover It with These 2022 Verification Tips</u></a></li>
-<li><a href="https://techidaily.com/mastering-control-over-your-pc-preventing-unwanted-windows-10-updates-forever/"><u>Mastering Control Over Your PC: Preventing Unwanted Windows 10 Updates Forever</u></a></li>
-<li><a href="https://techidaily.com/navigate-with-confidence-and-cut-costs-take-advantage-of-our-official-2n04-driver-easy-promo-offer-save-20-today/"><u>Navigate with Confidence & Cut Costs: Take Advantage of Our Official 2N04 Driver Easy Promo Offer - Save 20% Today</u></a></li>
-<li><a href="https://techidaily.com/overcoming-sleep-failure-on-windows-10-an-effective-guide/"><u>Overcoming 'Sleep Failure on Windows 10': An Effective Guide</u></a></li>
-<li><a href="https://techidaily.com/overcoming-challenges-in-windows-10-installation-process/"><u>Overcoming Challenges in Windows 10 Installation Process</u></a></li>
-<li><a href="https://techidaily.com/overcoming-the-error-how-to-address-a-missing-cddvd-drive-device-driver-issue/"><u>Overcoming the Error: How To Address a Missing CD/DVD Drive Device Driver Issue</u></a></li>
-<li><a href="https://techidaily.com/quick-and-efficient-methods-for-screenshotting-with-asus-laps/"><u>Quick and Efficient Methods for Screenshotting with ASUS Laps</u></a></li>
-<li><a href="https://driver-error.techidaily.com/win10-taskmgr-dealing-with-full-disk/"><u>Win10 TaskMgr: Dealing with Full Disk</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy-for-2024/"><u>[New] Anonymous Artifacts Auction-2023 The Quest for Digital Secrecy for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tep-inside-the-ultimate-list-of-immersive-youtube-vr-content-for-2024/"><u>[New] Step Inside The Ultimate List of Immersive YouTube VR Content for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-discreetly-streaming-top-8-video-tools-of-the-year-2023-for-2024/"><u>[Updated] Discreetly Streaming Top 8 Video Tools of the Year, 2023 for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-reimagining-time-flow-a-thorough-2024-app-review/"><u>[Updated] Reimagining Time Flow A Thorough 2024 App Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-visualizing-perfection-our-1-10-camera-lens-picks-for-amazing-photography/"><u>2024 Approved Visualizing Perfection Our #1-10 Camera Lens Picks for Amazing Photography</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edgeplus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge+ (2023) Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2v-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2V in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x50-gt-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X50 GT Screen Black But Still Works? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-troubles-discover-how-to-prevent-minecraft-dungeon-crashes/"><u>PC Troubles? Discover How to Prevent Minecraft Dungeon Crashes</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-following-twitpic-rules/"><u>Streamline Your Content Following Twitpic Rules</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-a15-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy A15 4G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-razr-40-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Razr 40</u></a></li>
+<li><a href="https://driver-error.techidaily.com/windows-1011-sm-bus-controller-error-fix/"><u>Windows 10/11: SM Bus Controller Error Fix</u></a></li>
 </ul></div>
 

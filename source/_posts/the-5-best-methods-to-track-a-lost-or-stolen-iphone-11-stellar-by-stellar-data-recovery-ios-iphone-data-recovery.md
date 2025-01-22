@@ -1,7 +1,7 @@
 ---
 title: The 5 Best Methods to Track a Lost or Stolen iPhone 11 | Stellar
-date: 2024-09-20T20:04:33.556Z
-updated: 2024-09-23T20:39:01.779Z
+date: 2025-01-20T22:06:01.811Z
+updated: 2025-01-21T17:57:44.019Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -27,6 +27,10 @@ Losing an iPhone (and for that matter any smartphone) is tormenting. Besides the
 
 So, as soon as you discover that your iPhone has been stolen or lost, first, try to track the location of your missing device and lock it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to track a lost or stolen iPhone?**
 
 ### **Try out the following methods**
@@ -38,13 +42,6 @@ So, as soon as you discover that your iPhone has been stolen or lost, first, try
 5. Use **location-tracking apps**
 
 ![tack lost iPhone- Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/11/iPhone-stolen-infographic.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **<u>Method 1: Use Find My iPhone</u>**
 
@@ -64,6 +61,10 @@ If **Find My iPhone** is enabled on your stolen iPhone, you can do the following
 - Play sound (if your iPhone is nearby, you can trace it with sound)
 - Activate ‘Lost Mode’ (this locks your device and still tracks it)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **What does Lost Mode do to your device?**
 
 - Remotely locks your device
@@ -79,16 +80,13 @@ Choosing to erase the iPhone remotely deletes the complete data from it.
 
 Use a trusted and safe data recovery solution such as **[Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)** [](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)to restore lost files from iCloud. The software allows the recovery of specific data rather than recovering the entire data.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  **<u>Method 2: Track iPhone through Family Sharing</u>**
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/11/a.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you have set up **Family Sharing,** use it to track your iPhone. Family Sharing helps the members to know each one’s device location. Ask another member in the Family Sharing group to trace your iPhone via the Find My iPhone app. The member can also sign into iCloud.com to locate the missing iPhone.
 
@@ -102,12 +100,20 @@ Note: The iPhone’s last known location remains only for one day. In case your 
  |
 | --- |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **What to do when ‘Find My iPhone’ is NOT enabled or the missing iPhone is offline for more than one day?**
 
 - Change your Apple ID passwords to prevent anyone from accessing your data.
 - Change your social media and other Internet account passwords like Gmail, Twitter, Facebook, Instagram, etc.
 - Report the device as missing to the authorities.
 - Report your network carrier to disable the services like calls, messages, or data use.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **<u>Method 3: Use Google Timeline to find lost iPhone</u>**
 
@@ -134,6 +140,10 @@ Visit <photos.google.com/>. Check, if any new photos were uploaded and view thei
 
 If you have installed any location-tracking app such as GPS Location Tracker, CocoSpy Cell Phone Tracker, or iTrack on your missing device, use it to track the lost or stolen iPhone. These apps share the real-time location of your device on your computer or other connected devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 Apple’s **Find My iPhone** feature is the best way to track the location of a stolen or missing device. If **Find My iPhone** is not enabled you can try Google Timeline or Google Photos. Other than these methods, third-party apps can also help track a lost iPhone, but only if you have installed them before the phone was lost.
@@ -143,13 +153,6 @@ Nevertheless, ensure that you copy the iCloud backup of the stolen iPhone before
 A smarter way is to filter out the data that you want to keep, with the help of Stellar Data Recovery for iPhone.
 
 Is this post helpful? Share your experience in the comments below, how you managed to track and get back your stolen iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How To Recover Whatsapp Chat History From iPhone
 
@@ -169,6 +172,10 @@ Losing the chat history which also contains your priceless photos, videos, and a
 ![How To Recover Whatsapp Chat History From iPhone](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/Capture.jpg)
 
 ![HOW TO RECOVER WHATSAPP CHAT HISTORY FROM IPHONE](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1- First of all, make sure that you have created a backup of all your WhatsApp chats and data on iCloud. In order to check that, go to the WhatsApp settings and check it on the Chat Backup present in the Chats.  
 2- Next, uninstall the existing WhatsApp and then reinstall it again from the app store and log in with your number. When you log in, a dialogue box will appear asking you to backup the chats: click on the confirm button to proceed.
@@ -191,13 +198,6 @@ Losing the chat history which also contains your priceless photos, videos, and a
 
 After a wait of 5-10 minutes, the lost data will be saved within form of a HTML page which can be opened using any browser.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Restore Deleted WhatsApp Messages from iTunes Backup**
 
 ![HOW TO RECOVER WHATSAPP CHAT HISTORY FROM IPHONE](https://www.stellarinfo.com/blog/wp-content/uploads/2017/08/10.jpg)
@@ -211,16 +211,7 @@ If you face any difficulty to [recover your data from iTunes backup](https://www
 ![Stellar Data Recovery for iPhone- Recover WhatsApp Chats](https://www.stellarinfo.com/blog/wp-content/uploads/2018/04/iTunes-backup-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Restore Deleted WhatsApp Messages from iCloud Backup**
@@ -239,13 +230,6 @@ If you face any difficulty to [recover your data from iCloud](https://www.stella
 ## **C**onclusion
 
 Losing chats and other data from WhatsApp may lead to a situation of despair. Therefore, to ease you off your worries, the above simple steps will help restore all your chats as well as your lost photos, audio, and videos from your iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Recover Deleted Photos, Videos & Music Files from iPhone
 
@@ -371,6 +355,10 @@ Figure: Restore from Backup in iTunes
 
 In case iTunes could not connect to iPhone and shows value is missing error, learn [how to fix and connect to iTunes](https://www.stellarinfo.com/blog/how-to-fix-itunes-could-not-connect-to-this-iphone-the-value-is-missing/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Recover lost iPhone data after iOS update using iCloud**
 
 All iOS device users have iCloud backup advantage. If, after the iOS 16/15/14/13/12 update, your iPhone contacts, Camera Roll, notes, messages, etc., are missing, recover them using the iCloud backup.
@@ -387,13 +375,6 @@ However, this method resets your device, and all existing data gets deleted. Thi
 - In the **Apps & Data** screen, tap **Restore from iCloud Backup.**
 
 ![](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/image-27-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Enter **Apple ID** to sign in to your iCloud account.
 - Select the recent backup before the iOS update and click **Restore**. All your missing data will be back on iPhone.
@@ -444,13 +425,6 @@ The software is compatible with series of iPhone 14 / 13 / 12 / 11 / XS / XR / X
 
 You can also choose the module [Recover from iCloud backup](https://www.stellarinfo.com/blog/restore-iphone-from-icloud-backup/) or Recover from iTunes backup, if required.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 Sometimes after an iOS update, you may not be able to restore iPhone using iTunes or iCloud backups. In such a situation, use Stellar Data Recovery for iPhone. The software ensures you recover all data lost due to an iOS update.
@@ -460,6 +434,10 @@ The professional iOS data recovery software thoroughly scans your iPhone restori
 You can download the free trial of the software and preview the recovered iPhone data.
 
 [![iPhone Data Recovery](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/) [![iPhone Data Recovery Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -507,5 +485,23 @@ For [recovering imessages](https://www.stellarinfo.com/blog/best-imessage-recove
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-image-innovation-at-your-fingertips-applications-for-photo-text-adjustments/"><u>[New] 2024 Approved Image Innovation at Your Fingertips Applications for Photo Text Adjustments</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-impressive-appraisal-and-other-suggestions-for-2024/"><u>[New] Impressive Appraisal & Other Suggestions for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-the-art-of-package-revelation-amplifying-initial-impressions/"><u>[Updated] 2024 Approved The Art of Package Revelation Amplifying Initial Impressions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/webmmov-movavi/"><u>將WEBM格式自網上快速轉換成MOV影片 - Movavi最佳工具選擇</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/a-new-chapter-for-recording-tech-dive-into-the-2023-apeaksoft-update/"><u>A New Chapter for Recording Tech? Dive Into the 2023 Apeaksoft Update</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/cross-platform-success-televisions-and-facebook-collaboration-for-2024/"><u>Cross-Platform Success Televisions & Facebook Collaboration for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/descubre-las-herramientas-mas-eficientes-los-7-mejores-programas-gratuitos-de-grabacion-de-pantalla-en-windows-8/"><u>Descubre Las Herramientas Más Eficientes: Los 7 Mejores Programas Gratuitos De Grabación De Pantalla en Windows 8</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-13t-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi 13T in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-m34-5g-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy M34 5G won’t play MKV movies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/ultimate-strategies-for-flawless-srt-file-creation-for-2024/"><u>Ultimate Strategies for Flawless SRT File Creation for 2024</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Update your drivers with Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/upgrade-to-copilot-pro-or-stick-with-the-original-the-ultimate-breakdown-of-differences-and-value/"><u>Upgrade to CoPilot Pro or Stick with the Original – The Ultimate Breakdown of Differences and Value</u></a></li>
+</ul></div>
 

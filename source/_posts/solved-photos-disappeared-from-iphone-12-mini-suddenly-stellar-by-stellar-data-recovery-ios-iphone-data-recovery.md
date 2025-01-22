@@ -1,7 +1,7 @@
 ---
 title: Solved Photos Disappeared from iPhone 12 mini Suddenly | Stellar
-date: 2024-09-20T19:31:53.859Z
-updated: 2024-09-24T11:15:14.736Z
+date: 2025-01-14T23:50:14.207Z
+updated: 2025-01-21T23:27:13.100Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -34,10 +34,7 @@ If your photos suddenly disappeared from iPhone, first restart the iOS device. T
 You can check [here the steps to restart your iPhone model](https://support.apple.com/en-us/HT201559).
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 2: Restore photos from Recently Deleted folder on iPhone**
@@ -52,13 +49,6 @@ You might have accidentally deleted the photos on iPhone. Check and recover the 
 
 **Note:** Photos deleted on iPhone stay in your ‘Recently Deleted’ folder only for 30 days, after which they are permanently removed from the iOS device.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 3: Unhide photos on iPhone**
 
 Photos disappeared from iPhone can be in the hidden folder in Photos app. Simply, check the Hidden folder on your device and unhide the required photos.
@@ -68,13 +58,6 @@ Photos disappeared from iPhone can be in the hidden folder in Photos app. Simply
 - Under **Utilities** click on **Hidden** folder. In case you don’t see the ‘Hidden’ folder, go to ‘Settings’ of your iPhone. Click on ‘Photos’ and toggle on ‘Hidden Album’.
 - If you see the disappeared photos, select and click on the ‘Share’ button (the arrow icon).
 - Next, tap **Unhide** to move the pictures to their original location on iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4: Enable iCloud Photos**
 
@@ -140,6 +123,10 @@ The biggest advantage of using the software is that it doesn’t remove your exi
 
 **Note:** You can also recover the lost photos from backup by choosing [Recover from iCloud backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-deleted-lost-icloud-data) or [Recover from iTunes backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-data-from-itunes-backup), options in the software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 When you find suddenly photos disappearing from iPhone try any of the above 7 methods to get back the lost pictures. However, of all we recommend solutions Stellar Data Recovery for iPhone software is quick and easy to use. It is also of great help when you don’t want to recover from iCloud or iTunes backup that removes the existing data on iPhone.
@@ -173,10 +160,7 @@ Follow the below steps to recover lost data from iTunes backup file:
 ![Stellar Data Recovery for iPhone](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
     _Figure: Home screen of Stellar Data Recovery for iPhone_
@@ -194,10 +178,11 @@ The software lets you preview, select, recover, and also search for specific pho
 [![iPhone Data Recovery](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://cloud.stellarinfo.com/StellarDataRecoveryforiPhone-KB.exe)   [![iPhone Data Recovery Mac](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-mac-1.png)](https://cloud.stellarinfo.com/StellarDataRecoveryforiPhone-KB.dmg.zip)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Reset iPhone Without Apple Password?
@@ -206,6 +191,10 @@ The software lets you preview, select, recover, and also search for specific pho
 
 [![Buy Now](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/EN-BUY-NOW.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Buy Now")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you have forgotten your Apple ID password and you wish to reset your iPhone, then it’s going to be a difficult task. However, there are various ways you can use to factory reset your iPhone without an Apple password.
 
 In this blog post, we will explain how to reset your iPhone without password using iTunes or Finder or by using the [iPhone Eraser tool](https://www.stellarinfo.com/erase-iphone-data.php).
@@ -213,6 +202,10 @@ In this blog post, we will explain how to reset your iPhone without password usi
 ## **How to Factory Reset iPhone without a password?**
 
 Let’s explore the [methods to reset your iPhone](https://www.stellarinfo.com/blog/how-to-reset-iphone-without-losing-data/) without an Apple ID password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to Reset iPhone without a password via iTunes or Finder?**
 
@@ -234,6 +227,10 @@ To reset your iPhone without using an Apple ID password, you can use iTunes or F
 - Now, select the “**Restore** **iPhone**” option on the right pane.
 
 ![reset iPhone via iTunes - Restore iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/reset-iphone-via-itunes-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Click **Restore** to confirm and then follow the prompts to complete the restore process. This will erase all your iPhone data and install the latest iOS version.
 
@@ -258,42 +255,29 @@ Stellar Data Eraser Software is supported by all versions of iOS from the latest
 
 ![Stellar Toolkit for iPhone - Erase Data](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/Erase-iPhone-Data-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - On the **Erase iPhone Data** screen, click **Next**.
 
 ![Stellar Toolkit for iPhone - Click Next](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/Erase-iPhone-Data-1-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Next, connect the **iPhone** that you want to reset to the computer when prompted. Click **Erase**.
 
 ![Stellar Toolkit for iPhone - Click Erase](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/click-erase-in-stellar-eraser-for-iphone-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **Yes** in the **Erase Process** dialog box.
 
 ![Stellar Toolkit for iPhone - Click Yes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-select-device-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Once the iPhone is completely wiped, click **Yes** in the **Data Erase Complete** dialog box.
 
 ![Stellar Toolkit for iPhone - Data Erase Complete](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-erasing-completed-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -327,5 +311,26 @@ You can reset your iPhone without any computer by using the settings app of your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-8-virtual-backdrops-for-macbook-upgrades/"><u>[New] Best 8 Virtual Backdrops for MacBook Upgrades</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-full-review-of-the-latest-powerdirector-app-24-for-2024/"><u>[New] Full Review of the Latest PowerDirector App - '24 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-swiftly-survey-your-windows-documentation/"><u>[New] Swiftly Survey Your Windows Documentation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-free-srt-tools-the-most-reliable-high-quality-apps-listed-for-2024/"><u>[Updated] Free SRT Tools The Most Reliable, High-Quality Apps Listed for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1-simplify-your-pc-restore-with-onekey-backup-seamless-system-to-recovery-saves/"><u>1. Simplify Your PC Restore with OneKey Backup: Seamless System-to-Recovery Saves</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-easy-hdr-a-step-by-step-guide/"><u>2024 Approved Mastering Easy HDR A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-defy-2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Defy 2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-p55t-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel P55T phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-the-palette-primer-compreenasive-guide-to-coloring/"><u>In 2024, The Palette Primer Compreenasive Guide to Coloring</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/removing-blocked-app-alert-on-windows-systems/"><u>Removing Blocked App Alert on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Asus ROG Phone 7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/transparent-perspective-reviewing-recordcasts-strengths/"><u>Transparent Perspective Reviewing RecordCast's Strengths</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/unlocking-social-networks-the-pathway-to-a-facebook-profile/"><u>Unlocking Social Networks The Pathway to a Facebook Profile</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-pro-music-recovery-recover-deleted-music-from-xiaomi-14-pro-by-fonelab-android-recover-music/"><u>Xiaomi 14 Pro Music Recovery - Recover Deleted Music from Xiaomi 14 Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Security Breach Reveals Potential Risk for Cooler Master Users' Private Details
-date: 2025-01-08T20:53:10.561Z
-updated: 2025-01-15T19:56:54.591Z
+date: 2025-01-17T16:53:50.731Z
+updated: 2025-01-21T18:29:13.468Z
 tags:
   - web
 categories:
@@ -38,22 +38,26 @@ You might be familiar with Cooler Master for its PC cooling components, but the 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-high-definition-video-production-in-the-facebook-era/"><u>[New] 2024 Approved Navigating High Definition Video Production in the Facebook Era</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-best-youtube-livestreaming-screen-recorders-for-2024/"><u>[New] Best YouTube Livestreaming Screen Recorders for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-the-artists-blueprint-10-tips-for-podcast-cover-success-for-2024/"><u>[Updated] The Artist's Blueprint 10 Tips for Podcast Cover Success for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/a-deep-dive-into-gpts-default-extensions/"><u>A Deep Dive Into GPT's Default Extensions</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-free-up-iphone-12-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up iPhone 12 Pro Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Huawei P60? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-honor-x9a-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Honor X9a Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Edge 40 Neo</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revolutionize-audiophile-experience-nvidias-new-win7-driver/"><u>Revolutionize Audiophile Experience: Nvidia's New Win7 Driver</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-v30-lite-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-adding-vibrancy-easy-youtube-subscribe-animations-with-filmora/"><u>[New] Adding Vibrancy Easy YouTube Subscribe Animations with Filmora</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-digital-typography-in-after-effects-a-guide/"><u>[Updated] Digital Typography in After Effects A Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-strategies-for-adequate-lighting-in-youtube-videos/"><u>[Updated] Strategies for Adequate Lighting in YouTube Videos</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-motorola-moto-g04-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Motorola Moto G04 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-maximize-your-youtube-viewing-download-icons-via-online-and-os-specific-methods/"><u>2024 Approved Maximize Your YouTube Viewing Download Icons via Online & OS-Specific Methods</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/before-you-buy-the-5-critical-aspects-of-selecting-a-secondhand-laptop/"><u>Before You Buy: The 5 Critical Aspects of Selecting a Secondhand Laptop</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y17s-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/evaluating-ev-lifespan-a-comparative-look-to-conventional-car-years/"><u>Evaluating EV Lifespan: A Comparative Look to Conventional Car Years</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c210-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C210 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 13 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-rise-of-bard-googles-new-ai-ambition-against-chatgpt/"><u>The Rise of 'Bard': Google's New AI Ambition Against ChatGPT</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210198543-9781631596452-the-ultimate-guide-to-divination/"><u>The Ultimate Guide to Divination | Free Book</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-10-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

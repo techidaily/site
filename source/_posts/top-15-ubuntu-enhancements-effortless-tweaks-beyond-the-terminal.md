@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2025-01-13T17:02:22.836Z
-updated: 2025-01-15T17:12:21.786Z
+date: 2025-01-14T16:58:07.166Z
+updated: 2025-01-22T01:22:13.817Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 ---
 
 ## Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  Many people think that you need to use the terminal to properly control and tweak a Linux PC. While that might've been true 10 years ago, today, it's nothing more than a myth. So let's change how Ubuntu looks, feels, and operates without even opening the terminal or writing a single line of code.
 
  I'll be using the [Ubuntu 24.04 LTS](https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-find-n3-flip-by-fonelab-android-recover-data/) release in this showcase. However, the tips and steps mentioned here should also work on previous releases. That said, with time, the older versions might lose support for some of the stuff discussed here. Ubuntu 24.04 will be supported for five years and thus should still be compatible with all these tweaks and features till April 2029.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use These Six GNOME Extensions
 
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Recommended Extensions Installed in Ubuntu Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-recommended-extensions-installed-in-ubuntu-extension-manager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, let's take a quick look at each of the extensions. Starting with Dash to Panel, it transforms the dash (the iconic left-side apps panel on Ubuntu) into a panel similar to the Windows taskbar. Alternatively, you can use Dash to Dock to transform the dash into a macOS-like dock.
 
 Close 
@@ -58,6 +62,10 @@ Close
 
 ![Extensions changing the look and functionality of Ubuntu desktop](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-ubuntu-desktop-with-recommended-extensions-enabled.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can go inside the settings menu for each of these extensions to further fine-tune how they work. For example, inside ArcMenu's settings page, you can access tons of different menu layouts and granular control over how you want to style it.
 
 ![ArcMenu different menu laypouts](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-arcmenu-different-menu-laypouts.png) 
@@ -65,6 +73,10 @@ Close
  Speaking of control, Just Perfection gives you access to a ton of settings and options to fine-tune the GNOME UI elements. You can use it to enable/disable UI elements and quick settings, customize the overall styling and presentation, and even control the general behavior of the desktop environment.
 
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
@@ -76,17 +88,9 @@ Close
 
 ![Install GNOME Tweaks from App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/10-install-gnome-tweaks-from-app-store.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  GNOME Tweaks gives you control over the appearance, sound, and other aspects of the operating system. I'd encourage you to _tweak around_ with the various settings. If you want some directions, first head over to Startup Applications. It allows you to select apps to auto-start on your system as soon as you turn on your Ubuntu desktop.
 
 ![Set Startup Applications with GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/11-set-startup-applications-with-gnome-tweaks.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, head over to the "Windows" section and make these two tweaks:
 
@@ -95,19 +99,11 @@ Close
 
 ![Set Window options in GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/12-set-window-options-in-gnome-tweaks.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Finally, Change These Four Settings
 
  Your Ubuntu setup should already start feeling more special and personalized. The final touches revolve around changing some core settings to optimize the system for productivity. To start, go to Settings > Multitasking and enable "Active Screen Edges" and "Hot Corner."
 
 ![Set Hot Corner and Activie Screen Edges in GNOME Settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/13-set-hot-corner-and-activie-screen-edges-in-gnome-settings.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  With Hot Corner enabled, you can trigger the Activities Overview by quickly navigating your mouse cursor to the top-left corner of the screen. This can be handy if you have the ArcMenu running and the Activities Overview button disabled—which is how I run my system.
 
@@ -115,17 +111,21 @@ Close
 
 ![Snapping Windows to Screen Edges on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/14-snapping-windows-to-screen-edges-on-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now the next setting is in the Sound section. From here, enable "Overamplification" to increase the volume above 100%. A great way to get some extra juice out of your current speaker.
 
 ![Enable Sound Overamplication on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/15-enable-sound-overamplication-on-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Following this, head over to Settings > Apps > Default Apps and set default apps for the different things you do on your Ubuntu desktop. For instance, for emailing, I have Mailspring; for opening video and music files, I have VLC; for web links, I have Firefox; and so on.
 
 ![Setting Default Apps on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/16-setting-default-apps-on-ubuntu.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -146,20 +146,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-operate-srt-audio-on-windowsmacos-for-2024/"><u>[New] Operate SRT Audio on Windows/macOS for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-2024-approved-precision-in-broadcasting-zoom-and-fb-live-strategies/"><u>[Updated] 2024 Approved Precision in Broadcasting ZOOM & FB Live Strategies</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>[Updated] In 2024, Boosting Engagement Tailoring Backgrounds on Google Meet Devices</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-reversed-video-techniques-for-instagram-savvy-users/"><u>[Updated] In 2024, Reversed Video Techniques for Instagram Savvy Users</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-s24-ultra-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy S24 Ultra in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-note-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-1-v-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 1 V without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-nokia-g22-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Nokia G22 Is Unlocked</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/navigating-through-the-upgrade-decision-process/"><u>Navigating Through the Upgrade Decision Process</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/the-pinnacle-of-amusement-select-15-laughing-out-loud-channels/"><u>The Pinnacle of Amusement Select 15 Laughing-Out-Loud Channels</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-v27e-by-fonelab-android-recover-music/"><u>Undelete lost music from V27e</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/1726228109726-vobflv-movavi/"><u>VOB/FLVファイルの解放されたオンライン変換 - Movaviで簡単に</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 90 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-narzo-60x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Narzo 60x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-transform-your-win11-sessions-with-advanced-zoom-skills/"><u>[Updated] Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-engage-efficiently-strategies-for-surge-in-social-media-shares/"><u>2024 Approved Engage Efficiently Strategies for Surge in Social Media Shares</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-s17t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x7-ultra-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X7 Ultra without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 4G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-apple-iphone-14-plus-screen-mirroring-you-must-know-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Plus Screen Mirroring You Must Know | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-hp-laptop-screen-recording-the-best-approaches-explained/"><u>In 2024, HP Laptop Screen Recording The Best Approaches Explained</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-smart-7-hd-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Smart 7 HD working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/talent-release-form-for-filming-and-video-to-free-download/"><u>Talent Release Form for Filming and Video to Free Download</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-quintessential-guide-to-secret-story-viewing-for-2024/"><u>The Quintessential Guide to Secret Story Viewing for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-steps-for-resolving-dolby-atmos-issues-in-windows-11-and-10/"><u>Troubleshooting Steps for Resolving Dolby Atmos Issues in Windows 11 & 10</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unlock-savings-on-the-newest-macbook-air-exclusive-presidents-day-offer-with-300-discount/"><u>Unlock Savings on the Newest MacBook Air - Exclusive Presidents' Day Offer with $300 Discount !</u></a></li>
+<li><a href="https://techidaily.com/will-civi-3-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Civi 3 play AVCHD mts files?</u></a></li>
 </ul></div>
 

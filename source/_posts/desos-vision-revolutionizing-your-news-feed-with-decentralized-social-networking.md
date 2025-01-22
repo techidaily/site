@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2025-01-12T17:03:24.474Z
-updated: 2025-01-15T19:22:42.652Z
+date: 2025-01-14T20:11:22.276Z
+updated: 2025-01-22T01:42:42.638Z
 tags:
   - cutting-edge
 categories:
@@ -22,23 +22,19 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Decentralized Social, or DeSo, is a way of social networking built on open blockchain technology without a central authority that owns and operates the network, creating new opportunities for how we can use social media and giving more power to you, the user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **A Quick Note on Web2 and Web3** 
 
  For our discussion of DeSo, it's helpful to understand that legacy social media platforms and the type of interactive code that they use to host and share interactive content is often described as Web2\. The current mix of innovations happening with cryptocurrencies, [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), metaverse concepts, decentralized finance, and blockchain technology are often referred to as Web3.
 
  The biggest difference is that while Web2 technology and internet companies like Meta and Twitter are owned and operated by a central authority, Web3 technology is distributed and owned by the users who govern the protocols on which it is built such as [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) and [Solana](https://facebook-video-content.techidaily.com/new-enjoy-whole-audio-on-twitch-addressing-muted-segments-now-for-2024/).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What's a Social Graph and Why Does It Matter?** 
 
 ![Network structures](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Network-strcuture.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)_
 
@@ -49,10 +45,6 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
  The social graph used by legacy Web2 firms as we experience it can be understood like an iceberg in which we often only see the tip protruding above water while there's an enormous amount of data hidden below the surface which we may or may not be able to interact with or see. Essentially, they are choosing which parts of the iceberg to bring to the surface and allow you to interact with and see while deciding which parts to leave hidden below the water's surface. Furthermore, you don't get to know how they are making these selections for you.
 
  In Web2, central authorities have ultimate control over this trove of data, they own it, and they use it as they see fit. DeSo applications being built in Web3 are poised to bring more of the opaque aspects of our social graph above the surface so that developers and users can have more power, gain more insight, and build better systems for living and working together.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Decentralized Social Brings Power Back to the Users** 
 
@@ -74,33 +66,41 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  This effectively turns the social graph each Web2 social media company controls into a moat that they use to keep you there. If you want to go to a different platform, you have to start all over again, building a following and creating and sharing content.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Benefits of DeSo Built with an Open Social Graph** 
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Control** 
 
  Control is a major factor and point of difference between Web2 legacy social media and the Web3 version. All this newfound power can be overwhelming given the plethora of new opportunities and possibilities when working in this paradigm. The question in DeSo becomes how we balance the control and power we gain with DeSo with the ease of use and convenience of the applications we have grown accustomed to using.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Insight** 
 
  Information asymmetry in the current social graph model is the norm. Spotify or YouTube has a ton of data on us but it's hard to understand and act on it. Platforms tend to know more about us than we do. How can we use blockchain activity and the general transparency in the Web3 space not only to gain more trust but offer more insights as well? The insights discovered using an open social graph can help us understand and reflect on ourselves and our communities in new ways.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Portability** 
 
  In Web3, there's an emphasis on ownership, including your data. This means you are able to choose how you experience content and how much of yourself you reveal to a protocol. Your friends list or followers moves with you and doesn't need to be established again. This makes the applications treat the users much nicer because you can leave and are not locked into their platform based on the power or influence of their network.
 
  An open social graph allows for a social media experience that more closely resembles the native Web3 multiverse where things can connect with each other. The ability to move your friends list is quite a big change in how we understand social graphs. DeSo allows a future of social media that is not a unique universe or walled garden, but is a multiverse where things can talk to each other and interact in multi-faceted ways.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Choose Your Front-End** 
 
@@ -111,6 +111,10 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  Since developers and designers are not burdened with the heavy lifting of managing their own social graph and back end, they can instead lead with better design and focus on improving the experience for the end user.
 
  Competition between applications increases as users have more freedom to choose, fostering an ecosystem that rewards applications that provide the most value for their communities. Also, it means that not everything needs to be broad, and developers can design for niches and create use-case-specific applications
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Case Study: Lens Protocol, An Open Social Graph** 
 
@@ -129,10 +133,6 @@ _[Lens Protocol](https://lens.xyz/)_
  Community governance means that you can create new ways of controlling how an application functions, and the users have a say in the evolution of the app. For instance, when you follow someone else, you're given a "Follower NFT" which has built-in governance mechanisms, including[snapshotting and delegation](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system), which allow for sophisticated content sharing privileges or exclusive tiering of your follower list. Another example is that you can create modules with a built-in governance-managed treasury fee.
 
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
 
@@ -161,20 +161,21 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ow-to-boost-your-youtube-revenue-from-mobile-a-comprehensive-guide-for-2024/"><u>[New] How to Boost Your YouTube Revenue From Mobile - A Comprehensive Guide for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-vocal-volumes-the-most-emotional-songs-for-engagement-for-2024/"><u>[New] Vocal Volumes The Most Emotional Songs for Engagement for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-from-bright-to-deep-premiere-pro-magic/"><u>[Updated] 2024 Approved From Bright to Deep Premiere Pro Magic</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-high-end-hardware-unveiled-by-gaming-influencers/"><u>[Updated] 2024 Approved High-End Hardware Unveiled by Gaming Influencers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-leading-edge-facebook-film-archives-for-2024/"><u>[Updated] Leading Edge Facebook Film Archives for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-rise-above-the-crowd-how-to-amass-over-a-million-video-views/"><u>[Updated] Rise Above the Crowd How to Amass Over a Million Video Views</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-streamline-your-experience-free-screen-capture-software-on-windowsmac/"><u>[Updated] Streamline Your Experience - Free Screen Capture Software on Windows/Mac</u></a></li>
-<li><a href="https://techidaily.com/annual-energy-usage-how-a-modern-ai-powered-gpu-can-use-up-to-37mwh-surpassing-the-power-needs-of-over-13-million-homes/"><u>Annual Energy Usage: How a Modern AI-Powered GPU Can Use Up to 3.7MWh - Surpassing the Power Needs of Over 1.3 Million Homes</u></a></li>
-<li><a href="https://techidaily.com/build-an-advanced-computing-device-with-asrocks-deskmate-x600-and-nvidia-gpu-a-china-exclusive-opportunity-at-roughly-193-usd/"><u>Build an Advanced Computing Device with ASRock's DeskMate X600 and NVIDIA GPU – A China-Exclusive Opportunity at Roughly $193 USD</u></a></li>
-<li><a href="https://techidaily.com/exploring-innovations-with-toms-computing-chronicles/"><u>Exploring Innovations with Tom's Computing Chronicles</u></a></li>
-<li><a href="https://win-answers.techidaily.com/swfmp3/"><u>SWFオーディオ抽出手順：免費スワッファイルからMP3への変換ガイド</u></a></li>
-<li><a href="https://techidaily.com/unleashing-the-spectrum-sibolan-szbox-s69-ryzen-mini-pc-vibrant-power-rangers-hues-with-classic-hardware-value/"><u>Unleashing the Spectrum: Sibolan SZBox S69 Ryzen Mini PC - Vibrant Power Rangers Hues with Classic Hardware Value</u></a></li>
-<li><a href="https://techidaily.com/unlock-serious-savings-shop-ibuypowers-memorial-day-blowout-for-next-gen-gaming-systems/"><u>Unlock Serious Savings: Shop iBUYPOWER's Memorial Day Blowout for Next-Gen Gaming Systems</u></a></li>
-<li><a href="https://techidaily.com/unveiling-hardware-secrets-with-toms-guidance/"><u>Unveiling Hardware Secrets with Tom's Guidance</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-90-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-go-live-on-youtube-from-a-phone-no-need-for-huge-fans-yet/"><u>[New] Go Live on YouTube From a Phone, No Need for Huge Fans Yet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-swift-and-simple-mac-images-identifying-the-best-5-screenshot-methods/"><u>[Updated] In 2024, Swift & Simple Mac Images Identifying the Best 5 Screenshot Methods</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unveiling-the-best-zero-price-videochat-services-for-2024/"><u>[Updated] Unveiling the Best Zero-Price Videochat Services for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-you-ask-we-answer-answers-to-questions-related-to-filmora/"><u>2024 Approved You Ask, We Answer- Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-a59-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A59 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-f54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy F54 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-14-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 14 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-go-2023-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark Go (2023) phone? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-gastronomy-gurus-the-elite-of-food-vlogs/"><u>In 2024, Gastronomy Gurus The Elite of Food Vlogs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-audio-alteration-for-stories-and-reels-on-ig/"><u>In 2024, The Art of Audio Alteration For Stories and Reels on IG</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-infinix-hot-40-pro-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-oppo-f23-5g-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Oppo F23 5G Device</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-asus-rog-phone-8-pro-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Asus ROG Phone 8 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-moto-g04-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Moto G04</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unificazione-o-combinazione-di-piu-file-video-in-formato-mp4/"><u>Unificazione O Combinazione Di Più File Video in Formato MP4</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Tecno Pova 5 Pro | Dr.fone</u></a></li>
 </ul></div>
 

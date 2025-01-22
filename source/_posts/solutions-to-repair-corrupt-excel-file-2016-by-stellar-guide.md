@@ -1,6 +1,6 @@
 ---
 title: Solutions to Repair Corrupt Excel File 2016
-date: 2024-09-20T08:55:43.929Z
+date: 2025-01-15T01:03:03.938Z
 tags: 
   - repair
   - repair excel
@@ -29,13 +29,6 @@ Is your Excel file corrupted? And you don’t have backup of your data? There is
 - “The workbook cannot be opened or repaired by Microsoft Excel because it is corrupted.”
 - “Microsoft Excel has stopped working.”
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Reasons Behind Excel File Corruption**
 
 **The reasons for corruption in Excel file could be any of the following:**
@@ -48,15 +41,16 @@ Is your Excel file corrupted? And you don’t have backup of your data? There is
 - Large Excel files
 - Bad sectors on storage media
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Avoid Data Loss Due to Excel File Corruption?**
 
 **Excel users should follow the below precautionary measures to prevent data loss due to Excel file corruption:**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **1\. Create an Automatic Backup Copy**
@@ -69,13 +63,6 @@ When you create an Excel spreadsheet, it is advised to **Save As** your document
 
 ![Enable automatic backup by clicking Tools next to Save in the Save As window, choosing General Options, checking the Always create backup box, and clicking OK.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/general-options-1024x576.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 This will always create a backup of your Excel. If it’s deleted or corrupted at any time, it can be recovered.
 
 ### **2\. Create Recovery File at Different Time Periods**
@@ -87,13 +74,6 @@ This will always create a backup of your Excel. If it’s deleted or corrupted a
 3. Add the required minutes and location. Ensure that **Disable AutoRecover for this workbook only** box is unchecked.
 
 ![Access Excel Options from the File menu, navigate to Save, enable Save AutoRecover with specified minutes and location, and ensure the Disable AutoRecover for this workbook only box is unchecked.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Disable-auto-recover-1024x576.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Methods to Repair Corrupted Excel 2019 File**
 
@@ -113,6 +93,10 @@ Excel automatically opens the corrupted file in Recovery Mode. If not, you can r
 
 If the Repair option doesn’t work, you can select **Extract Data** and try to extract the values and formulae safely from the corrupt file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Recover Data from Open Workbook
 
 If you face issues while working in an Excel file, you can choose to return to the last saved version of the Excel file. For this:
@@ -122,6 +106,10 @@ If you face issues while working in an Excel file, you can choose to return to t
 - Click **Yes** to reopen it.
 
 ![Navigate to the File menu, select Open, double-click on the open workbook's name in Excel, and confirm by clicking Yes to reopen the workbook.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Excel-reopen-error.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - The workbook will now appear.
 
@@ -142,6 +130,10 @@ You can also recover data from Excel workbooks that you’re unable to open. For
 
 - Then click **File**, and select **Open** to open the corrupted or damaged Excel file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Recover Content by Using External Links
 
 You can also recover specifically the content (leaving formulas/calculated values) from the workbook by using external references (to link Excel workbook). For this:
@@ -156,13 +148,6 @@ You can also recover specifically the content (leaving formulas/calculated value
 
 ![Microsoft Excel - Dialog box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/formula.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Again, select the cell A1, go to **Home** and select **Copy**.
 - Now select (start from the cell A1) an area equal to that of the data in the original workbook.
 - Go to Home now and select **Paste**.
@@ -172,10 +157,7 @@ You can also recover specifically the content (leaving formulas/calculated value
 By pasting values, you removed the links to the corrupted workbook and only the data is left behind.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Excel Repair Software
@@ -187,6 +169,10 @@ One of the most commonly used Excel repair tools is [**Stellar Repair for Excel*
 Here’s the complete repairing process of the corrupt Excel file
 
 <iframe width="560" height="315" title="YouTube video player" frameborder="0" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" nitro-og-src="https://www.youtube.com/embed/VAeGzHnETu0?si=ksZ355zGrL1qxD9r&amp;autoplay=1" nitro-lazy-src="data:text/html;https://www.youtube.com/embed/VAeGzHnETu0?si=ksZ355zGrL1qxD9r&amp;autoplay=1;base64,PGJvZHkgc3R5bGU9J3dpZHRoOjEwMCU7aGVpZ2h0OjEwMCU7bWFyZ2luOjA7cGFkZGluZzowO2JhY2tncm91bmQ6dXJsKGh0dHBzOi8vaW1nLnlvdXR1YmUuY29tL3ZpL1ZBZUd6SG5FVHUwLzAuanBnKSBjZW50ZXIvMTAwJSBuby1yZXBlYXQnPjxzdHlsZT5ib2R5ey0tYnRuQmFja2dyb3VuZDpyZ2JhKDAsMCwwLC42NSk7fWJvZHk6aG92ZXJ7LS1idG5CYWNrZ3JvdW5kOnJnYmEoMCwwLDApO2N1cnNvcjpwb2ludGVyO30jcGxheUJ0bntkaXNwbGF5OmZsZXg7YWxpZ24taXRlbXM6Y2VudGVyO2p1c3RpZnktY29udGVudDpjZW50ZXI7Y2xlYXI6Ym90aDt3aWR0aDoxMDBweDtoZWlnaHQ6NzBweDtsaW5lLWhlaWdodDo3MHB4O2ZvbnQtc2l6ZTo0NXB4O2JhY2tncm91bmQ6dmFyKC0tYnRuQmFja2dyb3VuZCk7dGV4dC1hbGlnbjpjZW50ZXI7Y29sb3I6I2ZmZjtib3JkZXItcmFkaXVzOjE4cHg7dmVydGljYWwtYWxpZ246bWlkZGxlO3Bvc2l0aW9uOmFic29sdXRlO3RvcDo1MCU7bGVmdDo1MCU7bWFyZ2luLWxlZnQ6LTUwcHg7bWFyZ2luLXRvcDotMzVweH0jcGxheUFycm93e3dpZHRoOjA7aGVpZ2h0OjA7Ym9yZGVyLXRvcDoxNXB4IHNvbGlkIHRyYW5zcGFyZW50O2JvcmRlci1ib3R0b206MTVweCBzb2xpZCB0cmFuc3BhcmVudDtib3JkZXItbGVmdDoyNXB4IHNvbGlkICNmZmY7fTwvc3R5bGU+PGRpdiBpZD0ncGxheUJ0bic+PGRpdiBpZD0ncGxheUFycm93Jz48L2Rpdj48L2Rpdj48c2NyaXB0PmRvY3VtZW50LmJvZHkuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpe3dpbmRvdy5wYXJlbnQucG9zdE1lc3NhZ2Uoe2FjdGlvbjogJ3BsYXlCdG5DbGlja2VkJ30sICcqJyk7fSk7PC9zY3JpcHQ+PC9ib2R5Pg=="></iframe>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -207,5 +193,20 @@ This post shared the reasons behind Excel file corruption and precautionary meas
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-guide-to-asmr-for-sleep-enthusiasts/"><u>[New] The Essential Guide to ASMR for Sleep Enthusiasts</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-the-ultimate-hdr-conversion-playbook-starting-with-sdr/"><u>[New] The Ultimate HDR Conversion Playbook - Starting with SDR</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-securely-downloading-vlc-media-player-for-free-on-macos/"><u>[Updated] 2024 Approved Securely Downloading VLC Media Player for Free on macOS</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/best-2024-screen-mirroring-solutions-top-5-pick/"><u>Best 2024 Screen Mirroring Solutions: Top 5 Pick</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-itel-s23-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Itel S23 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/navigating-beyond-chatgpts-boundaries-tips-for-surpassing-the-token-capacity-limit/"><u>Navigating Beyond ChatGPT's Boundaries: Tips for Surpassing the Token Capacity Limit</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/revamping-screens-recording-the-future-on-spring/"><u>Revamping Screens Recording The Future on Spring</u></a></li>
+<li><a href="https://techidaily.com/solved-the-file-is-corrupted-and-cannot-be-opened-excel-2003-by-stellar-guide/"><u>Solved - The File is Corrupted and Cannot be Opened - Excel 2003</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-x50-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor X50.</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-12-mini-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 12 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-open-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Open</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-infinix-zero-30-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Infinix Zero 30 5G?</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-galaxy-f34-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Galaxy F34 5G ?</u></a></li>
+</ul></div>
 

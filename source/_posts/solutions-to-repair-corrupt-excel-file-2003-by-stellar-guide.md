@@ -1,6 +1,6 @@
 ---
 title: Solutions to Repair Corrupt Excel File 2003
-date: 2024-09-22T09:03:13.278Z
+date: 2025-01-17T18:12:30.939Z
 tags: 
   - repair
   - repair excel
@@ -30,16 +30,7 @@ Is your Excel file corrupted? And you don’t have backup of your data? There is
 - “Microsoft Excel has stopped working.”
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Reasons Behind Excel File Corruption**
@@ -58,13 +49,6 @@ Is your Excel file corrupted? And you don’t have backup of your data? There is
 
 **Excel users should follow the below precautionary measures to prevent data loss due to Excel file corruption:**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **1\. Create an Automatic Backup Copy**
 
 When you create an Excel spreadsheet, it is advised to **Save As** your document, as follows:
@@ -76,13 +60,14 @@ When you create an Excel spreadsheet, it is advised to **Save As** your document
 ![Enable automatic backup by clicking Tools next to Save in the Save As window, choosing General Options, checking the Always create backup box, and clicking OK.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/general-options-1024x576.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 This will always create a backup of your Excel. If it’s deleted or corrupted at any time, it can be recovered.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **2\. Create Recovery File at Different Time Periods**
 
@@ -94,22 +79,12 @@ This will always create a backup of your Excel. If it’s deleted or corrupted a
 
 ![Access Excel Options from the File menu, navigate to Save, enable Save AutoRecover with specified minutes and location, and ensure the Disable AutoRecover for this workbook only box is unchecked.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Disable-auto-recover-1024x576.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Methods to Repair Corrupted Excel 2019 File**
 
 **Try using these 5 methods to restore your Excel file and recover data:**
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 1: ‘Open and Repair’ Excel Files**
@@ -126,13 +101,6 @@ Excel automatically opens the corrupted file in Recovery Mode. If not, you can r
 
 If the Repair option doesn’t work, you can select **Extract Data** and try to extract the values and formulae safely from the corrupt file.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Recover Data from Open Workbook
 
 If you face issues while working in an Excel file, you can choose to return to the last saved version of the Excel file. For this:
@@ -146,6 +114,10 @@ If you face issues while working in an Excel file, you can choose to return to t
 - The workbook will now appear.
 
 _**Please note that it will show the last saved version and changes made after that won’t be recovered.**_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Set Calculation Option as Manual
 
@@ -176,6 +148,10 @@ You can also recover specifically the content (leaving formulas/calculated value
 
 ![Microsoft Excel - Dialog box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/formula.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Again, select the cell A1, go to **Home** and select **Copy**.
 - Now select (start from the cell A1) an area equal to that of the data in the original workbook.
 - Go to Home now and select **Paste**.
@@ -183,6 +159,10 @@ You can also recover specifically the content (leaving formulas/calculated value
 - Go to Home, and then click on the arrow below **Paste**. Then click on **Values**.
 
 By pasting values, you removed the links to the corrupted workbook and only the data is left behind.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Excel Repair Software
 
@@ -213,5 +193,26 @@ This post shared the reasons behind Excel file corruption and precautionary meas
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-the-potential-of-filters-and-masks-for-online-conferencing/"><u>[New] In 2024, Unlocking the Potential of Filters and Masks for Online Conferencing</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-autofocus-plus-next-gen-hdr-image-processing-explained/"><u>[Updated] Autofocus Plus Next-Gen HDR Image Processing Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-fast-fixes-to-restore-your-oculus-link-from-a-disruptive-black-screen-glitch/"><u>6 Fast Fixes to Restore Your Oculus Link From a Disruptive Black Screen Glitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/como-criar-um-rascunho-visual-eficaz-aprenda-a-conceber-um-storyboard-em-7-passos/"><u>Como Criar Um Rascunho Visual Eficaz: Aprenda a Conceber Um Storyboard Em 7 Passos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-k70-pro-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Redmi K70 Pro support MKV video files?</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-15-pro-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-n3-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find N3 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-narzo-n55-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme Narzo N55 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m34-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy M34</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/navigating-the-path-iphone-file-exchange-for-2024/"><u>Navigating the Path IPhone File Exchange for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/razer-blade-stealth-13-breakthrough-setting-new-standards-in-ultrabook-capabilities/"><u>Razer Blade Stealth 13 Breakthrough: Setting New Standards in Ultrabook Capabilities</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-x6-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from X6 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-rog-phone-7-by-fonelab-android-recover-data/"><u>The way to get back lost data from ROG Phone 7</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-90-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 90</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/top-tips-for-choosing-a-high-quality-4k-camera-lens/"><u>Top Tips for Choosing a High-Quality 4K Camera Lens</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-y02t-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Y02T</u></a></li>
+</ul></div>
 

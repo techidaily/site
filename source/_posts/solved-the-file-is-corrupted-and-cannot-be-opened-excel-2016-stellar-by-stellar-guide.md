@@ -1,7 +1,7 @@
 ---
 title: Solved - The File is Corrupted and Cannot be Opened - Excel 2016 | Stellar
-date: 2024-09-20T02:48:00.972Z
-updated: 2024-09-23T16:35:59.440Z
+date: 2025-01-16T22:03:05.635Z
+updated: 2025-01-22T00:41:21.366Z
 tags: 
   - repair
   - repair excel
@@ -82,13 +82,6 @@ Excel 2010 file cannot open due to the ‘**Protected View**’ setting in Micro
 - Open MS Excel 2010, go to the ‘**File’** menu and click **‘Options’.**
 
 ![Select Options in Excel 2010](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 4 – Options
 
@@ -235,13 +228,6 @@ The “Cannot insert object” issue can also occur if your system is low on mem
 
 If your Excel file size exceeds the prescribed limit, it can also lead to the “Cannot insert Excel object” error. So, check the Excel file size. You can reduce the file size by removing unnecessary objects, such as formulas or images.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 5: Check and Change Excel ActiveX Settings**
 
 You can get the “Excel cannot insert object” error if your Excel file contains macros, controls, and other interactive buttons. It usually occurs if the ActiveX Controls option is disabled. You can check and change the ActiveX Settings to fix the issue. Here are the steps:
@@ -269,9 +255,17 @@ The “Cannot insert object” error can occur if the object you are trying to i
 
 ![Click On Repair Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-on-repair-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - After repair, a message will appear (as shown in the below figure).
 
 ![Click Close Option In Repair Message](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-close-option-in-repair-message.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Click **Close**.
 
@@ -297,6 +291,10 @@ Before discussing solutions to resolve the ‘Excel AutoRecover not working’ i
 ## A Brief Overview of Excel AutoRecover and AutoSave Feature
 
 AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 2007 that allows saving all of the ‘open Excel files’ at a fixed-interval in a user-specified location or AutoRecover file location. Besides, AutoSave is an add-in that exists in Excel 2002 and earlier versions to save all open Excel files in case of a crash, power outage, or accidental closure of Excel files without saving. Users can recover these files if Excel closes suddenly, for instance, at the time of power outage or failure. The auto-recovered Excel files are saved at a default location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Methods to Fix ‘Excel AutoRecover Not Working’ Issue
 
@@ -352,13 +350,6 @@ To help resolve the problem of ‘AutoRecover not working’, different methods 
 **Summary:** Unable to resolve “damage to the file was so extensive that repair was not possible” error in Excel? Read this post to discover more details about the error, possible causes, and how to rectify the error. To save time & efforts, you can also try an Excel file repair software to resolve the “damage to the file…” error in a few clicks.
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When opening a workbook in Microsoft Excel 2003 or later, you may encounter an error message,
 
@@ -422,6 +413,10 @@ Following are some other workarounds:
 - Use a lesser number of query presentation fields to re-generate the query. Then, again re-enter those fields.
 - Decrease the multi-line string field data text up to 8000 characters.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Copy Macros and Data to Another Workbook (Empty) in an Advanced Excel version
 
 If the issue is occurring due to version incompatibility, i.e., if the file opens easily in the older version but shows errors in the new version. You can:
@@ -470,13 +465,6 @@ Once you have enabled the **Developer** tab, follow the steps to copy the macro 
 - In the **Project Explorer** window, drag the module you need to copy to the destination workbook. For example:
 
 ![In project explorer, Drag the module you need to copy to the destination workbook](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-12.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Module 1** has been copied from **Book2.xlsm** to **Book1.xlsm**
 
@@ -553,6 +541,10 @@ Figure: choose another app
 
 ![Look for another app](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/10/Look-for-another-app-on-this-PC.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: Look for another app
 
 5. Navigate using the **Look for another app on this PC**  to the path “C:\\Program Files\\Microsoft Office\\OfficeVersion”
@@ -586,6 +578,10 @@ Figure: Open and Repair
 
 Figure: Repair option
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **<u>Solution 3:</u> Use automated Excel repair software**
 
 If none of the above mentioned manual methods works to eliminate the ‘Excel file in unrecognizable format’ error, it means your Excel file has been severely corrupted and needs professional assistance. In such a scenario, quickly download reliable and competent software [**Stellar Repair for Excel**](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). Backed by powerful scanning and repair algorithms, this product guarantees up to 100% Excel file repair regardless of the amount of damage in it.
@@ -613,6 +609,10 @@ It’s more noticeable when you open a large Excel file or workbook with multipl
 
 ![excel stuck at 0 percent](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/09/excel-stuck-at-opening-1024x576.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Why Excel is Stuck at Opening File 0%?
 
 If you have encountered this error, it may happen due to one of the following issues,
@@ -627,10 +627,7 @@ If you have encountered this error, it may happen due to one of the following is
 Before fixing and troubleshooting the problem, check and confirm if the Excel file is working and not corrupt. For this, you can try opening it on another PC. Now there could be two scenarios,
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Scenario 1:  Excel File Does Not Open**
@@ -640,13 +637,6 @@ If the Excel file doesn’t open on another PC also, it indicates Excel file cor
 However, if there’s no backup, then you need an Excel file repair software, such as **Stellar Repair for Excel** to repair the corrupt file. This software preserves Excel file properties, such as cell formatting, formula bar, freeze panes, gridlines, etc. and helps you restore the damaged or corrupt worksheets to its original state with 100% integrity.
 
 [![free download](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/09/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To repair Excel file, download and launch _Stellar Repair for Excel_ software on your PC, choose the corrupt Excel (XLS/XLSX) file and click ‘**Repair’**. You can see the preview of your Excel file with all data and then save the repaired file at your desired location on the system as a new Excel file.
 
@@ -665,6 +655,10 @@ To check if an incompatible or faulty add-in or setting is causing the error, re
 
 ![open excel in safe mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/09/run-excel-in-safe-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Go to **File > Open** and then choose the Excel file to open it
 - If it opens, the problem is probably caused by the add-ins. Go to **File > Options > Add-ins > Manage > COM Add-ins** and disable all the third-party add-ins
 
@@ -675,6 +669,10 @@ To check if an incompatible or faulty add-in or setting is causing the error, re
 However, if you want to keep the add-ins, enable one add-in at a time and open the same file to find which add-in is causing the problem. When found, remove the faulty add-in.
 
 If it doesn’t work, head to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2. Disable Hardware Graphics Acceleration
 
@@ -740,13 +738,6 @@ Sometimes, when opening an MS Excel file, you may receive an error message that 
 
 ![Microsoft Excel Content Error](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/Microsoft-Excel-Content-Error.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 1 – Excel ‘found a problem with some content’ Error Message
 
 ## **What Causes ‘We Found a Problem with Some Content’ Error?**
@@ -772,13 +763,6 @@ File Recovery mode is a native Excel recovery utility that automatically opens w
 3. Select the corrupt file, and then click on arrow sign available next to **Open** button to select **Open and Repair** option.
 
 ![Open and Repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/03/Open-and-Repair.png "MS Excel Content error")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 2 – Open and Repair Feature in Excel
 
@@ -862,5 +846,24 @@ In this blog, we discussed some possible reasons behind Microsoft Excel 2013/201
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/ree-tribe-50-branding-banners-ready-to-unleash-in-2024/"><u>[New] Free Tribe 50 Branding Banners Ready to Unleash, In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pixel-perfection-your-guide-to-youtube-twitters-and-hd/"><u>[New] In 2024, Pixel Perfection Your Guide to YouTube, Twitters, and HD</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/asting-eradication-strategy-for-youtube-shorts-feature/"><u>[New] Lasting Eradication Strategy for YouTube Shorts Feature</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-harnessing-powerful-tools-for-effective-youtubers-seo/"><u>[Updated] Harnessing Powerful Tools for Effective YouTubers' SEO</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/disabling-recommended-podcast-episodes-in-spotify-app-for-2024/"><u>Disabling Recommended Podcast Episodes in Spotify App for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-se-2020-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-100-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 100 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-pro-5g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Vivo T2 Pro 5G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-valorant-load-speed-techniques-to-end-the-infinite-wait-screen/"><u>Mastering Valorant Load Speed: Techniques to End the Infinite Wait Screen</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Xiaomi</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/the-indispensability-of-the-camera-hump-on-phones-why-compromise-is-not-an-option/"><u>The Indispensability of the Camera Hump on Phones: Why Compromise Is Not an Option</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-moto-g04-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Moto G04 without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-x50i-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor X50i Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-vivo-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Vivo .</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-voice-translation-english-to-bangla-online-and-offline-apps-for-2024/"><u>Updated Voice Translation English to Bangla Online and Offline Apps for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2025-01-10T18:39:12.090Z
-updated: 2025-01-15T19:22:03.278Z
+date: 2025-01-15T20:20:22.982Z
+updated: 2025-01-21T16:16:23.339Z
 tags:
   - deals
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1  Make the Login Process Easier 
 
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
@@ -38,11 +42,11 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
@@ -52,19 +56,15 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4  Set Up Automatic Data Backups 
 
@@ -72,16 +72,12 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
   
@@ -98,7 +94,7 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
@@ -114,6 +110,10 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
 
@@ -140,22 +140,22 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-crafting-compelling-podcast-teasers-for-2024/"><u>[New] Crafting Compelling Podcast Teasers for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-enhance-streaming-quality-non-xplit-choices/"><u>[New] In 2024, Enhance Streaming Quality Non-Xplit Choices</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-navigating-the-decision-to-adopt-itop-recording/"><u>[Updated] 2024 Approved Navigating the Decision to Adopt ITop Recording</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-tale-transmogrifiers-guild-elite-eight/"><u>[Updated] 2024 Approved Tale Transmogrifiers Guild – Elite Eight</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-critical-analysis-the-true-value-of-instas-selfie-confirmation/"><u>[Updated] Critical Analysis The True Value of Insta's Selfie Confirmation</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-video-directors-ultimate-companion-powerdirector-full-review/"><u>[Updated] In 2024, Video Directors' Ultimate Companion - PowerDirector Full Review</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-honor-90-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Honor 90 FRP Bypass Instantly</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/effortless-mass-file-manipulation-in-windows-master-the-art-of-batch-copymove-with-tips-from-yl-software-pros/"><u>Effortless Mass File Manipulation in Windows: Master the Art of Batch Copy/Move with Tips From YL Software Pros</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-next-gen-options-to-record-high-quality-gaming-footage/"><u>In 2024, Next Gen Options to Record High-Quality Gaming Footage</u></a></li>
-<li><a href="https://techidaily.com/revamp-your-streaming-experience-changing-netflix-regions-made-easy/"><u>Revamp Your Streaming Experience: Changing Netflix Regions Made Easy!</u></a></li>
-<li><a href="https://techidaily.com/seamless-setup-how-to-pair-a-ds4-wireless-controller-with-ps4/"><u>Seamless Setup: How to Pair a DS4 Wireless Controller with PS4</u></a></li>
-<li><a href="https://techidaily.com/simple-guide-capturing-screen-images-effortlessly-on-your-asus-computer/"><u>Simple Guide: Capturing Screen Images Effortlessly on Your ASUS Computer</u></a></li>
-<li><a href="https://techidaily.com/simple-solution-resolving-lag-issues-with-your-logitech-keyboard/"><u>Simple Solution: Resolving Lag Issues with Your Logitech Keyboard</u></a></li>
-<li><a href="https://techidaily.com/step-by-step-guide-accessing-the-bios-menu-in-windows-107/"><u>Step-by-Step Guide: Accessing the BIOS Menu in Windows 10/7</u></a></li>
-<li><a href="https://techidaily.com/the-ultimate-guide-understanding-the-benefits-of-using-a-vpn/"><u>The Ultimate Guide: Understanding the Benefits of Using a VPN</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-like-a-pro-effective-hard-restart-techniques-for-windows-10-users/"><u>Troubleshooting Like a Pro: Effective Hard Restart Techniques for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/troubleshooting-tips-for-cddvd-device-malfunctions-and-overcoming-error-39/"><u>Troubleshooting Tips for CD/DVD Device Malfunctions and Overcoming Error 39</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unveiling-the-simple-path-to-video-conversations-on-snapchat/"><u>[New] 2024 Approved Unveiling the Simple Path to Video Conversations on Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-decoding-toolwizs-capabilities-in-mobile-photo-editing/"><u>[New] In 2024, Decoding Toolwiz's Capabilities in Mobile Photo Editing</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-procedure-of-ending-linkedin-services-and-deletion-process/"><u>[New] Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-assessing-64128gbs-video-storing-potential/"><u>[Updated] 2024 Approved Assessing 64/128GB's Video-Storing Potential</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] In 2024, Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/from-subdued-to-striking-the-art-of-post-color-correction/"><u>From Subdued to Striking The Art of Post-Color Correction</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g13-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G13 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/resolving-network-connectivity-problems-a-step-by-step-guide-from-yl-computings-experts/"><u>Resolving Network Connectivity Problems: A Step-by-Step Guide From YL Computing's Experts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-40-free-streaming-films-exclusive-4k-quality-from-hits-of-hollywood-and-bollywood/"><u>Top 40 Free Streaming Films - Exclusive 4K Quality From Hits of Hollywood and Bollywood</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c12-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C12 Pro</u></a></li>
+<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-y100i-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo Y100i)</u></a></li>
 </ul></div>
 

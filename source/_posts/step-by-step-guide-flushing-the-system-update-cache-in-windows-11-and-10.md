@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Flushing the System Update Cache in Windows 11 & 10"
-date: 2025-01-11T19:14:57.827Z
-updated: 2025-01-15T20:23:22.722Z
+date: 2025-01-18T23:25:16.464Z
+updated: 2025-01-21T22:06:43.548Z
 tags:
   - deals
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 * [Clear Windows Update Cache Using Disk Cleanup](https://instagram-video-recordings.techidaily.com/in-2024-cracking-the-code-of-true-instagram-photos/)
 * [Clear Windows Update Cache Using Command Prompt](https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-realme-11x-5g-drfone-by-drfone-virtual/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * To delete the update cache, open Run, type **services.msc**, right-click "Windows Update," and choose "Stop." Keep the window open.
@@ -25,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
 * Come back to the "Services" window, right-click "Windows Update," and choose "Start."
 
  Both Windows 11 and Windows 10 make it super easy to clear your Windows Update cache. You can use a graphical method or a command line option to delete the saved update files. We’ll show you your available options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Why Should You Clear Your Windows Update Cache?
 
@@ -35,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/e4680a85088d1a2f44c589b1c74f41a831760d9ea
  Another reason is to [free up storage space](https://voice-adjusting.techidaily.com/premier-software-solutions-for-clearing-up-rough-audio-texture-for-2024/). Update cache files often use a huge chunk of the storage, and you can reclaim that by deleting those cached files. (Windows does delete some update files after installing those updates, but not all.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using File Explorer
@@ -49,6 +57,10 @@ services.msc
  In the Services window, find the Windows Update service. Right-click it and select "Stop." Keep this window open as you’ll come back here later.
 
 !['Stop' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-stop-windows-update-service.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Run again using Windows+R, type the path below in the box, and press Enter. The following is the path to the Windows Update cache folder. It assumes that Windows is installed on your C:\\ drive. However, if that’s not the case, just change the drive letter in the path.
 
@@ -64,15 +76,7 @@ C:\Windows\SoftwareDistribution\
 
 !['Start' highlighted for 'Windows Update' on the 'Services' window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-start-windows-update-service.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This ensures your PC can continue to look for the latest updates.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache Using Disk Cleanup
 
@@ -87,16 +91,12 @@ C:\Windows\SoftwareDistribution\
 ![The Windows installation drive and 'OK' highlighted in Disk Cleanup prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-choose-windows-drive.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Clean Up System Files."
 
 !['Clean Up System Files' highlighted in Disk Cleanup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-clean-up-system-files.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Choose your Windows installation drive again and select "OK."
 
@@ -123,6 +123,10 @@ net stop bits`
     
 ![Commands to stop certain Windows services typed in Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/9-stop-services.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next up, run the following command to make the Windows Update cache folder the current working directory.
 
 cd %windir%\SoftwareDistribution
@@ -139,10 +143,6 @@ del /f /s /q *.*
 net start bits`
     
  You’re done.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Use a Script to Clear Update Cache in a Single-Click
 
@@ -186,24 +186,15 @@ net start bits`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-the-veracity-of-ffmpegs-audio-extraction-techniques/"><u>[New] The Veracity of FFmpeg’s Audio Extraction Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-asmr-unveiled-benefits-for-your-well-being/"><u>[Updated] In 2024, ASMR Unveiled Benefits for Your Well-Being</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-overcoming-obstacles-in-youtube-journey-using-creative-studio-guide-for-2024/"><u>[Updated] Overcoming Obstacles in YouTube Journey Using Creative Studio Guide for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-list-best-tvs-for-ps5xbox-series-x-games/"><u>[Updated] The Ultimate List Best TVs for PS5/Xbox Series X Games</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-top-10-free-youtube-video-trimming-apps-reviewed/"><u>[Updated] Top 10 Free YouTube Video Trimming Apps Reviewed</u></a></li>
-<li><a href="https://techidaily.com/easy-tips-for-downloading-and-setting-up-hewlett-packards-windows-7-compatible-drives/"><u>Easy Tips for Downloading and Setting Up Hewlett Packard's Windows 7 Compatible Drives</u></a></li>
-<li><a href="https://techidaily.com/easy-to-follow-tutorial-a-detailed-walkthrough-of-using-a-virtual-private-network-vpn-effectively/"><u>Easy-to-Follow Tutorial: A Detailed Walkthrough of Using a Virtual Private Network (VPN) Effectively</u></a></li>
-<li><a href="https://techidaily.com/effortless-driver-update-processes-for-windows-versions-7-8-and-10/"><u>Effortless Driver Update Processes for Windows Versions 7, 8 & 10</u></a></li>
-<li><a href="https://techidaily.com/effortless-file-duplication-from-windows-1n-10-to-secondary-drives-an-ultimate-7-step-process/"><u>Effortless File Duplication From Windows 1N 10 to Secondary Drives: An Ultimate 7-Step Process</u></a></li>
-<li><a href="https://techidaily.com/expert-advice-how-to-get-your-google-chrome-up-and-running-after-an-unexpected-stop/"><u>Expert Advice: How to Get Your Google Chrome Up and Running After an Unexpected Stop</u></a></li>
-<li><a href="https://techidaily.com/fixes-implemented-for-successful-windows-11-installs-overcoming-initial-errors/"><u>Fixes Implemented for Successful Windows 11 Installs – Overcoming Initial Errors</u></a></li>
-<li><a href="https://techidaily.com/guide-to-uninterrupted-gaming-accessing-and-playing-steam-titles-off-the-grid/"><u>Guide to Uninterrupted Gaming: Accessing and Playing Steam Titles Off the Grid</u></a></li>
-<li><a href="https://techidaily.com/guide-monitoring-your-pcs-temperature-in-windows-11/"><u>Guide: Monitoring Your PC's Temperature in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/hiberfilsys-windows-11-and-how-to-delete-it-solved/"><u>hiberfil.sys Windows 11 & How to Delete It? [Solved]</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mastering-stem-skills-in-depth-look-at-the-makeblock-mbot-programmable-robot-kit-for-enthusiastic-makers/"><u>Mastering STEM Skills: In-Depth Look at the Makeblock MBot Programmable Robot Kit for Enthusiastic Makers</u></a></li>
-<li><a href="https://article-tips.techidaily.com/visionary-visions-guiding-principles-for-stunning-images/"><u>Visionary Visions Guiding Principles for Stunning Images</u></a></li>
-<li><a href="https://some-tips.techidaily.com/why-i-swapped-my-pricey-apple-and-meta-vr-headsets-for-cost-effective-xr-wearables-insights-shared/"><u>Why I Swapped My Pricey Apple and Meta VR Headsets for Cost-Effective XR Wearables - Insights Shared</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/windows-11dvd-dvd/"><u>Windows 11でDVDディスクのバックアップ作成ガイド - DVDコピー手順</u></a></li>
-<li><a href="https://discover-exceptional.techidaily.com/windows-server-2012r2/"><u>セットアップと維持:Windows Server 2012（R2）ディスク復元の詳細手順</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/8-top-tier-filters-to-elevate-your-live-feed/"><u>8 Top-Tier Filters to Elevate Your Live Feed</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723009682082-davinci-resolve-wont-boot-on-your-window-machine-heres-how-to-fix-it/"><u>DaVinci Resolve Won't Boot on Your Window Machine? Here's How to Fix It</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-realme-c67-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Realme C67 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/expert-strategies-to-elevate-your-gopro-footage/"><u>Expert Strategies to Elevate Your GoPro Footage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-new-look-samsungs-k850-ultrablade-review-2023/"><u>In 2024, New Look Samsung's K850 UltraBlade Review 2023</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/launching-a-successful-stream-on-discord-essential-steps-revealed/"><u>Launching a Successful Stream on Discord Essential Steps Revealed</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/techniques-for-transferring-media-between-two-iphones/"><u>Techniques for Transferring Media Between Two iPhones</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-g42-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from G42 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-realme-narzo-n55-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Realme Narzo N55</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-razr-40-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Razr 40 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

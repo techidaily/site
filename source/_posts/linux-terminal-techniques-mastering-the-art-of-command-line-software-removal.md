@@ -1,7 +1,7 @@
 ---
 title: "Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal"
-date: 2025-01-11T17:43:04.896Z
-updated: 2025-01-15T21:17:02.885Z
+date: 2025-01-14T18:17:24.302Z
+updated: 2025-01-21T18:56:29.256Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/caa6cead2c370efcf0282829aeb71cf5fae19a07f
 ---
 
 ## Linux Terminal Techniques: Mastering the Art of Command-Line Software Removal
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -50,6 +46,10 @@ apt list --installed
 
 ![GIMP listed as an installed program.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/GIMP-listed-in-the-installed-packages.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To uninstall a program, use the `apt` command, which is the general command for installing programs and manipulating installed programs. For example, the following command uninstalls gimp and deletes all the configuration files, using the `purge` command.
 
 sudo apt purge gimp
@@ -73,7 +73,7 @@ sudo apt remove gimp
 ![Enter &quot;sudo apt remove gimp&quot; to remove just GIMP, but leave the configuration files in place.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-remove-instead-of-sudo-apt-purge.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Programs installed in Linux — just like Windows and MacOS — depend on other packages to function. When you uninstall a program, there may be packages that the uninstalled program depended upon that are no longer used. To remove any unused packages, use the "autoremove" command, as shown in the following example.
@@ -83,7 +83,7 @@ sudo apt autoremove
 ![Run &quot;sudo apt autoremove&quot; to remove a package and all of the dependencies it installed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/running-sudo-apt-autoremove-in-the-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can combine the two commands for removing a program and removing dependencies that are no longer being used into one, as shown below (two dashes before "auto-remove").
@@ -93,7 +93,7 @@ sudo apt purge --auto-remove gimp
 ![Run &quot;sudo apt purge --autoremove gimp&quot; to remove all of GIMP's dependencies and the configuration files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/sudo-apt-purge-autoremove-to-uninstall-packages-and-unused-dependencies.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're short on space, you can use the "clean" command to remove downloaded archive files, as shown below.
@@ -103,10 +103,6 @@ sudo apt clean
  This command removes the aptitude cache in "/var/cache/apt/archives". When you install a program, the package file is downloaded and stored in that directory. You don't need to keep the files in that directory. However, there is a potential drawback from deleting them: if you decide to install any of those programs again, the packages will have to be downloaded again.
 
 ![Run &quot;sudo apt clean&quot; to remove archive files.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/run-sudo-apt-clean.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The APT is a handy tool that makes downloading, installing, and uninstalling programs quick and easy. For more information about using the "apt" command, type "apt" at the prompt and press Enter.
 
@@ -133,7 +129,7 @@ dnf list --installed
 ![The GIMP package found in the list of installed packages on a Fedora installation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_072638.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are two quick ways to remove a program using DNF.
@@ -154,6 +150,10 @@ sudo dnf remove gimp
  Note that though the list command showed the GIMP package with its architecture attached to the name, like "gimp.x86\_64", I don't have to include the architecture or its preceding period in the remove command.
 
 ![The DNF command to remove the GIMP package.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/screenshot_20240812_073703.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Just enter "y" and GIMP will be removed.
 
@@ -184,24 +184,19 @@ dnf mark install (Dependency/Package Name)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-seo-excellence-transforming-podcast-discoverability/"><u>[New] In 2024, SEO Excellence Transforming Podcast Discoverability</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-optimizing-your-youtube-video-preservation/"><u>[Updated] In 2024, Optimizing Your YouTube Video Preservation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-subscriber-glory-the-play-button-and-accolades-for-maker/"><u>[Updated] Subscriber Glory The Play Button & Accolades for Maker</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-windows-best-calling-solutions-7-1-ranked/"><u>[Updated] Windows' Best Calling Solutions, #7-#1 Ranked</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/changing-image-extensions-a-comprehensive-guide-yl-software/"><u>Changing Image Extensions: A Comprehensive Guide - YL Software</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/efficient-tweet-strategy-embrace-aspect-ratio-specifications-for-2024/"><u>Efficient Tweet Strategy Embrace Aspect Ratio Specifications for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12r-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12R Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-word-2023-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a Word 2023 electronically</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-se-2022-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone SE (2022) With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 10 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/mini-2-and-air-2s-luts-free-trial-then-paid-upgrade-for-2024/"><u>Mini 2 & Air 2S LUTS - Free Trial, Then Paid Upgrade for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-p60-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei P60 Pro on Mac</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-lava-by-fonelab-android-recover-music/"><u>The way to get back lost music from Lava</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-itel-s23-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Itel S23 without backup.</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-nubia-red-magic-8s-proplus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Nubia Red Magic 8S Pro+ Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-deciding-fate-of-action-cams-hero5-black-and-yi-4k-showdown-update/"><u>[New] 2024 Approved Deciding Fate of Action Cams Hero5 Black & Yi 4K Showdown Update</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-football-film-breakdown-premier-insights-on-youtube/"><u>[New] In 2024, Football Film Breakdown Premier Insights on YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/beginners-dream-cost-effective-home-entertainment-setups-explored/"><u>Beginner's Dream: Cost-Effective Home Entertainment Setups Explored</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/broadcasting-vids-directly-from-phone-twitter-without-retweets-for-2024/"><u>Broadcasting Vids Directly From Phone – Twitter, Without Retweets for 2024</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-lower-thirds-101-a-beginners-guide-to-success/"><u>FCPX Lower Thirds 101 A Beginners Guide to Success</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a38-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A38 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-x-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone X Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2020-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2020) Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-crafting-immaculate-circular-and-spherical-shapes-in-minecraft/"><u>In 2024, Crafting Immaculate Circular and Spherical Shapes in Minecraft</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-nokia-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Nokia Phone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/stunning-nissan-prisejpg-the-400z-top-picks-for-images-and-desktop-wallpapers-from-yl-computing/"><u>Stunning Nissan prise.jpg the 400Z: Top Picks for Images and Desktop Wallpapers From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/will-huawei-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Huawei play AVCHD mts files?</u></a></li>
 </ul></div>
 

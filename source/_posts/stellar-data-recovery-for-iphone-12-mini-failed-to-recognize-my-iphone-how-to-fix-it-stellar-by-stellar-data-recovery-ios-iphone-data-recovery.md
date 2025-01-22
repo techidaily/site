@@ -1,7 +1,7 @@
 ---
 title: Stellar Data Recovery for iPhone 12 mini failed to recognize my iPhone. How to fix it? | Stellar
-date: 2024-09-17T09:21:02.885Z
-updated: 2024-09-23T19:54:21.605Z
+date: 2025-01-17T18:43:48.270Z
+updated: 2025-01-22T00:38:04.046Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -36,16 +36,7 @@ What could be the cause of such a bothersome problem? The bad news is that the r
 There is yet another way to check the storage on your iPhone if you face the “iPhone Storage Not Showing” issue, and we’ll go over it in the following section.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I use a computer to check my storage?
@@ -60,19 +51,24 @@ You can check your iPhone’s storage using a computer with iTunes or Finder app
 ![Resolve iPhone storage not loading and showing using the storage bar in iTunes](https://www.stellarinfo.com/blog/wp-content/uploads/2022/11/the-storage-bar-in-iTunes-1024x642.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How can I fix iPhone Storage Not Loading/Showing?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Wait a bit more
 
 Some computing operations take a while to finish. Your phone’s storage may overflow with tons of app data, images, and other files if you’ve been using it for a while.
 
 And each of them would have to load before reporting their combined size to the OS. Usually, loading takes about three minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update iOS
 
@@ -83,20 +79,6 @@ If your iOS version was outdated, your phone’s functionalities, including stor
 
 ![Updating software to resolve iPhone storage not loading and showing](https://www.stellarinfo.com/blog/wp-content/uploads/2022/11/software-update-process-1024x576.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Force Stops the App
 
 The settings app itself can be the problem due to an app bug. Therefore, forcing the app to close is a valid option. This will make the software restart from scratch, wiping off part of the data and information it had in RAM.
@@ -104,6 +86,10 @@ The settings app itself can be the problem due to an app bug. Therefore, forcing
 - Access the **app switcher** (swipe up your finger from the bottom of the screen to bring up the menu or double-click the **Home** button on older iPhone models).
 
 ![App switcher](https://www.stellarinfo.com/blog/wp-content/uploads/2022/11/App-switcher.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Swipe up and drag the **Settings card** off the screen to force the app to close.
 - Relaunch the **Settings app** to see if the problem persists.
@@ -118,13 +104,6 @@ iOS has been designed in a way that it needs to be connected to iCloud to functi
 ![Reconnecting to iCloud settings to fix iPhone storage not loading and showing](https://www.stellarinfo.com/blog/wp-content/uploads/2022/11/iCloud-settings.png)
 
 - Next, sign in once more using your **iCloud password**.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 5\. Fix the Issue Using Your PC
 
@@ -163,18 +142,15 @@ With Stellar Data Recovery for iPhone, your files, including voice recordings, n
 
 ![save option to save the recovered files](https://www.stellarinfo.com/blog/wp-content/uploads/2022/11/save-option-to-save-the-recovered-files.-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Why isn’t my iPhone storage loading?
 
 When trying to check your iPhone’s storage, you will notice a small spinning wheel going back and forth if your phone is having storage problems since it cannot accurately represent the amount of storage that is accessible.
 
 Furthermore, the loading issue may show an incorrect amount of storage. Some users reported this and other minor issues throughout the iOS 15 beta testing phase. Other factors contributing to this issue include iCloud service problems and application bugs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Wrap up! Stellar is your ultimate backup
 
@@ -222,13 +198,6 @@ The videos you capture with your iPhone 12 mini gets stored in either the memor
 
 ![Stellar Data Recovery for iPhone - Scanning Process](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6)** All deleted videos will be listed in red, while the rest will be listed in black color as shown in the image placed below.
 
 **Step 7)** After that, select the videos you want to recover by putting check marks in the boxes in front of them.
@@ -238,6 +207,10 @@ The videos you capture with your iPhone 12 mini gets stored in either the memor
 **Step 9)** Click Save button to finally save the videos. With this, the **‘Save Files’** dialog appears as shown below:
 
 ![Stellar Data Recovery for iPhone - Save Files](https://www.stellarinfo.com/screenshots/data-ios/win/5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  _(i)_ Chose the option **‘Save to Computer’** if you want to save the recovered videos to your computer. Click Browse and select a destination for saving the recovered files and click OK.
 
@@ -273,6 +246,10 @@ Cannot locate iPhone backup on Windows PC? Find and Restore data with iPhone dat
 
 If you cannot find your iPhone backup data on your PC or cannot access the backup files, take refuge in third-party software – Stellar Data Recovery for iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **How can** **Stellar Data Recovery for iPhone help you?**
 
 You can find, access, and restore lost iPhone backup files with Stellar Data Recovery for iPhone. It is a secure tool that efficiently scans the computer to find your iPhone backup. The recovered iPhone backup files are in readable form, and you can either save them on your PC or iPhone.
@@ -283,6 +260,10 @@ You can find, access, and restore lost iPhone backup files with Stellar Data Rec
 - Your backup files are either lost or deleted.
 - You cannot access iPhone backup files on Windows PC
 - Not able to restore backup on your old/new iPhone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How can Stellar Data Recovery for iPhone recover lost backup files from PC?**
 
@@ -299,13 +280,6 @@ It also offers a Deep Scan if your desired iPhone information is not recovered a
 - Option to restore only that data from backup which you want to be in your iPhone
 - Allows to save recovered backup on computer or iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Step-by-step recovery of lost iPhone backup on Windows PC with Stellar Data Recovery for iPhone**
 
 **Step 1:** Connect your iPhone to your computer and launch the software.
@@ -313,6 +287,10 @@ It also offers a Deep Scan if your desired iPhone information is not recovered a
 **Step 2:** On the home screen, select **Recover from iPhone. The scanning** process begins.
 
 ![Stellar Data Recovery for iPhone- how to find iPhone backup on Windows](https://www.stellarinfo.com/blog/wp-content/uploads/2018/06/1-Mui.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** After scanning, all the files on your iPhone are listed.
 
@@ -346,5 +324,19 @@ You can download the free trial version to evaluate its performance. It is undou
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-comprehensive-guide-to-avoid-copyright-breaches-in-tiktok-videos/"><u>[Updated] Comprehensive Guide to Avoid Copyright Breaches in TikTok Videos</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-epicurean-education-recipe-film-making/"><u>[Updated] In 2024, Epicurean Education Recipe Film-Making</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-combatting-blurry-and-warped-youtube-videos/"><u>2024 Approved Combatting Blurry and Warped YouTube Videos</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-game-ultimate-troubleshooting-guide-to-prevent-state-of-decay-2-from-crashing/"><u>Fix Your Game: Ultimate Troubleshooting Guide to Prevent State of Decay 2 From Crashing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-beginners-blueprint-for-ipad-time-lapse-videos/"><u>In 2024, Beginner's Blueprint for iPad Time-Lapse Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-office-2023-files-word-excel-and-powerpointon-windows-stellar-by-stellar-guide/"><u>Repair Office 2023 Files (Word, Excel and PowerPoint)on Windows | Stellar</u></a></li>
+<li><a href="https://techidaily.com/sony-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Sony won’t play MP4 files</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-8-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 8 You Should Try Out</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nokia-g310-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nokia G310</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10 & 7</u></a></li>
+</ul></div>
 

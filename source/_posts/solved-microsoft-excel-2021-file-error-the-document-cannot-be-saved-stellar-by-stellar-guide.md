@@ -1,7 +1,7 @@
 ---
 title: Solved Microsoft Excel 2021 File Error The document cannot be saved | Stellar
-date: 2024-09-16T23:23:58.146Z
-updated: 2024-09-24T02:27:35.859Z
+date: 2025-01-19T17:58:08.779Z
+updated: 2025-01-21T23:40:03.877Z
 tags: 
   - repair
   - repair excel
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 ![The File is Corrupt and Cannot be Opened Error Message](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/the-file-is-corrupt-and-cannot-be-opened.jpg)
 
 Figure 1 – Excel File Corrupted Error Message
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Other Possible Reasons behind ‘The File is Corrupt and Cannot Be Opened’ Excel Error**
 
@@ -72,6 +76,10 @@ Figure 2 – Component Services Settings
 Figure 3 – Illustrates My Computer Properties
 
 - Click ‘**OK**’ to change ‘**Default Properties**’
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 2: Changing the Protected View Settings**
 
@@ -188,13 +196,6 @@ There are various reasons why you encounter this error. Here are some of them:
 
 You’re not able to save the Excel file if there is no storage space on your hard drive. So, first check if your hard drive has sufficient storage space to save the file. If this is not the case, then it might happen that your antivirus program is interrupting the saving process. To check this, temporarily disable your antivirus program and then try to save the file. If still your Excel is throwing the “Errors were detected while saving Excel” error, then follow the below given methods to fix the error:
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###  **Method 1: Open the Excel in Safe Mode and Disable the Add-ins**
 
 When you open Excel in safe mode, it opens without the third-party add-ins. This helps in finding out if any add-ins are causing the error.
@@ -224,6 +225,10 @@ If you are able to save the file without any issue, then this means that the err
 - Under the **Manage** section, select **Excel Add-ins** and then click on the **Go**
 
 ![Excel Add-ins Drop-down](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/errorsweredetected/excel-add-ins-drop-down.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In the **Add-ins** dialog box, unselect the **add-ins** under the **Add-ins available** option and click **OK.**  
 
@@ -320,6 +325,10 @@ You can face the error in Excel - Too many different cell formats, if the size o
 
 The above steps will remove all unnecessary formatting from the selected cells, thus reducing the number of cell formats. Besides this, you can try removing the cell patterns (if any) or [use cell styles](https://support.microsoft.com/en-us/office/apply-create-or-remove-a-cell-style-472213bf-66bd-40c8-815c-594f0f90cd22) to remove unnecessary formatting in the workbook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Remove Conditional Formatting**
 
 Conditional formatting is also one of the reasons behind the “Too many different cell formats” error. It usually occurs if you have applied multiple rules to various cells or cell ranges within a workbook. Each rule has its own formatting settings. If you’ve applied a large number of conditional formatting to cells, it can increase the number of unique cell formats. You can check and remove the unnecessary conditional formatting. Here are the steps to do this:
@@ -365,13 +374,6 @@ You can also get the “excel too many cell formats” error if the size of the 
 
 - Click **Save**.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Some Additional Solutions**
 
 Here are some additional methods you can try to fix the issue:
@@ -379,13 +381,6 @@ Here are some additional methods you can try to fix the issue:
 ### **1\. Check and Fix the Un-used Style Copy Issue**
 
 Many users have reported encountering the “Too many different cell formats” error when moving or copying the content of a workbook from one Excel to another and the unused styles being copied from one workbook to another. Microsoft has released a hotfix package which contains a fix for this issue. You can install this hotfix package [(2598143](https://support.microsoft.com/en-us/topic/description-of-the-excel-2010-hotfix-package-excel-x-none-msp-graph-x-none-msp-april-24-2012-26f7b94f-09b1-8a0e-4ab8-e286859174ed)) to resolve the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Use Clean Excel Cell Formatting Option**
 
@@ -429,6 +424,10 @@ You can get the compile error in the Excel file, containing the VBA code related
 - First, open the **Run** window by pressing the Windows+R keys.
 
 ![Open The Run Window](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/open-the-run-window.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In the **Run** window, type **%appdata%**.
 
@@ -505,16 +504,13 @@ Corruption in the Excel file can affect the macros in the hidden module, which m
 
 ![Message Appear After Repair](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/message-appear-after-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **What if None of the Above Solutions Works?**
 
 If the above methods fail to get rid of the “compile error in hidden module” in Excel, then use an Excel repair tool such as Stellar Repair for Excel. This tool is specifically designed to repair the corrupted Excel file. It can recover all the components from corrupted Excel file (macros, queries, formulas, etc.) without changing their original formatting. The tool is compatible with all Excel versions and can be downloaded on a Windows system. You can download the free trial version of Stellar Repair for Excel to scan the corrupted Excel file and preview the data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Closure**
 
@@ -560,19 +556,6 @@ You can get the Excel cannot paste the data error if the cells you are trying to
 
 ![Click on Locked Cell under Protection Tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/select-locked-under-protection.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 2: Check and Fix the Cell Format**
 
 Sometimes, you can get the "Cannot paste the data" error in Excel if there is an issue with the formatting of the cells in the column (in which you are trying to paste the data). You can check whether the cell formats of the columns of the source file (from where you are copying data) match the destination file (in which you are pasting the cell data). If not, then change the cell format. Here's how to do so:
@@ -598,22 +581,13 @@ The "data cannot be pasted" issue can also occur if Excel detects the copy area 
 
 ![Navigate to Home And click on Paste Special in Excel](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/go-to-home-and-then-click-paste-special.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - You can choose from the different options, such as paste all, formulas, operations, Transpose, skip blanks, etc. to take control over how the data is pasted.
 
 ![Click on Paste and Selection of Operations from Paste Special Properties](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/select-operations-from-paste-special.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 4:** Check and Unmerge Cells
 
@@ -623,6 +597,10 @@ The merged cells in the workbook can create discrepancies when copying and pasti
 - Click Merge & Center > Unmerge Cells.
 
 ![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/go-to-home-click-on-merge-and-center.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 5: Unselect the Excel DDE (Dynamic Data Exchange) Option**
 
@@ -656,13 +634,6 @@ The copy-and-paste error in Excel can also occur if there are not enough columns
 ### **Remove Incompatible Add-ins**
 
 Sometimes, incompatible or faulty add-ins can also create conflicts with Excel's clipboard operations, leading to the error. To check if add-ins are causing the issue, open the Excel file in safe mode. In safe mode, if you are able to paste the data, then check and uninstall the incompatible Excel Add-ins.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What to do if Nothing Works?**
 
@@ -715,6 +686,10 @@ There might be two scenarios: the Excel filter option is disabled/grayed out or 
 
 ## **Scenario 1 – Filter Option is Disabled or Grayed Out**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 1: Check and Un-group the Worksheet**
 
 When you apply filters to a single sheet in a grouped set, Excel disables the filter option in other sheets within the group. You can check the grouped sheets and try ungrouping them to enable the filter option. Here’s how to do so:
@@ -761,6 +736,10 @@ The filter not working issue in Excel can occur when the range selected for filt
 
 When you apply a filter to the data, Excel expects data to be in a continuous range. Excel filters do not consider the blank cells, thereby resulting in incorrect functioning of the filter. To resolve this issue, check and delete all blank cells. In case your Excel file is too large to delete the blank cells, then you can add a “Serial number” row as an alternative. Adding serial number row creates a data continuity, thus helping in fixing the filter-related issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 4: Unhide Hidden Rows and Columns**
 
 Hidden rows or columns in worksheets can also affect the filter functionality. You can check and unhide rows/columns to troubleshoot the issue. Here is how to do so:
@@ -795,13 +774,6 @@ Sometimes, the **Filter Not Working in Excel** issue can occur due to inconsiste
 
 In most cases, the Open and Repair tool can easily fix corruption issues in the Excel file. However, for any reason, if the [open and repair tool doesn’t work](https://www.stellarinfo.com/blog/ms-excel-open-and-repair-option-is-not-working/) you can consider repairing the file using a professional Excel Repair tool. Stellar Repair for Excel is one such advanced and secure tool to repair Excel files. With this tool’s powerful scanning capabilities, you can repair highly corrupted Excel files and recover all their objects with complete integrity. The tool is compatible with all Windows editions, including the latest Windows 11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Closure**
 
 Several reasons are associated with the **filter not working issue in Excel**. The filter option may not work as expected if you have not selected the complete and correct range of data or for many other reasons. You can follow the troubleshooting methods discussed above to fix the issue. If the filter fails to work due to corruption in the workbook, then try [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It is an advanced tool that can even repair severely damaged files. It also helps to recover all the data from corrupted files without changing the original formatting. You can check the tool’s functionality by downloading its demo version. It allows you to preview all the repairable objects in the corrupted Excel file.
@@ -820,5 +792,24 @@ Several reasons are associated with the **filter not working issue in Excel**. T
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/est-practices-boosting-your-game-videos-with-tags/"><u>[New] Best Practices Boosting Your Game Videos with Tags</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-discovering-linuxs-top-screenshots-tools/"><u>[New] Discovering Linux's Top Screenshots Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-fast-loading-facebook-videos/"><u>[Updated] The Art of Fast-Loading Facebook Videos</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-expert-guide-to-displaying-audio-waves-and-adding-motion-graphics-in-premiere-pro/"><u>2024 Approved Expert Guide to Displaying Audio Waves and Adding Motion Graphics in Premiere Pro</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-g2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo G2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/digital-training-footage-for-2024/"><u>Digital Training Footage for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-note-30-vip-racing-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Note 30 VIP Racing Edition Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-a05s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy A05s Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-reactivate-your-snapchat-account/"><u>How to Reactivate Your Snapchat Account</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-itel-a05s-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel A05s without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-pinnacle-camera-technology-the-best-reviewed/"><u>In 2024, Pinnacle Camera Technology – The Best Reviewed</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/mastery-manual-for-dynamic-distracting-filters/"><u>Mastery Manual for Dynamic, Distracting Filters</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 8 | Stellar</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-guide-to-youtube-keywords-for-peak-performance-for-2024/"><u>The Ultimate Guide to YouTube Keywords for Peak Performance for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-motorola-moto-g-stylus-5g-2023-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Motorola Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/vivo-y100i-power-5g-video-recovery-recover-deleted-videos-from-vivo-y100i-power-5g-by-fonelab-android-recover-video/"><u>Vivo Y100i Power 5G Video Recovery - Recover Deleted Videos from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+</ul></div>
 

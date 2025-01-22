@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2025-01-13T16:02:20.514Z
-updated: 2025-01-15T19:10:50.655Z
+date: 2025-01-14T23:35:34.334Z
+updated: 2025-01-21T20:36:17.946Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Forced Updates Are Disruptive
 
  Microsoft loves to force auto-updates, and there's no easy [way to disable them](https://driver-download.techidaily.com/boost-your-pcs-gameplay-download-the-new-steelseries-engine-for-windows-11-enthusiasts/). These updates are incredibly disruptive even when they go completely smoothly, as they can prevent your system from shutting down and turning on without installing the update. I was late to several online classes during the pandemic because of this; fortunately, so were my other colleagues and professors.
@@ -30,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Single Point of Failure
@@ -44,7 +48,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
@@ -57,14 +61,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Nanoleaf Umbra Cup Smart Lamp controlled via app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-nanoleaf-umbra-cup-smart-lamp-controlled-via-app_53647581103_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clouds Can Vanish
@@ -75,11 +75,11 @@ Jerome Thomas / How-To Geek
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
-Hannah Stryker / How-To Geek
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Hannah Stryker / How-To Geek
 
 ##  How to Reduce Your Reliance on the Internet
 
@@ -102,21 +102,16 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-how-to-make-your-tiktok-reaction-stand-out/"><u>[New] In 2024, How to Make Your TikTok Reaction Stand Out</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-spotting-a-block-snapchat-notifications-gone-mute-for-2024/"><u>[Updated] Spotting a Block Snapchat Notifications Gone Mute for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-unison-video-visionaries-finding-your-cms/"><u>2024 Approved Unison Video Visionaries Finding Your CMS</u></a></li>
-<li><a href="https://techidaily.com/abbyy-flexicapture-12/"><u>ABBYY 最新リリース:「FlexiCapture 12」が日本で登場！</u></a></li>
-<li><a href="https://techidaily.com/abbyys-revolutionary-ocr-software-enhances-interactive-education-insights-from-the-official-abbyy-blog/"><u>ABBYY's Revolutionary OCR Software Enhances Interactive Education - Insights From the Official ABBYY Blog</u></a></li>
-<li><a href="https://techidaily.com/abbyystarpie-warp-abbyy/"><u>ABBYYのフローテンプレートがSTARPIE WARPに登場！あなたの時間管理を革命化します - ABBYYブログ特集</u></a></li>
-<li><a href="https://techidaily.com/ai-and-robotic-collaborators-set-to-skyrocket-by-half-in-upcoming-years-shaping-the-future-of-tech-jobs/"><u>AI & Robotic Collaborators Set to Skyrocket by Half in Upcoming Years, Shaping the Future of Tech Jobs</u></a></li>
-<li><a href="https://techidaily.com/ai-driven-document-automation-within-health-services-real-world-examples/"><u>AI-Driven Document Automation Within Health Services: Real World Examples</u></a></li>
-<li><a href="https://techidaily.com/boost-your-marketing-results-with-cookiebots-powerful-cookie-based-solutions/"><u>Boost Your Marketing Results with Cookiebot's Powerful Cookie-Based Solutions</u></a></li>
-<li><a href="https://techidaily.com/boost-your-online-presence-with-cookiebot-technology/"><u>Boost Your Online Presence with Cookiebot Technology</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-connectivity-update-samsung-usb-drivers-for-smartphones/"><u>Improve Connectivity: Update Samsung USB Drivers for Smartphones</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-bridging-music-and-image-in-the-web/"><u>In 2024, Bridging Music & Image in the Web</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-engineering-engaging-podcast-sneak-peeks/"><u>In 2024, Engineering Engaging Podcast Sneak Peeks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/sky-cameras-rivalry-dji-m310-vs-gopro-hero5-session/"><u>Sky Cameras Rivalry DJI M310 VS GoPro HERO5 Session</u></a></li>
-<li><a href="https://fox-access.techidaily.com/the-ifunny-meme-journey-downloading-made-easy-for-2024/"><u>The iFunny Meme Journey Downloading Made Easy for 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-pc-video-dubbing-made-easy-top-6-software-solutions/"><u>Updated 2024 Approved PC Video Dubbing Made Easy Top 6 Software Solutions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeo-video-structure-chapter-integration-guide/"><u>[Updated] 2024 Approved Vimeo Video Structure Chapter Integration Guide</u></a></li>
+<li><a href="https://some-tips.techidaily.com/embrace-the-change-the-leap-in-open-source-ai-explained-by-zdnet/"><u>Embrace the Change: The Leap in Open-Source AI Explained by ZDNet</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-ace-3-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Ace 3 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nubia-red-magic-9-proplus-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nubia Red Magic 9 Pro+ phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-spark-go-2024-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Spark Go (2024) phone? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oppo-find-x7-ultra-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Oppo Find X7 Ultra</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overwatch-system-requirements-check-it-out/"><u>Overwatch System Requirements [Check It Out]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/raisingthebarbeyondmycam-cameras-for-2024/"><u>RaisingTheBarBeyondMyCam Cameras for 2024</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-x100-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo X100</u></a></li>
 </ul></div>
 

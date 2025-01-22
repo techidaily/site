@@ -1,6 +1,6 @@
 ---
 title: Solved Excel 2023 Spreadsheet Disappears after Opening
-date: 2024-09-20T01:11:10.277Z
+date: 2025-01-21T00:00:27.770Z
 tags: 
   - repair
   - repair excel
@@ -20,24 +20,15 @@ Several Excel users have reported about experiencing ‘Excel spreadsheet disapp
 
 Figure 1 - Excel Blank Screen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **User Instances of ‘Excel Open But Can’t See Spreadsheet’ Issue**
 
 **Instance 1:** The user said that _“Excel 2016 opens to a blank screen and everything is greyed out. Ribbons at the top of Excel are also not present”._
 
 **Instance 2:** The user reported that _“Attempting to open a spreadsheet, either by double-clicking the file or by opening Excel, it opens but only a blank Excel window is visible. When trying to save that particular file, Excel behaves as though there is no file open at all and all the file saving options, such as save, save as, print, etc. are greyed out.”_
-
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Causes Behind ‘Excel Open But Can’t See Spreadsheet’ Issue & the Solutions Thereof**
 
@@ -48,10 +39,7 @@ Following are some of the possible reasons behind the ‘Excel open but can’t 
 You may have saved the Excel sheet as a hidden document.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution: Unhide Excel File**
@@ -64,18 +52,15 @@ Note: If the ‘Hide’ tab under the View menu is greyed out, the sheet you’r
 
 ![unhide excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 2 - Unhide Excel File
 
 - A dialog box will pop-up showing the worksheet name that can be unhidden. For instance, below is an image of Unhide box that lists ‘Daily\_Reports’ spreadsheet under Unhide workbook.
 
 ![unhide excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 3 – Select and Unhide Excel Workbook
 
@@ -83,18 +68,15 @@ Figure 3 – Select and Unhide Excel Workbook
 
 If this fails to work, there’s a possibility that the spreadsheet window pane may have slided to one side of the visible desktop. To bring back the displayed area, click the ‘Arrange All’ option under the View tab. If the issue persists, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Cause 2: Ignore Dynamic Data Exchange (DDE) Option is Enabled**
 
 Another reason behind the ‘Excel opens to a blank screen’ issue could be that the “Ignore other applications that use Dynamic Data Exchange (DDE)” checkbox is checked in Excel options.
 
 Usually, when you double-click an Excel file, a DDE message is sent to Excel instructing it to open that particular file. But, if you have the ‘Ignore DDE’ option selected, the DDE message sent to Excel to open a workbook is ignored. As a result, the Excel workbook opens a blank screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution: Uncheck the Ignore DDE Option**
 
@@ -112,6 +94,10 @@ Figure 4 - Select Excel Options
 
 ![Excel Options Window](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 5 - Excel Options Window
 
 - In ‘Advanced’ window, locate the **General** section, and then uncheck the “Ignore other applications that use Dynamic Data Exchange (DDE)” checkbox.
@@ -127,6 +113,10 @@ If these steps don’t work, proceed to the next workaround.
 ### **Cause 3: Issue within Office Program**
 
 Sometimes, problem within your Microsoft Office program might cause Excel to behave oddly and may result in an Excel spreadsheet disappeared issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution: Repair Office Program**
 
@@ -152,6 +142,10 @@ Figure 8 - Modify MS Office Program
 
 ![repair MS Office program](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 9 - Repair MS Office Program
 
 **For Windows 8:**
@@ -170,23 +164,9 @@ You may be asked to restart your system after completion of the repair process.
 
 If repairing your Office installation fails to resolve the issue, continue to solution 4.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Cause 4: Problematic Excel and COM Add-ins**
 
 Sometimes, Excel and COM add-ins may cause Excel file open a blank grey screen problem.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Solution: Disable the Add-ins**
 
@@ -196,13 +176,6 @@ Disabling the Excel and COM add-ins one at a time may help resolve the problem. 
 - From ‘Excel Options’ left-side panel, click **Add-Ins**, and then choose **COM Add-ins** from the ‘Manage’ drop-down. Click the **Go**
 
 ![COM Add-ins](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 10 - Select COM Add-ins
 
@@ -219,6 +192,10 @@ If the issue persists, repeat the above steps (1 till 4), except that you need t
 If you’re still experiencing the same problem after unchecking all the COM add-ins, repeat all the above steps, except choose ‘Excel Add-ins’ in step 2.
 
 If Excel can load the file, then the add-in that you disabled last leads to the problem. If turning off add-ins does not work, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Cause 5: Problem with Excel File Associations**
 
@@ -256,24 +233,15 @@ If the file type is different than .xlsx, open the file in a different applicati
 - If you’re unable to find Excel, browse the Excel installation folder.
 - Select **exe** and then choose **Excel**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What Next? Use Stellar Repair for Excel to Recover Your File**
 
 If the above solutions don’t help recover your Excel file, use an Excel file repair tool, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to recover it. The software can restore the Excel spreadsheet and its components, including tables, pivot tables, charts, formulas, etc. while preserving the spreadsheet properties and formatting.
 
 [![Free download Stellar Repair for Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check out the video to recover Excel file by using Stellar Repair for Excel software.
 
@@ -298,5 +266,21 @@ This article described the possible causes behind the ‘Excel open but can’t 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-vimeoifytweets-video-to-mp3-and-mp4/"><u>[New] VimeoifyTweets Video-to-MP3 & MP4</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-from-zero-to-hero-achieving-1k-insta-buddies-in-30-days-for-2024/"><u>[Updated] From Zero to Hero Achieving 1K Insta Buddies in 30 Days for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/commanding-the-future-of-ai-conversations-the-essential-guide-to-customized-gpt-directives/"><u>Commanding the Future of AI Conversations: The Essential Guide to Customized GPT Directives</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-infinix-smart-8-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Infinix Smart 8 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/discover-the-leading-4-windows-apps-for-easy-webp-viewing/"><u>Discover the Leading 4 Windows Apps for Easy WebP Viewing</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/diy-building-unique-flipbooks-for-each-pdf-file-together-using-flipbuilder/"><u>DIY: Building Unique Flipbooks for Each PDF File Together Using FlipBuilder</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fast-track-your-favorites-on-netflix-with-playback-speeds/"><u>Fast-Track Your Favorites on Netflix with Playback Speeds</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus 11 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-20-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 20 Pro 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 13 mini Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mkv-movies-on-edgeplus-2023-is-it-possible-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Play MKV movies on Edge+ (2023), is it possible?</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unleash-web-success-harnessing-the-strength-of-cookiebot/"><u>Unleash Web Success: Harnessing the Strength of Cookiebot</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveiling-video-sharing-secrets-examining-igtv-and-youtube-in-depth-for-2024/"><u>Unveiling Video Sharing Secrets Examining IGTV & YouTube in Depth for 2024</u></a></li>
+</ul></div>
 

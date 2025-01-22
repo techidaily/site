@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11"
-date: 2025-01-10T19:18:05.569Z
-updated: 2025-01-15T19:46:46.862Z
+date: 2025-01-21T00:03:56.673Z
+updated: 2025-01-21T21:31:47.121Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 ## Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 * [How to Get Sound Packs of Old Windows Sounds](https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-150-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/)
 * [Change System Sounds in Settings](https://screen-activity-recording.techidaily.com/2024-approved-effective-group-meetings-googles-top-solutions-4/)
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -38,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
@@ -54,10 +58,6 @@ Close
 Close 
 
  The sound pack will now be a ZIP folder. Next, [extract the zip file](https://some-approaches.techidaily.com/new-the-art-of-content-optimization-for-maximum-subscriber-acquisition/) to view the contents of the sound pack. You should see several WAV files, so go through them and confirm it has all the sounds you want by listening to them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Change System Sounds in Settings
 
@@ -83,10 +83,6 @@ Close
 
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Enable Changing the Login Sound
 
  If you find that the "Windows Logon" and "Windows Logoff" events are missing in the Program Events section, you can unhide them in the Registry Editor.
@@ -98,6 +94,10 @@ Close
 Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
 
@@ -128,24 +128,19 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-creating-time-bending-hyperlapse-films-for-2024/"><u>[New] Creating Time-Bending Hyperlapse Films for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-unlock-desktop-video-potential-on-tiktok/"><u>[New] Unlock Desktop Video Potential on TikTok</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-basic-to-brilliant-a-complete-insta-cover-photo-course/"><u>[Updated] From Basic to Brilliant A Complete Insta Cover Photo Course</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-streamlining-color-grading-with-lut-techniques-in-ae/"><u>[Updated] In 2024, Streamlining Color Grading with LUT Techniques in AE</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-captivating-captions-a-triad-of-tips-for-insta-videos-for-2024/"><u>Crafting Captivating Captions A Triad of Tips for Insta Videos for 2024</u></a></li>
-<li><a href="https://fox-where.techidaily.com/customizing-your-windows-clock-display-settings-a-step-by-step-guide/"><u>Customizing Your Windows Clock Display Settings - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-n30-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord N30 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/navigating-virtual-realms-in-retroperusia-facebooks-image-inversion/"><u>Navigating Virtual Realms in Retroperusia Facebook's Image Inversion</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-x100-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on X100</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-m34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy M34 5G on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-unwanted-pc-crashes-with-these-6-effective-methods/"><u>Resolve Unwanted PC Crashes with These 6 Effective Methods</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-open-excel-2021-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel 2021 Read Only Documents</u></a></li>
-<li><a href="https://fox-that.techidaily.com/solve-common-iphone-snapshot-problems-with-these-8-proven-strategies/"><u>Solve Common iPhone Snapshot Problems with These 8 Proven Strategies</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-70-lite-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-poco-f5-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Poco F5 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-itel-a70-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Itel A70</u></a></li>
-<li><a href="https://win-forum.techidaily.com/ultimate-guide-mastering-the-art-of-forcible-application-termination-in-windows-11/"><u>Ultimate Guide: Mastering the Art of Forcible Application Termination in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-lava-blaze-pro-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Lava Blaze Pro 5G</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-exemplary-6-online-communities-for-corporate-growth/"><u>[New] Exemplary 6 Online Communities for Corporate Growth</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>[Updated] For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-canon-shoots-get-10-freepaid-lut-packs/"><u>[Updated] In 2024, Elevate Canon Shoots - Get 10 Free/Paid LUT Packs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-worlds-top-12-screensaver-apps-no-end-in-view/"><u>[Updated] World's Top 12 Screensaver Apps (No End in View)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/cutting-edge-final-cut-pros-best-10-plugins-for-2024/"><u>Cutting Edge Final Cut Pro's Best 10 Plugins for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ting-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning-for-2024/"><u>Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning for 2024</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-11-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/leverage-online-platform-features-to-spread-your-music-for-2024/"><u>Leverage Online Platform Features to Spread Your Music for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/online-guide-converting-fb-videos-to-mp4-at-hd-resolutions-for-free/"><u>Online Guide Converting FB Videos to MP4 at HD Resolutions for Free</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-sony-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Sony Xperia 10 V</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-moto-g14-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Moto G14 without backup.</u></a></li>
 </ul></div>
 

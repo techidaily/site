@@ -1,7 +1,7 @@
 ---
 title: Solved - The File is Corrupted and Cannot be Opened - Excel 2010 | Stellar
-date: 2024-09-19T17:28:53.858Z
-updated: 2024-09-23T21:48:23.546Z
+date: 2025-01-15T18:43:26.614Z
+updated: 2025-01-21T17:00:57.146Z
 tags: 
   - repair
   - repair excel
@@ -137,16 +137,13 @@ Figure 10 – Illustrates Saving Repaired Excel File in Stellar Repair for Excel
 
 ![repaired file saved Dialog Box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/7-saving-complete.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 11 – Illustrates Saving Complete Message in Stellar Repair for Excel
 
 You will be able to access your Excel file from the selected location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -160,6 +157,10 @@ You can use the first two possible solutions to fix the “The file is corrupted
 **Summary:** The blog outlines some quick tips to fix ‘We found a problem with some content’ error in Microsoft Excel 2013/2016. It explains manual procedure to resolve the error and also suggests an automated tool to perform the repair process to retrieve all possible data from a corrupt workbook.
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sometimes, when opening an MS Excel file, you may receive an error message that reads:
 
@@ -201,6 +202,10 @@ Figure 2 – Open and Repair Feature in Excel
 If repairing the corrupt Excel file doesn’t work, you can try an Excel file repair tool to fix corruption errors. You can also try to recover data from the corrupt file manually by following the next tips.
 
 **Read this:** [What to do when Open and Repair doesn’t work?](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Tip #2: Set Calculation Option to Manual**
 
@@ -305,16 +310,13 @@ You can get the compile error in the Excel file, containing the VBA code related
 - Right-click on a file with .exd extension and select **Delete**.
 - Once you delete the .exd files, restart your Excel application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Rollback the Office Updates
 
 MS Office updates or upgrades may also cause the compile error in hidden module in Excel. If the error has occurred after downloading the recent Microsoft Office updates, try [reverting to the previous version](https://support.microsoft.com/en-us/topic/how-to-revert-to-an-earlier-version-of-office-2bd5c457-a917-d57e-35a1-f709e3dda841) or uninstalling the recent updates to fix the issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Unselect Missing References
 
@@ -389,6 +391,10 @@ You can get the “compile error in hidden module” when Excel detects any issu
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When opening a workbook in Microsoft Excel 2003 or later, you may encounter an error message,
 
 _“Damage to the file was so extensive that repairs were not possible. Excel attempted to recover your formulas and values, but some data may have been lost or corrupted.”_
@@ -414,6 +420,10 @@ In a nutshell, the error generally happens if Excel discovers unreadable content
 ## How to Resolve “Damage to the File Was So Extensive That Repairs Were Not Possible” Error?
 
 Here are a few methods you can follow to fix or resolve the Excel repair error.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Perform Basic Troubleshooting
 
@@ -476,10 +486,7 @@ Follow the instructions to enable it:
 ![At the right side, make sure that the "Developer" box is checked](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-7.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Click **OK**.
@@ -490,6 +497,10 @@ Once you have enabled the **Developer** tab, follow the steps to copy the macro 
 - Locate the **Developer** tab.
 
 ![Developer tab in Ribbon](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/07/image-8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Select **Visual Basic** to display the “**Visual Basic Editor**.”  
 
@@ -639,20 +650,6 @@ You can get the Excel cannot paste the data error if the cells you are trying to
 
 ![Click on Locked Cell under Protection Tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/select-locked-under-protection.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 2: Check and Fix the Cell Format**
 
 Sometimes, you can get the "Cannot paste the data" error in Excel if there is an issue with the formatting of the cells in the column (in which you are trying to paste the data). You can check whether the cell formats of the columns of the source file (from where you are copying data) match the destination file (in which you are pasting the cell data). If not, then change the cell format. Here's how to do so:
@@ -682,19 +679,6 @@ The "data cannot be pasted" issue can also occur if Excel detects the copy area 
 
 ![Click on Paste and Selection of Operations from Paste Special Properties](https://www.stellarinfo.com/public/image/catalog/article/Repair-Office-Documents/cannotpastedata/select-operations-from-paste-special.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4:** Check and Unmerge Cells
 
 The merged cells in the workbook can create discrepancies when copying and pasting data. These can create mismatch between the source and destination cell areas, resulting in errors. Make sure you are not pasting the data copied from merged cells. You can check and unmerge the cells using the below steps:
@@ -715,6 +699,10 @@ In **Excel Options**, click **Advanced** and unselect **"Ignore other applicatio
 
 **![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-ignoring-dynamic-data-exchange-option.jpg)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Here are some additional solutions you can try to fix the "Cannot paste the data" error in Excel
 
 ### **Check the Excel File Format**
@@ -733,16 +721,13 @@ You can get the "Cannot paste the data" error when the information you need to p
 
 The copy-and-paste error in Excel can also occur if there are not enough columns to accept the data that you are trying to paste. You can insert more columns and then try copying and pasting data. To insert additional columns, click on the column heading, click **Home**, and then select **Insert.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Remove Incompatible Add-ins**
 
 Sometimes, incompatible or faulty add-ins can also create conflicts with Excel's clipboard operations, leading to the error. To check if add-ins are causing the issue, open the Excel file in safe mode. In safe mode, if you are able to paste the data, then check and uninstall the incompatible Excel Add-ins.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What to do if Nothing Works?**
 
@@ -796,13 +781,6 @@ Click on the desired tab to repair that file format.
 - A preview of the repaired Word file is displayed on the screen. Verify the file contents from the right pane of the preview window.
 
 ![Preview of word repair](https://stellarinfo.com/support/kb/images/preview-repaired-word-file.png)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
                                          _<small>Figure 3 - Preview of Repaired Word Document</small>_
 
@@ -918,5 +896,17 @@ The repaired file gets saved at the preferred location.
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-pivotal-point-in-view-count-for-online-earning/"><u>[Updated] The Pivotal Point in View Count for Online Earning</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-can-we-unlock-our-honor-90-pro-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Honor 90 Pro Phone Screen?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-xiaomi-13t-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on Xiaomi 13T Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-y28-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo Y28 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-note-30-vip-racing-edition-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Note 30 VIP Racing Edition unlock screen</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2000-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2000 | Stellar</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-comprehensive-guide-to-the-m3-macbook-pro-specs-price-reveal-and-expected-arrival-date/"><u>The Comprehensive Guide to the M3 MacBook Pro: Specs, Price Reveal, and Expected Arrival Date</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unleash-your-creativity-with-safe-video-tools-from-trusted-brand-sikker-multimedia/"><u>Unleash Your Creativity with Safe Video Tools From Trusted Brand Sikker Multimedia</u></a></li>
+</ul></div>
 

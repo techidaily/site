@@ -1,7 +1,7 @@
 ---
 title: The 5 Best Methods to Track a Lost or Stolen iPhone 12 mini | Stellar
-date: 2024-09-22T23:11:50.532Z
-updated: 2024-09-24T07:57:28.933Z
+date: 2025-01-14T17:41:47.142Z
+updated: 2025-01-21T23:12:02.399Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -39,13 +39,6 @@ So, as soon as you discover that your iPhone has been stolen or lost, first, try
 
 ![tack lost iPhone- Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/11/iPhone-stolen-infographic.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **<u>Method 1: Use Find My iPhone</u>**
 
 If **Find My iPhone** is enabled on your stolen iPhone, you can do the following:
@@ -64,6 +57,10 @@ If **Find My iPhone** is enabled on your stolen iPhone, you can do the following
 - Play sound (if your iPhone is nearby, you can trace it with sound)
 - Activate ‘Lost Mode’ (this locks your device and still tracks it)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **What does Lost Mode do to your device?**
 
 - Remotely locks your device
@@ -80,15 +77,16 @@ Choosing to erase the iPhone remotely deletes the complete data from it.
 Use a trusted and safe data recovery solution such as **[Stellar Data Recovery for iPhone](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)** [](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/)to restore lost files from iCloud. The software allows the recovery of specific data rather than recovering the entire data.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  **<u>Method 2: Track iPhone through Family Sharing</u>**
 
 ![Stellar](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2018/11/a.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you have set up **Family Sharing,** use it to track your iPhone. Family Sharing helps the members to know each one’s device location. Ask another member in the Family Sharing group to trace your iPhone via the Find My iPhone app. The member can also sign into iCloud.com to locate the missing iPhone.
 
@@ -110,10 +108,7 @@ Note: The iPhone’s last known location remains only for one day. In case your 
 - Report your network carrier to disable the services like calls, messages, or data use.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **<u>Method 3: Use Google Timeline to find lost iPhone</u>**
@@ -157,18 +152,15 @@ Is this post helpful? Share your experience in the comments below, how you manag
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Screenshots are the fastest way to save anything you see on smartphones or systems. Many of you may have also captured screens of chats, video calls, online products, etc., on your iPhone. Since  screenshots are saved in various image formats like JPG, PNG, GIF, etc., they can get deleted like any other file on your Apple device.
 
 Hence, if you have lost or mistakenly deleted screenshots on your iPhone, this blog shares successful methods to recover deleted screenshots on your iPhone.
 
 But first, you must know the locations on your iPhone where you can search for deleted or missing screenshots.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Where are screenshots saved?**
 
@@ -190,6 +182,10 @@ It’s well known that the Recently Deleted Album on iPhone keeps the deleted ph
 
 ![Recover Screenshots from Recently Deleted Album - Tap Recover ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Deleted-Pictures-from-Recently-Deleted-Album-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Deleted Screenshot Recovery in iPhone from iTunes Backup**
 
 On macOS Mojave or earlier versions, restore permanently deleted screenshots from an iTunes backup. To [recover deleted photos or screenshots](https://www.stellarinfo.com/article/5-best-solution-to-recover-deleted-pictures-on-iphones.php), follow these steps:
@@ -203,16 +199,13 @@ On macOS Mojave or earlier versions, restore permanently deleted screenshots fro
 
 ![Recover screenshots via - Restore Backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Photos-on-iPhone-using-iTunes-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Choose the most relevant **backup** of your iPhone and click **Restore** to start the process.
 
 ![Recover screenshots via - Click Restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Photos-on-iPhone-using-iTunes-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 3: Recover Permanently Deleted Screenshots using Finder**
 
@@ -228,6 +221,10 @@ In macOS Catalina and newer versions, Finder syncs and manages the content on iP
 - Go to the **General** tab and click **Restore** **Backup**.
 
 ![Recover screenshots using Finder - click Restore Backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Deleted-Pictures-using-Finder-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Select the **backup** **date** and click **Restore** to start the process.
 
@@ -285,10 +282,7 @@ Besides, if you are lucky, you can get back the deleted screenshots from the Rec
 Nonetheless, robust and secure software is the right approach to recover screenshots for all complex data loss cases. For example, if the screenshots are permanently deleted from iPhone, use Stellar Data Recovery for iPhone. The software scans the iPhone or iPhone/ iCloud backup, displays the found screenshots, and allows a preview before saving.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **FAQ**
@@ -383,6 +377,10 @@ Stellar Data Eraser Software is supported by all versions of iOS from the latest
 
 ![Stellar Toolkit for iPhone - Data Erase Complete](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-erasing-completed-3-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 If you forgot your Apple password and want to reset your iPhone, you can use any of the two methods mentioned above in the blog. You can reset your iPhone with iTunes/ Finder or by using a professional tool, such as Stellar Eraser for iPhone. However, make sure to backup up your iPhone data before proceeding to reset your device.
@@ -403,13 +401,6 @@ You can reset your iPhone without any computer by using the settings app of your
 
 - Go to the **Settings** app > **General** > **Reset** > **Erase** **all** **Content** **and** **Settings**.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Recover Lost Data from iTunes Backup File?
 
 If you have lost iPhone data and are unable to restore it from the iTunes backup file, use Stellar Data Recovery for iPhone. The software quickly recovers lost or deleted iPhone data from iTunes.
@@ -423,13 +414,6 @@ Follow the below steps to recover lost data from iTunes backup file:
 1\. Launch ‘**Stellar Data Recovery for iPhone**’ tool on your computer.
 
 ![Stellar Data Recovery for iPhone](https://www.stellarinfo.com/public/image/catalog/screenshot/iphone-data-recovery-win/iPhone-win-screen1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
     _Figure: Home screen of Stellar Data Recovery for iPhone_
 
@@ -457,5 +441,19 @@ The software lets you preview, select, recover, and also search for specific pho
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/avoidance-techniques-no-more-fb-vlogs/"><u>Avoidance Techniques No More FB Vlogs</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/business-travelers-best-friend-the-ultimate-tablet-guide-beyond-ipads-and-thinkpads-zdnet-recommendation/"><u>Business Travelers' Best Friend: The Ultimate Tablet Guide Beyond iPads and ThinkPads - ZDNET Recommendation</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40i-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40i in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29e-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29e If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x100-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X100 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-xs-max-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone XS Max System Issues? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Meizu 21 Pro | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-seamless-transition-turning-mac-videos-into-discs/"><u>In 2024, Seamless Transition Turning Mac Videos Into Discs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210228534-9781838141110-signposts-to-source/"><u>Signposts to Source | Free Book</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-zte-axon-40-lite-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your ZTE Axon 40 Lite Phone Pattern Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-forza-horizon-4-pc-crashes-fixes-and-optimizations-that-work/"><u>Troubleshooting Forza Horizon 4 PC Crashes: Fixes and Optimizations That Work</u></a></li>
+</ul></div>
 

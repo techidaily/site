@@ -1,6 +1,6 @@
 ---
 title: Solved Excel 2003 Spreadsheet Disappears after Opening
-date: 2024-09-17T17:49:33.068Z
+date: 2025-01-16T21:36:22.289Z
 tags: 
   - repair
   - repair excel
@@ -20,6 +20,10 @@ Several Excel users have reported about experiencing ‘Excel spreadsheet disapp
 
 Figure 1 - Excel Blank Screen
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **User Instances of ‘Excel Open But Can’t See Spreadsheet’ Issue**
 
 **Instance 1:** The user said that _“Excel 2016 opens to a blank screen and everything is greyed out. Ribbons at the top of Excel are also not present”._
@@ -33,13 +37,6 @@ Following are some of the possible reasons behind the ‘Excel open but can’t 
 ### **Cause 1: Excel File is Hidden**
 
 You may have saved the Excel sheet as a hidden document.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Solution: Unhide Excel File**
 
@@ -69,6 +66,10 @@ Another reason behind the ‘Excel opens to a blank screen’ issue could be tha
 
 Usually, when you double-click an Excel file, a DDE message is sent to Excel instructing it to open that particular file. But, if you have the ‘Ignore DDE’ option selected, the DDE message sent to Excel to open a workbook is ignored. As a result, the Excel workbook opens a blank screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Solution: Uncheck the Ignore DDE Option**
 
 Make sure that the ‘Ignore DDE’ option is unchecked by performing these steps:
@@ -86,10 +87,7 @@ Figure 4 - Select Excel Options
 ![Excel Options Window](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure 5 - Excel Options Window
@@ -97,13 +95,6 @@ Figure 5 - Excel Options Window
 - In ‘Advanced’ window, locate the **General** section, and then uncheck the “Ignore other applications that use Dynamic Data Exchange (DDE)” checkbox.
 
 ![uncheck ignore DDE](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 6 - Uncheck Ignore Other Applications that use DDE
 
@@ -116,10 +107,7 @@ If these steps don’t work, proceed to the next workaround.
 Sometimes, problem within your Microsoft Office program might cause Excel to behave oddly and may result in an Excel spreadsheet disappeared issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution: Repair Office Program**
@@ -134,31 +122,21 @@ Try repairing your Office program by executing the steps listed below, based on 
 
 ![Windows settings screen](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 7 - Windows Settings Screen
 
 - In ‘Apps & features’ screen, scroll down to your Microsoft Office program and tap on it, and then click the **Modify**
 
 ![modify MS Office program](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 8 - Modify MS Office Program
 
 - In ‘How would you like to repair your Office programs’ dialog box, select the **Online Repair**radio button, and then click the **Repair**
 
 ![repair MS Office program](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Excel-repair/img9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure 9 - Repair MS Office Program
 
@@ -178,9 +156,17 @@ You may be asked to restart your system after completion of the repair process.
 
 If repairing your Office installation fails to resolve the issue, continue to solution 4.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Cause 4: Problematic Excel and COM Add-ins**
 
 Sometimes, Excel and COM add-ins may cause Excel file open a blank grey screen problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution: Disable the Add-ins**
 
@@ -212,10 +198,7 @@ If Excel can load the file, then the add-in that you disabled last leads to the 
 The Excel file opening a blank screen problem may occur if the file associations are not performing correctly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Solution: Reset Excel File Associations**
@@ -251,10 +234,7 @@ If the file type is different than .xlsx, open the file in a different applicati
 - Select **exe** and then choose **Excel**.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **What Next? Use Stellar Repair for Excel to Recover Your File**
@@ -286,5 +266,22 @@ This article described the possible causes behind the ‘Excel open but can’t 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlining-media-transfer-twitter-content-on-snapchat/"><u>[New] Streamlining Media Transfer Twitter Content on Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-top-picks-ultimate-gifs-and-images-as-zoomgoogle-meet-backdrops-for-2024/"><u>[New] Top Picks Ultimate GIFs & Images as Zoom/Google Meet Backdrops for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-jestjungle-your-gateway-to-universal-comedy/"><u>[Updated] 2024 Approved JestJungle Your Gateway to Universal Comedy</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-best-value-in-cloud-pricing-a-comprehensive-list/"><u>[Updated] 2024 Approved The Best Value in Cloud Pricing A Comprehensive List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/discreet-downloaders-ranked-2023s-best-8-selections/"><u>Discreet Downloaders Ranked 2023'S Best 8 Selections</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/divide-and-conquer-adding-chapters-to-vimeo/"><u>Divide and Conquer Adding Chapters to Vimeo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/future-patch-overcomes-windows-11-compatibility-constraints-with-fat32-filesystem/"><u>Future Patch Overcomes Windows 11 Compatibility Constraints with FAT32 Filesystem</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-c22-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia C22 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-z-fold-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy Z Fold 5 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-realme-narzo-n55-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Realme Narzo N55</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-y100-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo Y100</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-14-pro-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 14 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-potential-ps4-recording-techniques-in-obs-for-2024/"><u>Unlocking the Potential PS4 Recording Techniques in OBS for 2024</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-best-10-chinese-video-to-english-translator/"><u>Updated Best 10 Chinese Video to English Translator</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y36-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y36 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 

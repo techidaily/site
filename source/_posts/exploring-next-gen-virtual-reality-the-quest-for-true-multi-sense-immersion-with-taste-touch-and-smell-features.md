@@ -1,7 +1,7 @@
 ---
 title: "Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features"
-date: 2025-01-08T16:06:44.583Z
-updated: 2025-01-15T21:22:48.894Z
+date: 2025-01-20T01:39:23.117Z
+updated: 2025-01-21T23:17:35.472Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
 ---
 
 ## Exploring Next-Gen Virtual Reality: The Quest for True Multi-Sense Immersion with Taste, Touch, and Smell Features
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/9a22b51aefec4c58f2a1f5a5ec87dbc3931413822
  Virtual Reality (VR) has pretty much nailed providing high-quality virtual content for your eyes and ears, but what about the other sense organs? How far away are we from getting taste, touch, and smell as part of the VR experience?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  It's Not As Crazy As It Smells
@@ -44,7 +40,7 @@ Related: [What Is "Presence" in VR, and Why Is it So Important?](https://change-
 ![Woman in a kitchen wearing a virtual reality headset and eating a bowl of food.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-eating-food.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautiful-attractive-young-woman-eating-healthy-696003394)_
@@ -55,13 +51,13 @@ _[hedgehog94/Shutterstock.com](https://www.shutterstock.com/image-photo/beautifu
 
  It turns out, this might not be necessary at all for taste. Researchers have found that you can use [electrical](https://www.anrdoezrs.net/links/3607085/type/dlg/sid/UUhtgUeUpU205426/https://link.springer.com/chapter/10.1007/978-3-030-50020-7%5F24?error=cookies%5Fnot%5Fsupported&code=0b61a435-5956-4e83-a25c-20b91b6edcf3) or [thermal](https://www.nature.com/articles/35002581) stimulation to induce a sense of taste. These approaches are still in the very early phases, but perhaps one day you'll stick a plate in your mouth when you suit up for VR and enjoy a range of tastes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Next-Generation Haptics
 
 ![Man wearing a virtual reality headset and exoskeleton gloves.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/man-virtual-reality-headset-gloves-touch.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo/medium-shot-man-lying-bed-using-1367032724)_
 
@@ -75,9 +71,17 @@ _[Frame Stock Footage/Shutterstock.com](https://www.shutterstock.com/image-photo
 
  In other words, we're on track to create technology that can reliably recreate many types of touch sensations that current consumer VR can't. Getting the cost and complexity down so that it can reach the masses, however, will take time.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Smelling the Virtual Roses
 
 ![Woman wearing virtual reality headset and enjoying the smell of a bouquet of flowers.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/woman-virtual-reality-headset-flower-bouquet.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-vr-glasses-headset-enjoying-1780967699)_
 
@@ -90,10 +94,6 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
  For smell specifically, the mask uses nine cartridges with different aromas that can be mixed together. These can be depleted and need to be replaced, but by combining them in various proportions this "scent generator" can offer a bouquet of smells.
 
  However, Feelreal has been plagued with issues and at the time of writing not yet released products to the public. Their Kickstarter page has gone some time without an update, following multiple updates detailing issues with the FDA's vaping liquid ban, which would include Feelreal's technology. Their [Kickstarter updates](https://www.kickstarter.com/projects/feelreal/feelreal) further detail issues resulting from the 2020 COVID lockdowns. While their last update as of this article's publication claims that the project is still alive, it's not clear whether the project is permanently halted or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Holy Grail: Direct Brain Stimulation
 
@@ -116,19 +116,18 @@ _[Khosro/Shutterstock.com](https://www.shutterstock.com/image-photo/lovely-girl-
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-extensive-review-the-hero4-black-journey/"><u>[Updated] 2024 Approved Extensive Review The Hero4 Black Journey</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-harmonyhunter-discovering-audio-dimensions/"><u>2024 Approved HarmonyHunter Discovering Audio Dimensions</u></a></li>
-<li><a href="https://techidaily.com/deutschlands-abbyy-verzeichnete-im-geschaftsjahr-2018-ein-umsatzwachstum-von-19-analyse-und-ausblicke/"><u>Deutschlands ABBYY Verzeichnete Im Geschäftsjahr 2018 Ein Umsatzwachstum Von 19%: Analyse Und Ausblicke</u></a></li>
-<li><a href="https://techidaily.com/discover-abyabs-revolutionary-tools-for-rapid-digitalization-at-the-documation-salon-in-2017/"><u>Discover ABYAB's Revolutionary Tools for Rapid Digitalization at the Documation Salon in 2017</u></a></li>
-<li><a href="https://app-tips.techidaily.com/effortless-tricks-for-bypassing-android-restrictions-in-just-a-few-taps/"><u>Effortless Tricks for Bypassing Android Restrictions in Just a Few Taps</u></a></li>
-<li><a href="https://techidaily.com/elevate-your-site-with-the-power-of-cookiebot-technology/"><u>Elevate Your Site with the Power of Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/enhanced-user-experience-with-automated-tracking-powered-by-cookiebot/"><u>Enhanced User Experience with Automated Tracking: Powered by Cookiebot</u></a></li>
-<li><a href="https://techidaily.com/enhancing-cognitive-abilities-smart-training-techniques-on-the-abbyy-blog/"><u>Enhancing Cognitive Abilities: Smart Training Techniques on the ABBYY Blog</u></a></li>
-<li><a href="https://techidaily.com/enhancing-website-personalization-with-cookiebot-technology/"><u>Enhancing Website Personalization with Cookiebot Technology</u></a></li>
-<li><a href="https://games-able.techidaily.com/four-reasons-why-a-ps5-isnt-immediately-right/"><u>Four Reasons Why a PS5 Isn't Immediately Right</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-nubia-red-magic-8s-proplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Nubia Red Magic 8S Pro+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-the-pathway-to-captivating-audio-on-macos-via-audacity/"><u>In 2024, The Pathway to Captivating Audio on MacOS via Audacity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-key-to-unlocking-a-vault-of-no-cost-clip-art/"><u>The Key to Unlocking a Vault of No-Cost Clip Art</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-10-password-cracking-tools-for-vivo-v29-pro-by-drfone-android/"><u>Top 10 Password Cracking Tools For Vivo V29 Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-harnessing-the-power-of-video-the-most-effective-fb-ad-practices/"><u>[New] 2024 Approved Harnessing the Power of Video The Most Effective FB Ad Practices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-how-to-change-youtube-playback-speed-to-speed-up-or-slow-down-video/"><u>[New] 2024 Approved How to Change YouTube Playback Speed to Speed Up or Slow Down Video</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/1-step-by-step-guide-changing-your-printers-inktoner-cartridges-tech-tips-by-yl/"><u>1. Step-by-Step Guide: Changing Your Printer's Ink/Toner Cartridges | Tech Tips by YL</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-luminous-transformations-for-android-videos-step-by-step/"><u>2024 Approved Luminous Transformations for Android Videos Step by Step</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-21-monitors-showdown-the-clear-winners/"><u>2024 Approved Ultimate 2.1 Monitors Showdown - The Clear Winners</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-lava-blaze-pro-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Blaze Pro 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-ordinary-to-extraordinary-the-ultimate-iphoneandroid-screenshot-enhancers-list/"><u>In 2024, From Ordinary to Extraordinary The Ultimate iPhone/Android Screenshot Enhancers List</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-xr21-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia XR21 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-efficiency-in-every-task-the-ultimate-list-of-tools-and-hacks-for-a-streamlined-workday-sponsored/"><u>Maximizing Efficiency in Every Task: The Ultimate List of Tools and Hacks for a Streamlined Workday, Sponsored</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-infinix-note-30i-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Infinix Note 30i</u></a></li>
+<li><a href="https://article-helps.techidaily.com/trimming-the-tremble-a-guide-to-smoother-gopro-videos/"><u>Trimming the Tremble A Guide to Smoother GoPro Videos</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726028233436-3/"><u>ビデオコンテンツから効果的なキャンペーン・メッセージを抽出する3手法</u></a></li>
 </ul></div>
 

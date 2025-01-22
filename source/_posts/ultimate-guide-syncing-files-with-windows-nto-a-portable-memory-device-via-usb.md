@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2025-01-13T19:25:43.001Z
-updated: 2025-01-15T19:01:39.431Z
+date: 2025-01-15T17:52:02.854Z
+updated: 2025-01-21T20:59:41.813Z
 tags:
   - deals
 categories:
@@ -26,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
  If you'd like to copy files to a [USB flash drive](https://screen-recording.techidaily.com/updated-innovative-methods-to-log-gaming-sessions/) on Windows 10 — perhaps to back them up or transfer them to another computer — it's easy to do using File Explorer. Here's how.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  First, Locate the USB Drive on Your PC
 
  Before we can copy any files, we need to make sure the flash drive is connected and ready to receive data. First, plug your USB flash drive into a USB port on your Windows 10 PC. Give your PC a minute to recognize the drive and automatically install any needed drivers for it. (These instructions will work for other external storage devices, too, including SD cards and USB hard drives.)
@@ -38,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Searching for "This PC" in the Windows 10 Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/launch-this-pc.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the window that pops up, locate the section called "Devices And Drives." If necessary, click the small carat-shaped arrow to the left of the section header to reveal a list of the drives.
 
 ![The devices and drives on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/devices-and-drives.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your USB drive has been recognized correctly and is ready to receive files, it will appear in this location with a name and a drive letter assigned to it, such as "D:", "E:", or "F:", or another letter. Note that the "C:" drive is almost always the main drive on your PC, unless you go very out of your way to change it.
 
@@ -53,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Our example USB drive is has been assigned the letter K.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/usb-drive.png) 
 
  If the USB drive doesn't show up in your "Devices And Drives" list, you'll have to perform some in-depth sleuthing with [our guide to finding missing USB drives](https://instagram-videos.techidaily.com/updated-2024-approved-captivating-cycles-on-ig-perfecting-the-boomerang-effect/) to figure out what's going on.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Find the Files You Want to Copy
 
@@ -67,10 +59,14 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 ![Two File Explorer windows positioned side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-to-be-moved.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  What happens next depends on how you'd like to copy the files. There are several ways to do it, but here are the two most common methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Copy Files by Dragging and Dropping
 
@@ -81,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
  When an icon representing the file or files appears over the destination window, release the mouse button, and the files will be copied to that location.
 
 ![The files have been successfully moved to the USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moved.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the future, you can also drag files directly onto the USB flash drive icon in "This PC" to copy them to that location.
 
@@ -98,15 +90,23 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Right-click empty space in the destination drive and select "Paste."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/select-paste.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The files you "copied" to the Clipboard earlier will be copied onto the USB flash drive.
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What to Do If You Run out of Space on the Flash Drive
 
@@ -135,24 +135,22 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-best-linux-screen-capture-software-ranked/"><u>[New] In 2024, Best Linux Screen Capture Software Ranked</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unlock-6-figure-videos-top-hashtag-trends/"><u>[Updated] In 2024, Unlock 6-Figure Videos Top Hashtag Trends</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mapping-social-interest-to-video-idea-generation-with-google/"><u>[Updated] Mapping Social Interest to Video Idea Generation with Google</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-video-grabber-tool-decompiler/"><u>[Updated] Video Grabber Tool Decompiler</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-walkers-wonderland-curating-the-top-8-zombie-video-experiences/"><u>[Updated] Walkers' Wonderland Curating the Top 8 Zombie Video Experiences</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-secrets-to-stellar-youtube-livestreaming-top-cameras/"><u>2024 Approved Secrets to Stellar YouTube Livestreaming - Top Cameras</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-replacement-options-for-chatgpt-unveiled/"><u>Best Replacement Options for ChatGPT Unveiled</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/bridging-chatgpt-and-ubuntu-mastering-shell-interactions-for-enhanced-dialogue/"><u>Bridging ChatGPT and Ubuntu: Mastering Shell Interactions for Enhanced Dialogue</u></a></li>
-<li><a href="https://techidaily.com/choosing-the-ideal-chrome-vpn-top-picks-and-effortless-installation-tips/"><u>Choosing the Ideal Chrome VPN: Top Picks and Effortless Installation Tips</u></a></li>
-<li><a href="https://techidaily.com/comprehensive-instructions-how-to-take-out-nvidia-drivers-in-windows-11/"><u>Comprehensive Instructions: How to Take Out Nvidia Drivers in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/correcting-encryption-conflict-issues-on-windows-systems/"><u>Correcting Encryption Conflict Issues on Windows Systems</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-for-snapping-photos-of-your-desktop-in-windows-11/"><u>Easy Steps for Snapping Photos of Your Desktop in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/easy-tutorial-setting-up-your-pc-for-remote-desktop-on-windows-10/"><u>Easy Tutorial: Setting Up Your PC for Remote Desktop on Windows 10</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effektivste-h265-video-konvertierungencoder-app-hevc-konverter-fur-windows-11-and-mac-expertenempfohlen/"><u>Effektivste H.265 Video Konvertierung/Encoder App: HEVC Konverter Für Windows 11 & Mac - Expertenempfohlen!</u></a></li>
-<li><a href="https://techidaily.com/effortless-guide-resetting-your-facebook-password-in-a-flash/"><u>Effortless Guide: Resetting Your Facebook Password in a Flash</u></a></li>
-<li><a href="https://techidaily.com/enable-seamless-voice-calls-via-wi-fi-with-this-simple-guide/"><u>Enable Seamless Voice Calls via Wi-Fi with This Simple Guide</u></a></li>
-<li><a href="https://techidaily.com/error-message-solved-install-windows-10-without-code-80240020-issues/"><u>Error Message Solved! Install Windows 10 Without Code #80240020 Issues</u></a></li>
-<li><a href="https://techidaily.com/getting-chatgpt-working-again-discover-five-effective-solutions-today/"><u>Getting ChatGPT Working Again: Discover Five Effective Solutions Today</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategies-for-exporting-your-personalized-gpt-responses/"><u>Strategies for Exporting Your Personalized GPT Responses</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-securing-every-frame-best-practices-for-vimeo-record-use/"><u>[New] 2024 Approved Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-essential-tools-for-mobile-movie-making/"><u>[New] Essential Tools for Mobile Movie Making</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-gamers-guide-to-flawless-game-recordings-for-2024/"><u>[Updated] Gamers' Guide to Flawless Game Recordings for 2024</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-x8b-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from X8b</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/fixing-handbrake-compatibility-problems-on-windows-11-top-remedies-and-substitutes/"><u>Fixing HandBrake Compatibility Problems on Windows 11 – Top Remedies & Substitutes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz-for-2024/"><u>High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-105-classic-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia 105 Classic Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-7t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 7T Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-zte-axon-40-lite-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On ZTE Axon 40 Lite? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-phantom-v-flip-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Phantom V Flip</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-10-no-cost-streaming-services-similar-to-netflix/"><u>Top 10 No-Cost Streaming Services Similar To Netflix</u></a></li>
+<li><a href="https://fox-that.techidaily.com/transform-your-iphones-browser-performance-top-4-tricks-for-a-swift-safari/"><u>Transform Your iPhone's Browser Performance: Top 4 Tricks for a Swift Safari</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 11/10</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Moto G84 5G?</u></a></li>
 </ul></div>
 

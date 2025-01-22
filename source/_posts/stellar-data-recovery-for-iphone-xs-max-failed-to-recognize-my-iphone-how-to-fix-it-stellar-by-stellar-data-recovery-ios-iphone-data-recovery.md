@@ -1,7 +1,7 @@
 ---
 title: Stellar Data Recovery for iPhone XS Max failed to recognize my iPhone. How to fix it? | Stellar
-date: 2024-09-21T17:21:10.707Z
-updated: 2024-09-23T18:36:08.234Z
+date: 2025-01-17T00:24:59.835Z
+updated: 2025-01-22T01:06:33.428Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -45,6 +45,10 @@ While the new iPhones have good water resistant capabilities, this doesn’t mea
 
 This article shares several best practices that can help you save a water-damaged iPhone. But first, let’s understand how water resistant your iPhone is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Is my iPhone water resistant?**
 
 The water resistance of the smartphones is rated by the “ingress protection” code, also called IP rating.
@@ -66,13 +70,6 @@ There are multiple types of IP ratings, but IP67 and IP68 are mainly applied to 
 - **iPhone XS/ XS Max –** IP68
 - **iPhone X/XR /8/8 Plus /7 /7 Plus/ SE (2<sup>nd</sup> generation**) – IP67
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **What Not to Do?**
 
 Most iPhones offer certain level of water resistance, but it doesn’t mean an iPhone dropped in swimming pool or a bucket full of water is immune to any damage. Moreover, not every repair step will help you fix water-damaged iPhone; and some can complicate things further. Before, we start on potential steps to save your water-damaged iPhone, let’s first look at some absolute things that worsen the cause and should be avoided at all costs.
@@ -80,13 +77,6 @@ Most iPhones offer certain level of water resistance, but it doesn’t mean an i
 ### **1\. Don’t turn on your iPhone**
 
 Your iPhone will turn off automatically after being dropped in water. However, you should manually turn it off if it doesn’t turn off. Turn your phone on only if you are sure water or moisture content from the exterior and interior is completely dry. Turning on the water-damaged iPhone might cause water to reach inside the device, causing it to malfunction.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **2\. Plug it in or Use the Charging Port in Any Way**
 
@@ -143,15 +133,16 @@ Dismantle your iPhone carefully, air dry its interior, and assemble it back afte
 If all the above efforts fail to fix the iPhone from water damage, you must check if the device’s warranty is still valid. If it is, call your manufacturer and request a repair or replacement. If it is invalid, visit an Apple Genius bar to repair your cell phone.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **6\.** **Take the phone to an approved repair shop**
 
 The longer you wait to take your iPhone to an Apple Genius bar, the more damage it incurs. If you cannot dry the wet iPhone by following the manual methods mentioned above, rush to an Apple Genius bar to get it repaired and minimize the chances of further damage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How To Find Out If Your iPhone Has Water Damage?**
 
@@ -161,11 +152,19 @@ See the table to learn where the indicators are planted in your respective iPhon
 
 ![LCI planted on various iPhone models](https://www.stellarinfo.com/image/article/upload/65a73c4da141f_Save-A-Water-Damaged-iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How To Recover Data From Water-Damaged iPhone?**
 
 Once you have powered on your water-damaged iPhone after drying, it is possible to recover data from it. There are two ways to recover lost data from water-damaged iPhones: backup services or professional [iPhone data recovery software](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/).
 
 Let’s see various scenarios where you can recover data from a water-damaged iPhone:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **iPhone won’t turn on**
 
@@ -198,13 +197,6 @@ FAQs
 [What do I do if my iPhone speaker doesn’t work after falling into water?](https://www.stellarinfo.com/article/save-a-water-damaged-iphone.php#collapseOne)
 
 If there is water in your iPhone speaker, it may not work. In such a situation, try drying your iPhone and turning it on to take a backup of your data before testing the speaker. You can even visit Apple Genius Bar to get the help of a tech expert to fix your iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Recover Files after iPhone Factory Reset?
 
@@ -252,10 +244,7 @@ Not only the tool provides the benefit to recover data from iPhone device, but y
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Screenshots are the fastest way to save anything you see on smartphones or systems. Many of you may have also captured screens of chats, video calls, online products, etc., on your iPhone. Since  screenshots are saved in various image formats like JPG, PNG, GIF, etc., they can get deleted like any other file on your Apple device.
@@ -264,11 +253,19 @@ Hence, if you have lost or mistakenly deleted screenshots on your iPhone, this b
 
 But first, you must know the locations on your iPhone where you can search for deleted or missing screenshots.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Where are screenshots saved?**
 
 There’s nothing unusual about searching screenshots on your iPhone. Sometimes, files may be saved at multiple locations, and you may not locate them at once or forget them. So first, check your iPhone thoroughly.
 
 On the iPhone, screen grabs are saved in two different locations. One is the **Photos** app in a separate folder named **‘Screenshot**,’ and the other is the **Files** app.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to recover deleted screenshots on iPhone?**
 
@@ -284,6 +281,10 @@ It’s well known that the Recently Deleted Album on iPhone keeps the deleted ph
 
 ![Recover Screenshots from Recently Deleted Album - Tap Recover ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Deleted-Pictures-from-Recently-Deleted-Album-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 2: Deleted Screenshot Recovery in iPhone from iTunes Backup**
 
 On macOS Mojave or earlier versions, restore permanently deleted screenshots from an iTunes backup. To [recover deleted photos or screenshots](https://www.stellarinfo.com/article/5-best-solution-to-recover-deleted-pictures-on-iphones.php), follow these steps:
@@ -296,13 +297,6 @@ On macOS Mojave or earlier versions, restore permanently deleted screenshots fro
 - Click **Summary** in the left pane and select the **Restore** **Backup** option in the Backup section.
 
 ![Recover screenshots via - Restore Backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Photos-on-iPhone-using-iTunes-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Choose the most relevant **backup** of your iPhone and click **Restore** to start the process.
 
@@ -326,6 +320,10 @@ In macOS Catalina and newer versions, Finder syncs and manages the content on iP
 - Select the **backup** **date** and click **Restore** to start the process.
 
 ![Recover screenshots using Finder - click Restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Recover-Deleted-Pictures-using-Finder-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 4:  Recover Deleted Screenshots using Data Recovery Software**
 
@@ -354,13 +352,6 @@ Get a professional Screenshot Recovery Software – [Stellar Data Recovery for i
 
 **Note** – The trial software scans the media and shows a preview of all the recoverable screenshots. Once you can ascertain the effectiveness, save the recoverable files after activating the software.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 5: Recover Screenshots on iPhone using iCloud Backup**
 
 iCloud Backup stores and syncs files among Apple devices. Your screenshots and photos may be saved here in the cloud storage only if you have enabled iCloud Photos to backup all your iPhone photos. Here’s how to restore deleted screenshots from iCloud:
@@ -372,13 +363,6 @@ iCloud Backup stores and syncs files among Apple devices. Your screenshots and p
 - Once logged in, click on **Photos** and go to the **Recently** **Deleted** **Album**.
 
 ![Recover via iCloud Backup - Click Photos](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Restore-Photos-from-iCloud-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Select the **screenshots** you wish to restore and click **Recover**.
 
@@ -422,5 +406,19 @@ To take a full screenshot of a website, take the screenshot and tap preview befo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-bridging-platforms-posting-twitter-content-on-facebook/"><u>[New] Bridging Platforms Posting Twitter Content on Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cutting-edge-content-summit/"><u>[Updated] 2024 Approved Cutting-Edge Content Summit</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-pcs-best-of-breed-ps1-emulation-titles-for-2024/"><u>[Updated] PC's Best of Breed PS1 Emulation Titles for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/6-things-we-can-do-to-save-a-water-damaged-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>6 Things We Can Do To Save A Water Damaged iPhone 15 Pro | Stellar</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-z-fold-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy Z Fold 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-honor-x50-gt-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Honor X50 GT Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/sign-svd-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .svd file Online for Free</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-text-display-eliminating-html-from-your-windows-11s-mail-app/"><u>Streamlining Text Display: Eliminating HTML From Your Windows 11'S Mail App</u></a></li>
+</ul></div>
 

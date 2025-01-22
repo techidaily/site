@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2025-01-09T20:44:25.105Z
-updated: 2025-01-15T18:31:47.025Z
+date: 2025-01-15T17:34:19.028Z
+updated: 2025-01-21T16:26:28.671Z
 tags:
   - web
 categories:
@@ -12,10 +12,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 ## Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello
 
 Whether it’s moving home, planning a big trip, or working on a career change, personal project management apps can make your life much easier. Trello is free, powerful, and easy to use—here’s how to get started.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Use an App?
 
@@ -41,6 +37,10 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 4. Trello makes it incredibly easy to collaborate with other people.
 5. It's free as in free forever. Technically, it's a freemium project, with free and subscription tiers, but the free tier does everything you're likely to need for personal projects. In five or six years of using it for dozens of different projects, I've never yet had to move to a paid tier.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  A Few Examples
 
  I'm currently midway through selling one apartment and buying another. One step is shortlisting potential purchases, so I created a Trello project (a "board" in Trello speak) for this.
@@ -49,6 +49,10 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
  Another board is apartment design. I use this to clarify my goals for my new home, collate ideas, list the main things I'm taking with me, save links for things I want to buy, list things I plan to sell—and outline the smart home kit I plan to use, together with the scenes I want to create.
@@ -56,7 +60,7 @@ Ben Lovejoy
 ![A Trello board showing apartment design considerations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/design.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -73,6 +77,10 @@ Ben Lovejoy
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Creating a Board
 
  Visit [trello.com](https://trello.com) and use the "Create an Account" link to register. If asked to choose your plan, opt for the "Free" one. Once you are registered, select "Boards" from the left-hand menu, and then click the big blue "+" sign at the top to add a board.
@@ -81,19 +89,11 @@ Ben Lovejoy
 
  You can choose one of the standard backgrounds—either a color or an image—or "Custom" to upload your own. My personal preference is to have a minimalist but interesting background, so I search for free stock images on [Unsplash](https://unsplash.com) and use one of those.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Creating Lists
 
  I recommend closing the side menu by clicking the "<" button shown below. That gives you a much cleaner screen.
 
 ![Click the small arrow to hide the sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/close-sidebar.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -111,10 +111,6 @@ Ben Lovejoy
 
 Ben Lovejoy
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Adding Photos
 
  Click on any card to open it, and you'll see all the options available. If you want to have a photo visible in your overview, as in my apartment hunt example, then this is called a cover photo. Click the "Cover" button and upload your photo.
@@ -122,7 +118,7 @@ Ben Lovejoy
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -131,9 +127,17 @@ Ben Lovejoy
 
 ![A VR headset displayed on a Trello card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/photo-added.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
  If you instead only want a photo to be visible when you open the card, then use the "Attachment" button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adding Links
 
@@ -143,17 +147,9 @@ Ben Lovejoy
 
 ![Adding a link to a Trello activity.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-link.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  You'll also see here options to link to existing cards.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Adding Checklists
 
@@ -167,11 +163,19 @@ Ben Lovejoy
 
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Using Color Coding
 
  To color-code cards, click the "Label" button. You'll get a set of default colors, but can also edit these. Just check the box next to a color to add that to the card. If you want to give your color-coded labels names, click the pencil (edit) button next to the color and type your name.
 
 ![Adding color-coding to the Trello board can make it easier to visually track your progress.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/color-coding.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -188,10 +192,6 @@ Ben Lovejoy
  Whether you want to move a card up or down a list, move a card from one list to another, or move a list to the left or right, you can do it all simply by dragging and dropping, picking the card up by its edge.
 
  However, there is one quirk to watch out for. Trello also lets you drag one card inside another one by picking it up in the center, where it is added as an attachment (effectively a hyperlink from one card to another). If the card remains the same size and rounded shape when you drag it, you are dragging the card—but if it changes to a small square, you are in insertion mode. If you get that and don't want it, then just drag it anywhere outside your lists and let it go.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Collaborating With Family and Friends
 
@@ -216,20 +216,24 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-10-best-free-screen-sharing-software-online-and-desktop/"><u>[New] In 2024, 10 Best Free Screen Sharing Software [Online & Desktop]</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-the-essential-tutorial-for-creating-a-biz-focused-instagram-for-2024/"><u>[New] The Essential Tutorial for Creating a Biz-Focused Instagram for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-adding-closed-captions-to-vimeo-footage/"><u>[Updated] Adding Closed Captions to Vimeo Footage</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-facebook-cover-makeovers-the-most-trusted-design-tools-ranked-for-2024/"><u>[Updated] Facebook Cover Makeovers The Most Trusted Design Tools Ranked for 2024</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enable-your-xboxps-controller-connection-for-gaming-in-steam-windows-fix/"><u>How to Enable Your Xbox/PS Controller Connection for Gaming in Steam (Windows Fix)</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-max-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro Max System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6s Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-nostalgia-unleashed-a-guide-to-fb-archives/"><u>In 2024, Nostalgia Unleashed A Guide to FB Archives</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ipad-air-4-vs-ipad-air-5-is-it-time-to-consider-an-upgrade-insights/"><u>IPad Air 4 vs iPad Air 5: Is It Time to Consider an Upgrade? Insights</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nubia-z50-ultra-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nubia Z50 Ultra</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-realme-gt-5-240w-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Realme GT 5 (240W) Reset Code | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-performing-cost-effective-router-unveiled-tp-link-archer-a6-ac1200-reviewed/"><u>Top-Performing, Cost-Effective Router Unveiled: TP-LInk Archer A6 AC1200 Reviewed</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-12plus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme 12+ 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-idevice-screen-recording-techniques-for-youtube-for-2024/"><u>[New] Mastering iDevice Screen Recording Techniques for YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-is-there-a-superior-cameras-marketplace/"><u>[Updated] 2024 Approved Is There a Superior Cameras Marketplace?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitta-to-trackable-audio-transitions/"><u>[Updated] 2024 Approved Twitta to Trackable Audio Transitions</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-effortless-iphone-screen-recording-techniques-unveiled/"><u>[Updated] In 2024, Effortless iPhone Screen Recording Techniques Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-video-integration-into-blog-posts-and-essays/"><u>[Updated] In 2024, Effortless Video Integration Into Blog Posts & Essays</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-primepickings-top-twitters-and-top-viewers-favorites/"><u>[Updated] PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-s23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel S23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723001997437-black-screen-error-cleared-in-epic-games-launcher-solutions-inside/"><u>Black Screen Error Cleared in Epic Games Launcher - Solutions Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-x50i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X50i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g14-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G14 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mastering-dragons-comprehensive-strategies-inspired-by-how-to-train-your-dragon-2-for-perfect-copies-and-backups/"><u>Mastering Dragons: Comprehensive Strategies Inspired by 'How to Train Your Dragon 2' For Perfect Copies and Backups</u></a></li>
+<li><a href="https://techidaily.com/remove-xperia-10-v-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xperia 10 V unlock screen</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor X50i+</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Sony Xperia 5 V</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-gt-10-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix GT 10 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 lock with iCloud</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-15-pro-max-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Pro Max screen lock without data loss</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Updated 2024 Approved Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
 </ul></div>
 

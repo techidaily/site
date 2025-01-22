@@ -1,7 +1,7 @@
 ---
 title: Solved Photos Disappeared from iPhone 12 Suddenly | Stellar
-date: 2024-09-17T20:42:39.838Z
-updated: 2024-09-23T20:54:13.181Z
+date: 2025-01-15T19:50:40.598Z
+updated: 2025-01-22T01:15:19.013Z
 tags: 
   - ios device recovery
   - iphone recovery
@@ -45,6 +45,10 @@ You might have accidentally deleted the photos on iPhone. Check and recover the 
 
 **Note:** Photos deleted on iPhone stay in your ‘Recently Deleted’ folder only for 30 days, after which they are permanently removed from the iOS device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 3: Unhide photos on iPhone**
 
 Photos disappeared from iPhone can be in the hidden folder in Photos app. Simply, check the Hidden folder on your device and unhide the required photos.
@@ -83,10 +87,7 @@ If you have created iTunes backup, restore the disappeared photos on iPhone from
 ![Restore from Backup](https://www.stellarinfo.com/image/catalog/article/photo-recovery-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Click **Restore**. Wait until the process finishes and your iPhone restarts. All your disappeared photos will be recovered on iPhone.
@@ -125,6 +126,10 @@ The biggest advantage of using the software is that it doesn’t remove your exi
 ![Click Save](https://www.stellarinfo.com/screenshots/data-ios/win/4.png)
 
 **Note:** You can also recover the lost photos from backup by choosing [Recover from iCloud backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-deleted-lost-icloud-data) or [Recover from iTunes backup](https://www.stellarinfo.com/support/kb/index.php/article/recover-data-from-itunes-backup), options in the software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -190,13 +195,6 @@ Stellar Data Eraser Software is supported by all versions of iOS from the latest
 
 ![Stellar Toolkit for iPhone - Erase Data](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/Erase-iPhone-Data-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - On the **Erase iPhone Data** screen, click **Next**.
 
 ![Stellar Toolkit for iPhone - Click Next](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/Erase-iPhone-Data-1-2.jpg)
@@ -209,16 +207,13 @@ Stellar Data Eraser Software is supported by all versions of iOS from the latest
 
 ![Stellar Toolkit for iPhone - Click Yes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-select-device-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Once the iPhone is completely wiped, click **Yes** in the **Data Erase Complete** dialog box.
 
 ![Stellar Toolkit for iPhone - Data Erase Complete](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/04/stellar-toolkit-for-toolkit-erasing-completed-3-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -245,6 +240,10 @@ You can reset your iPhone without any computer by using the settings app of your
 **Summary:** This post shares the best methods to recover lost calendar on iPhone. You can apply these methods on iPhone 14/13/12/11/XS/XR/X/SE/8/7 and below. Also, learn how Stellar Data Recovery for iPhone quickly restores Calendar on your iPhone.
 
  [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Windows")[![Free Download for Mac](https://www.stellarinfo.com/images/free-download-Mac.png)](https://tools.techidaily.com/stellardata-recovery/data-recovery-ios/ "Free Download for Mac")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The iPhone Calendar is an indispensable utility for keeping up with your loved ones’ birthdays, anniversaries, appointments, meetings, events, holidays, and other day-to-day activities. Even if you’ve switched over to newer variants like iPhone 15, 14, 13, or 12, you don’t want to part with the old iPhone Calendar settings.
 
@@ -281,6 +280,10 @@ Apple creates frequent backup for the Calendars and Reminders apps and saves it 
 
 ![click restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/3-recover-calendar-icloud-recovery-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Now confirm your choice to retrieve the Calendar archive. Click **Restore**.
 
 ![confirm your choice by selecting Restore](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/4-recover-calendar-icloud-recovery-1.jpg)
@@ -288,13 +291,6 @@ Apple creates frequent backup for the Calendars and Reminders apps and saves it 
 - Wait for some time for the Restore process to complete.
 
 ![restore process in progress](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/5-recover-calendar-icloud-recovery-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Once your required **Calendar** **archive** is successfully restored, click **OK**.
 
@@ -316,25 +312,11 @@ Unlike Apple’s backup solutions (iTunes and iCloud), the software lets you cho
 
 Stellar Data Recovery for iPhone is also the way out when you don’t have Calendar archives in iCloud.com and unable to retrieve data from iTunes and iCloud.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Steps: Recover deleted/lost Calendar from iPhone**
 
 - Download, install and launch **Stellar Data Recovery for iPhone** on computer.
 
 ![select what you want to recover](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/iPhone-win-screen1-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - On the main scree, select **Recover from iPhone** option and select the type of data you want to recover. Here, choose **Calendar** and click **Next**.
 - Connect your iPhone to computer and select that device to proceed forward.
@@ -369,6 +351,10 @@ _**Note:** Deletes and replaces all your current data, be it apps, messages, ph
 
 ![how to reset iPhone](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/how-to-reset-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - On **Apps & Data** screen, tap **Restore from iCloud Backup.**
 
 ![restore from iCloud backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/restore-from-icloud-backup-2.jpg)
@@ -377,6 +363,10 @@ _**Note:** Deletes and replaces all your current data, be it apps, messages, ph
 - Choose the last backup and **Restore.**
 
 ![recover calendar from iCloud backup](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/restore-from-icloud-backup-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **How to restore Calendar with iTunes backup**
 
@@ -390,6 +380,10 @@ _**Note:** Deletes and replaces all your current data, be it apps, messages, ph
 - **Click Restore and wait for some time for the process to complete.**
 
 ![click Restore in restore iPhone via iTunes](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-8b4e845/www.stellarinfo.com/blog/wp-content/uploads/2023/05/reset-iphone-via-itunes-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -421,10 +415,7 @@ Go to the **Settings** in iPhone > **Calendar** > **Accounts** > **Add** **Accou
 You can view upcoming events as a list of one day, a week, a month, or a year at a time.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Activate Stellar Data Recovery for iPhone
@@ -445,13 +436,6 @@ The software can be activated using the Activation Key, which you receive via em
 1. The Activation window appears. Enter the Activation Key you received in your email after purchasing the software.
 
 ![insert activation key- stellar iphone data recovery](https://www.stellarinfo.com/images/kb/Activation-iPhone-Data-Recovery-6-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Click **Activate**
 2. The software verifies the entered key. After successful verification, a message appears saying ‘Activation Completed Successfully’. Click **OK.**
@@ -487,5 +471,20 @@ Stellar Data Recovery for iPhone® Stellar Data Recovery for iPhone® is the bes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-champion-video-grabbers-ranked-1-8-for-2024/"><u>[New] Champion Video Grabbers Ranked 1-8 for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/beginning-film-making-download-previews-for-2024/"><u>Beginning Film Making Download Previews for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/ease-lexmark-printer-driver-installation/"><u>Ease Lexmark Printer Driver Installation</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/tial-tips-for-creating-compelling-free-ads-on-youtube/"><u>Essential Tips for Creating Compelling Free Ads on YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-asus-rog-phone-8-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Asus ROG Phone 8 Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-gpu-drivers-for-windows-1087-systems-download-here/"><u>Get the Latest Nvidia GPU Drivers for Windows 10/8/7 Systems – Download Here!</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-infinix-hot-30i-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Hot 30i Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unlock-your-creative-potential-best-free-premiere-pro-libraries-for-2024/"><u>Unlock Your Creative Potential Best Free Premiere Pro Libraries for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/update-now-microsoft-fixes-critical-issues-in-acpi-compatible-battery-drivers/"><u>Update Now! Microsoft Fixes Critical Issues in ACPI Compatible Battery Drivers</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-drivers-on-windows-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall drivers on Windows 10 & 7</u></a></li>
+</ul></div>
 

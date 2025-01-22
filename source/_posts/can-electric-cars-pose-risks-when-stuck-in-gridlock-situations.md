@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
-date: 2025-01-12T21:01:57.614Z
-updated: 2025-01-15T17:08:44.110Z
+date: 2025-01-15T21:57:56.517Z
+updated: 2025-01-21T20:37:23.262Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ## Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Every few months we see the same story [floating around on social media](https://twitter.com/ItallionTony/status/1398440922036199427) that electric cars are more likely to die and get stuck during a traffic jam. Suggesting they are dangerous, have no heaters, or will run out of battery in around three hours. So, are EVs a danger in traffic jams? Absolutely not.
 
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Rumors
 
@@ -40,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Wrong!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Electric Vehicle Facts
@@ -48,7 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Tesla_
@@ -74,10 +78,6 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
 ##  How Do EVs Stuck In Traffic Fare?
 
 ![Tesla Model 3 stuck in traffic jam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/c00c6807.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _Dan Kanninen_
 
@@ -112,15 +112,22 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-exploring-the-influence-of-luts-on-digital-imagery-quality/"><u>[New] Exploring the Influence of LUTs on Digital Imagery Quality</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tutorial-for-downloading-movie-maker-6-on-windows/"><u>2024 Approved Tutorial for Downloading Movie Maker 6 on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/convertisseurs-mkv-convertir-facilement-vos-fichiers-au-format-video-le-plus-approprie-avi-mp4-dvd-vob-m2ts-et-bien-dautres/"><u>Convertisseurs MKV - Convertir Facilement Vos Fichiers Au Format Vidéo Le Plus Approprié : AVI, MP4, DVD, VOB, M2TS Et Bien D'autres !</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-masterful-video-text-techniques-ranked/"><u>In 2024, Masterful Video Text Techniques - Ranked</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/itunes-sync-woes-restoring-your-iphones-lost-contact-list-effortlessly/"><u>ITunes Sync Woes - Restoring Your iPhone's Lost Contact List Effortlessly</u></a></li>
-<li><a href="https://techidaily.com/mastering-tech-choices-in-depth-guidance-from-toms-hardware-expertise/"><u>Mastering Tech Choices: In-Depth Guidance From Tom's Hardware Expertise</u></a></li>
-<li><a href="https://techidaily.com/mastering-the-digital-world-toms-hardware-experts-guide/"><u>Mastering the Digital World: Tom's Hardware Experts Guide</u></a></li>
-<li><a href="https://techidaily.com/meet-the-ultra-slim-mini-computer-revolutionizing-desk-space-powered-by-amd-ryzen-9-and-rtx-graphics/"><u>Meet the Ultra-Slim Mini Computer Revolutionizing Desk Space - Powered by AMD Ryzen 9 and RTX Graphics</u></a></li>
-<li><a href="https://techidaily.com/toms-tech-reviews-unveiling-the-latest-innovations-in-computing/"><u>Tom's Tech Reviews: Unveiling the Latest Innovations in Computing</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-easy-steps-for-stellar-youtube-thumbnails/"><u>[Updated] 2024 Approved Easy Steps for Stellar YouTube Thumbnails</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-from-individual-tracks-to-albums-building-a-personalized-soundtrack-on-web-and-mobile/"><u>[Updated] In 2024, From Individual Tracks to Albums Building a Personalized Soundtrack on Web & Mobile</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlock-snapchat-potential-with-these-ideas/"><u>[Updated] In 2024, Unlock Snapchat Potential with These Ideas</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-solve-youtube-video-distorted-issue/"><u>2024 Approved How to Solve YouTube Video Distorted Issue</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-narzo-60-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Narzo 60 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a15-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A15 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-nokia-c300-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Nokia C300 on Mac?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-civi-3-disney-100th-anniversary-edition-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Civi 3 Disney 100th Anniversary Edition Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-nokia-c110-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nokia C110 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-android-hacks-counterclockwise-video-stream/"><u>In 2024, Android Hacks Counterclockwise Video Stream</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-on-apple-iphone-6-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled On Apple iPhone 6? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revolutionizing-siri-with-ai-how-apples-latest-innovation-boosts-smartphone-assistance-insights-from-zdnet/"><u>Revolutionizing Siri with AI: How Apple’s Latest Innovation Boosts Smartphone Assistance - Insights From ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-itel-s23-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Itel S23.</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-voice-translation-english-to-bangla-online-and-offline-apps/"><u>Updated Voice Translation English to Bangla Online and Offline Apps</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-z-fold-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy Z Fold 5 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

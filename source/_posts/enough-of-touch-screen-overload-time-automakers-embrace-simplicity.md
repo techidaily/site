@@ -1,7 +1,7 @@
 ---
 title: "Enough of Touch Screen Overload: Time Automakers Embrace Simplicity"
-date: 2025-01-14T19:33:19.236Z
-updated: 2025-01-15T17:02:17.995Z
+date: 2025-01-16T20:25:53.592Z
+updated: 2025-01-21T18:13:38.555Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 ## Enough of Touch Screen Overload: Time Automakers Embrace Simplicity
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
  Big touch screens give modern vehicles a real sci-fi vibe, but there's a reason old-fashioned knobs and controls have been the go-to choice for controlling your car's features for a century. Touch screens have their place, but automakers are going a little overboard, if you ask me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Touch Screens Have Many Downsides
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/280259a94399ccf1b5e6712c32ed577ed325bfc9a
 
 ![A Tesla passenger enabling Vehicle Motion Cues in their iPhone's Control Center.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tesla-passenger-seat-iphone-control-center-vehicle-motion-cues-enabled-wide-shot-1.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Christian Zibreg / How-To Geek
 
  I don't know if Tesla is officially the brand that started the trend of having almost all controls on a touch screen, but it's certainly become more fashionable over the years. Arguably, it makes more sense in a vehicle with advanced driving assists such as a Tesla. [AutoPilot](https://youtube-sure.techidaily.com/n-2024-erasing-extra-borders-for-smooth-youtube-playback/) users have certainly made a habit of looking at the big touch screen instead of what the car is doing in lots of videos you'll find on the web, but until true autonomous vehicles become a reality (if ever), this will remain an issue.
@@ -44,7 +40,7 @@ Christian Zibreg / How-To Geek
  It's also an open question whether these screens need to be so large. I own the KIA Sportage model just before the series got a massive touch screen in the 2023 model update and, honestly, I'm not sure if I could live with such a huge screen long-term. Whereas the small central touch screen my car currently has (so I can use Android Auto or Apple CarPlay) feels like a much more sensible balance.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Physical Controls Are Safer for Drivers
@@ -52,7 +48,7 @@ Christian Zibreg / How-To Geek
  While the primary safety benefit of physical controls in a car is that you can operate them without looking, that's not the only reason they are safer. For one thing, touch screens are more complex, more fragile, and more prone to failure than a physical switch or toggle. You can also develop muscle memory to operate your car controls while putting pretty much zero cognitive load on yourself. The controls will always be in the same place and operate the same way.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Putting Everything on One Screen Is a Mistake
@@ -60,6 +56,10 @@ Christian Zibreg / How-To Geek
  The main strength of a screen is that you don't have to be locked in to a specific user interface layout or design. However, the last thing I would want is to hunt through several menus to operate the AC, or have all my controls changed after an overnight update. Vehicle controls and readouts should be understandable at a glance, and finding controls should take a second or two with minimal attention.
 
  At the very least, I think that a touchscreen should offer redundancy for critical controls. So, while it's fine to have access to things like the AC, or your car's warning messages on the touch screen, these should be duplicated with traditional controls or gauges where possible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Some Lawmakers Are Taking Notice
 
@@ -84,18 +84,22 @@ Christian Zibreg / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/phone-android-which-has-the-better-youtube-experience-in-2024/"><u>[New] IPhone, Android Which Has the Better YouTube Experience, In 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-leading-live-streaming-services-a-detailed-comparison/"><u>[Updated] Leading Live Streaming Services A Detailed Comparison</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-win10-users-efficiently-using-zoom-video-conferencing/"><u>[Updated] Win10 Users Efficiently Using Zoom Video Conferencing</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>2024 Approved Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
-<li><a href="https://techidaily.com/abbyy-partners-with-appian-in-premier-vas-provider-initiative/"><u>ABBYY Partners with Appian in Premier VAS Provider Initiative</u></a></li>
-<li><a href="https://techidaily.com/applying-pitch-strategies-to-enhance-smart-automation-projects/"><u>Applying Pitch Strategies to Enhance Smart Automation Projects</u></a></li>
-<li><a href="https://techidaily.com/assessing-and-enhancing-your-rpa-strategy-the-role-of-process-insights/"><u>Assessing and Enhancing Your RPA Strategy: The Role of Process Insights</u></a></li>
-<li><a href="https://techidaily.com/drive-more-traffic-with-our-advanced-cookiebot-inspired-analytics-tools/"><u>Drive More Traffic with Our Advanced Cookiebot-Inspired Analytics Tools</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/drone-fundamentals-an-overview-of-their-workings/"><u>Drone Fundamentals An Overview of Their Workings</u></a></li>
-<li><a href="https://techidaily.com/enhance-your-digital-strategy-using-cookiebot-technology/"><u>Enhance Your Digital Strategy Using Cookiebot Technology</u></a></li>
-<li><a href="https://techidaily.com/enhancing-conversions-the-efficacy-of-cookiebot-driven-marketing-solutions/"><u>Enhancing Conversions: The Efficacy of Cookiebot-Driven Marketing Solutions</u></a></li>
-<li><a href="https://fox-access.techidaily.com/mastering-tiktok-how-to-set-and-modify-your-profile-age/"><u>Mastering TikTok How to Set & Modify Your Profile Age</u></a></li>
-<li><a href="https://win-help.techidaily.com/yl-software-explains-easy-installation-and-configuration-of-a-printer-in-the-windows-control-panel/"><u>YL Software Explains: Easy Installation and Configuration of a Printer in the Windows Control Panel</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-numbers-game-estimating-income-from-viral-content-for-2024/"><u>[New] The Numbers Game Estimating Income From Viral Content for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-affordable-aerial-cameras-top-picks-under-100-for-2024/"><u>[Updated] Affordable Aerial Cameras Top Picks Under $100 for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-top-ten-best-of-the-year-high-quality-4k-pcs-for-2024/"><u>[Updated] Top Ten Best of the Year High-Quality 4K PCs for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/augment-windows-10-graphics-on-acer-system/"><u>Augment Windows 10 Graphics on Acer System</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-motorola-edge-40-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge 40 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-protocol-normalized/"><u>Display Protocol Normalized</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-vs-2-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic Vs 2 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-note-30-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-g24-power-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola G24 Power Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-8t-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 8T 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovation-unleashed-in-chip-technology-as-intel-and-exxonmobil-develop-advanced-liquid-cooling-techniques-for-high-end-2cu-watts-tdp-xeon-processors/"><u>Innovation Unleashed in Chip Technology as Intel & ExxonMobil Develop Advanced Liquid Cooling Techniques for High-End 2Cu Watts TDP Xeon Processors</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oneplus-nord-3-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On OnePlus Nord 3 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/section-4a-advanced-topic-nanotechnology-in-dental-materials/"><u>Section 4A: Advanced Topic - Nanotechnology in Dental Materials</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-nokia-c12-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Nokia C12 Pro</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nubia-red-magic-9-pro-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nubia Red Magic 9 Pro without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-find-x7-ultra-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo Find X7 Ultra Reset Code | Dr.fone</u></a></li>
 </ul></div>
 
