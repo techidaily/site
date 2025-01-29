@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Navigating Printer Setup and Management on Your Windows 10 Machine"
-date: 2025-01-20T19:49:28.775Z
-updated: 2025-01-21T21:31:23.570Z
+date: 2025-01-26T00:49:21.774Z
+updated: 2025-01-28T19:04:32.542Z
 tags:
   - deals
 categories:
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
  Windows 10 has a new Settings window for configuring printers, but you can still use the old Control Panel tools, too. Here's what you need to know about installing, configuring, sharing, and troubleshooting printers on Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Add a Printer
 
  To add a printer, head to Settings > Devices > Printers & Scanners. Click the "Add a Printer or Scanner" button to search for nearby printers, whether they're hooked up to your PC or connected to the network.
@@ -38,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  However you install the printer, Windows will probably download the necessary printer drivers on the fly. If this doesn't work, visit the printer manufacturer's website to download and install the appropriate drivers or software package for your model of printer. For some printers, such as all-in-one printers, you might also need to visit the manufacturer's website for drivers and apps that let you access the added functionality.
 
 ![img_5b760d447a301](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760d447a301.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can remove a printer from here, too, if you like. In the Settings window, click a printer and click "Remove Device." In the Control Panel, right-click a printer and select "Remove Device."
 
@@ -62,7 +62,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b760ec197ec6](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ec197ec6.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also access these settings while printing. Just select a printer in the Print window and then click the "Preferences" button. Note that some applications have their own print dialogs, so this option might not always be present or the window might look different
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b760ef96454b](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760ef96454b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Change Printer Device Settings
@@ -78,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  To configure your printer device, click "Printer Properties" instead of "Printing Preferences" from the context menu after right-clicking a printer.
 
 ![img_5b760dc514f59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b760dc514f59.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The General tab of the properties window provides information about the printer's features and what drivers it's using. You can change the printer's name or add location details and comments. For example, you might want to enter a location like "Main Office" or "Second Floor Copy Room" so people can see exactly where a shared network printer is. The "Print Test Page" button here lets you quickly print a test page.
 
@@ -99,6 +95,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b761244d9161](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761244d9161.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Set Your Default Printer
 
  By default, Windows 10 automatically manages which printer is the default. It sets your default printer as the last printer you last printed to—in other words, whenever you select a printer and print to it, Windows 10 makes that your default printer.
@@ -107,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 ![img_5b76132b50e9d](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76132b50e9d.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To choose your default printer, click a printer in the Printers & Scanners list, click "Manage," and click the "Set as Default" button.
 
 ![img_5b7613d4cbff2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7613d4cbff2.png) 
@@ -114,10 +118,6 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  You can also right-click a printer in the Control Panel's Devices and Printers window and select "Set as Default Printer" to set it as your default.
 
 ![img_5b7612fc559b2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b7612fc559b2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Manage Your Print Queue
 
@@ -130,7 +130,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b76179d0fa59](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76179d0fa59.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Each pending print job appears in the queue. If no documents are printing, the list will be empty. You can right-click a job to cancel, pause, or restart it. Sometimes print jobs can get "stuck," and you may need to [delete them and try again](https://facebook-record-videos.techidaily.com/new-in-2024-cooking-crusaders-youtube-stars-serving-up-deliciousness/).
@@ -142,11 +142,11 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b761543dc6fd](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b761543dc6fd.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Create Multiple Printer Profiles
@@ -158,11 +158,7 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 ![img_5b76026c81a21](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/08/img_5b76026c81a21.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Set Up a Shared Printer
@@ -178,6 +174,10 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
  With the default settings, people on your local network can find the printer—but they'll need the username and password of an account on your computer to connect to it. The printer should be automatically detected as an available printer in the normal Add Printer interface. Bear in mind that the printer won't be available while your computer is asleep.
 
  To share a printer over the Internet—for example, to print to your home printer when you're away from home—[set up Google Cloud Print](https://facebook-video-footage.techidaily.com/updated-your-smartphone-as-an-artists-canvas-producing-quality-youtube-video-content/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Troubleshoot a Printer
 
@@ -210,24 +210,22 @@ thumbnail: https://thmb.techidaily.com/e1e3cd6b008cdab8aeee33309c0a15674cf83671f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-newbies-ultimate-youtube-gear-handbook/"><u>[New] 2024 Approved Newbies' Ultimate YouTube Gear Handbook</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-to-linking-fb-stories/"><u>[New] In 2024, The Ultimate Guide to Linking FB Stories</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-the-seamless-way-to-capture-your-favorite-pc-games-6-methods-for-2024/"><u>[New] The Seamless Way to Capture Your Favorite PC Games (6 Methods) for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-exhaustive-explanation-whats-behind-google-podcast-in-2024/"><u>[Updated] Exhaustive Explanation What's Behind Google Podcast, In 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-fundamental-definitions-of-interactive-storytelling-for-2024/"><u>[Updated] Fundamental Definitions of Interactive Storytelling for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-constructive-steps-to-personalized-google-vr-headset/"><u>[Updated] In 2024, Constructive Steps to Personalized Google VR Headset</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-cryptographic-cantaloupe-does-this-voice-modification-appify-to-magic-find-other-tools/"><u>[Updated] In 2024, Cryptographic Cantaloupe Does This Voice Modification Appify to Magic? Find Other Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-proven-ways-to-archive-your-whatsapp-chat-history-efficiently/"><u>2024 Approved Proven Ways to Archive Your WhatsApp Chat History Efficiently</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-zte-nubia-z60-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For ZTE Nubia Z60 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-gt-neo-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme GT Neo 5 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/dell-inspiron-3671-laptop-analysis-an-unpretentious-midrange-performance-machine/"><u>Dell Inspiron 3671 Laptop Analysis: An Unpretentious Midrange Performance Machine</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-90-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-a58-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A58 4G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-razr-40-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Razr 40</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unlock-the-potential-of-ai-5-key-methods-for-crafting-superior-prompts/"><u>Unlock the Potential of AI: 5 Key Methods for Crafting Superior Prompts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-novel-nooks-in-mc-the-simplest-house-designs/"><u>[Updated] In 2024, Novel Nooks in MC The Simplest House Designs</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-tips-for-hyperx-soundcard-driver-tweaks/"><u>Essential Tips for HyperX Soundcard Driver Tweaks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/gamers-guide-to-the-quickest-quality-and-affordable-rgb-memory-of-2024/"><u>Gamer's Guide to the Quickest, Quality, and Affordable RGB Memory of 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-a60s-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A60s phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-zte-nubia-z60-ultra-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on ZTE Nubia Z60 Ultra FRP Bypass</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-the-art-of-thumbnail-design-with-your-mac/"><u>Mastering the Art of Thumbnail Design with Your Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/reveal-hidden-gems-posting-fb-videos-effectively/"><u>Reveal Hidden Gems Posting FB Videos Effectively</u></a></li>
+<li><a href="https://techidaily.com/sign-dot-file-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .dot file Online for Free</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-meizu-21-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Meizu 21</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-11-proplus-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme 11 Pro+</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-z-flip-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy Z Flip 5 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/troubleshooting-your-non-functional-printer-expert-insights-from-yl-computing/"><u>Troubleshooting Your Non-Functional Printer: Expert Insights From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-redmi-k70-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi Redmi K70</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-a78-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-android-13-key-updates-and-expected-rollout-timelines/"><u>Unveiling Android 13: Key Updates & Expected Rollout Timelines</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Simple ways to get recent calls back from Infinix Smart 8
-date: 2024-09-17T12:51:25.867Z
+date: 2025-01-26T11:15:34.503Z
 tags: 
   - android data recovery
   - android devices call logs recovery
@@ -96,12 +96,26 @@ Soon, all Android available files will be classified into category on the left. 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-revealed-top-5-ingenious-whatsapp-shortcuts/"><u>[New] Revealed Top 5 Ingenious WhatsApp Shortcuts</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-giving-life-a-curtain-call-blackout-in-pro/"><u>2024 Approved Giving Life a Curtain Call Blackout in Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-new-policy-enabling-refurbished-components-in-certain-iphone-fixes-zdnet/"><u>Apple's New Policy: Enabling Refurbished Components in Certain iPhone Fixes - ZDNet</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-lava-yuva-3-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Lava Yuva 3 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/critical-approaches-to-documenting-youtube-live-video-for-2024/"><u>Critical Approaches to Documenting Youtube LIVE Video for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-does-the-latest-steelseries-apex-9-excel-for-users-insights-from-zdnets-testing-and-review/"><u>How Does the Latest SteelSeries Apex 9 Excel for Users? Insights From ZDNet's Testing and Review</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-fe-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 FE If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-contacts-from-motorola-edge-2023-by-fonelab-android-recover-contacts/"><u>How to get back lost contacts from Motorola Edge 2023.</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-13-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 13 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-samsung-galaxy-a15-4g-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Samsung Galaxy A15 4G FRP</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-the-path-of-adobe-presenter-video-creation-for-2024/"><u>Navigating the Path of Adobe Presenter Video Creation for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-streaming-technology-for-live-events/"><u>Top Streaming Technology for Live Events</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-zero-30-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Infinix Zero 30 5G</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

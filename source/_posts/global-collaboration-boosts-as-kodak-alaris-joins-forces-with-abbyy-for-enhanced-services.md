@@ -1,7 +1,7 @@
 ---
 title: Global Collaboration Boosts as Kodak Alaris Joins Forces with ABBYY for Enhanced Services
-date: 2025-01-08T18:17:00.739Z
-updated: 2025-01-15T16:38:17.364Z
+date: 2025-01-26T18:45:44.103Z
+updated: 2025-01-29T08:13:17.227Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7909c923364a5dde19acdd7a.jpg
@@ -17,11 +17,11 @@ January 19, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![News 21 Partners](https://static1.abbyy.com/abbyycommedia/33676/news-21-partners.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Kodak Alaris has announced a [global strategic alliance](https://www.alarisworld.com/landing-page/global-alliance-partners?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=ABBYY) with digital intelligence company ABBYY. The agreement expands the longtime partnership to now include the integration of Kodak Alaris’ [award-winning information capture solutions](https://www.alarisworld.com/about-us/newsroom/2021/2021-bli-scanner-line-of-the-year?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=ABBYY) with ABBYY’s industry-leading low-code/no-code, cloud-based intelligent document processing (IDP) platform, [Vantage](https://tools.techidaily.com/abbyy/products/), to help organizations successfully transform documents into actionable data.
 
@@ -38,7 +38,7 @@ The INfuse Scanner quickly digitizes documents of all types, and the data is del
 For more information, please visit the Kodak Alaris website at [www.alarisworld.com](http://www.alarisworld.com/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About the Alaris division of Kodak Alaris
@@ -48,7 +48,7 @@ Kodak Alaris is a leading provider of enterprise data capture solutions that sim
 © 2022 Kodak Alaris Inc. TM/MC/MR: Alaris. All trademarks and trade names used are the property of their respective holders. The Kodak trademark and trade dress are used under license from Eastman Kodak Company.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -57,16 +57,12 @@ ABBYY empowers organizations to gain a complete understanding of their business 
 
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies, and may not be used without consent of its respective owners.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Contacts
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Brooke Crowe
@@ -74,6 +70,10 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 [Brooke.Leone@kodakalaris.com](https://tools.techidaily.com/abbyy/products/)
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Gina Ray, APR
 
@@ -98,24 +98,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-best-7-live-streaming-apps-to-amplify-your-youtube-presence-on-iphone-and-android/"><u>[New] 2024 Approved Best 7 LIVE Streaming Apps to Amplify Your YouTube Presence on iPhone and Android</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-discover-the-ultimate-10-igtv-content-genres-that-work-best/"><u>[New] 2024 Approved Discover the Ultimate 10 IGTV Content Genres That Work Best</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-masterclass-5-in-best-mac-videography-software/"><u>[New] In 2024, Masterclass 5 in Best Mac Videography Software</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/1728498456387-pc4/"><u>「PCチェック完了まで持ちこたえる」には、解決方法として4つの選択がある</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-magic-vs-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor Magic Vs 2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-m6-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco M6 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6 Plus Data From iOS iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nubia-red-magic-9-proplus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nubia Red Magic 9 Pro+ by Phone Number | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for OnePlus Nord CE 3 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/install-the-latest-intel-me-drivers-for-windows-systems-w10-81-and-7/"><u>Install the Latest Intel ME Drivers for Windows Systems (W10, 8.1, & 7)</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-zte-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia 130 Music? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/transform-your-dvds-the-ultimate-guide-to-converting-dvd-files-into-mp4-format-on-windows-11-and-mac-os-discover-10-effective-methods/"><u>Transform Your DVDs: The Ultimate Guide to Converting DVD Files Into MP4 Format on Windows 11 and Mac OS - Discover 10 Effective Methods!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-and-resolving-discords-cloudflare-error-code-1105/"><u>Understanding & Resolving Discord's Cloudflare Error Code 1105</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-drivers-on-windows-10-by-drivereasy-guide/"><u>Use Device Manager to update your drivers on Windows 10</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-12-mini-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 12 mini takes time in scanning my iPhone? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-a2-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Xiaomi Redmi A2 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-pcs-picks-the-finest-ps1-game-emulators/"><u>[New] PC's Picks The Finest PS1 Game Emulators</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[Updated] 2024 Approved Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unwind-the-mind-the-ultimate-chill-list/"><u>2024 Approved Unwind the Mind The Ultimate Chill List</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/convertir-video-webm-directamente-a-mp4-sin-costo-alguno-usando-el-servicio-gratuitode-conversion-de-videos-en-linea/"><u>Convertir Video WebM Directamente a MP4 Sin Costo Alguno Usando El Servicio Gratuitode Conversión De Videos en Línea</u></a></li>
+<li><a href="https://techtrends.techidaily.com/erhohte-geschwindigkeit-bei-hevc-h265-kompression-tipps-fur-schnellere-verschlusselung/"><u>Erhöhte Geschwindigkeit Bei HEVC H.265-Kompression - Tipps Für Schnellere Verschlüsselung</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-realme-11-proplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 11 Pro+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a14-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A14 4G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-complete-dynamics-review-2023/"><u>In 2024, Complete Dynamics Review 2023</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-merging-youtube-and-tiktok-content-flows/"><u>In 2024, The Essential Guide to Merging YouTube & TikTok Content Flows</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-gadgets-toms-in-depth-hardware-analysis/"><u>Inside the World of Gadgets: Tom's In-Depth Hardware Analysis</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-c67-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C67 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-huawei-nova-y71-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Huawei Nova Y71</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v13-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.3 File | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nord-ce-3-lite-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nord CE 3 Lite 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-6-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic 6 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xiaomi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/watch-my-little-ones-enjoy-these-free-kids-movies-from-our-favorite-websites/"><u>Watch My Little Ones Enjoy These Free Kids' Movies From Our Favorite Websites</u></a></li>
 </ul></div>
 

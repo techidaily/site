@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2025-01-16T20:31:59.988Z
-updated: 2025-01-21T16:05:44.273Z
+date: 2025-01-21T23:30:57.964Z
+updated: 2025-01-28T21:07:46.147Z
 tags:
   - desktop
 categories:
@@ -31,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  1\. Check Your Laptop Adapter
@@ -66,10 +66,6 @@ Jason Fitzpatrick / How-To Geek
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Aman Kumar / How-To Geek
 
  You can use a toothpick to clean the grime. However, be very gentle while cleaning, as the charging ports are very sensitive, and you might damage them if you try to remove the grime too harshly. You can also use canned air if necessary.
@@ -82,10 +78,6 @@ Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  5\. Allow Your Laptop to Cool Down
 
  The issue can also arise if your [laptop has overheated](https://video-content-creator.techidaily.com/updated-trim-vlc-videos-on-mac-with-ease-no-quality-loss-guaranteed-for-2024/). Your laptop may have overheated if you've been engaged in CPU- and GPU-intensive tasks. In such cases, your laptop may intentionally halt the charging process to safeguard your battery.
@@ -95,7 +87,7 @@ Aman Kumar / How-To Geek
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  6\. Download Any Available BIOS Update
@@ -104,10 +96,6 @@ Aman Kumar / How-To Geek
 
  Unfortunately, there is no one-size-fits-all set of instructions to update BIOS as different manufacturers have different methods. However, the general rule of thumb is to visit your motherboard manufacturer's website, access your [motherboard model's](https://extra-tips.techidaily.com/flash-flick-narrative-template/) downloads or support page, and then download the available BIOS update. You can check our guide on [how to update your BIOS](https://extra-skills.techidaily.com/in-2024-quick-windows-surfing-guide-unveiled/) for more information about the updating process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  7\. Reinstall the Battery Drivers
 
  Windows relies on the battery driver to maintain proper communication with your laptop's battery. If the battery driver becomes corrupted due to software conflicts, hardware issues, or other factors, Windows will lose communication with the battery, leading to the problem you're experiencing.
@@ -115,6 +103,10 @@ Aman Kumar / How-To Geek
  The most effective way to eliminate corruption in the battery driver is to reinstall it. To do so, press the Windows+X key and choose "Device Manager" from the list that appears. In Device Manager, double-click on the "Batteries" node to expand it.
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
@@ -125,10 +117,14 @@ Aman Kumar / How-To Geek
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  8\. Test for a Defective Battery
 
@@ -145,6 +141,10 @@ Aman Kumar / How-To Geek
  Confirming this possibility on a laptop with a non-removable battery is more complicated. This is because you'll need to open the machine to access the battery. Doing so could not only damage important components if done incorrectly but may also void your laptop's warranty.
 
 ![The underside of a laptop with the back removed and internal battery revealed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/battery.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -169,22 +169,18 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-cam-titans-collide-sj6-and-yi-4k-showdown/"><u>[New] Cam Titans Collide SJ6 and Yi 4K Showdown</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-precision-meetings-sharpen-your-screens-in-msteam/"><u>[Updated] Precision Meetings Sharpen Your Screens in MSTEAM</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/anticipate-apples-revolutionary-integration-of-ai-with-new-m4-processors-across-all-mac-models-release-timeline-revealed/"><u>Anticipate Apple's Revolutionary Integration of AI with New M4 Processors Across All Mac Models - Release Timeline Revealed</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-11-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 11 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-a15-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy A15 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-yuva-3-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Yuva 3 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>In 2024, Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-perfect-habits-to-embrace-with-podcasts-playing/"><u>In 2024, Perfect Habits to Embrace with Podcasts Playing</u></a></li>
-<li><a href="https://techidaily.com/is-your-nubia-red-magic-9-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nubia Red Magic 9 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/novice-nests-in-mc-the-essential-guide-to-housing-for-2024/"><u>Novice Nests in MC The Essential Guide to Housing for 2024</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iOS iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iOS iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-infinix-note-30-vip-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Infinix Note 30 VIP | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-6s-plus-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 6s Plus SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-zte-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>Undelete lost music from ZTE Nubia Z60 Ultra</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-unveiling-the-secrets-of-stretching-seconds-creating-spectaculous-slow-mo-videos-with-photos-and-web-tools/"><u>[New] Unveiling the Secrets of Stretching Seconds Creating Spectaculous Slow-Mo Videos with Photos & Web Tools</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-academic-anchors-identifying-top-10-lecture-preservation-tools-for-2024/"><u>[Updated] Academic Anchors Identifying Top 10 Lecture Preservation Tools for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/rutube/"><u>「Rutubeから動画ダウンロード・セーブ手順」</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-12-pro-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 12 Pro 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18e-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18e in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-xiaomi-redmi-note-12-proplus-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Xiaomi Redmi Note 12 Pro+ 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-to-hide-your-chatgpt-conversations-without-deleting-them/"><u>How to Hide Your ChatGPT Conversations Without Deleting Them</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-optimize-and-accelerate-your-sluggish-windows-10-pc-comprehensive-guide/"><u>How to Optimize and Accelerate Your Sluggish Windows 10 PC - Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-pro-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-simple-scan-capture-solution-w10-os/"><u>In 2024, Simple Scan-Capture Solution - W10 OS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y78t-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y78t Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x90s-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X90S Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

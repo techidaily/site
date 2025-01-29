@@ -1,7 +1,7 @@
 ---
 title: "The Metaverse Unveiled: Understanding Its Depths Beyond Simple VR Technology"
-date: 2025-01-13T20:16:59.588Z
-updated: 2025-01-15T19:03:21.072Z
+date: 2025-01-27T19:25:13.685Z
+updated: 2025-01-29T05:02:17.635Z
 tags:
   - cutting-edge
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 ###### [Read update](https://video-screen-grab.techidaily.com/screenstreamer-breaking-down-the-newest-recorder-for-2024/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 * [Microsoft and "Digital Twins"](https://win11.techidaily.com/avoid-frustration-fixing-the-missing-print-feature-on-windows/)
 
  Tech CEOs keep talking about "the metaverse." Mark Zuckerberg [insists](https://www.bloomberg.com/news/articles/2021-07-29/mark-zuckerberg-explains-metaverse-vision-to-facebook-fb-investors-analysts) that Facebook will be seen as a "metaverse company" instead of a social media company---so much so that he renamed the company "Meta." Satya Nadella [proclaims](https://www.linkedin.com/pulse/expanding-partner-opportunity-microsoft-cloud-satya-nadella/) Microsoft is creating a "metaverse stack" for the enterprise. We'll explain what's going on, starting with Snow Crash.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The Origins of "Metaverse": Snow Crash
 
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  In fact, in 2011, Stephenson told [Forbes](https://www.forbes.com/sites/davidewalt/2011/09/19/neal-stephenson-reamde-video-games/) that he saw video games like World of Warcraft as the real metaverse: Virtual worlds you could inhabit with your friends. In 2021, games like Minecraft and Fortnite are perhaps closer to the vision of the metaverse he foresaw.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is the "Metaverse" Just Rebranded Virtual Reality?
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 > If you're in an AR application, you are where you are. You're in your physical environment, you're seeing everything around you normally, but there's additional stuff that's being added. So VR has the ability to take you to a completely different fictional place---the kind of thing that's described in the Metaverse in Snow Crash. When you go into the Metaverse, you're on the street, you're in the Black Sun, and your surroundings disappear. In the book, Hiro lives in a shabby shipping container, but when he goes to the Metaverse, he's a big deal and has access to super high-end real estate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Maybe the Metaverse Is Just the New "Web 2.0"
@@ -72,10 +76,6 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
  When you realize Facebook owns [Oculus](https://www.oculus.com/), the company's desire to strongly push a future VR-based platform makes a lot of sense.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Microsoft and "Digital Twins"
 
  Microsoft's vision of the metaverse seems to take the form of [rambling, buzzword-heavy talk](https://azure.microsoft.com/en-us/blog/converging-the-physical-and-digital-with-digital-twins-mixed-reality-and-metaverse-apps/) about "digital twins" and "converging the physical with the digital" with "mixed reality." Microsoft's Azure cloud can do it!
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 ![51nbYwWXNuL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51nbywwxnul-_sl500_.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Coined the Term
@@ -113,20 +113,16 @@ Read the classic cyberpunk book that apparently inspired a generation of tech CE
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-seamless-podcast-experience-for-iphone-users/"><u>[Updated] 2024 Approved Seamless Podcast Experience for iPhone Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210131368-9781777318918-a-witchs-book-of-shadows/"><u>A Witch's Book of Shadows | Free Book</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/a78-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>A78 support - Forgotten screen lock.</u></a></li>
-<li><a href="https://techidaily.com/achieve-order-and-efficiency-the-ultimate-strategy-for-personal-organization-with-trello/"><u>Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello</u></a></li>
-<li><a href="https://techidaily.com/avoid-scams-how-to-spot-and-avoid-bogus-gaming-computer-contests-online/"><u>Avoid Scams: How to Spot and Avoid Bogus Gaming Computer Contests Online</u></a></li>
-<li><a href="https://techidaily.com/before-you-hit-share-the-essential-guide-to-secure-and-clean-your-links/"><u>Before You Hit 'Share': The Essential Guide to Secure and Clean Your Links</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rming-youtube-ad-revenue-accrual/"><u>Confirming YouTube Ad Revenue Accrual</u></a></li>
-<li><a href="https://techidaily.com/connecting-the-dots-with-the-new-york-times-insights-and-solutions-for-july-27th-entry-412/"><u>Connecting the Dots with The New York Times: Insights & Solutions for July 27Th, Entry #412</u></a></li>
-<li><a href="https://techidaily.com/crack-the-code-on-august-14-daily-nyt-crossword-clues-explained-part-429/"><u>Crack the Code on August 14 - Daily NYT Crossword Clues Explained (Part 429)</u></a></li>
-<li><a href="https://techidaily.com/crack-the-code-with-the-new-york-times-trivia-hints-and-correct-responses-for-july-6th-challenge-391/"><u>Crack the Code with The New York Times - Trivia Hints & Correct Responses for July 6Th Challenge (#391)</u></a></li>
-<li><a href="https://techidaily.com/crack-the-code-expert-answers-to-nyts-connections-puzzle-for-july-19-40n/"><u>Crack the Code: Expert Answers to NYT's Connections Puzzle for July 19 (#40N)🔍</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/easily-transform-powerpoint-decks-to-pdf-files-with-our-simple-tricks-guidance-by-yl-software-experts/"><u>Easily Transform PowerPoint Decks to PDF Files with Our Simple Tricks - Guidance by YL Software Experts</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-exclusive-list-of-the-top-10-digital-recording-apps/"><u>In 2024, Exclusive List of the Top 10 Digital Recording Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-meizu-21-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Meizu 21? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-bits.techidaily.com/upgrading-your-phone-a-detailed-look-at-iphones-13-and-12/"><u>Upgrading Your Phone: A Detailed Look at iPhones 13 and 12</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-synergizing-visual-elements-best-text-plugins-reviewed/"><u>[New] Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/closer-conversations-mastering-in-camera-precision/"><u>Closer Conversations Mastering In-Camera Precision</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-14-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 14 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-s18-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo S18 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gradual-audio-silence-with-audacity/"><u>In 2024, Mastering Gradual Audio Silence with Audacity</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-apple-watch-ultra-2-my-ideal-smartwatch-companion-at-an-unbeatable-labor-day-discount-insights-from-zdnet/"><u>The Apple Watch Ultra 2: My Ideal Smartwatch Companion at an Unbeatable Labor Day Discount - Insights From ZDNet</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/the-ultimate-guide-to-crypto-asset-management-using-innovative-services-and-solutions-by-yl-software/"><u>The Ultimate Guide to Crypto Asset Management Using Innovative Services and Solutions by YL Software</u></a></li>
+<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 7</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-k70-music-recovery-recover-deleted-music-from-xiaomi-redmi-k70-by-fonelab-android-recover-music/"><u>Xiaomi Redmi K70 Music Recovery - Recover Deleted Music from Xiaomi Redmi K70</u></a></li>
 </ul></div>
 

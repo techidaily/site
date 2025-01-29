@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Online Marketing: Smart Analytics Powered by Cookiebot Solutions"
-date: 2025-01-10T18:54:15.563Z
-updated: 2025-01-15T19:22:17.378Z
+date: 2025-01-23T09:42:24.757Z
+updated: 2025-01-28T21:26:34.352Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73a148ad43909fb1af78cba44.jpg
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 Other | Accounts Payable Automation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY FlexiCapture for Invoices Transforms Sportina Group’s Invoice Processing
@@ -22,20 +22,20 @@ Other | Accounts Payable Automation
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ABBYY FlexiCapture for Invoices Transforms Sportina Group’s Invoice Processing
 
 Other | Accounts Payable Automation 
 
 ![Sportina](https://static1.abbyy.com/abbyycommedia/20183/sportina-556x304.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Customer Overview
 
@@ -50,10 +50,6 @@ Other | Accounts Payable Automation
 #### Partners Overview
 
 ![SOLUMA](https://static2.abbyy.com/abbyycommedia/20265/soluma-logo.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 | Name     | SOLUMA                                      |
 | -------- | ------------------------------------------- |
@@ -97,6 +93,10 @@ Sportina’s new invoice processing system now includes the components necessary
 
 ![process](https://static1.abbyy.com/abbyycommedia/20186/sportina-diagramm.jpg?width=534&height=283)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Result
 
 Sportina’s previous invoice process took 8 to 15 business days to manually confirm an invoice and enter data into its ERP system. After deploying its new system with a DMS and ABBYY FlexiCapture for Invoices, the apparel company is now able to classify documents without human interference and processes invoices within 5 to 7 business days. Data is extracted from documents with high efficiency and passed to the DMS automatically, thus eliminating any manual entry. Sportina was able to significantly reduce costs and redirect resources to other business critical operations.
@@ -114,7 +114,7 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 [![Accounts Payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
@@ -152,24 +152,14 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-quick-advice-preserving-gotomeetings-with-minimal-fuss/"><u>[New] 2024 Approved Quick Advice Preserving GoToMeetings with Minimal Fuss</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-innovative-pathways-ensuring-correct-iphone-snapchat-data-flow-for-2024/"><u>[New] Innovative Pathways Ensuring Correct iPhone-Snapchat Data Flow for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-how-to-see-groups-shared-photos-and-movies-on-messenger-for-2024/"><u>[Updated] How to See Group's Shared Photos and Movies on Messenger for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mp4avihevch265-ai/"><u>【便利】全自由変換ソフト一覧：無償でMP4、AVI、HEVC(H265)動画を変換 | ウィンクスビデオAI</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/correcting-xc0351000-finding-the-absent-hypervisor/"><u>Correcting XC0351000: Finding the Absent Hypervisor</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cut-costs-effortlessly-our-curated-list-of-top-6-coupons-and-deal-sources/"><u>Cut Costs Effortlessly: Our Curated List of Top 6 Coupons & Deal Sources</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18e-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18e without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-11-pro-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 11 Pro Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-blaze-2-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze 2 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-best-free-voice-changer-for-valorant-you-should-have-a-try/"><u>In 2024, Best Free Voice Changer for Valorant You Should Have a Try</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-best-5-book-video-promotions-ever-made/"><u>In 2024, The Best 5 Book Video Promotions Ever Made</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-tecno-spark-10-pro-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Tecno Spark 10 Pro Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-top-5-fast-framing-homemade-tips-for-pros/"><u>In 2024, Top 5 Fast-Framing Homemade Tips for Pros</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-galaxy-a25-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Galaxy A25 5G</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-g24-power-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola G24 Power | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-100-pro-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor 100 Pro</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>[New] Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-your-personalized-top-10-playlist/"><u>[Updated] 2024 Approved Your Personalized Top 10 Playlist</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-premium-window-calls-top-8-standout-titles-for-2024/"><u>[Updated] Premium Window Calls Top 8 Standout Titles for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A05s Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-realme-gt-neo-5-se-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT Neo 5 SE without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-pc-game-screenshots-for-2024/"><u>The Ultimate Guide to PC Game Screenshots for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-105-classic-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 105 Classic without Him Knowing | Dr.fone</u></a></li>
 </ul></div>
 

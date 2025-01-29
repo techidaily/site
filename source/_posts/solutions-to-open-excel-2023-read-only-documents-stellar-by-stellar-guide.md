@@ -1,7 +1,7 @@
 ---
 title: Solutions to open Excel 2023 Read Only Documents | Stellar
-date: 2024-09-21T20:57:22.597Z
-updated: 2024-09-24T09:47:45.598Z
+date: 2025-01-23T14:21:01.110Z
+updated: 2025-01-29T01:19:30.210Z
 tags: 
   - repair
   - repair excel
@@ -124,6 +124,10 @@ Microsoft [Excel may stop responding](https://tools.techidaily.com/stellardata-r
 
 ![Excel is not responding](https://www.stellarinfo.com/image/catalog/article/excelnew2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - A problem caused the program to stop working correctly. Windows will close the program and notify you if a solution is available.
 
 ![A problem caused the MS Excel to stop working correctly](https://www.stellarinfo.com/image/catalog/article/excelnew3.jpg)
@@ -142,6 +146,10 @@ Microsoft Excel may crash due to any one or more reasons given below,
 -  Combination of Cell formatting and stylings
 - Problem with MS Office installation
 - Partially damaged or corrupt Excel file
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Problems Caused by Excel Crash Issue
 
@@ -167,6 +175,10 @@ Excel files can grow fairly large when you start adding lots of formatting and s
 
 ![Ensure Sufficient Memory](https://www.stellarinfo.com/image/catalog/article/excelnew5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you often work with large Excel files and complex data values& formulas, then install 64-bit versions of MS Office. It will give you an advantage of larger processing capacities and prevent Excel from crash or freeze.
 
 ### **Step 3: Check If Excel is Open and In Use by Another Process**
@@ -176,13 +188,6 @@ Open **Task Manager** and close all processes or apps (tasks) that may be using 
 ![Task Manager](https://www.stellarinfo.com/image/catalog/article/excel6.jpg)
 
 After closing the tasks, try to access the Excel file and check if this fixes the performance and crash problem in Excel.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 4: Test and Repair Excel File
 
@@ -239,19 +244,6 @@ Find and remove the faulty add-in. It can resolve the issue. To do so, follow th
 
 ![Uncheck all the check boxes](https://www.stellarinfo.com/image/catalog/article/excel11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Restart Excel and check if the issue is resolved
 -  If Excel doesn't crash or freeze anymore, open COM Add-ins and enable one add-in at a time followed by Excel restart. Then observe Excel for freeze or crash problem
 
@@ -277,6 +269,10 @@ NOTE: This also works if you can't open Excel file or Excel crashes after Window
 
 After installing the latest MS Office updates, check if Excel works fine. If not, head to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 4: Clear Conditional Formatting Rules
 
 If a sheet is causing Excel to freeze or crash, there might be a problem with that particular sheet. In such a case, you may try clearing the Conditional Formatting rules. The steps are as follows,
@@ -291,6 +287,10 @@ If a sheet is causing Excel to freeze or crash, there might be a problem with th
 This avoids overwriting or making changes to the original Excel file. Once done, try working on the sheet.
 
 If this doesn't work out, move to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Solution 5: Remove Multiple Cell Formatting and Styles
 
@@ -436,6 +436,10 @@ Several Excel users have reported about experiencing [issues](https://answers.mi
 
 After installing the updates, restart your PC and open the Excel file. If this doesn’t work, use the following workaround.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Workaround 4 – Convert the File and Rename It**
 
 Some Excel users resolved the ‘Protected view’ issue by renaming their Excel files. But before that, ensure that the file you are trying to open is saved with .xlsx format. If the file type is .xls, you need to convert it to .xlsx format and then rename it. Before converting the file, save a copy of the original file in the desired location.
@@ -555,19 +559,6 @@ End Sub
 
 ![VBA Error Subscript Out Of Range-When Incorrect Name](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/VBA-error-subscript-out-of-range-when-incorrect-name.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When you run the above code, the Excel will throw the Subscript out of range error.
 
 So, check the name of the worksheet and correct it. Here are the steps:
@@ -582,6 +573,10 @@ So, check the name of the worksheet and correct it. Here are the steps:
 - The content in ‘emp’ worksheet will be copied to ‘emp2’ (see below).
 
 ![Content Copied From emp to emp2](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/content-copied-from-emp-to-emp2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Check the Range of the Array
 
@@ -612,13 +607,6 @@ The Runtime error 9: Subscript out of range can also occur if there is an issue 
 
 ![Macro Settings In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/macro-settings-in-trust-center.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Method 4: Repair your Excel File**
 
 The name or format of the Excel file or name of the objects may get changed due to corruption in the file. When the objects are not identified in a VBA code, you may encounter the Subscript out of range error. You can use the Open and Repair utility in Excel to repair the corrupted file. To use this utility, follow these steps:
@@ -635,13 +623,6 @@ If the “Open and Repair” utility fails to repair the corrupted/damaged macro
 ## **Conclusion**
 
 You may experience the “Subscript out of range” error while using VBA in Excel. You can follow the workarounds discussed in this blog to fix the error. If the Excel file is corrupt, then you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to repair the file. It’s a powerful software that can help fix all the issues that occur due to corruption in the Excel file. It helps to recover all the data from the corrupt Excel files (.xls, .xlsx, .xltm, .xltx, and .xlsm) without changing the original formatting. The tool supports Excel 2021, 2019, 2016, and older versions.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Fix the #Value! Error in Excel?
 
@@ -670,13 +651,6 @@ To fix the issue,
 - Correct the argument in the cell (B2).
 
 ![Image of Correcting Argument In Cell to fix #Value! error in Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/correcting-argument-in-the-cell.png)
-
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
-  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The formula will work as expected.
 
@@ -751,13 +725,6 @@ Then, press the Backspace key to delete the space. It will fix the error.
 
 ![Image of space removed to fix the #Value! error in Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/result-after-deleting-the-space.png)
 
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### 2\. Replace Blank Space
 
 You can also use the “Find and Select” option to replace the blank space in Excel. Here are the steps:
@@ -816,13 +783,6 @@ The 'AutoRecover' feature might not work in any of these cases:
 
 Before discussing solutions to resolve the ‘Excel AutoRecover not working’ issue, let's have an overview of the 'AutoRecover' and 'AutoSave' features.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## A Brief Overview of Excel AutoRecover and AutoSave Feature
 
 AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 2007 that allows saving all of the ‘open Excel files’ at a fixed-interval in a user-specified location or AutoRecover file location. Besides, AutoSave is an add-in that exists in Excel 2002 and earlier versions to save all open Excel files in case of a crash, power outage, or accidental closure of Excel files without saving. Users can recover these files if Excel closes suddenly, for instance, at the time of power outage or failure. The auto-recovered Excel files are saved at a default location.
@@ -830,6 +790,10 @@ AutoRecover is an inbuilt feature in MS Excel 2019, 2016, 2013, 2010, 2003, and 
 ## Methods to Fix ‘Excel AutoRecover Not Working’ Issue
 
 ### Manual Methods
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1 - Enable the 'AutoRecover' Feature if Disabled
 
@@ -859,6 +823,10 @@ Note: In Windows 8, the location is the same as mentioned above that is for Wind
 
 Now, open the Excel (XLSX) file to check if the Excel file is repaired and its data is recovered.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use a Professional Excel File Repair Tool
 
 Using a third-party Excel file repair tool can help you repair damaged Excel XLSX file and recover all the data. **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** is one tool you can rely on to repair severely corrupt Excel files (XLSX or XLS).
@@ -871,6 +839,10 @@ Here are a few other reasons why you should choose Stellar Repair for Excel soft
 - Supports Excel 2019 and earlier versions
 
 [![Free download Stellar Repair for Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2017/02/free-download-1.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -889,5 +861,26 @@ To help resolve the problem of ‘AutoRecover not working’, different methods 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-navigating-the-world-of-fbs-virtual-video-landscape/"><u>[New] In 2024, Navigating the World of FB's Virtual Video Landscape</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-the-download-of-your-youtube-playlist-today-in-2024/"><u>[New] Mastering the Download of Your YouTube Playlist Today, In 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-fbx-guide-to-flawless-gameplay-archives/"><u>[Updated] 2024 Approved FBX Guide to Flawless Gameplay Archives</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-fix-disruption-chromium-and-tweeted-videos/"><u>[Updated] 2024 Approved Fix Disruption Chromium and Tweeted Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-a-quick-guide-to-firefoxs-innovative-pip-mode/"><u>2024 Approved A Quick Guide to Firefox's Innovative PIP Mode</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y28-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y28 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Data Completely | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-complete-windows-11-build-15031-download-when-its-frozen-on-initialization/"><u>How to Complete Windows 11 Build 15031 Download When It's Frozen on Initialization</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-max-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS Max to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-htc-u23-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On HTC U23 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Ways to Change Spotify Location On Your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-x5-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X5 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-pixel-7a-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Pixel 7a</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-best-defender-for-your-iphone-se-in-202n-elite-selection-reviews/"><u>The Best Defender for Your iPhone SE in 202N: Elite Selection Reviews</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/top-5-premier-ntfs-data-recovery-applications-a-comprehensive-guide/"><u>Top 5 Premier NTFS Data Recovery Applications: A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone is not listed when I run the software? | Stellar</u></a></li>
+</ul></div>
 

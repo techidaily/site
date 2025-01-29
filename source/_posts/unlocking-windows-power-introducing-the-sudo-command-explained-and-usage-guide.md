@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2025-01-19T18:15:46.613Z
-updated: 2025-01-21T20:49:16.311Z
+date: 2025-01-23T12:47:58.006Z
+updated: 2025-01-29T14:46:46.324Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ---
 
 ## Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -20,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Is sudo So Revered?
@@ -30,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
@@ -44,10 +48,6 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 * Ensure that Windows UAC prompts are displayed when privilege escalation occurs
 * Spend less time writing [runas](https://twitter-videos.techidaily.com/updated-2024-approved-making-youtube-based-twitter-videos-hearable/) commands
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Enable sudo in Windows 11
 
  At the moment, sudo is only available to Windows users running [an Insider Preview of Windows 11](https://tiktok-clips.techidaily.com/2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/). If you want to use sudo today, you'll need to [enroll in the Windows Insider Program](https://program-issues.techidaily.com/boosting-horizon-zero-dawns-speed-tips-for-higher-fps-and-superior-play-experience/), otherwise you'll need to wait until the feature trickles out in an update.
@@ -59,18 +59,18 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
 
@@ -99,19 +99,22 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discover-excellent.techidaily.com/2-is-lost-data-from-erased-texts-irretrievable-or-is-there-hope-for-restoration/"><u>2. Is Lost Data From Erased Texts Irretrievable, or Is There Hope for Restoration?</u></a></li>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-infinix-hot-30i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-s24plus-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a56s-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A56s 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-nokia-g310-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Nokia G310 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-getting-started-easy-video-intros-available/"><u>In 2024, Getting Started Easy Video Intros Available</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-tecno-pop-7-pro-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Tecno Pop 7 Pro FRP In 3 Different Ways</u></a></li>
-<li><a href="https://facebook.techidaily.com/streamline-login-process-with-whatsapps-instagram-2fa-code-support/"><u>Streamline Login Process with WhatsApp's Instagram 2FA Code Support</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-70-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia G42 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://facebook.techidaily.com/unveiling-apples-divergence-from-facebooks-virtual-world/"><u>Unveiling Apple’s Divergence From Facebook's Virtual World</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-gamings-hidden-treasures-a-deep-dive-into-exceptional-portable-game-units-of-2024/"><u>Unveiling Gaming's Hidden Treasures: A Deep Dive Into Exceptional Portable Game Units of 2024</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-online-video-production-studios-top-9-options/"><u>Updated 2024 Approved Free Online Video Production Studios Top 9 Options</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-insiders-choice-the-best-fb-video-tools-for-2024/"><u>[New] Insider's Choice The Best FB Video Tools for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-windows-10-display-too-big/"><u>[SOLVED] Windows 10 Display Too Big</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-best-in-class-extensive-sweep-cameras/"><u>[Updated] Best in Class Extensive Sweep Cameras</u></a></li>
+<li><a href="https://win-lab.techidaily.com/1-maximizing-your-computers-potential-expert-tips-from-yl-computing/"><u>1. Maximizing Your Computer's Potential: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fast-track-to-unfreezing-your-windows-pin/"><u>Fast Track to Unfreezing Your Windows Pin</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-8-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 8 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-9a-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 9A in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a56s-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A56s 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-lava-storm-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Lava Storm 5G FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-insiders-guide-to-frame-by-frame-video-examination-free/"><u>In 2024, The Insider's Guide to Frame-by-Frame Video Examination (Free)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/perfect-post-editing-eliminating-unwanted-picture-borders-for-2024/"><u>Perfect Post-Editing Eliminating Unwanted Picture Borders for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/scriptwriting-the-creative-process/"><u>Scriptwriting The Creative Process</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-m34-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy M34</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-13t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi 13T? | Dr.fone</u></a></li>
 </ul></div>
 

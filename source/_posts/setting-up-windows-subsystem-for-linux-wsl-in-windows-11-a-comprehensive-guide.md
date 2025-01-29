@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2025-01-19T16:31:14.604Z
-updated: 2025-01-22T00:48:39.195Z
+date: 2025-01-26T08:09:39.669Z
+updated: 2025-01-29T13:37:56.649Z
 tags:
   - deals
 categories:
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Install WSL through Windows Terminal
@@ -59,6 +59,10 @@ wsl --install
 
 ![Run the &quot;wsl --install&quot; command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a2-install-wsl-and-ubuntu.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To list other available Linux distributions, run the following command instead. This lists (-l) distributions that are available online (-o).
 
 wsl -l -o
@@ -75,16 +79,12 @@ wsl --install -d Debian
 
 ![List available Linux distributions and install one.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a3-list-distros.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once your computer has rebooted, you can launch the Linux distro that you installed from your Start menu.
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
@@ -93,10 +93,14 @@ wsl --install -d Debian
 
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
@@ -110,10 +114,6 @@ wsl --install -d Debian
  Enable the "Windows Subsystem for Linux" checkbox here and click "OK." You will be prompted to reboot your computer.
 
 ![Enable the &quot;Windows Subsystem for Linux&quot; option and click &quot;OK.&quot;](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/b1-install-wsl.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you do, open the Microsoft Store app and search for the Linux distribution that you want to use. For example, you might search for "Ubuntu."
 
@@ -140,20 +140,18 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-anonymous-artifacts-auction-2023-the-quest-for-digital-secrecy-for-2024/"><u>[New] Anonymous Artifacts Auction-2023 The Quest for Digital Secrecy for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/tep-inside-the-ultimate-list-of-immersive-youtube-vr-content-for-2024/"><u>[New] Step Inside The Ultimate List of Immersive YouTube VR Content for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-discreetly-streaming-top-8-video-tools-of-the-year-2023-for-2024/"><u>[Updated] Discreetly Streaming Top 8 Video Tools of the Year, 2023 for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-reimagining-time-flow-a-thorough-2024-app-review/"><u>[Updated] Reimagining Time Flow A Thorough 2024 App Review</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-visualizing-perfection-our-1-10-camera-lens-picks-for-amazing-photography/"><u>2024 Approved Visualizing Perfection Our #1-10 Camera Lens Picks for Amazing Photography</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-motorola-edgeplus-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Motorola Edge+ (2023) Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-oneplus-ace-2v-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset OnePlus Ace 2V in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-honor-x50-gt-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Honor X50 GT Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-troubles-discover-how-to-prevent-minecraft-dungeon-crashes/"><u>PC Troubles? Discover How to Prevent Minecraft Dungeon Crashes</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/streamline-your-content-following-twitpic-rules/"><u>Streamline Your Content Following Twitpic Rules</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S21 FE 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-galaxy-a15-4g-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Galaxy A15 4G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-motorola-razr-40-by-fonelab-android-recover-music/"><u>Undelete lost music from Motorola Razr 40</u></a></li>
-<li><a href="https://driver-error.techidaily.com/windows-1011-sm-bus-controller-error-fix/"><u>Windows 10/11: SM Bus Controller Error Fix</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-chromatic-wonders-bridging-color-knowledge/"><u>[New] Chromatic Wonders Bridging Color Knowledge</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-top-10-hilarious-song-mock-ups-laughter-unleashed/"><u>[New] Top 10 Hilarious Song Mock-Ups Laughter Unleashed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-camera-accessories-for-travel-cinematography/"><u>[Updated] Camera Accessories for Travel Cinematography</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-cutting-edge-collection-no-cost-ae-template-suite/"><u>[Updated] Cutting-Edge Collection No-Cost AE Template Suite</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/achieving-unmatched-picture-quality-on-zoom-platforms-for-2024/"><u>Achieving Unmatched Picture Quality on Zoom Platforms for 2024</u></a></li>
+<li><a href="https://win-lab.techidaily.com/auf-nvme-ssds-hochladen-klonierung-von-sata-festplatten-sicher-und-effizient-gestalten-lernstrategien-fur-zuverlassige-datentransfersysteme/"><u>Auf NVMe SSDs Hochladen: Klonierung Von SATA-Festplatten Sicher Und Effizient Gestalten – Lernstrategien Für Zuverlässige Datentransfersysteme</u></a></li>
+<li><a href="https://some-tips.techidaily.com/convert-mp4-files-to-mov-format-online-at-no-cost-with-movavi-converter/"><u>Convert MP4 Files to MOV Format Online at No Cost with Movavi Converter</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-c50-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco C50 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-nubia-red-magic-9-pro-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-premier-iphone-gif-application-compendium/"><u>The Premier iPhone GIF Application Compendium</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
 

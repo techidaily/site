@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Syncing Files with Windows Nto a Portable Memory Device via USB"
-date: 2025-01-15T17:52:02.854Z
-updated: 2025-01-21T20:59:41.813Z
+date: 2025-01-21T17:59:35.492Z
+updated: 2025-01-29T09:11:08.318Z
 tags:
   - deals
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 * [How to Copy Files Using Copy and Paste](https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/)
 * [What to Do If You Run out of Space on the Flash Drive](https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y100a-bootloader-easily-by-drfone-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Connect the USB flash drive to your Windows 10 PC by plugging it into a USB port. Open File Explorer and locate the drive under "Devices And Drives" in the "This PC" window.
@@ -34,12 +38,16 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Searching for "This PC" in the Windows 10 Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/launch-this-pc.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the window that pops up, locate the section called "Devices And Drives." If necessary, click the small carat-shaped arrow to the left of the section header to reveal a list of the drives.
 
 ![The devices and drives on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/devices-and-drives.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If your USB drive has been recognized correctly and is ready to receive files, it will appear in this location with a name and a drive letter assigned to it, such as "D:", "E:", or "F:", or another letter. Note that the "C:" drive is almost always the main drive on your PC, unless you go very out of your way to change it.
@@ -58,15 +66,7 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Two File Explorer windows positioned side by side.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-to-be-moved.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  What happens next depends on how you'd like to copy the files. There are several ways to do it, but here are the two most common methods.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Copy Files by Dragging and Dropping
 
@@ -78,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![The files have been successfully moved to the USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moved.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the future, you can also drag files directly onto the USB flash drive icon in "This PC" to copy them to that location.
 
 ##  How to Copy Files Using Copy and Paste
@@ -86,26 +90,22 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 ![Select the file you want to move, then right-click and click "Copy" in the context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/copy-files.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Place your mouse cursor over a section of blank space within the USB thumb drive window and right-click again. In the menu that pops up, select "Paste."
 
 ![Right-click empty space in the destination drive and select "Paste."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/select-paste.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The files you "copied" to the Clipboard earlier will be copied onto the USB flash drive.
 
 ![Files being pasted in a USB drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/files-moving.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Congratulations: Your files are now on the USB drive. You can unplug it if you'd like. [It's a good idea to "Safely Remove" (or eject) the drive before you do](https://www.howtogeek.com/118546/htg-explains-do-you-really-need-to-safely-remove-usb-sticks/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What to Do If You Run out of Space on the Flash Drive
@@ -135,22 +135,21 @@ thumbnail: https://thmb.techidaily.com/b918b2416ccc3c3bc24e5dbb4922efd59cd6316c8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-securing-every-frame-best-practices-for-vimeo-record-use/"><u>[New] 2024 Approved Securing Every Frame Best Practices for Vimeo Record Use</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-essential-tools-for-mobile-movie-making/"><u>[New] Essential Tools for Mobile Movie Making</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-gamers-guide-to-flawless-game-recordings-for-2024/"><u>[Updated] Gamers' Guide to Flawless Game Recordings for 2024</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2 5G | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-x8b-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from X8b</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/fixing-handbrake-compatibility-problems-on-windows-11-top-remedies-and-substitutes/"><u>Fixing HandBrake Compatibility Problems on Windows 11 – Top Remedies & Substitutes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz-for-2024/"><u>High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-105-classic-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia 105 Classic Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-7t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 7T Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-zte-axon-40-lite-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On ZTE Axon 40 Lite? Look No Further | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-tecno-phantom-v-flip-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Tecno Phantom V Flip</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-10-no-cost-streaming-services-similar-to-netflix/"><u>Top 10 No-Cost Streaming Services Similar To Netflix</u></a></li>
-<li><a href="https://fox-that.techidaily.com/transform-your-iphones-browser-performance-top-4-tricks-for-a-swift-safari/"><u>Transform Your iPhone's Browser Performance: Top 4 Tricks for a Swift Safari</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-motorola-moto-g84-5g-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Moto G84 5G?</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-monetizing-youtube-shorts-crucial-requirements-and-potential-income/"><u>[Updated] 2024 Approved Monetizing Youtube Shorts Crucial Requirements and Potential Income</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/best-jordanian-seo-firms-2024-comprehensive-ranking-and-insights-with-seo-powersuite/"><u>Best Jordanian SEO Firms: 2024 Comprehensive Ranking & Insights with SEO PowerSuite</u></a></li>
+<li><a href="https://network-issues.techidaily.com/correcting-dim-laptop-screen-problem-in-lenovo/"><u>Correcting Dim Laptop Screen Problem in Lenovo</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-agni-2-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Agni 2 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-v29-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V29 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a18-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A18 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-spark-10-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 10 4G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-oneplus-11-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus 11 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://win-hot.techidaily.com/identifying-problematic-pc-drivers-a-step-by-step-guide-insights-from-yl-computing/"><u>Identifying Problematic PC Drivers: A Step-by-Step Guide - Insights From YL Computing</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-keep-the-momentum-ios-and-android-gif-savings/"><u>In 2024, How to Keep the Momentum IOS & Android GIF Savings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-intuitive-audio-fading-strategies-with-garageband/"><u>In 2024, Intuitive Audio Fading Strategies with Garageband</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-water-features-best-practices-for-reflections/"><u>IPhone Water Features Best Practices for Reflections</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-90-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-honor-x50i-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Honor X50i</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-galaxy-m54-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Galaxy M54 5G.</u></a></li>
 </ul></div>
 

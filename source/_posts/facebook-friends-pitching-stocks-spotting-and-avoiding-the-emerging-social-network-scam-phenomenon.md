@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2025-01-15T22:06:00.615Z
-updated: 2025-01-21T23:38:48.482Z
+date: 2025-01-23T13:01:57.269Z
+updated: 2025-01-29T06:25:06.395Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * AI technology may exacerbate the issue, creating convincing testimonial videos to promote scams.
 
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Facebook Accounts Are Getting Hacked
 
@@ -34,7 +38,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
@@ -50,7 +54,7 @@ An example of a trading offer. Note how the text invites users to send direct me
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Those Banking Screenshots Are Easy to Fake
@@ -58,7 +62,7 @@ An example of a trading offer. Note how the text invites users to send direct me
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-january-5-2021-1887366490)_
@@ -70,10 +74,6 @@ _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-us
 ##  AI Technology Can Make It Worse
 
 ![A series of procedural generated faces shown in a grid pattern.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/mans-faces-grid.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/deepfake-procedural-person-man-young-learning-1020952429)_
 
@@ -100,17 +100,18 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-files.techidaily.com/new-in-2024-the-ultimate-tiktok-playbook-driving-view-growth-and-engagement/"><u>[New] In 2024, The Ultimate TikTok Playbook Driving View Growth and Engagement</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-thrilling-twists-and-turns-short-track-22/"><u>[New] In 2024, Thrilling Twists & Turns - Short Track '22</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-g54-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola G54 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/high-resolution-photographic-images-and-creative-design-walls-for-pc-elevate-your-display-with-yl-software/"><u>High-Resolution Photographic Images & Creative Design Walls for PC – Elevate Your Display with YL Software</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-htc-u23-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my HTC U23 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-find-x7-ultra-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo Find X7 Ultra Without Password | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unable-to-initialize-dolby-audio-error-in-windows-11-computers/"><u>How to Resolve 'Unable to Initialize Dolby Audio' Error in Windows 11 Computers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-nokia-c110-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Nokia C110 Without PUK Codes</u></a></li>
-<li><a href="https://techidaily.com/is-your-itel-a05s-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Itel A05s working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723016714284-quick-remedies-to-restore-sound-on-your-computer-easy-solutions-proven-effective/"><u>Quick Remedies to Restore Sound on Your Computer - Easy Solutions Proven Effective!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/reverse-video-in-fcp-a-step-by-step-guide-for-beginners/"><u>Reverse Video in FCP A Step-by-Step Guide for Beginners</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/uncovering-a-bright-side-a-comprehensive-guide-to-repairing-rainbow-six-siege-computer-display-problems/"><u>Uncovering a Bright Side: A Comprehensive Guide to Repairing Rainbow Six Siege Computer Display Problems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unlocking-creative-potential-embedding-online-videos-in-slideshows/"><u>[Updated] Unlocking Creative Potential Embedding Online Videos in Slideshows</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-sprint-secrets-olympic-edition-22/"><u>2024 Approved Sprint Secrets - Olympic Edition '22</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a56s-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A56s 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/boosting-online-collaboration-with-chatgpt-help/"><u>Boosting Online Collaboration with ChatGPT Help</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/content-creation-on-facebook-aspect-ratio-choice/"><u>Content Creation on Facebook Aspect Ratio Choice</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/essential-iphone-drivers-for-windows-10-users-download-installation-tips/"><u>Essential iPhone Drivers for Windows 10 Users: Download, Installation Tips</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/four-pioneering-methods-to-record-teaching-sessions-on-apple-devices/"><u>Four Pioneering Methods to Record Teaching Sessions on Apple Devices</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-12-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 12 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-pop-7-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pop 7 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-the-art-of-pro-grade-gopro-videography-for-2024/"><u>Mastering the Art of Pro-Grade Gopro Videography for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/maximizing-impact-making-an-engaging-podcast-trailer/"><u>Maximizing Impact Making an Engaging Podcast Trailer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/mp4-trp-movavi/"><u>MP4ファイルを無料で変換! オンラインTRP動画再生器 - Movaviの優れた選択</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-honor-x7b-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Honor X7b</u></a></li>
 </ul></div>
 

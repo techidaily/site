@@ -1,6 +1,6 @@
 ---
 title: Solutions to open Excel 2021 Read Only Documents
-date: 2024-09-17T11:11:29.397Z
+date: 2025-01-22T07:45:14.268Z
 tags: 
   - repair
   - repair excel
@@ -17,6 +17,10 @@ keywords: repair excel 2021,repair excel 2013,repair .xlsm,repair .csv,repair ex
 'Excel cannot open read-only documents' is an error message that usually appears when you try to open an Excel (**XLS** or **XLSX**) file downloaded from the Internet, email, or the network server. It may also appear when you try to open an encrypted or password-protected Excel document. In such a case, MS Excel prevents the user from making any changes to the document.
 
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
@@ -45,10 +49,7 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to open the Excel document and check if the problem is fixed.
@@ -68,10 +69,7 @@ However, you can click **File > Info** and then click '**Edit Anyway**' to acces
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Renew/Activate Microsoft Office**
@@ -105,28 +103,12 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
 
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the Repair, open the Excel workbook and check if the error is resolved.
 
@@ -137,6 +119,10 @@ The error message may also appear if you access an Excel workbook from a network
 - **Repair MS Excel File**
 
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -157,5 +143,19 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-achieving-instagrammable-proportion-the-self-clone-method-on-tiktok/"><u>[Updated] In 2024, Achieving Instagrammable Proportion The Self-Clone Method on TikTok</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-guide-transforming-ts-videos-into-mp4-format-11-techniques-revealed/"><u>Free Guide: Transforming .TS Videos Into .MP4 Format - 11 Techniques Revealed</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-pop-8-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pop 8 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-how-to-use-picture-in-picture-pip-on-microsoft-edge/"><u>In 2024, How to Use Picture in Picture (PIP) on Microsoft Edge</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-next-level-broadcast-software-beyond-streamlabs/"><u>In 2024, Next-Level Broadcast Software Beyond StreamLabs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/innovations-in-balancing-exposures-for-perfect-pictures-for-2024/"><u>Innovations in Balancing Exposures for Perfect Pictures for 2024</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/losungen-fur-den-fehler-mit-der-diskpart-reinigungsfunktionalitat-entdecken-sie-5-effektive-methoden/"><u>Lösungen Für Den Fehler Mit Der Diskpart-Reinigungsfunktionalität: Entdecken Sie 5 Effektive Methoden</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-s24-ultra-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a54-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A54 5G? | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/top-picks-ideal-github-handle-secrets-for-instant-access-to-functioning-kodi-plug-ins-and-libraries/"><u>Top Picks: Ideal GitHub Handle Secrets for Instant Access to Functioning Kodi Plug-Ins & Libraries</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-how-much-wedding-videographer-cost/"><u>Updated 2024 Approved How Much Wedding Videographer Cost</u></a></li>
+</ul></div>
 

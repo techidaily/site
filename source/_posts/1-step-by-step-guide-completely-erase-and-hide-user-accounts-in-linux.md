@@ -1,7 +1,7 @@
 ---
 title: "1. Step-by-Step Guide: Completely Erase and Hide User Accounts in Linux"
-date: 2025-01-14T21:15:36.837Z
-updated: 2025-01-22T00:32:00.404Z
+date: 2025-01-26T07:10:00.262Z
+updated: 2025-01-28T19:47:12.689Z
 tags:
   - desktop
 categories:
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
  If you just want to delete a user account from your system and aren't concerned about ending any running processes and other cleanup tasks, follow the steps in the "Deleting the User Account" section below. You'll need the `deluser` command on Debian-based distributions and the `userdel` command on other Linux distributions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  User Accounts on Linux
@@ -51,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/74045d9d6303c7a70563d004d7c7b11c2909530a5
 
  Everything's set. All eyes are on you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Login
 
  Let's see if he really is logged in and, if he is, how many sessions he's working with. The `who` command [will list active sessions](http://man7.org/linux/man-pages/man1/who.1.html).
@@ -60,10 +64,6 @@ who
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/1-2.png) 
 
  Eric is logged in once. Let's see what processes he's running.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Reviewing The User's Processes
 
@@ -80,7 +80,7 @@ top -U eric
 ![top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/3-3.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We can see the memory and CPU usage of each task, and can quickly look for anything with suspicious activity. We're about to forcibly kill all of his processes, so it is safest to take a moment to quickly review the processes, and check and make sure that other users are not going to be inconvenienced when you terminate user account `eric`'s processes.
@@ -88,10 +88,6 @@ top -U eric
 ![Output from top -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/4-2.png) 
 
  It doesn't look like he's doing much, just using `less` to view a file. We're safe to proceed. But before we kill his processes, we'll freeze the account by locking the password.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Locking the Account
 
@@ -102,10 +98,6 @@ top -U eric
 sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 
 ![sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/20-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The awk command [parses fields from text files](http://man7.org/linux/man-pages/man1/awk.1p.html) and optionally manipulates them. We're using the `-F` (field separator) option to tell `awk` that the file uses a colon " `:` " to separate the fields. We're going to search for a line with the pattern "eric" in it. For matching lines, we'll print the first and second fields. These are the account name and the encrypted password.
 
@@ -122,6 +114,10 @@ sudo passwd -l eric
 sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow
 
 ![sudo awk -F: '/eric/ {print $1,$2}' /etc/shadow in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/21-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  An exclamation mark has been added to the start of the encrypted password. It doesn't overwrite the first character, it's just added to the start of the password. That's all that's required to prevent a user from being able to log in to that account.
 
@@ -140,10 +136,6 @@ sudo pkill -KILL -u eric
 who
 
 ![who in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/7-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  His session is gone. He's been logged off and his processes have been stopped. That's taken some of the urgency out of the situation. Now we can relax a bit and carry on with the rest of the mopping up as security takes a walk over to Eric's desk.
 
@@ -164,17 +156,21 @@ sudo tar cfjv eric-20200820.tar.bz /home/eric
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/8-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A lot of screen output will scroll in the terminal window. To check the archive has been created, use the `ls` command. We're using the `-l` (long format) and `-h` (human-readable) options.
 
 ls -lh eric-20200802.tar.bz
 
 ![sudo tar cfjv eric-20200820.tar.bz /home/eric  in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/9-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  A file of 722 MB has been created. This can be copied somewhere safe for later review.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Removing cron Jobs
 
@@ -190,10 +186,14 @@ sudo crontab -r -u eric
 
 ![sudo crontab -r -u eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/11-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The jobs are silently deleted. For all we know, if Eric had suspected he was about to be evicted he might have scheduled a malicious job. This step is best practice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Removing Print Jobs
@@ -203,10 +203,6 @@ sudo crontab -r -u eric
 lprm -U eric
 
 ![lprm -U eric in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/12-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The jobs are removed and you are returned to the command line.
 
@@ -225,7 +221,7 @@ type userdel
 ![type deluser in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/22-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Although they're both available, the recommendation is to use `deluser` [on Debian-derived distributions](http://manpages.ubuntu.com/manpages/eoan/man8/userdel.8.html):
@@ -247,6 +243,10 @@ sudo userdel --remove eric
 ls /home
 
 ![ls /home in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/15-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The `eric` group has also been removed because the user account `eric` was the only entry in it. We can check this quite easily by piping the contents of `/etc/group` through `grep`:
 
@@ -275,18 +275,24 @@ sudo less /etc/group | grep eric
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-drive-traffic-and-growth-with-youtube-analytic-insights/"><u>[New] In 2024, Drive Traffic and Growth with YouTube Analytic Insights</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-obs-tutorial-for-youtube-and-twitch-broadcasts/"><u>[New] The Ultimate OBS Tutorial for YouTube & Twitch Broadcasts</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-redmi-note-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/boost-your-career-with-croatian-skills-explore-these-7-benefits/"><u>Boost Your Career with Croatian Skills – Explore These 7 Benefits</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor Magic 6 Pro | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/enhancing-engagement-with-dynamic-360-videos-on-facebook/"><u>Enhancing Engagement with Dynamic 360 Videos on Facebook</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-90-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor 90 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/how-to-extract-and-save-audio-content-from-sites-a-guide-with-movavi-tools/"><u>How to Extract and Save Audio Content From Sites: A Guide with Movavi Tools</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-xiaomi-redmi-13c-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Xiaomi Redmi 13C 5GMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-long-range-wifi-router-picks-for-2n4/"><u>Top Long-Range WiFi Router Picks for 2N4</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-magic-vs-2-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Magic Vs 2.</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-infinix-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Infinix</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-shining-spots-on-screen-top-video-lights-strategies/"><u>[New] Shining Spots on Screen Top Video Lights Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/he-ultimate-buyers-blueprint-for-youtubers-for-2024/"><u>[New] The Ultimate Buyer's Blueprint for Youtubers for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-roadmap-to-yotube-stardom-with-best-selling-music-videos-for-2024/"><u>[New] The Ultimate Roadmap to YoTube Stardom with Best-Selling Music Videos for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-ignite-the-flames-strategies-for-growing-your-youtube-audience/"><u>[Updated] Ignite the Flames Strategies for Growing Your YouTube Audience</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-data-downloading-all-of-your-facebook-activity/"><u>Deciphering Data: Downloading All of Your Facebook Activity</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-moto-g13-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Moto G13 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-edge-40-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Edge 40 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-s17t-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo S17t Without Password | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-stop-usb-device-not-recognized-errors-from-disrupting-your-workflow/"><u>How to Stop 'USB Device Not Recognized' Errors From Disrupting Your Workflow</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Plus to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-mini-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 mini to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Poco X5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/navigate-the-future-of-meetings-a-win11-and-zoom-guide/"><u>Navigate the Future of Meetings A Win11 and Zoom Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/preserve-quality-while-duping-dvds-using-winx-dvd-copy-pro-effortless-cloning-from-disc-to-hard-drive-or-disk/"><u>Preserve Quality While Duping DVDs Using WinX DVD Copy Pro - Effortless Cloning From Disc to Hard Drive or Disk</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-m6-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from M6 5G</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nokia-c210-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nokia C210</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-a18-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of A18 on Windows?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-xiaomi-14-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Xiaomi 14 Pro Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

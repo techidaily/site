@@ -1,7 +1,7 @@
 ---
 title: Solutions to open Excel 2010 Read Only Documents | Stellar
-date: 2024-09-17T07:50:57.237Z
-updated: 2024-09-23T18:08:29.184Z
+date: 2025-01-23T01:53:01.357Z
+updated: 2025-01-29T12:15:46.950Z
 tags: 
   - repair
   - repair excel
@@ -33,13 +33,6 @@ There could be several reasons that may cause the error. Some of them are as fol
 - File or drive read/write permissions issues
 - Protected Excel workbook
 - Damaged or missing MS Office (MS Excel) program files
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Solutions to Open and Edit Read-Only Excel Documents
 
@@ -135,13 +128,6 @@ As a result, when you try to open or access a corrupt Excel document, the progra
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-workbook-corruption-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
-  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Methods to Fix 'The Workbook Cannot Be Opened' Error**
 
 When an Excel workbook gets corrupt, MS Excel automatically detects and starts the file recovery mode to open and repair the file. However, when it fails to repair the corruption or recover the Excel file automatically, it displays the error message, "_The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt_." In such a situation, you can follow these methods to repair and recover the Excel document manually.
@@ -228,6 +214,10 @@ What if you accidentally close the Excel file without saving your work or Excel 
 
 There could be different situations where you may lose access to your unsaved Excel workbook. There is no need to be anxious, though! We’ve covered some easy-to-follow DIY methods in this post to help you recover unsaved Excel files quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **4 Ways to Recover Unsaved Excel File**
 
 Irrespective of the circumstances, you can recover unsaved Excel files on Windows 10 using the following methods.
@@ -253,12 +243,20 @@ Microsoft Excel comes with a built-in AutoRecover feature that saves copies of a
 
 ![check-if-the-autorecover-options-for-excel-files-are-selected ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/check-if-the-autorecover-options-for-excel-files-are-selected-image2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Now, copy the file path given against the **AutoRecover file location**.
 - Open the **File Explorer**, paste the Menu Bar file path there, and hit **Enter**.
 - The unsaved file will appear with the **.xlb extension**.
 - Double-click the file and choose **Excel** from apps to open the **.xlb file**.
 
 ![choose-excel-application-to-open-xlb-file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/choose-excel-application-to-open-xlb-file-image4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Finally, save the file to the desired location.
 
@@ -277,13 +275,6 @@ Another way that you can choose is the ‘**Recover Unsaved Workbooks’** optio
 
 ![unsaved-files-will-show-in-document-recovery-pane](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/unsaved-files-will-show-in-document-recovery-pane-image6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 And, save the file to the desired location
 
 ## **Method 4: Restore File with Previous Versions Utility**
@@ -297,6 +288,10 @@ This feature will help you recover unsaved Excel files when you’ve saved the w
 - It will show the previously saved versions. You can choose the one you want to restore and click **Save/Save As** to store the file with a different name.
 
 Hopefully, this blog has helped you learn how to recover unsaved Excel files. You can try any of the above methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **FAQ**
 
@@ -343,6 +338,10 @@ You can get the Excel cannot paste the data error if the cells you are trying to
 - Under the **Protection** option, unselect the locked field and then click **OK**.
 
 ![Click on Locked Cell under Protection Tab](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/select-locked-under-protection.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Check and Fix the Cell Format**
 
@@ -393,13 +392,6 @@ In **Excel Options**, click **Advanced** and unselect **"Ignore other applicatio
 
 **![Under Excel Navigate to Home and click on Merge and Center](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/cannotpastedata/click-ignoring-dynamic-data-exchange-option.jpg)**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Here are some additional solutions you can try to fix the "Cannot paste the data" error in Excel
 
 ### **Check the Excel File Format**
@@ -417,13 +409,6 @@ You can get the "Cannot paste the data" error when the information you need to p
 ### **Add Columns**
 
 The copy-and-paste error in Excel can also occur if there are not enough columns to accept the data that you are trying to paste. You can insert more columns and then try copying and pasting data. To insert additional columns, click on the column heading, click **Home**, and then select **Insert.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Remove Incompatible Add-ins**
 
@@ -455,6 +440,10 @@ The "Excel cannot paste the data" error in Excel can occur due to different fact
 **Summary:** Unable to open Excel file due to the error ‘The file is corrupted and cannot be opened’? Read this blog to find more details about the error, possible reasons behind it, and solutions to fix the error. In addition, the blog mentions about Stellar Repair for Excel software that can help fix the Excel error in a few clicks. Download the software now and see free preview of the file.
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **About the Error**
 
@@ -503,13 +492,6 @@ Figure 2 – Component Services Settings
 - **Default Impersonation Level**: Identify
 
 ![My Computer Properties](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/My-Computer-Properties.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 3 – Illustrates My Computer Properties
 
@@ -561,6 +543,10 @@ Figure 7 – Illustrates Selecting Corrupt Excel File in Stellar Repair for Exce
 
 ![select corrupt file and repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/08/2-select-file.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 8 – Illustrates Initiating Excel File Repair in Stellar Repair for Excel
 
 - The software scans and lists the Excel file in the left pane. Click on the file to preview its recoverable objects in the right pane.
@@ -592,6 +578,10 @@ You can use the first two possible solutions to fix the “The file is corrupted
 **Summary:** Excel formulas sometimes fail to function correctly and even return an error. This article explains what you might be doing wrong that prevents Excel formulas from working properly and solutions to resolve the issue. If your formulas have disappeared from the Excel spreadsheet and you are having trouble recovering them, you can use an Excel repair tool to recover the formulas.
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 When working with Excel formulas, situations may arise when the formula doesn’t calculate or update automatically. Or, you may receive errors by clicking on a formula.
 
@@ -642,6 +632,10 @@ Use Format Cells instead of using a comma or currency signs for formatting a num
 
 ![Format Cells Option](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-3-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Problem 4 – Formatting Numbers as Text
 
 Numbers are displayed as left-aligned in a sheet in a worksheet, and text formatted numbers are right-aligned in cells. Excel considers numbers formatted as text to be text strings. Thus, it leaves those numbers out of calculations. As a result, a formula won’t work as intended. For example, in the following screenshot, you can see that the SUM formula works correctly for normal numbers. But, when the SUM formula is applied to numbers formatted as text, the formula doesn’t return the correct value.
@@ -669,13 +663,6 @@ Meaning if you enter a formula like =IF(A1>B1, “1”), Excel will consider the
 
 Remove any double quotes around a number in your formula unless you want that number to be treated as text. For example, you can write the formula mentioned above as “1” =IF(A1>B1, 1).
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Problem 6 – Extra Space at Beginning of the Formula
 
 When entering a formula, you may end up adding an extra space before the equal (=) sign. You may also add an apostrophe (‘) in the formula at times. As a result, the calculation won’t be performed and may return an error. This usually happens when you use a formula copied from the web.
@@ -690,6 +677,10 @@ The fix to this issue is pretty simple. You need to look for extra space before 
 - When you refer to other worksheets with spaces or any non-alphabetical character in their names, enclose the names in ‘single quotation marks’. For example, an external 5reference to cell A2 in a sheet named Data enclose the name in single quotes: **‘Data’!A1**.
 - You may see the formula instead of the result if you have accidentally clicked the ‘Show Formulas’ option. So, click on the problematic cell, click on the Formula tab, and then click Show Formulas.
 - If you’re getting an error “Excel found a problem with one or more formula references in this worksheet”, find solutions to fix the error [here](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -752,13 +743,6 @@ Sometimes, disabled items in Add-ins settings can prevent macros from functionin
 - Click on the disabled items and then click **Enable**.
 - Restart Excel for the applied changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Change Macro Settings
 
 The error code 0x800A03EC can also occur if macros are disabled in the Macro Security settings. Follow these steps to change the macro settings in Excel:
@@ -816,5 +800,23 @@ There are numerous reasons, like invalid method, incorrect range, data type mis
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-the-artisans-guide-to-unique-photographic-assemblages/"><u>[New] The Artisan's Guide to Unique Photographic Assemblages</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-a18-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-pexels-101-finding-the-picture-of-your-dreams/"><u>2024 Approved Pexels 101 Finding the Picture of Your Dreams</u></a></li>
+<li><a href="https://article-tips.techidaily.com/best-worth-steadicams-for-high-end-aerial-film-production-for-2024/"><u>Best-Worth Steadicams for High-End Aerial Film Production for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oppo-find-x6-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-samsung-galaxy-s24plus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Samsung Galaxy S24+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-platforms-for-hearing-westeros-tones-for-2024/"><u>Premium Platforms for Hearing Westeros Tones for 2024</u></a></li>
+<li><a href="https://techidaily.com/samsung-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Samsung won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/social-sanctuary-secure-access-restored-for-2024/"><u>Social Sanctuary Secure Access Restored for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-flv-file-editor-for-windows-8-a-simple-and-powerful-video-editing-tool/"><u>Updated 2024 Approved FLV File Editor for Windows 8 A Simple and Powerful Video Editing Tool</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Redmi Note 12T Pro</u></a></li>
+</ul></div>
 

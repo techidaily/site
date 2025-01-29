@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10"
-date: 2025-01-17T22:05:37.158Z
-updated: 2025-01-21T20:23:58.102Z
+date: 2025-01-23T03:29:58.158Z
+updated: 2025-01-29T00:57:49.270Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 ---
 
 ## Step-by-Step Guide: Launching Google Chrome via Command Line in Windows 10
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Launching the Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/0.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In Command Prompt, run the following command:
 
         `start chrome`
@@ -42,14 +50,22 @@ thumbnail: https://thmb.techidaily.com/c2896db39f882c98719dcfe14e4ab3efb1b4a55af
 
 ![Search "Run" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-run.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here, type **Chrome** and then select the "OK" button.
 
 ![Open the Run window, then enter "Chrome."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-chrome-in-run.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The web browser will now open.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Open Chrome as Administrator
@@ -63,10 +79,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Launching Chrome as an admin.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-running-as-admin.png) 
 
  You'll now be running Chrome as an administrator.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open Chrome in Incognito Mode
 
@@ -82,15 +94,7 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Starting Chrome in incognito mode from a Run window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-chrome-incognito-run-window.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Chrome will now open in incognito mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Open Chrome Straight to a Specific Website
 
@@ -110,10 +114,6 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 ![Combining incognito with a specific website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-incog-specific-site.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can achieve the same goal using Run by using this command:
 
 `chrome www.howtogeek.com` 
@@ -127,7 +127,7 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 ![Opening Chrome to a specific website in incognito mode using a Run box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/10-run-chrome-incog-to-specific-site.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In general, you can combine most of the arguments you can pass to Chrome in the Command Prompt. You're not just limited to the incognito flag or a specific website.
@@ -147,20 +147,22 @@ runas /user:administrator "C:\Program Files (x86)\Google\Chrome\Application\Chro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-logitechs-premium-4k-webcam-full-review-and-usability-insights/"><u>[New] In 2024, Logitech's Premium 4K Webcam - Full Review & Usability Insights</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-mint-magic-in-depth-analysis-and-instructions-for-ice-cream-cam/"><u>[New] In 2024, Mint Magic In-Depth Analysis & Instructions for Ice Cream Cam</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleash-potential-discovering-free-onlineoffline-animations/"><u>[New] Unleash Potential Discovering Free Online/Offline Animations</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/dvd-7/"><u>「ビデオ、オーディオ、DVD再生手順集 - 包括的な指南7章」</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/gazing-into-clarity-in-depth-on-the-hp-z32x-monitor-for-2024/"><u>Gazing Into Clarity In-Depth on the HP Z32X Monitor for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-v-purse-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor V Purse in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-f15-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy F15 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m14-4g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M14 4G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/issues-playing-h265-hevc-video-on-xiaomi-redmi-a2-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Issues playing H.265 HEVC video on Xiaomi Redmi A2</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/navigating-the-features-of-dell-xps-17-a-large-display-laptop-evaluation/"><u>Navigating the Features of Dell XPS 17: A Large Display Laptop Evaluation</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-zte-blade-a73-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from ZTE Blade A73 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-infinix-smart-7-hd-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Infinix Smart 7 HD</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Lite Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elevating-your-audio-experience-with-the-best-microphones-for-macos/"><u>[New] In 2024, Elevating Your Audio Experience with the Best Microphones for MacOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-empower-your-content-advanced-techniques-in-youtube-editing/"><u>[Updated] Empower Your Content Advanced Techniques in YouTube Editing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-essential-online-hubs-for-got-audio-download/"><u>[Updated] Essential Online Hubs for GoT Audio Download</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-expert-tips-for-smooth-cross-sounding-with-audacity/"><u>[Updated] In 2024, Expert Tips for Smooth Cross-Sounding with Audacity</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-m14-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy M14 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-nubia-red-magic-9-pro-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Nubia Red Magic 9 Pro to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>In 2024, Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-non-functioning-micvoice-communication-problems-in-warzone-on-pc-and-gaming-consoles/"><u>Resolving Non-Functioning Mic/Voice Communication Problems in Warzone on PC and Gaming Consoles</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/secure-your-zebra-gk420d-drivers-swift-and-simple-download-steps/"><u>Secure Your Zebra GK420D Drivers – Swift & Simple Download Steps</u></a></li>
+<li><a href="https://techtrends.techidaily.com/shell32dll-missing-discover-effective-fixes-here/"><u>Shell32.dll Missing? Discover Effective Fixes Here</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-asus-rog-phone-7-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-huawei-p60-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Huawei P60</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-motorola-moto-g73-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Motorola Moto G73 5G fingerprint</u></a></li>
 </ul></div>
 

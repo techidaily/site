@@ -1,7 +1,7 @@
 ---
 title: "Beware of Fake Help: Social Media Bots Posing as Travel Support Agents"
-date: 2025-01-20T20:30:11.889Z
-updated: 2025-01-22T01:12:57.289Z
+date: 2025-01-23T20:57:08.330Z
+updated: 2025-01-29T00:46:06.179Z
 tags:
   - web
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ## Beware of Fake Help: Social Media Bots Posing as Travel Support Agents
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Scammers are impersonating airline representatives to trick customers into giving away personal information.
@@ -18,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 * Pay attention to the account handles, photos, join dates, and what they're asking for. Don't trust anything that seems off.
 
  There seems to have been a recent uptick in fake social media accounts pretending to be airline representatives. This is yet another way that scammers are trying to take advantage of unknowing people. Let’s talk about some of the telltale signs so you can be in the know.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Why Pretend Like This?
 
@@ -37,28 +37,28 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-17.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Official company accounts on many social media platforms should have some form of verification attached to them (i.e. a yellow/gold checkmark or something similar). If the account responding to your grievance isn’t verified, it’s a bot.
 
 ![Official Delta social media account responding to a customer with a private message request.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-16.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Pay attention to what the account is asking for. It’s not uncommon for a representative to request more details, but they should ask for you to share via direct message (rather than out in the open for all to see). Odd requests like a WhatsApp number are also 100 percent not legit.
 
 ![Fake representative account asking for a customer's WhatsApp number.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-08.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Probable fakes tend to get automatically flagged as spam. However, the platform may not catch all of them, and it's not always easy to see such flags when receiving a direct reply.
 
 ![Two fake representative accounts under the Probable Spam label.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-05.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ignore the account’s name and look at the actual handle. Handles like “delta\_will20453” are definitely fake. Sometimes, the account photo can be a giveaway, too.
@@ -70,7 +70,7 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 ![Fake representative account page showing "Joined August 2024."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/social-scams-03.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -92,17 +92,20 @@ thumbnail: https://thmb.techidaily.com/1155b908ebc8fe078487b3227b97ba044636fc471
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-a-complete-guide-of-screenrec-for-laptop/"><u>[New] A Complete Guide of ScreenRec for Laptop</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-maximizing-video-quality-effective-techniques-for-shrinking-movie-iso-files-without-compromising-clarity/"><u>1. Maximizing Video Quality: Effective Techniques for Shrinking Movie ISO Files Without Compromising Clarity</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-13-ultra-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi 13 Ultra Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/diy-logitech-f710-drivers-repair-a-cross-platform-fix-for-win-7-8-10-and-11/"><u>DIY Logitech F710 Drivers Repair: A Cross-Platform Fix for Win 7, 8, 10 & 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Android? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-samsung-galaxy-f54-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Samsung Galaxy F54 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-embarking-on-the-online-world-starting-a-facebook-life/"><u>In 2024, Embarking on the Online World Starting a Facebook Life</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-galaxy-s23-tactical-edition-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Galaxy S23 Tactical Edition</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/simple-update-guide-how-to-change-your-standard-sata-ahci-controller-drivers/"><u>Simple Update Guide: How to Change Your Standard SATA AHCI Controller Drivers</u></a></li>
-<li><a href="https://techidaily.com/top-ways-to-unlock-iphone-6-plus-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Top ways to unlock iPhone 6 Plus screen lock</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-12-pro-using-itunes-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 12 Pro using itunes</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/whats-next-after-windows-file-restore-discover-other-solutions-with-yl-software-guidance/"><u>What's Next After Windows File Restore? Discover Other Solutions with YL Software Guidance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-amp-up-your-audiovideo-quality-with-these-10-android-players/"><u>[New] Amp Up Your Audio/Video Quality with These 10 Android Players</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-rewiring-windows-photo-viewer-on-windows-10-two-methods-explored/"><u>[Updated] In 2024, Rewiring Windows Photo Viewer on Windows 10 - Two Methods Explored</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-top-techniques-saving-and-recording-ps4-gaming-escapades/"><u>[Updated] In 2024, Top Techniques Saving and Recording PS4 Gaming Escapades</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/1726028295456-2/"><u>「オケラの最適なビデオダウンロード手段：2つの優れた選択肢」</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/becoming-an-instagram-reel-prodigy/"><u>Becoming an Instagram Reel Prodigy</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-meizu-21-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Pro Phone with Broken Screen</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-review-why-the-toshiba-55lf711u20-is-a-must-have-for-amazon-prime-members-looking-for-smart-entertainment/"><u>In-Depth Review: Why the Toshiba 55LF711U20 Is a Must-Have for Amazon Prime Members Looking for Smart Entertainment</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-note-13-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi Note 13 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-smart-8-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Smart 8 Pro unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-oppo-a59-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Oppo A59 5G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-samsung-galaxy-s23-tactical-edition-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unveiling-brilliance-a-thorough-review-of-the-professional-quest-with-bl2711u-for-2024/"><u>Unveiling Brilliance A Thorough Review of the Professional Quest with BL2711U for 2024</u></a></li>
 </ul></div>
 

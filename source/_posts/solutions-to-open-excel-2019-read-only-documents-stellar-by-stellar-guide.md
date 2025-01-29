@@ -1,7 +1,7 @@
 ---
 title: Solutions to open Excel 2019 Read Only Documents | Stellar
-date: 2024-09-17T23:27:16.749Z
-updated: 2024-09-23T23:49:17.388Z
+date: 2025-01-25T16:17:17.742Z
+updated: 2025-01-29T09:49:47.282Z
 tags: 
   - repair
   - repair excel
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99
 'Excel cannot open read-only documents' is an error message that usually appears when you try to open an Excel (**XLS** or **XLSX**) file downloaded from the Internet, email, or the network server. It may also appear when you try to open an encrypted or password-protected Excel document. In such a case, MS Excel prevents the user from making any changes to the document.
 
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
@@ -124,13 +128,6 @@ You may need to access your data from another location. That’s when a USB flas
 
 This blog will provide insights into what are the reasons for the corruption of a USB and how the users can repair Excel on flash drive that has been corrupted.
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Reasons for USB inaccessibility**
 
 Sometimes flash drives or USBs can become unresponsive due to numerous reasons. There are two types of corruption – logical and physical. Physical corruptions occur due to broken stems and connectors, broken circuits, NAND gate, not recognised, RAW, need to format, not accessible, and dead drives (no power supply).
@@ -212,6 +209,10 @@ As a result, when you try to open or access a corrupt Excel document, the progra
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-workbook-corruption-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Methods to Fix 'The Workbook Cannot Be Opened' Error**
 
 When an Excel workbook gets corrupt, MS Excel automatically detects and starts the file recovery mode to open and repair the file. However, when it fails to repair the corruption or recover the Excel file automatically, it displays the error message, "_The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt_." In such a situation, you can follow these methods to repair and recover the Excel document manually.
@@ -235,6 +236,10 @@ If the automatic repair fails, you may try manual repair to fix the damage or ex
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/repair-or-extract-data-3.png)
 
 If both options fail to fix the issue, head to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Remove Faulty or Incompatible Add-ins
 
@@ -281,6 +286,10 @@ If this fails to address the issue, you can uninstall and then fresh install MS 
 The best option is to use an Excel repair software, such as [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), to repair the file, resolve the error, and access the Excel (XLS/XLSX) worksheet. The software can repair an Excel file without any size limitation.
 
 After recovering the Excel file using the software, you can open it in any MS Excel program without encountering the error message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -368,23 +377,9 @@ Try to open your '.xlsx' file by making it 'read-only'. Follow these steps:
 
 ![Excel File Saving Options](https://www.stellarinfo.com/blog/wp-content/uploads/2021/07/Excel-file-saving-options-image-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - From the 'Save As' dialog box, click Tools > General Options.
 
 ![Open General Options In Excel](https://www.stellarinfo.com/blog/wp-content/uploads/2021/07/Open-general-options-in-excel-image-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click on the 'Read-only recommended' checkbox to make the document read-only and then click 'OK'.
 
@@ -438,14 +433,11 @@ If none of the workarounds mentioned above works for you, use a professional [<u
 
 ![Saving Complete Message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/07/Saving-complete-message-image-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The repaired Excel file will get saved at the selected location.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Filter Not Working Error in Excel [Fix 2024]
 
@@ -453,22 +445,12 @@ If none of the workarounds mentioned above works for you, use a professional [<u
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You can use the Filter function in Excel to filter data in large-sized Excel files quickly. While using Excel filters, sometimes, you face a situation where the filter is disabled or may fail to function properly.
 
 ![Filter Option Disabled](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/10/filter-option-disabled-1024x112.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The Excel filter usually fails to work if you have not selected the complete and correct range of data. Let’s learn more about the “Sort and Filter not working in Excel” issue and look at the possible methods to fix it.
@@ -576,10 +558,7 @@ In most cases, the Open and Repair tool can easily fix corruption issues in the 
 Several reasons are associated with the **filter not working issue in Excel**. The filter option may not work as expected if you have not selected the complete and correct range of data or for many other reasons. You can follow the troubleshooting methods discussed above to fix the issue. If the filter fails to work due to corruption in the workbook, then try [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It is an advanced tool that can even repair severely damaged files. It also helps to recover all the data from corrupted files without changing the original formatting. You can check the tool’s functionality by downloading its demo version. It allows you to preview all the repairable objects in the corrupted Excel file.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## \[Fixed\] Excel VBA Runtime Error 9: Subscript Out of Range
@@ -640,6 +619,10 @@ So, check the name of the worksheet and correct it. Here are the steps:
 
 ![Content Copied From emp to emp2](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/content-copied-from-emp-to-emp2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Check the Range of the Array
 
 The VBA error “Subscript out of range” also occurs if you have declared an array in a code but didn’t specify the number of elements. For example – If you have declared an array and forgot to declare the array variable with elements, you will get the error (see below):
@@ -670,10 +653,7 @@ The Runtime error 9: Subscript out of range can also occur if there is an issue 
 ![Macro Settings In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/macro-settings-in-trust-center.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Method 4: Repair your Excel File**
@@ -688,6 +668,10 @@ The name or format of the Excel file or name of the objects may get changed due 
 - Click on the **Repair** option to extract the data as much as possible. If **Repair** button fails, then click **Extract** button to recover data without formulas and values.
 
 If the “Open and Repair” utility fails to repair the corrupted/damaged macro-enabled Excel file, then try an advanced Excel repair tool, such as Stellar Repair for Excel. It can easily repair severely corrupted Excel workbook and recover all the items, including macros, cell comments, table, charts, etc. with 100% integrity. The tool is compatible with all versions of Microsoft Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -706,5 +690,19 @@ You may experience the “Subscript out of range” error while using VBA in Exc
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-artistic-auto-trims-best-6-mac-os-big-sur-video-editors-reviewed-for-2024/"><u>[New] Artistic Auto-Trims Best 6 Mac OS Big Sur Video Editors Reviewed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-carbon-footprint-reduction-in-the-cityscape-revolution-for-2024/"><u>[Updated] Carbon Footprint Reduction in the Cityscape Revolution for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-a-decade-of-dreamy-vacation-flicks-top-10-titles/"><u>2024 Approved A Decade of Dreamy Vacation Flicks Top 10 Titles</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-streamline-your-music-library-6-free-ios-apps-for-youtube-conversion/"><u>2024 Approved Streamline Your Music Library 6 Free iOS Apps for YouTube Conversion</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unleash-creativity-with-the-best-online-screen-changers/"><u>2024 Approved Unleash Creativity with the Best Online Screen Changers</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-xiaomi-redmi-k70-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Xiaomi Redmi K70 PC | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-8-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 8 Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/introducing-jabra-talk-45-robust-performance-in-audio-and-power/"><u>Introducing Jabra Talk 45: Robust Performance in Audio & Power</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-g42-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia G42 5G.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-chatgpt-on-your-mobile-devices-android-and-ios/"><u>Unleash the Power of ChatGPT on Your Mobile Devices (Android & iOS)</u></a></li>
+</ul></div>
 

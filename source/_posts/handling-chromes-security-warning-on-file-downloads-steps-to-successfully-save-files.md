@@ -1,7 +1,7 @@
 ---
 title: "Handling Chrome's Security Warning on File Downloads: Steps to Successfully Save Files"
-date: 2025-01-19T17:29:48.817Z
-updated: 2025-01-21T21:47:39.702Z
+date: 2025-01-27T23:44:11.604Z
+updated: 2025-01-29T14:41:18.008Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ## Handling Chrome's Security Warning on File Downloads: Steps to Successfully Save Files
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -37,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![Failed - Virus Detected messages in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/failed-virus-detected-messages-in-chrome.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It is important to note that the "Failed - Virus Detected" message doesn't mean that your PC has been infected with malware; quite the opposite. It means that Google Chrome or your system's antivirus has identified and blocked a potential threat.
 
  Third-party websites sometimes package legitimate software with unwanted or malicious programs, which trigger the "Virus Detected" message. Usually, you can avoid this message by downloading the file from its official website or a trusted source.
@@ -53,7 +49,15 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![VirusTotal result page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virustotal-result-page.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In such a case, you can proceed with downloading the file. Unfortunately, there isn't any one-click button to ignore this message and download the file. You'll need to make a few important changes to bypass this message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Bypass Chrome's "Failed - Virus Detection" Message
 
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ![Settings option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/settings-option-in-chrome.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the left side of the Settings page, click "Privacy and Security," then choose "Security" on the right.
@@ -76,24 +80,16 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under the Safe Browsing section, select "No Protection (Not Recommended)."
 
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "Turn Off" in the confirmation that appears.
 
 ![Turn Off option in the Turn off Safe Browsing prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-option-in-the-turn-off-safe-browsing-prompt.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
 
@@ -115,6 +111,10 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
  After disabling your security software, try downloading the file again. If the download succeeds, it means your security program was indeed blocking it. Make sure to re-enable your security software immediately after downloading, as leaving it disabled leaves your device vulnerable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  3\. Disable Virus Scanning for Downloads
 
  Are you still seeing the "Failed - Virus Detected" message when you try to download files through Google Chrome? If so, you might need to disable virus scanning for downloads.
@@ -127,10 +127,6 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![Typing Registry Editor in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-registry-editor-in-the-start-menu.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the Registry Editor, navigate to the following location:
 
         `HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies`
@@ -139,17 +135,21 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 ![Key Option in the Registry Option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/key-option-in-the-registry-option.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **attachments** into the field to name the new key. Then, right-click the "Attachments" key, hover over "New" and choose "DWORD (32-bit) Value."
 
 ![DWORD (32-bit) Value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dword-32-bit-value-in-the-registry-editor.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Name the DWORD **ScanWithAntiVirus**, then double-click the "ScanWithAntiVirus" key. Type **1** in the Value data field and click "OK."
 
 ![Typing 1 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-1-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect. Upon restart, you'll be able to download the file without any problems.
 
@@ -180,24 +180,18 @@ thumbnail: https://thmb.techidaily.com/df0051150a59f2be7546002ebadac6c91a67abcc0
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-photobooth-playback-error-constant-pause-issues/"><u>[New] 2024 Approved Photobooth Playback Error Constant Pause Issues</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-freewinrecorder-straightforward-pc-screens/"><u>[Updated] 2024 Approved FreeWinRecorder Straightforward PC Screens</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-terrariums-topography-selecting-prime-maps/"><u>[Updated] Terrarium's Topography Selecting Prime Maps</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/comprehensive-analysis-of-the-iphone-xs-max-pro-pros-cons-features-and-upgrade-strategies/"><u>Comprehensive Analysis of the iPhone XS Max (Pro): Pros, Cons, Features, and Upgrade Strategies</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-a2-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo A2 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y100i-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y100i Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-best.techidaily.com/facilitar-la-reinstalacion-completa-paso-a-paso-para-resetear-tu-pc-asus-utilizando-windows-11/"><u>Facilitar La Reinstalación Completa: Paso a Paso Para Resetear Tu PC ASUS Utilizando Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-oppo-reno-8t-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Oppo Reno 8T 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Meizu 21 Pro | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, Life360 Learn How Everything Works On Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-optimize-your-brand-presence-on-youtube-with-video-embellishments/"><u>In 2024, Optimize Your Brand Presence on YouTube with Video Embellishments</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/kinemasters-secret-to-meme-making-mastery/"><u>KineMaster's Secret to Meme-Making Mastery</u></a></li>
-<li><a href="https://techidaily.com/remove-tecno-lock-screen-without-passwordtecno-by-drfone-android-unlock-android-unlock/"><u>Remove Tecno Lock Screen without Password(Tecno )</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-tactical-edition-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy S23 Tactical Edition won’t play MP4 files</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-sony-xperia-5-v-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Sony Xperia 5 V without backup.</u></a></li>
-<li><a href="https://techidaily.com/will-htc-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will HTC play AVCHD mts files?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-skills-androids-screen-recording-functionality-for-2024/"><u>[New] Essential Skills Android's Screen Recording Functionality for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-iphone-filmmaking-essentials-creating-and-changing-video-speed-dynamics/"><u>[Updated] 2024 Approved IPhone Filmmaking Essentials Creating and Changing Video Speed Dynamics</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-unleash-more-views-on-youtube-with-pro-tag-optimization/"><u>[Updated] In 2024, Unleash More Views on YouTube with Pro Tag Optimization</u></a></li>
+<li><a href="https://discover-able.techidaily.com/3gppmp4-movavi/"><u>網路上免費自動轉換3GPP到MP4 - 利用Movavi的轉頻器</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-x50-gt-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 11 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro Max without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-expert-tips-for-precise-control-with-xbox-zoom/"><u>In 2024, Expert Tips for Precise Control with Xbox Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Samsung Galaxy A23 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-nokia-g42-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Nokia G42 5G</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-zero-30-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Zero 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleash-optimal-performance-with-revo-uninstaller-pro-5-software-suite/"><u>Unleash Optimal Performance with Revo Uninstaller Pro 5 Software Suite</u></a></li>
 </ul></div>
 

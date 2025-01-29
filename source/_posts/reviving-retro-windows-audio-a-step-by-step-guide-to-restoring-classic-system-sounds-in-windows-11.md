@@ -1,7 +1,7 @@
 ---
 title: "Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11"
-date: 2025-01-21T00:03:56.673Z
-updated: 2025-01-21T21:31:47.121Z
+date: 2025-01-24T18:38:20.583Z
+updated: 2025-01-28T18:50:59.879Z
 tags:
   - desktop
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
 ## Reviving Retro Windows Audio: A Step-by-Step Guide to Restoring Classic System Sounds in Windows 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [How to Get Sound Packs of Old Windows Sounds](https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-nokia-150-2023-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/)
@@ -22,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 * [How to Enable Changing the Login Sound](https://vp-tips.techidaily.com/updated-in-2024-ultimate-buyers-guide-to-top-6-hdmi-monitors-21/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
 
  If you long for the old Windows sounds, wishing you could hear them again on Windows 11, you're in luck. We're going to show you how to download the necessary sound packs and create a retro sound scheme.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Get Sound Packs of Old Windows Sounds
 
  The first thing you need to do is download a sound pack containing the sounds from an old Windows version. Also, ensure that every sound it contains is in WAV file format.
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/bf4e1b249b524363ca4352e12c7abcbd71ae22669
  An example of where to find sound packs is the Sound Schemes Gallery page on the [WinCustomize website](https://www.wincustomize.com/explore/sound%5Fschemes/). You can find sounds for Windows XP, Vista, 7, 8, 8.1, 10, and more. Select the one you want and click “Download” to save it to your computer.
 
 ![Downloading the Windows XP sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/downloading-windows-xp-soundpack.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The sound pack's file extension will be SOUNDPACK, which Windows will not recognize. You need to [change it to a ZIP file](https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual/) just so you can extract the sounds.
 
@@ -65,6 +61,10 @@ Close
 
 ![The "More Sound Settings" option in the Windows 11 Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/manage-sound-settings-windows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, select the "Sound" tab, and click the "Save As" button. This will allow you to create a new sound scheme so you don't mess up the Windows default (you can revert to it whenever you want). Now, give the new scheme a name, and click the "OK" to save it.
 
 Close 
@@ -73,13 +73,13 @@ Close
 
 ![Changing the "Windows Logon" sound event.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/change-windows-logon-sound-windows.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to where you extracted the sound pack, highlight the logon sound, and click "Open" to select it. For example, in the Windows XP sound pack we downloaded, it was the "Windows XP Startup.wav" file.
 
 ![Selecting the startup sound for Windows XP in a sound pack.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-xp-startup-sound.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can click "Test" on the left side of the "Browse" button to verify you have selected the right sound. Then, go ahead and change the rest of the sounds. Afterward, click "OK" to close the dialogue box and save the changes.
 
@@ -96,7 +96,7 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogon
 ![The file path of the "WindowsLogon" key in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/regedit-windowslogon-key.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, double-click the "ExcludeFromCPL" value to edit it. Set "Value Data" to **0** and then click "OK" to save the changes. Afterward, you should be able to see the "Windows Logon" event when changing system sounds.
@@ -128,19 +128,22 @@ Computer\HKEY_CURRENT_USER\AppEvents\EventLabels\WindowsLogoff
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-exemplary-6-online-communities-for-corporate-growth/"><u>[New] Exemplary 6 Online Communities for Corporate Growth</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-for-beginners-best-film-and-point-shoot-cameras-reviewed/"><u>[Updated] For Beginners Best Film and Point-Shoot Cameras Reviewed</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-elevate-canon-shoots-get-10-freepaid-lut-packs/"><u>[Updated] In 2024, Elevate Canon Shoots - Get 10 Free/Paid LUT Packs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-worlds-top-12-screensaver-apps-no-end-in-view/"><u>[Updated] World's Top 12 Screensaver Apps (No End in View)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/cutting-edge-final-cut-pros-best-10-plugins-for-2024/"><u>Cutting Edge Final Cut Pro's Best 10 Plugins for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ting-your-teaching-toolkit-how-to-craft-exceptional-videos-for-learning-for-2024/"><u>Elevating Your Teaching Toolkit How to Craft Exceptional Videos for Learning for 2024</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-11-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 11 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 13 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/leverage-online-platform-features-to-spread-your-music-for-2024/"><u>Leverage Online Platform Features to Spread Your Music for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/online-guide-converting-fb-videos-to-mp4-at-hd-resolutions-for-free/"><u>Online Guide Converting FB Videos to MP4 at HD Resolutions for Free</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-sony-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Sony Xperia 10 V</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-moto-g14-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Moto G14 without backup.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-practices-for-incorporating-b-footage-in-projects/"><u>[New] Best Practices for Incorporating B-Footage in Projects</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-cloud-costs-top-picks-for-value-for-2024/"><u>[New] Cloud Costs Top Picks for Value for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/napshots-of-success-jake-pauls-youtube-milestones/"><u>[New] Snapshots of Success Jake Paul’s YouTube Milestones</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-harmonizing-audio-with-visuals-adding-melodies-to-powerpoint/"><u>[Updated] 2024 Approved Harmonizing Audio with Visuals Adding Melodies to PowerPoint</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beyond-video-chats-webcam-alternatives/"><u>[Updated] Beyond Video Chats Webcam Alternatives</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-elevating-channels-strategies-for-stardom-on-youtube/"><u>[Updated] In 2024, Elevating Channels Strategies for Stardom on YouTube</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-top-educational-science-channels-for-knowledge-boost/"><u>[Updated] In 2024, Top Educational Science Channels for Knowledge Boost</u></a></li>
+<li><a href="https://win-latest.techidaily.com/exploring-the-best-substitutes-for-backblaze-an-in-depth-look-at-their-strengths-and-weaknesses/"><u>Exploring the Best Substitutes for Backblaze: An In-Depth Look at Their Strengths and Weaknesses</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-infinix-hot-30i-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-c67-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-60x-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo 60x 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y100-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y100 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-final-30-free-and-paid-blu-ray-solutions-for-pcmac-users/"><u>In 2024, Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-vivo-x-fold-2-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo X Fold 2 fingerprint</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-8-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 8 files after scanning? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
 

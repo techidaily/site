@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Performing a Complete System Restore on Your MacBook Air/Pro and Other Mac Models"
-date: 2025-01-18T23:07:49.996Z
-updated: 2025-01-21T18:30:44.805Z
+date: 2025-01-23T16:56:09.003Z
+updated: 2025-01-29T15:00:39.652Z
 tags:
   - desktop
 categories:
@@ -18,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 * [How to Factory Reset an Older Mac](https://hardware-reviews.techidaily.com/building-and-choosing-hardware-wisely-insights-from-toms-computer-chronicles/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -29,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
  Are you planning to sell your Mac? Or is it getting cluttered up with apps and data and you want to give it a good spring clean? A factory reset is what you need. Let's take a look at how to do it on both Apple Silicon and Intel Macs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Requirements (And Tips for Older Macs)
 
  All Macs powered by Apple Silicon, along with those that have a T2 Security Chip and run at least macOS Monterey (macOS 12), have a handy "Erase All Content and Settings" option in the System Settings. It works in the same way that you would [factory reset an iPhone](https://facebook-video-content.techidaily.com/group-gallery-video-extractor/) and simplifies the whole process.
 
  If your Mac uses an Intel processor, or you're running a version of macOS older than Monterey, you'll need to perform a more complex series of steps to factory reset your Mac. We'll explain how to do that below, or check out our guide to [reinstalling macOS](https://tech-recovery.techidaily.com/how-can-you-legally-download-netflix-titles-for-offline-viewing-on-a-laptop/) for more detail.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Erase All Content and Settings on an Apple Silicon Mac
 
@@ -49,10 +49,6 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![The Transfer or Reset option in System Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-transfer-or-reset-option-in-system-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Select "Erase All Content and Settings." Enter your password when prompted and this will launch the Erase Assistant.
 
 ![Enter your password to launch Erase Assistant.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/enter-your-password-to-launch-erase-assistant.png) 
@@ -61,12 +57,16 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![In the menu bar, click "System Preferences" then choose "Erase All Content And Settings."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/choose_erase_all_content_and_settings.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With Erase Assistant launched, you'll see exactly what will be removed during the factory reset. Along with your data, apps, and settings, you'll be signed out of your Apple ID, your Touch ID fingerprints will be removed, Bluetooth accessories will be unpaired, and the Mac will no longer appear under the Find My service.
 
 ![Screenshot showing what will be removed during a factory reset.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-showing-what-will-be-removed-during-a-factory-reset.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you're happy to proceed, click "Continue." For security reasons, you'll be prompted to enter your Apple ID password, which will then sign you out.
@@ -79,11 +79,11 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 ![The screen to confirm that you should erase all your content.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-screen-to-confirm-that-you-should-erase-all-your-content.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After clicking, your Mac will restart and show a progress bar as it erases all the content on your device. When it's done, you'll be asked to set up your Mac again. You can start from scratch as if it were a brand-new Mac, or hand it off to someone else to set up later.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Factory Reset an Older Mac
 
@@ -126,17 +126,17 @@ thumbnail: https://thmb.techidaily.com/61f1e99d6299e2b7e5df71d7f81a59ac930cb2c81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-expand-your-viewing-realm-on-youtube-platforms/"><u>[New] Expand Your Viewing Realm on YouTube Platforms</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-tips-to-prevent-audio-loss-in-live-obs-recording/"><u>[New] Tips to Prevent Audio Loss in Live OBS Recording</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-are-bloggers-getting-cash-for-product-insights/"><u>[Updated] In 2024, Are Bloggers Getting Cash for Product Insights?</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-video-mastery-on-instagram-tips-and-tricks/"><u>[Updated] Video Mastery on Instagram Tips and Tricks</u></a></li>
-<li><a href="https://facebook.techidaily.com/crafting-an-engaging-social-network-circle/"><u>Crafting an Engaging Social Network Circle</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 to an Older iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-find-x6-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Find X6 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-lock-apps-on-oppo-a79-5g-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Oppo A79 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-14-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi 14 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/1728498536793-office-365/"><u>Office 365共有メールボックス：迅速かつ容易な配信完了アイテムのバックアップ技術</u></a></li>
-<li><a href="https://fox-that.techidaily.com/top-6-solutions-when-apple-rejects-your-card-avoidance-tactics/"><u>Top 6 Solutions When Apple Rejects Your Card: Avoidance Tactics</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-motorola-moto-g14-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Motorola Moto G14?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-precise-techniques-for-shifting-macscreenshot-filetype/"><u>[New] Precise Techniques for Shifting MacScreenshot Filetype</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-stay-up-to-date-with-facebooks-latest-watched-content/"><u>[New] Stay Up-to-Date with Facebook's Latest Watched Content</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-keeping-memories-above-ground-selecting-the-best-cloud-storage-for-2024/"><u>[Updated] Keeping Memories Above Ground Selecting the Best Cloud Storage for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-rescue-absent-watch-thumbnail-icon-for-2024/"><u>[Updated] Rescue Absent Watch Thumbnail Icon for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-ace-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Ace 3 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-the-issue-when-modern-warfare-2-refuses-to-boot-up/"><u>Fix the Issue When Modern Warfare 2 Refuses to Boot Up</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/harvest-heartbeats-top-farm-games-for-friendly-fun/"><u>Harvest Heartbeats Top Farm Games for Friendly Fun</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-90-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 90 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/selecting-the-right-top-15-tripods-for-gopro-cameras-for-2024/"><u>Selecting the Right Top 15 Tripods for GoPro Cameras for 2024</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-reno-9a-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Reno 9A</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-successfully-solving-outlooks-connection-problems/"><u>Troubleshooting Successfully! Solving Outlook's Connection Problems</u></a></li>
 </ul></div>
 

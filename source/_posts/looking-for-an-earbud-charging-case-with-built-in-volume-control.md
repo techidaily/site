@@ -1,7 +1,7 @@
 ---
 title: Looking for an Earbud Charging Case with Built-In Volume Control
-date: 2025-01-14T20:23:42.094Z
-updated: 2025-01-22T00:23:06.611Z
+date: 2025-01-25T04:33:34.443Z
+updated: 2025-01-29T14:00:11.351Z
 tags:
   - mobile
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
@@ -33,7 +33,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Not only that, but a volume knob on my earbud charging case would also allow me to freely adjust the volume on every device I use the earbuds with, be that a PC, console, or TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Built-in Volume Controls Could Diversify Charging Case Designs
@@ -46,15 +46,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![CMF Buds charging case in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-buds.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Nothing/CMF
 
  I could also see phone-like volume rockers, touch-based volume controls, or a volume control touch bar similar to those on some ASUS mechanical gaming keyboards.
 
 ![ASUS ROG Falchion Volume Touch bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/asus-rog-falchion-volume-touch-bar.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ASUS
 
@@ -63,7 +63,7 @@ ASUS
 ![Three sizes of the TinyPod Apple Watch silicone case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tinypod-apple-watch-silicone-case-all-sizes.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Christian Zibreg / How-To Geek / TinyPod
@@ -71,7 +71,7 @@ Christian Zibreg / How-To Geek / TinyPod
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
@@ -97,24 +97,20 @@ Christian Zibreg / How-To Geek / TinyPod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-agriculture-pals-top-10-friendly-farm-games-for-2024/"><u>[New] Agriculture Pals Top 10 Friendly Farm Games for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>[New] In 2024, Celestial Composition The Art of Nighttime Photography Mastery</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-overcoming-content-constraints-s-virtual-world-for-2024/"><u>[Updated] Overcoming Content Constraints 'S Virtual World for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-essential-guide-to-androids-best-video-editors/"><u>[Updated] The Essential Guide to Android's Best Video Editors</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-evaluating-the-impact-of-reduced-shake-on-photoshop-usability/"><u>2024 Approved Evaluating the Impact of Reduced Shake on Photoshop Usability</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-google-pixel-7a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Google Pixel 7a Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/cyclings-apex-titles-for-gamers-for-2024/"><u>Cycling's Apex Titles for Gamers for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-14-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-11-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 11 Pro Max Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-note-30-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Note 30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-e13-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto E13 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-m34-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy M34 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/leveraging-facebook-for-shared-twitter-content/"><u>Leveraging Facebook for Shared Twitter Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/pro-gamers-video-toolkit-selection-for-2024/"><u>Pro Gamers' Video Toolkit Selection for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/proving-your-phones-ability-ios-11-camera-enhancements/"><u>Proving Your Phone's Ability IOS 11 Camera Enhancements</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-motorola-edge-40-neo-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Motorola Edge 40 Neo on Windows</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-c55-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for C55</u></a></li>
-<li><a href="https://win-dash.techidaily.com/seamlessly-update-your-lenovo-thinkpad-t420-with-the-newest-windows-driver-software-expert-instructions-here/"><u>Seamlessly Update Your Lenovo ThinkPad T420 with the Newest Windows Driver Software - Expert Instructions Here!</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-crafting-professionally-recorded-audio-via-audacity/"><u>[New] Crafting Professionally Recorded Audio via Audacity</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-summit-of-synergy-for-vr-sensations/"><u>[New] Summit of Synergy for VR Sensations</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-core-understanding-of-narrative-frameworks/"><u>2024 Approved Core Understanding of Narrative Frameworks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-insights-on-the-hyperx-alloy-rise-premium-mechanical-gaming-keyboard-with-enhanced-magnetic-personalization-is-it-worth-your-investment/"><u>Expert Insights on the HyperX Alloy Rise: Premium Mechanical Gaming Keyboard with Enhanced Magnetic Personalization - Is It Worth Your Investment?</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-v2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic V2 | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-do-i-sim-unlock-my-iphone-13-pro-max-by-drfone-ios/"><u>How Do I SIM Unlock My iPhone 13 Pro Max?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-realme-note-50-is-unlocked-by-drfone-android/"><u>How To Check if Your Realme Note 50 Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-xs-max-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/pitch-perfect-how-to-add-songs-to-your-snapchat-content/"><u>Pitch Perfect How to Add Songs to Your Snapchat Content</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-galaxy-xcover-6-pro-tactical-edition-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Galaxy XCover 6 Pro Tactical Edition on Windows</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Oppo Find X7</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-t2x-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo T2x 5G without backup.</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unable-to-update-device-here-are-9-fixes-for-iphone-and-ipad-issues/"><u>Unable to Update Device? Here Are 9 Fixes for iPhone and iPad Issues</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
 

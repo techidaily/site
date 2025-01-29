@@ -1,7 +1,7 @@
 ---
 title: Causation
-date: 2025-01-10T18:40:46.067Z
-updated: 2025-01-15T18:21:34.867Z
+date: 2025-01-26T01:52:42.845Z
+updated: 2025-01-28T19:41:39.467Z
 tags:
   - cutting-edge
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 ## Causation
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How to Tell If ChatGPT Wrote That Article](https://remote-screen-capture.techidaily.com/updated-behind-the-scenes-how-to-log-overwatch-games-for-2024/)
 * [Can You Use AI to Detect AI-Generated Text?](https://sound-issues.techidaily.com/fixing-the-issue-steelseries-arctis-99x-microphone-malfunction-resolved/)
 * [Tools to Check If An Article Was Written By ChatGPT](https://extra-approaches.techidaily.com/snappy-snippets-quick-and-quirky-memes-guide-for-2024/)
 * [Train Your Brain To Catch AI](https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,7 +35,7 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  The more sinister uses of AI tech, like a political disinformation campaign blasting out fake articles, mean we need to educate ourselves enough to spot the fakes. So [how can you tell](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-phone-unlock-it-now-by-drfone-android/) if an article is actually AI generated text?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Tell If ChatGPT Wrote That Article
@@ -43,14 +51,10 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 ![Chat GPT answering the question "Can you explain quantum computing in simple terms?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-08-at-12.29.13-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Short, simple connecting words are regularly used, the sentences are all a similar length, and paragraphs all follow a similar structure. The end result is writing that sounds and feels a bit robotic.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can You Use AI to Detect AI-Generated Text?
 
@@ -61,7 +65,7 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  Invisible to the naked eye, the watermark would be detectable by an algorithm, which would indicate it as either human or AI generated depending on how often it adhered to or broke the watermarking rules. Unfortunately, this method hasn't tested so well on later models of ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tools to Check If An Article Was Written By ChatGPT
@@ -81,10 +85,6 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  While developers are working to make these tools better at detecting AI generated text, none of them are totally accurate and can [falsely flag](https://www.washingtonpost.com/technology/2023/04/01/chatgpt-cheating-detection-turnitin/) human content as AI generated. There's also concern that since large language models like GPT-4 are improving so quickly, detection models are constantly playing catchup.
 
 Related: [Can ChatGPT Write Essays: Is Using AI to Write Essays a Good Idea?](https://digital-screen-recording.techidaily.com/2024-approved-smartest-devices-to-modify-your-speech-on-the-go/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Train Your Brain To Catch AI
 
@@ -113,22 +113,24 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-discovering-6-interactive-workout-ideas-for-social-media-success/"><u>[Updated] In 2024, Discovering 6 Interactive Workout Ideas for Social Media Success</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-initial-steps-towards-perfect-transitional-sound-levels/"><u>[Updated] Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-become-an-fcp-virtuoso-with-this-guide/"><u>2024 Approved Become an FCP Virtuoso with This Guide</u></a></li>
-<li><a href="https://facebook.techidaily.com/bridging-communities-the-7-positive-power-of-social-sites/"><u>Bridging Communities: The 7 Positive Power of Social Sites</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/easy-guide-overcoming-move-cant-be-moved-to-junk-email-folder-errors-on-ipads/"><u>Easy Guide: Overcoming ‘Move Can’t Be Moved to Junk Email Folder’ Errors on iPads</u></a></li>
-<li><a href="https://techidaily.com/experience-enhanced-windows-11-upgraded-copilot-photos-widgets-and-additional-features/"><u>Experience Enhanced Windows 11: Upgraded Copilot, Photos, Widgets, and Additional Features</u></a></li>
-<li><a href="https://techidaily.com/feeling-disconnected-from-your-own-windows-machine-heres-what-to-do/"><u>Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!</u></a></li>
-<li><a href="https://techidaily.com/four-key-moves-for-microsoft-to-rescue-copilot-and-dodge-the-cortana-mistake/"><u>Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake</u></a></li>
-<li><a href="https://techidaily.com/guide-activating-windows-latest-test-features-with-vivetool/"><u>Guide: Activating Windows' Latest Test Features with ViVeTool</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/harnessing-the-power-of-chatgpt-for-multimodal-communication-explore-eight-innovative-applications/"><u>Harnessing the Power of ChatGPT for Multimodal Communication: Explore Eight Innovative Applications</u></a></li>
-<li><a href="https://techidaily.com/how-microsoft-closed-the-backdoor-local-account-setup-flaw-patched-in-windows-11/"><u>How Microsoft Closed the Backdoor: Local Account Setup Flaw Patched in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-windows-11-integrates-with-android-phones-through-onedrive/"><u>How Windows 11 Integrates with Android Phones Through OneDrive</u></a></li>
-<li><a href="https://techidaily.com/identifying-your-exact-windows-10-edition-and-update-a-step-by-step-guide/"><u>Identifying Your Exact Windows 10 Edition & Update: A Step-by-Step Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-xiaomi-redmi-a2-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Xiaomi Redmi A2 Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/instagram-melodies-compliance-and-policies-for-2024/"><u>Instagram Melodies Compliance and Policies for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/leading-email-options-as-great-substitutes-for-gmail-your-comprehensive-guide/"><u>Leading Email Options as Great Substitutes for Gmail - Your Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/leveraging-microsoft-word-for-effective-bullet-journaling-towards-personal-success/"><u>Leveraging Microsoft Word for Effective Bullet Journaling Towards Personal Success</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-sweet-screen-snatcher-examination-in-depth/"><u>[New] 2024 Approved Sweet Screen Snatcher Examination In-Depth</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[New] Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-gopros-newest-clash-max-360-versus-hero-11-showdown-for-2024/"><u>[New] GoPro's Newest Clash Max 360 Versus Hero 11 Showdown for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-gradual-volume-lessening-in-music-creation-garageband/"><u>[New] In 2024, Gradual Volume Lessening in Music Creation (Garageband)</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>[Updated] Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728504095183-aomei-backupper/"><u>AOMEI Backupperを使った効果的なディスクの完全消去手順</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-12-free-mobile-apps-for-watching-films-online/"><u>Best 12 Free Mobile Apps for Watching Films Online</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-7-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 7 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-critical-factors-for-an-effective-4k-camera-upgrade/"><u>In 2024, Critical Factors for an Effective 4K Camera Upgrade</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>In 2024, Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-create-captions-in-final-cut-pro-x-a-comprehensive-guide/"><u>New 2024 Approved How to Create Captions in Final Cut Pro X A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy A25 5G won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix Zero 30 5G</u></a></li>
+<li><a href="https://techidaily.com/what-to-do-if-iphone-15-pro-max-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 15 Pro Max is not listed when I run the software? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Phantom V Fold | Dr.fone</u></a></li>
 </ul></div>
 

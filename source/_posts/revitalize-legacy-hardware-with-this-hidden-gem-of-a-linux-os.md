@@ -1,7 +1,7 @@
 ---
 title: Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
-date: 2025-01-17T23:57:58.776Z
-updated: 2025-01-21T16:57:16.586Z
+date: 2025-01-27T21:35:55.186Z
+updated: 2025-01-29T10:51:23.508Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Revitalize Legacy Hardware with This Hidden Gem of a Linux OS
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,15 +32,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Xubuntu desktop and terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_32_42.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the very first boot, most apps you need to get working are right there in the app menu. The full [LibreOffice](https://screen-capture.techidaily.com/in-2024-the-filmmakers-guide-to-capturing-exceptional-vo-recordings/) suite (including Libre Draw), a mail client, GIMP (for image manipulation), and Mozilla Firefox are packaged with the installation. Plus, it has two GUI software stores to download any other apps: App Center and Synaptic Package Manager.
 
 ![Xubuntu application menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_linux_18_08_2024_21_31_05.png) 
 
  That’s what the developers promised. We’ll see how it does on an ancient laptop with a little over 4GB of RAM and a dual-core CPU. In the end, I'll compare the Xubuntu experience against the standard Ubuntu on the same machine.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Install Xubuntu
 
@@ -57,7 +61,7 @@ Close
  It only takes a few minutes on modern computers, but the installer ran for about 30 minutes on this laptop. After that, it reboots and drops you on the login screen.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Put to the Test: Xubuntu on an Old Laptop
@@ -65,7 +69,7 @@ Close
  I tested Xubuntu and Ubuntu one by one on this machine.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Running Xubuntu
@@ -79,7 +83,7 @@ Close
 Close 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Running Ubuntu
@@ -87,10 +91,6 @@ Close
  Ubuntu recommends at least 4GB of RAM and a 2 GHz dual-core processor. When I tested Ubuntu on the same computer, it was a headache from the get-go. The installation failed (twice) because the installer would get stuck. Even after two tries, it took ages to install the OS. On average, it used 50% of the CPU and 1.7GB of memory when idling. That’s before I launched any apps. Ubuntu booted slower too.
 
 ![Ubuntu resource usage.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/virtualbox_ubuntu_19_08_2024_09_05_39.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  When I tried opening apps, the pinwheel would spin for a good 10–15 seconds before the app launched. The CPU usage jumped past 95% and the RAM went past 70%. YouTube videos stuttered. Tabs crashed. Just five tabs opened in the browser were enough to bring the old computer down to its digital knees. Just like Windows, the standard Ubuntu was completely unusable.
 
@@ -129,15 +129,17 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-breakdown-of-popular-elements-in-youtube-shorts/"><u>[New] 2024 Approved Breakdown of Popular Elements in YouTube Shorts</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-honor-x50-gt-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor X50 GT Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>In 2024, A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-selfies-in-focus-iphones-8-innovative-tools/"><u>In 2024, Selfies in Focus IPhone's #8 Innovative Tools</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mobile-gear-enhancing-video-creation/"><u>Mobile Gear Enhancing Video Creation</u></a></li>
-<li><a href="https://techidaily.com/resolve-compile-error-in-hidden-module-in-excel-2010-causes-and-solutions-by-stellar-guide/"><u>Resolve Compile Error in Hidden Module in Excel 2010 Causes & Solutions</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unleash-productivity-with-music-ready-jabra-evolve2/"><u>Unleash Productivity With Music-Ready Jabra Evolve2</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-vlc-analysis-and-substitutes-revisited/"><u>[Updated] 2024 Approved VLC Analysis & Substitutes Revisited</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-gold-standard-of-livestream-performances/"><u>[Updated] Gold Standard of Livestream Performances</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-vivo-y02tmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Vivo Y02TMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-oppo-a79-5gmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Oppo A79 5GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-instant-luxury-iphones-extended-shutter-mastery/"><u>In 2024, Instant Luxury IPhone's Extended Shutter Mastery</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-and-rectifying-workspace-errors-in-office-software/"><u>Navigating and Rectifying Workspace Errors in Office Software</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/navigating-in-style-the-ultimate-review-of-the-swagtrn-swagger-electric-commuter/"><u>Navigating in Style: The Ultimate Review of the Swagtrn Swagger Electric Commuter</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-xiaomi-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-lava-yuva-3-pro-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Lava Yuva 3 Pro</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-nokia-xr21-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Nokia XR21</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo</u></a></li>
 </ul></div>
 

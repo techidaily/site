@@ -1,7 +1,7 @@
 ---
 title: "Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package"
-date: 2025-01-17T23:59:15.517Z
-updated: 2025-01-22T01:29:02.140Z
+date: 2025-01-23T19:27:33.139Z
+updated: 2025-01-29T00:00:26.020Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 ---
 
 ## Unveiling the Lenovo ThinkBook 13X Gen 4: A Professional's Dream in a Lightweight Package
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -25,11 +21,11 @@ thumbnail: https://thmb.techidaily.com/521e77f0b3c0772eff4a23cfd11435c9aec9bd0ff
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
 
-![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
 #####  Lenovo ThinkBook 13x Gen 4
 
@@ -132,9 +128,17 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 Expand 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Design: A Familiar, Streamlined Look
 
 ![The back of the Lenovo ThinkBook 13x Gen 4.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-back-of-the-lenovo-thinkbook-13x-gen-4_53754432797_o.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -145,10 +149,6 @@ Jerome Thomas / How-To Geek
  From the front, the ultra-thin frame encases a vibrant 13.5-inch touchscreen display, while the webcam is built into the bezel, with the quad microphone system and two microphones nestled into the top of the bezel. Its lightweight build—just 2.7 pounds—is perfect for taking on the go. It fit comfortably under my arm when folded and was easy to tote around town when I had a power outage at home and needed to work elsewhere.
 
  The keyboard is a 10keyless chiclet affair that takes up about half of the laptop's base, and the buttonless touchpad rests underneath it in a nearly central location.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Ports: Just the Basics** 
 
@@ -176,12 +176,16 @@ Jerome Thomas / How-To Geek
 
  The touchscreen display was also fairly smooth, though it had slightly delayed responsiveness at times. For example, while writing this review, I tried to scroll down the page using the touchscreen, and it wouldn't cooperate. I noticed this occurring in a few different scenarios, but for the most part, the screen was quick and worked well, responding to multitouch gestures with little problems.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Display and Graphics: Beautiful 2.8K Stands Out
 
 ![The Lenovo ThinkBook 13x Gen 4 on a table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-on-a-table-2_53755755605_o-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -200,16 +204,12 @@ Close
 
 Close 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Performance: Excellent Computing Within Limits
 
 ![The Lenovo ThinkBook 13x Gen 4 has an Intel processor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-has-an-intel-processor_53755667204_o.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
@@ -231,10 +231,6 @@ Jerome Thomas / How-To Geek
  I did see frame rates up to 112FPS while using the adaptive refresh rate setting on the laptop, and for the most part, the games performed well.
 
  When I ran a benchmark with 3DMark's Time Spy, the ThinkBook 13x scored an overall 3,456\. The CPU scored 7,876, while the graphics scored significantly lower at 3,145\. Playing "Red Dead Redemption 2" at 1080p would give a frame rate of 40FPS, while the ThinkBook 13x could eke out up to 120FPS during Apex Legends at 1080p.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Speakers, Camera, and Microphones
 
@@ -263,22 +259,22 @@ Close
 ### 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Battery and Charging: Decent Battery Gain and Drain
 
 ![The Lenovo ThinkBook 13x Gen 4 with light and charging cable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/07/the-lenovo-thinkbook-13x-gen-4-with-light-and-charging-cable_53755539953_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  On average, the ThinkBook 13x Gen 4's battery drained at a rate of about 0.38% per minute (or about 22.8% per hour). That means I got about four hours of battery life out of a full charge. This was usually at 80 to 100% screen brightness, or about 400 to 500 nits, respectively. It's worth noting that the battery life benchmark for local video playback was 27 hours at 150 nits brightness. Based on my battery drainage, I don't believe the battery would last 27 hours at that brightness level. Nonetheless, the ThinkBook had an average to decent battery life when I used it.
 
  Charging was speedier than the drain rate. I noticed a regular 0.69% per minute charge rate, which gave me about 80% in five minutes short of two hours.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy the Lenovo ThinkBook 13x Gen 4 Laptop?
 
@@ -287,6 +283,10 @@ Jerome Thomas / How-To Geek
  Those looking for a more gaming-centric setup might consider a [gaming laptop](https://youtube-zero.techidaily.com/ed-gamers-galaxy-100plus-spaces-of-play/) or if you want the best of both worlds, something with a little more oomph, an upgraded [Dell XPS 16 (9640)](https://desktop-recording.techidaily.com/updated-in-2024-hone-your-talks-expert-insights-into-google-meet-chats/).
 
 ![The Lenovo ThinkBook 13x Gen 4 laptop with the screen open to the desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/0piap2h48y1yezhfc32chqlofwcdrf037726.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://static1.howtogeekimages.com/wordpresshttps://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/htg-rec-2024-2000-1.png) 
 
@@ -313,21 +313,21 @@ The Lenovo ThinkBook 13X Gen 4 laptop excels in multimedia creation, consumption
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-top-trio-of-professional-digital-cinema-tools/"><u>[New] Top Trio of Professional Digital Cinema Tools</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-hands-off-strategies-for-snapshots-of-online-meetings-macpc-platforms/"><u>[Updated] 2024 Approved Hands-Off Strategies for Snapshots of Online Meetings (Mac/PC Platforms)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-enjoy-premium-video-artwork-download-at-no-cost-today/"><u>[Updated] Enjoy Premium Video Artwork - Download at No Cost Today!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-hot-40i-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Hot 40i to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/enhancing-experience-best-audio-sources-for-unpack-videos/"><u>Enhancing Experience Best Audio Sources for Unpack Videos</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-find-and-install-updated-fingerprint-drivers-on-a-windows-pc/"><u>How to Find and Install Updated Fingerprint Drivers on a Windows PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-7-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset Apple iPhone 7 to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-x50-gt-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50 GT Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-12-pro-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12 Pro 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-on-iphone-7-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock On iPhone 7?</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-on-the-horizon-learning-classic-diablo/"><u>Mastery on the Horizon: Learning Classic Diablo</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolving-game-crashes-in-dragon-age-origins-for-windows-10-users/"><u>Resolving Game Crashes in Dragon Age: Origins for Windows 10 Users</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-30i-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 30i without backup.</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-gt-5-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from GT 5 Pro</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/back-4-blood-performance-boost-fixing-and-preventing-high-network-delays-for-smoother-gaming/"><u>'Back 4 Blood' Performance Boost: Fixing and Preventing High Network Delays for Smoother Gaming</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-step-by-step-seamlessly-upgrading-to-macos-11-big-sur/"><u>[New] Step-by-Step Seamlessly Upgrading to macOS 11 Big Sur</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/5-reasons-why-companies-are-banning-chatgpt/"><u>5 Reasons Why Companies Are Banning ChatGPT</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/apples-latest-showdown-choosing-between-the-m3-and-m2-macbook-air-models-detailed-comparison-for-tech-enthusiasts-gizmodo/"><u>Apple's Latest Showdown: Choosing Between the M3 and M2 MacBook Air Models - Detailed Comparison for Tech Enthusiasts | Gizmodo</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exploring-intensified-illumination-for-advanced-hdr-video/"><u>Exploring Intensified Illumination for Advanced HDR Video</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-and-install-the-newest-drivers-for-your-amd-vega-56-on-windows-os/"><u>How to Get and Install the Newest Drivers for Your AMD Vega 56 on Windows OS</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-n30-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord N30 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-poco-c55-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Poco C55 Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-note-12-4g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi Note 12 4G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-8-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-poco-f5-pro-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Poco F5 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-nubia-z50-ultra-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Nubia Z50 Ultra</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-lava-yuva-3-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Lava Yuva 3 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-magic-5-pro-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Magic 5 Pro</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-smart-8-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Smart 8</u></a></li>
 </ul></div>
 

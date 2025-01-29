@@ -1,7 +1,7 @@
 ---
 title: "Enhanced with Cookiebot Technology: Boosting Your Online Presence"
-date: 2025-01-09T18:09:09.408Z
-updated: 2025-01-15T20:42:20.054Z
+date: 2025-01-25T21:51:04.823Z
+updated: 2025-01-29T14:03:18.235Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f099a461c4a5b1f228776ffdea.jpg
@@ -13,19 +13,19 @@ thumbnail: https://thmb.techidaily.com/b43da9b8fec14dde01c0becd6729005fd0db59f09
 
 BPO and Shared Services | PDF and Document Conversion
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Deloitte étend les fonctionnalités de sa suite eDiscovery avec ABBYY Recognition Server
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/fr/93416.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Retourner aux expériences clients](https://tools.techidaily.com/abbyy/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Deloitte étend les fonctionnalités de sa suite eDiscovery avec ABBYY Recognition Server
 
@@ -33,12 +33,16 @@ Externalisation des processus métiers et Services partagés | Conversion de PDF
 
 ![](https://static1.abbyy.com/abbyycommedia/15274/cs-deloitte-556x303-2.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Aperçu du client
 
 ![Deloitte LLP](https://static3.abbyy.com/abbyycommedia/14693/logo-deloitte-new-162x30.svg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 | Prénom               | Deloitte LLP                                                 |
@@ -90,17 +94,9 @@ Avec cette nouvelle solution fluide, les documents dans la suite eDiscovery qui 
 
 [![ABBYY Recognition Server est maintenant nommé FineReader Server](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (maintenant FineReader Server)](https://tools.techidaily.com/abbyy/products/) ") 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![14-bpo](https://static2.abbyy.com/abbyycommedia/14364/14-bpo.jpg)](https://tools.techidaily.com/abbyy/products/) [BPO / Service bureau](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [En savoir plus](https://tools.techidaily.com/abbyy/products/) 
 
@@ -111,6 +107,10 @@ Avec cette nouvelle solution fluide, les documents dans la suite eDiscovery qui 
 ###### Like, share or repost
 
 Partager  True ?  : "" 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Prêt à parler à un expert ?
 
@@ -133,20 +133,24 @@ Nous serions ravis de vous aider tout au long de votre parcours d’automatisati
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-iphones-video-reduction-and-adjustment-tools/"><u>[New] Mastering iPhone's Video Reduction and Adjustment Tools</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-standout-creators-elevating-vr-content-quality/"><u>[Updated] 2024 Approved Standout Creators Elevating VR Content Quality</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-unleashing-vrecorders-capabilities-download-and-setup-guide/"><u>[Updated] In 2024, Unleashing VRecorder's Capabilities – Download & Setup Guide</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/isoaomei/"><u>「ISO画像をパソコンディスクへ安全に保存する方法：AOMEIバックアップャー」</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-13t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi 13T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-hot-30-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Hot 30 5G</u></a></li>
-<li><a href="https://fox-within.techidaily.com/come-ripristinare-i-contatti-cancellati-su-iphone-13-e-iphone-14/"><u>Come Ripristinare I Contatti Cancellati Su iPhone 13 E iPhone 14</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-lava-blaze-2-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Lava Blaze 2 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-nubia-red-magic-9-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Nubia Red Magic 9 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-12-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from 12 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-14-plus-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 14 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-the-lock-of-nokia-g22-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Nokia G22</u></a></li>
-<li><a href="https://techidaily.com/repair-corrupt-pdf-v15-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.5 File using PDF Repair Tool</u></a></li>
-<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-txt-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .txt file documents online</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-ideal-timer-solutions-for-your-special-day-on-androidios/"><u>[New] In 2024, Ideal Timer Solutions for Your Special Day on Android/iOS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-beginners-guide-to-efficient-zoom-meeting-recordings/"><u>[New] In 2024, The Beginner's Guide to Efficient Zoom Meeting Recordings</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-ultimate-online-seminar-title-crafter/"><u>[New] In 2024, Ultimate Online Seminar Title Crafter</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-live-media-masters-choice-vmix-vs-wirecast-for-professionals/"><u>[Updated] 2024 Approved Live Media Masters Choice VMix Vs. Wirecast for Professionals</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-dive-into-a-world-of-timelessness-crafting-slow-motion-videos-using-mobile-apps/"><u>[Updated] In 2024, Dive Into a World of Timelessness Crafting Slow Motion Videos Using Mobile Apps</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-twitch-time-travel-regain-control-over-streams/"><u>[Updated] Twitch Time Travel Regain Control Over Streams</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-poco-x5-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y36-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y36 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/harnessing-self-extraction-power-with-the-newest-windows/"><u>Harnessing Self-Extraction Power with the Newest Windows</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s18-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S18 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-find-x6-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Find X6 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Pro Max Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-real-time-communication-in-mozilla-thunderbird-with-ease/"><u>Navigating Real-Time Communication in Mozilla Thunderbird with Ease</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95937553-9781844097616-plants-that-speak-souls-that-sing/"><u>Plants That Speak, Souls That Sing | Free Book</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v13-file-using-pdf-repair-tool-by-stellar-guide/"><u>Repair Corrupt PDF v1.3 File using PDF Repair Tool</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-honor-play-40c-by-fonelab-android-recover-music/"><u>The way to get back lost music from Honor Play 40C</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-xiaomi-redmi-k70e-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Xiaomi Redmi K70E without backup.</u></a></li>
+<li><a href="https://techidaily.com/v29e-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>V29e Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
 

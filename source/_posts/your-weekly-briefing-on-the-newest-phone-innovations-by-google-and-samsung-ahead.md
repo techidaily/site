@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2025-01-14T19:09:11.641Z
-updated: 2025-01-21T16:31:09.584Z
+date: 2025-01-26T00:15:31.098Z
+updated: 2025-01-28T21:27:02.584Z
 tags:
   - mobile
 categories:
@@ -13,22 +13,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 This was a surprisingly busy week for tech news, with announcements for Google and Samsung’s next hardware events, and a whole lot of software updates. Here are the biggest stories you might have missed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The Big News
 
 ### [You Can Now Add Checkboxes in Microsoft Excel](https://screen-capture.techidaily.com/new-become-a-pro-at-setting-up-vrecorder-fast/) 
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Steam Can Now Screen Record Your Games](https://techtrends.techidaily.com/explore-66-premier-twitter-profiles-offering-unbeatable-travel-advice-offers-and-epic-adventures/) 
@@ -37,7 +37,15 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Valve
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
@@ -46,6 +54,10 @@ Valve
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
@@ -61,15 +73,7 @@ Valve
 
 ![The Moto Tag attached to a handbag.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/66.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Motorola
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Google's Pixel 9 is Coming August 13th](https://facebook-clips.techidaily.com/updated-fb-video-extraction-creating-mp3s-in-minutes/) 
 
@@ -78,10 +82,6 @@ Motorola
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
 
  The last Paramount+ price hike occurred in June of 2023, and now another one is happening.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Other Stuff
 
@@ -104,19 +104,24 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-secret-strategies-to-outshine-with-canva-photos/"><u>[New] 2024 Approved Secret Strategies to Outshine with Canva Photos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-capturing-contentment-top-streaming-techniques/"><u>[New] In 2024, Capturing Contentment Top Streaming Techniques</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-get-started-with-youtube-video-ad-building-without-spending/"><u>[New] In 2024, Get Started with YouTube Video Ad Building Without Spending</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-post-vlc-media-player-landscape-analysis/"><u>[New] In 2024, Post-VLC Media Player Landscape Analysis</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-mastering-video-trimming-on-windows-10-tips-for-efficiency-and-precision/"><u>[Updated] 2024 Approved Mastering Video Trimming on Windows 10 Tips for Efficiency and Precision</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-12-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 12 mini to Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a58-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A58 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-cloud-space-costs-analyzing-and-top-tier-savings-guide/"><u>In 2024, Cloud Space Costs Analyzing & Top-Tier Savings Guide</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-complete-walkthrough-for-uninstalling-software-from-a-mac-device/"><u>The Complete Walkthrough for Uninstalling Software From a Mac Device</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x9a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X9a Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-note-50-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme Note 50 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/est-gamers-streaming-tools-for-2024/"><u>[New] Best Gamers' Streaming Tools for 2024</u></a></li>
+<li><a href="https://discover-help.techidaily.com/discovering-essential-diagnostic-programs-for-audio-problem-solving-with-yl-software-insights/"><u>Discovering Essential Diagnostic Programs for Audio Problem Solving with YL Software Insights</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-storm-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-v30-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo V30 Is Unlocked</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y28-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y28 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-8-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-acclaimed-websites-for-google-pixel-tonal-sounds/"><u>In 2024, Acclaimed Websites for Google Pixel Tonal Sounds</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-unveil-full-length-videos-in-yt/"><u>In 2024, How to Unveil Full-Length Videos in YT</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-16-from-nokia-c02-to-other-android-devices-data-transfer-apps-to-switch-phone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 16 from Nokia C02 to Other Android Devices Data Transfer Apps to Switch Phone Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/micronics-aims-to-mainstream-additive-manufacturing-with-a-desktop-sized-affordable-sls-3d-printer-at-299eplus06/"><u>Micronics Aims to Mainstream Additive Manufacturing with a Desktop-Sized, Affordable SLS 3D Printer at $2,99E+06</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-conjuncts-with-pearson-academic-fusion/"><u>Mondly Conjuncts With Pearson Academic Fusion</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-system-issues-the-definitive-guide-to-using-chkdsk-on-windows-systems/"><u>Navigating System Issues: The Definitive Guide to Using Chkdsk on Windows Systems</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-7-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 7 Plus Data From iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-poco-c65-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Poco C65 without backup.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-lava-agni-2-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Lava Agni 2 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-realme-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Realme .</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/iphonejsbperfumeakb48dvd/"><u>プロの方法でiPhoneライブ再生可能化！嵐、三代目JSB、Perfume、AKB48DVDコピーテクニック</u></a></li>
 </ul></div>
 

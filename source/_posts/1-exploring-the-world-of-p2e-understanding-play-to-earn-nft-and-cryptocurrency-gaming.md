@@ -1,7 +1,7 @@
 ---
 title: "1. Exploring the World of P2E: Understanding Play-to-Earn NFT and Cryptocurrency Gaming"
-date: 2025-01-16T01:06:50.234Z
-updated: 2025-01-21T23:57:11.605Z
+date: 2025-01-25T19:20:06.177Z
+updated: 2025-01-28T23:49:04.709Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 ## 1. Exploring the World of P2E: Understanding Play-to-Earn NFT and Cryptocurrency Gaming
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
  Few sectors are escaping the crypto craze, but many game developers have really embraced it. Plenty of gaming-related collectibles can now be claimed as NFTs, but some so-called "play-to-earn" games have gone even further and have crypto and NFT as the stakes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  P2E Games Play For Keeps
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  However, what sets play-to-earn apart from free-to-play is that you can trade and sell your assets to other players. This is because many of these assets are NFTs, or can be turned into them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Axie Infinity
 
  To illustrate this, it's probably best to use the system used by [_Axie Infinity_](https://axieinfinity.com), one of the longest running P2E games out there (and also one that recently [lost over $600 million dollars](https://www.theverge.com/2022/3/29/23001620/sky-mavis-axie-infinity-ronin-blockchain-validation-defi-hack-nft).) The idea of the game is simple: players control "axies," small fantasy creatures, and battle them against other players' axies. It's reminiscent of Pokémon, but in a heavily monetized form.
@@ -47,7 +43,15 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 ![Axie Infinity Breeding Screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/axie-infinity-breeding.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, what makes _Axie Infinity_ interesting is that you're not only spending money, you're also making it. If you breed a rare axie, you can put it up for sale on the marketplace, for example, and you can also sell your surplus resources. Where in F2P games the money all flows one way---to the developer---P2E games see some flow back, too. Some people even [make a living](https://www.coingecko.com/buzz/how-gamers-are-making-a-living-a-case-study-on-axie-infinity) off playing the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  The P2E Business Model
 
@@ -61,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
  As a result, paying players will often grind free players into dust. This, in turn, turns free players either away from the game or gets them to increase their expenditure so as to remain competitive. It's a cycle that's hard to get out of and can be the start of an addiction.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Other P2E Games
 
  To be clear, we're only using _Axie Infinity_ as one example, other P2E games like _Gods Unchained_ or the planned _Illuvium_ use much the same tactics, just in slightly different forms.
@@ -73,15 +73,15 @@ thumbnail: https://thmb.techidaily.com/e6de0968842567a94bab861fcb9034374ea99c16c
 
 _Illuvium_, which also is about letting fantasy beasts fight each other, tears the veil away completely and advertises that it will host betting on fights between players, as well as letting you trade fighters with other players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Do You Really Own Your In-Game Assets?
 
  It's not just P2E games' structure that should raise eyebrows, it's also what it promises. The idea is that you play the game or pay into it and that you own your assets: axies, cards, or whatever it is that the game has on offer. They're NFTs after all, and you're the owner, not the game company. _Gods Unchained_ makes a big deal of this on its website.
 
 ![Gods Unchained Website Copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/gods-unchained-claims.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  However, reality proves it's not quite so simple. There's a [big problem with NFTs](https://extra-lessons.techidaily.com/techniques-for-writing-eye-catching-podcast-summaries/), namely that if the server that the records are on gives out, your NFTs disappear into thin air. This has happened, too, and recently.
 
@@ -108,15 +108,21 @@ _Illuvium_, which also is about letting fantasy beasts fight each other, tears t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-step-by-step-io-screen-capture-tutorial/"><u>[New] Step-by-Step IO Screen Capture Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-top-8-strategies-in-digital-sound-logging-techniques/"><u>[New] Top 8 Strategies in Digital Sound Logging Techniques</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-13t-has-native-mov-support-by-aiseesoft-video-converter-play-mov-on-android/"><u>Does 13T has native MOV support?</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-camon-30-pro-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Camon 30 Pro 5G Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-mkv-mastery-top-mac-apps/"><u>In 2024, MKV Mastery Top Mac Apps</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-sony-xperia-5-v-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Sony Xperia 5 V</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-complete-walkthrough-to-get-your-revouninstaller-up-and-running-smoothly/"><u>The Complete Walkthrough to Get Your RevoUninstaller Up & Running Smoothly</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-lava-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Lava .</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-free-gif-loop-makers/"><u>Updated 2024 Approved Best Free GIF Loop Makers</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-redmi-k70-pro-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi Redmi K70 Pro on Windows?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-a-countdown-of-the-most-memorable-animated-tiktoks-for-2024/"><u>[Updated] A Countdown of the Most Memorable Animated TikToks for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-iconic-music-library-app-android-focused-for-2024/"><u>[Updated] Iconic Music Library App, Android-Focused for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-laugh-lines-best-comedy-video-concepts-for-the-social-media-sphere-for-2024/"><u>[Updated] Laugh Lines Best Comedy Video Concepts for the Social Media Sphere for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-striking-visuals-a-deep-dive-into-optimal-youtube-thumbnail-sizes/"><u>[Updated] Striking Visuals A Deep Dive Into Optimal YouTube Thumbnail Sizes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-group-chat-options-for-virtual-gatherings/"><u>2024 Approved Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-timecode-alignment-and-text-modification-in-srt-using-macos/"><u>2024 Approved Mastering Timecode Alignment & Text Modification in SRT Using macOS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/academic-anchors-identifying-top-10-lecture-preservation-tools/"><u>Academic Anchors Identifying Top 10 Lecture Preservation Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-xr-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-asus-rog-phone-8-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Asus ROG Phone 8 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Max Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-prime-freefire-content-creation-on-youtube/"><u>In 2024, Prime FreeFire Content Creation on YouTube</u></a></li>
+<li><a href="https://win-top.techidaily.com/trasforma-i-tuoi-file-wmv-in-mp4-gratis-online-con-movieconverter/"><u>Trasforma I Tuoi File WMV in MP4 Gratis Online Con MovieConverter</u></a></li>
 </ul></div>
 

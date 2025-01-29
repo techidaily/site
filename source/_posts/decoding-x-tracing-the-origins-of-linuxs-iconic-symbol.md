@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2025-01-16T16:23:36.839Z
-updated: 2025-01-21T22:05:08.145Z
+date: 2025-01-22T00:38:32.317Z
+updated: 2025-01-28T19:21:42.689Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 ---
 
 ## Decoding X: Tracing the Origins of Linux's Iconic Symbol
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
@@ -53,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -86,7 +86,7 @@ Dave McKay/How-To Geek
 Dave McKay/How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
@@ -102,7 +102,7 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -142,19 +142,21 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-efficiency-in-advertising-post-facebook-algorithm-overhaul/"><u>[New] In 2024, Efficiency in Advertising Post-Facebook Algorithm Overhaul</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-mastering-flight-control-best-motor-selections-unveiled/"><u>[New] Mastering Flight Control Best Motor Selections Unveiled</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-samsung-galaxy-s24-ultra-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Samsung Galaxy S24 Ultra Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y27-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y27 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/maximizing-your-youtube-premium-experience-tips-and-tricks/"><u>Maximizing Your YouTube Premium Experience: Tips and Tricks</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-14-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi 14 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-x-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone X SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://win-answers.techidaily.com/top-free-video-trimming-software-for-handling-large-file-sizes-web-and-desktop-options/"><u>Top Free Video Trimming Software for Handling Large File Sizes - Web and Desktop Options</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-on-windows-11-get-your-volume-back/"><u>Troubleshooting Audio Issues on Windows 11 - Get Your Volume Back!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-laptop-trackpad-problems-in-windows-operating-systems-1087-expert-tips/"><u>Troubleshooting Laptop TrackPad Problems in Windows Operating Systems (10/8/7): Expert Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-infinix-note-30-vip-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Infinix Note 30 VIP fingerprint</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y200e-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-smooth-transitions-the-ultimate-guide-for-audio-editors/"><u>[New] 2024 Approved Smooth Transitions The Ultimate Guide for Audio Editors</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-ai-powered-name-generators-for-podcasts-online/"><u>[New] In 2024, Top 10 AI-Powered Name Generators for Podcasts Online</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-z2-advantage-an-intelligent-mobile-assessment/"><u>[Updated] Z2 Advantage An Intelligent Mobile Assessment</u></a></li>
+<li><a href="https://win-docs.techidaily.com/1726223809677-movavi-voc-mp4/"><u>使用 Movavi 無限制網上 VOC 到 MP4 格式過渡</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/comprehensive-steps-to-fix-and-prevent-lag-in-rainbow-six-siege-gaming/"><u>Comprehensive Steps To Fix And Prevent Lag In Rainbow Six Siege Gaming</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-hp-deskjet-ink-advantage-3520-printer-drivers-free/"><u>Download HP Deskjet Ink Advantage 3520 Printer Drivers - Free</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/guia-completa-sobre-arrancar-windows-10-en-modo-seguro-para-reparar-y-restaurar-el-sistema/"><u>Guía Completa Sobre Arrancar Windows 10 en Modo Seguro Para Reparar Y Restaurar El Sistema</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-vip-racing-edition-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 VIP Racing Edition Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v30-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V30 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30-vip-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30 VIP Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/networking-neutrality-right-to-suspend-trump-but-for-how-long/"><u>Networking Neutrality: Right to Suspend Trump, But for How Long?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://techidaily.com/remove-lava-storm-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Lava Storm 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/sign-a-pdf-v17-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v1.7 document with electronic signature tool</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-s18-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo S18 | Dr.fone</u></a></li>
 </ul></div>
 

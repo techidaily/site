@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2025-01-15T00:25:19.292Z
-updated: 2025-01-21T22:23:25.535Z
+date: 2025-01-27T22:22:03.854Z
+updated: 2025-01-29T09:42:08.802Z
 tags:
   - deals
 categories:
@@ -13,12 +13,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 It's clear that Microsoft thinks Copilot is here to stay. They’re so confident that they’ve added an entire button for it on Copilot+ PCs. However, unless Microsoft wants that button to be a useless relic that brings back painful memories in just a few years, Copilot needs to get a few things right.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft Has Had a Troubled History With Digital Assistants
 
  Much as they would like you to forget, Copilot is not Microsoft’s first crack at a digital assistant. In fact, they’ve built two before this: Clippy and Cortana—the former of which we loved to hate and the latter of which we simply hated (or completely ignored).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clippy: The Assistant We All Love to Hate
@@ -32,10 +36,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  At the time, few people owned computers and even fewer knew how to use them. In a bid to make computers more user-friendly, Microsoft had the bright idea of humanizing their software—cue Clippy, a paper clip with googly eyes and unusually expressive eyebrows.
 
 ![Clippy, a paperclip with googly eyes and eyebrows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/clippy.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Clippy debuted in Microsoft Office 97 and gave tips to help new users familiarize themselves with the software. Things were all well and good, except for one key detail that Microsoft forgot to consider when building Clippy: humans learn.
 
@@ -57,15 +57,15 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
 
  What annoyed early Windows users the most about Clippy was the fact that it just wouldn't stop bugging you. No sooner had you typed "dear" into MS Word than Clippy was there, parroting the words: "It looks like you’re writing a letter, would you like help?" No, Clippy, I would not in fact like help. What I would like is for you to leave me alone!
 
 ![An unfinished letter in Microsoft Word and a paperclip with a textbox above it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/an-unfinished-letter-in-microsoft-word-and-a-paperclip-with-a-textbox-above-it.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Cortana was much the same. It held the search bar hostage, and there was no simple way to disable it. Microsoft even baked Cortana into the setup process for new PCs so she was impossible to escape.
 
@@ -86,7 +86,7 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Copilot, Respect My Boundaries
@@ -98,7 +98,7 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft's already had a poor start in this regard. [Recall](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/)–which was supposed to be a huge selling point for the Copilot+ PCs has been [beset by privacy concerns](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/) since its announcement. Even though Recall is different from Copilot, they are so closely intertwined in the new Copilot+ PCs that Copilot can't help but be tainted by association.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Copilot, I Need to Know I Can Trust You
@@ -126,16 +126,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-becoming-a-pro-at-visual-effects-creation/"><u>[Updated] Becoming a Pro at Visual Effects Creation</u></a></li>
-<li><a href="https://techtrends.techidaily.com/6-pour-une-utilisation-optimisee/"><u>6 Pour Une Utilisation Optimisée</u></a></li>
-<li><a href="https://driver-error.techidaily.com/corrected-invalid-service-inf-issue/"><u>Corrected Invalid Service INF Issue</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-digesting-the-public-perspective-on-vllo/"><u>In 2024, Digesting the Public Perspective on VLLO</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-video-recovery-recover-deleted-videos-from-samsung-galaxy-a25-5g-by-fonelab-android-recover-video/"><u>Samsung Galaxy A25 5G Video Recovery - Recover Deleted Videos from Samsung Galaxy A25 5G</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-c210-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia C210 without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-razr-40-ultra-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola Razr 40 Ultra without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-meizu-21-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Meizu 21? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-vivo-x90s-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Vivo X90S FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nokia-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nokia</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-full-potential-of-vlc-media-player-on-mac-for-2024/"><u>Unlocking the Full Potential of VLC Media Player on Mac for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/crear-video-en-linea-con-zoomare-guia-paso-a-paso-del-editor-de-videos-gratuito/"><u>Crear Vídeo en Línea Con Zoomare: Guía Paso a Paso Del Editor De Videos Gratuito</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-modern-content-creators-dilemma/"><u>Decoding the Modern Content Creator's Dilemma</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-xs-max-how-to-unlock-a-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>Disabled iPhone XS Max How to Unlock a Disabled iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-phantom-v-flip-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Phantom V Flip Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme V30? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/job-security-and-chatgpt-a-close-look-at-ten-potential-risks/"><u>Job Security and ChatGPT: A Close Look at Ten Potential Risks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-storage-savings-for-the-digital-age/"><u>Optimal Storage Savings for the Digital Age</u></a></li>
+<li><a href="https://extra-information.techidaily.com/pros-choice-9-premium-streaming-services/"><u>Pro's Choice 9 Premium Streaming Services</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi A2 won’t play HEVC H.265 media, how to fix? </u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark 10 Pro | Dr.fone</u></a></li>
 </ul></div>
 

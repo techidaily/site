@@ -1,7 +1,7 @@
 ---
 title: Solutions to open Excel 2003 Read Only Documents | Stellar
-date: 2024-09-22T22:28:38.076Z
-updated: 2024-09-23T20:29:39.311Z
+date: 2025-01-26T06:56:00.402Z
+updated: 2025-01-28T22:20:56.604Z
 tags: 
   - repair
   - repair excel
@@ -46,13 +46,6 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
   - Uncheck the '**Read-only'** attribute and then click the '**OK'** button.
 
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to open the Excel document and check if the problem is fixed.
 
@@ -104,6 +97,10 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After the Repair, open the Excel workbook and check if the error is resolved.
 
 - **Check Permissions**
@@ -124,13 +121,6 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
 **Summary:** The error ‘Excel found a problem with one or more formula references in this worksheet’ may appear while saving the Excel workbook. It occurs when Excel found a problem with the formula used in the sheet. However, it may also occur when the Excel workbook gets damaged or corrupt. In this guide, we’ve explained the reasons that may lead to this Excel error and methods to resolve the error, by using various Excel options and a third-party Excel file repair software.
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
-  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you are experiencing the ‘Excel found a problem with one or more formula references in this worksheet’ error message in the Excel workbook, it indicates that the [Excel file is corrupt](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) or partially damaged. However, it may also occur due to incorrect reference to a wrong cell or object linking, which is not working. The complete error message says,
 
@@ -168,13 +158,6 @@ To run Error Checking in the Excel sheet, follow these steps,
 _The error check is completed for the entire sheet._
 
 In such a case, you can try saving the Excel file again. If the error message persists, proceed to the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Check Individual Sheet
 
@@ -217,6 +200,10 @@ When none of the methods resolve the error, then you can rely on advanced [Excel
 
 It repairs corrupt or damaged Excel (.xls/.xlsx) files, recovers Pivot tables, charts, etc., and save them in a new Excel worksheet. It helps Excel users, facing formula reference error, restore their Excel file without any risk of data loss, while preserving the sheet properties and formatting with 100% precision.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Although the error ‘Excel found a problem with one or more formula references in this worksheet’ can be resolved by using various options in MS Excel, it may lead to a partial loss of information. Thus, you must perform these operations after taking a backup of the Excel worksheet. Also, if the MS Excel options fail to resolve the problem, you can use an Excel file repair software, such as Stellar Repair for Excel. The software helps fix Excel file corruption and restores the information and data from corrupt or damaged Excel files (.xls/.xlsx) to a new worksheet.
@@ -234,13 +221,6 @@ Sometimes, when opening an MS Excel file, you may receive an error message that 
 ![Microsoft Excel Content Error](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/Microsoft-Excel-Content-Error.jpg)
 
 Figure 1 – Excel ‘found a problem with some content’ Error Message
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **What Causes ‘We Found a Problem with Some Content’ Error?**
 
@@ -299,6 +279,10 @@ Several users have reported that they were able to fix ‘_We found a problem wi
 
 1. Open the Excel workbook in **‘read-only’** mode, and copy all its contents.
 2. Create a blank new workbook and paste the copied contents from the corrupt file to the new file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Tip #4: Use External References to Link to the Damaged Workbook**
 
@@ -394,6 +378,10 @@ When an Excel file gets corrupt or damaged while working, you may revert the Exc
 
 The workbook opens without any changes you’ve made that might have caused the workbook to become corrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Use Excel Repair Software to Restore Excel File
 
 If the corrupt or damaged Excel file isn’t repaired by using MS Excel options or you lost data after restoring the unsaved version or after reverting to the last version, you can rely on an Excel repair software, such as Stellar Repair for Excel.
@@ -421,13 +409,6 @@ Once saved, you can open and start editing or working on the Excel sheet. Make s
 ## Conclusion
 
 In this article, we discussed methods and solutions to restore Excel file when it gets damaged or corrupt due to various issues. Although Excel can help you recover or restore Excel file after corruption, it can resolve only minor corruption errors. Thus, it may fail if the Excel file corruption is severe. In such cases, an Excel repair software, such as Stellar Repair for Excel, comes in handy. It resolves Excel corruption, repairs tables, charts, chart sheets, Pivot table, etc., and restores them to a new Excel sheet with 100% consistency.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can I Recover Corrupted Excel File 2016?
 
@@ -458,6 +439,10 @@ How to Recover Corrupted Excel File 2016 Data When You Can Open the File?
 
 If the corrupt Excel file is open, try any of the following workarounds to retrieve the data:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Workaround 1 – Use the Recover Unsaved Workbooks Option**
 
 If your Excel file gets corrupt while you are working on it and you haven’t saved the changes, you can try retrieving the file’s data by following these steps:
@@ -465,19 +450,6 @@ If your Excel file gets corrupt while you are working on it and you haven’t sa
 - Open your Excel 2016 application and click on the **Open Other Workbooks** option.
 
 ![open-other-workbooks](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/open-other-workbooks-img3.png)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click the **Recover Unsaved Workbooks** button at the bottom of the ‘Recent Workbooks’ section.
 
@@ -552,13 +524,6 @@ Follow these steps to disable the protected view settings in an Excel file:
 
 ![blank excel file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/blank-excel-file-img9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click the **File** tab and then select **Options**.
 
 ![Excel file options](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-file-options-img10.png)
@@ -595,6 +560,10 @@ If you only need to extract Excel file data without formulas or calculated value
 - From the **Edit** menu, choose the **Paste Special** option and then select **Values**. Click **OK** to paste values and remove the reference links to the corrupt file.
 
 Check the new Excel file for recoverable data. If this didn’t work, consider using an [Excel file repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to retrieve data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Alternative Solution to Recover Excel File Data**
 
@@ -668,6 +637,10 @@ If you are able to save the file without any issue, then this means that the err
 
 ![Select Add-ins](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/errorsweredetected/select-add-ins4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Under the **Manage** section, select **Excel Add-ins** and then click on the **Go**
 
 ![Excel Add-ins Drop-down](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/errorsweredetected/excel-add-ins-drop-down.jpg)
@@ -709,6 +682,10 @@ You can review Pivot tables to see if they are causing the “Errors were detect
 - Check the tabs in the **Power Pivot**
 - Check if all the formulas used in the table are correct. Sometimes, even a small typo can create an issue in Excel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Method 6: Repair Your Excel File**
 
 The “Errors were detected while saving Excel” issue can also occur if the Excel file is corrupted. In such a case, you can take the help of the built-in utility in Excel – Open and Repair to repair your Excel file. Here’s how to use the tool:
@@ -728,19 +705,6 @@ The “Errors were detected while saving Excel” issue can also occur if the Ex
 - Click **Close**.
 
  However, sometimes, the Open and Repair utility fails to fix the file if it is severely corrupted or large-sized. In such a case, you can take the help of a third-party Excel repair software, such as **[Stellar Repair for Excel.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)** The tool performs a comprehensive scan of the corrupted Excel file to fix the issues and recover all the items from the file without changing the original formatting. It can recover pivot tables, charts, images, engineering formulas, etc. The tool is compatible with Windows 11/10/8.1/8/7. You can download the free trial version of the tool to evaluate its functionality.
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ##  **Closure**
 
@@ -763,6 +727,10 @@ While Excel enjoys wild popularity, thanks to its powerful design and features, 
 ## **What is this error all about?**
 
 The “Excel file in unrecognizable format error” occurs when the Excel file you are trying to load is corrupted. Microsoft has ensured that the workbook will be recoverable when the file is imported into excel but there are times when the automatic recovery does not happen. That’s where the challenge really lies. In such cases, getting to the root of the issue becomes necessary to be able to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Reasons behind the error**
 
@@ -820,6 +788,10 @@ Figure: Open and Repair
 
 ![Repair Option -Excel File](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/10/Repair-Excel-File.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure: Repair option
 
 ### **<u>Solution 3:</u> Use automated Excel repair software**
@@ -850,5 +822,26 @@ Excel is one of the most powerful tools which can easily reduce your workload by
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-insiders-look-at-advanced-streamlabs-obs-techniques/"><u>[New] 2024 Approved Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-step-by-step-guide-to-painless-iphone-screen-sharing/"><u>[New] 2024 Approved Step-by-Step Guide to Painless iPhone Screen Sharing</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-uncomplicated-blueprint-for-crafting-successful-ads-online-for-2024/"><u>[New] Uncomplicated Blueprint for Crafting Successful Ads Online for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-selection-the-top-11-kid-friendly-waterproof-camcorders/"><u>[Updated] Expert Selection The Top 11 Kid-Friendly, Waterproof Camcorders</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-directory-where-to-download-youtube-ringtones-for-2024/"><u>[Updated] Ultimate Directory Where to Download YouTube Ringtones for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-crafting-video-narratives-with-chiseled-chapters-on-vimeo/"><u>2024 Approved Crafting Video Narratives with Chiseled Chapters on Vimeo</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a25-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A25 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-11-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 11 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v30-lite-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V30 Lite 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-m6-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco M6 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-broadcast-battle-royale-deciding-between-vmix-and-wirecast/"><u>In 2024, Broadcast Battle Royale Deciding Between VMix and Wirecast</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-from-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code From iPhone 15 Pro Max in the Best Ways</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-play-40c-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor Play 40C working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-y27-4g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Y27 4G</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-selecting-the-perfect-surge-protector-for-your-gadgets/"><u>Ultimate Guide: Selecting the Perfect Surge Protector for Your Gadgets</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-7-plus-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 7 Plus without Face ID</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-civi-3-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Civi 3 | Dr.fone</u></a></li>
+</ul></div>
 

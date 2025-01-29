@@ -1,7 +1,7 @@
 ---
 title: Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows
-date: 2025-01-13T16:58:26.921Z
-updated: 2025-01-15T16:22:16.298Z
+date: 2025-01-22T04:59:19.007Z
+updated: 2025-01-28T19:40:30.799Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iGuana and ABBYY join forces to help enterprises streamline and automate accounts payable processes
@@ -22,7 +22,7 @@ February 15, 2018
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ABBYY, a leading provider of technologies and solutions to action information, and [iGuana](https://iguana-idm.com/ "IGuana"), a leading Document Management and Digital Archiving Solutions provider for the BENELUX region, are pleased to announce their partnership.
@@ -113,16 +113,14 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>[New] A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
-<li><a href="https://program-issues.techidaily.com/solved-beat-saber-keeps-crashing/"><u>[Solved] Beat Saber Keeps Crashing</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-discovering-success-through-the-most-effective-15-youtube-themes/"><u>[Updated] In 2024, Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-launch-your-zoom-meeting-in-a-flash-on-your-android-smartphonetablet-for-2024/"><u>[Updated] Launch Your Zoom Meeting in a Flash on Your Android Smartphone/Tablet for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tiktok-meets-snap-a-comparative-study-of-social-media-platforms/"><u>2024 Approved TikTok Meets Snap A Comparative Study of Social Media Platforms</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-spark-go-2024-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Spark Go (2024) Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-tecno-camon-20-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Tecno Camon 20 FRP</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-s18-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo S18 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G34 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/vivo-y200-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Vivo Y200 Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-3-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>[New] In 2024, Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-cut-to-the-chase-leading-video-editors-for-android-and-windows/"><u>[Updated] Cut to the Chase Leading Video Editors for Android and Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>2024 Approved Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/is-the-worldwide-network-offline-uncover-fb-status/"><u>Is the Worldwide Network Offline? Uncover FB Status</u></a></li>
+<li><a href="https://facebook.techidaily.com/pushing-boundaries-differently-apple-vs-facebooks-vision/"><u>Pushing Boundaries Differently: Apple Vs. Facebook's Vision</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
 </ul></div>
 

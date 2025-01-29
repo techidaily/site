@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2025-01-10T17:24:30.799Z
-updated: 2025-01-15T18:23:54.469Z
+date: 2025-01-23T20:16:25.892Z
+updated: 2025-01-29T15:03:55.824Z
 tags:
   - cutting-edge
 categories:
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/cca2262c2e353a017641457450ed87877a82d042a
 
  The government created a $30 incentive available to anyone who downloads the app and enrolls. Keep in mind that $30 is a decent amount of money for many citizens, and is equal to approximately [0.7% of per capita annual income in El Salvador](https://www.statista.com/statistics/1070121/gross-national-income-per-capita-el-salvador/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Data Shows Adoption Is Low and Stalled** 
 
 ![Awareness and use of Chivo Wallet graph.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Awareness-of-Chivo-Wallet.png) 
@@ -47,6 +43,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![$30 Bonus Incentive Use Chat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/30-Bonus.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  Bitcoin's use as legal tender and its associated rollout in El Salvador isn't going as well as they hoped it would go. Although many El Salvadorans have a smartphone with internet access, less than 60% of them downloaded the Chivo Wallet required to participate. Less than 40% of citizens who downloaded the app continued to use it after claiming their $30 bonus incentive.
@@ -54,20 +54,20 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  All businesses were required to begin accepting payments in Bitcoin but that has not happened. Only 20% of companies reported accepting Bitcoin as a form of payment and most of them were large organizations. Out of all sales, only 5% were conducted in Bitcoin and most transactions were converted to dollars within the Chivo Wallet upon receipt of payment.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Chivo App** 
 
 ![Chart of downloads of Chivo Wallet app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Chivo-Downloads-El-Salvador.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -87,10 +87,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  Going from the mindset of a cash economy where all transactions are essentially anonymous to an environment in which every financial transaction is now under the guise of the federal government is a big switch that many citizens were not ready to make.
@@ -100,6 +96,10 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ## **Failure to Capture Remittance Market** 
 
 ![Use of Chivo for Remittances](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Taxes-Remittances-El-Salvador.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -116,7 +116,7 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Lessons Learned** 
@@ -146,20 +146,20 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-smiles-to-text-where-to-find-amusing-tones/"><u>[New] 2024 Approved Smiles to Text Where to Find Amusing Tones?</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-top-10-discord-dating-communities-unveiled/"><u>[New] Top 10 Discord Dating Communities Unveiled</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-samsung-galaxy-tab-a-2020-analysis-uncover-the-lacking-essential-function/"><u>Comprehensive Samsung Galaxy Tab A (2020) Analysis - Uncover the Lacking Essential Function</u></a></li>
-<li><a href="https://techidaily.com/hide-your-activity-on-file-explorer-in-windows-11-a-step-by-step-guide/"><u>Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-windows-11-enables-camera-sharing-using-android-phones/"><u>How Windows 11 Enables Camera Sharing Using Android Phones</u></a></li>
-<li><a href="https://techidaily.com/identifying-your-windows-10-editions-versions-and-builds/"><u>Identifying Your Windows 10 Editions, Versions & Builds</u></a></li>
-<li><a href="https://techidaily.com/important-considerations-prior-to-purchasing-your-icloud-storage-plan/"><u>Important Considerations Prior to Purchasing Your iCloud Storage Plan</u></a></li>
-<li><a href="https://techidaily.com/improve-your-virtual-meetings-with-microsoft-teams-new-ai-assisted-webcam-backdrop-management/"><u>Improve Your Virtual Meetings with Microsoft Teams' New AI-Assisted Webcam Backdrop Management</u></a></li>
-<li><a href="https://techidaily.com/ipad-purchase-top-factors-to-evaluate-before-making-your-decision/"><u>IPad Purchase: Top Factors to Evaluate Before Making Your Decision</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/is-a-133-screen-size-ideal-for-your-new-e-reader-purchase/"><u>Is a 13.3 Screen Size Ideal for Your New E-Reader Purchase?</u></a></li>
-<li><a href="https://techidaily.com/maximizing-your-data-security-the-benefits-of-storing-time-machine-backups-on-a-macs-built-in-hardware/"><u>Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/saving-the-day-resurrected-hdmi-connection/"><u>Saving the Day: Resurrected HDMI Connection</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/speedy-uninstall-strategies-personalizing-the-win-1110-menu/"><u>Speedy Uninstall Strategies: Personalizing the Win 11/10 Menu</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-11-breakthroughs-in-technology-since-the-invention-of-morse-code-1844/"><u>Top 11 Breakthroughs in Technology Since the Invention of Morse Code (1844)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-5-kid-friendly-dvd-players-the-ultimate-buyers-guide/"><u>Top 5 Kid-Friendly DVD Players : The Ultimate Buyer's Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>[New] Keep Your Content Clout Authentic Resist the Like Lie-In</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-navigating-ffxp-the-user-manual/"><u>[New] Navigating FFXP The User Manual</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-v27-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo V27 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/experience-lightning-fast-browsing-flush-your-macs-dns-data-today/"><u>Experience Lightning-Fast Browsing: Flush Your Mac's DNS Data Today!</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigating-the-transition-wsl-and-windows-11-written-by-your-name/"><u>Navigating the Transition: WSL and Windows 11' Written by [Your Name]</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/rotating-videos-made-simple-with-vlc-player-tricks-for-2024/"><u>Rotating Videos Made Simple with VLC Player Tricks for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-100-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor 100</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-oneplus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
 </ul></div>
 

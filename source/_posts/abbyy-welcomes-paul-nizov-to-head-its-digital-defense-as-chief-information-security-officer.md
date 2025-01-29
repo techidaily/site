@@ -1,7 +1,7 @@
 ---
 title: ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer
-date: 2025-01-11T16:15:21.735Z
-updated: 2025-01-15T18:33:55.547Z
+date: 2025-01-27T02:52:16.326Z
+updated: 2025-01-28T21:45:55.054Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c669607905f5ab705b440efbb.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paul Nizov rejoint ABBYY au poste de Chief Information Security Officer
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Paul Nizov sera en charge de la stratégie opérationnelle et budgétaire liée à la sécurité.
@@ -67,22 +67,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-enrich-meeting-experience-a-compilation-of-the-top-10-free-apps/"><u>[New] 2024 Approved Enrich Meeting Experience A Compilation of the Top 10 Free Apps</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-maximizing-clicks-ultimate-youtube-banner-guidebook-for-2024/"><u>[Updated] Maximizing Clicks Ultimate YouTube Banner Guidebook for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-restore-windows-photo-viewer-quick-effective-ways-for-win10/"><u>[Updated] Restore Windows Photo Viewer Quick, Effective Ways for Win10</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-lava-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Lava</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-nubia-red-magic-8s-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nubia Red Magic 8S Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-ace-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Ace 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-agni-2-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Agni 2 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-se-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-detailed-review-and-tips-picsart-users/"><u>In 2024, Detailed Review & Tips PicsArt Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-elevate-conference-quality-the-list-of-top-10-free-audio-capture/"><u>In 2024, Elevate Conference Quality The List of Top 10 Free Audio Capture</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ring-income-via-youtube-channel/"><u>Mastering Income via YouTube Channel</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/pioneering-panoramic-photography-gear/"><u>Pioneering Panoramic Photography Gear</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-crossover-of-chic-and-cardio-a-balanced-review-of-the-amazfit-gts-wearable/"><u>The Crossover of Chic and Cardio: A Balanced Review of the Amazfit GTS Wearable</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-spark-10-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Spark 10 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-vivo-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Vivo .</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-contrast-and-depth-in-hdr-portraits/"><u>[New] Crafting Contrast and Depth in HDR Portraits</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/arnessing-ambiance-with-thoughtful-lighting/"><u>[New] Harnessing Ambiance with Thoughtful Lighting</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-workflow-essential-tips-to-record-on-hp-laptop-for-2024/"><u>[New] Streamline Your Workflow Essential Tips to Record on HP Laptop for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-sierra-mastering-icloud-drives-accessibility/"><u>[Updated] Navigating Sierra Mastering iCloud Drives' Accessibility</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/beginning-your-journey-a-step-by-step-guide-to-crypto-investment-by-yl-computing/"><u>Beginning Your Journey: A Step-by-Step Guide to Crypto Investment by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
+<li><a href="https://win-lab.techidaily.com/swiftly-overcome-dell-transfer-problems-discover-the-simpler-method-here/"><u>Swiftly Overcome Dell Transfer Problems - Discover the Simpler Method Here</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-15-pro-max-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 15 Pro Max SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-efficient-wdf-drivers-to-lower-cpu-utilization/"><u>Troubleshooting Efficient WDF Drivers to Lower CPU Utilization</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-note-30i-by-fonelab-android-recover-data/"><u>Undelete lost data from Note 30i</u></a></li>
 </ul></div>
 

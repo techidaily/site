@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced Site Performance: Optimized with Advanced Tracking Technology"
-date: 2025-01-10T20:55:29.976Z
-updated: 2025-01-15T18:26:10.484Z
+date: 2025-01-22T09:24:08.584Z
+updated: 2025-01-29T11:25:54.393Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf393b5c97e5b701ae15078e141.jpg
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/5ccaaabe736ffa61c5b51b0c29ef16cab934fcf39
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## ABBYY Expands Intelligent Automation Innovation with New Development Center in Serbia
 
 July 26, 2022
@@ -22,13 +18,13 @@ July 26, 2022
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![News Colleagues3](https://static1.abbyy.com/abbyycommedia/33750/news-colleagues3.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ABBYY has opened a new development center in Belgrade, Serbia, and is increasing its developer workforce in existing locations in the United States, Hungary, and Cyprus. The investment in developer resources is part of ABBYY’s previously reported 40% increase in research and development (R&D) efforts and will be instrumental to the company’s continued commitment to providing innovative, market-leading intelligent automation solutions to global enterprises.
@@ -46,7 +42,7 @@ ABBYY is actively hiring new employees across Serbia and provides remote work op
 ABBYY is recognized as a leader [by several major analyst firms](https://tools.techidaily.com/abbyy/products/), including Everest Group and ISG, in Intelligent Document Processing (IDP), and in Process & Task Mining by NelsonHall, Zinnov, and others. To learn more about ABBYY intelligent process automation solutions, visit <https://www.abbyy.com/solutions/intelligent-process-automation-ipa/>.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -60,12 +56,16 @@ ABBYY is a US-based global company with offices in 15 countries. For more inform
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Editorial Contact
 
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Gina Ray, APR
 
@@ -91,19 +91,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-enhancing-your-content-with-effortlessly-added-youtube-subtitles/"><u>[New] 2024 Approved Enhancing Your Content with Effortlessly Added YouTube Subtitles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-earinsight-exploring-audio-samples/"><u>[New] EarInsight Exploring Audio Samples</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-revolutionary-tools-elevating-vr-games/"><u>[Updated] 2024 Approved Revolutionary Tools Elevating VR Games</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-the-spectrum-of-sharing-navigating-video-distribution-on-fb/"><u>[Updated] 2024 Approved The Spectrum of Sharing Navigating Video Distribution on FB</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-how-to-polish-your-tiktok-edits-advanced-strategies-for-success/"><u>[Updated] How to Polish Your TikTok Edits Advanced Strategies for Success</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-alter-twitter-video-glimpse-artwork/"><u>[Updated] In 2024, Alter Twitter Video Glimpse Artwork</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-instructions-for-enabling-hyper-v-on-your-windows-11-pc/"><u>Expert Instructions for Enabling Hyper-V on Your Windows 11 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-meizu-21-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Meizu 21 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-max-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro Max To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-converting-avian-videos-avi-into-graphic-images-gif-using-filmora/"><u>In 2024, Converting Avian Videos (AVI) Into Graphic Images (GIF) Using Filmora</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastery-over-window-colors-and-style-in-terminal/"><u>Mastery over Window Colors & Style in Terminal</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-yuva-3-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Yuva 3 Pro fingerprint</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/73236171-updated-2024-approved-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[Updated] 2024 Approved Elevate Your Channel Hit the 10,000 View Mark Fast!</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/effortless-screenshot-capture-mastering-full-screen-recording-on-windows-7-and-8/"><u>Effortless Screenshot Capture: Mastering Full Screen Recording on Windows 7 & 8</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g34-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G34 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-v27-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo V27 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Vivo T2x 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y100i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y100i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/maximizing-visual-quality-with-enhancer-22-for-2024/"><u>Maximizing Visual Quality with Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-go-digital-with-your-dvds-a-simple-conversion-process-explained/"><u>New Go Digital with Your DVDs A Simple Conversion Process Explained</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-s17-pro-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of S17 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-11-proplus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme 11 Pro+</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-gaming-disruptions-proven-fixes-for-random-pc-game-crashing/"><u>Stop Gaming Disruptions: Proven Fixes for Random PC Game Crashing</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-videoleap-for-macbook-a-beginners-guide-to-downloading-and-installing/"><u>Updated 2024 Approved Videoleap for MacBook A Beginners Guide to Downloading and Installing</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723011982169-urgent-fix-for-fortnite-when-it-just-wont-load-effective-solutions-await/"><u>Urgent Fix for [Fortnite] When It Just Won't Load: Effective Solutions Await</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-90-lite-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor 90 Lite</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-oppo-a78-5g-device-by-drfone-android/"><u>What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Oppo A78 5G Device</u></a></li>
 </ul></div>
 

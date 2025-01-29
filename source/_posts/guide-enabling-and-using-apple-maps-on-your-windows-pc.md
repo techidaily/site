@@ -1,7 +1,7 @@
 ---
 title: "Guide: Enabling and Using Apple Maps on Your Windows PC"
-date: 2025-01-20T00:59:04.558Z
-updated: 2025-01-21T16:03:34.721Z
+date: 2025-01-24T09:58:38.635Z
+updated: 2025-01-29T12:26:02.285Z
 tags:
   - deals
 categories:
@@ -18,7 +18,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
  We'll use Microsoft Edge for installing the web app on Windows, since it works well with websites that aren't set up as true Progressive Web Apps (PWAs).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Install Apple Maps
@@ -28,7 +28,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Apple Maps web app screenshot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, click the main toolbar menu button in Microsoft Edge (it's the button with three dots), then select Apps > Install this site as an app.
@@ -36,7 +36,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Installing Apple Maps in Microsoft Edge](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-19-pm-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Microsoft Edge will ask you to confirm the installation. Click the Install button to complete the process.
@@ -44,7 +44,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Confirmation for Apple Maps installation in Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, the newly-installed web app will open in its own window. Edge will ask if you want to pin it to your Start menu, Taskbar, and desktop. You can leave Taskbar and desktop unselected, but Start menu needs to be selected, or you won't be able to search for it. Click the Allow button to confirm, and Windows might ask you one more time in a notification, depending on what you selected.
@@ -52,7 +52,7 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 ![Allowing Apple Maps to be installed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/clipboard-jul-30-2024-at-12-23-pm-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You're done! Apple Maps is now an installed web app that you can quickly open at any time from the Start menu, and if you want, on your Taskbar and desktop as well. You'll always get the latest available version as Apple continues to improve the Apple Maps web app.
@@ -74,24 +74,24 @@ Apple Maps has an official web app, available on Windows, Mac, and Linux. Here's
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/harting-your-course-in-the-world-of-youtube-tracking-success-and-monetary-value-for-2024/"><u>[New] Charting Your Course in the World of YouTube Tracking Success & Monetary Value for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-finding-the-best-gaming-keys-at-unbeatable-prices-less-than-100-for-2024/"><u>[New] Finding the Best Gaming Keys at Unbeatable Prices Less than $100 for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-funimate-pro-apk-review-and-how-to-guide/"><u>[New] Funimate Pro APK Review and How-To Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-acclaimed-ai-artistic-editor-for-2024/"><u>[Updated] Acclaimed AI Artistic Editor for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1725290274057-ai4/"><u>自宅でできるAI顔交換動画テクニック：無料アプリ4選を紹介！</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/an-authoritative-review-on-the-efficiency-and-design-of-jacos-compact-digital-tire-air-pump-your-ultimate-guide-to-making-an-informed-choice/"><u>An Authoritative Review on the Efficiency and Design of Jaco's Compact Digital Tire Air Pump - Your Ultimate Guide to Making an Informed Choice</u></a></li>
-<li><a href="https://win11.techidaily.com/breaking-barriers-reimagining-administrative-protocols-on-windows/"><u>Breaking Barriers: Reimagining Administrative Protocols on Windows</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 12 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-mini-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 mini Data From iOS iTunes Backup? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-vivo-y78t-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Vivo Y78t.</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-12-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 12 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-crucial-elements-you-need-to-consider-in-portable-games-devices/"><u>The Crucial Elements You Need to Consider in Portable Games Devices</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-motorola-moto-g-stylus-2023-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-s17e-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo S17e without backup.</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-se-2022-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone SE (2022) is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-can-you-afford-to-exclude-itop-from-your-setup-in-2024/"><u>[New] Can You Afford to Exclude ITop From Your Setup, In 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-latest-iteration-a-closer-look-at-sonys-s6500-bdp/"><u>[New] Latest Iteration A Closer Look at Sony's S6500 BDP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-state-of-the-art-methods-for-documenting-digital-education/"><u>[Updated] In 2024, State-of-the-Art Methods for Documenting Digital Education</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-your-guide-to-making-millions-on-youtube-from-novice-to-big-earnings/"><u>[Updated] Your Guide to Making Millions on YouTube From Novice to Big Earnings</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-tailoring-youtube-experience-on-the-worlds-largest-social-network/"><u>2024 Approved Tailoring YouTube Experience on the World's Largest Social Network</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/beat-apex-legends-engine-woes-effective-fixes-and-tips-for-an-uninterrupted-gaming-experience/"><u>Beat Apex Legends' Engine Woes: Effective Fixes and Tips for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-c22-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia C22 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-downloading-the-hp-deskjet-3050-windows-compatible-printing-drivers/"><u>Easy Guide to Downloading the HP Deskjet 3050 Windows-Compatible Printing Drivers</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-12-proplus-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 12 Pro+ 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 14 Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/roboix-crashing-with-low-memory-alert-heres-how-you-can-resolve-it-on-ios-devices/"><u>Roboix Crashing with Low Memory Alert? Here's How You Can Resolve It on iOS Devices</u></a></li>
+<li><a href="https://techidaily.com/solved-microsoft-excel-2013-file-error-the-document-cannot-be-saved-by-stellar-guide/"><u>Solved Microsoft Excel 2013 File Error The document cannot be saved</u></a></li>
+<li><a href="https://win11.techidaily.com/the-conquerors-guide-to-overcoming-11-windows-errors/"><u>The Conqueror's Guide to Overcoming 11 Windows Errors</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-oppo-a78-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Oppo A78</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-realme-note-50-by-fonelab-android-recover-data/"><u>Undelete lost data from Realme Note 50</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2023-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2023 File Error</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-personalization-selecting-spotlight-photography-for-backgrounds/"><u>Windows Personalization: Selecting Spotlight Photography for Backgrounds</u></a></li>
+<li><a href="https://techidaily.com/x50i-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>X50i Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Bookmarking Your Favorite Musicians & Tunes on a Mac: A Comprehensive Guide"
-date: 2025-01-17T01:41:12.768Z
-updated: 2025-01-21T20:24:28.784Z
+date: 2025-01-27T16:18:09.382Z
+updated: 2025-01-29T08:58:38.503Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ---
 
 ## Mastering the Art of Bookmarking Your Favorite Musicians & Tunes on a Mac: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
  Have you ever got hooked on a song that you wanted to revisit later without necessarily adding it to your library? The Music app on your Mac lets you mark tracks, albums, artists, and playlists as your favorites—doing so lets you quickly find them and influence future recommendations.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Favorite an Artist in Music for Mac
@@ -37,7 +41,7 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Disabling notifications for new releases from favorite artists in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-account-settings-notifications-artists-and-shows-option-selected.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To browse all the artists you've marked as favorites in one place, select "Listen Now" in the sidebar, scroll to the bottom of the main pane, and click the "Favorite Artists" heading.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![Favoriting a song in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-songs-selected-favorite-star-icon-highlighted.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Can't see the star icon? Control-click any column heading and select the "Favorite" option to add the star column.
 
  Alternatively, click the ellipsis next to the song and choose "Favorite."
@@ -57,16 +65,12 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Marking a song as favorite in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-songs-selected-ellipsis-menu-favorite-option-highlighted.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you mark tracks as favorites, the Music app automatically adds them to the built-in "Favorite Songs" playlist, accessible from the sidebar. You cannot disable or delete this playlist from your library.
 
 ![The Favorite Songs playlist in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-favorite-songs-playlist-selected.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  By default, songs you've marked as favorite are automatically added to your library. This can lead to unwanted storage consumption if the Automatic Downloads feature is enabled. To favorite songs without adding them to the library, go to Music > Settings > Advanced, uncheck "Favorites" beneath "Add Songs to Library When Adding To", and click "OK."
 
@@ -78,17 +82,9 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 ![The star icon next to an album in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-albums-selected-favorite-star-icon-highlighted.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Alternatively, hover over an album artwork, click the ellipsis, and choose "Favorite."
 
 ![Marking an album as favorite in Music for Mac.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-albums-selected-ellipsis-menu-favorite-option-highlighted.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  An album marked as a favorite is automatically added to your library. But don’t worry, you can remove it quickly: Control-click the album and select "Remove From Library."
 
@@ -115,10 +111,14 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 ![Music for Mac with Songs selected in the sidebar and tracks on the right, with some showing the favorites star icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/apple-macos-sonoma-14-3-music-app-sidebar-songs-selected-favorite-star-icon-visible.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Unfortunately, the tiny star icon is easy to miss. To help with that, consider [creating individual smart playlists](https://tech-revival.techidaily.com/how-to-successfully-obtain-anker-mouse-compatibility-drivers/) of your favorite artists, songs, and albums to access them quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Favorites Improve Your Music Recommendations
 
@@ -141,22 +141,22 @@ thumbnail: https://thmb.techidaily.com/70cafb81e97d380bf1f55403cf595cebfeb242757
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/action-cameras-face-off-gopro-hero-4-vs-ghost-s-drifting/"><u>Action Cameras Face Off GoPro Hero 4 Vs. Ghost-S Drifting</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-open-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus Open Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-and-install-soundmax-drivers-for-windows-computers/"><u>Download & Install SoundMAX Drivers for Windows Computers</u></a></li>
-<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Lava Yuva 3 | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/getting-started-with-digital-image-detailing-for-2024/"><u>Getting Started with Digital Image Detailing for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-90-lite-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor 90 Lite Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-x-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X Flip without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-vivo-y28-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Vivo Y28 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-vivo-v30-lite-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Vivo V30 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-8-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 8 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bridging-the-digital-divide-with-gratuitous-animations/"><u>In 2024, Bridging the Digital Divide with Gratuitous Animations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 15 Pro Max</u></a></li>
-<li><a href="https://article-posts.techidaily.com/innovative-approaches-for-unwavering-viewership-within-limit/"><u>Innovative Approaches for Unwavering Viewership (Within Limit)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/misplaced-files-during-windows-document-shift-explore-effective-data-recovery-techniques-inside/"><u>Misplaced Files During Windows Document Shift? Explore Effective Data Recovery Techniques Inside!</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-a54-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy A54 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-lava-blaze-2-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Lava Blaze 2</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-12-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 12 | Stellar</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ptimal-screen-recorder-selection-for-youtube-professionals-for-2024/"><u>[New] Optimal Screen Recorder Selection for YouTube Professionals for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-wallet-friendly-skydock-sufficient-file-space/"><u>[New] Wallet-Friendly SkyDock Sufficient File Space</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-complete-scrutiny-gopro-silver-hero4-version/"><u>[Updated] Complete Scrutiny GoPro Silver Hero4 Version</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-creativity-10-top-rated-free-mac-art-software/"><u>2024 Approved Unleash Creativity 10 Top-Rated, FREE Mac Art Software</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/boot-boundaries-broken-five-methods-to-mend-security-shortfalls-in-win/"><u>Boot Boundaries Broken: Five Methods to Mend Security Shortfalls in Win</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722868019900-error-code-0x80004005-explained-tips-and-solutions-to-fix-it-now/"><u>Error Code 0X80004005 Explained: Tips and Solutions to Fix It Now!</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-t2x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo T2x 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-itel-a70-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Itel A70 phone? | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/seamlessly-integrating-sleep-mode-for-a-more-efficient-messenger-kids-use/"><u>Seamlessly Integrating Sleep Mode for a More Efficient Messenger Kids Use</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-find-n3-flip-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo Find N3 Flip</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-v30-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-modern-readers-pathway-to-capturing-internet-television/"><u>The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-c33-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme C33 2023? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-nova-y71-by-fonelab-android-recover-data/"><u>Undelete lost data from Nova Y71</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-chatgpt-unlocking-the-possibilities-with-next-gen-generative-intelligence-systems/"><u>Understanding ChatGPT: Unlocking the Possibilities with Next-Gen Generative Intelligence Systems</u></a></li>
+<li><a href="https://techidaily.com/zte-axon-40-lite-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>ZTE Axon 40 Lite Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
 </ul></div>
 

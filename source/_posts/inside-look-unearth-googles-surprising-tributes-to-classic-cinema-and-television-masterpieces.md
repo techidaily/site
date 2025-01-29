@@ -1,7 +1,7 @@
 ---
 title: "Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces"
-date: 2025-01-14T16:48:28.355Z
-updated: 2025-01-21T21:34:48.807Z
+date: 2025-01-24T20:14:34.212Z
+updated: 2025-01-29T14:01:31.133Z
 tags:
   - web
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ---
 
 ## Inside Look: Unearth Google's Surprising Tributes to Classic Cinema and Television Masterpieces
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -45,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The 'Friends glossary'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-friends-glossary.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Make Your Search Results Fabulous With “Legally Blonde”
 
  If you haven't watched “Legally Blonde” yet, (what have you been doing all this time?) what you need to know is that it's about Elle, a fashionista who gets into Harvard Law School and brings her love for pink and fashion with her.
@@ -64,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 ![A transparent pink background with kiss and scribble designs on it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-transparent-pink-background-with-kiss-and-scribble-designs-on-it.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The doodles are completely random, and while some match the original movie, others are new additions. I had a lot of fun seeing all the different doodles I could tease out. I think I got them all, but feel free to let me know if you think you found one I missed.
@@ -77,20 +85,20 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![The search results for 'the last of us' with several stalks all around it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-search-results-for-the-last-of-us-with-several-stalks-all-around-it.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Uncover the Conspiracy in “Avatar: The Last Airbender”
 
  Unlike the [other Easter eggs](https://youtube-zero.techidaily.com/rt-of-youtube-channels-crafting-brands-that-attract-viewers-for-2024/) I've mentioned, this one is so subtle even die-hard fans could miss it. When you search for **war in Ba Sing Se**, Google asks, "Did you mean there is no war in Ba Sing Se?"
 
 ![The Google search results for 'war in Ba Sing Se'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-google-search-results-for-war-in-ba-sing-se.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This is a callback to when Team Avatar traveled to the Earth Kingdom to get help in the war against the Fire Nation–only to discover that the people there had been brainwashed into believing that there was no war. The phrase "there is no war in Ba Sing Se" was used when brainwashing characters, which leads me to wonder: is Google part of the Ba Sing Se conspiracy?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Fill up Your Coin Purse With “Super Mario Bros”
@@ -98,10 +106,6 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Another game-turned-movie whose Easter egg you should check out is Super Mario Bros. Searching for **Super Mario** or **Super Mario Bros** brings up a mystery block, and clicking it earns you coins, just like in the [iconic retro game](https://vp-tips.techidaily.com/updated-2024-approved-pixels-of-laughter-mobile-apps-transform-images/). It pays to keep clicking too, as every hundred clicks, you get rewarded with the sweet sound of an extra mushroom. 
 
 ![The Knowledge Panel for 'Super Mario' with a mystery block next to them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/the-knowledge-panel-for-super-mario-with-a-mystery-block-next-to-them.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Solve Time Travel Puzzles With “Doctor Who”
 
@@ -111,11 +115,11 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A minigame with buildings and robots](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-minigame-with-buildings-and-robots.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I've only made it to level 3, but I bet you can't beat that! Give it a try and see how far you can go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Unleash the Force With Baby Yoda From “The Mandalorian”
 
@@ -125,15 +129,7 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![Baby Yoda pulling down elements from a search results page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/baby-yoda-pulling-down-elements-from-a-search-results-page.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This Easter egg used to be accessible by searching for "Baby Yoda," but it has since been retired. Fortunately, you can still [experience it on elgooG](https://elgoog.im/mandalorian/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Turn Half Your Search Results to Dust With Thanos’ Snap
 
@@ -153,11 +149,11 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 ![A search results page with a black background, a bat signal and a batman silhouette](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-with-a-black-background-a-bat-signal-and-a-batman-silhouette.png) 
 
- The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ The Easter egg is no longer active on Google, but you can still [check it out here](https://elgoog.im/batman/).
 
 ##  Travel to the World of Oz
 
@@ -166,6 +162,10 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
  Click on the ruby slippers in the top left corner of the page to activate the Easter egg and watch as the screen spins and transports you into a different world where everything takes on a sepia tone, reminiscent of the original movie.
 
 ![A search results page in sepia tones](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-search-results-page-in-sepia-tones.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’re ready to return to color, you can do so by clicking the tornado. A house will emerge from it, and the page will spin back to color with Dorothy's voice playing in the background.
 
@@ -190,18 +190,21 @@ thumbnail: https://thmb.techidaily.com/45c2e614d8b961c8b72ebf5ec64f89d95bf54c93b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/a-deep-dive-into-superior-digital-imaging-4k/"><u>A Deep Dive Into Superior Digital Imaging: 4K</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/breaking-barriers-how-language-learning-empowers-individuals/"><u>Breaking Barriers: How Language Learning Empowers Individuals</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-narzo-60x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-lenovo-thinkphone-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lenovo ThinkPhone in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-100-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 100 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-lava-blaze-pro-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Lava Blaze Pro 5G</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-visual-giggle-factory-memebake-zone/"><u>In 2024, Visual Giggle Factory Memebake Zone</u></a></li>
-<li><a href="https://techidaily.com/remove-poco-f5-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Poco F5 5G unlock screen</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/the-ultimate-guide-to-budget-and-high-performance-monitors-with-curved-panels-and-g-sync-compatibility/"><u>The Ultimate Guide to Budget and High-Performance Monitors with Curved Panels & G-Sync Compatibility</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-dont-have-vivo-s18-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Vivo S18 fingerprint</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-huawei-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Huawei password or pattern lock</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/yl-software-insights-easily-modify-font-dimensions-via-windows-settings/"><u>YL Software Insights: Easily Modify Font Dimensions via Windows Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-clearsnap-for-windows-quick-and-clean-shots/"><u>[New] 2024 Approved ClearSnap for Windows Quick & Clean Shots</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/nlocking-the-secrets-of-creative-youtube-channel-names-for-vloggers-and-filmmakers-maximum-length-156-characters-for-2024/"><u>[New] Unlocking the Secrets of Creative YouTube Channel Names for Vloggers & Filmmakers (Maximum Length 156 Characters) for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-visual-filmmaking-resources-environmentally-conscious/"><u>[Updated] 2024 Approved Visual Filmmaking Resources - Environmentally Conscious</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-fixes-with-system-file-checker-sfc-and-deployment-image-servicing-and-management-dism-for-windows-10/"><u>DIY Fixes with System File Checker (SFC) & Deployment Image Servicing & Management (DISM) for Windows 10</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-nokia-g42-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Nokia G42 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722986721009-how-to-fix-the-non-startup-problem-for-far-cry-6-on-pcs-solution-found/"><u>How to Fix the Non-Startup Problem for Far Cry 6 on PCs - Solution Found</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-play-40c-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor Play 40C Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel A05s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a1x-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A1x 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/perfecting-sound-with-advanced-audacity-methods/"><u>Perfecting Sound with Advanced Audacity Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/secrets-of-successful-podcast-covers-revealed-for-2024/"><u>Secrets of Successful Podcast Covers Revealed for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-x90s-by-fonelab-android-recover-music/"><u>The way to get back lost music from X90S</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-the-most-prevalent-iphone-groovywheelbarrow10239/"><u>Troubleshooting the Most Prevalent iPhone Groovy_wheelbarrow10239</u></a></li>
 </ul></div>
 

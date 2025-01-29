@@ -1,7 +1,7 @@
 ---
 title: "Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars"
-date: 2025-01-19T23:51:20.763Z
-updated: 2025-01-22T00:03:55.321Z
+date: 2025-01-23T18:18:20.633Z
+updated: 2025-01-28T21:01:51.318Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 ---
 
 ## Unlocking the Cosmos: A Guide on Using Your PC to Explore and Identify Stars
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,7 +32,7 @@ NASA
  Like many[other volunteer science projects](https://easy-unlock-android.techidaily.com/unveiling-critical-privacy-risks-in-modern-day-chatbots-3-key-concerns-revealed/), Einstein@Home runs on the BOINC platform. [BOINC](https://fox-hovers.techidaily.com/updated-in-2024-highest-quality-ai-voice-to-text-software/) is an app developed by UC Berkeley to share and use volunteer computing resources. You can share your CPU, GPU, storage, and network resources through BOINC. All you have to do is download the BOINC app and run the Einstein@Home project on it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Creating the Perfect Einstein@Home Setup
@@ -54,6 +50,10 @@ NASA
 
 ![BOINC download button on the official page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/boinc-download-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  I’m using the Windows version of BOINC for this demonstration.
 
  Launch the setup by double-clicking the file you downloaded. Click "Next" twice and wait for a successful installation.
@@ -64,19 +64,23 @@ NASA
 
 ![Finishing the BOINC installation and launching the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/launch-boinc.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  BOINC manager should launch with a blank project slate. Now we’re ready to add the Einstein@Home project to our BOINC installation.
 
 ![The blank project screen on the BOINC manager app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/welcome.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "Add Project." Choose Einstein@Home from the list and click "Next." You’ll be asked to log into your Einstein@Home account. Under "Are you already running this project?", select "Yes, existing user." Enter your email and password. Click "Next."
 
 ![Adding Einstein@Home in the BOINC project list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/choose-einsteinhome-1.png) 
 
 ![Accepting Einstein@Home terms of use.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/enabling-einsteinhome.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Logging into the Einstein@Home project on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/logging-in.png) 
 
@@ -92,6 +96,10 @@ Close
 
  It might look stuck at first, but give it a couple of minutes to get up and running. If you see a green arrow next to a task, it means BOINC is actively working on it. If you see a red stop sign, it means BOINC has paused processing that task.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Some Pro Tips
 
  The BOINC manager automatically schedules and runs tasks for you with a default allocation of your computing resources. But you can adjust those settings as you see fit.
@@ -100,29 +108,21 @@ Close
 
 ![The basic computing preferences panel on the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/idle-processing-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  For finer details and further customization, BOINC offers an advanced view that gives you total control over everything this app can do. To activate Advanced View, select "View" from the menu and click "Advanced View."
 
 ![Advanced view being activated on BOINC.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Computing preferences in Advanced view on BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/advanced-view-preferences-1.PNG) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
  In the advanced view, you can see details of tasks, their progress, results, deadlines, and other helpful information.
 
 ![Tasks shown in Advanced view on the BOINC manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/task-details.PNG) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Einstein@Home validates the results your machine sends in and grants you credits for every validated task. These credits will show up on your official certificate which is great for bragging rights.
 
@@ -147,22 +147,24 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-dive-into-digital-dimensions-smartphone-vr-conversion-tricks/"><u>[New] Dive Into Digital Dimensions Smartphone-VR Conversion Tricks</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-amplifying-video-reach-the-ultimate-guide-for-youtube-enthusiasts-for-2024/"><u>[Updated] Amplifying Video Reach The Ultimate Guide for YouTube Enthusiasts for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-webcam-safety-the-best-cam-cover-picks/"><u>[Updated] In 2024, Webcam Safety The Best Cam Cover Picks</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-infusing-life-into-ig-story-posts-a-guide-to-dynamic-animated-text/"><u>[Updated] Infusing Life Into IG Story Posts A Guide to Dynamic, Animated Text</u></a></li>
-<li><a href="https://some-tips.techidaily.com/updated-the-essential-guide-for-perfecting-crossfade-artistry-with-audacity/"><u>[Updated] The Essential Guide for Perfecting Crossfade Artistry with Audacity</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-x-fold-2-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/decouvrez-les-meilleures-applications-gratuites-pour-couper-des-videos-sur-windowsmac-guide-complet/"><u>Découvrez Les Meilleures Applications Gratuites Pour Couper Des Vidéos Sur Windows/Mac: Guide Complet!</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-xcover-7-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy XCover 7 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210708383-9781915393753-happy-birthday-love-keith/"><u>Happy Birthday-Love, Keith | Free Book</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-magic-v2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor Magic V2 phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 13 mini Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-13-pro-max-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 13 Pro Max failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-x50i-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor X50i</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-samsung-galaxy-s24plus-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Samsung Galaxy S24+ Phone With/Without IMEI Number</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-gt-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme GT 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/zero-cost-wonders-traversing-the-terrain-of-tiktok-backdrops-for-2024/"><u>Zero-Cost Wonders Traversing the Terrain of TikTok Backdrops for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-ultimate-guide-the-leading-7-nft-conversion-services/"><u>[New] Ultimate Guide The Leading 7 NFT Conversion Services</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-the-seas-of-sponsorships-a-youtubers-playbook/"><u>[Updated] Navigating the Seas of Sponsorships A Youtuber's Playbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-instalment-insight-getting-vrecord-running/"><u>2024 Approved Instalment Insight Getting VRecord Running</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-feed-instagram-collages-made-simple-for-2024/"><u>Boost Your Feed Instagram Collages Made Simple for 2024</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-c53-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C53 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-narzo-60x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme Narzo 60x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-14-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 14 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-g2-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-download-20-stunning-adobe-premiere-intro-templates-for-free-2023-edition/"><u>In 2024, Download 20 Stunning Adobe Premiere Intro Templates for Free (2023 Edition)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-13-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 13 5G Lock Screen Password?</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo on Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210645057-9781645679103-the-beginner-witchs-handbook/"><u>The Beginner Witch's Handbook | Free Book</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-photo-keepers-companion-unlimited-free-options-and-elite-subscription-saviors/"><u>The Photo Keeper’s Companion Unlimited Free Options & Elite Subscription Saviors</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-3-essential-gameplay-analytics-software-for-serious-pc-gamers/"><u>Top 3 Essential Gameplay Analytics Software for Serious PC Gamers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/twitch-time-reversal-17-methods-to-master-your-live-stream-for-2024/"><u>Twitch Time Reversal 17 Methods to Master Your Live Stream for 2024</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-13-pro-max-screen-lock-without-passcode-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 13 Pro Max screen lock without passcode</u></a></li>
 </ul></div>
 

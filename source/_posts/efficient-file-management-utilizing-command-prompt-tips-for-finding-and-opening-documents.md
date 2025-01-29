@@ -1,7 +1,7 @@
 ---
 title: "Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents"
-date: 2025-01-16T00:55:44.578Z
-updated: 2025-01-21T18:56:28.619Z
+date: 2025-01-26T21:27:02.077Z
+updated: 2025-01-28T18:41:30.727Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ---
 
 ## Efficient File Management: Utilizing Command Prompt Tips for Finding & Opening Documents
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  With the Command Prompt opened, you’re ready to find and open your file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Find Files Using Command Prompt
 
  Maybe you already know the file path to the item you want to open — maybe not. If not, you don't need to search through [File Explorer](https://facebook-video-content.techidaily.com/updated-in-2024-facebook-media-extractor-quick-mp3-downloads/) just to come back to the Command Prompt later. You can use this command instead:
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
  Now that we've found our file, let's open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Open Files Using Command Prompt
 
  To open the file, you need to navigate to the directory in the Command Prompt that contains the file you would like to open. In this example, we’ve created an “Example” folder in our “Documents” folder, so we’ll head there.
@@ -63,10 +67,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  Note that you must navigate to the immediate file structure. In this case, we can’t skip “Documents” and jump straight to “Example.”
 
 ![Using the cd command to change the directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-cd-doc-ex.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you have inputted your command, press the Enter key. You’ll now be in that folder.
 
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 ![Enter the file name and file extension to open a file using Command Prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/4-open-example-file.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It is very important to include the file name in quotation marks in this instance because there is a space in the file name. You need one if there is a space in a folder name, too.
@@ -94,12 +94,16 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
     
 ![Opening the file directly without navigating to the folder first.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-open-the-file-directly.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The only difference is you don’t add the cd command and the entire path is in quotations. It doesn't strictly need to be, though. You can also just put the quotes around the portion of the path that has a space.
 
 ![File path with quotes on the file name only.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/6-example-file-with-quotes.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  There are a couple of other important things to keep in mind.
@@ -111,10 +115,6 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
  The second is that you can open files with unknown file extensions, you just have to manually specify which program to use first. This isn't any different from trying to open an unknown file format with File Explorer.
 
 ![Opening a file with an unknown format, in this case ".abc123" as an example.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/8-abc123-unknown-format.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This isn't just applicable to the Command Prompt, either. PowerShell behaves the same way as Command Prompt for most jobs, and that is especially true if you're talking about something simple.
 
@@ -133,24 +133,22 @@ thumbnail: https://thmb.techidaily.com/30c3f68025cf60445ca0af9503de0d05421151fac
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/uick-steps-to-live-stream-youtube-via-obs-for-novices/"><u>[New] Quick Steps to Live Stream Youtube via OBS for Novices</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-free-to-do-approach-for-text-and-video-combination/"><u>[Updated] 2024 Approved The Free-to-Do Approach for Text & Video Combination</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-expert-analysis-complete-look-at-xvideo-studio-essentials-for-2024/"><u>[Updated] Expert Analysis Complete Look at XVideo Studio Essentials for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-harmonious-hits-where-to-find-rare-ringtone-files-for-2024/"><u>[Updated] Harmonious Hits Where to Find Rare Ringtone Files for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-anonymous-access-to-instagrams-hidden-narratives-device-guide/"><u>[Updated] In 2024, Anonymous Access to Instagram's Hidden Narratives Device Guide</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-fiendish-freshman-filmmaker/"><u>[Updated] In 2024, Fiendish Freshman Filmmaker</u></a></li>
-<li><a href="https://win11.techidaily.com/adjusting-photo-overlays-for-windows-11/"><u>Adjusting Photo Overlays for Windows 11</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-oppo-reno-8t-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Oppo Reno 8T 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-the-latest-from-openai-unlocking-your-custom-gpt-experience-now/"><u>Discover the Latest From OpenAI: Unlocking Your Custom GPT Experience Now</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-11-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 11 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-13t-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13T Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/starting-your-own-platform-a-guide-to-critiquing-home-essentials-for-2024/"><u>Starting Your Own Platform A Guide to Critiquing Home Essentials for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-honor-x8b-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Honor X8b without backup.</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-galaxy-m54-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Galaxy M54 5G.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unbeatable-july-offers-for-iphones-expert-tips-and-reviews-by-zdnet/"><u>Unbeatable July Offers for iPhones: Expert Tips & Reviews by ZDNet</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-realme-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Realme</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-note-13-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 13 5G won’t play AVCHD .mts files</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-drowsy-discourses-an-examination-of-nighttime-story-videos-for-2024/"><u>[Updated] Drowsy Discourses An Examination of Nighttime Story Videos for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-essential-gaming-collection-best-of-action-adventure-classics/"><u>[Updated] Essential Gaming Collection Best of Action-Adventure Classics</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unlocking-real-time-collaboration-via-xbox-zoom/"><u>2024 Approved Unlocking Real-Time Collaboration via Xbox Zoom</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-c33-2023-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C33 2023 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/enhance-typing-precision-in-windows-11-sidestep-key-lag-pitfalls/"><u>Enhance Typing Precision in Windows 11: Sidestep Key Lag Pitfalls</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/gratuit-migrate-avi-to-ogg-formats-via-web-movavis-comprehensive-guide/"><u>Gratuit Migrate AVI To Ogg Formats via Web - Movavi's Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-from-scratch-building-a-lighthearted-image-meme/"><u>In 2024, From Scratch Building a Lighthearted Image Meme</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfecting-pace-techniques-for-shooting-captivating-slow-motion-content-for-instagram-audiences/"><u>In 2024, Perfecting Pace Techniques for Shooting Captivating Slow Motion Content for Instagram Audiences</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-edge-2023-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Edge 2023 unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-itel-p40-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Itel P40</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-c110-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia C110</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/smirk-stash-ultimate-guide-to-free-meme-templates-for-2024/"><u>Smirk Stash Ultimate Guide to FREE Meme Templates for 2024</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-redmi-note-12-pro-4g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Redmi Note 12 Pro 4G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-se-2022-lock-with-apple-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone SE (2022) lock with Apple ID</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-civi-3-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Civi 3 won’t play HEVC H.265 media, how to fix?</u></a></li>
 </ul></div>
 

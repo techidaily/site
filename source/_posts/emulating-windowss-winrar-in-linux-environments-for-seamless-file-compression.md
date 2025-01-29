@@ -1,7 +1,7 @@
 ---
 title: Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
-date: 2025-01-20T16:36:14.314Z
-updated: 2025-01-21T16:08:45.782Z
+date: 2025-01-25T00:24:52.681Z
+updated: 2025-01-29T09:27:21.281Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,6 +22,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Extracting a RAR File Using WinRAR on Linux](https://fox-http.techidaily.com/boosting-tiktok-engagement-using-zoom-features-for-2024/)
 * [WinRAR Alternatives for Linux](https://win-dash.techidaily.com/update-and-installation-guide-for-insignia-bluetooth-receiver-drivers-in-windows/)
 * [Performing Multiple Operations on RARs](https://screen-mirroring-recording.techidaily.com/in-2024-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -57,10 +61,6 @@ sudo pacman -S wine
 
 ![downloading WinRAR 64-bit version of windows from the official download page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, head over to the directory where you saved the file using [the cd command](https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/):
 
 cd Downloads
@@ -79,6 +79,10 @@ wine winrar-*.exe
 
 ![WinRAR on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Extracting a RAR File Using WinRAR on Linux
 
  To extract a RAR file, simply right-click on the file and click on "Open With WinRAR." This will launch WinRAR and give you the extracted file. Another way to open the RAR file is to launch WinRAR from the application menu and choose the file to extract it.
@@ -88,7 +92,7 @@ wine winrar-*.exe
 ![extracting a sample.rar file in WinRAR (wine)](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, select the path where you want to save the extracted file. After that, click on "OK" and wait for the extraction to be completed. You can then close WinRAR and access the extracted files.
@@ -96,7 +100,7 @@ wine winrar-*.exe
 ![specifying destination path and different mode for extracted rar file in setting context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In your specified path, you see your extracted file with the same name as the RAR file.
@@ -104,7 +108,7 @@ wine winrar-*.exe
 ![viewing extracted rar file in Nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5a.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As mentioned earlier, WinRAR officially only provides rar for Linux, which is a command-line tool. If you prefer [extracting RAR files using the command line](https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/), you can use the rar command.
@@ -137,6 +141,10 @@ sudo pacman -S file-roller
 
 ![context menu showing different options of the 7zip tool in nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/7-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [7-Zip](https://www.7-zip.org/download.html) is a free, open-source tool used for compressing large files. It's got its own archive file format, 7z, and can handle other formats as well. It officially comes with three p7zip packages: p7zip (basic 7z support), p7zip-full (more 7z formats), and p7zip-rar (RAR + 7z support).
 
  You can install 7-Zip on Ubuntu- or Debian-based distros using:
@@ -157,10 +165,6 @@ sudo pacman -S p7zip
 
 ![xarchiver on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Xarchiver](https://xarchiver.sourceforge.net/) is a GTK+ application that can handle various compression formats. You can use it to create archives and perform operations like adding, extracting, and deleting files. It lets you browse archives with MIME type icons, add comments to them, and export them as HTML or TXT.
 
  You can install Xarchiver in Ubuntu or Debian using the following command:
@@ -176,10 +180,6 @@ sudo yum -y install xarchiver
 sudo pacman -S xarchiver
 
  After installing Xarchiver on your Linux PC, you can easily create and extract RAR archives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performing Multiple Operations on RARs
 
@@ -202,22 +202,19 @@ sudo pacman -S xarchiver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-boost-cash-flow-with-these-5-instagram-hacks/"><u>[Updated] Boost Cash Flow with These 5 Instagram Hacks</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-from-audience-to-advocate-strategies-for-powerful-fb-covers/"><u>[Updated] From Audience to Advocate Strategies for Powerful FB Covers</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS to an Older iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-erase-apple-iphone-12-pro-max-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 12 Pro Max Data Permanently | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-70-lite-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 70 Lite 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comprehensive-hdr-workflows-for-aspiring-pros/"><u>In 2024, Comprehensive HDR Workflows for Aspiring Pros</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-your-apple-iphone-6-apple-id-on-macbook-by-drfone-ios/"><u>In 2024, How To Change Your Apple iPhone 6 Apple ID on MacBook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/mastering-macbook-webcam-footage-for-2024/"><u>Mastering MacBook Webcam Footage for 2024</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/mastering-the-click-path-concept-for-enhanced-seo-results-tips-and-explanations-explained/"><u>Mastering the Click Path Concept for Enhanced SEO Results - Tips & Explanations Explained</u></a></li>
-<li><a href="https://techidaily.com/sign-word-2019-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2019 Online with DigiSigner</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi 13 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209597264-9781495082887-ufo-faq/"><u>UFO FAQ | Free Book</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-install-brother-hl-l2380dw-color-laser-all-in-one-printer-with-windows-software/"><u>Ultimate Guide: Install Brother HL-L2380DW Color Laser All-in-One Printer with Windows Software</u></a></li>
-<li><a href="https://article-posts.techidaily.com/uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs-for-2024/"><u>Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-oppo-find-n3-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Oppo Find N3.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-90-gt-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-trending-image-memes-unveiling-the-real-story/"><u>[New] Trending Image Memes Unveiling the Real Story</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-prime-mobile-camera-apps-iphone-and-android-comparison/"><u>[Updated] In 2024, Prime Mobile Camera Apps IPhone & Android Comparison</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-transformative-tips-to-take-your-lunapic-skills-up/"><u>[Updated] In 2024, Transformative Tips to Take Your LunaPic Skills Up</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-tailoring-recording-techniques-in-audacity-for-professionals/"><u>[Updated] Tailoring Recording Techniques in Audacity for Professionals</u></a></li>
+<li><a href="https://win-studio.techidaily.com/boost-your-pcs-speed-and-efficiency-with-expert-tips-from-yl-computing/"><u>Boost Your PC's Speed & Efficiency with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unveiling-t-series-youtube-earnings/"><u>In 2024, Unveiling T-Series' Youtube Earnings</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-endless-entertainment-10-best-free-online-video-loopers/"><u>New In 2024, Endless Entertainment 10 Best Free Online Video Loopers</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-realme-10t-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Realme 10T 5G on Mac</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-vivo-y78plus-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Vivo Y78+</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/unending-screen-documentation-sites/"><u>Unending Screen Documentation Sites</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-90-gt-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 90 GT Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/zooming-into-aesthetics-a-visual-effects-handbook-for-meetings/"><u>Zooming Into Aesthetics A Visual Effects Handbook for Meetings</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features"
-date: 2025-01-20T21:58:24.429Z
-updated: 2025-01-21T22:48:08.053Z
+date: 2025-01-27T12:38:30.985Z
+updated: 2025-01-29T13:47:34.738Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ---
 
 ## Protect Personal Information: Learn How to Encrypt USB Drives Using Windows 11 Features
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 ![Window showing the startup sequence for BitLocker Drive Encryption](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/2.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5\. Choose a password.
@@ -66,12 +62,16 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![BitLocker offering several recovery key back up options.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/4.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7\. Choose whether to encrypt the whole drive or only used space. If the drive is empty and formatted, choose "Used Space"; otherwise, choose "Entire Drive."
 
 ![Bitlocker asking the user whether they want to encrypt the entire disk or only part of it](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/5.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8\. Choose the encryption type, which in almost all cases should be "Compatibility Mode." This ensures that older versions of Windows can read the drive. Since we're encrypting a portable drive, this is presumably something you want. However, if you're only going to use this drive with one computer, feel free to select the newer encryption option instead.
@@ -81,6 +81,10 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
  9\. Click "Start Encrypting" and wait for the process to finish.
 
 ![The BitLocker Ready screen with a 'Start Encrypting' button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/8.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the process was successful, your drive is now protected by strong encryption and can only be accessed using its password.
 
@@ -94,16 +98,12 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 ![A right-click context menu showing the option to manage BitLocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/9.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the BitLocker management Windows, choose "Turn off BitLocker" for the drive in question.
 
 ![A window showing the option to turn off Bitlocker](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/10.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then simply confirm as you did when first encrypting the drive.
@@ -135,16 +135,24 @@ thumbnail: https://thmb.techidaily.com/4a2496ce821a6c52eaf0cfecea597eea88a887661
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-outstanding-asmr-audio-experience-for-minimal-spending/"><u>2024 Approved Outstanding ASMR Audio Experience for Minimal Spending</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-s17e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo S17e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/expert-review-discovering-the-wonders-of-music-with-the-nest-smart-speaker/"><u>Expert Review: Discovering the Wonders of Music with the Nest Smart Speaker</u></a></li>
-<li><a href="https://some-tips.techidaily.com/how-citizen-developers-are-transforming-enterprise-tech-landscape-by-taking-on-more-application-responsibilities/"><u>How Citizen Developers Are Transforming Enterprise Tech Landscape by Taking on More Application Responsibilities</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-lava-yuva-3-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Lava Yuva 3 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-craft-your-narrative-implementing-inshot-transitions-professionally/"><u>In 2024, Craft Your Narrative Implementing Inshot Transitions Professionally</u></a></li>
-<li><a href="https://techidaily.com/remove-oppo-find-n3-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Oppo Find N3 unlock screen</u></a></li>
-<li><a href="https://some-skills.techidaily.com/surprise-uncovered-secrets-to-take-your-window-11-experience-up-a-notch-for-2024/"><u>Surprise! Uncovered Secrets to Take Your WINDOW 11 Experience Up a Notch for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-x-flip-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo X Flip | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/unleash-creativity-premier-vimeo-editors-deliver-for-2024/"><u>Unleash Creativity Premier Vimeo Editors Deliver for 2024</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-huawei-p60-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Huawei P60</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-investigating-how-t-series-earns-from-youtube-viewership/"><u>[New] 2024 Approved Investigating How T-Series Earns From YouTube Viewership</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-exploring-next-gen-vector-software-for-designers/"><u>[Updated] Exploring Next-Gen Vector Software for Designers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-insight-into-excellence-a-detailed-guide-to-mastering-vivacut-editing/"><u>[Updated] Insight Into Excellence A Detailed Guide to Mastering VivaCut Editing</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-itel-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel A05s Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/boost-performance-seamless-intel-iris-graphics-540-driver-updates-unveiled/"><u>Boost Performance: Seamless Intel Iris Graphics 540 Driver Updates Unveiled</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/buy-mirillis-products-understanding-the-sales-agreement-and-conditions/"><u>Buy Mirillis Products: Understanding the Sales Agreement and Conditions</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-xcover-7-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy XCover 7 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-a60s-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel A60s Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Fake GPS Without Root On Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-samsung-galaxy-tab-s7-plus-the-ultimate-luxury-android-device/"><u>In-Depth Analysis of the Samsung Galaxy Tab S7 Plus: The Ultimate Luxury Android Device</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/meme-manifestation-station/"><u>Meme Manifestation Station</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2010-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2010 Documents Online for Free</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-correcting-ksuserdll-error-messages-for-windows-users/"><u>The Ultimate Guide to Correcting ksuser.dll Error Messages for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-12-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 12 without backup.</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-music-recovery-recover-deleted-music-from-xiaomi-13t-by-fonelab-android-recover-music/"><u>Xiaomi 13T Music Recovery - Recover Deleted Music from Xiaomi 13T</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/caf-mp4-movavi/"><u>무료 CAF 형식으로의 MP4 파일 변환: 구현 방법 - Movavi</u></a></li>
 </ul></div>
 

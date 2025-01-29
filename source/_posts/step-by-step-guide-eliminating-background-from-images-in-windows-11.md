@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Eliminating Background From Images in Windows 11"
-date: 2025-01-19T00:14:31.599Z
-updated: 2025-01-21T22:07:16.517Z
+date: 2025-01-28T11:20:14.892Z
+updated: 2025-01-29T02:29:13.308Z
 tags:
   - deals
 categories:
@@ -11,19 +11,11 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ## Step-by-Step Guide: Eliminating Background From Images in Windows 11
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Remove the Entire Background of an Image](https://screen-video-capture.techidaily.com/efficient-tactics-for-recording-vimeo-media/)
 * [Remove Background From the Selected Area of an Image](https://apple-account.techidaily.com/apple-id-unlock-on-iphone-12-how-to-fix-it-by-drfone-ios/)
 * [Replace an Image's Background With a Solid Color](https://youtube-data.techidaily.com/024-approved-profit-pinnacle-peak-your-income-by-monetizing-youtube-mobile-content/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -45,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ![Open With > Paint highlighted in an image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-open-photo-with-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When Paint opens, in the "Image" section at the top, click Remove Background (the icon of multiple lines and a person).
 
 !['Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-remove-background-paint.jpg) 
@@ -52,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
  Wait for Paint to delete the background. When that’s done, you’ll see the edited image.
 
 ![A background-less image in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-background-removed-paint.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To save this background-less image select File > Save from Paint’s menu bar, or press Ctrl+S.
 
@@ -72,19 +72,23 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 ![The 'Rectangle' selection tool highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-rectangle-selection-tool-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Use the rectangle tool to select the part of the image where you want to delete the background. After making the selection, from the "Image" section at the top, choose Remove Background (the icon of a person and multiple lines behind them).
 
 ![An image area selection and 'Remove Background' highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-select-image-area-paint.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait while Paint deletes the background from the specified image area. Then, save your image by navigating to File > Save or pressing Ctrl+S.
 
 ![File > Save highlighted in Paint.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-save-edited-image-paint.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Replace an Image's Background With a Solid Color
@@ -95,33 +99,21 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 ![Open With > Photos highlighted in image's context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-open-image-with-photos.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When the app opens, select Edit Image (or press Ctrl+E) in the top bar. 
 
 !['Edit Image' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-edit-image-photos.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  On the following screen, from the options at the top, select the icon of a person with lines behind them. This is the background removal and replacement tool.
 
 !['Remove Background' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-remove-background-photos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  On the right pane, select the "Replace" option.
 
 !['Replace' highlighted in Photos.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/12-replace-background-photos.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You’ll see a color palette. Here, choose the color to fill your image’s current background. If you know a color’s [HEX](https://screen-capture.techidaily.com/updated-2024-approved-elite-group-of-high-speed-video-snapshot-apps/) or [RGB](https://extra-approaches.techidaily.com/in-2024-mastering-brand-collaboration-on-youtube/) code, enter those values in the given boxes. This helps you quickly get to the color you want.
 
@@ -147,11 +139,19 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 !['Library' highlighted in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/16-microsoft-store-library.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the right pane, next to "Microsoft Photos," choose "Update." Wait while the Store updates the app.
 
  If you see "Open" instead of "Update," your app version is already updated.
 
 !['Open' highlighted for Microsoft Photos in Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/17-update-photos-microsoft-store.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Photos and you’ll find the option to replace your images’ backgrounds.
 
@@ -172,18 +172,17 @@ thumbnail: https://thmb.techidaily.com/7640686b3055c0a77032f97db3d754d6950a2fb76
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-advanced-photography-skills-precision-cropping-in-digital-spaces/"><u>[New] Advanced Photography Skills Precision Cropping in Digital Spaces</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-curate-a-perfect-playlist-on-youtube-a-step-by-step-guide/"><u>[Updated] 2024 Approved Curate a Perfect Playlist on YouTube A Step-by-Step Guide</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-engage-more-with-facebook-sharing-panoramic-photos-via-iosandroid-apps/"><u>[Updated] 2024 Approved Engage More with Facebook Sharing Panoramic Photos via iOS/Android Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-essential-tactics-for-success-in-instagrams-video-discussions/"><u>[Updated] In 2024, Essential Tactics for Success in Instagram's Video Discussions</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-perfect-shots-start-with-the-right-camera-and-lens-selection-for-2024/"><u>[Updated] Perfect Shots Start With The Right Camera & Lens Selection for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/7-proven-methods-to-restore-and-improve-auto-brightness-on-your-iphone/"><u>7 Proven Methods to Restore and Improve Auto-Brightness on Your iPhone</u></a></li>
-<li><a href="https://techidaily.com/is-your-zte-nubia-z60-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your ZTE Nubia Z60 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-list-of-free-green-screen-apps-for-mobile-creators-for-2024/"><u>New The Ultimate List of Free Green Screen Apps for Mobile Creators for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pro-anglers-choice-the-top-5-cameras-for-fishing-for-2024/"><u>Pro Angler's Choice The Top 5 Cameras For Fishing for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-hot-40i-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Hot 40i</u></a></li>
-<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-8-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 8 | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-y36i-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo Y36i</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/zdnet-reveals-the-unparalleled-advantages-of-iphone-16-discover-the-three-must-have-features-that-demand-your-attention/"><u>ZDNet Reveals the Unparalleled Advantages of iPhone 16: Discover the Three Must-Have Features That Demand Your Attention!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/einvent-your-youtube-presence-a-guide-to-elevated-subscription-rates/"><u>[New] Reinvent Your YouTube Presence A Guide to Elevated Subscription Rates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-madness-twitters-funniest-video-threads/"><u>2024 Approved Meme Madness Twitter's Funniest Video Threads</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unlocking-the-best-8-no-charge-powerful-3d-video-tools/"><u>2024 Approved Unlocking The Best 8 No-Charge, Powerful 3D Video Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/8-best-screen-capture-tools-for-linux-for-2024/"><u>8 Best Screen Capture Tools for Linux for 2024</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-lava-blaze-curve-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Lava Blaze Curve 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-15-pro-max-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 15 Pro Max Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 14 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-30-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 30 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/how-to-utilize-nvidias-innovative-ai-foundations-in-your-projects-eligibility-and-application-process/"><u>How to Utilize NVIDIA's Innovative AI Foundations in Your Projects: Eligibility and Application Process</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-11-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 11 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-the-definitive-list-of-win10s-top-video-capture-software/"><u>In 2024, The Definitive List of Win10's Top Video Capture Software</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-samsung-galaxy-z-fold-5-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Samsung Galaxy Z Fold 5 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

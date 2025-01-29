@@ -1,7 +1,7 @@
 ---
 title: 1. Transform Your Bash Shell Into a Colorful Spectacle with Just One Simple Command
-date: 2025-01-15T01:39:50.911Z
-updated: 2025-01-21T16:53:13.035Z
+date: 2025-01-25T10:37:06.773Z
+updated: 2025-01-29T11:19:20.326Z
 tags:
   - desktop
 categories:
@@ -59,7 +59,7 @@ sudo pacman -S lolcat
  Once you've installed lolcat, you're ready to use it and apply rainbow colors to your output text.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  lolcat Command Options
@@ -86,7 +86,7 @@ lolcat --help
 man lolcat
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Get Colored Terminal Output
@@ -98,7 +98,7 @@ ls | lolcat
 ![Listing files and directories of Ubuntu Linux in colored output using lolcat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/ls-lolcat-command.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This will display the list of files and directories in a beautiful, rainbow-colored format. In the same way, you can apply lolcat to any command, such as [grep](https://screen-recording.techidaily.com/updated-10-superior-choices-high-end-video-conferencing-software-for-2024/) or man, and colorize its output text.
@@ -108,6 +108,10 @@ ls | lolcat
 lolcat file.txt
 
 ![Displaying file content in colored output on Linux terminal using lolcat command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolcat-file-output.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Want to see your system information using [neofetch](https://facebook-videos.techidaily.com/updated-2024-approved-easy-steps-for-achieving-facebooks-prestigious-blue-badge/) in rainbow glory? Try running this:
 
@@ -125,10 +129,6 @@ vim ~/.bashrc
 
 ![Setting up an alias for the ls -l command in the ~/.bashrc file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/alias-lolcat.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After creating the alias, don’t forget to log out and back in to apply the changes.
 
  Now, when you type **lolls**, the system will execute the command ls -l and pipe its output to lolcat for a colorful display.
@@ -136,6 +136,10 @@ vim ~/.bashrc
 lolls
 
 ![Displaying files and directories in long colored format using the alias lolls.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/lolls-lolcat.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Animate Your Text Using lolcat
 
@@ -185,14 +189,6 @@ figlet -f slant "Welcome to HTG" | lolcat
 
 ![Displaying an ASCII text banner in the terminal with a rainbow-colored format and using a slant font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/figlet-lolcat-font-differnet.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Make Things Interesting With cowsay
 
  Want to make things more funny? Let's combine lolcat with [cowsay](https://github.com/cowsay-org/cowsay). This fun command allows you to create speech bubbles with cute animal characters that display a message you provide.
@@ -214,6 +210,10 @@ sudo pacman -S cowsay
 cowsay "Linux is Funny" | lolcat
 
 ![Displaying a rainbow-colored cow in the terminal window with some text.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cowsay-linux-lolcat.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  But why stop at cows? Cowsay comes with a whole menagerie of ASCII animals. Let's see what a rainbow tux has to say:
 
@@ -242,24 +242,20 @@ cowsay -f tux "Linux is cool" | lolcat
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-the-essential-guide-to-state-of-the-art-screen-recorders/"><u>[New] 2024 Approved The Essential Guide to State-of-the-Art Screen Recorders</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-expert-approach-to-master-multi-window-video-on-edge/"><u>[New] Expert Approach to Master Multi-Window Video on Edge</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-unlock-your-potential-50-free-high-impact-banners-at-your-disposal/"><u>[Updated] In 2024, Unlock Your Potential 50 FREE, High-Impact Banners at Your Disposal!</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-mitigate-playback-problems-in-android-and-ios-apps-for-2024/"><u>[Updated] Mitigate Playback Problems in Android & iOS Apps for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtube-shorts-secrets/"><u>[Updated] Unlocking YouTube Shorts Secrets</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/affordable-tactics-for-combining-media-with-literature/"><u>Affordable Tactics for Combining Media with Literature</u></a></li>
-<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-oppo-a59-5g-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Oppo A59 5G to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-xiaomi-civi-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi Civi 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-lava-blaze-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone XS Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-gt-3-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT 3 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-xiaomi-13t-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi 13T working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/pathways-to-acquiring-facebooks-distinguished-verification/"><u>Pathways to Acquiring Facebook's Distinguished Verification</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-msvbvm50dll-file-not-found-steps-to-restore-your-system/"><u>Resolving the msvbvm50.dll File Not Found: Steps to Restore Your System</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-red-magic-8s-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Red Magic 8S Pro</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-a18-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo A18 fingerprint</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-2024/"><u>고유한 5가지 방법: 2024년 이미지 품질을 위로 하는 해상도 높여줘</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-master-control-over-your-youtube-viewing-rhythm/"><u>[New] 2024 Approved Master Control Over Your YouTube Viewing Rhythm</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-steps-to-ensure-peaceful-gmeet-sessions-silence-techniques/"><u>[New] 2024 Approved Steps to Ensure Peaceful GMeet Sessions Silence Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-3-ways-convert-pinner-vids-into-audios/"><u>[New] Top 3 Ways Convert Pinner Vids Into Audios</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-t2-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo T2 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/convert-mp4mpgm4v-to-ogg-format-for-free-with-movavis-online-tool/"><u>Convert MP4/MPG/M4V to Ogg Format for Free with Movavi's Online Tool</u></a></li>
+<li><a href="https://games-able.techidaily.com/custom-cooling-configurations-for-peak-system-response/"><u>Custom Cooling Configurations for Peak System Response</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-hot-40-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Hot 40 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-samsung-galaxy-z-flip-5-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Samsung Galaxy Z Flip 5 phone? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-harness-the-power-of-insights-a-curated-list-of-instagram-performance-trackers/"><u>In 2024, Harness the Power of Insights A Curated List of Instagram Performance Trackers</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-poco-f5-pro-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Poco F5 Pro 5G on Mac</u></a></li>
+<li><a href="https://techidaily.com/sign-word-2016-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2016 Documents Online for Free</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/speech-reader-feedback-summary/"><u>Speech Reader Feedback Summary</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ring-trailers-for-virtual-broadcasts-for-2024/"><u>Tailoring Trailers for Virtual Broadcasts for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>The way to get back lost music from Google Pixel 7a</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify missing drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
 </ul></div>
 

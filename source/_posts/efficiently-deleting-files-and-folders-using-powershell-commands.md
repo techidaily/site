@@ -1,7 +1,7 @@
 ---
 title: Efficiently Deleting Files & Folders Using PowerShell Commands
-date: 2025-01-21T00:29:13.285Z
-updated: 2025-01-21T22:33:11.021Z
+date: 2025-01-28T03:12:27.445Z
+updated: 2025-01-29T09:39:22.000Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ---
 
 ## Efficiently Deleting Files & Folders Using PowerShell Commands
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,7 +21,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [How to Delete Files With Wildcards](https://extra-lessons.techidaily.com/new-gamer-era-starts-djis-mavic-air-versus-spark-battle/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -44,6 +40,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
 !['Copy as Path' highlighted in Windows' context menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-copy-file-folder-path-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You’ve successfully copied the selected item’s path to your clipboard. You can now [paste this path](https://twitter-videos.techidaily.com/new-in-2024-gain-twitter-gifs-for-pc-download-made-simple/) (using Ctrl+V) wherever required within the PowerShell window.
 
 ##  How to Delete a Specific File Using PowerShell
@@ -59,10 +59,6 @@ Remove-Item PATH
 Remove-Item "C:\Users\username\Desktop\Old-List.txt"
 
 ![The 'Remove-Item' cmdlet to delete a file in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-delete-file-powershell.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Note that the command won’t ask for a confirmation before deleting your file. If you’d like the command to do that, add the "Confirm" parameter as follows:
 
@@ -85,7 +81,7 @@ Remove-Item "C:\Users\username\Desktop\Old Files"
 ![The 'Remove-Item' cmdlet to delete a folder in a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/3-delete-folder-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Delete All Files in a Folder But Keep the Folder
@@ -104,6 +100,10 @@ Remove-Item "C:\Users\username\Desktop\Your Files\*.*"
 
  In this command, the first asterisk selects files with any name, and the second asterisk chooses files with any extension. This translates to selecting all the files in the specified folder.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Delete All Files From a Folder and Its Subfolders
 
  If you’re looking to remove all files from a folder and its subfolders, add the "Recurse" and "Include" parameters to the "Remove-Item" cmdlet.
@@ -121,7 +121,7 @@ Remove-Item "C:\Users\username\Desktop\Downloads" -Recurse -Include *.*
 ![The 'Remove-Item' cmdlet to recursively delete items on a PowerShell window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/5-delete-files-subfolders-powershell.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Delete Files With Wildcards
@@ -161,21 +161,18 @@ Get-ChildItem -Recurse PATH | where { $_.PSISContainer -and @($_ | Get-ChildItem
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-the-complete-haul-video-manual-from-shopping-to-screen-time/"><u>[New] In 2024, The Complete Haul Video Manual From Shopping to Screen Time</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-core-elements-in-asmr-visual-media/"><u>[New] The Core Elements in ASMR Visual Media</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-premier-list-photos-with-perfect-beats-recorders/"><u>2024 Approved Premier List Photos with Perfect Beats Recorders</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-14-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi 14 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/dynamic-book-trailers-illustration/"><u>Dynamic Book Trailers Illustration</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-12plus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/hideous-heroes-black-vs-gleaming-guardians-silver/"><u>Hideous Heroes (Black) VS Gleaming Guardians (Silver)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 11 Pro Max Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-infinix-note-30-pro-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Infinix Note 30 Pro Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://techidaily.com/is-your-google-pixel-8-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Google Pixel 8 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-y100i-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo Y100i</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-best-ispoofer-alternative-to-try-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c210-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C210? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-mystery-of-aether-insight-into-its-composition-and-joining-procedures/"><u>Unveiling the Mystery of Aether: Insight Into Its Composition and Joining Procedures</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-oppo-a18-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Oppo A18</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-conquering-hdr-photography-with-ease-for-2024/"><u>[New] Conquering HDR Photography with Ease for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-free-professional-youtuber-backgrounds/"><u>[Updated] In 2024, Free Professional YouTuber Backgrounds</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-sony-xperia-10-v-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Sony Xperia 10 V Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-lava-blaze-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze 2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Realme 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/prime-deals-alert-snap-up-the-discounted-749-apple-m2-macbook-air-for-octobers-shopping-extravaganza-featured/"><u>Prime Deals Alert! Snap Up the Discounted $749 Apple M2 MacBook Air for October's Shopping Extravaganza - Featured</u></a></li>
+<li><a href="https://win11.techidaily.com/proactive-privilege-power-ensuring-windows-terminal-is-admin/"><u>Proactive Privilege Power: Ensuring Windows Terminal Is Admin</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/saving-the-fun-downloading-tweets-gif-content-easily/"><u>Saving the Fun Downloading Tweets' GIF Content Easily</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-comprehensive-guide-to-using-google-duos-with-gmail-tips-and-tricks-included/"><u>The Comprehensive Guide to Using Google Duos with Gmail – Tips & Tricks Included</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-add-wonderful-old-school-feeling-distortion-and-glitch-effects-to-your-video-with-vhs-effect-read-this-article-to-learn-about-the-best-and-popular-m/"><u>Updated Add Wonderful Old-School Feeling, Distortion, and Glitch Effects to Your Video with VHS Effect. Read This Article to Learn About the Best and Popular Methods to Add VHS Effects to Your Videos in a Few Minutes</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-infinix-smart-8-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Infinix Smart 8</u></a></li>
 </ul></div>
 

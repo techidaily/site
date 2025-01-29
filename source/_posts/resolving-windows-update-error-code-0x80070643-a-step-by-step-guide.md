@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Update Error Code 0X80070643: A Step-by-Step Guide"
-date: 2025-01-20T16:08:32.717Z
-updated: 2025-01-21T18:25:56.357Z
+date: 2025-01-27T14:11:35.798Z
+updated: 2025-01-28T20:12:49.021Z
 tags:
   - desktop
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 * To fix this issue, you'll need to resize the Recovery partition using the Command Prompt.
 
  Microsoft releases updates for Windows to add new features and fix bugs in the current version. Most updates download without problems, but some can cause errors during the download. One such error is Windows update error 0x80070643, which occurs while downloading the Windows 10 KB5034441 update.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Is Downloading the Windows 10 KB5034441 Update Important?
 
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Recovery partition in Disk Management](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-partition-in-disk-management.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows Recovery Environment (WinRE) is a built-in feature provided by Windows that helps you recover your computer when it has been corrupted for various reasons, and you cannot boot it. Additionally, it will help recover your system when it has become unusable due to incorrect updates or accidental removal of system files.
 
  To check if the Recovery partition is configured properly on your computer, [open Command Prompt as an administrator](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/), type **reagentc /info**, and hit Enter. If you see "Enabled" next to Windows RE status, it means your computer has a Recovery partition, and it is working properly.
@@ -56,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 ![Windows RE status in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-re-status-in-command-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For you to install the KB5034441 update, there must be 250 MB of free space in the Recovery partition. If the partition has less than that, you will encounter the 0x80070643 error when downloading the update.
@@ -71,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Diskpart command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/diskpart-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Execute the **list disk** command to list all the disks.
 
 ![List disk command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-disk-command-in-cmd.jpg) 
@@ -83,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![Select disk command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-disk-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **list partition** to list the partitions on the disk.
 
 ![List partition command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-partition-command-in-cmd.jpg) 
@@ -94,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
  Select the primary disk partition. For example, if it is Partition 3, type **select partition 3** and hit Enter.
 
 ![Select partition 3 command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/select-partition-3-command-in-cmd.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll now have to shrink the partition. For that, type **shrink desired=250 minimum=250** and hit Enter.
 
@@ -107,17 +111,9 @@ thumbnail: https://thmb.techidaily.com/bbcc4a007f0a07614972fe24eb730165421ff81b1
 
 ![delete partition override command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/delete-partition-override-command-in-cmd.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here's the most important step. Scroll up in your Command Prompt window and check the [disk partition style](https://facebook-video-footage.techidaily.com/updated-pro-level-gif-generation-a-critical-review/). If there's an asterisk (\*) in the GPT column of your operating system disk, it means you have GUID Partition Table (GPT) partition style. If there's no asterisk in the GPT column, then it's [MBR partition style](https://instagram-videos.techidaily.com/2024-approved-exclusive-guide-ranking-most-effective-ig-money-makers/).
 
 ![Asterick mark in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/asterick-mark-in-cmd.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your disk is GPT, type **create partition primary id=de94bba4-06d1-4d40-a16a-bfd50179d6ac** and hit Enter. Then, type **gpt attributes =0x8000000000000001** and hit Enter. If your disk is MBR, type **create partition primary id=27** and hit Enter.
 
@@ -128,19 +124,23 @@ Close
 ![Format command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/format-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Execute **list vol** to confirm that the recovery partition has been created.
 
 ![List vol command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/list-vol-command-in-cmd.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Type **exit** and hit Enter to exit Diskpart.
 
 ![Exit command in CMD.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/exit-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Re-enable the Recovery partition by typing **reagentc /enable** and hitting Enter.
@@ -148,7 +148,7 @@ Close
 ![Recovery parition enable command in CMD](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/recovery-parition-enable-command-in-cmd.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Finally, to confirm the Recovery partition is configured properly on your computer, type **reagentc /info** and hit Enter. If you see "Enabled" next to Windows RE status, it means the Recovery partition is working properly. After that, [restart your computer](https://article-posts.techidaily.com/comparing-the-creme-de-la-creme-gopro-hero5-black-to-hero4-silver-for-2024/) and try downloading the Windows update again. This time, the error code 0x80070643 shouldn't interrupt the download process.
@@ -172,22 +172,21 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-fusionvisualizer-ipadplusmacmedia-combining-tool/"><u>[New] In 2024, FusionVisualizer IPad+MacMedia Combining Tool</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-acclaimed-storytellers-with-photo-audio-symphony/"><u>[Updated] 2024 Approved Acclaimed Storytellers with Photo-Audio Symphony</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-quick-ways-to-preserve-your-video-games/"><u>[Updated] In 2024, Quick Ways to Preserve Your Video Games</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-steps-for-a-smooth-experience-with-the-windows-11-photos-app-for-2024/"><u>[Updated] Steps for a Smooth Experience with the Windows 11 Photos App for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-the-ultimate-resource-guide-for-refining-on-screen-text-in-videos/"><u>[Updated] The Ultimate Resource Guide for Refining On-Screen Text in Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/bridging-the-gap-between-zoom-and-social-media-streams/"><u>Bridging the Gap Between ZOOM and Social Media Streams</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v29e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V29e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-vivo-y56-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-oppo-reno-10-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 10 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1652055-9781476789750-outrageous-openness/"><u>Outrageous Openness | Free Book</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/picture-puns-memify-pro-for-2024/"><u>Picture Puns Memify Pro for 2024</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v15-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.5 File | Stellar</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719581018092-this-is-the-best-way-to-learn-finnish-online/"><u>This Is The Best Way To Learn Finnish Online</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-hot-40-pro-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix Hot 40 Pro</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-gionee-f3-pro-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Gionee F3 Pro fingerprint</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-snowy-scores-winter-2022-wonders-unveiled/"><u>[New] 2024 Approved Snowy Scores Winter 2022 Wonders Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ffiliate-acquaintanceships-elevating-budget-channels-with-ease/"><u>[New] Affiliate Acquaintanceships Elevating Budget Channels with Ease</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>[New] Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-capturing-the-perfect-snap-on-pexels/"><u>[Updated] In 2024, Capturing the Perfect Snap on Pexels</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-disruptive-beatscape-best-rhythm-altering-tools/"><u>2024 Approved Disruptive Beatscape Best Rhythm Altering Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-x8b-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor X8b | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 7 Plus</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-efficient-resource-usage-control-your-desktop-window-managers-gpu-demands-on-windows-1011/"><u>Mastering Efficient Resource Usage: Control Your Desktop Window Manager's GPU Demands on Windows 10/11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-or-iphone-an-expert-breakdown-of-key-differences-to-help-you-make-the-right-choice/"><u>Samsung or iPhone? An Expert Breakdown of Key Differences to Help You Make the Right Choice</u></a></li>
+<li><a href="https://techidaily.com/sign-xltx-files-online-for-free-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>Sign .xltx files Online for Free</u></a></li>
+<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 13 | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-steps-for-handling-event-id-1000-across-various-windows-versions/"><u>Troubleshooting Steps for Handling Event ID #1000 Across Various Windows Versions</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-moto-g04-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola Moto G04 on Windows?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-x90s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo X90S Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

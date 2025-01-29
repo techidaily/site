@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2025-01-16T23:03:08.338Z
-updated: 2025-01-21T21:06:51.898Z
+date: 2025-01-28T10:57:42.077Z
+updated: 2025-01-29T04:52:11.416Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ## Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Pin a Website from Google Chrome](https://win-answers.techidaily.com/overcoming-common-among-us-voice-call-problems-for-pc-users-a-step-by-step-guide/)
@@ -18,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 * [Pin a Microsoft Edge Website](https://facebook-video-files.techidaily.com/new-innovative-downloaders-unveiled-top-8-of-2023/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
  By default, Chrome will open the web page as a tab in a normal Chrome browser window. You can check the "Open as Window" option to have Chrome open the page in its own window with its own taskbar icon when you click the shortcut.
@@ -55,11 +55,19 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Firefox
 
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
@@ -78,11 +86,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
@@ -90,10 +94,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 [Microsoft's Chromium-based Edge browser](https://common-error.techidaily.com/how-to-restore-your-mouse-visibility-in-windows-11-expert-troubleshooting-guide/) works similarly to Google Chrome. To pin any website to a taskbar, simply open the "Settings and More" menu (Alt+F, or click on the three horizontal dots in the top right of your browser). Hover your mouse over "More tools" and click "Pin to Taskbar" or "Pin to Start." 
 
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
 
@@ -114,22 +114,18 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-drone-dynamics-yuneecs-4k-flight-exploration/"><u>[New] 2024 Approved Drone Dynamics Yuneec's 4K Flight Exploration</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-mastering-luts-premiere-pro-essentials/"><u>[New] 2024 Approved Mastering LUTs Premiere Pro Essentials</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/op-choices-premier-video-cutting-tools-for-online-streaming/"><u>[New] Top Choices Premier Video Cutting Tools For Online Streaming</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-tecno-pova-5-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Tecno Pova 5 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-samsung-galaxy-s23-tactical-edition-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Samsung Galaxy S23 Tactical Edition Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726028096365-dvdiso/"><u>DVDのコピープロテクトを解除してISOファイル作成手順</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to Android? | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/jokejigsaw-crafting-comedy-graphics/"><u>JokeJigsaw Crafting Comedy Graphics</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premium-desktop-systems-unveiled-for-2024/"><u>Premium Desktop Systems Unveiled for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013934856-ring-of-elysium-speed-hacks-boost-your-frame-rate-and-gain-the-upper-hand/"><u>Ring of Elysium Speed Hacks: Boost Your Frame Rate and Gain the Upper Hand</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-vivo-y17s-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Vivo Y17s</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-xiaomi-14-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Xiaomi 14</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 11/10</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-xiaomi-redmi-13c-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Xiaomi Redmi 13C</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-exploring-the-magic-behind-color-grading-with-luts/"><u>[New] Exploring the Magic Behind Color Grading with LUTs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-curbing-inertia-in-high-altitude-cinematography/"><u>[Updated] 2024 Approved Curbing Inertia in High Altitude Cinematography</u></a></li>
+<li><a href="https://win-answers.techidaily.com/busting-the-code-diagnosing-and-repairing-armored-core-6-the-rubicon-edition-on-your-computer/"><u>Busting the Code: Diagnosing and Repairing Armored Core 6 - The Rubicon Edition on Your Computer</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1722023408161-chatgpt-and-you-creating-a-roadmap-for-successful-health-ambitions-today/"><u>ChatGPT and You: Creating a Roadmap for Successful Health Ambitions Today!</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-itel-p55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Itel P55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-12plus-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 12+ 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-google-pixel-7a-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Google Pixel 7a Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-14-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 12 without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-advanced-color-grading-techniques-using-luts/"><u>In 2024, Navigating Advanced Color Grading Techniques Using LUTs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-vrecorder-guide-downloading-and-setting-up-instantly/"><u>In 2024, VRecorder Guide Downloading & Setting Up Instantly</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/resolving-memory-issues-on-windows-a-step-by-step-guide-by-yl-computing/"><u>Resolving Memory Issues on Windows: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-v29-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo V29 Pro</u></a></li>
 </ul></div>
 

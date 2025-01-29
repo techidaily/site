@@ -1,7 +1,7 @@
 ---
 title: "Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images"
-date: 2025-01-14T20:28:38.206Z
-updated: 2025-01-21T19:23:02.316Z
+date: 2025-01-28T05:24:29.780Z
+updated: 2025-01-28T20:44:02.443Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 ---
 
 ## Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  This demonstration also includes two AI tools for colorizing and enhancing your restored photos. They’re both freely available on Replicate and Google Colab. I highly recommend trying them, but Microsoft’s AI alone is enough to cover basic restoration.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Restore, Colorize, and Upscale Old Photos
 
  Passing an old degraded photo through Microsoft’s AI is only the first step in my process. After that once over, we can use AI to colorize our restored photo (this bit is optional). Finally, I use a third AI to upscale the whole image.
@@ -58,11 +58,11 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
 ![Clicking the upload button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Close 
 
@@ -77,7 +77,7 @@ Close
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Colorizing Restored Photos
@@ -92,17 +92,21 @@ Close
 
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
 ![Preview of the colorized photo along with the download button on Deoldify](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Upscaling Old Photos
 
@@ -111,10 +115,6 @@ Close
  Open[ESRGAN on Replicate](https://replicate.com/daanelson/real-esrgan-a100?prediction=5xta824fcsrg80cf7409m7xwh4). Click the upload button and drop the colorized image as input.
 
 ![Arrow pointing at the upload button for ESRGAN AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
 
@@ -125,20 +125,20 @@ Close
 ![Steps for running the upscaling AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When it's done, the before and after previews look identical. But when you download the processed file, it has a much higher resolution.
 
 ![Arrow indicating the download button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
 ![Before and after preview of the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/comparison.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Including these three AI models, Replicate has a whole [collection of image restoration models](https://replicate.com/collections/image-restoration). There’s also a catalog dedicated to image [upscaling and refining models](https://replicate.com/collections/super-resolution).
 
@@ -163,22 +163,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tech-revival.techidaily.com/1-efficiently-downscale-videos-optimizing-file-size-for-a-smooth-facebook-sharing-experience/"><u>1. Efficiently Downscale Videos: Optimizing File Size for a Smooth Facebook Sharing Experience</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y78plus-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y78+ Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/te-view-count-prime-hashtags-strategy-for-2024/"><u>Elevate View Count Prime Hashtags Strategy for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/experience-enhanced-performance-discover-key-benefits-of-the-new-macos-15-update-for-your-macbook-zdnet/"><u>Experience Enhanced Performance: Discover Key Benefits of the New MacOS 15 Update for Your MacBook | ZDNet</u></a></li>
-<li><a href="https://win11.techidaily.com/handling-unknown-disk-error-in-windows-systems/"><u>Handling 'Unknown' Disk Error in Windows Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 Pro without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-12-proplus-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme 12 Pro+ 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-asus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Asus Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-depth-review-and-step-by-step-tutorials-for-powerdirector/"><u>In-Depth Review & Step-by-Step Tutorials for PowerDirector</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/mind-expanding-knowledge-engage-in-conversations-with-gpt/"><u>Mind-Expanding Knowledge: Engage in Conversations with GPT</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-hot-40-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Hot 40 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-google-pixel-8-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Google Pixel 8 Pro.</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/unveiling-imovies-inherent-cropping-rules/"><u>Unveiling iMovie's Inherent Cropping Rules</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-civi-3-disney-100th-anniversary-edition-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Civi 3 Disney 100th Anniversary Edition can't play MP4 video files</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-preventing-shake-in-photographic-imagery/"><u>[New] 2024 Approved Preventing Shake in Photographic Imagery</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-guide-to-premium-zero-fee-video-meeting-solutions/"><u>[Updated] 2024 Approved Guide to Premium, Zero-Fee Video Meeting Solutions</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-masterful-video-marketing-techniques-youtube-editions-top-5-list/"><u>2024 Approved Masterful Video Marketing Techniques - YouTube Edition's #Top 5 List</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210010457-9781591939184-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microphone-functionality-restored-in-microsoft-teams-on-windows-11-and-10/"><u>Fixing the Issue: Microphone Functionality Restored in Microsoft Teams on Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-13t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 13T Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A54 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-12-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme 12 Pro+ 5G</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/scripts-that-define-movie-industrys-variety/"><u>Scripts That Define Movie Industry's Variety</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/taking-control-of-your-digital-chatgpt-exchange/"><u>Taking Control of Your Digital ChatGPT Exchange</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-template-infused-yt-descriptions/"><u>The Ultimate Guide to Template-Infused YT Descriptions</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/1728502599194-usbsd/"><u>USBメモリ対SDカード:特長を見比べて最適な選択を解明する</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Solutions to open Excel 2003 Read Only Documents
-date: 2024-09-20T13:09:39.294Z
+date: 2025-01-28T05:26:21.966Z
 tags: 
   - repair
   - repair excel
@@ -17,6 +17,10 @@ keywords: repair excel,repair .xlsx,repair excel 2007,repair .xlb,repair excel 2
 'Excel cannot open read-only documents' is an error message that usually appears when you try to open an Excel (**XLS** or **XLSX**) file downloaded from the Internet, email, or the network server. It may also appear when you try to open an encrypted or password-protected Excel document. In such a case, MS Excel prevents the user from making any changes to the document.
 
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
@@ -45,10 +49,7 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now try to open the Excel document and check if the problem is fixed.
@@ -68,10 +69,7 @@ However, you can click **File > Info** and then click '**Edit Anyway**' to acces
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
-  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Renew/Activate Microsoft Office**
@@ -104,15 +102,16 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
 
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the Repair, open the Excel workbook and check if the error is resolved.
@@ -124,13 +123,6 @@ The error message may also appear if you access an Excel workbook from a network
 - **Repair MS Excel File**
 
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -151,5 +143,22 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-user-friendly-mac-gadget-visuals-and-voices-recorded/"><u>[Updated] In 2024, User-Friendly Mac Gadget Visuals & Voices Recorded</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-micro-influencer-approach-to-live-youtube-streams-from-mobile/"><u>[Updated] Micro-Influencer Approach to Live Youtube Streams From Mobile</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tie-the-two-together-instagram-and-facebook-unite/"><u>2024 Approved Tie the Two Together Instagram and Facebook Unite</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-mini-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 mini Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-13-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-complete-guide-to-final-cut-pro-for-film-professionals/"><u>In 2024, Complete Guide to Final Cut Pro for Film Professionals</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-se-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-xiaomi-redmi-a2plus-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-y55s-5g-2023-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo Y55s 5G (2023) working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-15-pro-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 15 Pro Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolved-how-to-stop-century-age-of-ashes-from-crashing-on-your-pc/"><u>Resolved: How To Stop Century: Age of Ashes From Crashing on Your PC</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-lava-agni-2-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Lava Agni 2 5G without backup.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-rated-asmr-gear-high-quality-priced-right-for-2024/"><u>Top-Rated ASMR Gear High Quality, Priced Right for 2024</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-xperia-10-v-by-fonelab-android-recover-data/"><u>Undelete lost data from Xperia 10 V</u></a></li>
+</ul></div>
 

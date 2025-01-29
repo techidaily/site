@@ -1,7 +1,7 @@
 ---
 title: How Norton 360 Software Became a Surprising Player in the Cryptocurrency Mining Scene
-date: 2025-01-14T19:31:59.405Z
-updated: 2025-01-21T18:45:27.578Z
+date: 2025-01-23T02:17:57.482Z
+updated: 2025-01-29T05:18:16.054Z
 tags:
   - cutting-edge
 categories:
@@ -34,7 +34,7 @@ _Norton_
  There's nothing malicious happening here, but users are never thrilled when they get a piece of software to do one thing (in this case, [protect their PCs](https://fox-info.techidaily.com/updated-in-2024-changing-video-pace-on-your-instagram-feed/)), and it adds something else without their permission. With that said, as long as it's not turned on by default and Norton is upfront about it, the company isn't technically doing anything wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 1/7/22 11:22 am Eastern
@@ -58,22 +58,17 @@ Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-tackling-facebook-message-video-not-sending-issue-androidiphone/"><u>[New] 2024 Approved Tackling Facebook Message Video Not Sending Issue (Android/iPhone)</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-mastering-virtual-space-insights-into-vr-cinema/"><u>[New] In 2024, Mastering Virtual Space Insights Into VR Cinema</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-free-online-10-the-best-subtitles-tools/"><u>[Updated] In 2024, Free Online 10 The Best Subtitles Tools</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-spectacular-time-lapses-from-gopro-hdrs-for-2024/"><u>Crafting Spectacular Time Lapses From GoPro HDRs for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Samsung Galaxy A05s | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-step-beyond-boundaries-with-innovative-wins11-titles/"><u>In 2024, Step Beyond Boundaries with Innovative Wins11 Titles</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-x50-gt-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X50 GT working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maintaining-online-confidentiality-how-to-stop-using-chatgpt-privately/"><u>Maintaining Online Confidentiality: How to Stop Using ChatGPT Privately</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/mandates-in-machine-learning-regulations/"><u>Mandates in Machine Learning Regulations</u></a></li>
-<li><a href="https://techidaily.com/remove-rog-phone-8-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove ROG Phone 8 Pro unlock screen</u></a></li>
-<li><a href="https://discover-bits.techidaily.com/repair-techniques-for-malfunctioning-hard-drives-tips-and-tricks-yl-computing/"><u>Repair Techniques for Malfunctioning Hard Drives: Tips & Tricks - YL Computing</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-p55t-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on P55T without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-huawei-nova-y71-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2010-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2010 File Not Opening Error | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-vivo-x100-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Vivo X100</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-launch-diving-into-live-conversations-on-instagram/"><u>[Updated] 2024 Approved Quick Launch Diving Into Live Conversations on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-get-ahead-with-top-tier-premiere-pro-samples-free-for-2024/"><u>[Updated] Get Ahead with Top-Tier Premiere Pro Samples (Free) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-best-ways-to-record-and-preserve-internet-radio/"><u>[Updated] In 2024, The Best Ways to Record and Preserve Internet Radio</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-hp-network-drivers-compatible-with-windows-10-7-and-8/"><u>Download HP Network Drivers Compatible with Windows 10, 7 & 8</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transformational-techniques-bold-borders-on-instagram-photos/"><u>In 2024, Transformational Techniques Bold Borders on Instagram Photos</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nokia-xr21-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nokia XR21</u></a></li>
+<li><a href="https://win-answers.techidaily.com/speedy-audio-editing-tips-switching-from-flac-to-ac3-in-no-time/"><u>Speedy Audio Editing Tips: Switching From FLAC to AC3 in No Time!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-reinvents-its-data-recovery-software-for-consumers-ease-of-use-news-of-stellar/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease of Use - News of Stellar</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/step-by-step-instructions-for-saving-and-retrieving-imessages-on-apple-devices/"><u>Step-by-Step Instructions for Saving and Retrieving iMessages on Apple Devices</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X6 Pro.</u></a></li>
 </ul></div>
 

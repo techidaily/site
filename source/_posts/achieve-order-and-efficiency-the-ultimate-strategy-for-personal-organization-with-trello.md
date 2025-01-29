@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2025-01-15T17:34:19.028Z
-updated: 2025-01-21T16:26:28.671Z
+date: 2025-01-24T17:48:47.445Z
+updated: 2025-01-28T20:27:11.340Z
 tags:
   - web
 categories:
@@ -37,10 +37,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 4. Trello makes it incredibly easy to collaborate with other people.
 5. It's free as in free forever. Technically, it's a freemium project, with free and subscription tiers, but the free tier does everything you're likely to need for personal projects. In five or six years of using it for dozens of different projects, I've never yet had to move to a paid tier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Few Examples
 
  I'm currently midway through selling one apartment and buying another. One step is shortlisting potential purchases, so I created a Trello project (a "board" in Trello speak) for this.
@@ -49,19 +45,11 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  Another board is apartment design. I use this to clarify my goals for my new home, collate ideas, list the main things I'm taking with me, save links for things I want to buy, list things I plan to sell—and outline the smart home kit I plan to use, together with the scenes I want to create.
 
 ![A Trello board showing apartment design considerations.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/design.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -73,13 +61,13 @@ Ben Lovejoy
 
 Ben Lovejoy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Trello
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Creating a Board
 
@@ -101,13 +89,25 @@ Ben Lovejoy
 
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adding Cards
 
  You'll see each list now has an "Add a Card" button, so just click this to do so. Again, repeat as many times as desired to add as many cards as needed within each list.
 
 ![Adding cards to each task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cards.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -117,27 +117,15 @@ Ben Lovejoy
 
 ![You can attach a photo to help make it easier to get information at a glance.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cover-photo.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  The photo will then show on the card in the main view:
 
 ![A VR headset displayed on a Trello card.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/photo-added.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  If you instead only want a photo to be visible when you open the card, then use the "Attachment" button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Adding Links
 
@@ -150,6 +138,10 @@ Ben Lovejoy
 Ben Lovejoy
 
  You'll also see here options to link to existing cards.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adding Checklists
 
@@ -164,7 +156,7 @@ Ben Lovejoy
  Note that deadlines aren't the only way you can use dates. For my flat-hunting, for example, I used the date to indicate the date of the viewing appointment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Using Color Coding
@@ -174,7 +166,7 @@ Ben Lovejoy
 ![Adding color-coding to the Trello board can make it easier to visually track your progress.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/color-coding.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
@@ -185,6 +177,10 @@ Ben Lovejoy
 
 ![A detailed list of storage in each room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/minimize.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Ben Lovejoy
 
 ###  Moving Things Around (Lists and Cards)
@@ -192,6 +188,10 @@ Ben Lovejoy
  Whether you want to move a card up or down a list, move a card from one list to another, or move a list to the left or right, you can do it all simply by dragging and dropping, picking the card up by its edge.
 
  However, there is one quirk to watch out for. Trello also lets you drag one card inside another one by picking it up in the center, where it is added as an attachment (effectively a hyperlink from one card to another). If the card remains the same size and rounded shape when you drag it, you are dragging the card—but if it changes to a small square, you are in insertion mode. If you get that and don't want it, then just drag it anywhere outside your lists and let it go.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Collaborating With Family and Friends
 
@@ -216,24 +216,22 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/astering-idevice-screen-recording-techniques-for-youtube-for-2024/"><u>[New] Mastering iDevice Screen Recording Techniques for YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-is-there-a-superior-cameras-marketplace/"><u>[Updated] 2024 Approved Is There a Superior Cameras Marketplace?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-twitta-to-trackable-audio-transitions/"><u>[Updated] 2024 Approved Twitta to Trackable Audio Transitions</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-effortless-iphone-screen-recording-techniques-unveiled/"><u>[Updated] In 2024, Effortless iPhone Screen Recording Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-effortless-video-integration-into-blog-posts-and-essays/"><u>[Updated] In 2024, Effortless Video Integration Into Blog Posts & Essays</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-primepickings-top-twitters-and-top-viewers-favorites/"><u>[Updated] PrimePickings Top Twitters & Top Viewers’ Favorites</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-s23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel S23 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723001997437-black-screen-error-cleared-in-epic-games-launcher-solutions-inside/"><u>Black Screen Error Cleared in Epic Games Launcher - Solutions Inside!</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-x50i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor X50i Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-motorola-moto-g14-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Motorola Moto G14 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-dragons-comprehensive-strategies-inspired-by-how-to-train-your-dragon-2-for-perfect-copies-and-backups/"><u>Mastering Dragons: Comprehensive Strategies Inspired by 'How to Train Your Dragon 2' For Perfect Copies and Backups</u></a></li>
-<li><a href="https://techidaily.com/remove-xperia-10-v-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Xperia 10 V unlock screen</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Honor X50i+</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-sony-xperia-5-v-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Sony Xperia 5 V</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-gt-10-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix GT 10 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-15-lock-with-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 lock with iCloud</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-15-pro-max-screen-lock-without-data-loss-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Pro Max screen lock without data loss</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-intro-maker-pc-the-ultimate-list-of-online-and-offline-tools/"><u>Updated 2024 Approved Intro Maker PC The Ultimate List of Online and Offline Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-audacitys-annotated-guide-for-amplifying-transitions/"><u>[New] 2024 Approved Audacity's Annotated Guide for Amplifying Transitions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-unleashing-creativity-mastering-camera-snaps-on-zoom/"><u>[New] In 2024, Unleashing Creativity Mastering Camera Snaps on Zoom</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-cutting-edge-strategies-for-instagram-video-cropping/"><u>2024 Approved Cutting-Edge Strategies for Instagram Video Cropping</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/cosmic-visual-hub-star-quality-vids-and-praise/"><u>Cosmic Visual Hub: Star-Quality Vids & Praise</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-14-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi 14 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/fixing-wavy-or-disrupted-audio-outputs-with-yl-software-tips-and-advice/"><u>Fixing Wavy or Disrupted Audio Outputs with YL Software Tips and Advice</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/freiherstellen-von-filmdateien-auf-dvd-fur-windows-10-and-macos-nutzer-einfache-methoden-erklart/"><u>Freiherstellen Von Filmdateien Auf DVD Für Windows 10 & macOS Nutzer – Einfache Methoden Erklärt</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-note-30-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Note 30 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a60s-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60s in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-mini-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 mini without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-effortless-webm-to-mp3-conversion-top-10-converter-reviews/"><u>New In 2024, Effortless WebM to MP3 Conversion Top 10 Converter Reviews</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-ultimate-hoops-experience-with-nba-2k19-official-game-of-the-season/"><u>The Ultimate Hoops Experience with NBA 2K19 - Official Game of the Season</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-itel-a70-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Itel A70 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-ultimate-guide-to-3d-animation-software-free-paid-and-everything-in-between/"><u>Updated In 2024, Ultimate Guide to 3D Animation Software Free, Paid, and Everything in Between</u></a></li>
 </ul></div>
 

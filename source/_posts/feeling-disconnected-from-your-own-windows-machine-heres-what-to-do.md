@@ -1,7 +1,7 @@
 ---
 title: Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
-date: 2025-01-16T17:21:35.122Z
-updated: 2025-01-21T16:21:58.504Z
+date: 2025-01-22T11:47:35.438Z
+updated: 2025-01-28T19:35:30.387Z
 tags:
   - deals
 categories:
@@ -19,15 +19,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  An operating system is the most personal part of a "personal" computer, and it used to be that as a Windows user I didn't feel like I was renting my computer from Microsoft, but in recent years that feeling has all but evaporated. To me, Windows feels cheaper and more commercial than ever, and that's not a recipe for a good user experience.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Offline Glory Days of Windows
 
  The first version of Windows I ever used, coming from MS-DOS, was Windows 3.1\. While Windows 3.1 might look incredibly primitive today, it's hard to explain just how big of a leap this was for a kid who had to memorize the Command Line instructions just to play some games. Things didn't really kick off for me until Windows 95 and our first taste of the internet, but even then, 99% of my Windows time up until Windows 7 was spent disconnected from the net.
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
@@ -37,10 +37,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Jerome Thomas / How-To Geek
 
  If you bought a laptop or a pre-built computer you probably didn't think much about the price of Windows, but the fact is that Windows has never been an inexpensive operating system. As someone who has almost always built their own computer, I'm keenly aware that this software cost a significant amount of money. Which is why I and many other people were a little irked when Windows started introducing [advertising](https://instagram-video-files.techidaily.com/updated-a-curated-list-of-happiness-crying-combo-on-instagram-pages/) and writing guides on [how to turn off advertising in Windows](https://screen-mirror.techidaily.com/how-to-cast-apple-iphone-14-to-chromecast-drfone-by-drfone-ios/) became a popular new pastime for us tech bloggers.
@@ -48,7 +44,7 @@ Jerome Thomas / How-To Geek
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Updates Breaking My PC
@@ -62,12 +58,16 @@ Jerome Thomas / How-To Geek
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -77,15 +77,15 @@ Sergio Rodriguez / How-To Geek
 
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Linux Respects Its Users
 
  The other major player here is of course Linux in all its varied distributions. Here you are literally getting the operating system for free. The closest that a distro of Linux has come to punting ads was when plugs for software showed up in the [Ubuntu Message of the Day](https://www.reddit.com/r/linux/comments/hfs4v9/ubuntu%5Fis%5Fputting%5Fads%5Fin%5Ftheir%5Fmotd%5Fnow/) and more recently a sort-of "ad" for [Ubuntu Pro](https://www.omgubuntu.co.uk/2022/10/ubuntu-pro-terminal-ad) in the terminal. If anyone knows of other examples of native ads in a Linux distro, I'd love to hear about it in the comments.
 
  I've had an on-again-off-again relationship with Linux over the years, and daily drove it during seven years of university, and never did I feel that I was being exploited or not in control. In fact, I was probably in too much control, which is why you can break Linux in so many creative ways just by being a dummy.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can Windows Make a Comeback?
 
@@ -110,16 +110,22 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-smirk-stash-ultimate-guide-to-free-meme-templates/"><u>[Updated] In 2024, Smirk Stash Ultimate Guide to FREE Meme Templates</u></a></li>
-<li><a href="https://network-issues.techidaily.com/balance-windows-11-desktop-size-preferences/"><u>Balance Windows 11 Desktop Size Preferences</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nubia-red-magic-9-proplus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/decoding-the-economic-riches-of-mr-beast/"><u>Decoding the Economic Riches of Mr. Beast</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-pro-max-with-or-without-password-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 Pro Max With or Without Password</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-80-pro-straight-screen-edition-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor 80 Pro Straight Screen Edition If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-honor-magic-5-lite-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Honor Magic 5 Lite Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techidaily.com/remove-lock-screen-without-password-find-x7-ultra-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(Find X7 Ultra)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-power-of-video-endorsements-in-advertising/"><u>The Power of Video Endorsements in Advertising</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-reno-11-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Reno 11 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-13-mini-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 13 mini takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-strategic-insightfulness-comparing-your-channel-to-competitors-crafts/"><u>[New] Strategic Insightfulness Comparing Your Channel to Competitors' Crafts</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/hering-youtubes-new-earning-standards/"><u>Deciphering YouTube's New Earning Standards</u></a></li>
+<li><a href="https://some-tips.techidaily.com/fall-innovations-on-apple-products-find-out-whats-new-for-iphone-ipad-and-mac-from-advanced-ai-integration-zdnet-report/"><u>Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration | ZDNET Report</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-google-pixel-8-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Google Pixel 8 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-narrative-wordsmithing-weaving-a-story-through-speech/"><u>In 2024, Narrative Wordsmithing Weaving a Story Through Speech</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-assessment-of-nook-glowlight-4-reviews-and-features/"><u>In-Depth Assessment of Nook GlowLight 4: Reviews & Features</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/secrets-of-successful-unboxing-reels-a-compreenasium-guide-for-2024/"><u>Secrets of Successful Unboxing Reels A Compreenasium Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-find-x7-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo Find X7</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-zoom-screen-recorders-for-2024/"><u>The Ultimate Guide to Zoom Screen Recorders for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-14-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi 14 Pro</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/transferring-your-contacts-a-step-by-step-guide-from-itunes-backup-to-iphone/"><u>Transferring Your Contacts: A Step-by-Step Guide From iTunes Backup to iPhone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c300-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C300.</u></a></li>
 </ul></div>
 

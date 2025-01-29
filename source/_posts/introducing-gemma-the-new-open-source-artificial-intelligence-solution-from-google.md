@@ -1,7 +1,7 @@
 ---
 title: "Introducing Gemma: The New Open-Source Artificial Intelligence Solution From Google"
-date: 2025-01-18T20:16:46.160Z
-updated: 2025-01-21T16:07:01.955Z
+date: 2025-01-28T13:36:09.250Z
+updated: 2025-01-29T13:53:26.452Z
 tags:
   - cutting-edge
 categories:
@@ -42,28 +42,22 @@ Google is now offering [Gemma 2B and 7B](https://blog.google/technology/develope
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-digital-cashmans-codex-flourishing-on-youtube-free-from-ads/"><u>[New] In 2024, The Digital Cashman's Codex Flourishing on YouTube, Free From Ads</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-deep-dive-into-the-core-functionalities-of-zdsoft-for-2024/"><u>[Updated] Deep Dive Into the Core Functionalities of ZDSoft for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-igtv-broadcasts-to-facebook-explained-for-2024/"><u>[Updated] IGTV Broadcasts to Facebook Explained for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pixelpeek-presenters-paper/"><u>[Updated] In 2024, PixelPeek Presenter's Paper</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-premium-recording-application-chromebook-focus/"><u>2024 Approved Premium Recording Application Chromebook Focus</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/five-no-cost-methods-to-restore-your-accidentally-trashed-documents/"><u>Five No-Cost Methods to Restore Your Accidentally Trashed Documents</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-v27-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo V27 Pro Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x8b-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X8b If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-tecno-spark-20c-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Tecno Spark 20C to iPad | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-platformers-top-six-unmissable-super-mario-games-on-computers/"><u>Mastering Platformers: Top Six Unmissable Super Mario Games on Computers</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2023-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2023 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-strategies-for-overcoming-the-wolcen-game-starter-bug/"><u>Solution Strategies for Overcoming the Wolcen Game Starter Bug</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme 12 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-red-magic-8s-proplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Red Magic 8S Pro+</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-a-comprehensive-guide-to-ps3-gameplay-recording-for-2024/"><u>[New] A Comprehensive Guide to PS3 Gameplay Recording for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-android-9-youtube-download-apps/"><u>[New] The Ultimate Guide to Android 9 YouTube Download Apps</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-expert-reviews-top-5-high-performance-video-devices/"><u>[Updated] Expert Reviews Top 5 High-Performance Video Devices</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/catch-the-discounted-wave-at-amazon-secure-an-8tb-samsung-t5-nvme-for-just-36-off-after-prime-day-zdnets-exclusive-review/"><u>Catch the Discounted Wave at Amazon! Secure an 8TB Samsung T5 NVMe for Just 36% Off After Prime Day – ZDNET's Exclusive Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-tutorial-on-restoring-default-settings-in-dell-machines/"><u>Complete Tutorial on Restoring Default Settings in Dell Machines</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-honor-x50iplus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Honor X50i+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-xr-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone XR Space | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-the-ultimate-guide-to-adjusting-colors-in-gopro-video/"><u>In 2024, The Ultimate Guide to Adjusting Colors in GoPro Video</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-x9a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X9a working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-poco-c51-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco C51 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2016-file-not-opening-error-stellar-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2016 File Not Opening Error | Stellar</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/uploading-maximum-length-videos-successfully-on-instagram-for-2024/"><u>Uploading Maximum-Length Videos Successfully on Instagram for 2024</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 

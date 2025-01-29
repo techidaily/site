@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment"
-date: 2025-01-09T16:04:04.453Z
-updated: 2025-01-15T20:02:50.153Z
+date: 2025-01-23T14:44:59.393Z
+updated: 2025-01-29T00:15:25.404Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 ---
 
 ## Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -23,15 +27,15 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 * [Learning ShellGPT Commands](https://remote-screen-capture.techidaily.com/updated-2024-approved-maximizing-play-in-apex-legends-without-cross-platform-limitations/)
 * ["In Conclusion"](https://tech-revival.techidaily.com/elevate-your-coding-game-with-costless-gpt-4-turbo-on-copilot-platforms/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
  If you want to run ChatGPT in the Ubuntu terminal, you can use a Python program called ShellGPT to send text prompts to ChatGPT and display the response. To run ShellGPT you must install it and obtain a ChatGPT API key.
 
  Want to use the ChatGPT in a terminal window on your Ubuntu Linux PC? ShellGPT lets you use all the features of the famous AI chatbot, on the command line. Here's how to set ShellGPT up and start using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Is ShellGPT?
 
@@ -48,7 +52,7 @@ Related: [How to Run a ChatGPT-like AI on Your Own PC](https://tech-revival.tech
  None of the following steps are difficult, and you should be up and running in ten minutes or so.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Install the Python Tools
@@ -69,19 +73,11 @@ pip --version
 
 ![Checking the version of pip in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2-6.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It wasn't installed on our test computer, so we added it using `apt`.
 
 sudo apt install python3-pip
 
 ![Installing pip on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/3-5.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  We're going to install ShellGPT in a [Python virtual environment](https://docs.python.org/3/library/venv.html). This sandboxes ShellGPT from your system Python files and libraries, and means it cannot accidentally interfere with your other Python programs. It's just a safe precaution.
 
@@ -90,6 +86,10 @@ sudo apt install python3-pip
 sudo apt install python3-venv
 
 ![Installing the Python virtual environment module on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/4-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 2: Prepare a Python Virtual Environment
 
@@ -101,19 +101,11 @@ cd shellgpt
 
 ![Creating the shellgpt directory](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/5-5.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, we use the `-m` (module) option and run the Python virtual environment module and create a new virtual environment inside our new directory. We created one called "shellgpt."
 
 python3 -m venv shellgpt
 
 ![Generating the shellgpt virtual environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/6-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This gives us a private, virtual environment called "shellgpt", inside our "shellgpt" directory. To activate it we need to run a script called "activate." This is located in the "bin" directory of our virtual environment.
 
@@ -133,6 +125,10 @@ source shellgpt/bin/activate
 
 ![The ChatGPT account menu with the "View API Keys" option highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/7a.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the API keys web page, click the "Create New Secret Key" button.
 
 ![The ChatGPT "Create new secret key" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/8-6.png) 
@@ -140,10 +136,6 @@ source shellgpt/bin/activate
  Type in a name for your key---it can be anything---and then click the green "Create Secret Key" button.
 
 ![providing a name for the API key, with the "Create secret key" button highlghited](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/9-3.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Your new key is displayed to you. **You only get to see your key this one time**. If you log out and back in, you'll see an entry for the key, but you won't be able to view the entire key string. So, copy the key and paste it into an editor, and save the file with an obvious name.
 
@@ -158,7 +150,7 @@ export OPENAI_API_KEY=<your secret API key>
 ![Exporting the ChatGPT API key on the command line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/10-4.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To put the export command in your ".bashrc" file, use your favorite editor and add the command to your file.
@@ -166,6 +158,10 @@ export OPENAI_API_KEY=<your secret API key>
 gedit ~/.bashrc
 
 ![Adding the export ChatGPT line to the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/11-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Save your changes and close the editor. To force your terminal session to reread your ".bashrc" file, use the `source` command.
 
@@ -181,10 +177,6 @@ python pip shell-gpt
 
 ![Using pip to install the shell-gpt module](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/13-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The installation will begin, and a variety of package names will scroll by in your terminal window.
 
 ![Output during the installation of the shell-gpt module](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/14-2.png) 
@@ -198,6 +190,10 @@ python pip shell-gpt
 sgpt "Who is Thursday named after?"
 
 ![Using the sgpt command to send input to ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/16-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ShellGPT acts as the middleman between us and ChatGPT, and displays the response from ChatGPT.
 
@@ -223,6 +219,10 @@ chatgpt
 
 ![Using the chatgpt alias to access ShellGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/19-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Learning ShellGPT Commands
 
  The [ShellGPT GitHub page](https://github.com/TheR1D/shell%5Fgpt) has much more information on using ShellGPT and its command line options.
@@ -233,15 +233,15 @@ sgpt "Show me an example of a recursive function in C"
 
 ![Using ChatGPT to generate a recursive function in C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/20-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By adding the `--code` option, the description is suppressed. This would be handy if you want to redirect the output into a file.
 
 sgpt --code "Show me an example of a recursive function in C"
 
 ![Using ChatGPT to generate a recursive function in C, with the --code option so only the function code is displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/21-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ShellGPT, through ChatGPT, can also generate [syntax-correct Bash commands and shell scripts](https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/).
 
@@ -268,22 +268,16 @@ sgpt --code "Show me an example of a recursive function in C"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/esigning-effective-video-previews-for-channels-for-2024/"><u>[New] Designing Effective Video Previews for Channels for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-finding-premium-free-music-without-breaking-copyrights-for-2024/"><u>[New] Finding Premium, Free Music Without Breaking Copyrights for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-pushing-limits-with-vr-which-console-and-controller-fits-best-for-2024/"><u>[New] Pushing Limits with VR Which Console and Controller Fits Best for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-reign-supreme-on-facebook-mastering-keyword-seo-techniques/"><u>[Updated] In 2024, Reign Supreme on Facebook Mastering Keyword SEO Techniques</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-art-of-playlist-portability-service-to-service-swap/"><u>[Updated] The Art of Playlist Portability Service to Service Swap</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-classroom-documentation-choose-the-best-screen-recorder/"><u>2024 Approved Efficient Classroom Documentation Choose the Best Screen Recorder</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-profit-strategies-for-vimeo-content-creators/"><u>2024 Approved Mastering Profit Strategies for Vimeo Content Creators</u></a></li>
-<li><a href="https://techidaily.com/child-friendly-timepiece-by-t-mobile-a-monthly-bargain-at-12/"><u>Child-Friendly Timepiece by T-Mobile - A Monthly Bargain at $12!</u></a></li>
-<li><a href="https://techidaily.com/comparing-samsung-galaxy-watch-series-ultra-vs-watch-active-2-key-features-and-specifications/"><u>Comparing Samsung Galaxy Watch Series: Ultra Vs. Watch Active 2 - Key Features and Specifications</u></a></li>
-<li><a href="https://techidaily.com/easy-steps-to-adjust-image-dimensions-on-your-iphoneipad/"><u>Easy Steps to Adjust Image Dimensions on Your iPhone/iPad</u></a></li>
-<li><a href="https://techidaily.com/enhanced-browsing-experience-google-chrome-upgrades-with-improved-web-search-and-live-sports-results/"><u>Enhanced Browsing Experience: Google Chrome Upgrades with Improved Web Search & Live Sports Results</u></a></li>
-<li><a href="https://techidaily.com/experience-the-cutting-edge-exploring-googles-latest-innovations-with-the-pixel-9-series-pixel-9-pro-foldable-display-pixel-watch-gen-3-and-updated-pixel-bu44/"><u>Experience the Cutting-Edge: Exploring Google's Latest Innovations with the Pixel 9 Series, Pixel 9 Pro Foldable Display, Pixel Watch Gen 3, and Updated Pixel Buds Pro</u></a></li>
-<li><a href="https://techidaily.com/experience-the-new-era-of-apples-ai-capabilities-beta-review/"><u>Experience the New Era of Apple's AI Capabilities – Beta Review</u></a></li>
-<li><a href="https://techidaily.com/exploring-how-iphones-dominate-the-world-of-mobile-video/"><u>Exploring How iPhones Dominate the World of Mobile Video</u></a></li>
-<li><a href="https://techidaily.com/galaxy-watch-ultra-vs-apple-watch-ultra-comparing-unique-styles-with-identical-functionality/"><u>Galaxy Watch Ultra Vs. Apple Watch Ultra: Comparing Unique Styles with Identical Functionality</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-get-audio-working-in-avidemux-proven-solutions/"><u>In 2024, Get Audio Working in Avidemux Proven Solutions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Itel S23? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>[New] In 2024, Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>[New] The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-transform-tweets-converting-video-to-gifs-at-no-cost/"><u>[New] Transform Tweets Converting Video to GIFs at No Cost</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-connectivity-techkey-bluetooth-adapter-drivers-for-windows-10-7-and-8-free-downloads-available/"><u>Effortless Connectivity: Techkey Bluetooth Adapter Drivers for Windows 10, 7 & 8 – Free Downloads Available</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your HTC U23 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c67-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C67 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 Plus System? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y27-4g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y27 4G</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-zte-blade-a73-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of ZTE Blade A73 5G on Mac?</u></a></li>
 </ul></div>
 

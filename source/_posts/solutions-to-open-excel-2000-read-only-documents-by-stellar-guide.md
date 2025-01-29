@@ -1,6 +1,6 @@
 ---
 title: Solutions to open Excel 2000 Read Only Documents
-date: 2024-09-21T00:35:39.567Z
+date: 2025-01-26T10:16:28.293Z
 tags: 
   - repair
   - repair excel
@@ -18,6 +18,10 @@ keywords: repair .xltx,repair .xlsx,repair excel 2013,repair .xls,repair excel 2
 
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
 There could be several reasons that may cause the error. Some of them are as follows:
@@ -31,6 +35,10 @@ There could be several reasons that may cause the error. Some of them are as fol
 - Protected Excel workbook
 - Damaged or missing MS Office (MS Excel) program files
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Solutions to Open and Edit Read-Only Excel Documents
 
 Below are a few solutions that can help you fix the 'Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted' error and allow you to open and edit Excel documents.
@@ -43,19 +51,6 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
   - Uncheck the '**Read-only'** attribute and then click the '**OK'** button.
 
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now try to open the Excel document and check if the problem is fixed.
 
@@ -72,6 +67,10 @@ To safeguard the system, MS Excel opens such files in **Protected View**. It may
 However, you can click **File > Info** and then click '**Edit Anyway**' to access and edit file content. You may also disable the **Protected View** setting via **_File > Options > Trust Center > Trust Center Settings…> Protected View._** However, we do not recommend this.
 
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Renew/Activate Microsoft Office**
 
@@ -104,16 +103,7 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
@@ -121,10 +111,7 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After the Repair, open the Excel workbook and check if the error is resolved.
@@ -136,13 +123,6 @@ The error message may also appear if you access an Excel workbook from a network
 - **Repair MS Excel File**
 
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -163,5 +143,24 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-10-secrets-to-conquering-your-target-audience-with-tiktok/"><u>[New] In 2024, 10 Secrets to Conquering Your Target Audience with TikTok</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-strategizing-live-broadcasts-turn-your-recordings-into-facebook-hits/"><u>[Updated] 2024 Approved Strategizing Live Broadcasts Turn Your Recordings Into Facebook Hits</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-the-ultimate-drone-enhancement-list-for-dji-phantom-4/"><u>[Updated] In 2024, The Ultimate Drone Enhancement List for DJI Phantom 4</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-optimal-strategy-for-broadcasting-via-obs-on-fb-live-for-2024/"><u>[Updated] Optimal Strategy for Broadcasting via OBS on FB Live for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-vivo-y27-5g-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Vivo Y27 5G FRP</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/fintie-protective-case-for-macbook-pro-13-review/"><u>Fintie Protective Case for MacBook Pro 13 Review</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-pova-5-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A15 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6s-plus-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6s Plus System Issues? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-craft-your-study-of-the-past-with-these-top-10-channels/"><u>In 2024, Craft Your Study of the Past with These Top 10 Channels</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-x50i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor X50i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-motorola-lock-screen-without-passwordmotorola-by-drfone-android-unlock-android-unlock/"><u>Remove Motorola Lock Screen without Password(Motorola )</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-a58-4g-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo A58 4G</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi A2 can’t play AVCHD .mts video</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia G42 5G | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Windows Memory Leakage Is Expanding Computer Storage Needs
-date: 2025-01-16T01:35:53.731Z
-updated: 2025-01-21T22:27:01.527Z
+date: 2025-01-27T06:33:33.893Z
+updated: 2025-01-29T06:33:36.919Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## How Windows Memory Leakage Is Expanding Computer Storage Needs
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,17 +23,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows Recall comes at a cost—and it's measured in gigabytes! As Copilot+ PCs hit the market, users may face a storage crunch, with the feature consuming up to 150 GB. But, practically speaking, how much space will you actually lose if you enable Recall to navigate your digital past?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What Is Windows Recall?
 
  Microsoft is releasing a new line of AI-powered laptops called [Copilot+ PCs](https://instagram-videos.techidaily.com/optimize-your-instagram-media-flow-desktopmobile-for-2024/) and one of its features is called [Windows Recall](https://youtube-help.techidaily.com/2024-approved-from-vision-to-value-an-all-inclusive-guide-on-analyzing-views-clicks-and-monetization/). It automatically captures snapshots of your screen activity, and then allows you to find or "recall" what you were doing using AI. For example, you can search for "Goat Cheese Pizza" and Recall will contextually scan through all the snapshots and showcase the website or app where there were instances matching your search query.
 
 ![Microsoft Recall demonstration searching for Goat Chesse Pizza](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/microsoft-recall-demonstration-searching-for-goat-chesse-pizza.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [Microsoft](https://support.microsoft.com/en-us/windows/retrace-your-steps-with-recall-aa03f8a0-a78b-4b3e-b0a1-2eb8ac48701c)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Windows Recall: An Overview of Storage Requirements
 
@@ -58,10 +62,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Windows Recall isn’t just about allocating space for the automatic snapshots. It also uses locally installed AI to analyze the snapshots and create a timeline of your activity. This means even if you disable Recall and don’t allocate any storage to it, you’ll still lose a chunk of your storage to the [local AI](https://eaxpv-info.techidaily.com/new-in-2024-guide-to-idevice-based-youtube-content-sharing/), including the Recall app.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Usable Storage Space on Recall-Compatible Copilot+ PCs
 
  On a 512 GB Copilot+ PC, you get 474 GB of available storage (which is standard) out of which 30 GB is allocated to the operating system and 14 GB to the system files.
@@ -75,10 +75,6 @@ Close
  So, if you’re buying a Copilot+ PC, note that the operating system is going to be bulkier as it needs to allocate space for all the new AI features, including Recall. Also, if you intend to use the feature, you’ll need to allocate anywhere between 10-150 GB for storing the snapshots.
 
  The total amount of space you allocate will determine how many snapshots you can store, equating to how far back you can “recall.” I personally doubt that 10 GB of storage allocation will give you a meaningful amount of Recall history. Practically, I think people will want to have access to at least 30 days of activity. So I ran the numbers, and you’d be surprised at just how much space the snapshots can eat up.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How Much Storage for 1 Hour of Recall
 
@@ -104,7 +100,7 @@ Close
  Recall only saves a snapshot if the content on the screen is different from the previous snapshot. So it won’t bulk up your storage when you aren’t using your PC or if you’ve paused the feature. You can also stop Recall from taking snapshots by [following this guide](https://mondly-stories.techidaily.com/enlightening-the-future-one-language-at-a-time/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  So, How Much Storage Do You Have For Yourself?
@@ -126,6 +122,10 @@ Close
 | **User Available Storage Space**               | **173 GB**         | **374 GB** |
 
  Considering these numbers and how large modern apps are getting, a 256 GB Copilot+ PC is just impractical and a 512 GB model debatable—only recommended if you don’t run heavy apps or play games.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Should You Buy a Higher Storage Model of a Copilot+ PC?
 
@@ -150,24 +150,18 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-tactical-steps-to-download-securely-free-vlc-media-on-mac/"><u>[New] Tactical Steps to Download Securely Free VLC Media on MAC</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] 2024 Approved ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-step-by-step-mobile-thumbnail-creation-for-compelling-youtube-content/"><u>[Updated] 2024 Approved Step by Step Mobile Thumbnail Creation for Compelling YouTube Content</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cost-breakdown-of-replacing-your-evs-power-source/"><u>Cost Breakdown of Replacing Your EV's Power Source</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-13-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi 13 Ultra | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-11-pro-max-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 11 Pro Max Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-feast-filming-101-essential-food-videography-skills/"><u>In 2024, Feast Filming 101 Essential Food Videography Skills</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-oneplus-12r-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your OnePlus 12R Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/in-2024-wrap-up-wisdom-for-media-masters/"><u>In 2024, Wrap-Up Wisdom for Media Masters</u></a></li>
-<li><a href="https://games-able.techidaily.com/mending-steam-library-linking-issues/"><u>Mending Steam Library Linking Issues</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-x5-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-v30t-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-battlefield-2042s-pc-crash-problems/"><u>Troubleshooting Guide: Resolving Battlefield 2042'S PC Crash Problems</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-asus-rog-phone-7-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Asus ROG Phone 7.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-v-purse-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor V Purse on Windows?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1726227646940-mp3m4a-movavi/"><u>ウレロ? MP3とM4Aの音楽ファイルを効率よく変換する: Movavi無料ツール</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-excellent-typography-trick-sets/"><u>[New] Excellent Typography Trick Sets</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beginners-tutorial-setting-up-your-youtube-presence/"><u>[Updated] 2024 Approved Beginner's Tutorial Setting Up Your YouTube Presence</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-10-ways-to-convert-youtube-to-mpeg/"><u>[Updated] Best 10 Ways to Convert YouTube to MPEG</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-secrets-of-windows-10-effortless-media-importation-methods/"><u>[Updated] In 2024, Secrets of Windows 10 Effortless Media Importation Methods</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-peering-into-the-world-of-luts-and-their-effect-on-pixels/"><u>[Updated] Peering Into the World of LUTs and Their Effect on Pixels</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-top-mobile-video-assembly-software-for-smartphones-for-2024/"><u>[Updated] Top Mobile Video Assembly Software for Smartphones for 2024</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-pro-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Pro Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-v30t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme V30T Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-the-secrets-of-selecting-a-powerful-podcast-name/"><u>In 2024, Unlocking the Secrets of Selecting a Powerful Podcast Name</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-magic-5-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Magic 5 Pro on Mac</u></a></li>
+<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2010-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2010 File Error</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-nokia-c02-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/will-samsung-galaxy-s24-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Samsung Galaxy S24 play AVCHD mts files?</u></a></li>
 </ul></div>
 

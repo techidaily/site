@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2025-01-15T20:20:22.982Z
-updated: 2025-01-21T16:16:23.339Z
+date: 2025-01-24T22:41:24.975Z
+updated: 2025-01-29T12:09:25.244Z
 tags:
   - deals
 categories:
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  A Windows PC that seems easy to use for you might be quite challenging for someone who is a beginner or isn’t tech-savvy. If you're setting up a new device for a first-time user or passing along your laptop to them, it's essential to make it user-friendly. Here are a few things you can do for them.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1  Make the Login Process Easier 
 
  When setting up a Windows device for a non-tech-savvy user, the first step is to simplify the login process. Choose a password that is easy for them to remember, or set up a login PIN, which is often easier to recall and enter. If the device supports it, you can also [enable Windows Hello for facial recognition or fingerprint login](https://extra-tips.techidaily.com/updated-capturing-brilliance-essential-angles-in-iphone-photography/) to streamline the process further.
@@ -44,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 3  Pin Frequently Used Apps to the Taskbar 
 
  Web browsers, email clients, word processors, and media players are some of the frequently used apps that the person you're setting up the Windows device for will likely use often. While they can search for the required app in Windows Search, you can [pin these apps to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/) for easier access.
@@ -57,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
@@ -72,13 +68,13 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
  One option is OneDrive, though it only backs up specific folders. For more thorough backups, [consider a premium backup service like Backblaze](https://audio-shaping.techidaily.com/in-2024-probing-sound-clarity-an-updated-analysis-of-cambridges-cxu-series/) that can back up their entire computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5  Foolproof the System's Security 
 
 ![A hand increasing the security level using a knob.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/a-hand-increasing-the-security-level-using-a-knob.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
   
 Lucas Gouveia / How-To Geek | Shutterstock.AI
@@ -87,21 +83,25 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
 
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 7  Customize Screen Element Sizes to Their Preferences 
 
  Check with the person to see if they’re comfortable with the default size of text, icons, mouse cursor, and other display elements. If not, adjust the display settings according to their preferences. To do this, right-click the Start button and select "Settings." Then, go to System > Display and modify the Scale and Display Resolution.
 
 ![Changing scale and resolution in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-scale-and-resolution-in-the-settings-app-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
@@ -112,7 +112,7 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 ![Enabling the magnifier, narrator and captions in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/5-enabling-the-magnifier-narrator-and-captions-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8  Teach Them Basic Windows Actions 
@@ -140,22 +140,15 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-unveiling-the-simple-path-to-video-conversations-on-snapchat/"><u>[New] 2024 Approved Unveiling the Simple Path to Video Conversations on Snapchat</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-decoding-toolwizs-capabilities-in-mobile-photo-editing/"><u>[New] In 2024, Decoding Toolwiz's Capabilities in Mobile Photo Editing</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-procedure-of-ending-linkedin-services-and-deletion-process/"><u>[New] Procedure of Ending LinkedIn Services and Deletion Process</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-assessing-64128gbs-video-storing-potential/"><u>[Updated] 2024 Approved Assessing 64/128GB's Video-Storing Potential</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-unveiling-dji-phantom-3-a-complete-technical-review/"><u>[Updated] In 2024, Unveiling DJI Phantom 3 A Complete Technical Review</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-subdued-to-striking-the-art-of-post-color-correction/"><u>From Subdued to Striking The Art of Post-Color Correction</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-s23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-14-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-issues-of-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System Issues of Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g13-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G13 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-xs-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17-pro-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17 Pro to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/resolving-network-connectivity-problems-a-step-by-step-guide-from-yl-computings-experts/"><u>Resolving Network Connectivity Problems: A Step-by-Step Guide From YL Computing's Experts</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/top-40-free-streaming-films-exclusive-4k-quality-from-hits-of-hollywood-and-bollywood/"><u>Top 40 Free Streaming Films - Exclusive 4K Quality From Hits of Hollywood and Bollywood</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-nokia-c12-pro-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Nokia C12 Pro</u></a></li>
-<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-y100i-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo Y100i)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-effortless-capture-of-virtual-meeting-footage-on-pcs-for-2024/"><u>[New] Effortless Capture of Virtual Meeting Footage on PCs for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-record-internal-audio-on-android-video-or-gameplay/"><u>[New] In 2024, How to Record Internal Audio on Android [Video or Gameplay]</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-budget-friendly-methods-for-youtube-card-creation/"><u>2024 Approved Budget-Friendly Methods for YouTube Card Creation</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-v29-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo V29 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-12-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 12 Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-play-8t-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-investing-successfully-with-a-makeup-channel/"><u>In 2024, Investing Successfully with a Makeup Channel</u></a></li>
+<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Motorola Edge 40 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-best-electronic-signature-way-to-sign-dotx-file-documents-online-by-ldigisigner-sign-a-word-sign-a-word/"><u>The best electronic signature way to sign .dotx file documents online</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 11 & 10</u></a></li>
 </ul></div>
 

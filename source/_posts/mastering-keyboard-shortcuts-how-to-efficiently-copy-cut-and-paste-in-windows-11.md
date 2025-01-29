@@ -1,7 +1,7 @@
 ---
 title: "Mastering Keyboard Shortcuts: How to Efficiently Copy, Cut, and Paste in Windows 11"
-date: 2025-01-16T01:26:36.435Z
-updated: 2025-01-22T00:56:11.153Z
+date: 2025-01-22T01:31:36.540Z
+updated: 2025-01-28T16:45:51.671Z
 tags:
   - deals
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 * [How to Copy, Cut, and Paste Using Application Menus](https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-g310-by-fonelab-android-recover-data/)
 * [How to Empty Your Clipboard](https://facebook-clips.techidaily.com/new-2024-approved-the-insiders-look-at-creating-viral-fb-cover-videos/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Key Takeaways
 
 * Copy, cut, and paste are fundamental operations in Windows 10 and Windows 11 that allow you to duplicate or move information between locations.
@@ -33,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
  Copy, cut, and paste are three basic operations that every Windows 10 and 11 user should know by heart. The concepts behind them apply to nearly every application you'll ever use. Here's how they work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Does the Clipboard Work? 
@@ -50,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/9827a92b9acfe7ff5ad59fca7934fb301cf15e62d
 
  That means you typically use copy to duplicate information, and cut to move the information from one location to another. These fundamental concepts apply across almost every application, so let's go over the various different ways to copy, cut, and paste in Windows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Copy, Cut, and Paste Using Keyboard Shortcuts
 
 ![Microsoft Cut, Paste, and Copy icons](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/copy_paste_cut_icons.png) 
@@ -65,22 +65,22 @@ Microsoft
 [These shortcuts now work in Windows 10's Command Prompt](https://tech-renaissance.techidaily.com/top-4-twitter-apps-for-easily-tracking-and-engaging-in-trending-topics/), too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Alternative Copy, Cut, and Paste Keyboard Shortcuts
 
  If you need to copy in a program that interprets Ctrl+C as a break character (such as a terminal emulator), you can use Ctrl+Insert instead. To cut, use Shift+Delete. To paste, press Shift+Insert. These shortcuts aren't as commonly used today, but they are still almost universally recognized in Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Copy, Cut, and Paste Using Right-Click
 
  In many programs, you can copy, cut, and paste using the right button on your mouse. First, select an element of a document (such as a web page), then right-click, and you'll likely see a context menu that includes Copy or Cut commands.
 
 ![Right-click and image and select "Copy Image."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then right-click in a destination document and select Paste to put the contents of the Clipboard in that location.
 
@@ -97,7 +97,7 @@ Microsoft
  The files you just Cut or Copied will appear in the new location. Very handy!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Copy, Cut, and Paste Using Application Menus
@@ -106,15 +106,15 @@ Microsoft
 
 ![Copy, Cut, and Paste in a typical Windows Ribbon Interface](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/aribbon_copy.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In programs with compressed or hamburger-style menus (like Chrome and Firefox), you can often find the Copy/Cut/Paste functions in a section labeled Edit.
 
 ![Copy, Cut, and Paste in Chrome's Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/05/chrome_menu_copy.png) 
 
  Also, many older Windows programs include a series of drop-down menus at the top of the application window. Among them, you'll often find a menu titled Edit (which you can often call up by pressing Alt+E). In that menu, you can usually find Copy, Cut, and Paste commands.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Empty Your Clipboard
 
@@ -143,16 +143,15 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-revolutionizing-audience-retention-on-youtube-with-these-top-6-techniques/"><u>[New] 2024 Approved Revolutionizing Audience Retention on YouTube with These Top 6 Techniques</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-creative-reactors-the-10-premier-video-responses-for-2024/"><u>[New] Creative Reactors The 10 Premier Video Responses for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-deciphering-youtubes-cc-policy-for-video-makers/"><u>[New] In 2024, Deciphering YouTube's CC Policy for Video Makers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-boost-views-and-engagement-top-rated-online-keyword-generators-for-2024/"><u>[Updated] Boost Views and Engagement Top-Rated Online Keyword Generators for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-bypassing-detection-for-instagram-story-insights-pcandroidios-for-2024/"><u>[Updated] Bypassing Detection for Instagram Story Insights - PC/Android/iOS for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-dissecting-and-defeating-dreadful-greenscreen-a-mac-editors-directive/"><u>[Updated] In 2024, Dissecting & Defeating Dreadful Greenscreen A Mac Editor's Directive</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-hardware-with-toms-in-depth-technology-guides/"><u>Mastering Hardware with Tom's In-Depth Technology Guides</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-v29e-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of V29e on Mac</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-itel-p55-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Itel P55 5G | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-from-silence-to-soundscape-step-by-step-in-audition/"><u>[New] In 2024, From Silence to Soundscape Step-by-Step in Audition</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-iphone-slow-motion-shooting-essentials-for-2024/"><u>[New] IPhone Slow Motion Shooting Essentials for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/uick-fortnite-tile-sketch-a-30-second-guide-for-2024/"><u>[New] Quick Fortnite Tile Sketch A 30-Second Guide for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-seamless-audiovisual-mixes-in-audacity/"><u>2024 Approved Crafting Seamless Audiovisual Mixes in Audacity</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y27-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y27 4G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-x-fold-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo X Fold 2 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-effortlessly-rip-films-from-back-to-the-future-dvd-set-using-makemkv-complete-solution-inside/"><u>How to Effortlessly Rip Films From 'Back to the Future' DVD Set Using MakeMKV: Complete Solution Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-s23-fe-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy S23 FE Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-xr21-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-make-music-without-spending-a-dime-10-best-free-recording-software/"><u>Updated In 2024, Make Music Without Spending a Dime 10 Best Free Recording Software</u></a></li>
 </ul></div>
 

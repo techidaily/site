@@ -1,6 +1,6 @@
 ---
 title: Solutions to open Excel 2016 Read Only Documents
-date: 2024-09-19T17:06:50.103Z
+date: 2025-01-26T17:54:39.125Z
 tags: 
   - repair
   - repair excel
@@ -18,6 +18,10 @@ keywords: repair .xls,repair excel 2003,repair .xlsm
 
 ![error message](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/error-message-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reasons behind the “Excel cannot access 'xxx.xls.' The Document may be read-only or encrypted” Error
 
 There could be several reasons that may cause the error. Some of them are as follows:
@@ -32,10 +36,7 @@ There could be several reasons that may cause the error. Some of them are as fol
 - Damaged or missing MS Office (MS Excel) program files
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Solutions to Open and Edit Read-Only Excel Documents
@@ -50,6 +51,10 @@ The 'Excel cannot open read-only documents' error message may appear when the Ex
   - Uncheck the '**Read-only'** attribute and then click the '**OK'** button.
 
 ![Illustrates the 'Read-only' attribute in Excel XLSX document](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/read-only-properties-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now try to open the Excel document and check if the problem is fixed.
 
@@ -66,13 +71,6 @@ To safeguard the system, MS Excel opens such files in **Protected View**. It may
 However, you can click **File > Info** and then click '**Edit Anyway**' to access and edit file content. You may also disable the **Protected View** setting via **_File > Options > Trust Center > Trust Center Settings…> Protected View._** However, we do not recommend this.
 
 ![Protected View](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/Protected-view-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Renew/Activate Microsoft Office**
 
@@ -104,22 +102,13 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 
 ![Change button](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/repair-ms-office-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Select Quick Repair and then click Repair to fix problems with MS Office and MS Excel. It will also restore any missing or damaged program files.
 
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After the Repair, open the Excel workbook and check if the error is resolved.
 
@@ -132,10 +121,7 @@ The error message may also appear if you access an Excel workbook from a network
 If none of the solutions worked, the Excel workbook could be damaged or corrupt. To repair such damaged Excel workbook or spreadsheet, you can use the inbuilt '**Open and Repair…**’ option in MS Excel or install an **[Excel repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**, such as Stellar Repair for Excel. The software comes in handy when the **Open and Repair** option fails to fix the Excel workbook problems. It repairs the corrupt or damaged Excel workbook, extracts all components and content from the file with 100% integrity, and saves them in a new Excel workbook.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -157,5 +143,21 @@ Sometimes, the 'Excel cannot open read-only documents' error can be resolved by 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easily-download-your-favorites-handpicked-tools-reviewed/"><u>[New] 2024 Approved Easily Download Your Favorites Handpicked Tools Reviewed</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-premium-5-video-capturing-web-devices/"><u>[New] In 2024, Premium 5 Video Capturing Web Devices</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-pro-film-quality-the-seven-top-cameras-for-action/"><u>[New] Pro Film Quality The Seven Top Cameras for Action</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/choosing-your-smartphone-wisely-iphone-vs-samsung-pick-the-right-fit/"><u>Choosing Your Smartphone Wisely: IPhone Vs. Samsung - Pick the Right Fit</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723011703577-get-the-edge-in-gaming-tackle-and-fix-frame-rate-dips-stop-stuttering-for-maximum-playtime-efficiency/"><u>Get the Edge in Gaming: Tackle and Fix Frame Rate Dips, Stop Stuttering for Maximum Playtime Efficiency</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 12 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-xr-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone XR Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-a-curated-selection-best-stop-motion-movies-ever-made/"><u>In 2024, A Curated Selection Best Stop-Motion Movies Ever Made</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-pro-excellence-through-fs-views/"><u>Premiere Pro Excellence Through FS Views</u></a></li>
+<li><a href="https://techidaily.com/remove-m6-5g-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove M6 5G unlock screen</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-m34-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy M34</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-swapping-ps3-hdd-for-more-storage/"><u>The Ultimate Guide to Swapping PS3 HDD for More Storage</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-edition-expert-advice-on-creating-compelling-video-edits-for-2024/"><u>Youtube Edition Expert Advice on Creating Compelling Video Edits for 2024</u></a></li>
+</ul></div>
 

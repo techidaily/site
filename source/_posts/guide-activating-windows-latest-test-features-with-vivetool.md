@@ -1,7 +1,7 @@
 ---
 title: "Guide: Activating Windows' Latest Test Features with ViVeTool"
-date: 2025-01-16T21:20:26.266Z
-updated: 2025-01-21T23:27:57.981Z
+date: 2025-01-23T18:36:50.214Z
+updated: 2025-01-29T06:42:00.440Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 ---
 
 ## Guide: Activating Windows' Latest Test Features with ViVeTool
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  ViVeTool is a third-party tool that allows you to enable experimental Windows features on your computer. But how does this tool work, and is it safe to use? Let's find out.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is ViVeTool, and How Does It Work?
 
  Before knowing about ViVeTool, it's essential to understand the Windows Feature Store. It is a system component that manages Windows features. These features can be anything from updating the navigation pane to [adding a new Task Manager](https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-xs-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/) to [introducing tabs in File Explorer](https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-without-passcode-4-easy-methods-by-drfone-ios/).
@@ -46,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 [Windows Insider builds](https://tiktok-clips.techidaily.com/2024-approved-deciphering-tiktoks-pfp-code-a-thorough-analysis/) often contain numerous features that are disabled by default. These features represent upcoming functionalities that haven't been officially announced yet, or those for which you haven't been selected in their controlled rollout. Fortunately, ViVeTool, a third-party console tool, allows you to manipulate the Windows Feature Store and activate these features.
 
  ViVeTool interacts with the Windows Feature Store by using feature IDs. Each feature in the Windows Feature Store possesses a unique ID, which ViVeTool uses to toggle the feature's state. By default, feature IDs are set to state 0, indicating the feature's normal behavior. To disable a feature, you'll need to change its state to 1\. Conversely, to forcibly enable a feature, you'll need to set its state to 2.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Is ViVeTool Safe to Use?
 
@@ -69,23 +57,35 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
  In summary, if you are comfortable with command-line tools like [Command Prompt](https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-oppo-a78-frp-by-drfone-android/) and want more flexibility, the command-line version of ViVeTool is the better choice. However, if you prefer a simpler interface and don't have much expertise in executing commands, the GUI version is a more suitable option.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use ViVeTool (GUI) to Activate Windows Features
 
  It's very easy to use ViVeTool's GUI version to activate features on your computer. Begin by visiting the [ViVeTool GUI GitHub page](https://github.com/PeterStrick/ViVeTool-GUI/releases/), and download the latest version of the setup.exe file. You might have to expand the "Assets" dropdown to find the ViVeTool.GUI.Setup.exe file.
 
 ![Setup file in ViVeTool GUI page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/setup-file.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Open the downloaded file and follow the on-screen instructions to complete the installation.
 
 ![Install option in ViVeTool installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/install-option.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the installation is complete, open the app, click the drop-down icon in the top-left corner, and choose your [current Windows build](https://ai-video-apps.techidaily.com/new-breaking-boundaries-running-windows-and-mac-video-editing-software-on-chromebook-for-2024/). ViVeTool will now populate the data grid view, which may take some time, so be patient.
 
 ![Selecting features in ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/selecting-features-in-vivetool.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Choose the feature you want to enable, click the "Perform Action" drop-down menu, and choose "Activate Feature." Alternatively, you can click the "Manually Change a Feature" field, enter the ID of the feature you want to enable, and choose "Activate Feature" from the menu.
 
@@ -94,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
  You'll see the "Success" prompt, indicating the feature has been successfully enabled.
 
 ![Success message of ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/success-message.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to disable a feature, enter the feature ID in the "Manually Change a Feature" field and choose "Deactivate Feature" from the drop-down menu.
 
@@ -109,23 +113,19 @@ thumbnail: https://thmb.techidaily.com/dbe86f0410f8e9bad5bf3228390b329f698cfe445
 
 ![Extract All option in the Windows context menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-all-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Choose a location where you want to [extract the file](https://techtrends.techidaily.com/how-neo-qled-stacks-up-against-oled-a-comprehensive-guide/) and then click the "Extract" button.
 
 ![Extract option to Extract ViVeTool](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/extract-option.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, open Command Prompt as an administrator (check out [ways to open Command Prompt with elevated rights](https://screen-mirror.techidaily.com/how-to-screen-mirroring-xiaomi-14-ultra-drfone-by-drfone-android/)) and [change the directory to the extracted folder](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/). To do this, type the following command and press Enter:
 
 cd /d PathOfViVeToolFolder
 
 ![ViVeTool path in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/vivetool-path.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Next, type the following and press Enter to enable a feature:
 
@@ -164,17 +164,24 @@ ViVeTool.exe /disable /id:44788892
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-ride-safely-leading-helmet-cams-reviewed-for-motorcycling/"><u>[Updated] Ride Safely Leading Helmet Cams Reviewed for Motorcycling</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/a-year-in-review-how-vivacut-is-shaping-the-future-of-video-editing/"><u>A Year In Review How VivaCut Is Shaping the Future of Video Editing</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-honor-x8b-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor X8b Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/download-and-try-nokia-media-converter-professional-edition-get-it-for-free-with-trialpay/"><u>Download & Try Nokia Media Converter Professional Edition - Get It For Free with TrialPay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/experience-the-latest-unboxing-and-testing-of-the-apple-iphone-15-pro/"><u>Experience the Latest: Unboxing and Testing of the Apple iPhone 15 Pro</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-of-non-functional-headphone-ports-on-your-laptop-a-step-by-step-guide/"><u>Fixing the Issue of Non-Functional Headphone Ports on Your Laptop - A Step-by-Step Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-c67-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme C67 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-narzo-n53-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme Narzo N53 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-max-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro Max To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/silencing-spam-how-to-easily-block-calls-on-iphones-and-androids/"><u>Silencing Spam: How to Easily Block Calls on iPhones & Androids</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-insiders-guide-to-mastering-igtv-for-2024/"><u>The Insider's Guide to Mastering IGTV for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/unlocking-the-amazfit-helio-ring-details-costs-launch-timeline-and-technical-specifications/"><u>Unlocking the Amazfit Helio Ring Details: Costs, Launch Timeline & Technical Specifications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unlocking-the-secrets-of-effective-job-interview-techniques/"><u>[New] 2024 Approved Unlocking the Secrets of Effective Job Interview Techniques</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-vs-twitch-studio-which-is-better/"><u>[New] OBS Vs Twitch Studio Which Is Better?</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-secure-recording-of-conversations-what-you-need-to-know-about-whatsapp/"><u>[New] Secure Recording of Conversations What You Need to Know About WhatsApp</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-making-science-fiction-real-teleportation-effects/"><u>[Updated] 2024 Approved Making Science Fiction Real Teleportation Effects</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-simplify-your-video-sharing-with-our-youtube-upload-strategy/"><u>[Updated] 2024 Approved Simplify Your Video Sharing with Our YouTube Upload Strategy</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-ringtone-makers-for-iphone-users/"><u>[Updated] Premier Ringtone Makers for iPhone Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-skullduggery-scribblers-den/"><u>[Updated] Skullduggery Scribbler's Den</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/from-download-to-implementation-installing-obs-on-a-macpc-for-2024/"><u>From Download to Implementation Installing OBS on a MacPC for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-tech-driven-patient-recovery-paths/"><u>In 2024, Tech-Driven Patient Recovery Paths</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-pro-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Pro Data From iOS iTunes Backup | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-c67-5g-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme C67 5G</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v16-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v1.6 files on my Mac using tool | Stellar</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g23-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-honor-play-7t-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Honor Play 7T</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-c02-by-fonelab-android-recover-music/"><u>Undelete lost music from C02</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-motorola-moto-g-stylus-2023-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Motorola Moto G Stylus (2023) password or pattern lock</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-civi-3-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Civi 3 won’t play MP4 files</u></a></li>
 </ul></div>
 

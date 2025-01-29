@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2025-01-14T18:20:27.142Z
-updated: 2025-01-22T00:30:02.241Z
+date: 2025-01-21T16:34:41.632Z
+updated: 2025-01-29T01:38:16.764Z
 tags:
   - desktop
 categories:
@@ -26,7 +26,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  If you're using a shared PC and don't want Windows to show the files and folders you've recently accessed in File Explorer, you have several options. You can either remove specific items from the list, clear the entire list, or stop Windows from showing this history in File Explorer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Manually Remove Recently Accessed Items
@@ -35,12 +35,16 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
 
 ![Removing a recently accessed folder from the File Explorer's Jump List.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-removing-a-recently-accessed-folder-from-the-file-explorer-s-jump-list.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It's important to note that removing items in this way only removes them from the Recent section in File Explorer and the jump list; they will remain intact in the Recent Items folder, where the record is stored. If you want to ensure others don't know what files and folders you've accessed, remove them from there as well.
@@ -50,16 +54,12 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
  Windows doesn't display a confirmation popup when removing items from the Recent Items folder or Recent section in File Explorer, so proceed with caution while removing items.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Stop Windows From Keeping Recent Items History
 
@@ -84,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
@@ -108,20 +108,24 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-techniques-for-ensuring-unbiased-decision-making/"><u>[New] 2024 Approved Techniques For Ensuring Unbiased Decision-Making</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-game-developers-top-recording-tools-for-2024/"><u>[New] Game Developers' Top Recording Tools for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-standout-panzoid-design-kits/"><u>[Updated] 2024 Approved Standout Panzoid Design Kits</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-indulge-in-9-holiday-blockbusters-free-online-christmas-viewing/"><u>[Updated] In 2024, Indulge in 9 Holiday Blockbusters Free Online Christmas Viewing</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-iphone-15-plus-by-drfone-ios/"><u>How to jailbreak iCloud locked iPhone 15 Plus</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-s17t-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo S17t Phone Network-Ready</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-f5-pro-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco F5 Pro 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-gt-neo-5-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme GT Neo 5 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/premiere-video-editing-options-for-app-developers-for-2024/"><u>Premiere Video Editing Options for App Developers for 2024</u></a></li>
-<li><a href="https://techidaily.com/sony-xperia-10-v-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 10 V Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/y-resizing-your-youtube-videos-for-mac-view-for-2024/"><u>Speedy Resizing Your Youtube Videos for Mac View for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-redmi-note-13-proplus-5g-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Redmi Note 13 Pro+ 5G without backup.</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-and-fixing-the-sound-of-your-pcs-cooling-unit/"><u>Troubleshooting and Fixing the Sound of Your PC's Cooling Unit</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-14-pro-by-fonelab-android-recover-music/"><u>Undelete lost music from 14 Pro</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-vivo-y78t-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Vivo Y78t</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-amplify-videographic-excellence-choose-from-these-7-audios/"><u>[Updated] 2024 Approved Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-best-20-words-for-marketing-success/"><u>[Updated] 2024 Approved The Best 20 Words for Marketing Success</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-push-more-viewers-to-your-channel-with-easy-tricks-2/"><u>[Updated] Push More Viewers to Your Channel with Easy Tricks (2)</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-magic-6-lite-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-charts-with-a-click-youtube-short-tunes-made-easy-for-2024/"><u>Crafting Charts with a Click YouTube Short Tunes Made Easy for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-tecno-camon-20-premier-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Tecno Camon 20 Premier 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-x5-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco X5 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-f54-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy F54 5G? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-14-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-max-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro Max to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-adeptness-at-mobile-app-development-for-luts/"><u>In 2024, Adeptness at Mobile App Development for LUTs</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12r-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-find-x7-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Find X7 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/rescue-your-lost-pictures-on-onedrive-with-these-5-crucial-techniques/"><u>Rescue Your Lost Pictures on OneDrive with These 5 Crucial Techniques</u></a></li>
+<li><a href="https://win11.techidaily.com/tackle-windows-scheduler-issues-restore-smoothness/"><u>Tackle Windows Scheduler Issues, Restore Smoothness</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-oppo-find-x7-by-fonelab-android-recover-music/"><u>Undelete lost music from Oppo Find X7</u></a></li>
 </ul></div>
 

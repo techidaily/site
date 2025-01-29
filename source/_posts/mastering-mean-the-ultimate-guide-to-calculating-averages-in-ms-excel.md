@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2025-01-18T20:47:36.578Z
-updated: 2025-01-21T16:23:58.243Z
+date: 2025-01-22T09:41:35.171Z
+updated: 2025-01-29T13:39:05.809Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ---
 
 ## Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 * [How to Use AVERAGEIFS in Excel](https://extra-hints.techidaily.com/slowly-quieting-tracks-with-fl-studio/)
 
  Excel has hundreds of functions that can help you to quickly and accurately perform calculations, among which are the AVERAGE functions. You might want to calculate the average sales figures, get the average of a group of data that contains numbers and text, or work out the average of all student scores over a certain number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Many Average Functions Are There in Excel?
 
@@ -57,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores has been calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-calculated-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The AVERAGE function includes 0 within its calculations, but ignores all empty cells, text, and logical values (TRUE or FALSE). So, we can be confident that this calculation will include Student C's score, but ignore Student F's score.
@@ -81,7 +81,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and a space where their average scores will be calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-uncalculated.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In cell D5, we would type the following formula:
@@ -116,6 +116,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
  To work out the average scores of all students over 12 years of age, we would use the following formula:
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do this, we would use the following formula:
 
 =AVERAGEIFS(B2:B8,C2:C8,"Green",D2:D8,">10")
@@ -157,7 +157,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where an AVERAGEIFS calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-calculated-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This has correctly averaged the scores of Students D and G, as they are both in Green House and are over 10 years old.
@@ -186,24 +186,20 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-transforming-engagement-on-instagram-top-10-compelling-igtv-content-concepts-for-brands/"><u>[New] 2024 Approved Transforming Engagement on Instagram Top 10 Compelling IGTV Content Concepts for Brands</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-gadget-guidance-getting-into-googles-video-conference/"><u>[New] In 2024, Gadget Guidance Getting Into Google's Video Conference</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-thorough-examination-of-dji-inspire-1/"><u>[New] In 2024, Thorough Examination of DJI Inspire 1</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-most-reliable-iphones-podcast-services/"><u>[New] Most Reliable iPhones Podcast Services</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-embark-on-a-virtual-odyssey-with-your-ios-device/"><u>[Updated] Embark on a Virtual Odyssey with Your iOS Device</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-top-20-must-have-tools-and-effects-for-your-tiktok-edits/"><u>[Updated] Top 20 Must-Have Tools & Effects for Your TikTok Edits</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-innovative-leaders-in-hexadrones-10/"><u>2024 Approved Innovative Leaders in HexaDrones - 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-innovative-zoom-methods-for-chromebook-efficiency/"><u>2024 Approved Innovative Zoom Methods for Chromebook Efficiency</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-13c-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi 13C Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Smart 8 HD | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f15-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F15 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-f54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy F54 5G to Latest Samsung | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Max Without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/instagrams-mirror-reflecting-true-selfie-essence-for-2024/"><u>Instagram's Mirror Reflecting True Selfie Essence for 2024</u></a></li>
-<li><a href="https://techidaily.com/samsung-bypass-tools-to-bypass-lock-screensamsung-galaxy-a15-5g-by-drfone-android-unlock-android-unlock/"><u>Samsung Bypass Tools to Bypass Lock Screen(Samsung Galaxy A15 5G)</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-redmi-a2plus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Redmi A2+.</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-se-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone SE? | Stellar</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-who-takes-the-crown-in-action-camera-warfare/"><u>[New] In 2024, Who Takes the Crown in Action Camera Warfare?</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/oney-multiplier-how-to-maximize-youtube-profits-with-mobile-viewers/"><u>[New] Money Multiplier How to Maximize YouTube Profits with Mobile Viewers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-must-do-tasks-for-enhanced-podcast-experience/"><u>2024 Approved Must-Do Tasks for Enhanced Podcast Experience</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a15-4g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-website-insights-with-advanced-cookiebot-tools/"><u>Elevate Website Insights with Advanced Cookiebot Tools</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x8b-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X8b without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-strategies-for-srt-creation-and-enhancement/"><u>In 2024, Innovative Strategies for SRT Creation and Enhancement</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-scouring-youtubes-notable-responses/"><u>In 2024, Scouring YouTube's Notable Responses</u></a></li>
+<li><a href="https://driver-error.techidaily.com/solve-disappearing-optical-drives-on-win11/"><u>Solve Disappearing Optical Drives on Win11</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-y27-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Y27 5G</u></a></li>
+<li><a href="https://win-studio.techidaily.com/troubleshooting-intermittent-pc-crashes-with-ease-tips-and-tricks-from-yl-computing-specialists/"><u>Troubleshooting Intermittent PC Crashes with Ease: Tips and Tricks From YL Computing Specialists</u></a></li>
+<li><a href="https://extra-information.techidaily.com/true-to-life-shade-tweaker/"><u>True-to-Life Shade Tweaker</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-xiaomi-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Xiaomi on Windows?</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-blaze-curve-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Blaze Curve 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

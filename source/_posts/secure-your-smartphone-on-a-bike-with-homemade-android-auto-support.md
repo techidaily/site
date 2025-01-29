@@ -1,7 +1,7 @@
 ---
 title: Secure Your Smartphone on a Bike with Homemade Android Auto Support
-date: 2025-01-19T20:33:01.494Z
-updated: 2025-01-22T00:53:44.210Z
+date: 2025-01-23T23:22:38.535Z
+updated: 2025-01-28T19:23:52.657Z
 tags:
   - mobile
 categories:
@@ -13,16 +13,12 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 Putting a phone in a mount on your bike works fine, but it's not great. The biggest problem is you run the risk of damaging the phone's camera. I wanted a map and media controls easily accessible without strapping my phone to my bike. A wild idea became a reality: What if my bike had an Android Auto display?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why Not Just Mount Your Phone?
 
 ![Bone Tie 4 Pro bike mount on a road bike](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/bone-tie4-mount.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Bone 
@@ -36,12 +32,16 @@ Bone
  The second reason is more of a personal preference—I've never liked interacting with a phone UI while trying to ride my bike. I don't want to be unlocking a screen and scrolling through apps just to do a few very basic tasks. It's clunky and probably dangerous.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Idea: Android Auto...But For a Bike
 
 ![Android Auto on a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124850885-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
 
@@ -56,7 +56,7 @@ Joe Fedewa / How-To Geek
 ![Headunit Reloaded on a phone mounted to a bike.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124747895-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -68,7 +68,7 @@ Joe Fedewa / How-To Geek
 ![3D printed quad lock system.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/pxl_20240621_124936163-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Joe Fedewa / How-To Geek
@@ -94,19 +94,18 @@ Joe Fedewa / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/updated-understanding-drones-their-functionality-explored/"><u>[Updated] Understanding Drones Their Functionality Explored</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-liveaudiovideocasting-network/"><u>2024 Approved LiveAudioVideocasting Network</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo Reno 8T | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-itel-p40-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel P40 Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic5-ultimate-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic5 Ultimate Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-get-started-with-final-cut-pro-flipping-videos-made-easy/"><u>New Get Started with Final Cut Pro Flipping Videos Made Easy</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-moto-g73-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Moto G73 5G</u></a></li>
-<li><a href="https://change-location.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-motorola-edgeplus-2023-by-fonelab-android-recover-data/"><u>The way to get back lost data from Motorola Edge+ (2023)</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranking-student-laptops-in-depth-analysis-and-reviews-from-tech-experts/"><u>Top-Ranking Student Laptops: In-Depth Analysis & Reviews From Tech Experts</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/unlock-efficient-video-compression-download-virtualdub-mpeg2-now-for-2024/"><u>Unlock Efficient Video Compression Download VirtualDub MPEG2 Now for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-achieving-superior-sound-in-mp4-videos-a-comprehensive-guide-for-2024/"><u>Updated Achieving Superior Sound in MP4 Videos A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-prime-youtube-personalities-and-their-stellar-subscriber-tally/"><u>[New] Prime YouTube Personalities and Their Stellar Subscriber Tally</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-simplified-guide-to-implementing-speech-transcription-in-powerpoint-for-2024/"><u>[New] Simplified Guide to Implementing Speech Transcription in PowerPoint for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-get-noticed-the-ultimate-guide-to-crafting-viral-tiktok-captions/"><u>[Updated] 2024 Approved Get Noticed The Ultimate Guide to Crafting Viral TikTok Captions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-precision-photography-dampening-disarray-for-2024/"><u>[Updated] Precision Photography Dampening Disarray for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-top-5-quick-filming-diy-hacks-to-try-at-home/"><u>2024 Approved Top 5 Quick Filming DIY Hacks to Try at Home</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-honor-80-pro-straight-screen-edition-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Honor 80 Pro Straight Screen Edition Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-neo-5-se-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-f34-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy F34 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-civi-3-disney-100th-anniversary-edition-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Civi 3 Disney 100th Anniversary Edition using Video Repair Utility on Windows?</u></a></li>
+<li><a href="https://win11.techidaily.com/orchestrated-workflows-joining-ifttt-and-to-do/"><u>Orchestrated Workflows: Joining IFTTT and To-Do</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionizing-artificial-intelligence-apples-latest-breakthrough-and-areas-for-growth/"><u>Revolutionizing Artificial Intelligence: Apple's Latest Breakthrough and Areas for Growth</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Pop 7 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-150-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from 150 (2023)</u></a></li>
 </ul></div>
 

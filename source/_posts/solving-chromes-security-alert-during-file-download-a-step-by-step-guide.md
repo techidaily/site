@@ -1,7 +1,7 @@
 ---
 title: "Solving Chrome's Security Alert During File Download: A Step-by-Step Guide"
-date: 2025-01-19T17:13:21.063Z
-updated: 2025-01-21T22:39:03.704Z
+date: 2025-01-25T13:02:29.728Z
+updated: 2025-01-28T17:18:16.568Z
 tags:
   - desktop
 categories:
@@ -41,10 +41,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Download link on the VirusTotal website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/download-link-on-the-virustotal-website.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The website will scan the file for you. If the results show that the file contains malicious code, then Chrome was correct with its message, and you should not download the file. However, if the results show the file is safe, then it means that Chrome probably raised a false alarm.
 
 ![VirusTotal result page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/virustotal-result-page.jpg) 
@@ -63,24 +59,28 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 ![Settings option in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/settings-option-in-chrome.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the left side of the Settings page, click "Privacy and Security," then choose "Security" on the right.
 
 ![Security option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/security-option-in-chrome-settings-menu.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under the Safe Browsing section, select "No Protection (Not Recommended)."
 
 ![No Protection option in Chrome Settings menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/no-protection-option-in-chrome-settings-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click "Turn Off" in the confirmation that appears.
 
 ![Turn Off option in the Turn off Safe Browsing prompt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/turn-off-option-in-the-turn-off-safe-browsing-prompt.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Chrome's security settings were responsible for the message, you should be able to download the file now. Make sure to turn Safe Browsing back on after downloading. To do that, go to the Safe Browsing section and choose "Standard Protection" or "[Enhanced Protection](https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/)," depending on your security needs.
@@ -96,20 +96,20 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Typing Windows Security in the Start Menu search bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-windows-defender-in-the-start-menu-search-bar.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Select "Virus & Threat Protection" from the left sidebar, then turn off the switch next to "Real-Time Protection." If User Account Control (UAC) appears, click "Yes" to confirm.
 
 ![Real-time Protection toggle in the Windows Security app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/real-time-protection-toggle-in-the-windows-security-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  This will temporarily [disable Windows Defender](https://tech-renaissance.techidaily.com/what-is-the-difference-between-an-ipad-and-a-tablet/). If you're using a different security program, check its user manual for instructions on temporarily turning it off.
 
  After disabling your security software, try downloading the file again. If the download succeeds, it means your security program was indeed blocking it. Make sure to re-enable your security software immediately after downloading, as leaving it disabled leaves your device vulnerable.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  3\. Disable Virus Scanning for Downloads
 
@@ -122,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  Once you've taken the necessary safety measures, let's get started. First, open the Start menu, type **Registry Editor** in the search bar, and press Enter.
 
 ![Typing Registry Editor in the Start menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-registry-editor-in-the-start-menu.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the Registry Editor, navigate to the following location:
 
@@ -140,7 +136,7 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![DWORD (32-bit) Value in the Registry Editor.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/dword-32-bit-value-in-the-registry-editor.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Name the DWORD **ScanWithAntiVirus**, then double-click the "ScanWithAntiVirus" key. Type **1** in the Value data field and click "OK."
@@ -148,7 +144,7 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 ![Typing 1 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-1-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After that, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) for the changes to take effect. Upon restart, you'll be able to download the file without any problems.
@@ -156,6 +152,10 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
  Once the download is finished, you must disable the registry edit so your browser (Chrome, in this case) can keep scanning files for viruses during downloads. To disable it, double-click the "ScanWithAntiVirus," type **0** in the Value data field, and click "OK." Then, restart your computer again to apply the changes.
 
 ![Typing 0 in the Value data field of ScanWithAntiVirus value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/typing-0-in-the-value-data-field-of-scanwithantivirus-value.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -180,19 +180,15 @@ thumbnail: https://thmb.techidaily.com/e72e3b0a0f444d85893166713d9b69e6e7d31b3a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-transforming-tiktok-viewers-into-your-facebook-likes/"><u>[New] In 2024, Transforming TikTok Viewers Into Your Facebook Likes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-the-skys-limit-broken-by-djis-pro-drone-review/"><u>2024 Approved The Sky's Limit Broken by DJI’s Pro Drone Review</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/ditch-installation-struggles-preparations-before-vbox-on-pc/"><u>Ditch Installation Struggles: Preparations Before VBox on PC</u></a></li>
-<li><a href="https://win11.techidaily.com/enhancing-gestures-and-swipes-for-flawless-pc-use-in-windows/"><u>Enhancing Gestures and Swipes for Flawless PC Use in Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Pro To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-6s-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 6s?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-ultimate-precision-machines-best-of-the-series/"><u>In 2024, Ultimate Precision Machines - Best of the Series</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/list-of-pokemon-go-joysticks-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/media-matrix-the-battle-of-podcasts-vs-youtube-for-2024/"><u>Media Matrix The Battle of Podcasts Vs. YouTube for 2024</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-htc-u23-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of HTC U23</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-poco-x6-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Poco X6</u></a></li>
-<li><a href="https://techidaily.com/why-are-your-photos-lost-from-iphone-13-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why are your photos lost from iPhone 13 Pro? | Stellar</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-comprehensible-guide-to-capturing-instagram-media-via-computer-systems/"><u>[New] The Comprehensible Guide to Capturing Instagram Media via Computer Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-layering-and-shifting-photo-letters-for-2024/"><u>[Updated] Layering & Shifting Photo Letters for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-efficiently-add-your-own-look-to-youtube-shorts-via-simple-steps/"><u>2024 Approved Efficiently Add Your Own Look to YouTube Shorts via Simple Steps</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-s18-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo S18 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-your-konica-minolta-printer-drivers-now-supported-on-windows-111087-systems/"><u>Download Your Konica Minolta Printer Drivers Now! Supported on Windows 11/10/8/7 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y28-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y28 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-13-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 13 Pro without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimizing-live-obs-broadcasts-for-fb-viewers-for-2024/"><u>Optimizing Live OBS Broadcasts for FB Viewers for 2024</u></a></li>
 </ul></div>
 

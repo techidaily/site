@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2025-01-20T19:41:21.029Z
-updated: 2025-01-21T18:35:16.105Z
+date: 2025-01-25T18:57:30.985Z
+updated: 2025-01-28T17:24:11.670Z
 tags:
   - deals
 categories:
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ## Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Pairing Your PS5 Controller to a Windows 10 PC](https://instagram-video-files.techidaily.com/updated-tricks-to-improve-instagram-video-load-speeds-mobile/)
@@ -22,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -51,10 +47,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['DualSense Wireless Controller' listed among Windows 10 devices.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Before continuing to Steam, you'll want to check and see if Windows 10 has added the DualSense controller as an audio device—a common occurrence when first pairing the controller.
 
  To check this, go to "Settings", click on "System", then on "Sound."
@@ -69,7 +61,15 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pairing and Configuring a PS5 Controller for Steam
 
@@ -83,21 +83,21 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 !['DualSense Wireless Controller' selected in Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-8.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you are having issues, however, check to see if the "PlayStation Controller Support" setting is set to "Enable in Games w/o Support."
 
 !['PlayStation Controller Support' setting in Steam on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To configure the DualSense controller for Steam, click the "Open" button next to "Calibration and Advanced Settings."
 
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
 
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -138,22 +138,24 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-check-what-youve-liked-on-facebook-lately/"><u>[New] How To Check What You've Liked on Facebook Lately</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aste-titans-top-culinary-bloggers-and-youtubers-for-2024/"><u>[New] Taste Titans Top Culinary Bloggers & YouTubers for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-your-roadmap-for-seamless-tech-transitions-for-2024/"><u>[New] Your Roadmap for Seamless Tech Transitions for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-the-ultimate-guide-to-choosing-a-win10-video-grabber-tool/"><u>[Updated] The Ultimate Guide to Choosing a Win10 Video Grabber Tool</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-complete-vivacut-overview-editors-deep-dive/"><u>2024 Approved The Complete VivaCut Overview Editor's Deep Dive</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-g2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo G2 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-find-x6-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-8-plus-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 8 Plus iOS? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-tips-for-prolonging-gopros-energy-stamina/"><u>In 2024, Tips for Prolonging GoPro's Energy Stamina</u></a></li>
-<li><a href="https://techidaily.com/is-your-samsung-galaxy-m14-4g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy M14 4G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-samsung-galaxy-f04-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Samsung Galaxy F04 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-find-n3-flip-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo Find N3 Flip</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-xiaomi-by-fonelab-android-recover-music/"><u>The way to get back lost music from Xiaomi</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-list-of-10-best-zero-cost-srt-conversion-software-for-2024/"><u>Ultimate List of 10 Best Zero-Cost Srt Conversion Software for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-huawei-nova-y71-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Huawei Nova Y71.</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-play-40c-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Honor Play 40C?</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-whats-new-in-gaming-insights-into-kinemaster-app-review/"><u>[New] 2024 Approved What's New in Gaming? Insights Into KineMaster App Review</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-cut-down-catch-more-the-best-url-reducers-for-youtube/"><u>[Updated] Cut Down, Catch More The Best URL Reducers for YouTube</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-the-ultimate-vlogging-battle-gopro-hero5-black-vs-sessions/"><u>[Updated] In 2024, The Ultimate Vlogging Battle GoPro Hero5 Black VS Sessions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-crafting-engaging-vlog-dialogues-a-step-by-step-guide/"><u>2024 Approved Crafting Engaging Vlog Dialogues A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/breaking-down-anonymous-instagram-streaming-techniques/"><u>Breaking Down Anonymous Instagram Streaming Techniques</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-note-13-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi Note 13 5G FRP Locks</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-honor-90-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Honor 90 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-mini-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 mini without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-the-activation-lock-on-your-ipad-and-apple-iphone-12-mini-without-apple-account-by-drfone-ios/"><u>In 2024, How to Remove the Activation Lock On your iPad and Apple iPhone 12 mini without Apple Account</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/integrating-the-chatgpt-widget-into-your-android-app-best-practices/"><u>Integrating The ChatGPT Widget Into Your Android App – Best Practices</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-interruptions-troubleshooting-tips-for-an-uncrashing-microsoft-outlook/"><u>Say Goodbye to Interruptions: Troubleshooting Tips for an Uncrashing Microsoft Outlook</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-samsung-galaxy-s23plus-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Samsung Galaxy S23+</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-asus-rog-phone-7-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Asus ROG Phone 7</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-s23-ultra-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Samsung Galaxy S23 Ultra</u></a></li>
 </ul></div>
 

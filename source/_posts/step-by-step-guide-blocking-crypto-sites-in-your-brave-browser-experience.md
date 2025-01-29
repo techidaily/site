@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Blocking Crypto Sites in Your Brave Browser Experience"
-date: 2025-01-14T16:22:03.393Z
-updated: 2025-01-15T16:53:09.684Z
+date: 2025-01-26T00:41:55.803Z
+updated: 2025-01-29T14:29:58.440Z
 tags:
   - cutting-edge
 categories:
@@ -39,7 +39,7 @@ brave://settings
 ![Click the hamburger menu followed by "Settings"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-menu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  In the left-hand menu of the Settings page, click "Brave Rewards."
@@ -47,12 +47,16 @@ brave://settings
 ![Click the hamburger menu followed by "Settings"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-menu.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll see a list of various Rewards-related settings with toggle buttons. Toggle them all off. However, if you have remaining BAT, you may want to leave the "Auto-Contribute" settings turned on to make sure it gets distributed.
 
 ![Toggle off all of the Brave Rewards settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With them all turned off, you'll cease to see any ads, earn any BAT, or see any tip buttons on the websites you visit.
 
@@ -67,10 +71,6 @@ brave://settings
  Find the toggle button for "Hide Brave Rewards Button" and click it.
 
 ![Scroll until you see the "Hide Brave Rewards Icon" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-icon-setting.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Banish the Crypto Wallet From the Toolbar
 
@@ -92,6 +92,10 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
 
 ![Click the Customize button on the New Tab page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-new-tab-customize-button.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  A dialog will appear with the "Background Image" tab open. Toggle off the "Show Sponsored Images" option.
 
 ![Toggle off the "Show Sponsored Images" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/new-tab-toggle-sponsored-images.png) 
@@ -99,10 +103,6 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
  If you don't want any photography or artwork at all on the New Tabe page, toggle off "Show Background Images" as well.
 
  Click the "X" button in the top-right corner of the Customization dialog to save your settings.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Disable the Crypto Widgets on the New Tab Page
 
@@ -114,21 +114,17 @@ Related: [What Is a Crypto Wallet?](https://fox-that.techidaily.com/iphone-users
 
 ![Click "Hide" on every card you want to disable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-new-tab-card-disable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the "X" button on the Cards dialog, and you're good to go!
 
 Related: [How to Disable All of Windows 10's Built-in Advertising](https://instagram-videos.techidaily.com/updated-mastering-the-use-of-custom-gifs-in-your-instagram-stories/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Hide Brave's Cryptocurrency Features on Mobile
 
  Let's walk through disabling each crypto-related feature on the Brave mobile browser one-by-one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Turn Off Brave Rewards
 
@@ -144,6 +140,10 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Toggle off the ads for Brave Mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-rewards-disable-mobile.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Remove the Brave Rewards Icon From the Address Bar
 
  Even if you've opted out of Brave Rewards, the icon will stay in the address bar until you hide it. Again pressing the three vertical dots, tap the "Settings" button.
@@ -155,7 +155,7 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 ![Tap "Appearance."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-settings-appearance-mobile.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Look for the "Hide Brave Rewards Icon" toggle and switch it on.
@@ -163,7 +163,7 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 ![Toggle on the "Hide Brave Rewards Icon" option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/hide-brave-rewards-icon-mobile.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Disable the Ads on the New Tab Page
@@ -174,19 +174,15 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
 
 ![Go to the New Tab Page settings in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-new-tab-page-settings.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Here you'll find the toggle for "Show Sponsored Images." Switch it off to disable the ads.
 
 ![Disable sponsored images in Brave mobile.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-disable-sponsored-images2.png) 
 
- Note that Brave will continue to show you photography and artwork on the New Tab page. If you prefer a more vanilla interface, then toggle off "Show Background Images" as well.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Note that Brave will continue to show you photography and artwork on the New Tab page. If you prefer a more vanilla interface, then toggle off "Show Background Images" as well.
 
 ###  Hide the Binance Widget
 
@@ -195,6 +191,10 @@ Related: [How to Disable All of Windows 10's Built-in Advertising](https://insta
  First, open a new tab and tap the three horizontal dots on the widget.
 
 ![Tap the three-dot icon on the new page widget on Brave.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/01/brave-mobile-widget-three-dots.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you want to don't want the widget at all, simply select "Remove Widget." But if you want to keep your Privacy Stats or Top Sites on the New Tab page, tap "Edit Stack" instead.
 
@@ -229,24 +229,21 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-expertly-curated-5-best-android-screen-capture-options/"><u>[New] 2024 Approved Expertly Curated 5 Best Android Screen Capture Options</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-turning-images-into-scenes-syncing-beats/"><u>[New] 2024 Approved Turning Images Into Scenes, Syncing Beats</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-choosing-your-stream-mvp-analyzing-xsplit-and-obs-features/"><u>[New] Choosing Your Stream MVP Analyzing XSplit and OBS Features</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-fast-techniques-for-reordering-youtube-video-queues/"><u>2024 Approved Fast Techniques for Reordering YouTube Video Queues</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-unleash-creativity-complimentary-premiere-pro-toolset/"><u>2024 Approved Unleash Creativity - Complimentary Premiere Pro Toolset</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722966237978-exclusive-offer-advanced-drives-for-msi-z370-a-pro-immediate-access-inside/"><u>Exclusive Offer: Advanced Drives for MSI Z370-A PRO - Immediate Access Inside</u></a></li>
-<li><a href="https://techidaily.com/how-do-5gplus-signatures-impact-iphone-and-android-devices-performance/"><u>How Do 5G+ Signatures Impact iPhone & Android Devices' Performance?</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-a1x-5g-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A1x 5G Fingerprint Lock</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/in-depth-look-at-the-samsung-galaxy-watch-gen-5-impressive-features-and-a-few-hiccups-along-the-way/"><u>In-Depth Look at the Samsung Galaxy Watch Gen 5: Impressive Features and a Few Hiccups Along the Way</u></a></li>
-<li><a href="https://techidaily.com/is-motorolas-razr-plus-a-long-term-hit-or-just-a-flash-in-the-pan/"><u>Is Motorola's RAZR Plus a Long-Term Hit or Just a Flash in the Pan?</u></a></li>
-<li><a href="https://techidaily.com/leveraging-googles-platform-effective-techniques-for-earning-from-your-android-software-solutions/"><u>Leveraging Google's Platform: Effective Techniques for Earning From Your Android Software Solutions</u></a></li>
-<li><a href="https://techidaily.com/looking-for-an-earbud-charging-case-with-built-in-volume-control/"><u>Looking for an Earbud Charging Case with Built-In Volume Control</u></a></li>
-<li><a href="https://techidaily.com/mastering-mobile-desktop-experience-seamlessly-organize-your-apps-as-on-a-pc/"><u>Mastering Mobile Desktop Experience: Seamlessly Organize Your Apps as on a PC</u></a></li>
-<li><a href="https://techidaily.com/navigating-wet-conditions-with-your-apple-watch-uncover-its-water-resistant-secrets/"><u>Navigating Wet Conditions with Your Apple Watch: Uncover Its Water-Resistant Secrets</u></a></li>
-<li><a href="https://techidaily.com/protect-your-digital-memories-avoid-whatsapp-data-loss-disaster/"><u>Protect Your Digital Memories - Avoid WhatsApp Data Loss Disaster</u></a></li>
-<li><a href="https://techidaily.com/reviving-old-phones-as-fun-safe-entertainment-hubs-for-childrens-music-and-podcasts/"><u>Reviving Old Phones as Fun, Safe Entertainment Hubs for Children's Music and Podcasts</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/top-7-precision-shooter-classics/"><u>Top 7 Precision Shooter Classics</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-how-to-activate-and-deactivate-your-iphones-recovery-mode/"><u>Ultimate Troubleshooting: How to Activate & Deactivate Your iPhone's Recovery Mode</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-instagram-4-pro-tips-for-looped-video-content/"><u>[New] Mastering Instagram 4 Pro Tips for Looped Video Content</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-elevating-social-interactions-a-complete-gif-guide-for-snapchat-users/"><u>[Updated] In 2024, Elevating Social Interactions A Complete Gif Guide for Snapchat Users</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-unveil-your-world-in-wide-angle-iosandroid-photo-integration-on-social-media-for-2024/"><u>[Updated] Unveil Your World in Wide Angle IOS/Android Photo Integration on Social Media for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-8-key-money-making-moves-for-youtube-rookies/"><u>2024 Approved 8 Key Money-Making Moves for YouTube Rookies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-discovering-the-leading-speech-to-text-apps-for-ipads-3/"><u>2024 Approved Discovering the Leading Speech-to-Text Apps for iPads #3</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-audio-file-alchemy-converting-srt-to-multiple-formats-professionally/"><u>2024 Approved The Audio File Alchemy Converting SRT to Multiple Formats Professionally</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-play-7t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Play 7T Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to Android? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-oneplus-ace-3-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-nubia-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Nubia without backup.</u></a></li>
+<li><a href="https://discover-great.techidaily.com/watermark-free-transformation-how-to-switch-from-mkv-to-avi-quickly-with-vlc-media-player/"><u>Watermark-Free Transformation: How to Switch From MKV to AVI Quickly with VLC Media Player</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-14-pro-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 14 Pro Max takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

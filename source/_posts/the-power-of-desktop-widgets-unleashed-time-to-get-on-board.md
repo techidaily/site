@@ -1,7 +1,7 @@
 ---
 title: "The Power of Desktop Widgets Unleashed: Time to Get On Board!"
-date: 2025-01-15T18:53:31.040Z
-updated: 2025-01-21T22:58:01.750Z
+date: 2025-01-24T00:16:35.836Z
+updated: 2025-01-29T07:52:45.580Z
 tags:
   - deals
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ## The Power of Desktop Widgets Unleashed: Time to Get On Board!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Widgets have become more usable over the years, making them a better use of desktop real estate than shortcut icons or file folders.
@@ -18,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 * Desktop widgets offer convenience and efficiency by providing information at a glance, such as multiple time zone tracking, performance meters, and reminders.
 
  Widgets on a desktop computer have always seemed like more of a nuisance than a helpful feature to me, but over the years widgets have become both more useful and more usable—which is why I'm finally buying in to them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  macOS Sonoma Finally Sold Me on Widgets
 
@@ -35,14 +35,10 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![The MacOS Sonoma Widget Gallery showing several widgets and widget categories.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/screenshot-2023-11-13-at-11-05-13.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Of course, it also helps that I recently got back on the [ultrawide monitor](https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-nokia-130-music-drfone-by-drfone-virtual-android/) train, which provides even more room to tuck away useful widgets, but even on my MacBook's native 13-inch screen, Sonoma gets them right.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What About Widgets in Windows 11?
@@ -51,12 +47,16 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 ![The Windows 11 Widget Bar showing a weather, photo, and map widget along with several news items.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/1-1.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This bit of friction (and other [ways Microsoft ruined widgets](https://buynow-tips.techidaily.com/comprehensive-review-of-the-stylish-and-modern-swagtron-swagger-electric-scooter/)) means that I hardly bother with Windows 11 widgets. If they aren't visible at a glance, I don't think they're particularly useful. However, you can have always-visible widgets on the Windows 11 desktop by using third-party software such as [Widget Launcher](https://apps.microsoft.com/detail/widget-launcher/9WZDNCRDQFBT).
 
 ![Widget Launcher widgets on a Windows 11 desktop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/2-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  I'm hopeful that Microsoft will eventually give us native widgets closer to what macOS Sonoma now offers, but for now you'll need to do a little customization with third-party tools to get something similar to what macOS offers.
@@ -64,7 +64,7 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
  If you're a Linux user, you have even more latitude, but perhaps a little more effort is required. With the latest [KDE Plasma desktop](https://extra-resources.techidaily.com/updated-creating-an-auditory-ambiance-choosing-background-music-for-trailers/), widgets have also received significant improvements and are just as easy to use as on macOS, so that's well worth checking out if you're a Linux fan.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why You Should Consider Desktop Widgets
@@ -93,22 +93,20 @@ thumbnail: https://thmb.techidaily.com/c7b77af3b75e8967ded24a64c6c6d6f37fdcca8a8
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-5-ways-to-fix-obs-black-screen-game-capture/"><u>[New] 2024 Approved 5 Ways to Fix OBS Black Screen Game Capture</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-scale-up-snaps-no-loss-in-detail/"><u>[Updated] In 2024, Scale Up Snaps - No Loss in Detail</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-p40plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P40+ Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Note 30i | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-x100-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo X100 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-tecno-camon-20-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Camon 20 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-power-of-small-tech-is-the-latest-m4-equipped-mac-mini-a-game-changer-compared-to-apple-tv-discover-more/"><u>Exploring the Power of Small Tech: Is the Latest M4-Equipped Mac Mini a Game Changer Compared to Apple TV? Discover More</u></a></li>
-<li><a href="https://win-online.techidaily.com/gratis-omzetten-van-m4v-films-naar-mp4-professioneel-met-movavi/"><u>Gratis Omzetten Van M4V-Films Naar MP4 - Professioneel Met Movavi</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-8-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-unveil-the-potential-of-zoom-filters-for-excellence/"><u>In 2024, Unveil the Potential of Zoom Filters for Excellence</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-tutorial-prevent-and-solve-unreal-engine-4-sudden-shutdown-on-pcs/"><u>In-Depth Tutorial: Prevent and Solve Unreal Engine 4 Sudden Shutdown on PCs</u></a></li>
-<li><a href="https://techidaily.com/is-your-poco-x6-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Poco X6 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/minden-legjobb-atlagot-kifejezesu-atalakito-mkv-mp4-atlalakitasuton-windowsmac-online-tippekonzert/"><u>Minden Legjobb Átlagot Kifejezésű Átalakító: MKV MP4 Átlalakításúton Windows/Mac Online Tippekonzert</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/snipping-edits-imovies-size-changing-secrets/"><u>Snipping Edits IMovie’s Size-Changing Secrets</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-gionee-f3-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Gionee F3 Pro</u></a></li>
-<li><a href="https://techidaily.com/t2-pro-5g-music-recovery-recover-deleted-music-from-t2-pro-5g-by-fonelab-android-recover-music/"><u>T2 Pro 5G Music Recovery - Recover Deleted Music from T2 Pro 5G</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-beyond-the-screen-vrs-creative-applications/"><u>[Updated] 2024 Approved Beyond the Screen VR's Creative Applications</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-top-vimeo-downloader-tools-for-2024/"><u>[Updated] Top Vimeo Downloader Tools for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discovering-perfect-picture-quality-with-the-lg-65-4k-smart-tv-c9-series-expert-insights/"><u>Discovering Perfect Picture Quality with the LG 65 4K Smart TV (C9 Series) - Expert Insights</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y78plus-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y78+ in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a18-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A18 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-xiaomi-redmi-note-13-5g-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Xiaomi Redmi Note 13 5G? </u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-a78-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo A78 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-vivo-y78t-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Vivo Y78t on Windows</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-complete-manual-for-creating-condensed-youtube-videos/"><u>The Complete Manual for Creating Condensed YouTube Videos</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/standing-legal-bounds-of-youtube-video-screencaps/"><u>Understanding Legal Bounds of YouTube Video Screencaps</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-get-started-with-filmora-scrn-a-quick-and-easy-guide-to-desktop-recording/"><u>Updated In 2024, Get Started with Filmora Scrn A Quick and Easy Guide to Desktop Recording</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-a2-messages-recovery-recover-deleted-messages-from-xiaomi-redmi-a2-by-fonelab-android-recover-messages/"><u>Xiaomi Redmi A2 Messages Recovery - Recover Deleted Messages from Xiaomi Redmi A2</u></a></li>
 </ul></div>
 

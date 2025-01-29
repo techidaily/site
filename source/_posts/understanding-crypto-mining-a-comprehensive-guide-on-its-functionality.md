@@ -1,7 +1,7 @@
 ---
 title: "Understanding Crypto Mining: A Comprehensive Guide on Its Functionality"
-date: 2025-01-19T19:15:18.402Z
-updated: 2025-01-22T01:33:47.534Z
+date: 2025-01-21T18:14:34.835Z
+updated: 2025-01-29T11:28:27.708Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 ---
 
 ## Understanding Crypto Mining: A Comprehensive Guide on Its Functionality
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -21,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto Mining?
@@ -29,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  In short, crypto mining is how new units of [cryptocurrency](https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-itel-p40plus-phones-by-drfone-android/)\---usually called coins---are created. As you can imagine, this type of mining doesn't involve callused hands gripping pickaxe handles. Instead, it's computer processors that do all the hard work, chipping away at complex math problems.
 
  Of course, you may wonder why these digital currencies even need to be mined: after all, it's make-believe money with no backing except what people will pay for it. Real currency, the kind backed up by governments, can be created by turning on a money printer, so it stands to reason that crypto could do the same.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  The Blockchain
 
@@ -44,15 +44,15 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  The Ledger
 
  Every time a new coin is unlocked, it's recorded in the cryptocurrency's ledger, a massive file anybody can access at any time to see which coins were mined when and by whom. The ledger also shows when a coin changed hands, and who was involved in the transaction, putting the lie to [the claim that Bitcoin is anonymous](https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-iphone-15-pro-by-drfone-ios/).
 
  To summarize, the ledger records the creation and movement of coins in the blockchain. Mining is validating new blocks and gaining access to the coins within. Interestingly enough, since the blockchain has to be finite, it also means that most cryptocurrencies have a hard limit to how many can exist: Bitcoin for example has a [cap of 21 million](https://www.investopedia.com/tech/what-happens-bitcoin-after-21-million-mined/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Crypto Mining Works
 
@@ -75,7 +75,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  As a result, the market for GPUs was practically destroyed, with these groups buying all the units they could get their hands on---even [stealing them](https://fortune.com/2021/11/09/thieves-steal-nvidia-graphics-cards/) in some cases---and making it so regular consumers had to pay [massive prices](https://www.nme.com/news/gaming-news/700000-graphics-cards-were-bought-by-crypto-miners-in-early-2021-alone-2973241) even for badly outdated models. Though, as of late 2021, this arms race is quieting down thanks to a number of factors (including a [crackdown on miners](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html) by China), the GPU market has yet to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Mined vs. Non-Mined Cryptocurrencies
@@ -85,7 +85,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Future of Mining
@@ -109,16 +109,22 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-curtail-unrequested-youtube-content-streams-for-2024/"><u>[New] Curtail Unrequested YouTube Content Streams for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-navigating-instagram-marketing-ultimate-guide-to-video-success-for-2024/"><u>[New] Navigating Instagram Marketing Ultimate Guide to Video Success for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-selecting-a-prime-livestream-service-top-10-essentials/"><u>[Updated] Selecting a Prime Livestream Service Top 10 Essentials</u></a></li>
-<li><a href="https://some-tips.techidaily.com/ecoflow-river-n-a-top-contender-in-compact-power-storage-an-in-depth-review-by-a-tech-expert/"><u>EcoFlow River N: A Top Contender in Compact Power Storage – An In-Depth Review by a Tech Expert</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-g42-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia G42 5G? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-phantom-v-flip-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Phantom V Flip Screen Sharing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-vivo-g2-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Vivo G2</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-poco-f5-5g-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Poco F5 5G</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G13? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-moto-g84-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Moto G84 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo ?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-prime-meme-framework-essentials/"><u>[New] In 2024, Prime Meme Framework Essentials</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-reloading-the-dead-ranking-eminent-zombie-games/"><u>[New] Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-360-degree-view-transformative-media-experience/"><u>[Updated] In 2024, A 360-Degree View Transformative Media Experience</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-honor-magic-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-c55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/boost-efficiency-on-your-iphone-explore-the-10-must-use-keyboard-functions-for-power-users/"><u>Boost Efficiency on Your iPhone: Explore the 10 Must-Use Keyboard Functions for Power Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/chilly-champs-beijings-best-of-the-2022-games/"><u>Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-install-new-gtx-firmware/"><u>Download & Install New GTX Firmware</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Devices Entirely | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v29-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V29 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-nokia-g22-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia G22 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-tecno-camon-20-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Tecno Camon 20 on Windows</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s23-fe-messages-recovery-recover-deleted-messages-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Samsung Galaxy S23 FE Messages Recovery - Recover Deleted Messages from Samsung Galaxy S23 FE</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-and-modernizing-clipboard-memory-usage-in-windows-11/"><u>Streamlining and Modernizing Clipboard Memory Usage in Windows 11</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/streamlining-video-uploads-to-youtube-a-step-by-step-process-for-optimizing-and-sharing-quicktime-files/"><u>Streamlining Video Uploads to YouTube: A Step-by-Step Process for Optimizing and Sharing QuickTime Files</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-1616-pro-case-selection-expert-ratings-and-reviews/"><u>Ultimate Guide to iPhone 16/16 Pro Case Selection: Expert Ratings and Reviews</u></a></li>
 </ul></div>
 
