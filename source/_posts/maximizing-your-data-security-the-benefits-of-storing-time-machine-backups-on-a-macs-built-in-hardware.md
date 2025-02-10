@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Data Security: The Benefits of Storing Time Machine Backups on a Mac's Built-In Hardware"
-date: 2025-01-26T09:51:40.946Z
-updated: 2025-01-28T18:36:43.217Z
+date: 2025-02-03T19:02:19.431Z
+updated: 2025-02-09T20:38:31.432Z
 tags:
   - desktop
 categories:
@@ -20,7 +20,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
  Using an external storage drive for Time Machine backups is the recommended way to back up your Mac. But what if you don't have an external storage drive? You can still make use of Time Machine by placing backups on your local drive. Here's why I use this method to back up my files and why you should consider it too.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why I Use Local Storage for Time Machine Backup Despite the Risks
@@ -52,22 +52,14 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![Adding a partition to a drive on macOS.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/3-adding-a-parition-to-a-drive-on-macos.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Name the newly created partition, choose "APFS" as the format, and allocate the desired size for the partition. Click "Apply," then "Partition," and finally "Continue" in the warning popup.
 
 ![Applying a partition by defining the partition information.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/5-applying-a-parition-by-defining-the-partition-information.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, wait for the process to finish. This may take several minutes, so please be patient. Once the partition is successfully created, you can proceed to the next step.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Newly Created Partition for the Backup
 
@@ -77,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 ![Setting up the newly created partition for the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/6-setting-up-the-newly-created-parition-for-the-time-machine-backup.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To restore a deleted or older file version from the backup, open the Time Machine utility. Navigate through the snapshots that Time Machine has taken and locate the file you want to restore. Then, click on "Restore" to recover the file.
 
 ![Restoring a deleted Microsoft Word file from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/7-restoring-a-deleted-file-from-the-time-machine-backup.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Don't Let Your Backup Drive Get Clogged Up
 
@@ -90,7 +90,7 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 ![Excluding some data from the Time Machine backup.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/4-excluding-some-data-from-the-time-machine-backup-1.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -114,17 +114,24 @@ thumbnail: https://thmb.techidaily.com/f2627d615078a022aac01f2ac296b5686dd196136
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-unlocking-image-potential-smart-online-cropping-techniques/"><u>[Updated] Unlocking Image Potential Smart Online Cropping Techniques</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/dts-play-fi-explained-revolutionizing-in-car-entertainment-systems/"><u>DTS Play-Fi Explained - Revolutionizing In-Car Entertainment Systems</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/from-concept-to-reality-polarr-photo-editor-simplified/"><u>From Concept to Reality Polarr Photo Editor Simplified</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/from-text-to-artistic-vision-crafting-images-with-dall-e-and-gpt-4-synergy/"><u>From Text to Artistic Vision: Crafting Images with DALL-E & GPT-4 Synergy</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-realme-12-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Realme 12 5G</u></a></li>
-<li><a href="https://network-issues.techidaily.com/remedying-ripples-in-win7-displays/"><u>Remedying Ripples in Win7 Displays</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/secure-recovery-of-windows-server-2012-from-a-networked-restore-point/"><u>Secure Recovery of Windows Server 2012 From a Networked Restore Point</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 8T? | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/unique-identity-creation-accessible-logo-base-and-personal-customization-for-no-cost-for-2024/"><u>Unique Identity Creation Accessible Logo Base & Personal Customization for No-Cost for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-downloading-twitters-animated-content-simplified/"><u>[New] In 2024, Downloading Twitter's Animated Content Simplified</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-comparing-free-video-powerhouses-who-will-you-choose-vlc-or-mpc/"><u>[Updated] Comparing Free Video Powerhouses Who Will You Choose, VLC or MPC?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-boosting-engagement-on-youtube-edit-update-and-enhance-metadata/"><u>[Updated] In 2024, Boosting Engagement on YouTube Edit, Update & Enhance Metadata</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f14-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-xiaomi-redmi-note-13-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Xiaomi Redmi Note 13 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-tips-for-radial-blur-techniques-in-photoshop/"><u>Expert Tips for Radial Blur Techniques in Photoshop</u></a></li>
+<li><a href="https://win-able.techidaily.com/farmers-simulator-22-wont-start-heres-your-ultimate-guide-to-fixing-it/"><u>Farmers Simulator 22 Won’t Start? Here’s Your Ultimate Guide to Fixing It!</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-poco-c55-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Poco C55 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-iphone-13-pro-max-imei-checker-by-drfone-ios/"><u>In 2024, Best Free iPhone 13 Pro Max IMEI Checker</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-insiders-look-at-twitter-ad-performance-metrics/"><u>In 2024, The Insider's Look at Twitter Ad Performance Metrics</u></a></li>
+<li><a href="https://techidaily.com/remove-lock-screen-without-password-nubia-z60-ultra-by-drfone-android-unlock-android-unlock/"><u>Remove Lock Screen without Password(Nubia Z60 Ultra)</u></a></li>
+<li><a href="https://fox-making.techidaily.com/simple-migration-process-from-local-storage-to-external-hard-drive-on-windows-111087/"><u>Simple Migration Process From Local Storage to External Hard Drive on Windows 11/10/8/7</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-magic-6-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor Magic 6</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/step-by-step-to-effortless-iphone-screen-recording/"><u>Step-by-Step to Effortless IPhone Screen Recording</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-most-engaging-sandbox-gaming-titles-for-2024/"><u>The Most Engaging Sandbox Gaming Titles for 2024</u></a></li>
 </ul></div>
 

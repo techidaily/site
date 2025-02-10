@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2025-01-27T22:22:27.606Z
-updated: 2025-01-28T21:14:44.914Z
+date: 2025-02-06T17:10:41.676Z
+updated: 2025-02-09T23:48:01.473Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ## Unraveling the Mystery: The Story Behind the 'X' In Linux
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Before the X, There Was CS](https://facebook-clips.techidaily.com/new-2024-approved-facebooks-viral-video-hits-compilation/)
@@ -18,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * [Linus Torvalds and Freax](https://some-guidance.techidaily.com/new-swift-transition-the-ultimate-guide-to-sierra-on-macs/)
 * [Your System Administrator Knows Best](https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-nubia-red-magic-8s-pro-online-without-jailbreak-by-drfone-android/)
 * [What’s in a Name?](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-nubia-z50s-pro-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
@@ -57,13 +57,13 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
 
@@ -83,11 +83,11 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-Dave McKay/How-To Geek
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Dave McKay/How-To Geek
 
 ##  Linus Torvalds and Freax
 
@@ -118,7 +118,7 @@ Dave McKay/How-To Geek
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s in a Name?
@@ -142,24 +142,22 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-brisk-tutorial-transforming-photos-into-youtube-desktop-thumbnails/"><u>[New] 2024 Approved Brisk Tutorial Transforming Photos Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-fundamentals-of-animated-branding/"><u>[New] Fundamentals of Animated Branding</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-intro-vibes-top-music-haunts-for-podcasts/"><u>2024 Approved Intro Vibes Top Music Haunts for Podcasts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/best-free-audio-enhancers-for-windows-11-top-7-choices/"><u>Best FREE Audio Enhancers for Windows 11: Top 7 Choices</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-motorola-moto-g04-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Moto G04 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-nord-3-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus Nord 3 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-xs-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone XS Smoothly</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722964681942-secure-and-optimize-your-epson-wf-352t-printer-performance-by-downloading-the-newest-windows-driver-here/"><u>Secure & Optimize Your Epson WF-352t Printer Performance by Downloading the Newest Windows Driver Here!</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2013-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2013 Spreadsheet Disappears after Opening</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/troubleshooting-tips-how-to-strengthen-a-fading-wi-fi-connection-expert-advice-from-yl-computing/"><u>Troubleshooting Tips: How to Strengthen a Fading Wi-Fi Connection - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-guide-erasing-your-entire-inbox-on-the-gmail-mobile-app/"><u>Ultimate Guide: Erasing Your Entire Inbox on the Gmail Mobile App</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-tecno-spark-20-proplus-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Tecno Spark 20 Pro+.</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-hardware-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your hardware drivers on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/v27-music-recovery-recover-deleted-music-from-v27-by-fonelab-android-recover-music/"><u>V27 Music Recovery - Recover Deleted Music from V27</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-a2plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi A2+ | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-becoming-a-reaction-guru-a-complete-guidebook/"><u>[New] 2024 Approved Becoming a Reaction Guru A Complete Guidebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturing-screens-a-laptops-webcam-journey/"><u>[New] 2024 Approved Capturing Screens A Laptop's Webcam Journey</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-quick-guide-to-crafting-realistic-motion-blur-effect-in-ps/"><u>[New] 2024 Approved Quick Guide to Crafting Realistic Motion Blur Effect in PS</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-video-production-with-captivate/"><u>[Updated] Navigating Video Production with Captivate</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-complete-examination-unboxing-logitechs-ultimate-4k-webcam/"><u>2024 Approved Complete Examination Unboxing Logitech’s Ultimate 4K Webcam</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docx-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docx file electronically</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus System? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/overcoming-4-frequent-gpu-issues-efficiently/"><u>Overcoming 4 Frequent GPU Issues Efficiently</u></a></li>
+<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager in Windows 11 & 10</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-puzzling-reasons-behind-customer-exit-from-onboarding-experiences/"><u>The Puzzling Reasons Behind Customer Exit From Onboarding Experiences</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-a60s-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel A60s</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G24 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

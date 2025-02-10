@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings"
-date: 2025-01-27T23:28:27.680Z
-updated: 2025-01-29T03:11:49.084Z
+date: 2025-02-02T19:27:48.308Z
+updated: 2025-02-09T19:01:36.174Z
 tags:
   - deals
 categories:
@@ -11,13 +11,17 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 ## How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Check the Key That Turns Off the Caps Lock](https://vp-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/)
 * [Ensure the Caps Lock Key Isn't Faulty](https://tech-haven.techidaily.com/how-do-these-apps-harness-gpt-4s-power/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -34,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Opening the typing settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-opening-the-typing-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then, go to "Advanced Keyboard Settings" and click the "Language Bar Options" link. In the Text Services and Input Languages window, navigate to the "Advanced Key Settings" tab. Check the circle beside "Press the Caps Lock Key" option under "To Turn Off Caps Lock" if "Press the Shift Key" is selected. Apply the changes, then click "OK."
@@ -42,11 +46,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Changing the key that turns off the Caps Lock in the advanced keyboard settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-changing-the-key-that-turns-off-the-caps-lock-in-the-advanced-keyboard-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Caps Lock Key Isn't Faulty
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the key registers and the testing window starts to type letters in lowercase, the key is not faulty. However, if the key doesn't register and fails to change the case, it indicates a defective key. It is possible there is debris inside the keyboard, causing keypresses to not register correctly. You can try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/) to see if that solves the issue. If that doesn't work, you can either have your keyboard (or laptop) inspected or [disable and remap the Caps Lock key](https://extra-information.techidaily.com/constructing-premium-canon-timelapse-movies-for-2024/).
@@ -80,24 +80,22 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-empowering-communication-with-these-leading-mac-tts-programs/"><u>[New] Empowering Communication with These Leading Mac TTS Programs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-get-noticed-the-ultimate-guide-to-crafting-viral-tiktok-captions-for-2024/"><u>[New] Get Noticed The Ultimate Guide to Crafting Viral TikTok Captions for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-mac-techniques-for-capturing-your-minecraft-adventures/"><u>[Updated] In 2024, Mac Techniques for Capturing Your Minecraft Adventures</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-unearthing-inshots-video-magic-for-editors-for-2024/"><u>[Updated] Unearthing InShot’s Video Magic for Editors for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-mystique-of-a-blue-icon-on-facebook-decoding-its-purpose-and-meaning/"><u>2024 Approved The Mystique of a Blue Icon on Facebook Decoding Its Purpose and Meaning</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Realme GT 5 (240W) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-v29-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo V29 | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/elevate-youtube-navigating-tweets-in-1080p-clarity/"><u>Elevate YouTube Navigating Tweets in 1080P Clarity</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-page-to-picture-writing-a-film/"><u>From Page to Picture Writing a Film</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Nokia C32? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme C67 4G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-yuva-2-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Yuva 2 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-perfect-guide-to-remove-or-disable-google-smart-lock-on-oppo-k11-5g-by-drfone-android/"><u>In 2024, A Perfect Guide To Remove or Disable Google Smart Lock On Oppo K11 5G</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-mcb-branding-elements-download-free-pack/"><u>In 2024, MCB Branding Elements Download Free Pack</u></a></li>
-<li><a href="https://techidaily.com/samsung-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-motorola-moto-g34-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Motorola Moto G34 5G</u></a></li>
-<li><a href="https://techidaily.com/unlock-a-disable-iphone-14-plus-without-itunes-or-icloud-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 14 Plus without itunes or icloud</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-power-of-chatgpt-with-extensions/"><u>Unveiling the Power of ChatGPT with Extensions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-begin-installing-xps-key-visual-storytelling-app/"><u>[New] Begin Installing XP’s Key Visual Storytelling App</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-access-unlimited-mcb-theme-images/"><u>[New] In 2024, Access Unlimited MCB Theme Images</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nleashing-potential-a-step-by-step-approach-to-youtube-links-for-2024/"><u>[New] Unleashing Potential A Step-by-Step Approach to YouTube Links for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-the-best-video-capture-tools-for-windows-users/"><u>[Updated] 2024 Approved Discover the Best Video Capture Tools for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-vivo-y27s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y27s Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hardware-checkup-verify-if-your-cpu-supports-vanguards-performance-criteria/"><u>Hardware Checkup: Verify if Your CPU Supports Vanguard’s Performance Criteria</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30i Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-htc-u23-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-storm-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Storm 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-x-flip-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo X Flip Fingerprint Lock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>In 2024, Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2010-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2010</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-whea-watchdog-hardware-exception-tips-for-correction/"><u>Troubleshooting WHEA (Watchdog Hardware Exception) - Tips for Correction</u></a></li>
 </ul></div>
 

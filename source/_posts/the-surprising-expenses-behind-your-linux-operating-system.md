@@ -1,7 +1,7 @@
 ---
 title: The Surprising Expenses Behind Your Linux Operating System
-date: 2025-01-27T01:07:45.937Z
-updated: 2025-01-29T14:59:22.152Z
+date: 2025-02-07T18:58:05.737Z
+updated: 2025-02-09T22:37:07.281Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The Surprising Expenses Behind Your Linux Operating System
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -24,6 +24,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [A Way to Support the Linux Ecosystem](https://screen-capture.techidaily.com/2024-approved-expeditious-approaches-to-slide-storage/)
 * [Avoid Giving Big Tech Even More Money](https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nubia-z50s-pro-drfone-by-drfone-virtual-android/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * Installing Linux on existing PCs is free, but buying a computer with Linux pre-installed can save time.
@@ -33,6 +37,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  One of the perks of Linux is that both the operating system and the vast majority of apps are free. Yet if you try to buy a PC that comes with Linux, you might end up spending more than buying one with Windows. Why spend that extra money when you can install Linux on an existing computer for free?
 
  I know it seems counterintuitive, but when the time comes to buy a new computer, I almost exclusively buy Linux PCs. I'll explain.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linux Is Guaranteed to Work on These PCs
 
@@ -46,10 +54,6 @@ Bertel King / How-To Geek
 
  To save myself the headache of knowing whether everything will work, I like to buy computers that ship with Linux. This way I know they've been tested and verified to run the operating system I intend to use. I don't have to do any research to learn which processor, Wi-Fi card, and graphics card will work best for the kind of machine I have in mind. I can just browse the available PCs and pick one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  You Don't Need Technical Knowledge
 
  The trickiest part of installing Linux is learning how to [create a bootable USB stick](https://some-skills.techidaily.com/updated-streamline-your-shots-a-windows-11-guide/) and selecting it during your PC's boot process. After that, installation isn't that different from installing PC software in general.
@@ -62,17 +66,9 @@ Bertel King / How-To Geek
 
  Having Linux PCs available for purchase expands who is able to use Linux. Yes, these laptops tend to be priced out of the mainstream due to the laws of scale, but at least the option is there.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  No Need to Configure Your Own System
 
 ![Pop OS background on the System76 Gazelle laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/52865452885_471a3e5dc4_o-1.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -100,6 +96,10 @@ Hannah Stryker / How-To Geek
 
 ![Kubuntu Focus Ir16 Gen 2 laptop on a white background.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/kfocusir16.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #####  Kubuntu Focus Ir16 (Gen2)
 
 8/ 10 
@@ -109,7 +109,7 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 [$1145 at Kubuntu Focus](https://kfocus.org/spec/spec-ir16.html) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Avoid Giving Big Tech Even More Money
@@ -141,22 +141,18 @@ The Ir16 GEN 2 marries the enterprise-class hardware from Carbon Systems with th
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-kinetic-control-over-android-a-compre-authorize-deep-dive-into-kinemaster/"><u>[New] In 2024, Kinetic Control Over Android - A Compre Authorize Deep Dive Into KineMaster</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-video-dominance-on-instagram-designing-a-pro-marketing-approach-for-2024/"><u>[New] Video Dominance on Instagram Designing a Pro-Marketing Approach for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-how-to-produce-a-trending-solo-podcast-series/"><u>[Updated] 2024 Approved How To Produce A Trending Solo Podcast Series</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/diy-fixes-for-non-functional-hp-laptop-cameras-in-the-windows-10-operating-system/"><u>DIY Fixes for Non-Functional HP Laptop Cameras in the Windows 10 Operating System</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/epson-xp-330-printer-drivers-free-download-and-installation-guide/"><u>Epson XP-330 Printer Drivers: Free Download & Installation Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-lava-blaze-curve-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze Curve 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-narzo-60-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme Narzo 60 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Gionee F3 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-a-sea-of-silence-the-perils-of-pretense-in-profiles/"><u>In a Sea of Silence The Perils of Pretense in Profiles</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/iniciando-tu-viaje-como-representante-de-ventas-con-el-programa-de-afiliados-movavi-tecnicas-y-estrategias-para-ganar/"><u>Iniciando Tu Viaje Como Representante De Ventas Con El Programa De Afiliados Movavi: Técnicas Y Estrategias Para Ganar</u></a></li>
-<li><a href="https://techidaily.com/remove-samsung-lock-screen-without-password-samsung-galaxy-a54-5g-by-drfone-android-unlock-android-unlock/"><u>Remove Samsung Lock Screen without Password(Samsung Galaxy A54 5G)</u></a></li>
-<li><a href="https://techidaily.com/vivo-v29-support-forgotten-screen-lock-by-drfone-android-unlock-android-unlock/"><u>Vivo V29 support - Forgotten screen lock.</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/be-live-pro-tips-outfitting-with-excellent-webcams-for-2024/"><u>YouTube Live Pro Tips Outfitting with Excellent Webcams for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-trendsetters-guide-the-most-popular-tiktok-creations-to-try/"><u>[New] 2024 Approved Trendsetter's Guide The Most Popular TikTok Creations to Try</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-tools-for-sub-to-srt-transition-rated-8-through-17/"><u>[New] Best Tools for Sub to SRT Transition, Rated #8 Through #17</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-live-thumbnails-a-comprehensive-look/"><u>[New] YouTube Live Thumbnails A Comprehensive Look</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-expert-analysis-of-samsung-photo-editor-prospects-and-constraints/"><u>[Updated] 2024 Approved Expert Analysis of Samsung Photo Editor Prospects & Constraints</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elevate-your-pics-advanced-techniques-for-editing-photo-text/"><u>2024 Approved Elevate Your Pics Advanced Techniques for Editing Photo Text</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/excellent-choices-comprehensive-paid-and-free-macpc-video-decoders/"><u>Excellent Choices Comprehensive Paid & FREE Mac/PC Video Decoders</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-a1-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-vivo-s17-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Vivo S17</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-realme-11x-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Realme 11X 5G.</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ling-the-youtube-creator-hub-a-guide-for-2024/"><u>Unveiling the YouTube Creator Hub A Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-on-windows-10-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager on Windows 10</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-lava-blaze-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Lava Blaze 2 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
