@@ -1,7 +1,7 @@
 ---
 title: Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
-date: 2025-01-25T07:31:45.345Z
-updated: 2025-01-28T16:26:56.539Z
+date: 2025-02-17T21:37:10.019Z
+updated: 2025-02-19T21:20:15.942Z
 tags:
   - cutting-edge
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## Can Electric Cars Pose Risks When Stuck in Gridlock Situations?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,7 +26,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  In 2022, a huge 48-mile traffic jam happened on the I-95 in Virginia on a cold, snowy day, and we instantly saw the [EV fearmongering](https://www.washingtonpost.com/opinions/2022/01/04/imagine-virginias-icy-traffic-catastrophe-with-only-electric-vehicles/) reach an all-time high. Claiming if those were all EVs, the situation would have been a "catastrophe." A reader actually sent us these graphics circulating on Facebook in response to one of our [recent EV articles](https://www.reviewgeek.com/118218/do-evs-need-special-tires/). In reality, when electric cars aren't moving, they use very little power, will last for days, and can easily keep you safe and warm (or cool) during a long traffic jam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Rumors
@@ -40,7 +44,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Wrong!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Electric Vehicle Facts
@@ -48,7 +52,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ![All current Tesla models lined up](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/29bb7ac0.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Tesla_
@@ -67,16 +71,12 @@ Related: [Can You Jump-Start a Dead EV Car Battery?](https://www.reviewgeek.com/
 
  Your typical Tesla heated seat uses around 60 watts per seat and gets controlled by the onboard computer drawing around 250 watts. As long as you don't use extra systems like Wi-Fi to watch Netflix on the infotainment display, the car could easily keep your seats warm for nearly a week.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How Do EVs Stuck In Traffic Fare?
 
 ![Tesla Model 3 stuck in traffic jam](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/c00c6807.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _Dan Kanninen_
@@ -112,18 +112,17 @@ Related: [Here's How Tesla Superchargers Will Work With Other EVs](https://www.r
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-promote-videos-cross-platform-youtube-meets-facebook/"><u>[New] In 2024, How to Promote Videos Cross-Platform YouTube Meets Facebook</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-30-cameras-frontal-screen-for-convenience/"><u>[New] In 2024, Top 30 Cameras Frontal Screen for Convenience</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-10-global-voyages-for-discovery-enthusiasts/"><u>2024 Approved Top 10 Global Voyages for Discovery Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-11x-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme 11X 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-s17-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo S17 Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-oneplus-12r-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on OnePlus 12R Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/sly-satire-crafting-digital-chuckles-on-kapwing-for-2024/"><u>Sly Satire Crafting Digital Chuckles on Kapwing for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tablet-touchscreen-not-working-8-tips-to-fix-touch-problems/"><u>Tablet Touchscreen Not Working? 8 Tips to Fix Touch Problems</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-rated-magsafe-chargers-comprehensive-reviews-and-ratings-techradar/"><u>Top-Rated Magsafe Chargers : Comprehensive Reviews & Ratings - TechRadar</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/tt-dl16-by-taotronics-a-sleek-and-contemporary-led-lampside-companion-our-review/"><u>TT-DL16 by TaoTronics: A Sleek and Contemporary LED Lampside Companion - Our Review</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-motorola-edge-2023-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Motorola Edge 2023 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-visual-storytelling-cropping-and-editing-tips-for-instagram-audiences/"><u>[Updated] 2024 Approved Visual Storytelling Cropping and Editing Tips for Instagram Audiences</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-building-meme-foundations/"><u>2024 Approved Expert Tips Building Meme Foundations</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-nokia-c110-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia C110 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-factors-for-selecting-a-second-hand-pc/"><u>Essential Factors for Selecting a Second-Hand PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-your-dell-bluetooth-keyboard-issues-a-step-by-step-guide/"><u>Fixing Your Dell Bluetooth Keyboard Issues: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a2-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-11f-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 11F 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-oppo-find-x6-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Oppo Find X6</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-tech-talk-optimizing-for-the-apple-store/"><u>In 2024, Tech Talk Optimizing for the Apple Store</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-90-gt-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on 90 GT without backup.</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/versions-of-windows-movie-maker-for-2024/"><u>Versions of Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-infinix-zero-30-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Zero 30 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

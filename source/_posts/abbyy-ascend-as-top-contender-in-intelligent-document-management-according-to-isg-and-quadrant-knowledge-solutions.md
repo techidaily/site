@@ -1,7 +1,7 @@
 ---
 title: ABBYY Ascend as Top Contender in Intelligent Document Management , According to ISG & Quadrant Knowledge Solutions
-date: 2025-01-22T17:19:09.664Z
-updated: 2025-01-29T01:46:59.302Z
+date: 2025-02-18T22:41:56.630Z
+updated: 2025-02-19T16:40:07.377Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e1bd3691a250a97186a2df74.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY est nommé leader 2021 de l’Intelligent Document Processing par ISG et Quadrant Knowledge Solutions
@@ -22,13 +22,13 @@ thumbnail: https://thmb.techidaily.com/c79523d5da758dd05891e015a6284b16ba6ad6e3e
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![News 15 Businessbuildings](https://static4.abbyy.com/abbyycommedia/33670/news-15-businessbuildings.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Encouragée par la dynamique croissante de ses solutions d’Intelligent Document Processing, [ABBYY](https://tools.techidaily.com/abbyy/products/) annonce sa nomination comme leader technologique dans le nouveau rapport [ISG Provider Lens™ Intelligent Automation Solutions & Services](https://tools.techidaily.com/abbyy/products/) pour les États-Unis, le Royaume-Uni, les pays nordiques, le Brésil et l’Allemagne, ainsi que dans le [Quadrant Knowledge Solutions 2021 SPARK Matrix for IDP](https://tools.techidaily.com/abbyy/products/). Cette reconnaissance fait suite à l’évaluation d’ABBYY Vantage, sa plateforme no code de traitement des documents. ABBYY figure également dans le classement de l’[ISG Matrix dédié au marché du process mining](https://tools.techidaily.com/abbyy/products/).
@@ -36,7 +36,7 @@ Encouragée par la dynamique croissante de ses solutions d’Intelligent Documen
 ![](https://static1.abbyy.com/abbyycommedia/35270/qks-idp-spark-matrix-2021.png?width=867&height=488)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Allant au-delà de la reconnaissance optique de caractères (OCR), l'ISG définit l’Intelligent Document Processing comme un système qui utilise des technologies d'intelligence artificielle (IA) telles que le traitement naturel du langage (NLP), le machine learning (ML), la computer vision et le deep learning pour filtrer et analyser de grands volumes de données non structurées dans plusieurs formats, en vue d’un traitement ultérieur, d’un stockage et d’une utilisation par des applications tierces.
@@ -51,15 +51,15 @@ _« Nous sommes ravis d'être distingués en tant que leader de l’IDP par deux
 
 **![](https://static1.abbyy.com/abbyycommedia/35269/isg-idp-leader-2021.png)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 La reconnaissance d’ABBYY en tant que leader de l’IDP intervient après le lancement d’[ABBYY Vantage](https://tools.techidaily.com/abbyy/products/) et d’[ABBYY Marketplace](https://tools.techidaily.com/abbyy/products/). Plus de 500 organisations utilisent d’ores et déjà la plateforme depuis son lancement avec des retours extrêmement positifs sur la nouvelle façon de traiter les documents. C’est notamment le cas de quatre des principales banques américaines et de nombreuses entreprises du cloud. La solution a également été désignée par le magazine KMWorld comme l’[un des produits phares de l’année 2021](https://tools.techidaily.com/abbyy/products/). Pour en savoir plus sur les dernières fonctionnalités d’ABBYY Vantage, veuillez consulter le site [Advanced AI Document Processing | Latest ABBYY Vantage 2.1 Release](https://tools.techidaily.com/abbyy/products/).
 
 * [Rapport ISG Provider Lens™ Intelligent Automation - Solutions & Services 2021 - IDP (U.S.)](https://tools.techidaily.com/abbyy/products/)
 * [Rapport ISG Provider Lens™ Intelligent Automation - Solutions & Services 2021 - Process Mining (U.S.)](https://tools.techidaily.com/abbyy/products/)
 * [Rapport Quadrant Knowledge Solutions SPARK Matrix for IDP 2021](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### À propos d’ABBYY
 
@@ -92,22 +92,22 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-achieve-impact-innovative-imovie-techniques-for-youtube-startups-for-2024/"><u>[Updated] Achieve Impact Innovative iMovie Techniques for YouTube Startups for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-apples-fall-event-highlights-m4-mac-mini-unveiling-revolutionary-ipads-and-advancements-in-ai-with-siri-analysis-by-zdnet/"><u>Exploring Apple's Fall Event Highlights: M4 Mac Mini Unveiling, Revolutionary iPads & Advancements in AI with Siri | Analysis by ZDNET</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-y27-4g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo Y27 4G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-g42-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia G42 5G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a2-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A2 Without Password | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-8-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-gt-5-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT 5 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-legal-fb-music-streaming-hub/"><u>In 2024, Legal FB Music Streaming Hub</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-photo-vid-mosaic-designer-slideshows-for-sierra/"><u>In 2024, Photo-Vid Mosaic Designer Slideshows for Sierra</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-seamless-visuals-on-screen-zooming-into-clarity/"><u>In 2024, Seamless Visuals on Screen Zooming Into Clarity</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/navigating-italy-must-know-expressions-for-guests/"><u>Navigating Italy: Must-Know Expressions for Guests</u></a></li>
-<li><a href="https://techidaily.com/scalping-and-copy-trading-on-mt4-and-mt5-by-mt4copier-guide/"><u>Scalping and Copy Trading on MT4 and MT5</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-tecno-pova-6-pro-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Tecno Pova 6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-motorola-edge-2023-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Motorola Edge 2023</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-infinix-note-30-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Infinix Note 30</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/1723964497718-surecore-unveils-eco-efficient-quantum-memory-innovation-stable-at-recordly-cool-temperatures-of-just-4-kelvin/"><u>SureCore Unveils Eco-Efficient Quantum Memory Innovation - Stable at Recordly Cool Temperatures of Just 4 Kelvin!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-mp4mpl2s-creation-from-twitter-videos/"><u>[New] MP4/MPL2S Creation From Twitter Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-diving-deep-into-sj-cam-s6-features-and-performance-for-2024/"><u>[Updated] Diving Deep Into SJ-CAM S6 Features and Performance for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fast-tracking-fb-content-efficiency-strategies-explored/"><u>[Updated] Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-the-power-of-slug-lines/"><u>2024 Approved Unveiling the Power of Slug Lines</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-reno-10-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/explore-oceans-anew-top-camcorders-for-divers-and-snorkelers-for-2024/"><u>Explore Oceans Anew - Top Camcorders for Divers & Snorkelers for 2024</u></a></li>
+<li><a href="https://win-great.techidaily.com/how-did-chinas-great-leap-forward-influence-its-societal-structure-exploring-historical-perspectives-by-yl-computing/"><u>How Did China's Great Leap Forward Influence Its Societal Structure? - Exploring Historical Perspectives by YL Computing</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-motorola-edge-40-neo-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Motorola Edge 40 Neo Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-pop-8-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 To Other iPhone 13 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-update-your-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>How to use Device Manager to update your hardware drivers in Windows 10</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo S17t? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/maximize-your-iphones-capacity-effective-decluttering-strategies-that-free-up-gigabytes-for-you/"><u>Maximize Your iPhone's Capacity: Effective Decluttering Strategies That Free Up Gigabytes for You!</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-open-excel-2023-read-only-documents-by-stellar-guide/"><u>Solutions to open Excel 2023 Read Only Documents</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-vivo-y78t-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Vivo Y78t</u></a></li>
 </ul></div>
 

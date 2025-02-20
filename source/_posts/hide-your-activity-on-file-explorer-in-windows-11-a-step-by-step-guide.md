@@ -1,7 +1,7 @@
 ---
 title: "Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide"
-date: 2025-02-08T20:52:27.620Z
-updated: 2025-02-09T20:19:00.242Z
+date: 2025-02-15T20:37:50.130Z
+updated: 2025-02-19T20:56:37.710Z
 tags:
   - desktop
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ## Hide Your Activity on File Explorer in Windows 11: A Step-by-Step Guide
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Quick Links
 
 * [Manually Remove Recently Accessed Items](https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-8-plus-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/)
 * [Stop Windows From Keeping Recent Items History](https://techidaily.com/unlock-android-phone-if-you-forget-the-oppo-reno-11-pro-5g-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/)
 * [Clear the Entire History of Recent Items](https://extra-lessons.techidaily.com/2024-approved-accelerating-fb-video-optimal-speeds-unveiled/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![Removing some recent items from the Quick Access in Windows File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-removing-some-recent-items-from-the-quick-access-in-windows-file-explorer.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To selectively remove items from the jump list of File Explorer, right-click on the File Explorer icon in the taskbar, right-click on the item you want to remove, and select "Remove From This List."
@@ -48,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
  To do so, press Win+R, type **%AppData%\\Microsoft\\Windows\\Recent\\** into the run box and click "OK." This will open the Recent Items folder.
 
 ![Removing specific recently accessed items from the Recent Items folder on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-removing-specific-recently-accessed-items-from-the-recent-items-folder-on-windows.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check the boxes next to the recent files and folders you want to remove from the history and click on the recycle bin icon at the top to delete them permanently. If you want to delete all records, select all of them and click on the recycle bin.
 
@@ -61,13 +65,13 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Disabling privacy features in the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-disabling-privacy-features-in-the-folder-options-window.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  While the above process stops Windows from displaying recently accessed items in the Recent section of File Explorer, it will still record them in the Recent Items folder. This means that anyone using your PC can still view those records. So, what's the best way to maintain the privacy of this data?
 
  The best way is to [clear your File Explorer history](https://ai-vdieo-software.techidaily.com/the-ultimate-list-of-avi-video-cutters-trim-and-edit-on-any-device/) after using your PC. Doing so will erase the entire history, ensuring no traces are left for anyone to see.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clear the Entire History of Recent Items
 
@@ -79,16 +83,12 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 ![Opening the Folder Options settings in File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/windows-file-explorer-folder-setting-options.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to the "General" tab in the Folder Options window and click the "Clear" button next to "Clear File Explorer History."
 
 ![Clearing File Explorer history from the Folder Options window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-clearing-file-explorer-history-from-the-folder-options-window.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By doing so, you will erase all the information, and File Explorer will start recording new actions from scratch, ensuring your privacy. Besides clearing your history, you can [customize many other settings](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) in Windows 11 to protect your privacy.
@@ -108,18 +108,18 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-of-breed-top-9-microphones-recorders-online/"><u>[New] Best of Breed Top 9 Microphones Recorders Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-secrets-to-engaging-youtube-live-thumbnails/"><u>[Updated] Unveiling the Secrets to Engaging YouTube Live Thumbnails</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-prime-picks-experts-choice-of-4k-dslr-rigs/"><u>2024 Approved Prime Picks Expert's Choice of 4K DSLR Rigs</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-snapseed-101-basic-editing-techniques-unveiled/"><u>2024 Approved Snapseed 101 Basic Editing Techniques Unveiled</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-live-streams-rokus-path-to-fb-live/"><u>2024 Approved Unlocking Live Streams Roku's Path to FB LIVE</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-a23-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy A23 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-music-archives-copyright-free-gaming-tunes-for-2024/"><u>Free Online Music Archives (Copyright-Free Gaming Tunes) for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-samsung-galaxy-a15-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Samsung Galaxy A15 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-zte-axon-40-lite-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset ZTE Axon 40 Lite Without Password | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-universal-video-concepts-the-10-simplest-ideas-everyone-can-execute/"><u>In 2024, Universal Video Concepts The 10 Simplest Ideas Everyone Can Execute</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-y100i-power-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo Y100i Power 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-infinix-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Infinix .</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi can't play MP4 video files</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-step-by-step-guide-for-capturing-stunning-insta-cover-photos-for-your-highlights/"><u>[New] 2024 Approved Step-by-Step Guide for Capturing Stunning Insta Cover Photos for Your Highlights</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-unleash-popularity-potential-climb-a-million-followers-by-months-end/"><u>[New] In 2024, Unleash Popularity Potential Climb a Million Followers by Month's End</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-talecraft-triumphs-the-leading-academies-in-narrative-arts/"><u>[Updated] Talecraft Triumphs The Leading Academies in Narrative Arts</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-data-analysis-a-guide-to-six-proven-methods-for-better-insights/"><u>ChatGPT for Data Analysis: A Guide to Six Proven Methods for Better Insights</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevating-development-standards-facebook-partners-with-rust/"><u>Elevating Development Standards: Facebook Partners with Rust</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-edge-2023-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Edge 2023 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-realme-gt-5-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme GT 5 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-15-plus-to-android-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 15 Plus To Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-itel-p40plus-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Itel P40+ for Free? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-samsung-galaxy-a25-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Samsung Galaxy A25 5G</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-mp3-player-picks-the-ultimate-guide-explored-by-zdnet/"><u>Top MP3 Player Picks: The Ultimate Guide - Explored by ZDNet</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-g42-5g-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia G42 5G.</u></a></li>
 </ul></div>
 

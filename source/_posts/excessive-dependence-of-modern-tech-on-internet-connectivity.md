@@ -1,7 +1,7 @@
 ---
 title: Excessive Dependence of Modern Tech on Internet Connectivity
-date: 2025-01-22T06:48:12.645Z
-updated: 2025-01-29T13:54:55.039Z
+date: 2025-02-16T19:38:04.137Z
+updated: 2025-02-19T16:41:37.917Z
 tags:
   - cutting-edge
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Excessive Dependence of Modern Tech on Internet Connectivity
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * CrowdStrike's failed automatic security update was disruptive, leading to a massive Windows system outage.
@@ -18,10 +22,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * Reliance on the cloud for data storage poses security risks, emphasizing the need for local backups and reducing internet reliance.
 
  Delayed and canceled flights, delayed packages, and missed work hours. You'd think I'm describing a Gen Z horror movie, but it's actually happening in real time. [CrowdStrike](https://edition.cnn.com/business/live-news/global-outage-intl-hnk/index.html)'s failed cybersecurity update has caused a global outage of Windows systems, exposing the fragility of our modern infrastructure.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Forced Updates Are Disruptive
 
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  All of this wouldn't have happened if the update wasn't scheduled automatically. Experts from the IT department should be given the option to schedule system updates at a time that works for their organization.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Single Point of Failure
@@ -46,6 +46,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  This teaches us an important lesson about redundancy and the unreliability of centralized systems. In an ideal world, critical systems would have backup plans including alternative platforms like Linux and Mac computers, but this isn't the case. Hopefully, we can learn from this incident and put some sort of backup system in place so we're prepared.
 
 ![Hands holding smart phone with app smart home on blurred house as backgrounds.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/shutterstock_1452565637.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [panuwat phimpha/Shutterstock.com](https://www.shutterstock.com/image-photo/hands-holding-smart-phone-app-home-1452565637)
 
@@ -60,7 +64,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 Jerome Thomas / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Clouds Can Vanish
@@ -71,14 +75,10 @@ Jerome Thomas / How-To Geek
 
 ![The PNY Elite-X Type C Flash Drive in the open position](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/wm/2024/01/the-pny-elite-x-type-c-flash-drive-in-the-open-positionjpg_53406116759_o.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Hannah Stryker / How-To Geek
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Reduce Your Reliance on the Internet
@@ -102,22 +102,18 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-discover-4-websites-for-seamless-skype-tones/"><u>[New] Discover 4 Websites for Seamless Skype Tones</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ransform-your-youtube-presence-effortlessly/"><u>[New] Transform Your YouTube Presence Effortlessly</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-art-of-curating-credible-outro-vibes/"><u>[Updated] 2024 Approved The Art of Curating Credible Outro Vibes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-itel-p40plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Itel P40+</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-video-mastery-on-windows-and-mobile-a-unified-guide-for-users/"><u>2024 Approved FB Video Mastery on Windows & Mobile A Unified Guide for Users</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/mpeaac-movavi/"><u>免費在線MPE檔案轉化成AAC音頻 - 利用Movavi無限制的音效管理工具</u></a></li>
-<li><a href="https://win-dash.techidaily.com/access-the-most-recent-dolby-certified-audio-drivers-to-boost-your-windows-systems-performance/"><u>Access the Most Recent Dolby-Certified Audio Drivers to Boost Your Windows System's Performance</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-poco-x6-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X6 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-n30-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord N30 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-12-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-y55s-5g-2023-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo Y55s 5G (2023) Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-realme-11x-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 11X 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/is-your-honor-100-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 100 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-initiative-groundbreaking-ukraine-language-learning-without-cost/"><u>Mondly's Initiative: Groundbreaking Ukraine Language Learning Without Cost</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/quick-and-simple-guide-how-to-swiftly-move-your-ipod-tunes-without-a-hitch/"><u>Quick & Simple Guide: How to Swiftly Move Your iPod Tunes Without a Hitch</u></a></li>
-<li><a href="https://techidaily.com/unlock-locked-iphone-15-pro-max-by-restoring-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 15 Pro Max by restoring</u></a></li>
+<li><a href="https://solve-info.techidaily.com/exploring-effective-strategies-for-overcoming-hardware-malfunctions-with-yls-innovative-approach/"><u>Exploring Effective Strategies for Overcoming Hardware Malfunctions with YL's Innovative Approach</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/fixing-the-dciman32dll-not-detected-problem-on-your-pc/"><u>Fixing the 'dciman32.dll Not Detected' Problem on Your PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-camon-30-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Camon 30 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/in-depth-look-at-how-chatgpt-link-sharing-works-and-what-it-means-for-you/"><u>In-Depth Look at How ChatGPT Link Sharing Works and What It Means for You</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/integrate-smoothly-using-chatgpts-api/"><u>Integrate Smoothly: Using ChatGPT's API</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/revolutionize-your-youtube-content-with-advanced-video-editing-in-sony-vegas-for-2024/"><u>Revolutionize Your YouTube Content with Advanced Video Editing in Sony Vegas for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/section-4c-qandas/"><u>Section 4C: Q&As</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-7-budget-friendly-high-res-4k-cameras-for-2024/"><u>Top 7 Budget-Friendly High-Res 4K Cameras for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-your-traffic-the-straightforward-strategy-for-scrutinizing-youtube-earnings/"><u>Track Your Traffic The Straightforward Strategy for Scrutinizing YouTube Earnings</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-infinix-note-30i-by-fonelab-android-recover-music/"><u>Undelete lost music from Infinix Note 30i</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S23 Ultra?</u></a></li>
+<li><a href="https://techidaily.com/will-galaxy-s23plus-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Will Galaxy S23+ play AVCHD mts files?</u></a></li>
 </ul></div>
 

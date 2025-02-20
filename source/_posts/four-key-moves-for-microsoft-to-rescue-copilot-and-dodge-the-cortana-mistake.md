@@ -1,7 +1,7 @@
 ---
 title: Four Key Moves for Microsoft to Rescue Copilot and Dodge the Cortana Mistake
-date: 2025-01-27T22:22:03.854Z
-updated: 2025-01-29T09:42:08.802Z
+date: 2025-02-15T16:55:07.046Z
+updated: 2025-02-19T21:04:17.163Z
 tags:
   - deals
 categories:
@@ -13,17 +13,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 It's clear that Microsoft thinks Copilot is here to stay. They’re so confident that they’ve added an entire button for it on Copilot+ PCs. However, unless Microsoft wants that button to be a useless relic that brings back painful memories in just a few years, Copilot needs to get a few things right.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Microsoft Has Had a Troubled History With Digital Assistants
 
  Much as they would like you to forget, Copilot is not Microsoft’s first crack at a digital assistant. In fact, they’ve built two before this: Clippy and Cortana—the former of which we loved to hate and the latter of which we simply hated (or completely ignored).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Clippy: The Assistant We All Love to Hate
 
@@ -43,6 +35,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Clippy would go on to frustrate users until it was disabled by default in Office XP and retired in Office 2007.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Cortana: The One That Missed the Mark
 
  Microsoft’s next attempt at a digital assistant came in 2015 when they launched Cortana, aiming to ride the voice assistant wave. Fun fact, Cortana was named after an AI character in the Halo games whose job was to support players through missions. Said AI would eventually become antagonistic and work against the player in a subsequent installment of the game. Foreshadowing?
@@ -51,6 +47,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 ![Cortana on Windows 10](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/07/img_55bc11439921b.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It also didn't help that Cortana just wasn't a very good assistant. Simple requests like “Play some music” or “What’s the time” triggered a web search half the time, and you could probably do whatever Cortana could in less time with your keyboard and mouse.
 
  These challenges meant that Cortana struggled to amass a sizable user base. Even Microsoft didn't believe in Cortana’s future, gradually diminishing it until it was finally killed off in 2023.
@@ -58,7 +58,7 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Microsoft has since moved on from Clippy and Cortana. Now Copilot is the new kid on the block, and he’s got all the coolest AI toys. But that won’t mean anything if Microsoft doesn't fix the mistakes it made with its earlier assistants.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Dear Microsoft, Kindly Refrain From Forcing Me to Use Copilot
@@ -73,6 +73,10 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
  Maybe start by freeing up the taskbar real estate Copilot has claimed for itself.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Don't Just Tell Me How—Do It for Me
 
  One thing that irked me about Cortana was that it couldn’t do much. Oh, it could search Bing and tell you all the different ways to do a thing, but actually taking action on your behalf was beyond its capabilities.
@@ -86,7 +90,7 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 ![A conversation with Microsoft Copilot about storage space](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/a-conversation-with-microsoft-copilot-about-storage-space.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Copilot, Respect My Boundaries
@@ -96,10 +100,6 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
  Copilot cannot operate the same way. If I'm going to ask Copilot to reword an email before sending it off, I need to be sure that Ted from IT won’t get eyes on it.
 
  Microsoft's already had a poor start in this regard. [Recall](https://tech-hub.techidaily.com/leveraging-chatgpt-for-effective-meditation-routines-a-step-by-step-guide/)–which was supposed to be a huge selling point for the Copilot+ PCs has been [beset by privacy concerns](https://youtube-stream.techidaily.com/in-2024-the-best-of-yt-a-deep-dive-into-music-dance-clips-23/) since its announcement. Even though Recall is different from Copilot, they are so closely intertwined in the new Copilot+ PCs that Copilot can't help but be tainted by association.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Copilot, I Need to Know I Can Trust You
 
@@ -126,18 +126,18 @@ It's clear that Microsoft thinks Copilot is here to stay. They’re so confident
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://techtrends.techidaily.com/crear-video-en-linea-con-zoomare-guia-paso-a-paso-del-editor-de-videos-gratuito/"><u>Crear Vídeo en Línea Con Zoomare: Guía Paso a Paso Del Editor De Videos Gratuito</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/decoding-the-modern-content-creators-dilemma/"><u>Decoding the Modern Content Creator's Dilemma</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-xs-max-how-to-unlock-a-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>Disabled iPhone XS Max How to Unlock a Disabled iPhone XS Max? | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/google-meet-zoom-tips-maximizing-participant-visibility-for-2024/"><u>Google Meet Zoom Tips Maximizing Participant Visibility for 2024</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-tecno-phantom-v-flip-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Phantom V Flip Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-12-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 12 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2020-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2020) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Realme V30? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/job-security-and-chatgpt-a-close-look-at-ten-potential-risks/"><u>Job Security and ChatGPT: A Close Look at Ten Potential Risks</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/optimal-storage-savings-for-the-digital-age/"><u>Optimal Storage Savings for the Digital Age</u></a></li>
-<li><a href="https://extra-information.techidaily.com/pros-choice-9-premium-streaming-services/"><u>Pro's Choice 9 Premium Streaming Services</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-a2-won-t-play-hevc-h-265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Xiaomi Redmi A2 won’t play HEVC H.265 media, how to fix? </u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-spark-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-5-essential-steps-to-prevent-blank-screen-issues-in-obs/"><u>[New] 5 Essential Steps to Prevent Blank-Screen Issues in OBS</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-unleash-your-creative-potential-with-full-length-vivacut-review-24/"><u>[Updated] Unleash Your Creative Potential with Full-Length VivaCut Review '24</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-chill-vibes-top-idle-pc-experiences/"><u>2024 Approved Chill Vibes Top Idle PC Experiences</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlock-viewers-essential-guide-to-fantastic-template-based-yt-desc-writing/"><u>2024 Approved Unlock Viewers Essential Guide to Fantastic Template-Based YT Desc Writing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oneplus-nord-n30-se-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove OnePlus Nord N30 SE Fingerprint Lock</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-of-apple-iphone-8-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data of Apple iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-sony-xperia-5-v-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Sony Xperia 5 V Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210755602-9791028519179-il-nous-faut-tous-un-jour-apprendre-a-mourir/"><u>Il nous faut tous un jour apprendre à mourir | Free Book</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mapping-media-memorable-ends/"><u>Mapping Media Memorable Ends</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/meet-apples-most-recent-addition-an-in-depth-look-at-the-new-macbook/"><u>Meet Apple's Most Recent Addition: An In-Depth Look at the New MacBook</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-mechanism-of-chatbots-in-mimicking-talk/"><u>The Mechanism of Chatbots in Mimicking Talk</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-honor-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Honor</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-nokia-c210-by-fonelab-android-recover-music/"><u>Undelete lost music from Nokia C210</u></a></li>
 </ul></div>
 

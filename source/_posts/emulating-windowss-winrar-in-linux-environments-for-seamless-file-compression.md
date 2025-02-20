@@ -1,7 +1,7 @@
 ---
 title: Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
-date: 2025-02-04T17:58:16.797Z
-updated: 2025-02-09T17:02:23.957Z
+date: 2025-02-13T21:02:48.333Z
+updated: 2025-02-19T16:33:00.701Z
 tags:
   - desktop
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Emulating Windows's WinRAR in Linux Environments for Seamless File Compression
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -20,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Performing Multiple Operations on RARs](https://screen-mirroring-recording.techidaily.com/in-2024-5-essential-strategies-to-avoid-a-dark-screen-during-obs-recordings/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -30,10 +34,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * It may be worthwhile to check out alternative options like File Roller, 7-Zip, or Xarchiver on Linux.
 
  WinRAR is a popular archive manager for Windows that many people are familiar with. However, did you know you could use WinRAR on Linux? It’s not the rar command-line tool most people think of. Rather, you can run the same Windows graphical WinRAR tool on your Linux desktop. We'll show you how.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Can You Install WinRAR on Linux?
 
@@ -61,10 +61,6 @@ sudo pacman -S wine
 
 ![downloading WinRAR 64-bit version of windows from the official download page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/0.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, head over to the directory where you saved the file using [the cd command](https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/):
 
 cd Downloads
@@ -84,7 +80,7 @@ wine winrar-*.exe
 ![WinRAR on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Extracting a RAR File Using WinRAR on Linux
@@ -103,10 +99,14 @@ wine winrar-*.exe
 
 ![viewing extracted rar file in Nautilus file manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5a.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As mentioned earlier, WinRAR officially only provides rar for Linux, which is a command-line tool. If you prefer [extracting RAR files using the command line](https://video-creation-software.techidaily.com/new-capturing-memories-a-guide-to-sharing-ps4-screenshots-online-for-2024/), you can use the rar command.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  WinRAR Alternatives for Linux
@@ -116,6 +116,10 @@ wine winrar-*.exe
 ###  File Roller
 
 ![File Roller on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/6-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [File Roller](https://wiki.gnome.org/Apps/FileRoller) is the default tool for managing archives on the Linux system with a [GNOME](https://some-guidance.techidaily.com/new-the-complete-vivacut-overview-editors-deep-dive/) desktop. This tool has a simple and intuitive GUI that lets you create, extract, and modify various archive files, such as RAR, ZIP, TAR, and others.
 
@@ -132,10 +136,6 @@ sudo dnf -y install file-roller-nautilus
 sudo pacman -S file-roller
 
  After installing File Roller, you can extract, add, or open any RAR file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  7-Zip
 
@@ -161,6 +161,10 @@ sudo pacman -S p7zip
 
 ![xarchiver on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/8-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Xarchiver](https://xarchiver.sourceforge.net/) is a GTK+ application that can handle various compression formats. You can use it to create archives and perform operations like adding, extracting, and deleting files. It lets you browse archives with MIME type icons, add comments to them, and export them as HTML or TXT.
 
  You can install Xarchiver in Ubuntu or Debian using the following command:
@@ -176,10 +180,6 @@ sudo yum -y install xarchiver
 sudo pacman -S xarchiver
 
  After installing Xarchiver on your Linux PC, you can easily create and extract RAR archives.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Performing Multiple Operations on RARs
 
@@ -202,18 +202,21 @@ sudo pacman -S xarchiver
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-boosting-productivity-with-innovative-win11-features/"><u>[New] 2024 Approved Boosting Productivity with Innovative Win11 Features</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-a-beginners-guide-to-youtube-shorts-nuances/"><u>[Updated] A Beginner's Guide to YouTube Shorts Nuances</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-how-to-shoot-underwater-video-easily-with-7-tips/"><u>[Updated] How to Shoot Underwater Video Easily (with 7 Tips)</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/a-peek-at-the-cutting-edge-features-for-windows-users/"><u>A Peek at the Cutting-Edge Features for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-vivo-s17t-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo S17t Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g13-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G13 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to Android? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-redmi-note-12-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Xiaomi Redmi Note 12 5G Without PUK Codes</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-zooming-in-youtube-videos/"><u>The Art of Zooming in YouTube Videos</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-c32-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from C32</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Google Pixel Fold.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unlock-the-power-of-siri-instructions-for-reading-aloud-text-on-apple-devices/"><u>Unlock the Power of Siri: Instructions for Reading Aloud Text on Apple Devices</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-iphone-ready-syncing-photos-and-videos-from-pc/"><u>[New] In 2024, IPhone-Ready Syncing Photos & Videos From PC</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-emoticon-experts-guide-to-capturing-and-preserving-twitters-gif-images/"><u>[New] The Emoticon Expert’s Guide to Capturing and Preserving Twitter's GIF Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-hero-4-vs-x1000v-which-camera-delivers-more-professional-results/"><u>[Updated] In 2024, Hero 4 Vs. X1000V Which Camera Delivers More Professional Results?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-pinnacle-audio-dramatic-works/"><u>[Updated] In 2024, Pinnacle Audio-Dramatic Works</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/clandestine-call-collectors-a-stealthy-apps-review-androidios/"><u>Clandestine Call Collectors A Stealthy Apps Review (Android/iOS)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-check-my-baidu-ranking-by-link-assistant-rank-tracker-rank-tracker/"><u>How do I check my Baidu ranking?</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-reno-10-proplus-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo Reno 10 Pro+ 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-nord-ce-3-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus Nord CE 3 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c300-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C300 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y100-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y100</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209667230-9781547574568-meditacion-activa-tus-chakras-y-vive-la-vida-llena-de-felicidad/"><u>Meditación : Activa Tus Chakras Y Vive La Vida Llena De Felicidad | Free Book</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-tecno-phantom-v-flip-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Tecno Phantom V Flip</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-essentials-comprehensive-editing-tutorial-for-2024/"><u>The Essentials Comprehensive Editing Tutorial for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Your Weekly Briefing on the Newest Phone Innovations by Google and Samsung Ahead
-date: 2025-02-08T17:22:25.655Z
-updated: 2025-02-09T22:07:46.033Z
+date: 2025-02-12T22:53:33.247Z
+updated: 2025-02-19T18:50:56.811Z
 tags:
   - mobile
 categories:
@@ -19,10 +19,6 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 
  Excel finally has a built-in option to use checkboxes in spreadsheet cells. Checkboxes will be useful in to-do lists, attendance sheets, and more.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Apple Loosens Its Grip on iPhone Replacement Parts](https://driver-download.techidaily.com/get-updated-nvidia-driver-pack-for-geforce-rtx-2070-on-windows-os/) 
 
  Third-party components will no longer disable True Tone or battery health.
@@ -34,34 +30,38 @@ This was a surprisingly busy week for tech news, with announcements for Google a
 ![Saving a game recording in Steam.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/feature.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Valve
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Samsung's New Foldables Are Coming July 10th](https://on-screen-recording.techidaily.com/2024-approved-the-elite-selection-of-top-12-tycoons-perfect-for-strategic-souls/) 
 
  Samsung confirmed its next Unpacked event for July 10th, and we’re expecting new folding phones and other hardware.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### [Google Chrome Now Has Better Web Search and Sports Scores](https://snapchat-videos.techidaily.com/updated-change-snapchat-voice-in-minutes-using-twin-methods/) 
 
  Chrome on iPhone, iPad, and Android now has a few more features.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### [Your Smartphone Is Coming to Windows 11's Start Menu](https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-vivo-y100i-by-drfone-android/) 
 
  Finally, a Start menu change that makes sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### [The ChatGPT Desktop App Is Now Available to Free Users](https://video-capture.techidaily.com/updated-audiopiece-recorder-guide-installation-and-test/) 
 
  The official ChatGPT desktop application doesn’t need a Plus subscription anymore, but the app is still limited to macOS.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### [Moto Tag Is an AirTag Clone for Android Users](https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-infinix-smart-8-hd-phone-by-drfone-android/) 
 
@@ -76,7 +76,7 @@ Motorola
  Google's next hardware event is nearing.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [Paramount+ Is Raising Prices Again](https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-g22-drfone-by-drfone-virtual-android/) 
@@ -104,18 +104,20 @@ Motorola
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-revolutionize-your-content-with-youtube-split-screen-videos/"><u>[New] 2024 Approved Revolutionize Your Content with YouTube Split-Screen Videos</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-from-youtube-to-instagram-sharing-video-content-with-ease/"><u>2024 Approved From YouTube to Instagram Sharing Video Content with Ease</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 15 Plus Data From iOS iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-itel-p40-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Itel P40 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro Max without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-pro-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 Pro Max without Losing Any Data? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-samsung-galaxy-s23-ultra-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Samsung Galaxy S23 Ultra Phone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/illustration-insights-elevating-text-in-three-dimensions-for-2024/"><u>Illustration Insights Elevating Text in Three Dimensions for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-strategies-for-monetizing-your-content-without-infringement/"><u>In 2024, Strategies for Monetizing Your Content Without Infringement</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-gpt-an-authoritative-guide-to-health-matters/"><u>Is GPT an Authoritative Guide to Health Matters?</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y56-5g-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y56 5G Device</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/top-processor-promotions-exclusive-discounts-on-amd-and-intel-models/"><u>Top Processor Promotions : Exclusive Discounts on AMD & Intel Models</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-honor-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Honor .</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-evaluating-the-significance-of-insta-selfies-verification/"><u>2024 Approved Evaluating the Significance of Insta-Selfies Verification</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-harness-the-full-potential-of-your-videos-with-simple-cuts-on-windows/"><u>2024 Approved Harness the Full Potential of Your Videos with Simple Cuts on Windows</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-setup-logitech-c270-usb-webcam-driver-guide/"><u>Download & Setup: Logitech C270 USB Webcam Driver Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-removing-automatic-ai-snippets-from-google-query-results/"><u>Guide to Removing Automatic AI Snippets From Google Query Results</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oppo-k11x-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo K11x Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-e13-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto E13 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-mini-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 mini to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-melody-management-and-legalities-on-social-media/"><u>In 2024, Melody Management and Legalities on Social Media</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-reimagining-your-images-effective-uses-of-the-background-eraser-in-adobe-photoshop/"><u>In 2024, Reimagining Your Images Effective Uses of the Background Eraser in Adobe Photoshop</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-secret-screengrabs-elusive-methods-for-concealed-photo-taking/"><u>In 2024, Secret ScreenGrabs Elusive Methods for Concealed Photo-Taking</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/inside-the-powerful-performance-of-hps-zbook-studio-g9-the-ultimate-professional-mobile-workstation-reviewed/"><u>Inside the Powerful Performance of HP's ZBook Studio G9: The Ultimate Professional Mobile Workstation Reviewed</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-samsung-galaxy-a05-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Samsung Galaxy A05</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-blaze-2-pro-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Blaze 2 Pro.</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-14-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on 14 ?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Looking for an Earbud Charging Case with Built-In Volume Control
-date: 2025-02-04T23:23:44.017Z
-updated: 2025-02-09T20:23:04.572Z
+date: 2025-02-17T22:49:35.275Z
+updated: 2025-02-19T19:07:54.771Z
 tags:
   - mobile
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Looking for an Earbud Charging Case with Built-In Volume Control
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -23,7 +23,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The CMF Phone 1 looks like a solid budget phone that features a swappable back cover schtick reminiscent of the ancient HTC Tattoo. What caught my eye, though, are the CMF earbuds and their case, which rocks a volume wheel. Now I want my next earbud charging case to have one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on a Charging Case Could Actually Be Useful
@@ -37,7 +37,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Not only that, but a volume knob on my earbud charging case would also allow me to freely adjust the volume on every device I use the earbuds with, be that a PC, console, or TV.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Built-in Volume Controls Could Diversify Charging Case Designs
@@ -49,10 +49,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Then you’ve got the volume knob-like implementation, which is the route Nothing took when designing the [CMF Earbuds](https://cmf.tech/pages/buds) case.
 
 ![CMF Buds charging case in black.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cmf-buds.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Nothing/CMF
 
@@ -66,12 +62,16 @@ ASUS
 
 ![Three sizes of the TinyPod Apple Watch silicone case.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/tinypod-apple-watch-silicone-case-all-sizes.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Christian Zibreg / How-To Geek / TinyPod
 
  In the case of the mechanical variant, the wheel could fit flush with the surface of the charging case and feature a nice and robust tactile feedback that would kick in when you rotate it clockwise and anticlockwise to adjust the sound volume. Tactile volume dials would not only inject a breath of originality and utility into the world of earbud charging cases; they would also bring back a dose of physicality and tactility to the otherwise bland, sterile, and [touch-only smartphone experience](https://facebook-record-videos.techidaily.com/updated-in-2024-beam-your-content-upward-perfecting-youtube-seo-techniques/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  A Volume Dial on My Earbuds’ Charging Case Would Be a Great Fidget Toy
@@ -97,22 +97,18 @@ Christian Zibreg / How-To Geek / TinyPod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-how-much-money-can-a-podcaster-make/"><u>[New] How Much Money Can a Podcaster Make?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-ultimate-5-social-media-films/"><u>[New] Ultimate 5 Social Media Films</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-what-is-youtube-tag-and-how-to-find-great-tags-for-your-videos/"><u>[New] What Is YouTube Tag and How to Find Great Tags For Your Videos?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-behind-the-scenes-with-filmora-top-10-must-haves/"><u>[Updated] Behind the Scenes with Filmora Top 10 Must-Haves</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-green-tactics-for-easy-youtube-cta-conversions-for-2024/"><u>[Updated] Green Tactics for Easy YouTube CTA Conversions for 2024</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-a60-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel A60 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-tecno-spark-go-2024-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Spark Go (2024) Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 14 Pro Max Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-nubia-z50s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-music-maestro-uploading-beats-to-your-youtube/"><u>In 2024, Music Maestro Uploading Beats to Your YouTube</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-metaverse-compelling-vr-headsets-recommended/"><u>Navigating Metaverse Compelling VR Headsets Recommended</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-70-lite-5g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-infinix-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Infinix</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2007-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2007</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-magic-vs-2-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Magic Vs 2</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>[New] Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-nokia-g310-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Nokia G310</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/dismiss-incompatible-prerequisite-message-in-win11/"><u>Dismiss Incompatible Prerequisite Message in Win11</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-x50iplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor X50i+ Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-12-mini-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-acclaimed-vehicle-monitoring-systems-explained/"><u>In 2024, Acclaimed Vehicle Monitoring Systems Explained</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-expert-tips-to-enhance-your-iphone-memo-making-skills/"><u>In 2024, Expert Tips to Enhance Your iPhone Memo-Making Skills</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-the-path-of-adobe-presenter-video-creation/"><u>In 2024, Navigating the Path of Adobe Presenter Video Creation</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mondly-and-pearson-unite-for-next-gen-filtering-tools/"><u>Mondly and Pearson Unite for Next-Gen Filtering Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-effortlessly-resolving-directx-issues-in-fifa-19/"><u>Quick Solutions: Effortlessly Resolving DirectX Issues in FIFA 19</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-huawei-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Huawei .</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-galaxy-z-flip-5-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Galaxy Z Flip 5 on Windows?</u></a></li>
 </ul></div>
 

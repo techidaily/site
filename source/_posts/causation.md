@@ -1,7 +1,7 @@
 ---
 title: Causation
-date: 2025-01-26T01:52:42.845Z
-updated: 2025-01-28T19:41:39.467Z
+date: 2025-02-13T19:15:40.629Z
+updated: 2025-02-19T16:24:44.596Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Causation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -21,10 +21,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [Can You Use AI to Detect AI-Generated Text?](https://sound-issues.techidaily.com/fixing-the-issue-steelseries-arctis-99x-microphone-malfunction-resolved/)
 * [Tools to Check If An Article Was Written By ChatGPT](https://extra-approaches.techidaily.com/snappy-snippets-quick-and-quirky-memes-guide-for-2024/)
 * [Train Your Brain To Catch AI](https://tech-hub.techidaily.com/leveraging-chatgpts-power-building-effective-web-applications-easily/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,7 +31,7 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  The more sinister uses of AI tech, like a political disinformation campaign blasting out fake articles, mean we need to educate ourselves enough to spot the fakes. So [how can you tell](https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-oneplus-phone-unlock-it-now-by-drfone-android/) if an article is actually AI generated text?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Tell If ChatGPT Wrote That Article
@@ -51,10 +47,14 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
 ![Chat GPT answering the question "Can you explain quantum computing in simple terms?"](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/05/Screenshot-2023-05-08-at-12.29.13-PM.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Short, simple connecting words are regularly used, the sentences are all a similar length, and paragraphs all follow a similar structure. The end result is writing that sounds and feels a bit robotic.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Can You Use AI to Detect AI-Generated Text?
 
@@ -65,7 +65,7 @@ You can tell a ChatGPT-written article by its simple, repetitive structure and i
  Invisible to the naked eye, the watermark would be detectable by an algorithm, which would indicate it as either human or AI generated depending on how often it adhered to or broke the watermarking rules. Unfortunately, this method hasn't tested so well on later models of ChatGPT.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Tools to Check If An Article Was Written By ChatGPT
@@ -113,24 +113,16 @@ Related: [How to Fact-Check ChatGPT With Bing AI Chat](https://facebook-video-fo
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-sweet-screen-snatcher-examination-in-depth/"><u>[New] 2024 Approved Sweet Screen Snatcher Examination In-Depth</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-chronicle-your-conquests-with-galaxy-screen-captures/"><u>[New] Chronicle Your Conquests with Galaxy Screen Captures</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-gopros-newest-clash-max-360-versus-hero-11-showdown-for-2024/"><u>[New] GoPro's Newest Clash Max 360 Versus Hero 11 Showdown for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-gradual-volume-lessening-in-music-creation-garageband/"><u>[New] In 2024, Gradual Volume Lessening in Music Creation (Garageband)</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-capturing-every-view-not-just-a-flat-slice-of-reality/"><u>[Updated] Capturing Every View, Not Just a Flat Slice of Reality</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728504095183-aomei-backupper/"><u>AOMEI Backupperを使った効果的なディスクの完全消去手順</u></a></li>
-<li><a href="https://techtrends.techidaily.com/best-12-free-mobile-apps-for-watching-films-online/"><u>Best 12 Free Mobile Apps for Watching Films Online</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pop-7-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pop 7 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-max-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS Max To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to Android? | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-critical-factors-for-an-effective-4k-camera-upgrade/"><u>In 2024, Critical Factors for an Effective 4K Camera Upgrade</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-integrating-third-party-tools-with-your-win11-zoom-setup/"><u>In 2024, Integrating Third-Party Tools with Your Win11 Zoom Setup</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-how-to-create-captions-in-final-cut-pro-x-a-comprehensive-guide/"><u>New 2024 Approved How to Create Captions in Final Cut Pro X A Comprehensive Guide</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-a25-5g-won-t-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Samsung Galaxy A25 5G won't play MOV videos, how to fix ?</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix Zero 30 5G</u></a></li>
-<li><a href="https://techidaily.com/what-to-do-if-iphone-15-pro-max-is-not-listed-when-i-run-the-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What to do if iPhone 15 Pro Max is not listed when I run the software? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-tecno-phantom-v-fold-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/a-comprehensive-tutorial-on-downloading-video-footage-from-the-trovo-platform/"><u>A Comprehensive Tutorial on Downloading Video Footage From the Trovo Platform</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/discovering-pc-gaming-the-quintessential-5-gb-advance-emulators/"><u>Discovering PC Gaming The Quintessential 5 GB Advance Emulators</u></a></li>
+<li><a href="https://blog-min.techidaily.com/download-gratuito-de-conversor-mp4-para-arquivos-em-3gp-movavi/"><u>Download Gratuito De Conversor MP4 Para Arquivos Em 3GP - Movavi</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-samsung-galaxy-s24-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Samsung Galaxy S24 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-in-pc-device-activation-during-sleep/"><u>Navigating In-PC Device Activation During Sleep</u></a></li>
+<li><a href="https://win-data.techidaily.com/resolving-execution-errors-for-applications-on-windows-nx-expert-tips-by-yl-software-solutions/"><u>Resolving Execution Errors for Applications on Windows nX: Expert Tips by YL Software Solutions</u></a></li>
+<li><a href="https://techidaily.com/sign-doc-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .doc file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-infinix-hot-30i-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Infinix Hot 30i</u></a></li>
 </ul></div>
 

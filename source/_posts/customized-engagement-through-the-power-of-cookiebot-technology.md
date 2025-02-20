@@ -1,7 +1,7 @@
 ---
 title: Customized Engagement Through the Power of Cookiebot Technology
-date: 2024-10-04T23:17:13.753Z
-updated: 2024-10-06T03:58:14.238Z
+date: 2025-02-15T22:17:19.154Z
+updated: 2025-02-20T00:36:24.864Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391dec23043dea2f82d9170e773.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## ABBYYがAlteryxと提携し、高度なProcess IntelligenceによりAlteryx社のアナリティック・プロセス・オートメーション（APA）プラットフォームを拡張
 
 10月23日, 2020
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **_統合型のソリューションを通じてデジタルトランスフォーメーションの主要なイニシアチブを加速_**
 
@@ -105,31 +113,21 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-navigating-the-path-to-viewable-reach-responsibly/"><u>[Updated] 2024 Approved Navigating the Path to Viewable Reach Responsibly</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-obs-rescue-cameras-are-back-up/"><u>[Updated] In 2024, OBS Rescue Cameras Are Back Up</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-optimal-choices-in-monitors-for-ps5-gamers/"><u>2024 Approved Optimal Choices in Monitors for PS5 Gamers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-prime-applications-transforming-vtuber-voices-on-the-fly/"><u>2024 Approved Prime Applications Transforming VTuber Voices on the Fly</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/1725286635646-dvd/"><u>初心者にもわかりやすいジャニーズDVDの高品質コピー技術</u></a></li>
-<li><a href="https://fox-links.techidaily.com/exclusive-review-of-top-mp4-players/"><u>Exclusive Review of Top MP4 Players</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-realme-c67-4g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme C67 4G in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-iphone-8-plus-device-from-icloud-by-drfone-ios/"><u>How to Remove Apple iPhone 8 Plus Device from iCloud</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-infinix-note-30-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Infinix Note 30 5G</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23plus-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23+ Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-n30-se-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord N30 SE phone? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-realme-c51-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Realme C51 | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-blueprint-for-attracting-brands-as-youtube-affiliates/"><u>In 2024, The Blueprint for Attracting Brands as Youtube Affiliates</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c12-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-hardware-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning hardware drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-asus-rog-phone-7-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Asus ROG Phone 7</u></a></li>
-<li><a href="https://techidaily.com/ways-to-fix-the-failed-to-parse-the-corrupted-excel-2003-file-error-by-stellar-guide/"><u>Ways to Fix the Failed to Parse the Corrupted Excel 2003 File Error</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-12-mini-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 12 mini files after scanning? | Stellar</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-13t-pro-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my 13T Pro?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-efficiently-removing-youtube-channels-a-device-centric-approach/"><u>[New] 2024 Approved Efficiently Removing Youtube Channels A Device-Centric Approach</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-5-best-tools-to-convert-videos-directly-to-twitter/"><u>[New] 2024 Approved The 5 Best Tools to Convert Videos Directly to Twitter</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/xpert-tips-on-camera-lens-selection-for-professional-vloggers-for-2024/"><u>[New] Expert Tips on Camera Lens Selection For Professional Vloggers for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-captivating-clips-keywords-that-ignite-viral-shorts-on-youtube/"><u>[New] In 2024, Captivating Clips Keywords That Ignite Viral Shorts on YouTube</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-streamline-your-journey-to-zoom-mastery/"><u>[Updated] Streamline Your Journey to Zoom Mastery</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unlocking-the-power-of-scheduled-instagram-posts-for-2024/"><u>[Updated] Unlocking the Power of Scheduled Instagram Posts for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-power-of-the-podium-mastering-audio-in-videography/"><u>2024 Approved The Power of the Podium Mastering Audio in Videography</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-itel-a05s-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-instagram-storytelling-with-automated-captions-for-2024/"><u>Elevate Your Instagram Storytelling with Automated Captions for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-mini-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 mini without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-14-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 14 Plus Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-x-flip-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo X Flip working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/linksys-ae1100-drivers-and-support-files-quick-downloads-for-hassle-free-configuration/"><u>Linksys AE1100 Drivers & Support Files: Quick Downloads for Hassle-Free Configuration</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-12-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 12 Suddenly | Stellar</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

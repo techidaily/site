@@ -1,7 +1,7 @@
 ---
 title: Resolve Compile Error in Hidden Module in Excel 2023 Causes & Solutions | Stellar
-date: 2024-09-21T20:55:00.069Z
-updated: 2024-09-24T10:36:33.032Z
+date: 2025-02-12T22:02:02.690Z
+updated: 2025-02-20T00:17:32.931Z
 tags: 
   - repair
   - repair excel
@@ -33,6 +33,10 @@ You may encounter the Compile error in hidden module due to one of the following
 - Missing or corrupted mscomctl.ocx file.
 
 Excel can throw the compile error while compiling the code that exists in the protected module. So, first check the error and identify the hidden module that is creating the issue. You can unprotect the module. Also, ensure that you have permission to access the VBA code in the module. If the error still exists, follow the below troubleshooting methods.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Re-register ActiveX Control Files or mscomctl.ocx Files
 
@@ -120,6 +124,10 @@ Corruption in the Excel file can affect the macros in the hidden module, which m
 - After repair, a message is displayed. Click **Close**.
 
 ![Message Appear After Repair](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/message-appear-after-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What if None of the Above Solutions Works?**
 
@@ -225,27 +233,17 @@ In **Excel Options**, click **Advanced** and unselect **"Ignore other applicatio
 
 Sometimes, the copy and paste error can occur if you try to move data from an older version of Excel file (XLS) into a newer version file (XLSX) or vice versa. You can try to change or convert the file format to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Clear Clipboard**
 
 Too many items on the clipboard can prevent you from copying and pasting the data. You can [empty your clipboard](https://support.microsoft.com/en-au/office/clear-the-clipboard-7afbf55f-d7d5-4096-87a0-eb17f821d321) by deleting all clips. To do this, go to **Home** and click the **Clipboard** option.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1828647/21290" target="_top" id="1828647">
-  <img src="//a.impactradius-go.com/display-ad/21290-1828647" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1828647/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Change the Column's Cell Format**
 
 You can get the "Cannot paste the data" error when the information you need to paste does not match the cell format in the column. In such a case, you can change the column's cell format. To do this, navigate to the **Home** option and then click on the **General menu** arrow. Then, change the cell format suitable to the type of information you are trying to paste in that column.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Add Columns**
 
@@ -254,6 +252,10 @@ The copy-and-paste error in Excel can also occur if there are not enough columns
 ### **Remove Incompatible Add-ins**
 
 Sometimes, incompatible or faulty add-ins can also create conflicts with Excel's clipboard operations, leading to the error. To check if add-ins are causing the issue, open the Excel file in safe mode. In safe mode, if you are able to paste the data, then check and uninstall the incompatible Excel Add-ins.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What to do if Nothing Works?**
 
@@ -276,6 +278,10 @@ If the above methods do not work, then corruption in the Excel file could be the
 
 The "Excel cannot paste the data" error in Excel can occur due to different factors. You can check and clear the clipboard, unmerge the cells, unlock the cells, and use various other methods mentioned above to troubleshoot the error. If you fail to copy and paste the data due to file corruption, then opt for an advanced Excel repair software, like [Stellar Repair for Excel.](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) It is a reliable tool that can help you repair highly damaged/corrupted Excel files. It enables you to recover all the objects from the corrupted Excel file, with complete integrity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Excel Formulas Not Working Properly | Step-by-Step Guide
 
 **Summary:** Excel formulas sometimes fail to function correctly and even return an error. This article explains what you might be doing wrong that prevents Excel formulas from working properly and solutions to resolve the issue. If your formulas have disappeared from the Excel spreadsheet and you are having trouble recovering them, you can use an Excel repair tool to recover the formulas.
@@ -283,13 +289,6 @@ The "Excel cannot paste the data" error in Excel can occur due to different fact
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 When working with Excel formulas, situations may arise when the formula doesn’t calculate or update automatically. Or, you may receive errors by clicking on a formula.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Problems Causing the ‘Excel Formulas not Working Properly’ Issue and Solutions
 
@@ -354,13 +353,6 @@ To fix the issue, do the following:
 - From the Format Cells window, click on Number and then press OK.
 
 ![Format Cells in Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/02/format-cells-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Problem 5 – Double Quotes to Enclose Numbers
 
@@ -556,6 +548,10 @@ The “Unable to record macro” error can occur if macros are disabled in the M
 
 ![Excel Options To Locate Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/excel-options-to-locate-trust-center.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Under **Trust Center,** click on **Trust Center Settings**.
 
 ![Change Macro Settings In Trust Center](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/change-macro-settings-in-trust-center.png)
@@ -590,16 +586,13 @@ You may fail to record macros if there is corruption in the workbook. In such a 
 
 ![Open Dialog Box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/open-dialog-box.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - From the **Open** dropdown list, click **Open and Repair**.
 
 ![Open And Repair Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/02/open-and-repair-window.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Excel will prompt you to repair the file or extract data from it. Click **Repair** to retrieve maximum data. If the Repair option fails, then click on the Extract Data option to recover the data without formulas and values.
 
@@ -609,13 +602,6 @@ If the Microsoft utility “Open and Repair” fails to repair the corrupted Exc
 
 You may receive the “unable to record” error in Excel while creating or storing macros in Personal Macro Workbooks. There are several reasons that can lead to this error. You can try the methods covered in this post to resolve the error. If the error appears due to corruption in workbook, then try to repair it using the Open and Repair utility. Alternatively, you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) – a professional tool that can help you repair an Excel file with problematic macros. Also, it allows recovery of all the file components with complete integrity. The tool is compatible with Excel 2021, 2019, 2016, and older versions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Simple ways to Open Corrupt Excel file Without any Backup
 
 **Summary:** The blog describes simple ways to open corrupt Excel file without any backup. It explains some manual workarounds that you can try to open the file. Also, it mentions about an Excel file repair tool that can quickly fix the corrupt file and recover data from it.
@@ -623,10 +609,7 @@ You may receive the “unable to record” error in Excel while creating or stor
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Do you have an Excel file that does not open because of corruption issue? And every time you try to open it, an error message ‘the file is corrupt and cannot be opened’ pops-up?
@@ -654,6 +637,10 @@ To use this feature, perform the following steps:
 **Step 3:** Click the arrow that is beside the **Open** tab, and select **Open and Repair**.
 
 ![Open a blank workbook in Excel, navigate to File > Open, choose the corrupt file, and, in the Open window, click the arrow beside the Open tab, selecting Open and Repair for file recovery.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/05/Open-and-repair.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Open and Repair Option
 
@@ -704,13 +691,6 @@ Figure 5 – Excel Options
 
 ![Copy the 'AutoRecover file location' for configuration or backup purposes.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/05/Autorecover-excel-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Excel Options Window
 
 **Step 4:** Open File Explorer window and paste the copied AutoRecover file location, and press **Enter**.
@@ -718,6 +698,10 @@ Excel Options Window
 **Step 5:** A list of saved Excel files will be displayed. Choose the file you want to recover.
 
 _**TIP:** Use Excel’s AutoBackup feature to reduce chances of data loss, by saving a previous version of your spreadsheet automatically._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Use an Excel File Repair Software**
 
@@ -780,5 +764,22 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-alight-motion-comprehensive-review-for-2024/"><u>[New] Alight Motion Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-nearby-areas-for-an-immersive-roblox-experience/"><u>[New] Navigating Nearby Areas for an Immersive Roblox Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-legal-fb-audio-hoarder-lfah/"><u>[Updated] Legal FB Audio Hoarder (LFAH)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-premier-camera-drones-10-filmmakers-dream-fleet-for-2024/"><u>[Updated] Premier Camera Drones #10 Filmmakers' Dream Fleet for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-enhancing-productivity-a-guide-to-ez-grabbers-use/"><u>2024 Approved Enhancing Productivity A Guide to EZ Grabber's Use</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-honor-magic-5-frp-by-drfone-android/"><u>How Can We Bypass Honor Magic 5 FRP?</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-htc-u23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-resume-print-spooler-on-windows-systems-after-a-hiccup/"><u>How to Resume Print Spooler on Windows Systems After a Hiccup</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-c67-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme C67 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-average-byte-gauge-for-a-24-hour-film/"><u>In 2024, Average Byte Gauge for a 24 Hour Film</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-c55-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of C55 on Mac</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-note-30-vip-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Note 30 VIP without backup.</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-poco-c51-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Poco C51 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-strategies-for-boosting-your-computers-speed-insights-from-yl-computing/"><u>Top Strategies for Boosting Your Computer's Speed: Insights From YL Computing</u></a></li>
+</ul></div>
 

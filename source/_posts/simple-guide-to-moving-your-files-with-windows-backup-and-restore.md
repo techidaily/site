@@ -1,7 +1,7 @@
 ---
 title: Simple Guide to Moving Your Files with Windows Backup & Restore
-date: 2025-01-24T01:06:56.730Z
-updated: 2025-01-29T11:46:58.136Z
+date: 2025-02-18T17:16:34.360Z
+updated: 2025-02-19T22:11:12.492Z
 tags:
   - deals
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ## Simple Guide to Moving Your Files with Windows Backup & Restore
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Step 1: Sign in to Your Microsoft Account](https://facebook-video-footage.techidaily.com/the-content-creators-dilemma-vimeo-or-youtube-in-2024/)
 * [Step 2: Manage Your Backup Settings](https://facebook-video-recording.techidaily.com/new-2024-approved-step-into-the-rhythm-of-social-video-editing-with-music/)
 * [Step 3: Backup Your Old PC](https://change-location.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/)
 * [Step 4: Restore to Your New PC](https://ios-unlock.techidaily.com/in-2024-did-your-iphone-12-passcode-change-itself-unlock-it-now-by-drfone-ios/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -27,7 +35,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  We all know that feeling of getting a new PC and wanting to get straight into things. I remember the old days, spending hours transferring my files and trying to replicate my settings. Among the many ways to transfer your data nowadays, Windows Backup offers a simple and reliable solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Sign in to Your Microsoft Account
@@ -42,15 +50,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Windows Settings with 'Accounts' highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-accounts.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Step 2: Manage Your Backup Settings
 
  Once you've signed in to your Microsoft account, there are two different ways to transfer your data from your old computer to your new one—OneDrive Backup and Windows Backup.
 
  Always back up your most important files manually to multiple places and don't trust automated tools to do that.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  OneDrive or Windows Backup?
 
@@ -59,10 +67,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  The benefit of using OneDrive Backup is that it automatically backs up these folders to your OneDrive account whenever you make changes (as long as you've signed in and activated those folders), so you know that they'll be up-to-date when you set up your new PC. And because you're only backing up a few folders, it'll take less time than using Windows Backup.
 
  The drawback—and it's a big one—is that it doesn't let you transfer your apps, your settings, or your credentials, so you'll have to set these up again on your new computer. Also, bear in mind that you're limited to 5GB of storage if you have a free Microsoft account.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Use Windows Backup
 
@@ -78,10 +82,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows Backup window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/windows-backup-window-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * The Folders option backs up the same folders that are automatically stored in your OneDrive sync—your Documents, Pictures, Desktop, Music, and Videos folders. These folders likely contain everything you want to move, but if you have important folders elsewhere, be sure to add them to your OneDrive folder manually, or use an alternative storage solution.
 * TheAppsoption will transfer all the apps you have installed on your old computer to your new computer.
 * The Settings option will let you copy your accessibility settings, any elements you have personalized on your old PC, your language and dictionary preferences, and any other settings you've adjusted.
@@ -93,10 +93,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![The Windows Backup screen with the 'Back Up' button highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/backup-button.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on which options you've selected, this might take some time, but you can carry on with other tasks while this is happening. Just try to avoid making changes to any of the folders, apps, settings, or credentials you've chosen to back up during this process.
 
 ##  Step 4: Restore to Your New PC
@@ -104,6 +100,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  When setting up your new computer, when prompted, login with the same Microsoft account you used to create your backup on your old computer. You will then be able to select your old PC's details, which includes the backup you performed, and click "Restore From This PC."
 
 ![The 'Restore Backup' screen.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/restore-backup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Microsoft
 
@@ -128,22 +128,20 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-updating-your-skills-regularly/"><u>[New] 2024 Approved Updating Your Skills Regularly</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-sound-system-advances-announced-for-2024/"><u>[New] Sound System Advances Announced for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-spark-ar-maximizing-realism-with-downloadable-lut-files/"><u>[New] Spark AR Maximizing Realism with Downloadable LUT Files</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-do-reviewers-monetize-their-critiques-in-media-for-2024/"><u>[Updated] Do Reviewers Monetize Their Critiques in Media for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-dynamic-movement-analysis-a-complete-examination/"><u>[Updated] In 2024, Dynamic Movement Analysis A Complete Examination</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-quickest-windowed-image-analyzer-for-2024/"><u>[Updated] Quickest Windowed Image Analyzer for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-y100-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo Y100 Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-n3-flip-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find N3 Flip Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-motorola-edge-40-neo-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Motorola Edge 40 Neo | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-magic-5-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor Magic 5 Pro in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-edgeplus-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Edge+ (2023)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to Android? | Dr.fone</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-how-to-record-video-calls-on-facebook-4-methods/"><u>In 2024, How to Record Video Calls on Facebook [4 Methods]</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-130-music-by-fonelab-android-recover-data/"><u>The way to get back lost data from 130 Music</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-insights-on-computer-hardware/"><u>Tom's Tech Reviews: In-Depth Insights on Computer Hardware</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-honor-play-40c-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Honor Play 40C fingerprint</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-obs-screen-recorder-review/"><u>[New] 2024 Approved OBS Screen Recorder Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-finalcut-pro-tutorials-for-top-tier-youtube-video-editing/"><u>[New] FinalCut Pro Tutorials for Top-Tier YouTube Video Editing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-skyrocket-on-instagram-unveiling-your-path-with-top-9-secrets/"><u>[New] In 2024, Skyrocket on Instagram Unveiling Your Path with Top 9 Secrets</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-influence-of-thumbnail-size-on-viewership-numbers/"><u>[New] In 2024, The Influence of Thumbnail Size on Viewership Numbers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-obs-studio-and-skype-a-perfect-duo-explained/"><u>[New] OBS Studio & Skype A Perfect Duo Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unleash-creativity-build-logos-using-free-template-inspiration/"><u>[New] Unleash Creativity Build Logos Using Free Template Inspiration</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovative-techniques-utilizing-chatgpt-as-an-effective-tool-for-video-game-writing/"><u>Innovative Techniques: Utilizing ChatGPT as an Effective Tool for Video Game Writing</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/mastering-zoom-recording-a-step-by-step-manual-for-both-hosts-and-attendees/"><u>Mastering Zoom Recording: A Step-by-Step Manual for Both Hosts & Attendees</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-itel-p55plus-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Itel P55+</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-gt-3-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on GT 3 without backup.</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-magic-6-lite-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Magic 6 Lite</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-x-flip-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from X Flip</u></a></li>
+<li><a href="https://techidaily.com/vivo-bypass-tools-to-bypass-lock-screen-vivo-t2-5g-by-drfone-android-unlock-android-unlock/"><u>Vivo Bypass Tools to Bypass Lock Screen(Vivo T2 5G)</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-note-30i-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Note 30i | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
 </ul></div>
 

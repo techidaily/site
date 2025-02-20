@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide"
-date: 2025-02-04T17:50:59.394Z
-updated: 2025-02-09T17:26:12.343Z
+date: 2025-02-17T16:31:01.394Z
+updated: 2025-02-20T00:32:57.390Z
 tags:
   - desktop
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
 ## Unlocking Windows Power: Introducing the Sudo Command Explained & Usage Guide
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 * sudo is a widely used Linux command, and is now available in Windows 11.
@@ -19,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
  The _sudo_ command is revered by Linux users. It lets you run a command as another user, usually an Administrator (or _root_ user, in Linux parlance), so as you can imagine, it's used almost constantly by developers, tech support agents, and system administrators. And now, you can use it in Windows!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Why Is sudo So Revered?
 
  The sudo command speeds up administrative tasks by letting you run tasks without having to start a new session as a different user. It's a real time-saver, and it is good for security as it means you don't have to share administrative credentials. It's so widely used in day-to-day Linux operations it's pretty much a [geek meme](https://xkcd.com/149/) at this point.
@@ -30,7 +30,7 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
  It appears on geek merchandise everywhere: sudo jokes are printed on coffee cups, hats, and t-shirts that are proudly donned by IT staff across the globe. No matter where you are, if you walk into an IT department you'll probably see a sudo reference somewhere.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Does sudo Bring to Windows
@@ -58,19 +58,19 @@ thumbnail: https://thmb.techidaily.com/67dc8b1aa2d01c7142f13c2f6815244019bd689ef
 
 ![The location in the Windows Settings app for enabling the sudo command.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/sudo-enable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Microsoft
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Configure sudo in Windows
 
 [You can configure the behavior of the sudo command](https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows "https://learn.microsoft.com/en-us/windows/sudo/#how-to-configure-sudo-for-windows") on the For Developers Settings page above. You can force commands executed using sudo to run in a new window, restrict input from the window sudo was launched from, or set sudo to function as it does in other operating systems (which is the default).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Use the Sudo Command in Windows
 
@@ -99,18 +99,18 @@ sudo netstat -ab
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-top-7-low-cost-video-compacting-tools-for-android-devices/"><u>[New] In 2024, Top 7 Low-Cost Video Compacting Tools for Android Devices</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-open-source-templates-transform-your-youtube-channel/"><u>2024 Approved Open-Source Templates Transform Your YouTube Channel</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme GT Neo 5 SE | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-toms-hardware-in-depth-reviews-and-insights/"><u>Exploring Tom's Hardware: In-Depth Reviews and Insights</u></a></li>
-<li><a href="https://video-capture.techidaily.com/hds-finest-picks-reviewing-top-screen-recorders/"><u>HD's Finest Picks Reviewing Top Screen Recorders</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-oppo-a58-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solving-utorrent-unresponsive-problems-with-these-7-reliable-methods/"><u>Solving 'UTorrent Unresponsive' Problems with These 7 Reliable Methods</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-nova-y71-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Nova Y71</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-5-strategies-to-convince-leaders-and-investors-to-embrace-your-disruptive-concept-insights-from-zdnet/"><u>Top 5 Strategies to Convince Leaders and Investors to Embrace Your Disruptive Concept - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-nubia-red-magic-8s-proplus-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Nubia Red Magic 8S Pro+</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-infinix-note-30-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Infinix Note 30.</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c110-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C110 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-pioneering-publishing-platforms-fb-and-its-video-distribution-insights/"><u>[New] 2024 Approved Pioneering Publishing Platforms FB and Its Video Distribution Insights</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tagging-magic-elevating-game-based-youtubes-for-2024/"><u>[Updated] Tagging Magic Elevating Game-Based YouTubes for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-google-pixel-7a-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Google Pixel 7a Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-to-using-gptzero-effectively-to-spot-ai-generated-writing-online/"><u>Guide to Using GPTZero Effectively to Spot AI-Generated Writing Online</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-5-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 5 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-8-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 8 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-n3-flip-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find N3 Flip Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-a-tutorial-for-adding-vintage-touches-instagram-filters-on-existing-media/"><u>In 2024, A Tutorial for Adding Vintage Touches Instagram Filters on Existing Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-resilience-overcoming-chatgpt-login-hurdles/"><u>Mastering Resilience: Overcoming ChatGPT Login Hurdles</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-your-deleted-iphone-memos-with-our-expert-guide-to-recovery-software/"><u>Revive Your Deleted iPhone Memos with Our Expert Guide to Recovery Software</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-galaxy-a15-4g-by-fonelab-android-recover-music/"><u>The way to get back lost music from Galaxy A15 4G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-vivo-v30-lite-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Vivo V30 Lite 5G without backup.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 15 Pro | Dr.fone</u></a></li>
 </ul></div>
 

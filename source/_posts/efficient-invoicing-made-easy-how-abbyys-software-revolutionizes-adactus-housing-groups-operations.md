@@ -1,7 +1,7 @@
 ---
 title: "Efficient Invoicing Made Easy: How ABBYY's Software Revolutionizes Adactus Housing Group's Operations"
-date: 2025-01-26T04:37:46.898Z
-updated: 2025-01-29T03:24:54.800Z
+date: 2025-02-12T22:46:30.427Z
+updated: 2025-02-19T21:35:09.334Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b52b80b737f6be60e6367144.PNG
@@ -18,10 +18,14 @@ Other | Accounts Payable Automation
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## ABBYY Solution Partner Automates Invoice Processing for Adactus Housing Group
 
@@ -29,17 +33,9 @@ Other | Accounts Payable Automation
 
 [![09-case-adactus](https://static4.abbyy.com/abbyycommedia/15131/09-case-adactus.jpg)](https://www.youtube.com/watch?v=VSzi7j1qpcE) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Customer Overview
 
 ![Adactus Group](https://static2.abbyy.com/abbyycommedia/14441/adactus_155x80.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 | Name                  | Adactus Group                                               |
 | --------------------- | ----------------------------------------------------------- |
@@ -73,21 +69,17 @@ Adactus Housing owns and manages over 12,600 homes across 25 local authority are
 
 ###### SEE HOW ABBYY CAN HELP
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Up to **60,000**
 
 paper invoices are normally received each year
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **24** suppliers
 
 represent 50% of the transactions stream
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **4** full time staff
 
@@ -135,6 +127,10 @@ The benefit of introducing this solution is a slicker way of working which limit
 
 [![FlexiCapture](https://static2.abbyy.com/abbyycommedia/21380/4-flexicapture.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable Automation](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
@@ -142,6 +138,10 @@ The benefit of introducing this solution is a slicker way of working which limit
 [read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![PDF Version](https://static1.abbyy.com/abbyycommedia/14325/1a-adactus-1-real-estate-en_small.jpg)](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") [PDF version](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [read more](https://static1.abbyy.com/abbyycommedia/7463/case-study-adactus-1-real-estate-en.pdf "PDF version") 
 
@@ -174,20 +174,21 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-flipping-photo-lightness-for-an-alternate-look/"><u>[New] Flipping Photo Lightness for an Alternate Look</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweeting-fun-iosandroid-tips-for-downloading-gifs/"><u>[New] In 2024, Tweeting Fun IOS/Android Tips for Downloading GIFs</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-7-excellent-screen-capture-tools/"><u>[Updated] 2024 Approved 7 Excellent Screen Capture Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-download-youtube-playlists-without-hassle-our-guide/"><u>[Updated] 2024 Approved Download YouTube Playlists Without Hassle - Our Guide</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-inverting-screen-time-with-android-videos/"><u>2024 Approved Inverting Screen Time with Android Videos</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/tial-imovie-techniques-to-upgrade-your-youtube-content-for-2024/"><u>Essential iMovie Techniques to Upgrade Your YouTube Content for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/five-effective-methods-to-repair-touchscreen-issues-on-windows-11/"><u>Five Effective Methods to Repair Touchscreen Issues on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V27 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-mini-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 mini Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-12r-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 12R in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-pro-max-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Pro Max without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://win-popular.techidaily.com/installation-eines-zweiten-laufwerks-unter-windows-11-schritt-fur-schritt-anleitung/"><u>Installation Eines Zweiten Laufwerks Unter Windows 11: Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-xs-max-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone XS Max Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-13-pro-max-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 13 Pro Max Suddenly | Stellar</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-breaking-boundaries-with-eizos-spectaculous-cg318-4k/"><u>[New] Breaking Boundaries with EIZO's Spectaculous CG318-4K</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-essential-handbook-for-incorporating-music-into-ppt/"><u>2024 Approved The Essential Handbook for Incorporating Music Into PPT</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-nokia-130-music-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-6-plus-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 6 Plus Space | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/guide-leveraging-windows-11-volume-shadow-copy-service-vss-for-efficient-system-backups/"><u>Guide: Leveraging Windows 11 Volume Shadow Copy Service (VSS) for Efficient System Backups</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-motorola-edge-40-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Motorola Edge 40 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-fix-high-cpu-utilization-by-wuauserv-effective-solutions-and-troubleshooting-steps/"><u>How to Fix High CPU Utilization by Wuauserv: Effective Solutions and Troubleshooting Steps</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-vivo-t2-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Vivo T2 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-2022-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE (2022) without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-tips-and-tricks-for-apple-id-locked-issue-on-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Tips and Tricks for Apple ID Locked Issue On iPhone 15 Pro Max</u></a></li>
+<li><a href="https://techtrends.techidaily.com/incorporating-ai-into-your-insta-strategy-the-ultimate-guide-to-meta-ai-usage/"><u>Incorporating AI Into Your Insta-Strategy: The Ultimate Guide to Meta AI Usage</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-time-to-switch-to-an-rtx-gpu-for-your-pc/"><u>Is It Time to Switch to an RTX GPU for Your PC?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leadership-shakeup-at-openai-whats-next-for-gpt/"><u>Leadership Shakeup at OpenAI - What's Next For GPT?</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-11r-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus 11R Reset Code | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unfolding-the-potential-in-depth-look-at-anker-maggo-wireless-power-station-a-convenient-3-in-1-solution/"><u>Unfolding the Potential: In-Depth Look at Anker MagGo Wireless Power Station, A Convenient 3-in-1 Solution</u></a></li>
 </ul></div>
 

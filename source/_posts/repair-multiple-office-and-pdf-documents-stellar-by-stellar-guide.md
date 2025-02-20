@@ -1,7 +1,7 @@
 ---
 title: Repair Multiple Office and PDF Documents | Stellar
-date: 2024-09-22T20:23:11.090Z
-updated: 2024-09-24T13:33:04.869Z
+date: 2025-02-12T23:13:02.095Z
+updated: 2025-02-19T18:37:32.462Z
 tags: 
   - repair
   - repair pdf
@@ -102,10 +102,18 @@ _**Note:** You can add more PDF files by clicking the Add button._
 
 ![ repair process Completed](https://www.stellarinfo.com/screenshots/pdf-repair/4-Stellar-Phoenix-Repair-for-PDF-file-repaired.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - The repaired PDF file is displayed in the left pane of the preview window. The file content is displayed in the right pane.
 - Once you have previewed the repaired file, click **Save Repaired Files** button from the main menu.
 
 ![save repaired pdf file](https://www.stellarinfo.com/screenshots/pdf-repair/5-Stellar-Phoenix-Repair-for-PDF-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - In **Browse for Folder** dialog box, select a location for saving the repaired files, and then click **OK**.
 - The **Saving Complete** dialog box gets displayed with a hyperlink to the folder containing the repaired PDF files that you have saved. Click **OK**.
@@ -146,6 +154,10 @@ Due to the corruption of the PDF file, you become unable to view the multimedia 
 
 ![](https://cdn1.iconfinder.com/data/icons/oxygen/48x48/actions/go-previous-rtl.png) After the successful repairing process of your PDF file, its preview is shown at the right interface of the software.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.stellarinfo.com/screenshots/pdf-repair/5-Stellar-Phoenix-Repair-for-PDF-preview.jpg)
 
 ![](https://cdn1.iconfinder.com/data/icons/oxygen/48x48/actions/go-previous-rtl.png) Click ‘Save’ button to save the repaired PDF file. A Browse for the folder is displayed to select the destination of the repaired file.
@@ -169,6 +181,10 @@ Apple Mail or Mac Mail comes as a default email application with Mac operating s
 ## **Ways to Save or Convert Apple Mail Emails into PDF**
 
 You can use the following ways to save or convert your Apple Mail emails into PDF.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **1\. Using Apple Mail Options**
 
@@ -198,6 +214,10 @@ If you want to convert a large number of Apple Mail emails into PDF, then you ca
 
 [![Free Download for Windows](https://www.stellarinfo.com/blog/wp-content/uploads/2017/11/Free-download-for-windows.png)](https://cloud.stellarinfo.com/StellarConverterforMBOX-Technician-B.exe)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Step 2: Convert MBOX File into PDF**
 
 To convert the emails from MBOX file into PDF, you can use a specialized MBOX converter tool, like [**Stellar Converter for MBOX**](https://www.stellarinfo.com/email-tools/mbox-to-pst-converter.php). This tool can quickly and easily convert Apple Mail emails from MBOX file into PDF without losing any data. The software is proficient in handling all types of MBOX files.
@@ -215,13 +235,6 @@ You are first required to download and install Stellar Converter for MBOX Techni
 - Choose **Apple Mail** from the list.
 
 ![Save Apple Mail](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/Save-Apple-Mail.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click ‘Select File’ to select the MBOX file. Also, you can choose the ‘Select Identity’ button for selecting the identity folder having MBOX files.
 
@@ -270,13 +283,6 @@ To repair multiple MS Office (Word, Excel and PowerPoint) and PDF documents by u
 
 ![Select excel file](https://www.stellarinfo.com/screenshots/excel-repair/excel-window/2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
        **3. <ins>For repairing multiple MS PowerPoint presentations</ins>**
 
 - Click **Repair Presentation**.
@@ -311,13 +317,6 @@ To repair multiple MS Office (Word, Excel and PowerPoint) and PDF documents by u
 
 [Download PDF Repair Free Version](https://tools.techidaily.com/stellardata-recovery/repair-for-pdf/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Features
 
 ![Repairs Corrupt PDF Files  ](https://www.stellarinfo.com/image/catalog/feature-icon/PDF-Repair/Repairs-corrupt-Adobe-PDF-files.png)
@@ -327,13 +326,6 @@ To repair multiple MS Office (Word, Excel and PowerPoint) and PDF documents by u
 Stellar Repair for PDF is a professional software to repair PDF files which may get corrupt during upload, download, or regular use. The tool restores all elements of the PDF file such as headers, footers, forms, page format, word art, clip art, shapes, bookmarks, hyperlinks, etc. It also repairs text, labels, graphics, and images, page tree and cross-reference table of the PDF file.
 
 ![Repairs PDF Stored on External Media ](https://www.stellarinfo.com/image/catalog/feature-icon/PDF-Repair/Repairs-PDF-files-from-External-Storage.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Repairs PDF Stored on External Media
 
@@ -393,31 +385,15 @@ The software completely repairs corrupt PDF files, irrespective of the cause and
 
 ![Repairs PDF Files on External Storage Devices ](https://www.stellarinfo.com/image/catalog/feature-icon/pdf-mac/Repairs-PDF-Files-on-External-Storage-Devices.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Repairs PDF Files on External Storage Devices
 
 This advanced tool can repair PDF files located on external storage devices, like CDs, DVDs, flash drives, USB drives, memory cards, etc., attached to your Mac system. The software supports all types of detachable media devices that are recognized by the host operating system on your Mac.
 
 ![Previews Repaired Files ](https://www.stellarinfo.com/image/catalog/feature-icon/pdf-mac/Option-to-Preview-Repaired-Files%20.png)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Previews Repaired Files
 
@@ -461,16 +437,13 @@ The software allows repairing multiple corrupt PDF files simultaneously. It supp
 
 ![System sequirements](https://www.stellarinfo.com/public/image/catalog/v6/System-sequirements.svg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ##### System Requirement
 
 <table><tbody><tr><td><strong>Processor:</strong></td><td>Intel compatible (x64-based processor)</td></tr><tr><td><strong>Memory:</strong></td><td>4 GB minimum (8 GB recommended) Hard Disk</td></tr><tr><td><strong>Hard Disk:</strong></td><td>250 MB for installation files</td></tr><tr><td><strong>Operating System:<br>(64 Bit only)</strong></td><td>Up to macOS Big Sur 11</td></tr></tbody></table>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair corrupt PDF files on my Mac using tool
 
@@ -490,24 +463,29 @@ Stellar Repair for PDF software follows a lucid and user-friendly approach to fi
 
 ![](https://cdn1.iconfinder.com/data/icons/oxygen/48x48/actions/go-previous-rtl.png) Once the repair gets finished, the software shows preview of the PDF file in the main interface.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.stellarinfo.com/screenshots/pdf-repair-mac/5-Stellar-Phoenix-Repair-for-PDF-Mac-preview.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://cdn1.iconfinder.com/data/icons/oxygen/48x48/actions/go-previous-rtl.png) Click 'Save' and then specify a destination for saving the repaired PDF.
 
 ![](https://www.stellarinfo.com/screenshots/pdf-repair-mac/6-Stellar-Phoenix-Repair-for-PDF-Mac-choose-location.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://cdn1.iconfinder.com/data/icons/oxygen/48x48/actions/go-previous-rtl.png) When the process is finished, the software displays the message 'Process completed successfully'.
 
 ![](https://www.stellarinfo.com/screenshots/pdf-repair-mac/7-Stellar-Phoenix-Repair-for-PDF-Mac-saved.jpg)
 
 ![](https://cdn1.iconfinder.com/data/icons/oxygen/48x48/actions/go-previous-rtl.png) The repaired PDF file is saved at your specified location by the name 'Recovered\_\[file name\]\_ Date.pdf'.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Stellar Repair for PDF effectively works in all scenarios of PDF file corruption to minimize the risks of PDF data loss. The software supports all PDF versions, including, PDF 1.2, PDF 1.4, PDF 1.5, PDF 1.6, and PDF 1.7. If you want to check its performance, download Free Demo now.
 
@@ -529,5 +507,19 @@ Stellar Repair for PDF effectively works in all scenarios of PDF file corruption
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[New] In 2024, Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ioss-choice-of-top-ps2-game-simulation-software/"><u>[New] IOS's Choice of Top PS2 Game Simulation Software</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-essential-gear-for-video-blogging-top-rated-camera-lenses-revealed-for-2024/"><u>[Updated] Essential Gear for Video Blogging Top-Rated Camera Lenses Revealed for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-explore-8-premium-websites-for-3d-text-psdfiles/"><u>2024 Approved Explore 8 Premium Websites for 3D Text PSDFiles</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/conquer-the-camera-prostrate-techniques-with-gopro-hero5-black/"><u>Conquer the Camera Prostrate Techniques With GoPro Hero5 Black</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-poco-x5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Poco X5 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-is-mega-mewtwo-the-strongest-pokemon-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Is Mega Mewtwo The Strongest Pokémon On Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/iphone-transformed-how-this-revolutionary-keyboard-case-brings-back-the-classic-blackberry-experience-explore-on-zdnet/"><u>IPhone Transformed: How This Revolutionary Keyboard Case Brings Back the Classic BlackBerry Experience - Explore on ZDNet</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-nord-n30-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Nord N30 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-g310-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from G310.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unforgettable-stop-motion-films-an-overview/"><u>Unforgettable Stop-Motion Films - An Overview</u></a></li>
+</ul></div>
 

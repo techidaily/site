@@ -1,7 +1,7 @@
 ---
 title: Global Collaboration Boosts as Kodak Alaris Joins Forces with ABBYY for Enhanced Services
-date: 2025-01-26T18:45:44.103Z
-updated: 2025-01-29T08:13:17.227Z
+date: 2025-02-17T23:30:30.693Z
+updated: 2025-02-20T00:02:18.810Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7909c923364a5dde19acdd7a.jpg
@@ -11,16 +11,24 @@ thumbnail: https://thmb.techidaily.com/c7fb1a1a59ed51b20bad7caf096cb0b1673edc9a7
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Kodak Alaris Expands Global Alliance with ABBYY
 
 January 19, 2022
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![News 21 Partners](https://static1.abbyy.com/abbyycommedia/33676/news-21-partners.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Kodak Alaris has announced a [global strategic alliance](https://www.alarisworld.com/landing-page/global-alliance-partners?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=ABBYY) with digital intelligence company ABBYY. The agreement expands the longtime partnership to now include the integration of Kodak Alaris’ [award-winning information capture solutions](https://www.alarisworld.com/about-us/newsroom/2021/2021-bli-scanner-line-of-the-year?utm%5Fsource=pr&utm%5Fmedium=pressrelease&utm%5Fcampaign=ABBYY) with ABBYY’s industry-leading low-code/no-code, cloud-based intelligent document processing (IDP) platform, [Vantage](https://tools.techidaily.com/abbyy/products/), to help organizations successfully transform documents into actionable data.
@@ -37,10 +45,6 @@ The INfuse Scanner quickly digitizes documents of all types, and the data is del
 
 For more information, please visit the Kodak Alaris website at [www.alarisworld.com](http://www.alarisworld.com/).
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### About the Alaris division of Kodak Alaris
 
 Kodak Alaris is a leading provider of enterprise data capture solutions that simplify business processes. Powered by decades of image science innovation, our award-winning scanners, software, and services are available worldwide and through our network of channel partners. For more information, please visit AlarisWorld.com and follow us on LinkedIn, YouTube, and Twitter.
@@ -48,7 +52,7 @@ Kodak Alaris is a leading provider of enterprise data capture solutions that sim
 © 2022 Kodak Alaris Inc. TM/MC/MR: Alaris. All trademarks and trade names used are the property of their respective holders. The Kodak trademark and trade dress are used under license from Eastman Kodak Company.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -61,10 +65,6 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Brooke Crowe
 
 [Brooke.Leone@kodakalaris.com](https://tools.techidaily.com/abbyy/products/)
@@ -72,7 +72,7 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Gina Ray, APR
@@ -98,24 +98,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-pcs-picks-the-finest-ps1-game-emulators/"><u>[New] PC's Picks The Finest PS1 Game Emulators</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-digital-detox-how-to-turn-off-youtube-on-computers-and-phones/"><u>[Updated] 2024 Approved Digital Detox How to Turn Off Youtube on Computers and Phones</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-unwind-the-mind-the-ultimate-chill-list/"><u>2024 Approved Unwind the Mind The Ultimate Chill List</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/convertir-video-webm-directamente-a-mp4-sin-costo-alguno-usando-el-servicio-gratuitode-conversion-de-videos-en-linea/"><u>Convertir Video WebM Directamente a MP4 Sin Costo Alguno Usando El Servicio Gratuitode Conversión De Videos en Línea</u></a></li>
-<li><a href="https://techtrends.techidaily.com/erhohte-geschwindigkeit-bei-hevc-h265-kompression-tipps-fur-schnellere-verschlusselung/"><u>Erhöhte Geschwindigkeit Bei HEVC H.265-Kompression - Tipps Für Schnellere Verschlüsselung</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-realme-11-proplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 11 Pro+ Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g23-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G23 without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-samsung-galaxy-a14-4g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Samsung Galaxy A14 4G to Mac? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-se-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone SE without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-complete-dynamics-review-2023/"><u>In 2024, Complete Dynamics Review 2023</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-essential-guide-to-merging-youtube-and-tiktok-content-flows/"><u>In 2024, The Essential Guide to Merging YouTube & TikTok Content Flows</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/inside-the-world-of-gadgets-toms-in-depth-hardware-analysis/"><u>Inside the World of Gadgets: Tom's In-Depth Hardware Analysis</u></a></li>
-<li><a href="https://techidaily.com/is-your-realme-c67-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme C67 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-huawei-nova-y71-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Huawei Nova Y71</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v13-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.3 File | Stellar</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nord-ce-3-lite-5g-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nord CE 3 Lite 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-honor-magic-6-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Honor Magic 6 without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-xiaomi-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Xiaomi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/watch-my-little-ones-enjoy-these-free-kids-movies-from-our-favorite-websites/"><u>Watch My Little Ones Enjoy These Free Kids' Movies From Our Favorite Websites</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-tips-for-efficient-film-recording-on-pc-and-mobile/"><u>[Updated] 2024 Approved Top Tips for Efficient Film Recording on PC & Mobile</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-smart-shoppers-guide-to-top-gaming-mice-and-keyboards-for-2024/"><u>[Updated] Smart Shoppers' Guide to Top Gaming Mice & Keyboards for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-youtube-hub-for-newbies-in-cinematic-craftsmanship-for-2024/"><u>[Updated] YouTube Hub for Newbies in Cinematic Craftsmanship for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/enhance-image-frames-leading-platforms-and-applications-2023-edition/"><u>Enhance Image Frames Leading Platforms & Applications, 2023 Edition</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-100-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 100 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-x100-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Pro Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-s18e-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo S18e working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-final-cut-pro-vs-express-which-one-reigns-supreme/"><u>New Final Cut Pro vs Express Which One Reigns Supreme?</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/quick-guide-merging-igtv-with-instagram-stories-for-2024/"><u>Quick Guide Merging IGTV with Instagram Stories for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-vivo-y100-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Vivo Y100</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-non-functional-headphones-in-windows-10/"><u>Troubleshooting Guide: Fixing Non-Functional Headphones in Windows 10</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-infinix-note-30-5g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Infinix Note 30 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-90-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor 90.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-nokia-g42-5g-by-fonelab-android-recover-data/"><u>Undelete lost data from Nokia G42 5G</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-digital-video-trailer-development-solutions-for-2024/"><u>Updated Digital Video Trailer Development Solutions for 2024</u></a></li>
 </ul></div>
 

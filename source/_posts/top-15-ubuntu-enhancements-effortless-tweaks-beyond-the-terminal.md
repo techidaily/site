@@ -1,7 +1,7 @@
 ---
 title: "Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal"
-date: 2025-02-08T22:12:07.457Z
-updated: 2025-02-09T23:34:11.126Z
+date: 2025-02-13T16:17:14.490Z
+updated: 2025-02-19T20:12:13.554Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 ## Top 15 Ubuntu Enhancements: Effortless Tweaks Beyond the Terminal
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -33,16 +33,12 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
 
 ![Install Extension Manager from Ubuntu App Store](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1-install-extension-manager-from-ubuntu-app-store.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once installed, you will find the app in the Ubuntu App drawer. Open it and the following window should appear.
 
 ![Installed Tab on Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/3-installed-tab-on-extension-manager.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  As you can see, Ubuntu ships with a few extensions out of the box, as shown under System Extensions. If you like, you can disable them from here or customize them by clicking on the settings icon. However, we are interested in installing a few extensions. To do this, switch to the "Browse" tab and search for the following extensions:
@@ -57,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a
  Once done, head over to the "Installed" tab. From here, you can easily toggle the extensions on/off or click on the respective settings icon to configure how they function.
 
 ![Recommended Extensions Installed in Ubuntu Extension Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/4-recommended-extensions-installed-in-ubuntu-extension-manager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, let's take a quick look at each of the extensions. Starting with Dash to Panel, it transforms the dash (the iconic left-side apps panel on Ubuntu) into a panel similar to the Windows taskbar. Alternatively, you can use Dash to Dock to transform the dash into a macOS-like dock.
 
@@ -75,16 +75,12 @@ Close
 ![Granular control with Just Perfection GNOME extension](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/9-granular-control-with-just-perfection-gnome-extension.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  All that said, GSConnect (KDE Connect designed for GNOME) is arguably the most powerful extension on this list. Once set up, you can use it to control your desktop from your phone. This includes using your phone screen as a wireless touchpad or keyboard, wirelessly transferring files, controlling desktop media and volume, and much more.
 
  Here's a guide to using [KDE Connect on Windows](https://tech-savvy.techidaily.com/annualement-abbyy-integre-deux-personnalites-prestigieuses-a-son-organe-dirigeant/). You can expect the same features and workflow with GSConnect on Ubuntu as well.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Make These Three GNOME Tweaks
 
@@ -104,7 +100,7 @@ Close
 ![Set Window options in GNOME Tweaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/12-set-window-options-in-gnome-tweaks.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Finally, Change These Four Settings
@@ -118,6 +114,10 @@ Close
  Coming to Active Screen Edges, it allows you to snap windows to the four corners of the screen—a great little hack to take full advantage of a large monitor with more screen real estate.
 
 ![Snapping Windows to Screen Edges on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/14-snapping-windows-to-screen-edges-on-ubuntu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now the next setting is in the Sound section. From here, enable "Overamplification" to increase the volume above 100%. A great way to get some extra juice out of your current speaker.
 
@@ -146,22 +146,15 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-instagram-follower-deletion-identification/"><u>[New] 2024 Approved Instagram Follower Deletion Identification</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-enhancing-virtual-collaboration-essential-strategies-for-efficient-zoom-chats/"><u>[New] Enhancing Virtual Collaboration Essential Strategies for Efficient ZOOM Chats</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-samsungs-2023-revamp-bd-j5900-explored/"><u>[Updated] In 2024, Samsung's 2023 Revamp BD-J5900 Explored</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-transforming-unboxing-magic-7-ways/"><u>[Updated] In 2024, Transforming Unboxing Magic 7 Ways</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-infusing-beats-into-ig-story-posts-without-limits-for-2024/"><u>[Updated] Infusing Beats Into IG Story Posts Without Limits for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oneplus-open-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Open Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-poco-x6-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Poco X6 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-v29-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo V29 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 8 Plus Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-f23-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from F23 5G</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/solving-laptop-webcam-issues-understanding-the-causes-behind-a-non-functioning-camera/"><u>Solving Laptop Webcam Issues: Understanding the Causes Behind a Non-Functioning Camera</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-technique-to-refresh-your-powerpoint-software/"><u>The Ultimate Technique to Refresh Your PowerPoint Software</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-zte-axon-40-lite-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of ZTE Axon 40 Lite on Mac?</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-samsung-galaxy-f14-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Samsung Galaxy F14 5G</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-spark-go-2024-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Spark Go (2024)</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/windows-explorer-has-stopped-working-in-windows-7-solved/"><u>Windows Explorer Has Stopped Working in Windows 7 [Solved]</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-hobbyist-to-pro-selecting-top-drone-editing-tools/"><u>[New] From Hobbyist to Pro Selecting Top Drone Editing Tools</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-thriving-on-instagram-vids-blueprint-for-effective-content-strategies/"><u>[New] In 2024, Thriving on Instagram Vids Blueprint for Effective Content Strategies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-effortless-repetition-replay-your-youtube-videos-via-tv-connection-for-2024/"><u>[Updated] Effortless Repetition Replay Your YouTube Videos via TV Connection for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/drone-shopping-simplified-key-takeaways-for-beginners/"><u>Drone Shopping Simplified Key Takeaways for Beginners</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-poco-f5-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco F5 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/holding-firm-asti-holdings-confirms-timely-shareholders-assembly-despite-risk-of-delisting-cited-by-four-investors-expert-commentary-by-yl-computing-yl-soft58/"><u>Holding Firm: ASTI Holdings Confirms Timely Shareholders' Assembly Despite Risk of Delisting Cited by Four Investors – Expert Commentary by YL Computing, YL Software</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/real-time-engagement-tracker-for-2024/"><u>Real-Time Engagement Tracker for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-p40-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove P40 unlock screen</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-honor-magic-v2-by-fonelab-android-recover-music/"><u>Undelete lost music from Honor Magic V2</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-hot-40-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Hot 40 | Dr.fone</u></a></li>
 </ul></div>
 

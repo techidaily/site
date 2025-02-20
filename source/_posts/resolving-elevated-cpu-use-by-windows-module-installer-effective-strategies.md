@@ -1,7 +1,7 @@
 ---
 title: "Resolving Elevated CPU Use by Windows Module Installer: Effective Strategies"
-date: 2025-02-04T19:22:45.331Z
-updated: 2025-02-09T21:51:42.816Z
+date: 2025-02-15T19:57:10.346Z
+updated: 2025-02-19T22:54:04.532Z
 tags:
   - desktop
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
  Windows Modules Installer Worker (TiWorker.exe) is a normal Windows process related to your PC’s updates and maintenance. However, if it uses up a lot of CPU for an extended period it may be due to an error. Here are some things you can do to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Wait for It to Finish Running
 
  Windows launches the Windows Modules Installer Worker when there’s an update to install or a PC maintenance task to run. You should generally let the process finish running, even if it’s using up a lot of CPU.
@@ -28,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
  If it continues to run for an extended period or you want to perform other tasks, use the troubleshooting tips below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run Windows Update Troubleshooter
@@ -41,19 +45,15 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
 
 !['Run' highlighted for 'Windows Update' troubleshooter in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-launch-windows-update-troubleshooter-windows-11.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On Windows 10, head to Settings > Update & Security > Troubleshoot > Additional Troubleshooters. Select "Windows Update" and click "Run the Troubleshooter."
 
 !['Run the Troubleshooter' highlighted for 'Windows Update' troubleshooter in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-open-windows-update-troubleshooter-windows-10.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Follow the on-screen instructions in the tool to resolve any update issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Temporarily End the Windows Modules Installer Process
 
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/786e0982cfdee2d5f20c6d4b4308fc64b7f3b17fc
  To end the process, right-click the Start Menu icon and select "Task Manager." Open the "Processes" tab, right-click "Windows Modules Installer Worker," and select "End Task."
 
 !['End Task' highlighted for 'Windows Modules Installer Worker' in Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-end-windows-modules-installer-worker-process.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Clear Windows Update Cache and Pause Updates
 
@@ -89,13 +93,13 @@ C:\Windows\SoftwareDistribution\
 
 !['Pause Updates' highlighted in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-pause-updates-windows-11.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 [On Windows 10](https://instagram-video-recordings.techidaily.com/climbing-the-social-ladder-6-precise-methods-for-gaining-instagram-verification/), go to Settings > Update & Security > Windows Update. On the right pane, click "Advanced Options." In the "Pause Updates" section, click the "Pause Until" drop-down menu and select a time duration.
 
 !['Pause Until' highlighted in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-pause-updates-windows-10.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run Computer Maintenance at Your Specified Time
 
@@ -104,10 +108,6 @@ C:\Windows\SoftwareDistribution\
  To make that change, open the Start Menu and find "Security and Maintenance". Click it to open it. Then, expand the "Maintenance" section and choose "Change Maintenance Settings."
 
 !['Change Maintenance Settings' highlighted in Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-change-windows-maintenance-settings.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Select the "Run Maintenance Tasks Daily at" drop-down menu and select when you want your PC to run the maintenance tasks. This should be when you aren’t working on important tasks on your PC. Then, select "OK."
 
@@ -130,20 +130,19 @@ C:\Windows\SoftwareDistribution\
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-transformative-copywriting-the-triad-technique-that-elevates-facebook-campaigns/"><u>[New] In 2024, Transformative Copywriting The Triad Technique That Elevates Facebook Campaigns</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-key-platforms-ranking-the-best-6-sites-for-business-interaction/"><u>[New] Key Platforms Ranking the Best 6 Sites for Business Interaction</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-recover-lost-photos-on-snapchat/"><u>[New] Recover Lost Photos on Snapchat</u></a></li>
-<li><a href="https://windows11.techidaily.com/eliminate-hyper-v-bsod-steps-to-restore-windows/"><u>Eliminate Hyper-V BSOD: Steps to Restore Windows</u></a></li>
-<li><a href="https://techtrends.techidaily.com/enhance-your-sap-automation-integrating-abbyys-smart-content-insights/"><u>Enhance Your SAP Automation: Integrating ABBYY's Smart Content Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-dota-2-lagging-2024-tips/"><u>How to Fix Dota 2 Lagging - 2024 Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-infinix-note-30-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Infinix Note 30 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-infinix-smart-7-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Infinix Smart 7 Phone Now with These Tips</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-galaxy-a34-5g-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Galaxy A34 5G</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-honor-90-lite-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Honor 90 Lite on Windows</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-m6-pro-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from M6 Pro 5G</u></a></li>
-<li><a href="https://techidaily.com/top-5-ways-to-fix-excel-2019-file-not-opening-error-by-stellar-guide/"><u>Top 5 Ways to Fix Excel 2019 File Not Opening Error</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/troubleshooting-graphics-cards-focus-on-functionality/"><u>Troubleshooting Graphics Cards: Focus on Functionality</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-t2-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo T2 Pro 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-cutting-edge-tactics-for-grabbing-your-favorite-fb-vids-for-2024/"><u>[New] Cutting Edge Tactics for Grabbing Your Favorite FB Vids for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-ultimate-screenrecorder-comprehensive-step-by-step-guide/"><u>[Updated] In 2024, Ultimate ScreenRecorder Comprehensive, Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-secret-strategies-to-outshine-with-canva-photos/"><u>[Updated] Secret Strategies to Outshine with Canva Photos</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oneplus-nord-n30-se-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Nord N30 SE Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/experience-the-ultimate-sound-of-turtle-beachs-atlas-air-headphones-comfort-meets-acoustic-excellence/"><u>Experience the Ultimate Sound of Turtle Beach's Atlas Air Headphones – Comfort Meets Acoustic Excellence</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 Plus To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-top-5-gionee-f3-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Gionee F3 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-infinix-hot-30-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Infinix Hot 30 5G without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-your-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning your drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-vivo-s17-pro-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Vivo S17 Pro Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
-date: 2025-01-23T14:04:27.878Z
-updated: 2025-01-29T06:46:28.440Z
+date: 2025-02-15T17:05:02.319Z
+updated: 2025-02-20T00:50:13.623Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
 ---
 
 ## How Cryptocurrency Miners Are Destroying PC Performance and Lifespan
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022
  Laptops and [mining crypto](https://vimeo-videos.techidaily.com/updated-in-2024-mastering-video-allure-securing-top-spots-with-the-vimeo-experts/) don't mix. Even a [gaming laptop](https://facebook-video-share.techidaily.com/updated-premium-notebooks-select-the-best-for-professional-edits/) doesn't have the hardware to go all-out 24/7\. Using your laptop as a mining rig is a good way to damage the hardware---and it won't be able to mine well.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Crypto Mining Does to a Computer
@@ -41,6 +37,10 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
  This isn't necessarily a problem for desktop GPUs. [A GPU used for mining may still have a good lifespan ahead of it if it was properly cooled](https://phone-solutions.techidaily.com/how-do-i-sign-a-svd-file-free-by-ldigisigner-sign-a-word-sign-a-word/). However, a laptop is very different from a mining rig.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Laptops Are Not Designed For This
 
  Most laptops, even high-end ones for gaming and creative professional work, are not designed to run at peak capacity 24/7\. Instead, they ramp up performance as needed and keep heat and power levels as low as possible the rest of the time. Even heavy workloads, such as playing a AAA video game for hours, don't peg your computer's CPU and GPU at 100%. Instead, the load is dynamic, providing small opportunities to dump heat.
@@ -54,7 +54,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 ![A fan on the motherboard inside a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/shutterstock_1294339672.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Color4260/Shutterstock.com](https://www.shutterstock.com/image-photo/close-on-printed-circuit-main-motherboard-1294339672)
@@ -66,7 +66,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  Modern laptops dynamically adjust fan speeds to match the thermal load, with some even switching them off when the system is only under a light load. If you're mining cryptocurrency, they'll be screaming headlong towards the end.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Thermal Battery Aging
@@ -76,7 +76,7 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
  In 2018, Shuai Ma and colleagues published a [paper on thermal impact and lithium-ion batteries](https://www.sciencedirect.com/science/article/pii/S1002007118307536). They cite research showing that lithium batteries subjected to 75 °C for a few days show severe degradation. While that doesn't mean sustained high temperatures in your laptop will kill your batteries quickly, it's worth remembering that components like the GPU can hit temperatures close to 100 °C, especially in a laptop where the line between "safe" and "too hot" is very thin.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Laptops Are Bad at Mining, Anyway
@@ -100,20 +100,24 @@ Related: [What Is Crypto Mining, and How Does It Work?](https://vimeo-videos.tec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-in-depth-look-at-facetune-complete-app-revision/"><u>[New] In-Depth Look at Facetune Complete App Revision</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-optimizing-your-podcasts-itunes-placement/"><u>[Updated] 2024 Approved Optimizing Your Podcast's iTunes Placement</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-step-by-step-iphone-music-video-production-basics/"><u>2024 Approved Step-by-Step IPhone Music Video Production Basics</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-vivo-s18e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Vivo S18e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-7-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-11-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m14-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M14 5G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-13c-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi 13C in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-fix-the-troubleshooters-not-working-in-windows-11-and-11/"><u>How to Fix the Troubleshooters Not Working in Windows 11 & 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/overcoming-blocked-downloads-in-the-ms-store/"><u>Overcoming Blocked Downloads in the MS Store</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-rated-protective-covers-for-google-pixel-9/"><u>Top-Rated Protective Covers for Google Pixel 9</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-step-by-step-guide-to-creating-a-video-channel-reviewing-tech-accessories-for-2024/"><u>[New] Step-by-Step Guide to Creating a Video Channel Reviewing Tech Accessories for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-unveiling-the-top-gopro-models-max-vs-hero-11/"><u>[New] Unveiling the Top GoPro Models Max Vs. Hero 11</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-hasty-yet-stunning-the-quick-path-to-perfect-collage-pics/"><u>[Updated] Hasty, Yet Stunning The Quick Path to Perfect Collage Pics</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-google-pixel-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Google Pixel 8 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/capture-youtube-video-sounds-with-our-top-audio-extraction-software-perfect-for-content-creators/"><u>Capture YouTube Video Sounds with Our Top Audio Extraction Software - Perfect for Content Creators!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/complete-step-by-step-to-google-podcast-success/"><u>Complete Step-by-Step to Google Podcast Success</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oneplus-12-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset OnePlus 12 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-n3-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find N3 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-honor-100-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor 100 phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-civi-3-disney-100th-anniversary-edition-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Civi 3 Disney 100th Anniversary Edition phone? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/hp-all-in-one-deskjet-3755-printer-driver-download-for-modern-windows-operating-systems/"><u>HP All-In-One Deskjet 3755 Printer Driver Download for Modern Windows Operating Systems</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-chromecast-without-limits-how-to-play-all-video-formats-2023-edition/"><u>New 2024 Approved Chromecast Without Limits How to Play All Video Formats (2023 Edition)</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Plus Data From iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-galaxy-s24-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Galaxy S24</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-the-breakpoint-exception-error-in-windows-system/"><u>Resolving the Breakpoint Exception Error in Windows System</u></a></li>
+<li><a href="https://techidaily.com/sign-pdf-documents-online-for-free-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign PDF Documents Online for Free</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v20-file-stellar-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v2.0 File | Stellar</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ultimate-guide-to-picking-a-tablet-amazon-fire-or-ipad/"><u>The Ultimate Guide to Picking a Tablet - Amazon Fire or iPad?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unlock-french-skills-from-your-living-room/"><u>Unlock French Skills From Your Living Room</u></a></li>
 </ul></div>
 

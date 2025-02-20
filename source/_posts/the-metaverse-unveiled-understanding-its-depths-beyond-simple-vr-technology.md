@@ -1,7 +1,7 @@
 ---
 title: "The Metaverse Unveiled: Understanding Its Depths Beyond Simple VR Technology"
-date: 2025-01-27T19:25:13.685Z
-updated: 2025-01-29T05:02:17.635Z
+date: 2025-02-18T20:39:47.718Z
+updated: 2025-02-19T21:59:46.156Z
 tags:
   - cutting-edge
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 ###### [Read update](https://video-screen-grab.techidaily.com/screenstreamer-breaking-down-the-newest-recorder-for-2024/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 * [Microsoft and "Digital Twins"](https://win11.techidaily.com/avoid-frustration-fixing-the-missing-print-feature-on-windows/)
 
  Tech CEOs keep talking about "the metaverse." Mark Zuckerberg [insists](https://www.bloomberg.com/news/articles/2021-07-29/mark-zuckerberg-explains-metaverse-vision-to-facebook-fb-investors-analysts) that Facebook will be seen as a "metaverse company" instead of a social media company---so much so that he renamed the company "Meta." Satya Nadella [proclaims](https://www.linkedin.com/pulse/expanding-partner-opportunity-microsoft-cloud-satya-nadella/) Microsoft is creating a "metaverse stack" for the enterprise. We'll explain what's going on, starting with Snow Crash.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  The Origins of "Metaverse": Snow Crash
 
@@ -41,7 +37,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
  In fact, in 2011, Stephenson told [Forbes](https://www.forbes.com/sites/davidewalt/2011/09/19/neal-stephenson-reamde-video-games/) that he saw video games like World of Warcraft as the real metaverse: Virtual worlds you could inhabit with your friends. In 2021, games like Minecraft and Fortnite are perhaps closer to the vision of the metaverse he foresaw.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Is the "Metaverse" Just Rebranded Virtual Reality?
@@ -55,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 > If you're in an AR application, you are where you are. You're in your physical environment, you're seeing everything around you normally, but there's additional stuff that's being added. So VR has the ability to take you to a completely different fictional place---the kind of thing that's described in the Metaverse in Snow Crash. When you go into the Metaverse, you're on the street, you're in the Black Sun, and your surroundings disappear. In the book, Hiro lives in a shabby shipping container, but when he goes to the Metaverse, he's a big deal and has access to super high-end real estate.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Maybe the Metaverse Is Just the New "Web 2.0"
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 
  When you realize Facebook owns [Oculus](https://www.oculus.com/), the company's desire to strongly push a future VR-based platform makes a lot of sense.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft and "Digital Twins"
 
  Microsoft's vision of the metaverse seems to take the form of [rambling, buzzword-heavy talk](https://azure.microsoft.com/en-us/blog/converging-the-physical-and-digital-with-digital-twins-mixed-reality-and-metaverse-apps/) about "digital twins" and "converging the physical with the digital" with "mixed reality." Microsoft's Azure cloud can do it!
@@ -85,7 +85,7 @@ thumbnail: https://thmb.techidaily.com/60fbcd30864e8b21a8752d2636e7944e4f6dffcb3
 ![51nbYwWXNuL._SL500_](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/06/51nbywwxnul-_sl500_.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Coined the Term
@@ -113,16 +113,24 @@ Read the classic cyberpunk book that apparently inspired a generation of tech CE
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-synergizing-visual-elements-best-text-plugins-reviewed/"><u>[New] Synergizing Visual Elements Best Text Plugins Reviewed</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/closer-conversations-mastering-in-camera-precision/"><u>Closer Conversations Mastering In-Camera Precision</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-14-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi 14 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-vivo-s18-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Vivo S18 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-mastering-gradual-audio-silence-with-audacity/"><u>In 2024, Mastering Gradual Audio Silence with Audacity</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-apple-watch-ultra-2-my-ideal-smartwatch-companion-at-an-unbeatable-labor-day-discount-insights-from-zdnet/"><u>The Apple Watch Ultra 2: My Ideal Smartwatch Companion at an Unbeatable Labor Day Discount - Insights From ZDNet</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/the-ultimate-guide-to-crypto-asset-management-using-innovative-services-and-solutions-by-yl-software/"><u>The Ultimate Guide to Crypto Asset Management Using Innovative Services and Solutions by YL Software</u></a></li>
-<li><a href="https://techidaily.com/update-hardware-drivers-with-device-manager-on-windows-7-by-drivereasy-guide/"><u>Update hardware drivers with Device Manager on Windows 7</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-oppo-reno-10-pro-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Oppo Reno 10 Pro 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-k70-music-recovery-recover-deleted-music-from-xiaomi-redmi-k70-by-fonelab-android-recover-music/"><u>Xiaomi Redmi K70 Music Recovery - Recover Deleted Music from Xiaomi Redmi K70</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-ideal-approaches-to-correct-iphone-hdr-overexposure-in-adobe-premiere-for-2024/"><u>[Expert] Ideal Approaches to Correct iPhone HDR Overexposure in Adobe Premiere for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-top-10-exclusive-iphone-photo-editors-enhance-selfies-without-spending/"><u>[New] 2024 Approved Top 10 Exclusive iPhone Photo Editors Enhance Selfies Without Spending</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-premiere-smart-goggles-craftsmen/"><u>[New] Premiere Smart Goggles Craftsmen</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-optimizing-your-browsing-mastering-firefoxs-pip/"><u>[Updated] In 2024, Optimizing Your Browsing Mastering Firefox's PIP</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-poco-c50-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprimir-video-alto-tamano-para-whatsapp-sin-perdida-de-calidad/"><u>Comprimir Video Alto Tamaño Para WhatsApp Sin Pérdida De Calidad</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/configuration-system-failed-to-initialize-on-windows-11-solved/"><u>Configuration System Failed to Initialize on Windows 11 [Solved]</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-x90s-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo X90S If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-meizu-21-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Meizu 21 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-s17-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo S17 Pro to New Android? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-11-pro-max-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 11 Pro Max with 3 Methods</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-realme-narzo-n55-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Realme Narzo N55 Device</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-a1x-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo A1x 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-samsung-galaxy-m34-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-vivo-x-fold-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Vivo X Fold 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-special.techidaily.com/ultimate-tutorial-transferring-data-from-hdd-to-solid-state-drive-ssd/"><u>Ultimate Tutorial: Transferring Data From HDD to Solid State Drive (SSD)</u></a></li>
+<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-vivo-y27-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Vivo Y27 5G</u></a></li>
+<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-15-pro-max-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 15 Pro Max?</u></a></li>
 </ul></div>
 

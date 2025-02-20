@@ -1,7 +1,7 @@
 ---
 title: "「グローバルな文書中データへのアクセス解明: ABBYYの現状分析レポート」"
-date: 2025-01-25T12:35:06.056Z
-updated: 2025-01-28T18:50:22.007Z
+date: 2025-02-16T21:15:52.537Z
+updated: 2025-02-19T20:22:07.577Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d85277a374a3a1037690eb16.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [ニュースルーム](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY、グローバルでドキュメント内データへのアクセスに関する実態調査を実施
@@ -22,11 +22,11 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 日本の従業員における42%は「AIで業務負担の軽減になる」と回答  
@@ -65,7 +65,7 @@ thumbnail: https://thmb.techidaily.com/96aa1b87d78d9da06b5a26c2f6109ba265782381d
 [![](https://static1.abbyy.com/abbyycommedia/34771/infographic-for-survey-jp.jpg)](https://www.abbyy.com/media/34771/infographic-for-survey-jp.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 【調査方法】
@@ -99,20 +99,21 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-ascending-altitudes-in-depth-analysis-of-the-gopro-karma-drone/"><u>[New] Ascending Altitudes In-Depth Analysis of the GoPro Karma Drone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-low-cost-pc-unlock-with-ideal-obs-settings-for-2024/"><u>[New] Low-Cost PC - Unlock with Ideal OBS Settings for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-harvesting-high-res-hangouts-for-2024/"><u>[Updated] Harvesting High-Res Hangouts for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-in-2024-captivating-content-the-essential-six-video-formats/"><u>[Updated] In 2024, Captivating Content The Essential Six Video Formats</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-streamline-your-youtube-watch-with-no-black-or-white-edges/"><u>2024 Approved Streamline Your YouTube Watch with No Black or White Edges</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-f15-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy F15 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-edge-2023-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/grasping-the-intricacies-of-russian-sounds/"><u>Grasping the Intricacies of Russian Sounds</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-honor-magic-5-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Honor Magic 5 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y100t-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y100t If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Oppo A78 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-infinix-zero-30-5g-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Infinix Zero 30 5G</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tests-du-systeme-dinfotainment-par-le-groupe-volkswagen-utilisant-la-technologie-dingenierie-vocale-abbyy-finereader-engine/"><u>Tests Du Système D'infotainment Par Le Groupe Volkswagen Utilisant La Technologie D'ingénierie Vocale ABBYY FineReader Engine</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-oneplus-ace-2-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About OnePlus Ace 2 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-discover-novel-webcam-functions-today/"><u>[Updated] 2024 Approved Discover Novel Webcam Functions Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-sims-4-gameplay-capture/"><u>[Updated] In 2024, The Ultimate Guide to Sims 4 Gameplay Capture</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pushing-boundaries-in-film-the-ultimate-guide-to-producing-slow-motion-videos-with-photos-and-internet-for-2024/"><u>[Updated] Pushing Boundaries in Film The Ultimate Guide to Producing Slow-Motion Videos with Photos & Internet for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-sony-xperia-10-v-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Sony Xperia 10 V in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-12-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-m54-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy M54 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xs-max-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XS Max without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expertly-record-your-win11-display/"><u>In 2024, Expertly Record Your Win11 Display</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-text-tactics-top-10-best-practices/"><u>In 2024, Text Tactics Top 10 Best Practices</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/select-apple-airpod-variants-get-a-tech-boost-this-fall-with-three-key-features-as-revealed/"><u>Select Apple AirPod Variants Get a Tech Boost This Fall with Three Key Features, as Revealed</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-oppo-find-n3-flip-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Oppo Find N3 Flip</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-oppo-find-x6-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Oppo Find X6.</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-lava-blaze-2-5g-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Lava Blaze 2 5G</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-advanced-window-media-editing-techniques-audio-purge-edition/"><u>Updated 2024 Approved Advanced Window Media Editing Techniques Audio Purge Edition</u></a></li>
 </ul></div>
 

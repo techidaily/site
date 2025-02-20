@@ -1,7 +1,7 @@
 ---
 title: "Guide: Operating ChatGPT on Your PC via Windows"
-date: 2025-01-28T09:42:21.724Z
-updated: 2025-01-29T07:30:58.898Z
+date: 2025-02-17T01:38:58.378Z
+updated: 2025-02-19T22:09:03.200Z
 tags:
   - cutting-edge
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  To turn ChatGPT’s site into an app, you’ll use a built-in option in Chrome or Edge. This option turns any site you access in these web browsers into a Windows app. You can use either web browser, but Edge offers the option to change the app’s icon when you create the app.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Download ChatGPT Using Chrome
 
 [Launch Chrome on your PC](https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-pattern-lock-without-factory-reset-by-drfone-android/) and access the [ChatGPT site](https://chatgpt.com/). Log in to your account on the site and get to the chat screen (where you send and receive messages).
@@ -41,12 +45,16 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 ![The text box and 'Install' highlighted in Chrome.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-chrome-create-chatgpt-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Chrome will create and launch the app in a new window. You may now start using the app.
 
  Windows will display a notification asking if you want to [pin the app to the taskbar](https://tech-hub.techidaily.com/understanding-the-five-main-causes-of-chatgpt-prohibitions-in-businesses/). To do that, click "Yes." Otherwise, select "No, Thanks." And that’s it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Download ChatGPT Using Edge
 
@@ -64,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
  And that’s all.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  How to Launch the Downloaded ChatGPT App
 
  Since the ChatGPT app you’ve created works like any other installed app on your PC, you can [launch it like you would any other app](https://on-screen-recording.techidaily.com/ipad-timelapse-a-beginners-handbook-to-filming/). One way to do that is by using the Start Menu.
@@ -81,14 +85,10 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 !['Pin to Start' and 'Pin to Taskbar' highlighted for ChatGPT in Windows Search.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/6-pin-chatgpt-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  And you now have access to your favorite AI tool as a native Windows app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How to Uninstall the ChatGPT App
 
@@ -98,13 +98,13 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 !['Uninstall' highlighted for ChatGPT in Windows 11 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-remove-chatgpt-windows-11-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To [delete the app using Settings on Windows 10](https://tech-recovery.techidaily.com/top-savings-on-apple-watches-in-april/), go to Settings > Apps. Select the ChatGPT app, click "Uninstall," and choose "Uninstall" in the prompt.
 
 !['Uninstall' highlighted for ChatGPT in Windows 10 Settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/8-delete-chatgpt-windows-10-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you made the app with Chrome, you can [use Control Panel to uninstall the app](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/) [as well](https://video-screen-grab.techidaily.com/updated-mastering-video-best-practices-in-game-recording-and-streaming-for-2024/). To do that, navigate to Control Panel > Uninstall a Program. Find and select the ChatGPT app and choose "Uninstall" at the top. Click "Remove" in the prompt.
 
@@ -127,15 +127,16 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-seamless-photo-insertion-into-instagram-feed/"><u>[New] Seamless Photo Insertion Into Instagram Feed</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-5-masterful-fluid-interaction-titles/"><u>[Updated] 2024 Approved 5 Masterful Fluid Interaction Titles</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/epson-v600-printer-software-download-get-the-latest-drivers/"><u>Epson V600 Printer Software Download: Get the Latest Drivers</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-honor-90-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 90 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2022-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2022) to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/mavericks-mp4-video-editor-simplify-your-editing-process/"><u>Mavericks MP4 Video Editor Simplify Your Editing Process</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-honor-magic-6-lite-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Honor Magic 6 Lite</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/top-8-best-selfie-sticks-in-iphone-2024-review/"><u>Top 8 Best Selfie Sticks in iPhone 2024 Review</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-outlook-spellcheck-steps-to-get-it-running-again/"><u>Troubleshooting Outlook Spellcheck: Steps to Get It Running Again</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-lava-blaze-pro-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Lava Blaze Pro 5G fingerprint</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-boost-your-imagery-title-placement-techniques-on-video-clips-with-photos/"><u>[New] In 2024, Boost Your Imagery Title Placement Techniques on Video Clips with Photos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-color-grading-techniques-a-beginners-guide-for-2024/"><u>[Updated] Essential Color Grading Techniques A Beginner's Guide for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-mastering-the-art-of-unfollow-a-compilation-of-essential-tools/"><u>2024 Approved Mastering the Art of Unfollow A Compilation of Essential Tools</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-tecno-pova-5-pro-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Pova 5 Pro Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-samsung-galaxy-a24-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Samsung Galaxy A24 to PC? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/identifying-the-reasons-behind-your-pcs-constant-beeps-expert-tips-from-yl-computing/"><u>Identifying the Reasons Behind Your PC's Constant Beeps - Expert Tips From YL Computing</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-boost-mobile-apple-iphone-7-before-the-plan-expires-by-drfone-ios/"><u>In 2024, Unlock Your Boost Mobile Apple iPhone 7 Before the Plan Expires</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/is-a-portable-monitor-right-for-you-exploring-top-picks-and-reasons-to-consider-them-tech-insight/"><u>Is a Portable Monitor Right for You? Exploring Top Picks and Reasons to Consider Them | Tech Insight</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-note-30-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Note 30 on Windows</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-pop-8-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Pop 8 Reset Code | Dr.fone</u></a></li>
 </ul></div>
 

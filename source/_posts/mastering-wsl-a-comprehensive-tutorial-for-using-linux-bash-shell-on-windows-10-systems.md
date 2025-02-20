@@ -1,7 +1,7 @@
 ---
 title: "Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems"
-date: 2025-02-03T16:45:28.650Z
-updated: 2025-02-09T20:25:14.336Z
+date: 2025-02-18T19:12:19.012Z
+updated: 2025-02-19T19:59:14.622Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 ## Mastering WSL: A Comprehensive Tutorial for Using Linux Bash Shell on Windows 10 Systems
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -30,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
 
  The Windows Subsystem for Linux, introduced in the [Anniversary Update](https://twitter-videos.techidaily.com/2024-approved-clear-obstacle-youtube-tweets-on-google-chrome/), became a stable feature in the [Fall Creators Update](https://phone-solutions.techidaily.com/does-samsung-support-mkv-video-files-by-aiseesoft-video-converter-play-mkv-on-android/). You can now run Ubuntu, openSUSE, a remix of Fedora, and plenty of others on Windows, with more Linux distributions coming soon.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What You Need to Know About Windows 10's Bash Shell
 
 ###  How Windows Subsystem for Linux 1 (WSL1) Works
@@ -49,7 +45,7 @@ thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa4
  There are some limitations here. It won't officially work with [graphical Linux desktop applications](https://instagram-video-recordings.techidaily.com/updated-2024-approved-mastering-instagram-profit-the-ultimate-strategy-blueprint/). Not every command-line application works, either, as the feature isn't perfect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  How Windows Subsystem for Linux 2 (WSL2) Works
@@ -82,10 +78,6 @@ wsl --install
 
 ![Linux distros available on the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ms-store-linux.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You'll see a list of every Linux distribution currently available in the Windows Store.This includes [Ubuntu, openSUSE Leap, and openSUSE Enterprise](https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c300-drfone-by-drfone-virtual-android/), Debian, Kali, and others. You can even find a few remixes of Fedora, though there isn't an official version available as of November 2023.
 
  If you want a specific distro, search for that rather than "Linux." You'll get better results.
@@ -95,6 +87,10 @@ wsl --install
  If you're not sure which Linux environment to install, we recommend Ubuntu. This popular Linux distribution was previously the only option available, but other Linux systems are now available for people who have more specific needs.
 
 ![Installing Debian through the Microsoft Store.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/installing-debian.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also install multiple Linux distributions and they'll each get their own unique shortcuts. You can even run multiple different Linux distributions at a time in different windows.
 
@@ -109,6 +105,10 @@ wsl --install
  You can pin this application shortcut to your Start menu, taskbar, or desktop for easier access.
 
 ![Searching for "Ubuntu" in the Start Menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/ubuntu-search.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The first time you launch the Linux environment, you're be prompted to enter a UNIX username and password. These don't have to match your Windows username and password, but will be used within the Linux environment.
 
@@ -145,7 +145,7 @@ wsl --install
 ![The command &quot;ls&quot; run in the C:\ directory to list files and folders.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985d46b3c57.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll need to [use the apt command](https://screen-sharing-recording.techidaily.com/updated-best-practices-in-winning-tv-recording-with-software/) to install and update the Ubuntu environment's software. Be sure to prefix these commands with `sudo` , which makes them run as root--the Linux equivalent of Administrator. Here are the apt-get commands you'll need to know:
@@ -163,7 +163,11 @@ wsl --install
 ![Installing GNU Compiler Collection with apt.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a985e7d80a6b.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Install the Ubuntu Font for a True Ubuntu Experience
@@ -173,10 +177,6 @@ wsl --install
  Here's what it looks like:
 
 ![The default font, Consolas.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a9864cb2035c.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To install the font, first download the [Ubuntu Font Family](http://font.ubuntu.com/) from Ubuntu's website. Open the downloaded .zip file and locate the "UbuntuMono-R.ttf" file. This is the Ubuntu monospace font, which is the only one used in the terminal. It's the only font you need to install.
 
@@ -196,23 +196,19 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 ![Navigate to the &quot;TrueTypeFont&quot; key.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986517b1bec.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click in the right pane and select New > String Value. Name the new value `000` .
 
  Double-click the "000" string you just created, and then enter `Ubuntu Mono` as its value data.
 
 ![Create a new string named &quot;000&quot;, then set the value to &quot;Ubuntu Mono&quot;.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a98652a926c4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch an Ubuntu window, right-click the title bar, and then select the "Properties" command. Click the "Font" tab, and then select "Ubuntu Mono" in the font list.
 
 ![Right-click the title bar of the terminal application you're using, go to &quot;Properties,&quot; then click &quot;Font.&quot; Select &quot;Ubuntu Mono&quot; from the list.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/03/img_5a986560320a0.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Use the Ubuntu Monospace Font in the Terminal
 
@@ -225,6 +221,10 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
  The Terminal automatically expands or collapses the labels in the left sidebar depending on the size of your window, much like the Settings app does. You may not see the "Default" text label depending on the size of your window.
 
 ![Enable the Ubuntu Mono font.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/font-ubuntu-mono.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Remember: software you install in the Bash shell is restricted to the Bash shell. You can access these programs from the Command Prompt, PowerShell, or elsewhere in Windows, but only if you [run the bash -c command](https://vp-tips.techidaily.com/building-a-brand-with-captivating-haul-videos-and-edits/).
 
@@ -243,18 +243,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Console\TrueType
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-elite-5-emulators-transforming-old-ps1-games-on-pcs/"><u>[New] 2024 Approved Elite 5 Emulators Transforming Old PS1 Games on PCs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ssential-tips-for-flv-file-fusion-on-youtube-for-2024/"><u>[New] Essential Tips for FLV File Fusion on YouTube for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-how-to-shoot-breathtaking-igtv-content-on-smartphonesdlsrs-for-2024/"><u>[New] How to Shoot Breathtaking IGTV Content on Smartphones/DLSRs for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/four-hacks-stopping-automatic-windows-and-office-updates/"><u>Four Hacks: Stopping Automatic Windows & Office Updates</u></a></li>
-<li><a href="https://games-able.techidaily.com/game-boosting-ps5-upgrades-unveiled/"><u>Game Boosting PS5 Upgrades Unveiled</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-poco-c50-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco C50 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-s23-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy S23 Ultra Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-intriguing-indulgences-the-ultimate-list-of-websites-for-puzzling-boxes/"><u>In 2024, Intriguing Indulgences The Ultimate List of Websites for Puzzling Boxes</u></a></li>
-<li><a href="https://win-forum.techidaily.com/les-9-meilleures-solutions-logiciel-danimation-en-2d-selon-google/"><u>Les 9 Meilleures Solutions Logiciel D'Animation en 2D Selon Google</u></a></li>
-<li><a href="https://techidaily.com/sign-doc-file-online-add-signature-to-doc-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .doc file Online - Add Signature to .doc file for Free</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-comprehensive-guide-to-top-8-collaborative-video-collage-tools-android-for-2024/"><u>The Comprehensive Guide to Top 8 Collaborative Video Collage Tools (Android) for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-huawei-nova-y91-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Huawei Nova Y91 without backup.</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/tomtom-actioncam-review-innovations/"><u>TomTom Actioncam Review Innovations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-cutting-edge-tech-for-flawless-4k-recordings/"><u>[Updated] Cutting-Edge Tech for Flawless 4K Recordings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-live-gaming-hubs-the-9-you-cant-miss/"><u>[Updated] Live Gaming Hubs The 9 You Can't Miss</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-basics-of-engaging-narratives/"><u>2024 Approved Basics of Engaging Narratives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-free-camera-screen-recorders-deep-dive-review-and-top-alternatives/"><u>2024 Approved Free Camera Screen Recorders Deep Dive Review and Top Alternatives</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-honor-90-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 Pro Max To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-precision-photography-dampening-disarray/"><u>In 2024, Precision Photography Dampening Disarray</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-tomtom-gopro-alternative-a-2023-review/"><u>In 2024, TomTom GoPro Alternative A 2023 Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211416901-9783964464989-open-up-and-find-yourself/"><u>Open Up and Find Yourself | Free Book</u></a></li>
+<li><a href="https://fox-info.techidaily.com/revolutionizing-the-way-you-engage-early-on-in-listening/"><u>Revolutionizing the Way You Engage Early on in Listening</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-vivo-v29-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Vivo V29.</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-drivers-on-windows-11-by-drivereasy-guide/"><u>Use Device Manager to update drivers on Windows 11</u></a></li>
 </ul></div>
 

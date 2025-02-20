@@ -1,7 +1,7 @@
 ---
 title: "10 Essential Functions of Microsoft's Bing Chatbot: Boost Your Productivity"
-date: 2025-01-25T17:53:44.800Z
-updated: 2025-01-28T23:44:29.578Z
+date: 2025-02-16T21:08:22.196Z
+updated: 2025-02-19T21:10:01.275Z
 tags:
   - cutting-edge
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/014d79402613effc6daacc66a3f2a300ba2df5a4c
 
  Microsoft's [ChatGPT](https://smart-video-editing.techidaily.com/new-how-to-find-free-sites-for-sound-effect-and-add-them-in-final-cut-pro-for-2024/)\-based AI chatbot is part of what the company calls "New Bing." It's slowly being added to more things, and [Bing Chat](https://facebook-video-recording.techidaily.com/new-in-2024-the-insiders-look-at-securing-fb-status-videos/) is surprisingly useful---if you know what to do with it. We'll show you the ropes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use Bing Chat in Google Chrome
 
 ![Chrome running Bing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/chrome-with-bing.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
@@ -45,7 +49,7 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 * **More Balanced**: Informative and friendly, somewhere between the other styles.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Generate Images With DALL-E
@@ -54,32 +58,32 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
  There's a lot that [separates Bing Chat and ChatGPT](https://extra-skills.techidaily.com/2024-approved-step-into-virtuality-comparing-best-vr-treadmills/), but one of the big ones is the ability to [generate images with another AI tool](https://review-topics.techidaily.com/recover-excel-2013-files-from-virus-infected-pen-drives-for-free-by-stellar-guide/) inside the text conversation. Bing uses OpenAI's DALL-E AI image generator, and it actually [has fewer limits than the official DALL-E website](https://facebook-video-content.techidaily.com/2024-approved-social-networking-101-registering-with-facebook/). Using the "More Creative" conversation style, simply ask it to create an image.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Share Responses
 
 ![Share responses from Bing Chat.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-30-40.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Get a particularly cool response from Bing Chat? You can easily share responses with the share button. You can quickly share to Facebook, Twitter, email, and Pinterest, or copy the link to share in any other way you'd like. [Links open in Bing](https://sl.bing.net/kVF1MyTSKei) and the response is given in real-time again.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Give Bing Feedback
 
 ![Rate the answer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-27-57.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Another thing you can do from responses is rate them. Click the thumbs up and thumbs down icons on the corner of responses to tell Bing if it did a good or bad job answering your prompt. This is supposed to help improve responses over time.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ask For Changes
@@ -87,10 +91,6 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 ![Follow-up questions.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2023-04-18_13-41-16.png) 
 
  You never have to settle for Bing's first response to a prompt. It can be tweaked and changed until you reach the 20-message limit, and you don't have to repeat the prompt every time. Let's say you asked for a recipe for vegetable soup, but the first response didn't include turnips. Simply follow-up by asking "add turnips to the recipe."
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Wipe Bing's Memory
 
@@ -100,13 +100,13 @@ Related: [How to Use Bing AI Chat in Google Chrome](https://fox-info.techidaily.
 
 Related: [Bing Chat AI Is a Surprisingly Good Travel Agent](https://fox-friendly.techidaily.com/updated-the-definitive-10-screenshot-boosters-with-stickers-on-iphones-and-androids/) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Use Bing Chat on Android and iPhone
 
 ![Tap the Bing Chat button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/03/2023-03-30_14-19-23.png?trim=1,1&amp;bg-color=000&amp;pad=1,1) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Bing Chat isn't limited to only the Microsoft Edge browser. The chatbot can be easily accessed on iPhone and Android with the Bing app as well. First, download the app from the [App Store](https://apps.apple.com/us/app/bing-your-ai-copilot/id345323231?at=1010l392g&ct=htg882581) or [Google Play Store](https://redirect.viglink.com/?key=e7eab128eb8d1c53e14db14f4c632447&u=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.microsoft.bing%26hl%3Den%5FUS%26gl%3DUS&cuid=xid:fr1681838202aaa). Sign in and tap the big Bing Chat button in the toolbar to start chatting.
 
@@ -143,16 +143,24 @@ Related: [How to Remove Bing Chat "Discover" Button in Microsoft Edge](https://s
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-wallet-friendly-mirrorless-choices/"><u>[Updated] In 2024, Wallet-Friendly Mirrorless Choices</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/elevate-website-insights-with-advanced-cookiebot-tools/"><u>Elevate Website Insights with Advanced Cookiebot Tools</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-elevate-your-live-experience-top-10-choices-for-2024/"><u>How to Elevate Your Live Experience Top 10 Choices for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-14-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 14 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-exclusive-list-of-the-premier-mac-screenshots-tools/"><u>In 2024, Exclusive List of the Premier Mac Screenshots Tools</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-defy-2frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Defy 2FRP Lock</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/pixel-perfect-protection-sneaky-storage-solutions-on-windows-11/"><u>Pixel Perfect Protection: Sneaky Storage Solutions on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-galaxy-a15-4g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Galaxy A15 4G</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Asus ROG Phone 7 Ultimate</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-motorola-edgeplus-assessment-shortcomings-in-achieving-elite-status/"><u>The Motorola Edge+ Assessment: Shortcomings in Achieving Elite Status</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-samsung-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Samsung fingerprint</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-snap-happy-with-hero5-black-tips-for-stunning-visuals/"><u>[New] 2024 Approved Snap-Happy with Hero5 Black Tips for Stunning Visuals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-deactivating-latest-os-restoring-to-mac-os-1010-for-2024/"><u>[Updated] Deactivating Latest OS Restoring to Mac OS 10.10 for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/convert-for-free-from-twitter-videos-to-animated-gifs/"><u>Convert for Free From Twitter Videos to Animated Gifs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/discover-the-full-screen-fusion-potential-with-sierras-multimedia-capabilities-for-2024/"><u>Discover the Full-Screen Fusion Potential with Sierra's Multimedia Capabilities for 2024</u></a></li>
+<li><a href="https://win-latest.techidaily.com/easy-guide-to-moving-windows-11-to-m2-ssd-no-os-reinstall-needed/"><u>Easy Guide to Moving Windows 11 to M.2 SSD - No OS Reinstall Needed</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-how-the-microsoft-surface-laptop-4-sets-a-new-standard/"><u>Expert Analysis: How the Microsoft Surface Laptop 4 Sets a New Standard</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Max Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-g2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo G2 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xr-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XR to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-captivating-hdr-portraits-for-the-art-enthusiast/"><u>In 2024, Captivating HDR Portraits for the Art Enthusiast</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-10-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 10 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Which is the Best Fake GPS Joystick App On Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/tecno-spark-10-5g-video-recovery-recover-deleted-videos-from-tecno-spark-10-5g-by-fonelab-android-recover-video/"><u>Tecno Spark 10 5G Video Recovery - Recover Deleted Videos from Tecno Spark 10 5G</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-c51-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco C51 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-lava-yuva-2-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Lava Yuva 2</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-huawei-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Huawei Device</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-pictures-from-nokia-c12-plus-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nokia C12 Plus.</u></a></li>
 </ul></div>
 

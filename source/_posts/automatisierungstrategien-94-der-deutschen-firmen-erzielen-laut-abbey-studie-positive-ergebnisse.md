@@ -1,7 +1,7 @@
 ---
 title: "Automatisierungstrategien: 94%% Der Deutschen Firmen Erzielen Laut ABBEY-Studie Positive Ergebnisse"
-date: 2025-01-11T19:47:50.571Z
-updated: 2025-01-15T16:20:14.778Z
+date: 2025-02-18T19:20:25.556Z
+updated: 2025-02-19T22:06:06.146Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac6bf71f33265c2968e32a513.jpg
@@ -11,10 +11,6 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 
 [Newsroom](https://tools.techidaily.com/abbyy/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 94% der deutschen Unternehmen erzielten laut ABBYY-Umfrage Erfolge beim Einsatz von Automatisierungstechnologien
 
 26\. April 2022
@@ -22,7 +18,7 @@ thumbnail: https://thmb.techidaily.com/5b65c4b3f0686b248331bf2cc1de813c24155eaac
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![News Automation 2](https://static5.abbyy.com/abbyycommedia/33484/news-automation-2.jpg) 
@@ -43,7 +39,7 @@ Befragt wurden 1,208 IT-Entscheider in Deutschland, Großbritannien, Frankreich,
 [![](https://static1.abbyy.com/abbyycommedia/35599/2022-04-25_infgraphic_survey_de_final.jpg?width=1068&height=558)](https://www.abbyy.com/media/35599/2022-04-25%5Finfgraphic%5Fsurvey%5Fde%5Ffinal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Vor dem Hintergrund, dass das Arbeiten im Home Office für die meisten Unternehmen zur Norm geworden ist, unzufriedene Arbeitnehmer eine größere Kündigungswelle begünstigt haben und die Vereinbarkeit von Beruf und Privatleben zur Priorität geworden ist, stellt dies eine positive Entwicklung dar.
@@ -68,6 +64,10 @@ _„Die Pandemie, eine größere Kündigungswelle aufgrund von Unzufriedenheit u
 
 Diese Studie wurde von Sapio Research im März 2022 im Auftrag von ABBYY durchgeführt. Die Umfrage wurde unter 1,208 IT-Entscheidern in Deutschland, Großbritannien, Frankreich, den USA und Japan durchgeführt, um zu erfassen, wo Unternehmen in Automatisierungsprojekte investieren, warum sie neue Technologien einsetzen und wie sich das Verhalten auf den Erfolg der Projekte auswirkt.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Über ABBYY
 
 ABBYY treibt die intelligente Automatisierung voran. Wir gestalten die Art und Weise, wie Menschen arbeiten neu, indem wir Automatisierungsplattformen mit der Intelligenz ausstatten, die es Unternehmen ermöglicht, ihr Geschäft zu beschleunigen. Unsere Lösungen wandeln Unternehmensdaten in verwertbare Daten um und liefern die Erkenntnisse, die für ein smarteres und schnelleres Arbeiten erforderlich sind.
@@ -79,7 +79,7 @@ ABBYY ist ein globales Unternehmen mit Sitz in den USA und Niederlassungen in 15
 ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeichen von ABBYY Software Ltd. Alle anderen Warenzeichen sind Eigentum ihrer jeweiligen Inhaber. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Pressekontakt:
@@ -87,7 +87,7 @@ ABBYY und das ABBYY Logo sind entweder registrierte Warenzeichen oder Warenzeich
 ![Nophoto 110X110](https://static4.abbyy.com/abbyycommedia/34370/nophoto-110x110.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Bianca Stupp
@@ -113,17 +113,19 @@ Vernetzen Sie sich mit uns
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearpathstoexpertisewithyoucamcapture/"><u>[New] 2024 Approved ClearPathsToExpertiseWithYouCamCapture</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-journey-through-gaming-landscapes-with-kinemaster-and-discover-its-best-competitors/"><u>[New] Journey Through Gaming Landscapes with KineMaster & Discover Its Best Competitors</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-smart-strategies-for-buying-economical-gopros/"><u>2024 Approved Smart Strategies for Buying Economical GoPros</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/capture-and-record-videos-from-your-webcam/"><u>Capture and Record Videos From Your Webcam</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g73-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G73 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-samsung-galaxy-a05-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Samsung Galaxy A05 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/revamp-auditory-functionality-updating-drivers-in-win11/"><u>Revamp Auditory Functionality – Updating Drivers in Win11</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/syncing-soundtracks-with-pals-using-spotifys-shared-likes/"><u>Syncing Soundtracks with Pals Using Spotify's Shared Likes</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-find-x7-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo Find X7</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/visionary-viewing-tripod-travelers-reliable-choice/"><u>Visionary Viewing Tripod: Traveler’s Reliable Choice</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-11-pro-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 11 Pro Max takes time in scanning my iPhone? | Stellar</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-expert-strategy-for-intertwining-gopro-footage-in-full-circle-cinematographic-works/"><u>2024 Approved Expert Strategy for Intertwining GoPro Footage in Full-Circle Cinematographic Works</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone X Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s to the Latest iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capture-cinema-mobile-and-desktop-device-movie-recording/"><u>In 2024, Capture Cinema Mobile & Desktop Device Movie Recording</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-on-iphone-se-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud on iPhone SE Safe and Legal</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6s-complete-guide-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6s? Complete Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pioneering-virtual-voyages-with-jaunt-vr/"><u>In 2024, Pioneering Virtual Voyages with Jaunt VR</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pixel-power-face-off-sj6-prodigy-meets-yi-4k-creator/"><u>In 2024, Pixel Power Face-Off SJ6 Prodigy Meets Yi 4K Creator</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/precision-no-download-leading-websites-turning-gif-into-video-for-2024/"><u>Precision No-Download Leading Websites Turning GIF Into Video for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-customer-service-upgrade-merging-chatgpt-with-whatsapp/"><u>Seamless Customer Service Upgrade: Merging ChatGPT with WhatsApp</u></a></li>
+<li><a href="https://techidaily.com/unlock-iphone-11-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 11 without Face ID</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-90-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor 90 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

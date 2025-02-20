@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enhanced Experience: Optimizing Your Site's Performance"
-date: 2024-11-03T11:34:02.673Z
-updated: 2024-11-03T22:00:29.003Z
+date: 2025-02-15T16:51:59.553Z
+updated: 2025-02-19T18:01:30.074Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2f4d2dd7c34adab834ad1c13.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/e7a938c8213dc5d370405bab4afa736e010a188d2
 
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## NelsonHall Names ABBYY a Leader in Process Discovery & Mining NEAT Assessment 2020
 
 June 23, 2020
 
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/)®, a Digital Intelligence company, has been identified by NelsonHall, a global analyst firm specializing in digital operations transformation, as a Leader in its NEAT vendor evaluation for Process Discovery and Mining. ABBYY is positioned in the top grouping in the comparative assessment among 15 vendors due to its ability to deliver immediate benefit and meet future client requirements.
 
@@ -28,6 +36,10 @@ In addition to process mining and discovery capabilities,[ABBYY Timeline](https:
 “We are honored to be recognized as a Leader in NelsonHall’s inaugural process mining and discovery assessment,” ABBYY Chief Marketing Officer **Scott Opitz** said. “With today’s challenges, many organizations are realizing the importance of having complete visibility into their business-critical operations. With our Process Intelligence platform, organizations are equipped with the tools to discover their processes end-to-end, boost operational efficiencies and drive successful digital transformation initiatives. We look forward to continuing to support organizations with innovative solutions that provide a comprehensive understanding of their processes and enable companies to elevate their Digital Intelligence.”
 
 ![](https://static1.abbyy.com/abbyycommedia/28790/pdm-overall-final.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To learn more about ABBYY’s full suite of Digital Intelligence solutions, please visit: <https://www.abbyy.com/solutions/digital-intelligence/>
 
@@ -70,29 +82,19 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-pairing-facebook-playback-with-home-theaters/"><u>[Updated] Pairing Facebook Playback With Home Theaters</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-selecting-the-best-the-top-5-fpv-goggles-list/"><u>2024 Approved Selecting the Best The Top 5 FPV Goggles List</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-time-lapse-software-how-to-create-time-lapse-video-2-methods/"><u>2024 Approved Time Lapse Software How to Create Time Lapse Video 2 Methods</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-xcover-6-pro-tactical-edition-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy XCover 6 Pro Tactical Edition in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 6s Data From iCloud? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-behind-the-scenes-mastering-the-craft-of-streaming-archiving/"><u>In 2024, Behind the Scenes Mastering the Craft of Streaming Archiving</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7 Plus</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-planning-to-use-a-pokemon-go-joystick-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, Planning to Use a Pokemon Go Joystick on Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/mondlys-eternal-savings-deal/"><u>Mondly's Eternal Savings Deal</u></a></li>
-<li><a href="https://techidaily.com/sony-xperia-1-v-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Sony Xperia 1 V Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
-<li><a href="https://win11.techidaily.com/stop-spacing-out-sounds-fixes-to-unmute-keyboard-volume/"><u>Stop Spacing Out Sounds: Fixes to Unmute Keyboard Volume</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide/"><u>Tom's Tech Reviews: The Ultimate Guide</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-14-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the 14 Pro password or pattern lock</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-8-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 8</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-nokia-c210-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Nokia C210 on Mac?</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-google-pixel-fold-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Google Pixel Fold Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-metaverse-bonding-discovering-the-top-10-shared-games/"><u>[New] Metaverse Bonding Discovering the Top 10 Shared Games</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-ultimate-fix-for-quick-signature-bg-disposal/"><u>2024 Approved Ultimate Fix for Quick Signature BG Disposal</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/asure-trove-sifting-through-the-top-10-economical-online-art-hubs-for-2024/"><u>A Treasure Trove Sifting Through the Top 10 Economical Online Art Hubs for 2024</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-samsung-galaxy-a14-4g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Samsung Galaxy A14 4G Fingerprint Lock</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/easy-guide-transforming-wmvwrf-files-into-high-quality-mp4-videos-using-top-video-converters/"><u>Easy Guide: Transforming WMV/WRF Files Into High-Quality MP4 Videos Using Top Video Converters</u></a></li>
+<li><a href="https://win-popular.techidaily.com/easy-steps-for-downloading-nico-videos-on-pc-and-mac-guide/"><u>Easy Steps for Downloading Nico Videos on PC & Mac - Guide</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g-stylus-2023-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G Stylus (2023) Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Itel P40? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-gentle-audio-dampening-on-lumafusion-platforms/"><u>In 2024, The Art of Gentle Audio Dampening on Lumafusion Platforms</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-art-of-complex-filters-a-step-by-step-guide-to-advanced-excel-functionality/"><u>Mastering the Art of Complex Filters: A Step-by-Step Guide to Advanced Excel Functionality</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-spark-20-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Spark 20 on Mac</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f14-5g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy F14 5G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers in Windows 7</u></a></li>
 </ul></div>
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 

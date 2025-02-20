@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2000 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-22T03:27:28.856Z
-updated: 2024-09-23T16:01:24.485Z
+date: 2025-02-17T01:11:51.488Z
+updated: 2025-02-19T22:07:51.859Z
 tags: 
   - repair
   - repair excel
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/470729e2db7d552929f896fede9bd2112971e2401
 If you frequently work with Microsoft Word (.docx), Excel (.xlsx), and PowerPoint (.pptx) files, then issues like file inaccessibility or corruption won’t be new to you.
 
 Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 files:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Scenarios behind Microsoft Office Files Corruption
 
@@ -59,7 +63,15 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Open-and-repair.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 2 – Repair Office 2016 Installation**
 
@@ -71,13 +83,6 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 - Click **Programs**
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/ControlPanel-Programs.png)
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click **Programs and Features,** and then click **Uninstall a program** option
 
@@ -96,6 +101,10 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 - Right-click the Start button, and type in **Apps & Features** (For Windows 10)
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Apps-and-features.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **NOTE:** This step will work for Windows 10/8/8.1/7 and Vista
 
@@ -202,13 +211,6 @@ There could be two primary reasons behind such behavior:
 
 To solve the errors associated with Pivot Tables, you need to repair them. But Microsoft doesn’t offer any inbuilt technique or option to repair Pivot Tables. Thus, to fix the issue, you either need some sort of workaround or an [Excel file repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Methods to Fix Corrupt Pivot Table in MS Excel**
 
 Though there aren’t many options to fix the Pivot Table, you can follow these workarounds to try and repair a corrupt Pivot Table of MS Excel. However, before following these steps, create a backup copy of your Excel file.
@@ -277,6 +279,10 @@ There could be different situations where you may lose access to your unsaved Ex
 
 Irrespective of the circumstances, you can recover unsaved Excel files on Windows 10 using the following methods.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 1: Use the Search Option**
 
 If you remember the name of the Excel file, try to find it using the Search option. Following these steps:
@@ -285,13 +291,6 @@ If you remember the name of the Excel file, try to find it using the Search opti
 - If you find the file there, click **Open** or **Open file location**.
 
 ![choose-open-or-open-file-location-from-Windows-search-box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/Type-excel-file-name-in-windows-search-box-and-click-open-or-open-file-location-image1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - If you click **Open file location**, it will take you to the exact location of the file, and you’ll be able to regain access to lost/unsaved Excel file easily.
 
@@ -328,6 +327,10 @@ Another way that you can choose is the ‘**Recover Unsaved Workbooks’** optio
 - Finally, right-click on the version of the file you want to restore and click **Save As**.
 
 ![unsaved-files-will-show-in-document-recovery-pane](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2022/01/unsaved-files-will-show-in-document-recovery-pane-image6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 And, save the file to the desired location
 
@@ -381,13 +384,6 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
 
 [Learn More ![red arrow](https://www.stellarinfo.com/image/catalog/blacktheme/data-recovery-standard/red-arrow.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## \[Fixed\] The Workbook Cannot Be Opened or Repaired By Microsoft Excel
 
 An MS Excel workbook (.XLS/.XLSX) file may not open due to damage or corruption caused by various reasons, such as:
@@ -403,19 +399,6 @@ An MS Excel workbook (.XLS/.XLSX) file may not open due to damage or corruption 
 As a result, when you try to open or access a corrupt Excel document, the program displays errors, such as "_The workbook cannot be opened or repaired by Microsoft Excel because it is corrupt_." This may lead to a data loss situation.
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-workbook-corruption-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Methods to Fix 'The Workbook Cannot Be Opened' Error**
 
@@ -556,6 +539,10 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
     ![Provide Name To Table In Import Spreadsheet Wizard](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/import-spreadsheet-wizard-to-analyze-data.jpg)
 - The Table Analyzer wizard will appear on the screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Table Analyzer Wizard Window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/table-analyzer-wizard-window.jpg)
 
 - Click on the **Next** button.
@@ -587,13 +574,6 @@ Sometimes, you get the “File not loaded completely” error if you are running
 
 Now, try to open the Excel file.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 4: Repair your Excel File
 
 Sometimes, Excel throws the “File not loaded completely” error if it fails to read the data in your file. This might happen if your Excel file is corrupt. You can use the Open and Repair utility in Excel to repair your Excel file. Follow the below steps:
@@ -605,13 +585,6 @@ Sometimes, Excel throws the “File not loaded completely” error if it fails t
 
 ![File Open Dialog Box In File Open Dialog Box](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/file-open-dialog-box-in-file-open-dialog-box-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 -  Click on the **Repair** button.
 
 ![Click On Repair Button](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/click-on-repair-button.jpg)
@@ -619,13 +592,6 @@ Sometimes, Excel throws the “File not loaded completely” error if it fails t
 - After repair, you will see a message as shown in the below figure.
 
 ![After Repair Excel Completed File Level Validation Message](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/after-repair-excel-completed-file-level-validation-message.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click **Close**.
 
@@ -673,6 +639,10 @@ The Runtime error 424: Object required can occur due to the following reasons:
 - You are trying to perform an invalid action on an object in a code.
 - Workbook is corrupted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  **Solutions to Fix Runtime Error 424: Object Required in Excel**
 
 The VBA error ‘object required’ may occur due to different reasons. Based on the reason, you can follow the solutions mentioned below to fix the error.
@@ -714,9 +684,17 @@ Sometimes, the error can occur if macros are disabled in the Macro Security sett
 
 ![Macro Security Wizard](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/macro-security-wizard.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click **OK**.
 
 ![Enable All Macro In Trust Center](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/enable-all-macros-in-trust-center.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Repair your Workbook
 
@@ -747,5 +725,22 @@ The Runtime error 424 usually occurs when there is an issue with the objects in 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-a-new-dawn-for-screen-capturing-apeaksoft-reviewed/"><u>[New] In 2024, A New Dawn for Screen Capturing Apeaksoft Reviewed</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-economical-enthusiasts-guide-to-game-recording-for-2024/"><u>[New] The Economical Enthusiast's Guide to Game Recording for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-instagrams-latest-filters-use-and-applications-2023-for-2024/"><u>[Updated] Instagram's Latest Filters Use and Applications 2023 for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnose-and-repair-the-ultimate-guide-to-realtek-high-definition-speakers-not-plugged-in/"><u>Diagnose & Repair: The Ultimate Guide to Realtek High Definition Speakers Not Plugged In</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232454-9781644112342-dmt-entity-encounters/"><u>DMT Entity Encounters | Free Book</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/drafting-a-compelling-closing-statement-for-tiktok-for-2024/"><u>Drafting a Compelling Closing Statement for TikTok for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-12-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi 12 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Meizu 21 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/quick-start-video-chatting-technique-for-snapchat-pros/"><u>Quick-Start Video Chatting Technique for Snapchat Pros</u></a></li>
+<li><a href="https://techidaily.com/sign-svd-file-online-add-signature-to-svd-file-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .svd file Online - Add Signature to .svd file for Free</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-honor-90-lite-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Honor 90 Lite without backup.</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-lenovo-by-fonelab-android-recover-music/"><u>Undelete lost music from Lenovo</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s23-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S23?</u></a></li>
+</ul></div>
 

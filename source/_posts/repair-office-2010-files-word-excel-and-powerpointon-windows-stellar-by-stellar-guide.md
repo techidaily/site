@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2010 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-20T06:30:56.663Z
-updated: 2024-09-24T11:07:43.780Z
+date: 2025-02-16T18:10:09.188Z
+updated: 2025-02-19T16:35:16.300Z
 tags: 
   - repair
   - repair excel
@@ -28,6 +28,10 @@ Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 f
 You decide to move Office files from your hard drive to other removable media. However, when you try to access the data within the files post-migration, you may find Word, Excel, and PowerPoint files showing gibberish characters. Due to a power surge, sudden system shutdown, and internal mechanical failure, the files may have turned corrupt.
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Word-displaying-gibberish-characters.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Figure 1- Microsoft Word file showing garbage characters
 
@@ -153,10 +157,7 @@ You may encounter the Compile error in hidden module due to one of the following
 Excel can throw the compile error while compiling the code that exists in the protected module. So, first check the error and identify the hidden module that is creating the issue. You can unprotect the module. Also, ensure that you have permission to access the VBA code in the module. If the error still exists, follow the below troubleshooting methods.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Re-register ActiveX Control Files or mscomctl.ocx Files
@@ -183,16 +184,13 @@ You can get the compile error in the Excel file, containing the VBA code related
 - Right-click on a file with .exd extension and select **Delete**.
 - Once you delete the .exd files, restart your Excel application.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 3: Rollback the Office Updates
 
 MS Office updates or upgrades may also cause the compile error in hidden module in Excel. If the error has occurred after downloading the recent Microsoft Office updates, try [reverting to the previous version](https://support.microsoft.com/en-us/topic/how-to-revert-to-an-earlier-version-of-office-2bd5c457-a917-d57e-35a1-f709e3dda841) or uninstalling the recent updates to fix the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Unselect Missing References
 
@@ -233,13 +231,6 @@ In Excel, the compile error in macro-enabled files can also occur due to incompa
 
 ![Select  Analysis Toolpak](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/select-analysis-toolpak.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Restart Excel and then check if the error is fixed or not.
 
 ### Method 7: Repair the Corrupt Excel File
@@ -260,6 +251,10 @@ Corruption in the Excel file can affect the macros in the hidden module, which m
 
 ![Message Appear After Repair](https://www.stellarinfo.com/blog/wp-content/uploads/2023/07/message-appear-after-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **What if None of the Above Solutions Works?**
 
 If the above methods fail to get rid of the “compile error in hidden module” in Excel, then use an Excel repair tool such as Stellar Repair for Excel. This tool is specifically designed to repair the corrupted Excel file. It can recover all the components from corrupted Excel file (macros, queries, formulas, etc.) without changing their original formatting. The tool is compatible with all Excel versions and can be downloaded on a Windows system. You can download the free trial version of Stellar Repair for Excel to scan the corrupted Excel file and preview the data.
@@ -267,6 +262,10 @@ If the above methods fail to get rid of the “compile error in hidden module”
 ## **Closure**
 
 You can get the “compile error in hidden module” when Excel detects any issue while compiling the code in a protected module. It can occur when there is an issue with the macro-enabled Excel workbook or Excel add-ins. You can follow the above-mentioned methods to fix the issue. If the error occurs due to corruption in the database file, then you can try [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). It can repair severely corrupted Excel files. It also helps recover all the Excel workbook’s components, including macros and queries. The tool has a simple and user-friendly interface.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recover Excel Files from Virus-Infected Pen Drives for Free
 
@@ -297,16 +296,13 @@ Using **Stellar Windows Data Recovery – Free Edition**, you can recover your f
 
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR2-1-1024x717.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - The scanning process starts and once the process is complete, software lists all the recoverable files
 
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR3-2-1024x714.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Select the files from the list and click on ‘**Recover**’ to save the files
 
@@ -351,13 +347,6 @@ But you should get the result as:
 
 ![Excel Formula Working Sample](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/02/Excel-not-showing-formula-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Why Does Excel Show or Display the Formula Not the Result?**
 
 **Following are the possible reasons that may lead to the ‘Excel showing formula not result’ issue:**
@@ -394,6 +383,10 @@ There is an “automatic calculation” feature in Excel, which tells Excel to d
 
 ![Automatic Calculations Feature](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2019/06/calculation-options.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click on ‘**OK**’. This will redirect you to your sheet.
 
 ### **Solution 4 – Type Formula in the Right Format**
@@ -417,10 +410,7 @@ There is a proper way to tell Excel that your text is a formula. If you don’t 
 When you use a number in the formula, make sure you don’t enter any decimal separator or currency sign, e.g. $, etc. In an Excel formula, a comma is used to separate arguments of a function and a dollar sign makes an absolute cell reference. Most of these special characters have built-in functions so avoid using them unnecessarily.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **What to Do If the Manual Solutions Don’t Work?**
@@ -430,6 +420,10 @@ If you’ve tried out the manual solutions mentioned above but still unable to r
 This reliable and competent software scans and repairs Excel files (.XLSX and .XLS). It also helps recover all the file components, like formulas, cell formatting, etc. Armed with an interactive GUI, this software is extremely easy to work with, and its advanced algorithms allow it to fend off Excel errors with ease.
 
 [![Free Download for windows](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/01/Free-download-for-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -485,23 +479,9 @@ End Sub
 
 ![Code On Command Button](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/code-on-commandbutton.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In this code, _Worksheets("First")_ is a data object. If I mistakenly delete this data object and insert any random name (for example - kanada), then it will not be recognized by Excel. When I run this code, I will get the “Run-time error 424”.
 
 ![Runtime Error with scenario](https://www.stellarinfo.com/public/image/catalog//article/file-repair/Error424/run-time-error-424-with-scenario.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Causes of Runtime Error 424 in Excel**
 
@@ -578,6 +558,10 @@ If the Open and Repair utility fails or stops working, then you can try a profes
 The Runtime error 424 usually occurs when there is an issue with the objects in your VBA code. In this article, we have covered some effective methods to resolve the “object required” error in Excel. If the error occurs due to corruption in Excel file, then you can repair the corrupt file using Stellar Repair for Excel. It is a reliable tool that can repair severely corrupted Excel file without changing its actual formatting. You can download the free trial version of the software to evaluate its functionality.
 
 ## Excel AutoRecover not working, what is next?
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Consider a Scenario
 
@@ -656,5 +640,20 @@ To help resolve the problem of ‘AutoRecover not working’, different methods 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-unlock-a-million-eyes-engaging-content-strategy/"><u>[Updated] 2024 Approved Unlock a Million Eyes Engaging Content Strategy</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-chromebook-screen-capture-simplified-into-four-methods/"><u>[Updated] Chromebook Screen Capture Simplified Into Four Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-vault-selection-for-top-corporate-use/"><u>2024 Approved Vault Selection for Top Corporate Use</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-itel-s23-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Itel S23 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/enhance-your-livestreams-with-manycam-top-notch-virtual-webcam-technology-for-seamless-broadcasts/"><u>Enhance Your Livestreams with ManyCam – Top-Notch Virtual Webcam Technology for Seamless Broadcasts</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/finding-the-ultimate-video-solution-vlc-and-mx-showdown/"><u>Finding the Ultimate Video Solution VLC and MX Showdown</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-11r-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 11R Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-sony-xperia-1-v-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Sony Xperia 1 V Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-realme-c55-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Realme C55 Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-realme-12-pro-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Realme 12 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-motorola-edgeplus-2023-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Motorola Edge+ (2023) without backup.</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-gopro-quik-review-is-it-the-best-video-editor-for-your-needs-for-2024/"><u>Updated GoPro Quik Review Is It the Best Video Editor for Your Needs for 2024</u></a></li>
+</ul></div>
 

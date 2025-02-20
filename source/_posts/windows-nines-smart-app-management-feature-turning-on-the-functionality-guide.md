@@ -1,7 +1,7 @@
 ---
 title: Windows Nine's Smart App Management Feature - Turning On the Functionality Guide
-date: 2025-01-22T20:28:31.153Z
-updated: 2025-01-28T21:12:45.588Z
+date: 2025-02-12T17:01:31.147Z
+updated: 2025-02-19T19:32:25.681Z
 tags:
   - deals
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Windows Nine's Smart App Management Feature - Turning On the Functionality Guide
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -20,10 +20,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 * [What Is Smart App Control and How Does It Work?](https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-vivo-y02t-drfone-by-drfone-virtual-android/)
 * [How to Turn On Smart App Control](https://twitter-videos.techidaily.com/new-interlinked-upload-sharing-content-via-twt-plus-tumble-for-2024/)
 * [How to Turn Off Smart App Control](https://tech-revival.techidaily.com/enterprise-focused-insights-on-gpt-systems/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -35,10 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Let's explore how Smart App Control works, why it's turned off on some systems, and how to enable it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  What Is Smart App Control and How Does It Work?
 
  Smart App Control is a feature within Windows Security that provides protection against untrustworthy apps. When you try to run an app, SAC analyzes its credibility using Microsoft’s Intelligent Security Graph, a cloud-based security service. If the service is unable to make a confident prediction, it then checks the app for a valid signature (which identifies where the file originates from and if it's a trusted source).
@@ -46,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Apps from known publishers or with valid signatures will run as expected. If not, the program is blocked. There’s no manual override option, nor can you add an app to an exemption list.
 
 !['Smart App Control has blocked this app' notification.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-app-blocking-notification.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Microsoft intends that SAC is only useable on a clean Windows installation. By doing so, Windows can ensure that all the apps installed on your computer are vetted by SAC, thus ensuring the devices' safety. If you received SAC as a part of a Windows 11 update, you'll need to [perform a factory reset](https://facebook-video-footage.techidaily.com/new-blueprints-for-breaking-ground-in-edu-video-production-on-youtube-channels-for-2024/) or [clean install Windows 11](https://instagram-video-files.techidaily.com/new-2024-approved-celebrating-the-premier-25-ones-to-watch-on-insta/) before you can use it (unless you perform a registry tweak, explained below).
 
@@ -55,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  Once the evaluation is complete, if Windows thinks SAC can work without too many interruptions on your system, it's automatically turned on. If not, it's disabled.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Turn On Smart App Control
 
  Assuming you meet the conditions explained above, you can skip Evaluation mode and turn on Smart App Control in Windows Security settings.
@@ -62,6 +62,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  First, press Win+i to open the Settings app. Select the "Privacy & Security" tab in the left pane, then click "Windows Security" on the right.
 
 ![Windows 11 Privacy & security settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-settings-app-privay-security-screen.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click "Open Windows Security" to launch the Windows Security app.
 
@@ -74,10 +78,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
  Select "On" to enable Smart App Control on your Windows device. Once enabled, SAC starts monitoring and blocks any suspicious app execution on your computer.
 
 ![Smart App Control turned on in Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/smart-app-control-turned-on-in-windows-11.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  How to Force Enable Smart App Control Using the Registry Editor
 
@@ -97,16 +97,12 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 ![Windows 11 Registry Editor showing the 'VerifiedAndReputablePolicyState' value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-11-registry-editor-showing-smart-app-control-policy.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In the "Value Data" field, type 1 to enable Smart App Control and click "OK" to save the changes. Alternatively, type 2 to put SAC in Evaluation mode, or 0 to turn it off. You need to relaunch the Windows Security app to apply the changes.
 
 ![Changing VerifiedAndReputablePolicyState value in Registry Editor to 1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/changing-verifiedandreputablepolicystate-value-in-registry-editor-to-1-in-windows-11.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Turn Off Smart App Control
@@ -120,6 +116,10 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
  Within the Smart App Control window, select "Off."
 
 ![Windows Smart App Control settings to enable or disable.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/windows-security-smart-app-control-off-option-showing.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Read the confirmation prompt, then click "Yes, I'm Sure" to disable Smart App Control.
 
@@ -144,22 +144,24 @@ Computer > HKEY_LOCAL_MACHINE > SYSTEM > CurrentControlSet > Control > CI > Poli
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-lengthy-video-to-captivating-animation-create-gifs-with-ease/"><u>[New] 2024 Approved From Lengthy Video to Captivating Animation - Create Gifs with Ease</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-leading-8-ultimate-tripods-for-4k-video-capture/"><u>[New] 2024 Approved Leading 8 Ultimate Tripods for 4K Video Capture</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-embrace-cold-choosing-heated-backdrops-for-youtube/"><u>[Updated] 2024 Approved Embrace Cold Choosing Heated Backdrops for YouTube</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/conquered-challenge-sync-your-favorite-games-soundtracks-to-discord-live/"><u>Conquered Challenge: Sync Your Favorite Games' Soundtracks to Discord Live</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-11-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 11 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-s24-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-removing-unwanted-backdrops-a-comprehensively-approachable-method/"><u>In 2024, Removing Unwanted Backdrops A Comprehensively Approachable Method</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y100i-power-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y100i Power 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-ultimate-choices-in-video-collaboration-software/"><u>In 2024, Ultimate Choices in Video Collaboration Software</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung Galaxy S24 Ultra</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-xiaomi-14-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Xiaomi 14</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-experts-manual-to-crafting-impeccable-srt-files-for-2024/"><u>The Expert's Manual to Crafting Impeccable SRT Files for 2024</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-itel-p55-5g-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Itel P55 5G</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-if-your-poco-c50-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Poco C50 Auto Does Not Work | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-unlocking-vlcs-full-potential-an-overview/"><u>[Updated] 2024 Approved Unlocking VLC's Full Potential An Overview</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-5-easy-ways-to-record-youtube-videos/"><u>[Updated] 5 Easy Ways to Record YouTube Videos</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-from-idea-to-screenshot-a-mac-guide-to-ootd-tiktoks/"><u>[Updated] In 2024, From Idea to Screenshot A Mac Guide to OOTD TikToks</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-c55-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-installer-updated-fingerprint-drivers-for-windows-systems-download-now/"><u>Easy Installer: Updated Fingerprint Drivers for Windows Systems - Download Now</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/enhance-device-interactions-mf4770n-update-in-win11win87-os/"><u>Enhance Device Interactions: MF4770n Update in Win11/Win8/7 OS</u></a></li>
+<li><a href="https://win-dash.techidaily.com/hassle-free-corsair-void-pro-driver-install-on-windows-beginners-guide/"><u>Hassle-Free Corsair Void Pro Driver Install on Windows - Beginner's Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/high-performance-mini-pc-inspired-by-laptop-form-equipped-with-intel-i9-cpu-mobile-rtx-graphics/"><u>High Performance Mini-PC Inspired by Laptop Form - Equipped With Intel I9 CPU, Mobile RTX Graphics</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-erase-private-data-from-apple-iphone-14-plus-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Private Data From Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-lava-blaze-curve-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Lava Blaze Curve 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-max-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro Max To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6s-plus-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6s Plus</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-recording-made-simple-your-phone-cookbook-for-snapping-stories/"><u>In 2024, Recording Made Simple Your Phone' Cookbook for Snapping Stories</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-itel-a05s-by-fonelab-android-recover-music/"><u>Undelete lost music from Itel A05s</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/universal-unlock-pattern-for-xiaomi-redmi-k70e-by-drfone-android/"><u>Universal Unlock Pattern for Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://techidaily.com/vivo-video-recovery-recover-deleted-videos-from-vivo-by-fonelab-android-recover-video/"><u>Vivo Video Recovery - Recover Deleted Videos from Vivo</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-13t-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Xiaomi 13T Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
 </ul></div>
 

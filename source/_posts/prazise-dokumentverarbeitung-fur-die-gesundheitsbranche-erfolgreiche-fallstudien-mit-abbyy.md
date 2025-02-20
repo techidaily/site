@@ -1,7 +1,7 @@
 ---
 title: "Präzise Dokumentverarbeitung Für Die Gesundheitsbranche: Erfolgreiche Fallstudien Mit ABBYY"
-date: 2025-01-11T19:00:40.266Z
-updated: 2025-01-15T17:20:41.081Z
+date: 2025-02-13T22:02:28.937Z
+updated: 2025-02-19T20:06:39.952Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce78f830a62381ffd05e1b2e3.jpg
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/6395a405feac0920efaceeee04a9b0803cb7c1fce
 Healthcare & Pharmaceuticals | Digital Archiving
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Detaillierte Dokumenten­erfassung im Dienste der Gesundheit
@@ -22,6 +22,10 @@ Healthcare & Pharmaceuticals | Digital Archiving
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/de/70324.png?h=40&iar=0&w=120)
 
 [Zurück zu den Kundenreferenzen](https://tools.techidaily.com/abbyy/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Detaillierte Dokumenten­erfassung im Dienste der Gesundheit
 
@@ -32,10 +36,6 @@ Gesundheitswesen und Pharmazie | Digitale Archivierung
 #### Über den Kunden
 
 ![Boehringer Ingelheim](https://static5.abbyy.com/abbyycommedia/16276/boeringer-ingelheim-155x69.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 | Name        | Boehringer Ingelheim                                                |
 | ----------- | ------------------------------------------------------------------- |
@@ -86,21 +86,21 @@ Die Installation bei Boehringer Ingelheim umfasst einen ABBYY Recognition Server
 
 [![ABBYY Recognition Server wird jetzt ABBYY FineReader Server genannt](https://static4.abbyy.com/abbyycommedia/20638/11-frs-casepreview.jpg)](https://tools.techidaily.com/abbyy/products/) ") [ABBYY Recognition Server (jetzt FineReader Server genannt)](https://tools.techidaily.com/abbyy/products/) ") 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) ") 
 
 [![10-Healthcare](https://static2.abbyy.com/abbyycommedia/14360/10-healthcare.jpg)](https://tools.techidaily.com/abbyy/products/) [Gesundheitswesen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Mehr erfahren](https://tools.techidaily.com/abbyy/products/) 
 
 [![cs-fraunhofernzz-360x162](https://static3.abbyy.com/abbyycommedia/17083/cs-fraunhofernzz-360x162.jpg)](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") [PDF-Version](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Zum Dokument](https://static3.abbyy.com/abbyycommedia/6139/fallstudie-boehringer-ingelheim-healthcare-de.pdf "PDF-Version") 
 
@@ -113,7 +113,7 @@ Teilen  True ?  : ""
 [Alle ABBYY-Niederlassungen](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Sind Sie bereit, mit einem Experten zu sprechen?
@@ -137,18 +137,24 @@ Wir würden Sie gerne auf Ihrem Weg zur Automatisierung unterstützen.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-elevate-your-igtv-presence-strategies-for-perfecting-video-lengths-and-widths/"><u>[New] 2024 Approved Elevate Your IGTV Presence Strategies for Perfecting Video Lengths and Widths</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-updated-conversation-guide-for-podcast-enthusiasts/"><u>[New] Updated Conversation Guide for Podcast Enthusiasts</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1723003518466-effortless-steps-to-repair-fifa-19-directx-glitches-no-tech-expertise-needed/"><u>Effortless Steps to Repair FIFA 19 DirectX Glitches - No Tech Expertise Needed</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210859717-9781667452258-esposa-expatriada-vida-feliz/"><u>Esposa expatriada vida feliz | Free Book</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a18-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A18 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-x-flip-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo X Flip Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-smart-7-hd-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix Smart 7 HD? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-v27e-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo V27e? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-garmins-innovative-ultra-30-review-full-capabilities-examined/"><u>In 2024, Garmin's Innovative Ultra 30 Review Full Capabilities Examined</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/intelligent-storage-enhancing-chatgpt-engagement-with-directories/"><u>Intelligent Storage: Enhancing ChatGPT Engagement with Directories</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-c65-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for C65</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-guide-resolving-chatgpt-login-obstructions/"><u>The Ultimate Guide: Resolving ChatGPT Login Obstructions</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-echoes-unleashed-exploring-sound-with-mac/"><u>[New] Echoes Unleashed Exploring Sound with Mac</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-mastering-instagram-your-step-by-step-video-sharing/"><u>[Updated] 2024 Approved Mastering Instagram Your Step-by-Step Video Sharing</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-dimensions-and-edits-the-imovie-crop-enigma/"><u>[Updated] Dimensions and Edits The iMovie Crop Enigma</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-easy-tutorial-how-to-record-and-send-talking-emoji-for-iphone/"><u>2024 Approved Easy Tutorial How to Record and Send Talking Emoji for iPhone</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-motorola-moto-g24-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Motorola Moto G24 by Name | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-redmi-13c-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi Redmi 13C 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-nokia-g22-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Nokia G22 Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722956953958-greater-plant-growth-and-yield-as-a-result-of-better-nutrition/"><u>Greater Plant Growth and Yield as a Result of Better Nutrition.</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-from-current-applications-to-future-drone-horizons/"><u>In 2024, From Current Applications to Future Drone Horizons</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/professional-mysql-troubleshooting-with-sysadmin-destrero/"><u>Professional MySQL Troubleshooting with SysAdmin Destrero</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-hot-40-pro-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-xs-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone XS Max | Stellar</u></a></li>
+<li><a href="https://techidaily.com/spark-10-4g-tutorial-bypass-lock-screen-security-password-pin-fingerprint-pattern-by-drfone-android-unlock-android-unlock/"><u>Spark 10 4G Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-100-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 100 Pro Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-oppo-a78-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Oppo A78 5G Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-motorola-moto-g04-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Motorola Moto G04.</u></a></li>
 </ul></div>
 

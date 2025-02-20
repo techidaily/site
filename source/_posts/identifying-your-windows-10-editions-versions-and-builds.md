@@ -1,7 +1,7 @@
 ---
 title: Identifying Your Windows 10 Editions, Versions & Builds
-date: 2025-02-03T17:52:05.929Z
-updated: 2025-02-09T18:07:49.521Z
+date: 2025-02-13T17:54:41.575Z
+updated: 2025-02-19T17:30:21.402Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## Identifying Your Windows 10 Editions, Versions & Builds
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -22,7 +22,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * [Find Your Windows Edition and Build Number with the Winver Dialog](https://digital-screen-recording.techidaily.com/updated-troubleshooting-common-obs-issues/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -39,15 +39,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  In addition to builds, there also are still different editions of Windows 10—Home, Professional, Enterprise, and so on—with different features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Check Windows Version with the Settings App
 
  The new Settings app also offers build, edition, and version information in a user-friendly form. Hit Windows+i to open Settings. In the Settings window, navigate to System > About. Scroll down a bit and you'll see the information you're after.
 
 ![Open the Settings app, then go to System; About to display information about your Windows version.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Navigate to System > About and scroll down. You'll see the "Version" and "Build" numbers here.
 
@@ -57,7 +57,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 * **System Type.** This line tells you whether you're [using the 32-bit version of Windows 10 or the 64-bit version](https://twitter-videos.techidaily.com/updated-snapchat-integration-for-twitters-visual-content/). It also tells you whether your PC is compatible with the 64-bit version or not. For example, "64-bit operating system, x64-based processor" indicates you're using a 64-bit version of Windows 10 on a 64-bit processor. "32-bit operating system, x64-based processor" indicates you're using a 32-bit version of Windows 10, but you could [install the 64-bit version on your hardware if you preferred](https://facebook-record-videos.techidaily.com/understanding-filmoras-creative-certification-protocol-for-2024/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Find Your Windows Edition and Build Number with the Winver Dialog
@@ -66,13 +66,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Search for 'winver' in the Start Menu search, then click the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-winver.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The second line in the "About Windows" box tells you which version and build of Windows 10 you have. Remember, the version number is in the form YYMM—so 1607 means the 7th month of 2016\. A couple of lines down, you'll see the edition of Windows 10 you're using—Windows 10 Pro in our example.
 
 ![The version information in the Windows Version window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-search.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The "About Windows" box does not show whether you're using a 64-bit or 32-bit version of Windows 10, but it does give you a quicker way to check your version and build than navigating through the Settings app.
 
@@ -93,18 +93,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-the-ultimate-strategy-for-google-podcast-uploads/"><u>[New] The Ultimate Strategy for Google Podcast Uploads</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-stay-ahead-in-the-stream-top-5-video-capture-platforms-reviewed/"><u>[Updated] In 2024, Stay Ahead in the Stream Top 5 Video Capture Platforms Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-techniques-for-high-quality-xbox-game-recordings/"><u>2024 Approved Techniques for High-Quality Xbox Game Recordings</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-tecno-spark-go-2023-frp-bypass-by-drfone-android/"><u>About Tecno Spark Go (2023) FRP Bypass</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-zte-nubia-z60-ultra-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset ZTE Nubia Z60 Ultra in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 8 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-discreetly-share-life-with-instagram-live/"><u>In 2024, Discreetly Share Life with Instagram Live</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 Pro Max When You Forget the Passcode?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lgs-revolutionary-gram-pro-outshines-apples-macbook-air-across-three-key-aspects-a-deep-dive-techreview/"><u>LG's Revolutionary Gram Pro Outshines Apple's MacBook Air Across Three Key Aspects: A Deep Dive - TechReview</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/premium-price-tag-on-power-a-comprehensive-evaluation-of-the-microsoft-surface-studio-2/"><u>Premium Price Tag on Power: A Comprehensive Evaluation of the Microsoft Surface Studio 2</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-xiaomi-redmi-note-13-pro-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Xiaomi Redmi Note 13 Pro 5G without backup.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-nokia-c12-plus-by-fonelab-android-recover-data/"><u>Undelete lost data from Nokia C12 Plus</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-nokia-150-2023-by-fonelab-android-recover-music/"><u>Undelete lost music from Nokia 150 (2023)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-high-quality-duo-of-photo-and-sound-capture-software/"><u>[New] In 2024, High-Quality Duo of Photo & Sound Capture Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailor-made-melodies-your-roadmap-for-playlists/"><u>[New] Tailor-Made Melodies Your Roadmap for Playlists</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-swipe-right-to-fb-vids-swipe-left-for-mp4s/"><u>[Updated] In 2024, Swipe Right to FB Vids, Swipe Left for MP4s</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-maximizing-fb-ad-success-a-step-by-step-animated-guide-for-2024/"><u>[Updated] Maximizing FB Ad Success A Step-by-Step Animated Guide for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-e-commerce-destinations-for-specialty-wrapping-art/"><u>Elite E-Commerce Destinations for Specialty Wrapping Art</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-redmi-k70-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi Redmi K70 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-n55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo N55 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-nokia-c22-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Nokia C22 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-effortless-video-editing-a-guide-to-speeding-up-and-slowing-down-in-camtasia/"><u>New Effortless Video Editing A Guide to Speeding Up and Slowing Down in Camtasia</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-galaxy-f34-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Galaxy F34 5G on Windows</u></a></li>
+<li><a href="https://win-great.techidaily.com/restore-your-pcs-health-with-easy-fixes-for-broken-registry-settings-tips-from-yl-software-experts/"><u>Restore Your PC's Health with Easy Fixes for Broken Registry Settings - Tips From YL Software Experts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ely-transforming-youtube-videos-into-mp3-files-3-techniques/"><u>Securely Transforming YouTube Videos Into MP3 Files - 3 Techniques</u></a></li>
+<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s24plus-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S24+?</u></a></li>
 </ul></div>
 

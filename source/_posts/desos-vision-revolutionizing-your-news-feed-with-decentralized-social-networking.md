@@ -1,7 +1,7 @@
 ---
 title: "DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking"
-date: 2025-01-26T10:55:46.772Z
-updated: 2025-01-29T12:23:23.498Z
+date: 2025-02-18T01:22:42.942Z
+updated: 2025-02-19T17:59:54.038Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 ---
 
 ## DeSo's Vision: Revolutionizing Your News Feed with Decentralized Social Networking
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,15 +22,15 @@ thumbnail: https://thmb.techidaily.com/2759ed3d822d64726b5041a7dfa5154bfc20081c3
 
  Decentralized Social, or DeSo, is a way of social networking built on open blockchain technology without a central authority that owns and operates the network, creating new opportunities for how we can use social media and giving more power to you, the user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **A Quick Note on Web2 and Web3** 
 
  For our discussion of DeSo, it's helpful to understand that legacy social media platforms and the type of interactive code that they use to host and share interactive content is often described as Web2\. The current mix of innovations happening with cryptocurrencies, [NFTs](https://sound-tweaking.techidaily.com/updated-2024-approved-mastering-echo-effects-implementing-reverb-in-digital-sound-environments-windows-edition/), metaverse concepts, decentralized finance, and blockchain technology are often referred to as Web3.
 
  The biggest difference is that while Web2 technology and internet companies like Meta and Twitter are owned and operated by a central authority, Web3 technology is distributed and owned by the users who govern the protocols on which it is built such as [Ethereum](https://extra-information.techidaily.com/in-2024-automated-opener-your-srt-files-windows-and-mac/) and [Solana](https://facebook-video-content.techidaily.com/new-enjoy-whole-audio-on-twitch-addressing-muted-segments-now-for-2024/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What's a Social Graph and Why Does It Matter?** 
 
@@ -56,6 +52,10 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
  Before we go deeper into what this all means, let's examine what's now working well with legacy social media platforms and companies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Issues With Web2 Social Media** 
 
  It's helpful to see that the [incentives are misaligned in Web2](https://techcrunch.com/2021/11/08/web-3-0-can-repair-the-attention-driven-digital-economy/) between the users and the platforms because the game theory of Web2 social is zero-sum. The networks own the user-generated data and content on their platforms and then use this data and content to advertise back to the users.
@@ -74,14 +74,22 @@ _[Steemit](https://steemit.com/crypto/@jfgrissom/who-controls-crypto-currencies)
 
 ![Open Social Graph](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-15-at-11.09.32-AM.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opNqM0aC9YoM-Ppp5as)_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Control** 
 
  Control is a major factor and point of difference between Web2 legacy social media and the Web3 version. All this newfound power can be overwhelming given the plethora of new opportunities and possibilities when working in this paradigm. The question in DeSo becomes how we balance the control and power we gain with DeSo with the ease of use and convenience of the applications we have grown accustomed to using.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Insight** 
@@ -95,7 +103,7 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
  An open social graph allows for a social media experience that more closely resembles the native Web3 multiverse where things can connect with each other. The ability to move your friends list is quite a big change in how we understand social graphs. DeSo allows a future of social media that is not a unique universe or walled garden, but is a multiverse where things can talk to each other and interact in multi-faceted ways.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Choose Your Front-End** 
@@ -112,10 +120,6 @@ _[Lens Protocol](https://mirror.xyz/lensprotocol.eth/YG9iFIs2emVFRtj3JqY95Dk6opN
 
 ![Lens Protocol](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/Screen-Shot-2022-07-05-at-1.51.56-PM.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[Lens Protocol](https://lens.xyz/)_
 
 [Lens is a protocol](https://lens.xyz/) that is changing the nature of social media in Web3 by creating an open, decentralized, and composable social graph. Because it's permissionless, it can be leveraged and built upon by anyone else with a desire to create a front-end social experience tailored to the user experience, audience, and types of content or data they want to bring to the surface. Lens allows designers and developers to pull specific details from the underwater section of the iceberg to the surface at will depending on their goals.
@@ -129,10 +133,6 @@ _[Lens Protocol](https://lens.xyz/)_
  Community governance means that you can create new ways of controlling how an application functions, and the users have a say in the evolution of the app. For instance, when you follow someone else, you're given a "Follower NFT" which has built-in governance mechanisms, including[snapshotting and delegation](https://decrypt.co/resources/what-is-snapshot-the-decentralized-voting-system), which allow for sophisticated content sharing privileges or exclusive tiering of your follower list. Another example is that you can create modules with a built-in governance-managed treasury fee.
 
  Lens leverages the modular method for allowing an ecosystem of apps to build without having to worry about the backend and underlying technology. This frees up developers and designers to focus on the user experience and front end. Builders can bypass the heavy lift of creating network effects and bootstrapping a network, offering them a chance to streamline their efforts for creating real value for the end users. Furthermore, modular design allows for an infinitely expanding amount of use cases and features that interact and layer on top of one another that goes beyond platforms like Facebook and Twitter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Where Do We Go From Here?** 
 
@@ -161,24 +161,24 @@ _[Lens Protocol](https://lens.xyz/)_
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/solved-enhance-your-gpu-performance-step-bysis-guide-inside/"><u>[Solved]: Enhance Your GPU Performance – Step-Bysis Guide Inside</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-face-off-frenzy-legendary-sj6-vs-xiaomis-four-k-creators/"><u>[Updated] In 2024, Face-Off Frenzy Legendary SJ6 Vs. Xiaomi's Four-K Creators</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-study-aids-top-10-educational-history-channels/"><u>[Updated] Study Aids Top 10 Educational History Channels</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-turn-off-youtube-previews-on-all-devices/"><u>[Updated] Turn Off YouTube Previews on All Devices</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/avoid-repetition-controlling-duplicates-for-text-editing-in-emeditor/"><u>Avoid Repetition: Controlling Duplicates for Text Editing in EmEditor</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-oneplus-12r-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 12R Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-plus-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Plus Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-15-plus-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-13-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 13 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-google-pixel-7a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Google Pixel 7a phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE to other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-se-2022-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone SE (2022) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-fix-of-a-web-services-http-status-code-500-issue/"><u>Mastering the Fix of a Web Service's HTTP Status Code 500 Issue</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-10-best-free-professional-grade-video-editing-tools-without-watermarks/"><u>The Ultimate Guide to 10 Best Free, Professional-Grade Video Editing Tools Without Watermarks</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-compress-videos-online-for-free-10-best-web-based-solutions-for-2024/"><u>Updated Compress Videos Online for Free 10 Best Web-Based Solutions for 2024</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-tecno-spark-10-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Tecno Spark 10 Pro Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-15-pro-max-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 15 Pro Max takes time in scanning my iPhone? | Stellar</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/wmaaac-movavi/"><u>オンラインで簡単にWMAをAACに無料変換 - Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-discover-top-8-best-ios-tools-for-video-editing-and-conversion-for-2024/"><u>[New] Discover Top 8 Best iOS Tools for Video Editing & Conversion for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-assemble-visual-media-for-queue-upgrade/"><u>[Updated] In 2024, Assemble Visual Media for Queue Upgrade</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-carving-out-your-place-in-the-design-world/"><u>[Updated] In 2024, Carving Out Your Place in the Design World</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-uncover-the-joyful-journey-best-comedy-and-sadness-on-insta/"><u>[Updated] Uncover the Joyful Journey Best Comedy & Sadness on Insta</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-infinix-smart-8-hd-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Infinix Smart 8 HD</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-t2-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo T2 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/all-you-need-to-know-about-the-new-macbook-with-touch-display-prospective-costs-and-release-timeline/"><u>All You Need to Know About the New MacBook with Touch Display - Prospective Costs and Release Timeline</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-v27-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y27-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y27 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/enhance-your-story-game-applying-fun-sticker-themes-for-2024/"><u>Enhance Your Story Game Applying Fun Sticker Themes for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/getting-started-in-the-world-of-online-product-evaluation-channels-for-2024/"><u>Getting Started in the World of Online Product Evaluation Channels for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 4G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-samsung-galaxy-s24-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Samsung Galaxy S24 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-tecno-pova-5-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Tecno Pova 5 | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/turn-off-noise-secure-silent-gaming-tips/"><u>Turn Off Noise: Secure Silent Gaming Tips</u></a></li>
 </ul></div>
 

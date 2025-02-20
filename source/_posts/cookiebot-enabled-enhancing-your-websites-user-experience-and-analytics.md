@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Enhancing Your Website's User Experience and Analytics"
-date: 2024-11-02T02:52:17.330Z
-updated: 2024-11-04T07:49:54.587Z
+date: 2025-02-18T21:57:54.633Z
+updated: 2025-02-19T19:36:26.098Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e7739a5c0ead2c07ab91e735b6.png
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 
 [Back to ABBYY Blog](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## OCR vs. IDP: What’s The Difference?
 
 ###### Slavena Hristova
@@ -18,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/a7b063e2c5f1e938dc6e32e2ce85c52239dfc8e77
 July 29, 2024
 
 ![](https://static4.abbyy.com/abbyycommedia/37748/ds-66-ocr-idp-image-2.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jump to:
 
@@ -38,10 +46,7 @@ Prior to OCR you would need to manually type text to input data into a computer 
 ![](https://static1.abbyy.com/abbyycommedia/37740/ds-66-ocr-idp-image-1b.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it works
@@ -49,13 +54,6 @@ Prior to OCR you would need to manually type text to input data into a computer 
 OCR starts with the file that you want to extract information from, which may be a scanned document, a PDF, or photographs of paperwork. Modern OCR platforms can automatically enhance quality, add contrast, and sharpen resolution to improve accuracy. Next, the OCR algorithms will use pre-trained extraction models to identify words and lines in the image and extract individual characters it recognizes.
 
 The extracted data is then matched against a set of predefined patterns or templates representing known characters and symbols. To do this, it may incorporate technologies such as machine learning and neural networks to improve recognition accuracy and handle different fonts and languages, or complicated layouts such as tables and lists or barcodes. If it encounters a problem, it may flag it for human evaluation. Once the character recognition process has been completed, you may need to check for errors or improve accuracy by using spell-check, context analysis or language modeling. The OCR software will then produce the final machine-readable text that can be integrated into your company’s computer system.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Benefits of OCR
 
@@ -77,10 +75,7 @@ Common use cases for OCR solutions can include organizations to facilitate compl
 ![](https://static1.abbyy.com/abbyycommedia/37779/ds-122-how-idp-works-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How it works
@@ -109,6 +104,10 @@ IDP technology closely mirrors the way humans understand and manage documents, s
 * **Scalability.** As business operations grow, the volume of documents to be processed also increases. IDP solutions can easily scale to handle larger document volumes without a proportional increase in labor costs.
 * **Easy integration to company workflow.** IDP can be integrated with other digital systems and workflows to enable seamless and efficient digitization of business processes across company departments and your entire organization.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What’s the difference between OCR and IDP?
 
 OCR has been around for a long time and is known as a document capture-related technology. **OCR is primarily used to extract text from paper documents, scanned images or photographs and convert them into typed text that can be edited digitally on a computer.**
@@ -125,13 +124,6 @@ For example, it may read an invoice, take its content to be compared to a corres
 | **How it works**      | Applies AI algorithms to transform analog paper documents into digital text incl. document structure and segmentation (text, images, tables, barcodes, checkmarks, signatures, lines, characters, fonts, font sizes, language, etc.). | Uses the full-text provided by OCR as basis input and applies AI, NLP, ML regular expressions, and rules to understand the information in the document and extract tagged, meaningful data which can be passed onto down-stram business applications for informed decision-making. |
 | **Technology**        | Image enhancement Object detection OCR / ICR                                                                                                                                                                                          | Classification Deep Machine Learning Fast Machine Learning Extraction rules Segmentation Named Entity Recognition (NER) Natural Language Processing (NLP)                                                                                                                          |
 | **Typical use cases** | Provides access to machine-readable text as basis for: PDF conversion Digital archiving / Search eDiscovery Advanced search / Digital forensics Data analysis Intelligent document processing (IDP)                                   | Automation of any document-centric business process: Accounts payable automation Customer onboarding / KYC Loan processing Automation of transportation & logistics documentation Insurance claims processing                                                                      |
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Examples of OCR and IDP in business processes
 
@@ -152,10 +144,7 @@ Research shows that 90 percent of organizations see potential customers abandon 
 With intelligent document processing, you can take away the bottlenecks that lead to abandonment. [Businesses can leverage IDP technology for identity proofing](https://tools.techidaily.com/abbyy/products/) and identity affirmation, which make it easier for customers and more secure for businesses. IDP can capture and classify ID documents like driving licenses or passports, or supporting documents like bank statements or utility bills, that are needed for proof of address. For example, it can be used by the department of motor vehicles (DMV) for a driver license renewal or a bank for mortgage applications.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## OCR vs. IDP: Which is best for your business?
@@ -277,22 +266,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-7-pulse-pounding-workouts-that-gain-traction-on-social-media-for-2024/"><u>[New] 7 Pulse-Pounding Workouts That Gain Traction on Social Media for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/complete-mastery-over-picsart-the-ultimate-users-guide/"><u>Complete Mastery over PicsArt The Ultimate User's Guide</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/complete-motion-evaluation-2023-for-2024/"><u>Complete Motion Evaluation 2023 for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/fast-forwarding-copy-and-paste-custom-hotkeys-for-text-snaps-in-win11/"><u>Fast-Forwarding Copy & Paste: Custom Hotkeys for Text Snaps in Win11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-logitech-g633-microphone-issues-solutions-and-tips/"><u>Fixing Logitech G633 Microphone Issues: Solutions & Tips</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-honor-magic-vs-2-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-12-mini-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 12 mini Space | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-free-up-apple-iphone-15-pro-max-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Free Up Apple iPhone 15 Pro Max Space | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Lava Yuva 2 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/phoenix-point-stability-issues-heres-how-you-can-solve-them/"><u>Phoenix Point Stability Issues? Here's How You Can Solve Them</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-vivo-y27s-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Vivo Y27s on Mac</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2519327--the-life-of-a-warrior/"><u>The Life of a Warrior | Free Book</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-samsung-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Samsung without backup.</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-honor-play-8t-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Honor Play 8T? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-k11-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo K11 5G? | Dr.fone</u></a></li>
-<li><a href="https://solve-hot.techidaily.com/ubersetzungen-zum-migrationsprozess-von-windows-10-umstellung-von-bios-hardware-auf-uefi-mit-secure-boot-fur-den-effizienten-betrieb/"><u>Übersetzungen Zum Migrationsprozess Von Windows 10 – Umstellung Von BIOS-Hardware Auf UEFI Mit Secure Boot Für Den Effizienten Betrieb</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-motorola-moto-g-stylus-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Motorola Moto G Stylus (2023)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-importance-of-secondary-footage-in-engaging-editors/"><u>[New] The Importance of Secondary Footage in Engaging Editors</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-securely-transferring-camera-photos-to-snapchat-correctly/"><u>[Updated] 2024 Approved Securely Transferring Camera Photos to Snapchat Correctly</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-z-fold-5-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy Z Fold 5 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-note-12r-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi Note 12R Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-itel-a70-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A70 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-itel-a70-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Itel A70 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-spark-10-4g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Pro Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-superior-choice-of-8-free-uhd-software-for-pc-and-macos/"><u>In 2024, Superior Choice of 8 Free UHD Software for PC & MacOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-glitches-overcoming-unexpected-hurdles-in-cyberpunk-2077-error-2024/"><u>Navigating Glitches: Overcoming Unexpected Hurdles in Cyberpunk 2077 (Error 2024)</u></a></li>
+<li><a href="https://fox-that.techidaily.com/one-airpod-louder-than-the-other-discover-four-effective-techniques-for-equalizing-sound/"><u>One AirPod Louder than the Other? Discover Four Effective Techniques for Equalizing Sound</u></a></li>
+<li><a href="https://win-trending.techidaily.com/1728510282061-onedrive-5/"><u>OneDriveの使用許可を取り消し方 5コツレシピ</u></a></li>
+<li><a href="https://driver-error.techidaily.com/quick-solutions-resolving-the-driver-unavailable-issue-in-itbm-software/"><u>Quick Solutions: Resolving the 'Driver Unavailable' Issue in ITBM Software</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-find-n3-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Find N3.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-methods-for-transforming-dvd-files-into-mp4-format-on-pc-windows-10-11-and-macos/"><u>Top 10 Methods for Transforming DVD Files Into MP4 Format on PC (Windows 10, 11 & MacOS)</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-11-zero-cost-software-update-utilities-for-efficient-system-maintenance/"><u>Top 11 Zero-Cost Software Update Utilities for Efficient System Maintenance</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-infinix-hot-40i-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Infinix Hot 40i | Dr.fone</u></a></li>
 </ul></div>
 

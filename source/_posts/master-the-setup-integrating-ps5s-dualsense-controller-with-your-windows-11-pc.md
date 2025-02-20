@@ -1,7 +1,7 @@
 ---
 title: "Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC"
-date: 2025-02-05T22:06:46.760Z
-updated: 2025-02-09T20:41:51.333Z
+date: 2025-02-15T01:01:08.655Z
+updated: 2025-02-19T19:31:23.307Z
 tags:
   - deals
 categories:
@@ -11,15 +11,15 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ## Master the Setup: Integrating PS5's DualSense Controller with Your Windows 11 PC
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Pairing Your PS5 Controller to a Windows 10 PC](https://instagram-video-files.techidaily.com/updated-tricks-to-improve-instagram-video-load-speeds-mobile/)
 * [Pairing and Configuring a PS5 Controller for Steam](https://buynow-info.techidaily.com/navigating-photoscapes-features-a-detailed-analysis-of-free-high-quality-image-editing-software/)
 * [Using a PS5 Controller for Non-Steam PC Games](https://fox-blue.techidaily.com/updated-through-a-photographers-eye-our-best-10-lenses-list-for-2024/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 * Outside of Steam, use the third-party apps DualSenseX or ReWASD to connect and configure your PS5 controller.
 
  Sony's DualSense controller for the PlayStation 5 can also work with Windows 10 and Steam, as long as you don't mind losing a few features (such as the adaptive triggers). You can also have the DualSense work with non-Steam games if you're willing to try out some third-party apps to help the controller connect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Pairing Your PS5 Controller to a Windows 10 PC
 
@@ -43,13 +39,13 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Control Panel in the Windows menu on Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  From the Control Panel menu, click on "Devices and Printers."
 
 !['Devices and Printers' option in Windows 10 Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Under "Devices," the DualSense controller will appear as a "Wireless Controller."
 
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 ![Windows 10 'Sound' settings option.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, click on "Manage Sound Devices".
 
 ![Option to 'Manage Sound Devices' in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-5.png) 
@@ -68,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  On this screen, you'll likely see that the DualSense is both an input and output device.
 
 ![DualSense controller being used as audio input and output in Windows 10 settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-6.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Click on the device and choose disable for both instances, and Windows 10 will no longer default to the DualSense as an audio device.
 
@@ -78,10 +82,6 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
  To begin, open the Steam app, click the icon in the upper-left corner, and choose "Settings."
 
 ![Steam Settings in Windows 10.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-7.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the next menu's sidebar, there is a "Controller" tab. Click on it, and you'll be able to see the information the app has on your controller. If your PS5 controller is listed as "DualSense Wireless Controller," then everything should automatically work with Steam!
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 !['Calibration & Advanced Settings' option for Steam Controller settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-10.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  A new menu will open, and you can adjust the PS5 controller's LED lights, the joystick dead zone, rumble output, and calibrate the gyro controls.
@@ -108,7 +108,7 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 !['Controller' compatibility section in Steam game details.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/ps5-controller-windows-10-12.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Using a PS5 Controller for Non-Steam PC Games
@@ -138,22 +138,21 @@ thumbnail: https://thmb.techidaily.com/6cbefc5821941765c64c748053e1b0a5829fef152
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-pinnacle-racing-experiences-best-of-the-best/"><u>[Updated] Pinnacle Racing Experiences Best of the Best</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-elevate-your-gameplay-stream-xbox-seamlessly-to-facebook/"><u>2024 Approved Elevate Your Gameplay Stream Xbox Seamlessly to Facebook</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-complete-guide-to-mastering-powerdirector-software/"><u>2024 Approved The Complete Guide to Mastering PowerDirector Software</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discover-the-unbelievable-features-of-the-lg-gram-156-2018-a-revolutionary-blend-of-power-portability-and-endurance/"><u>Discover the Unbelievable Features of the LG Gram 15.6 (2018) - A Revolutionary Blend of Power, Portability & Endurance</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/free-mindfulness-melodies/"><u>Free Mindfulness Melodies</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme Note 50 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-x100-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo X100 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-max-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro Max to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-max-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro Max to other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone X without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo Device</u></a></li>
-<li><a href="https://techidaily.com/remove-google-lock-screen-without-password-google-by-drfone-android-unlock-android-unlock/"><u>Remove Google Lock Screen without Password(Google )</u></a></li>
-<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-7-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 7 Plus Suddenly | Stellar</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95766504-9781515415855-the-infinite-way/"><u>The Infinite Way | Free Book</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-to-effective-screen-recording-with-tunefab/"><u>The Ultimate Guide to Effective Screen Recording with Tunefab</u></a></li>
-<li><a href="https://win11.techidaily.com/your-way-your-window-customize-windows-11-today/"><u>Your Way, Your Window: Customize Windows 11 Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-explore-top-5-non-samsung-360-cameras-today-for-2024/"><u>[New] Explore Top 5 Non-Samsung 360 Cameras Today for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-shopback-up-specialists-judgment/"><u>[New] In 2024, ShopBack Up Specialists' Judgment</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-pinnacle-all-in-one-4k-with-touch-display/"><u>[New] Pinnacle All-in-One, 4K with Touch Display</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-can-creators-earn-from-product-video-reviews-in-2024/"><u>[Updated] Can Creators Earn From Product Video Reviews, In 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-from-filters-to-fun-factors-maximizing-iphones-gif-capabilities/"><u>[Updated] In 2024, From Filters to Fun Factors Maximizing iPhone's GIF Capabilities</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-meet-the-system-and-hardware-needs-of-big-sur-os/"><u>[Updated] In 2024, Meet the System & Hardware Needs of Big Sur OS</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-windows-snapshot-mastery-3-easy-approaches-for-2024/"><u>[Updated] Windows Snapshot Mastery (3 Easy Approaches) for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/comprehensive-fixes-for-microsoft-wireless-display-adapter-not-recognized-by-windows-11-systems/"><u>Comprehensive Fixes for Microsoft Wireless Display Adapter Not Recognized by Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-11f-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 11F 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-pova-5-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pova 5 Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-xiaomi-redmi-12-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Xiaomi Redmi 12 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-y100t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Y100t</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-play-7t-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Play 7T Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-motorola-edge-40-pro-by-fonelab-android-recover-data/"><u>Undelete lost data from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-moto-g04-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Moto G04</u></a></li>
 </ul></div>
 

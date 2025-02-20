@@ -1,7 +1,7 @@
 ---
 title: Igura & ABBYY Unite to Revolutionize Corporate Invoice Management and Streamline AP Workflows
-date: 2025-01-22T04:59:19.007Z
-updated: 2025-01-28T19:40:30.799Z
+date: 2025-02-15T18:14:04.330Z
+updated: 2025-02-19T22:34:33.153Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab49f48ed06a998718358fad4.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/487e676cadbed9c7366304118c5d69cbccc78efab
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## iGuana and ABBYY join forces to help enterprises streamline and automate accounts payable processes
@@ -22,7 +22,7 @@ February 15, 2018
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ABBYY, a leading provider of technologies and solutions to action information, and [iGuana](https://iguana-idm.com/ "IGuana"), a leading Document Management and Digital Archiving Solutions provider for the BENELUX region, are pleased to announce their partnership.
@@ -113,14 +113,20 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-elevate-your-youtube-content-editing-in-adobe-premiere/"><u>[New] In 2024, Elevate Your YouTube Content Editing in Adobe Premiere</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-cut-to-the-chase-leading-video-editors-for-android-and-windows/"><u>[Updated] Cut to the Chase Leading Video Editors for Android and Windows</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-artistic-horizons-scouting-the-finest-8-drawing-apps-for-iphones/"><u>2024 Approved Artistic Horizons Scouting the Finest 8 Drawing Apps for iPhones</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-y100-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo Y100 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oneplus-12r-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting OnePlus 12R Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/is-the-worldwide-network-offline-uncover-fb-status/"><u>Is the Worldwide Network Offline? Uncover FB Status</u></a></li>
-<li><a href="https://facebook.techidaily.com/pushing-boundaries-differently-apple-vs-facebooks-vision/"><u>Pushing Boundaries Differently: Apple Vs. Facebook's Vision</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-encapsulate-powerpoint-visuals-in-media/"><u>[New] Encapsulate PowerPoint Visuals in Media</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-mc-base-planning-essentials-and-examples/"><u>[New] MC Base Planning Essentials & Examples</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-hdri-windows-powered-editing-wonders/"><u>[New] Navigate HDRI Windows-Powered Editing Wonders</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-utilize-snap-camera-effectively-for-real-time-collaboration-in-meet/"><u>[Updated] In 2024, How to Utilize Snap Camera Effectively for Real-Time Collaboration in Meet</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-leading-platforms-enhancing-online-collaboration/"><u>2024 Approved Leading Platforms Enhancing Online Collaboration</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y36i-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y36i Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquering-computer-recovery-top-10-tactics/"><u>Conquering Computer Recovery: Top 10 Tactics</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-12-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Xiaomi Redmi 12 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-honor-90-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Honor 90 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-rapid-ascension-harness-likes-and-videos-for-insta-success/"><u>In 2024, Rapid Ascension Harness Likes & Videos for Insta Success</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-xiaomi-redmi-note-12r-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Xiaomi Redmi Note 12R</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-samsung-galaxy-xcover-6-pro-tactical-edition-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-f54-5g-unlock-tool-remove-android-phone-password-pin-pattern-and-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Samsung Galaxy F54 5G Unlock Tool - Remove android phone password, PIN, Pattern and fingerprint</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y78-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y78 5G Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 

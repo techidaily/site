@@ -1,7 +1,7 @@
 ---
 title: Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-date: 2025-02-06T18:14:43.789Z
-updated: 2025-02-09T19:06:49.287Z
+date: 2025-02-14T17:04:18.740Z
+updated: 2025-02-19T17:54:35.908Z
 tags:
   - web
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Facebook 'Friends' Pitching Stocks? Spotting and Avoiding the Emerging Social Network Scam Phenomenon
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -24,7 +20,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Over the past few months I've noticed a worrying trend in my Facebook feed. People I know in real life are pushing a variety of very sketchy "investment" opportunities with "evidence" of the enormous payouts they've received. It shouldn't have to be said, but please don't fall for this!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Facebook Accounts Are Getting Hacked
@@ -38,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![An example of a trading scam on Facebook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/trading-scam.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 An example of a trading offer. Note how the text invites users to send direct messages.
@@ -54,12 +50,16 @@ An example of a trading offer. Note how the text invites users to send direct me
  Although I know people personally who have been victims of these scams, and I have plenty of people in my Facebook feed who have clearly compromised accounts, or in some cases seem to be complicit, I have opted not to post any screenshots that can potentially be traced back to specific people. However, my aim here is to warn you against this entire class of scam, not the specific approach scammers are taking at the moment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Those Banking Screenshots Are Easy to Fake
 
 ![Closeup of someone's PayPal balance shown on a smartphone display.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/paypal-balance-smartphone.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[PixieMe/Shutterstock.com](https://www.shutterstock.com/image-photo/new-york-usa-january-5-2021-1887366490)_
 
@@ -76,7 +76,7 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
  At first, I was convinced that all of these accounts were simply hacked, but then some of them started posting testimonial videos. It occurred to me that these could be [AI deepfakes](https://android-frp.techidaily.com/in-2024-how-can-we-bypass-gionee-f3-pro-frp-by-drfone-android/), but looking closely at them for the telltale signs, it doesn't seem that way. Which suggests that some of these people may be complicit in the scams. However, deepfake technology has advanced to the point where this is also a totally plausible answer. Either way, you should find these videos equally unconvincing regardless of whether they are faked or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Never Invest Money Without Licensed Help
@@ -100,19 +100,24 @@ _[meyer\_solutions/Shutterstock.com](https://www.shutterstock.com/image-photo/de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-diving-deep-into-instagrams-new-features/"><u>[New] In 2024, Diving Deep Into Instagram's New Features</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-mastering-youtube-video-extraction-a-step-by-step-guide/"><u>[New] Mastering YouTube Video Extraction A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-journey-into-the-art-of-long-exposure-a-comprehensive-guide-to-gopro-timelapses/"><u>[Updated] Journey Into the Art of Long-Exposure A Comprehensive Guide to GoPro Timelapses</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-gamers-guide-to-flawless-game-recordings/"><u>2024 Approved Gamers' Guide to Flawless Game Recordings</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g14-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g34-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/ensuring-high-fidelity-in-post-export-videos/"><u>Ensuring High Fidelity in Post-Export Videos</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-add-a-custom-pattern-lock-to-a-windows-10-or-11-pc/"><u>How to Add a Custom Pattern Lock to a Windows 10 or 11 PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-proplus-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro+ 5G Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-to-the-latest-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max to the Latest iOS Version? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-sony-xperia-1-vs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Sony Xperia 1 Vs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://article-tips.techidaily.com/spotlight-on-cities-for-virtual-viewing-for-2024/"><u>Spotlight on Cities for Virtual Viewing for 2024</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-redmi-k70e-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi Redmi K70E won’t play MKV movies</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-the-full-time-employees-guide-to-video-content-success/"><u>[New] 2024 Approved The Full-Time Employee's Guide to Video Content Success</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-360-video-editors-how-to-upload-360-video-to-youtube/"><u>[Updated] 2024 Approved 360 Video Editors How to Upload 360 Video to YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-deciphering-the-best-youtube-video-trackers-for-success/"><u>[Updated] 2024 Approved Deciphering the Best YouTube Video Trackers for Success</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/a-dive-into-nvidias-customizable-creativity-engine/"><u>A Dive Into NVIDIA's Customizable Creativity Engine</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-a-permanent-delete-bin-for-windows-users/"><u>Customizing a Permanent Delete Bin for Windows Users</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-12-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 12 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-12-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 12 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-to-the-previous-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max to the Previous iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-discovering-advanced-video-formats-av1-and-vp9/"><u>In 2024, Discovering Advanced Video Formats AV1 & VP9</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-explore-the-best-and-easiest-youtube-to-mp3-conversion-tech/"><u>In 2024, Explore the Best (and Easiest) YouTube-to-Mp3 Conversion Tech</u></a></li>
+<li><a href="https://techidaily.com/is-your-realme-12plus-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Realme 12+ 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/s23plus-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>S23+ Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/skagen-falster-2-reviewed-the-stylish-refined-option-that-challenges-the-popularity-of-apple-phones-and-tablets/"><u>Skagen Falster 2 Reviewed: The Stylish, Refined Option That Challenges the Popularity of Apple Phones and Tablets</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-10-wireless-with-updated-atheros-drivers/"><u>Streamlining Windows 10 Wireless with Updated Atheros Drivers</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-note-30-vip-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Note 30 VIP? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/top-20-keywords-for-stellar-marketing-strategies/"><u>Top 20 Keywords for Stellar Marketing Strategies</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-105-classic-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from 105 Classic</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-nokia-c02-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Nokia C02 | Dr.fone</u></a></li>
 </ul></div>
 

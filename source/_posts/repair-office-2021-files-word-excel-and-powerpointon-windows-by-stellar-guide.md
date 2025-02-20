@@ -1,6 +1,6 @@
 ---
 title: Repair Office 2021 Files (Word, Excel and PowerPoint)on Windows
-date: 2024-09-21T17:50:14.378Z
+date: 2025-02-18T21:34:05.088Z
 tags: 
   - repair
   - repair excel
@@ -18,13 +18,14 @@ If you frequently work with Microsoft Word (.docx), Excel (.xlsx), and PowerPoin
 
 Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 files:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenarios behind Microsoft Office Files Corruption
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scenario 1 – Disruption during Data Migration
@@ -32,13 +33,6 @@ Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 f
 You decide to move Office files from your hard drive to other removable media. However, when you try to access the data within the files post-migration, you may find Word, Excel, and PowerPoint files showing gibberish characters. Due to a power surge, sudden system shutdown, and internal mechanical failure, the files may have turned corrupt.
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Word-displaying-gibberish-characters.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Figure 1- Microsoft Word file showing garbage characters
 
@@ -51,22 +45,12 @@ When you open or use the Microsoft Office application, it crashes as soon as it 
 Suppose all your Office files are stored on a USB device, and you unplugged the device while it was still open in Windows. Now, when you attempt to open a Word or an Excel file, all the data is gone. Unsafe removal of USB or any other external storage device may corrupt the data inside your Office files or turn the file inaccessible.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How Can You Deal with Microsoft Office Files Corruption?
 
 Here are a few solutions that can help you fix or repair Office 2016 Files Corruption:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 1 – Use Microsoft in-built Repair Utility
 
@@ -105,9 +89,17 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Change-Office-application.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Under **Change your installation of Microsoft Office Professional Plus 2016,** choose Repair and then click **Continue.**
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For Windows 10**
 
@@ -129,6 +121,10 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 - Once the repair process completes, you'll be prompted to restart your PC. Click **Yes**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Solution 3 – Use Stellar Toolkit for File Repair**
 
 Repair MS Office 2016 files by using [Stellar Toolkit for File Repair](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/). This software comprises four essential utilities that can help you repair corrupt MS Word, MS Excel, MS PowerPoint, and PDF files.
@@ -139,24 +135,10 @@ The toolkit helps repair corrupt Office 2016 and other version documents and fil
 
 [![free download](https://www.stellarinfo.com/blog/wp-content/uploads/2021/11/free-download-1-4.png)](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Launch the software.
 - From the software's main interface, select the MS Office file you want to repair.
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Stellar-toolkit-for-file-repair-main-interface.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - From the window that pops up, select the corrupted file to be repaired.
 
@@ -168,10 +150,7 @@ Note: If you don't know the exact location of corrupt office files or if they ar
 - Click OK.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -193,5 +172,24 @@ This post outlined possible scenarios and their causes that may lead to corrupti
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-capturing-moments-like-never-before-toolwiz-apps-2023-review-for-2024/"><u>[New] Capturing Moments Like Never Before Toolwiz App's 2023 Review for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>[New] In 2024, Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-transform-your-footage-effective-strategies-for-cropping-and-export-on-instagram/"><u>[New] In 2024, Transform Your Footage Effective Strategies for Cropping & Export on Instagram</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y78plus-t1-edition-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-samsung-galaxy-m54-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Samsung Galaxy M54 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-google-pixel-fold-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Google Pixel Fold Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-realme-narzo-n53-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme Narzo N53 phone? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-motorola-edgeplus-2023-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Motorola Edge+ (2023) Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-swiftly-secure-your-favorite-podcast-episodes-on-iphone/"><u>In 2024, Swiftly Secure Your Favorite Podcast Episodes on iPhone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/innovation-vs-familiarity-choosing-an-apple-device/"><u>Innovation Vs. Familiarity: Choosing an Apple Device</u></a></li>
+<li><a href="https://blog-min.techidaily.com/neon-is-one-of-the-noble-gases-and-is-indeed-a-gas-at-room-temperature/"><u>Neon Is One of the Noble Gases and Is Indeed a Gas at Room Temperature.</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/premium-top-11-list-audio-recording-essentials-for-2024/"><u>Premium Top 11 List - Audio Recording Essentials for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-asus-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Asus</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-pinnacle-guide-to-choosing-top-after-effects-plugins/"><u>The Pinnacle Guide to Choosing Top After Effects Plugins</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-samsung-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Samsung</u></a></li>
+<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-xs-max-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone XS Max files after scanning? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-oneplus-ace-2v-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset OnePlus Ace 2V | Dr.fone</u></a></li>
+</ul></div>
 

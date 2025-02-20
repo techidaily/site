@@ -1,7 +1,7 @@
 ---
 title: "AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude"
-date: 2025-01-23T17:39:56.872Z
-updated: 2025-01-28T22:05:02.770Z
+date: 2025-02-12T16:06:27.914Z
+updated: 2025-02-19T19:02:40.817Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ## AI Conversationalists Showdown: Comparing ChatGPT, Perplexity, and Claude
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
  Though ChatGPT is the world's most popular AI chatbot, there are plenty of great alternatives out there, including Perplexity and Claude. But what do each of these three AI chatbots offer, and which is best for you?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  ChatGPT vs. Claude vs. Perplexity: A Quick Comparison
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641
 ##  1\. LLMs Used
 
 ![The ChatGPT Official App logo on the sign in page](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/50aa3c08.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Hannah Stryker / How-To Geek
 
@@ -66,7 +70,7 @@ Hannah Stryker / How-To Geek
  Perplexity is available in most countries worldwide, though it is not available in the EU. Perplexity's free version gives you access to GPT-3.5 and the Copilot search feature, while Perplexity Pro also gives you access to GPT-4 and Claude, and gives you more usage for Copilot, for $20 monthly or $200 annually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  3\. Token Limits
@@ -123,10 +127,6 @@ Hannah Stryker / How-To Geek
 
  Evidently, the GPT-3.5 responses differed on ChatGPT and Perplexity, which is important to note. Some similar points were touched upon, but you certainly won't be getting identical responses on both platforms.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  6\. Math and Coding Abilities
 
  GPT-3.5, GPT-4, and Claude are not designed to write highly complex code, but you can still use them for simpler coding support. To test this, we asked all three chatbot platforms to provide simple Python code for a desktop calendar program without using a GUI library.
@@ -136,7 +136,7 @@ Hannah Stryker / How-To Geek
 ![Screenshot of ChatGPT prompt response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-calendar-code.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  ChatGPT provided a brief but effective code excerpt which worked successfully when tested, providing a simple text-based Python monthly calendar.
@@ -144,10 +144,6 @@ Hannah Stryker / How-To Geek
  From Claude, we got the following result:
 
 ![Screenshot of Claude chabot response in desktop browser.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/claude-calendar-response.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Claude gave a slightly longer code excerpt that provided the same result when tested.
 
@@ -157,6 +153,10 @@ Hannah Stryker / How-To Geek
 
  Perplexity also provided a code excerpt that worked successfully when tested, again giving the same result.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Mathematics
 
  In terms of mathematics, we provided all three platforms with an algebraic problem: **(x + 5) / 4 = (x -3) / 2**. This isn't a simple equation, but a fairly difficult problem that students may come across.
@@ -164,6 +164,10 @@ Hannah Stryker / How-To Geek
  Here's the response we receieved from ChatGPT:
 
 ![screenshot of chatgpt maths problem solution](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/gpt-maths-response.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  ChatGPT gave the correct answer, and demonstrated how to solve the equation.
 
@@ -176,10 +180,6 @@ Hannah Stryker / How-To Geek
  Finally, we got the below response from Perplexity:
 
 ![Screenshot of Perplexity's response to algebraic equation.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/perplexity-math-response.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Perplexity also gave the correct answer, as well as the solution process.
 
@@ -204,20 +204,17 @@ Hannah Stryker / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-premier-screen-captures-no-cost-pubg-sets/"><u>[New] Premier Screen Captures No-Cost PUBG Sets</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlocking-youtube-melodies-safe-free-extraction-methods/"><u>2024 Approved Unlocking YouTube Melodies Safe, Free Extraction Methods</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-z-fold-5-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/can-ai-enhance-mental-health-care-or-does-it-pose-risks-to-emotional-stability/"><u>Can AI Enhance Mental Health Care, or Does It Pose Risks to Emotional Stability?</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-smart-8-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix Smart 8 | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/easy-steps-to-convert-your-wmv-videos-to-mov-on-a-mac-for-enhanced-playback-and-editing/"><u>Easy Steps to Convert Your WMV Videos to MOV on a Mac for Enhanced Playback and Editing</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2022-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2022) without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-a-list-film-preview-shorts/"><u>In 2024, A-List Film Preview Shorts</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-maximize-your-mobile-experience-with-these-7-blockers/"><u>In 2024, Maximize Your Mobile Experience with These 7 Blockers</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-checklist-for-fb-cover-video-excellence/"><u>In 2024, The Ultimate Checklist for FB Cover Video Excellence</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-pdf-v11-file-by-stellar-guide/"><u>Solutions to Repair Corrupt PDF v1.1 File</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-itel-s23plus-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Itel S23+.</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-oppo-find-x6-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Oppo Find X6</u></a></li>
-<li><a href="https://techidaily.com/what-should-i-do-if-i-dont-find-the-deleted-iphone-8-plus-files-after-scanning-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>What should I do if I dont find the deleted iPhone 8 Plus files after scanning? | Stellar</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725285817867-winxvideo-ai/"><u>Winxvideo AI: 高效記錄螢幕、網路相機及音效的智能解決方案</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-pro-video-recording-methods-for-multiple-systems/"><u>[New] In 2024, Pro Video Recording Methods for Multiple Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-x7-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-skys-dynamic-range-wonders-top-10-sites-guide/"><u>In 2024, Sky's Dynamic Range Wonders - Top 10 Sites Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-beginners-guide-to-youtube-image-sharing/"><u>In 2024, The Beginner's Guide to YouTube Image Sharing</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastering-snapshits-pro-photography-edits-guide-for-2024/"><u>Mastering Snapshits Pro Photography Edits Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-itel-s23plus-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Itel S23+</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-motorola-moto-g84-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Motorola Moto G84 5G</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-xiaomi-redmi-13c-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>Unlock Your Xiaomi Redmi 13C Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-honor-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Honor</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Honor 80 Pro Straight Screen Edition? | Dr.fone</u></a></li>
 </ul></div>
 

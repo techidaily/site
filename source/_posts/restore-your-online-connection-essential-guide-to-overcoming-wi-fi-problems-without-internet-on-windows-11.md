@@ -1,7 +1,7 @@
 ---
 title: "Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11"
-date: 2025-02-08T21:43:05.904Z
-updated: 2025-02-09T17:01:40.725Z
+date: 2025-02-12T20:15:13.646Z
+updated: 2025-02-19T19:30:13.929Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ---
 
 ## Restore Your Online Connection: Essential Guide to Overcoming Wi-Fi Problems without Internet on Windows 11
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 * [Run a Few Commands in the Command Prompt](https://extra-hints.techidaily.com/2024-approved-a-pictures-worth-top-12-websites-for-exquisite-stock-photography-downloads/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -58,10 +54,6 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
  If the internet works properly on other devices connected to the same Wi-Fi network but not your device alone, the issue may be specific to your device. In that situation, you should try the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Turn Off the VPN and Proxy Server
 
  If your VPN connection times out or the server you're trying to connect to gets overloaded, it can cause internet access issues. To check if this is the case, try toggling the VPN connection off and on again. Also, switch to a different server to see if server overload is the problem. You can also temporarily disable the VPN to determine if it's causing the connection problem.
@@ -74,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![The button to set up a manual proxy on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/manual-proxy-setup-windows-11.jpeg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Disconnect Other Wi-Fi Networks
 
  Your laptop might be connected to a Wi-Fi network that's disconnected from the internet, which could be why you don't have internet access. Windows laptops automatically switch to the fastest available network, and your device may have automatically switched to a different Wi-Fi network.
@@ -82,13 +78,13 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the 'Manage Known Networks' settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-5-opening-the-manage-known-networks-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, click the "Forget" button next to each Wi-Fi network to remove it entirely from your laptop.
 
 ![Forgetting an old network in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-forgetting-an-old-network-in-the-windows-settings-app.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Remove the Data Limit
 
@@ -96,11 +92,19 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Opening the data usage settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/opening-the-data-usage-settings-in-the-windows-settings-app.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To remove the set data limit, click the "Remove Limit" button and click "Remove" in the pop-up.
 
 ![Removing the data usage limit from the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/5-removing-the-data-usage-limit-from-the-windows-settings-app.jpg) 
 
  Users can also set data limits on their phones (for hotspot connections) or within their router settings. Ensure that data usage is not limited there either.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Run the Network and Internet Troubleshooter
 
@@ -109,7 +113,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![Running the network and internet troubleshooter in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/run-option.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Next, click the "Run" button next to Network and Internet. Windows will open the Get Help app, which will guide you through instructions to identify and fix the problem.
@@ -125,12 +129,16 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![Checking the IP assignment and DNS server assignment settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-checking-the-ip-assignment-and-dns-server-assignment-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you see a manual entry, click the "Edit" button, select "Automatic (DHCP)" from the dropdown menu, and then click "Save."
 
 ![Settings the DNS server assignment to automatic in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-settings-the-dns-server-assignment-to-automatic-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Update the Network Adapter Driver
 
@@ -140,15 +148,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 
 ![Updating a network adapter driver in the Device Manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-updating-a-network-adapter-driver-in-the-device-manager-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, select "Browse My Computer for Drivers," then navigate to the path where you downloaded the drivers. Follow the on-screen instructions to complete the installation process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Perform a Network Reset
 
@@ -163,7 +163,7 @@ thumbnail: https://thmb.techidaily.com/731e7d95cb104fd0f2b4a441263b2d39fb916acbe
 ![Resetting the network settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/8-resetting-the-network-settings-in-the-windows-settings-app.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Run a Few Commands in the Command Prompt
@@ -199,21 +199,21 @@ ipconfig /flushdns`
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-detailed-insight-hero4-black-operations/"><u>[Updated] 2024 Approved Detailed Insight Hero4 Black Operations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-techniques-downloading-and-crafting-instagram-stories-for-2024/"><u>[Updated] Step-by-Step Techniques Downloading & Crafting Instagram Stories for 2024</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y100i-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y100i | Dr.fone</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/download-the-ultimate-no-cost-drm-ebook-liberator-software-for-mac-users/"><u>Download the Ultimate No-Cost DRM Ebook Liberator Software for Mac Users</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/from-still-to-story-the-art-of-adding-text-to-photos-os-style-for-2024/"><u>From Still to Story The Art of Adding Text to Photos, OS Style for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-11-pro-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 11 Pro without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-samsung-galaxy-s23-fe-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Samsung Galaxy S23 FE Phones</u></a></li>
-<li><a href="https://techidaily.com/remove-google-frp-lock-on-y78t-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Y78t</u></a></li>
-<li><a href="https://techidaily.com/repair-office-2013-files-word-excel-and-powerpointon-windows-by-stellar-guide/"><u>Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/seamless-integration-free-hp-driver-download-and-setup-guide/"><u>Seamless Integration: Free HP Driver Download & Setup Guide</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-oppo-find-x6-pro-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Oppo Find X6 Pro</u></a></li>
-<li><a href="https://games-able.techidaily.com/top-10-ps-summer-discount-extravaganza/"><u>Top 10 PS Summer Discount Extravaganza</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-messages-from-oppo-a18-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Oppo A18</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/unleash-the-power-of-obs-in-live-gaming-streams-for-2024/"><u>Unleash the Power of OBS in Live Gaming Streams for 2024</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-honor-x7b-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Honor X7b</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-science-behind-sharing-memes-unveiled/"><u>[New] The Science Behind Sharing Memes Unveiled</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-huawei-nova-y91-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Huawei Nova Y91? | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/effortless-conversion-usb-ethernet-pairing-steps/"><u>Effortless Conversion: USB-Ethernet Pairing Steps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/essential-list-best-microphones-for-4k-ultra-hd-for-2024/"><u>Essential List Best Microphones for 4K Ultra HD for 2024</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-motorola-moto-g-stylus-2023-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G Stylus (2023) in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-honor-100-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor 100 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-e13-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Moto E13 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://techidaily.com/is-your-asus-rog-phone-7-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Asus ROG Phone 7 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-infinix-smart-8-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Infinix Smart 8</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-honor-magic-6-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Honor Magic 6 Pro</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-gt-neo-5-se-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme GT Neo 5 SE</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-incompatible-signal-issues-between-input-devices-and-displays/"><u>Solving Incompatible Signal Issues Between Input Devices and Displays</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/the-ultimate-success-setup-top-trending-tools-and-products-for-todays-entrepreneurs/"><u>The Ultimate Success Setup Top Trending Tools and Products for Today's Entrepreneurs</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-150-2023-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia 150 (2023) without backup.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/turn-template-ideas-into-real-logo-artwork/"><u>Turn Template Ideas Into Real Logo Artwork</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/what-is-googles-ai-project-gemini-and-what-is-it-working-on/"><u>What Is Google's AI Project Gemini and What Is It Working On?</u></a></li>
 </ul></div>
 

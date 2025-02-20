@@ -1,7 +1,7 @@
 ---
 title: Innovative Strides at ABBYY with Patrick Jean's Recent Promotion to CPO and CTO Roles
-date: 2025-01-23T16:37:50.563Z
-updated: 2025-01-29T13:44:29.920Z
+date: 2025-02-13T17:06:44.216Z
+updated: 2025-02-19T23:59:09.417Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b1393331c870e52c284f342d82b8ac.jpeg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/08b59308ea1479863a214168a367629cf0b139333
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY Appoints Patrick Jean to Chief Product & Technology Officer
@@ -22,7 +22,7 @@ December 14, 2023
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [ABBYY](https://tools.techidaily.com/abbyy/products/), a market leader in purpose-built AI for intelligent automation, has announced the appointment of **Patrick Jean “PJ” as Chief Product & Technology Officer (CPO/CTO)** and a member of the executive management team. PJ has served in several executive engineering and leadership roles over his 20-year career and has a successful track record winning market share that drives demonstrable revenue. He will lead global product and technology teams with a primary focus on accelerating time-to-market for ABBYY’s intelligent document processing and process intelligence solutions to deliver measurable value to global enterprise customers faster.
@@ -41,7 +41,7 @@ Patrick Jean to Chief Product & Technology Officer at ABBYY
 For more information about ABBYY intelligent automation solutions, visit [www.abbyy.com](https://tools.techidaily.com/abbyy/products/).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -51,7 +51,7 @@ ABBYY puts your information to work. We combine innovation and experience to tra
 ABBYY can either be a registered trademark or a trademark and can also be a logo, a company name (or part of it), or part of a product name of ABBYY group companies and may not be used without consent of its respective owners.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### ABBYY Editorial Contact
@@ -59,7 +59,7 @@ ABBYY can either be a registered trademark or a trademark and can also be a logo
 ![02D Ginaray](https://static2.abbyy.com/abbyycommedia/23662/02d-ginaray.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Gina Ray
@@ -86,22 +86,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-secrets-of-excellence-how-zoom-can-transform-your-podcast-recordings/"><u>[New] 2024 Approved Secrets of Excellence How Zoom Can Transform Your Podcast Recordings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-building-a-brand-with-captivating-haul-videos-and-edits/"><u>[New] In 2024, Building a Brand with Captivating Haul Videos and Edits</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/new-standing-out-with-personalized-tiktok-pfps/"><u>[New] Standing Out with Personalized TikTok PFPs</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/adjusting-your-windows-search-and-highlight-settings/"><u>Adjusting Your Window's Search and Highlight Settings</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-itel-p55t-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Itel P55T Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-apple-iphone-7-location-on-viber-drfone-by-drfone-virtual-ios/"><u>How to Change/Fake Your Apple iPhone 7 Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23plus-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23+ without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-4g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 4G in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/how-to-record-streaming-audio-online-for-2024/"><u>How to Record Streaming Audio Online for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Others Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro Max to other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-master-class-top-online-aids-for-improving-media-captions-quality/"><u>In 2024, Master Class Top Online Aids for Improving Media Captions' Quality</u></a></li>
-<li><a href="https://win11.techidaily.com/reintroduce-missing-cameras-to-device-manager-display/"><u>Reintroduce Missing Cameras to Device Manager Display</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-realme-gt-5-pro-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Realme GT 5 Pro</u></a></li>
-<li><a href="https://techidaily.com/sony-xperia-10-v-music-recovery-recover-deleted-music-from-sony-xperia-10-v-by-fonelab-android-recover-music/"><u>Sony Xperia 10 V Music Recovery - Recover Deleted Music from Sony Xperia 10 V</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-lava-storm-5g-by-fonelab-android-recover-data/"><u>The way to get back lost data from Lava Storm 5G</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/your-easy-guide-to-revisiting-your-lately-watched-fb-videos/"><u>Your Easy Guide to Revisiting Your Lately Watched FB Videos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-virtual-realms-the-cinematic-revolution/"><u>[New] 2024 Approved Virtual Realms The Cinematic Revolution</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-playlist-of-film-scores-and-tracks/"><u>[Updated] 2024 Approved Ultimate Playlist of Film Scores & Tracks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-unlocking-user-engagement-through-strategic-tags/"><u>[Updated] 2024 Approved Unlocking User Engagement Through Strategic Tags</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/enhance-your-reading-experience-why-adding-an-ereader-is-a-smart-choice-alongside-your-tablet/"><u>Enhance Your Reading Experience: Why Adding an eReader Is a Smart Choice Alongside Your Tablet</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-huawei-p60-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-poco-x6-pro-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Poco X6 Pro Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-11-pro-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 11 Pro Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-guide-premiere-pro-for-youtube-cutting/"><u>In 2024, Step-by-Step Guide Premiere Pro for YouTube Cutting</u></a></li>
+<li><a href="https://common-error.techidaily.com/rebooting-woes-windows-10-troubleshooting/"><u>Rebooting Woes: Windows 10 Troubleshooting</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-wishlist-of-visionos-improvements-what-i-hope-apple-unveils-this-week-at-wwdc/"><u>The Ultimate Wishlist of VisionOS Improvements - What I Hope Apple Unveils This Week at WWDC</u></a></li>
+<li><a href="https://techidaily.com/turn-off-screen-lock-honor-play-7t-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Honor Play 7T</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-13-proplus-5g-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi Redmi Note 13 Pro+ 5G can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 

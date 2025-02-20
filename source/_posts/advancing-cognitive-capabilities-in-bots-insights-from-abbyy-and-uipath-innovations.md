@@ -1,7 +1,7 @@
 ---
 title: "Advancing Cognitive Capabilities in Bots: Insights From ABBYY and UiPath Innovations"
-date: 2025-01-27T00:22:06.214Z
-updated: 2025-01-29T10:05:45.940Z
+date: 2025-02-15T18:48:16.046Z
+updated: 2025-02-19T19:56:48.504Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473b14b1614804e43117d93320.jpg
@@ -10,14 +10,10 @@ thumbnail: https://thmb.techidaily.com/88761ec66a00f0a48060e78f738a540e311f0a473
 ## Advancing Cognitive Capabilities in Bots: Insights From ABBYY and UiPath Innovations
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## ABBYY | UiPath
 
@@ -32,10 +28,14 @@ UiPathのテクノロジーパートナーとして、ABBYYは、UiPathのお客
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-onboarding/overview-image.jpg?h=716&iar=0&w=1272)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/solutions/digital-document-archiving/drawer-image.jpg?h=392&iar=0&w=696)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### ABBYYとUiPathがどう連携するか 
 
@@ -45,10 +45,6 @@ UiPathのためにABBYYソリューションで実現できること：
 * 業界をリードするOCR、文書の仕分け、データ抽出テクノロジーを活用し、文書を中心に取り扱う業務プロセスの自動化を進めることができます。
 * 継続的な自動学習とユーザからのインプットによって、文書の仕分けやデータの抽出作業を自動化できます。
 * 文書、画像やテキストを含むコンテンツ中心の処理作業を自動化するためにRPAの使用範囲を拡大できます。これにより、戦略的なDX（デジタルトランスフォーメーション）の活動をサポートすることができます。
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 連携するメリット 
 
@@ -77,7 +73,11 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 ![](https://content.abbyy.com/-/media/feature/basecomponents/clients/uipath_logo_rev_120px.png?h=43&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 専門家に相談してみませんか？
@@ -99,19 +99,18 @@ ABBYY FlexiCapture Connector for UiPath（UiPath用FlexiCaptureコネクタ）�
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-virtual-streets-best-video-games-mimicking-gta-v/"><u>[New] Virtual Streets Best Video Games Mimicking GTA V</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-content-with-these-10-reaction-wonders/"><u>2024 Approved Elevate Your Content with These 10 Reaction Wonders</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-record-gameplay-with-obs-studio/"><u>2024 Approved Record Gameplay with OBS Studio</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-failed-file-creation-on-win11s-camera-app/"><u>Fixing Failed File Creation on Win11's Camera App</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-oneplus-nord-n30-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my OnePlus Nord N30 5G Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-deal-with-the-motorola-g24-power-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Motorola G24 Power Screen Black But Still Works? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/streaming-showdown-the-ultimate-guide-for-xsplit-and-obs-fans-for-2024/"><u>Streaming Showdown The Ultimate Guide for XSplit and OBS Fans for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-poco-c55-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Poco C55 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-edge-40-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Edge 40</u></a></li>
-<li><a href="https://techidaily.com/undeleted-lost-videos-from-poco-m6-pro-5g-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Poco M6 Pro 5G</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-efficient-communication-management-selecting-every-message-simultaneeously-on-gmail/"><u>Unlock Efficient Communication Management: Selecting Every Message Simultaneeously on Gmail</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-organize-your-videos-best-mp4-tag-editing-tools-for-windows-and-mac/"><u>Updated 2024 Approved Organize Your Videos Best MP4 Tag Editing Tools for Windows and Mac</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt/"><u>[New] 2024 Approved Add Visual Appeal with These Methods for YT Video Inclusion in PPT</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-uncovering-every-shared-element-in-a-chat-on-messenger/"><u>[New] 2024 Approved Uncovering Every Shared Element in a Chat on Messenger</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-halt-facebook-ads-in-vids-your-guide/"><u>2024 Approved Halt Facebook Ads in Vids Your Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/common-problems-and-fixes-for-voice-chatting-in-call-of-duty-modern-warfare/"><u>Common Problems & Fixes for Voice Chatting in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/free-entry-to-the-ultimate-karaoke-summit-2e15-register-today-and-master-your-mixes/"><u>Free Entry to the Ultimate Karaoke Summit 2E15 - Register Today and Master Your Mixes!</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-14-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-tecno-pop-7-pro-by-drfone-android/"><u>How to Show Wi-Fi Password on Tecno Pop 7 Pro</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-tecno-phantom-v-flip-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Tecno Phantom V Flip phone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-11-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme 11 5G on Windows</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-poco-m6-5g-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Poco M6 5G</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g-stylus-2023-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G Stylus (2023) Reset Code | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/unraveling-the-dyson-360-vis-navs-quirks-a-comprehensive-review-on-its-idiosyncratic-pathfinding-and-battery-consumption/"><u>Unraveling the Dyson 360 Vis Nav's Quirks: A Comprehensive Review on Its Idiosyncratic Pathfinding and Battery Consumption</u></a></li>
+<li><a href="https://network-issues.techidaily.com/your-comprehensive-guide-to-tablet-buying-by-assessing-display-area-and-portable-design/"><u>Your Comprehensive Guide to Tablet Buying by Assessing Display Area and Portable Design</u></a></li>
 </ul></div>
 

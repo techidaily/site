@@ -1,7 +1,7 @@
 ---
 title: Enhanced User Experience with the Latest Cookiebot Technology
-date: 2025-01-25T02:44:24.662Z
-updated: 2025-01-28T20:55:15.192Z
+date: 2025-02-16T16:16:30.459Z
+updated: 2025-02-19T21:14:40.021Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33cafa8864cd2873a58b515ce.png
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/637640ea893a93e111b973883d0f05d3166b54a33
 Legal | BPO and Shared Services | eDiscovery | Document Processing
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## eDiscovery Leader Adds Advanced Intelligent Document Processing with ABBYY
@@ -22,7 +22,7 @@ Legal | BPO and Shared Services | eDiscovery | Document Processing
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/en/182212.png?h=40&iar=0&w=120)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
@@ -34,7 +34,7 @@ BPO and Shared Services | Document Processing
 ![Costain Transforms Its Finance Department Using ABBYY Content Intelligence](https://static4.abbyy.com/abbyycommedia/36085/abbyy-nuix-556x303.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Customer Overview
@@ -42,7 +42,7 @@ BPO and Shared Services | Document Processing
 ![Nuix](https://static1.abbyy.com/abbyycommedia/36096/nuix-logo_117x56.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 | Name         | Nuix                                  |
@@ -104,7 +104,7 @@ For Nuix, too, the benefits are multiple. “The added value that ABBYY brings i
 [Find your ABBYY office](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Ready to talk to an expert?
@@ -128,20 +128,22 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-whats-new-in-photography-an-updated-look-at-lg-360-cameras/"><u>[New] What's New in Photography An Updated Look at LG 360 Cameras</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-dynamic-content-presentation-via-fb-slideshows-for-2024/"><u>[Updated] Dynamic Content Presentation via FB Slideshows for 2024</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-revolutionary-social-networking-tools/"><u>[Updated] Revolutionary Social Networking Tools</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-sns-hdr-pro-analysis-worth-its-weight-in-gold-in-2024/"><u>[Updated] SNS HDR Pro Analysis Worth Its Weight in Gold, In 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/est-editors-apart-from-youtube-platform/"><u>1-#5 Best Editors Apart From YouTube Platform</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-nokia-g42-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Nokia G42 5G Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722866563724-facebook-free-mastering-the-art-of-communicating-through-whatsapp/"><u>Facebook-Free: Mastering the Art of Communicating Through WhatsApp</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-lava-blaze-2-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Blaze 2 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 to the Previous iOS System Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-m54-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy M54 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-tactics-for-pinpointing-ideal-podcast-debut-days/"><u>In 2024, Tactics for Pinpointing Ideal Podcast Debut Days</u></a></li>
-<li><a href="https://program-issues.techidaily.com/optimizing-your-pc-to-eliminate-lag-and-raise-fps-on-the-game-the-ascent/"><u>Optimizing Your PC to Eliminate Lag & Raise FPS on the Game, 'The Ascent'</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-xcover-6-pro-tactical-edition-messages-recovery-recover-deleted-messages-from-samsung-galaxy-xcover-6-pro-tactical-edition-by-fonelab-android-recover-messages/"><u>Samsung Galaxy XCover 6 Pro Tactical Edition Messages Recovery - Recover Deleted Messages from Samsung Galaxy XCover 6 Pro Tactical Edition</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-virtual-reality-movies-in-the-cinema/"><u>The Virtual Reality Movies in the Cinema</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-digital-enhancement-social-story-recorder-for-2024/"><u>[Updated] Digital Enhancement Social Story Recorder for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-zen-of-zoom-advanced-tips-for-flawless-audio-recording-on-video-platforms/"><u>[Updated] In 2024, The Zen of Zoom Advanced Tips for Flawless Audio Recording on Video Platforms</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-zoomelitevue-7-enhance-and-resize-like-a-pro/"><u>[Updated] In 2024, ZoomEliteVue 7 Enhance & Resize Like a Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-embracing-tradition-with-the-new-generation-of-lgs-wear-os-smartwatches/"><u>Comprehensive Analysis: Embracing Tradition with The New Generation of LG's Wear OS Smartwatches</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-y27-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo Y27 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-of-the-asus-b76n-csm-motherboard-how-its-csm-status-elevates-performance/"><u>Expert Analysis of the Asus B76n-CSM Motherboard: How Its CSM Status Elevates Performance</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/grasping-the-copyright-conundrum-in-ai-realm/"><u>Grasping the Copyright Conundrum in AI Realm</u></a></li>
+<li><a href="https://fox-info.techidaily.com/high-end-drones-expert-buyers-choices-top-5/"><u>High-End Drones - Expert Buyers' Choices, Top 5</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-oppo-a59-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Oppo A59 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-11-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 11 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-motorola-edgeplus-2023-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Motorola Edge+ (2023)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-sony-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Sony</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-on-windows-11-and-10-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers on Windows 11 & 10</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/warzone-trouble-solving-the-common-memory-error-0-1766-across-xbox-and-pc-platforms/"><u>Warzone Trouble? Solving the Common Memory Error 0-1766 Across Xbox & PC Platforms</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-11-managing-your-network-proxy/"><u>Windows 11: Managing Your Network Proxy</u></a></li>
 </ul></div>
 

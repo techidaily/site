@@ -1,7 +1,7 @@
 ---
 title: "The Essential Tutorial: Convert Strings with Base64 in the Linux Environment"
-date: 2025-02-05T23:05:15.568Z
-updated: 2025-02-09T17:47:12.289Z
+date: 2025-02-16T00:31:38.132Z
+updated: 2025-02-19T17:57:35.958Z
 tags:
   - desktop
 categories:
@@ -14,7 +14,7 @@ thumbnail: https://thmb.techidaily.com/f5b8e36c4ebd6a9ca109693d88c7c440e68928a27
 Want to learn how to encode and decode strings using the base64 binary-to-text scheme? This tutorial will show you two methods to encode and decode a string on Linux using the base64 command and the Python programming language.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Where Is base64 Used?
@@ -26,10 +26,6 @@ Want to learn how to encode and decode strings using the base64 binary-to-text s
  Another common use of base64 encoding is in authentication tokens. Usernames and passwords are sometimes masked using this encoding scheme and added to HTTP headers or URL parameters. In networking, base64 is used in protocols that use text-based communication, such as HTTP and SMTP, for transmitting data without corruption.
 
  What you should know is that base64 is only an encoding scheme. The encoded data can be easily decoded to get the original data back. You should never use it if you need to [encrypt data instead](https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-g54-5g-drfone-by-drfone-virtual-android/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Encoding a String Using the base64 Command
 
@@ -45,15 +41,15 @@ echo -n 'I love Linux' | base64
 
 ![The Linux terminal displaying the process of encoding a string using base64 omitting the newline character](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-10.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can notice, the output is different from the previous one. You can also do this using the printf command which doesn't automatically append a newline character to the string. The format is given below:
 
 printf 'I love Linux' | base64
 
 ![The Linux terminal showing the process of encoding a string received from the printf command using base64](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This output is the same as the previous one because there are no newline characters this time. If you're familiar with [here-strings](https://tldp.org/LDP/abs/html/x17837.html) on Linux, you can also use them to send your string output to the base64 command like this:
 
@@ -62,7 +58,7 @@ base64 <<< 'I love Linux'
 ![The Linux terminal showcases how to encode a string using the base64 command with the help of here string operator](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-9.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Similar to the echo command, here-strings also add a newline character at the end of the string.
@@ -78,7 +74,7 @@ base64 base.txt
 ![The Linux terminal displaying the process of encoding a file to base64 using the base64 command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-7.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Remember to replace base.txt with your file name. The above command only displays the output in the terminal. It doesn't save the encoded string anywhere. However, you can easily do that by redirecting the output to a new file. I've created another file called output.txt. This time I'll save the output to that empty file. Here's the command for that:
@@ -86,6 +82,10 @@ base64 base.txt
 base64 base.txt > output.txt
 
 ![The Linux terminal showcasing the process of encoding the content of a file to base64 and saving it to another file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-7.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  As you can see, the terminal didn't display the output. This command saved it to another file instead.
 
@@ -98,7 +98,7 @@ echo 'SG93VG9HZWVrCg==' | base64 -d
 ![The Linux terminal displaying the process of decoding a base64 string using the base64 command with the help of the echo command](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/7-8.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you'd like to use here-strings for decoding a base64 string, then use:
@@ -119,23 +119,19 @@ echo 'I love Linux' | python3 -m base64 # Using the echo commandpython3 -m base6
 
 ![The Linux terminal displays the process of encoding a string to base64 using Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/9-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To decode a base64 string, all you need to do is use the "-d" flag as seen previously with the base64 command. The syntax is below:
 
 echo 'SSBsb3ZlIExpbnV4Cg==' | python3 -m base64 -d # Using the echo command​​​​​​python3 -m base64 -d <<< 'SSBsb3ZlIExpbnV4Cg==' # Using here-strings
 
 ![The Linux terminal showing the process of decoding a base64 string using the Python language](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/10-5.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Of course, the convenient way is to create a Python program that can handle the encoding and decoding by taking user input. First, let's create a program that will encode a string. Here's the encoding code:
 
         `import base64  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Get input string from the user  
 input_string = input("Enter the string to encode: ")  
@@ -156,6 +152,10 @@ print("Decoded string (verification):", decoded_string)
 python3 base64_encoder.py
 
 ![The Linux terminal showcasing the process of encoding a string using a Python program](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/11-3.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also create a program to decode a base64 string. Here's a code snippet you can use:
 
@@ -198,21 +198,20 @@ python3 base64_decoder.py
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-maximizing-impact-with-customized-youtube-audiences/"><u>[New] 2024 Approved Maximizing Impact with Customized Youtube Audiences</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-dissecting-freelens-studio-a-user-perspective/"><u>[New] In 2024, Dissecting Freelens Studio A User Perspective</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-essential-list-of-religious-ringing-sounds/"><u>[New] In 2024, The Essential List of Religious Ringing Sounds</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-prime-desktopmobile-communication-alternatives-to-zoom/"><u>[Updated] 2024 Approved Prime Desktop/Mobile Communication Alternatives to Zoom</u></a></li>
-<li><a href="https://techidaily.com/different-methods-for-resetting-oppo-reno-10-proplus-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Oppo Reno 10 Pro+ 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-black-friday-deal-iphone-13-pro-max-saves-you-up-to-500/"><u>Discover the Black Friday Deal: IPhone 13 Pro Max Saves You Up To $500!</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-apple-iphone-x-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone X Data From iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-pro-to-androidios-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 Pro To Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-much-money-does-mr-beast-make/"><u>In 2024, How Much Money Does Mr. Beast Make</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/quick-and-easy-guide-turn-your-webm-files-into-mov-without-hassle-top-2-techniques/"><u>Quick & Easy Guide: Turn Your WebM Files Into MOV without Hassle - Top 2 Techniques!</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-wont-play-on-my-razr-40-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Razr 40</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-from-scratch-video-gear-insights/"><u>Starting From Scratch Video Gear Insights</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-infinix-zero-5g-2023-turbo-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-p40-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-mac-video-cutting-made-simple-quick-tips-for-efficient-editing-for-2024/"><u>Updated Mac Video Cutting Made Simple Quick Tips for Efficient Editing for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-nextgen-fidelity-upgrade-your-viewing-experience-for-2024/"><u>[New] NextGen Fidelity Upgrade Your Viewing Experience for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-video-upgrade-critical-tech-to-elevate-content/"><u>[Updated] Video Upgrade Critical Tech to Elevate Content</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/cookiebot-enhancing-conversion-rates-through-smart-cookies-solutions/"><u>Cookiebot: Enhancing Conversion Rates Through Smart Cookies Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/file-format-and-extension-of-filename-dont-match-in-excel-2023-file-by-stellar-guide/"><u>File Format and Extension of filename dont Match in Excel 2023 File</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro Max without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-f54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy F54 5G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-6s-plus-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 6s Plus Data From iOS iCloud? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xs-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XS To Other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ideal-sites-to-discover-3d-golden-tinted-typography/"><u>Ideal Sites to Discover 3D Golden Tinted Typography</u></a></li>
+<li><a href="https://techidaily.com/is-your-oneplus-nord-n30-se-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your OnePlus Nord N30 SE working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-disable-incoming-audio-cues-and-import-fresh-audiovisual-components-via-windows-moviemaker-software/"><u>New In 2024, Disable Incoming Audio Cues & Import Fresh Audiovisual Components via Windows Moviemaker Software</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-tecno-phantom-v-fold-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Tecno Phantom V Fold Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/unleashing-wealth-without-limit-your-complete-walkthrough-for-like-a-dragon-on-pc/"><u>Unleashing Wealth Without Limit: Your Complete Walkthrough for 'Like a Dragon' On PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-y55s-5g-2023-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo Y55s 5G (2023) Device</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-s18-pro-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from S18 Pro</u></a></li>
 </ul></div>
 

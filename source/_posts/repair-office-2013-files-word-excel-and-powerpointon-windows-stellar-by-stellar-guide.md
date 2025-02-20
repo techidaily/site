@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-17T02:27:58.673Z
-updated: 2024-09-24T00:27:44.991Z
+date: 2025-02-18T17:06:29.944Z
+updated: 2025-02-19T19:16:26.918Z
 tags: 
   - repair
   - repair excel
@@ -29,21 +29,7 @@ You decide to move Office files from your hard drive to other removable media. H
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Word-displaying-gibberish-characters.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Figure 1- Microsoft Word file showing garbage characters
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Scenario 2 – Office Files and Registry Entries Become Infected
 
@@ -90,19 +76,6 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/ControlPanel-Uninstall.png)
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Right-click on the Office application you want to repair, and then click **Change**
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Change-Office-application.jpg)
@@ -111,31 +84,21 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **For Windows 10**
 
 - Right-click the Start button, and type in **Apps & Features** (For Windows 10)
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Apps-and-features.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **NOTE:** This step will work for Windows 10/8/8.1/7 and Vista
 
 - Click **Programs** from the window that opens, click on the MS Office product you want to repair, and then click on **Modify**
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Modify-Office-application.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Following the step will repair the entire Microsoft Office suite even if it contains only one application you want to repair such as an Excel or PowerPoint file. But, in case you have a standalone app installed, try to locate that application by name.
 
@@ -159,6 +122,10 @@ The toolkit helps repair corrupt Office 2016 and other version documents and fil
 - From the software's main interface, select the MS Office file you want to repair.
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Stellar-toolkit-for-file-repair-main-interface.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - From the window that pops up, select the corrupted file to be repaired.
 
@@ -212,6 +179,10 @@ By default, an Excel file is saved in .xlsx or .xls file format. Trying to open 
 
 Check if you can open your Excel file. If not, try the next workaround.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Workaround 2 – Edit the Excel File Permissions**
 
 You may receive the 'Excel file format or file extension is not valid' error if you lack sufficient permissions to open the file. Usually this happens when you try to open an Excel file received from some other user. Follow these steps to change the file permissions and see if it fixes the problem:
@@ -228,6 +199,10 @@ You may receive the 'Excel file format or file extension is not valid' error if 
 -   Click on the **Advanced** button from the 'Select Users or Groups' window.
 
 ![Open Advanced Settings](https://www.stellarinfo.com/blog/wp-content/uploads/2021/06/open-advanced-settings-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 -   Select **Find Now**. A list of all users and groups will get displayed in a search results box. Choose **Everyone** group from the list and hit **OK**.
 
@@ -254,6 +229,10 @@ If the 'Excel file extension not valid error' occurs when attempting to open an 
 
 ![Recover Unsaved Workbooks](https://www.stellarinfo.com/blog/wp-content/uploads/2021/06/recover-unsaved-workbooks-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Excel will list any unsaved files. Try opening the file and save it. If this doesn't work, skip to the next workaround.
 
 ### **Workaround 4 – Repair the Workbook**
@@ -269,13 +248,6 @@ If none of the above workarounds has worked for you, chances are that the Excel 
 
 ![Open and Repair Excel File](https://www.stellarinfo.com/blog/wp-content/uploads/2021/06/open-and-repair-excel-file-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 -   Excel will ask you to attempt to repair the file or extract data from it. Click **Repair** to retrieve maximum data. If the Repair option fails, click on **Extract Data** to recover the data without formulas and values.
 
 ![Repair Excel File](https://www.stellarinfo.com/blog/wp-content/uploads/2021/06/repair-excel-file-12.jpg)
@@ -283,6 +255,10 @@ If none of the above workarounds has worked for you, chances are that the Excel 
 If the 'Open and Repair' utility doesn't help fix the corrupted file and/or recover the data, use an [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) such as Stellar Repair for Excel to regain access to your file and its data.  
 
 [![free download](https://www.stellarinfo.com/blog/wp-content/uploads/2021/05/free-download-1-2.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Stellar Repair for Excel software can help repair severely corrupted XLS and XLSX files. Also, it helps recover all the file components, including tables, pivot tables, cell comments, charts, chart sheets, images, formulas, etc., without impacting the original structure of the Excel file. 
 
@@ -292,13 +268,6 @@ _**To learn how the software works, read this:**_ [**_How to repair corrupt Exce
 
 You may encounter the error 'Excel cannot open the file because the extension is not valid' when opening a workbook with a different file format or an incorrect file extension. Also, the error may occur if the Excel file has turned corrupt. This article has covered some of the most effective workarounds to resolve the error. But if nothing works, you can try to repair the Excel file and retrieve its data using the Stellar Repair for Excel software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix “File Not Loaded Completely” Error in Excel?
 
 **Summary:** You may get the “File not loaded completely" error when opening a large-sized Excel file. Read this post to understand the causes behind this issue and the troubleshooting solutions to fix this Excel error. Also, you’ll get to know about an Excel repair tool that can help fix the issue if the cause is corruption in the Excel file.
@@ -306,6 +275,10 @@ You may encounter the error 'Excel cannot open the file because the extension is
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Several [users](https://stackoverflow.com/questions/16945348/excel-csv-file-with-more-than-1-048-576-rows-of-data) have reported experiencing the “File not loaded completely” error while opening Excel spreadsheets or when importing CSV file into Excel. This error can occur if the worksheet has crossed the maximum rows and columns [limit](https://support.microsoft.com/en-us/office/excel-specifications-and-limits-1672b34d-7043-467e-8e27-269d656771c3), i.e., 1048576 rows by 16,386 columns. However, this issue can also occur due to various other reasons. Let’s take a look at the possible causes behind this error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Why this Error Occurs?**
 
@@ -329,6 +302,10 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
 
 ![Open Get Data Excel Spreadsheet Window In Excel](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/open-get-data-excel-spreadsheet-window-in-excel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the **Get Data-Excel Spreadsheet** window, click Browse.
 
 ![Click Browse On Get External Data Excel Spreadsheet](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/click-browse-on-get-external-data-excel-spreadsheet.jpg)
@@ -348,6 +325,10 @@ A large-sized Excel file takes time and memory to load. When you try opening a l
 - In the dialog box that appears, you can modify the field information (extra columns or rows).
 
 ![Modify Info In Import Spreadsheet Wizard](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/04/modify-info-in-import-spreadsheet-wizard.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Once you performed the changes, click on the **Next** button.
 
@@ -416,13 +397,6 @@ Sometimes, Excel throws the “File not loaded completely” error if it fails t
 
 If your file gets corrupted, then repairing it using the “Open and Repair” utility is a good option. However, the [Open and Repair utility may not work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) if the file is severely damaged or corrupted. In such a case, you can use a professional Excel repair tool, such as Stellar Repair for Excel. This tool is primarily designed to repair inaccessible or corrupted Excel files. It can effectively work even if your file is too large or severely damaged. It can recover all the data from the corrupted Excel file without impacting its actual format. The software supports Excel files of almost all Excel versions.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Conclusion**
 
 The **File not loaded completely** issue in Excel may occur due to numerous reasons. Try the troubleshooting methods listed above to resolve the issue. If the Excel file is corrupt, then you can try repairing your file using the **Open and Repair** tool. However, it can fix only minor corruption issues. If your file is severely corrupted, then use **[Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/)**. The software offers you the safest way to repair your Excel file without making any changes in the formatting. You can download the free trial version of the software today to scan and preview the Excel file.
@@ -478,6 +452,10 @@ Very much sure about the result of using the excel file recovery tool, share you
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
 Many users have reported encountering the error “Subscript out of range” (runtime error 9) when using VBA code in Excel. The error often occurs when the object you are referring to in a code is not available, deleted, or not defined earlier. Sometimes, it occurs if you have declared an array in code but forgot to specify the DIM or ReDIM statement to define the length of array.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Causes of VBA Runtime Error 9: Subscript Out Of Range**
 
@@ -651,5 +629,22 @@ It is always a good idea to create a backup of important files since no one can 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-techniques-for-unbiased-and-structured-interviews/"><u>[Updated] Techniques for Unbiased and Structured Interviews</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A24 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-100-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 100 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-reno-10-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Reno 10 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-zero-30-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Zero 30 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-nubia-red-magic-8s-proplus-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-find-x7-ultra-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Find X7 Ultra Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-x-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone X To Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-pro-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 Pro to other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-y77t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo Y77t Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/top-10-escape-room-games-for-2024/"><u>Top 10 Escape Room Games for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-cellphone-savings-in-march-2024-exclusive-offers-curated/"><u>Top Cellphone Savings in March 2024: Exclusive Offers Curated</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-qr-code-reader-top-10-solutions-for-scan-issues/"><u>Troubleshooting iPhone QR Code Reader: Top 10 Solutions for Scan Issues</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-11-proplus-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 11 Pro+ Phones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavipdfpngtiff/"><u>オンラインで簡単なファイル交換: MovaviでPDF/PNGからTIFFに無料変換!</u></a></li>
+</ul></div>
 

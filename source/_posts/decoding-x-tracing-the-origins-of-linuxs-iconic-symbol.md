@@ -1,7 +1,7 @@
 ---
 title: "Decoding X: Tracing the Origins of Linux's Iconic Symbol"
-date: 2025-02-05T23:20:53.811Z
-updated: 2025-02-09T19:36:05.463Z
+date: 2025-02-14T22:50:10.854Z
+updated: 2025-02-20T00:39:41.744Z
 tags:
   - desktop
 categories:
@@ -28,7 +28,7 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
@@ -58,7 +58,7 @@ Dave McKay/How-To Geek
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -79,11 +79,11 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -98,7 +98,7 @@ Dave McKay/How-To Geek
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
@@ -118,7 +118,7 @@ Dave McKay/How-To Geek
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s in a Name?
@@ -142,14 +142,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-optimize-game-console-audio-settings-on-sony-platforms/"><u>[Updated] Optimize Game Console Audio Settings on Sony Platforms</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-v27-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-vivo-s18-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo S18 Pro Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-nokia-c12-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Nokia C12 phone? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/maximizing-twitter-budget-efficiency-in-ad-spends/"><u>Maximizing Twitter Budget Efficiency in Ad Spends</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/music-lovers-club-listen-save-analyze-tunes/"><u>Music Lovers Club Listen, Save, Analyze Tunes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/prime-online-destinations-featuring-3d-art-and-metallic-text/"><u>Prime Online Destinations Featuring 3D Art & Metallic Text</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-c32-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia C32 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-effortless-streaming-to-facebook-audiences-using-zoom/"><u>[Updated] 2024 Approved Effortless Streaming to Facebook Audiences Using Zoom</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-best-6-value-proposition-affordable-4k-projectors/"><u>[Updated] Best 6 Value Proposition Affordable 4K Projectors</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-mastery-of-geometric-design-in-minecraft-creating-circle-and-sphere-art/"><u>[Updated] Mastery of Geometric Design in Minecraft Creating Circle & Sphere Art</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-raisingthebarbeyondmycam-cameras/"><u>[Updated] RaisingTheBarBeyondMyCam Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1-free-online-conversion-transform-ogm-files-into-mp4-format-effortlessly/"><u>1. Free Online Conversion: Transform OGM Files Into MP4 Format Effortlessly</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-honor-90-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Honor 90 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-ppc-strategies-using-the-power-of-cookiebot-technology/"><u>Elevate Your PPC Strategies Using the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-find-x7-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo Find X7 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-max-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro Max iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-reno-10-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo Reno 10 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-k70-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi K70 Pro Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-can-life360-track-you-when-your-tecno-spark-10-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Tecno Spark 10 Pro is off? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-iphone-se-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your iPhone SE</u></a></li>
+<li><a href="https://discover-best.techidaily.com/pcgooglegif/"><u>PC用ガイド：Googleフォトを使って個性的なGIFアニメーションを作る方法</u></a></li>
+<li><a href="https://techidaily.com/solved-photos-disappeared-from-iphone-15-plus-suddenly-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Photos Disappeared from iPhone 15 Plus Suddenly | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-vivo-v30-lite-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-infinix-note-30i-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Infinix Note 30i</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-13-pro-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 13 Pro SMS/Message/Text Recovery Software | Stellar</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)"
-date: 2025-02-06T19:55:07.052Z
-updated: 2025-02-09T20:06:16.015Z
+date: 2025-02-18T23:39:50.595Z
+updated: 2025-02-19T18:30:56.713Z
 tags:
   - web
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ## Navigate Today's NYT Brain-Teasers: Discover Connections and Answers for August 18Th (#434)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
  Once you're confident you understand the connection, select 4 words, then hit "Submit." You have only four attempts in total, so don't be too guess-happy.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Hints for Today's Connections Groups
 
  Here are a few hints for the 434th Connections game to get you started:
@@ -41,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 * **Purple:** Fairytale characters.
 
 ![The unsorted words for August 18 Connections game.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-unsorted-words-for-august-18-connections-game.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you still need help, the actual group names are:
 
@@ -58,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 ![The words for August 18 sorted into the correct groups](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/the-words-for-august-18-sorted-into-the-correct-groups.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Alarm Clock Buttons (Yellow):** 
@@ -78,7 +78,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  Do, Dope, Grump, Sleep
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Did We Solve This Connections Game?
@@ -94,7 +94,7 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
  That left Do, Dope, Grump, and Sleep—once again, I was a bit stumped by Purple. I eventually realized that grump, dope, and sleep could all take a Y at the end and still make sense, but that didn't work for do. Purple turned out to be "Seven Dwarfs Minus Last Letter." Turns out that I need to up my fairytale game. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How Do You Guess Connections Groups?
@@ -125,17 +125,16 @@ thumbnail: https://thmb.techidaily.com/8f0b4518ce0df25393954ab31a3f7f9f5a628c2c9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-infusing-sound-into-your-photography/"><u>[New] 2024 Approved Infusing Sound Into Your Photography</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens/"><u>[New] 2024 Approved Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens?</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/comparatif-dvd-vs-blu-ray-vs-fichier-numerique-quel-offre-le-meilleur-rapport-qualiteprix/"><u>Comparatif DVD vs Blu-Ray vs Fichier Numérique : Quel Offre Le Meilleur Rapport Qualité/Prix ?</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-iosipados-beta-version-on-apple-iphone-15-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS/iPadOS Beta Version on Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-fast-facial-masking-on-piscart-a-convenient-guide/"><u>In 2024, Fast Facial Masking on PiscArt A Convenient Guide</u></a></li>
-<li><a href="https://techidaily.com/samsung-data-recovery-recover-lost-data-from-samsung-by-fonelab-android-recover-data/"><u>Samsung Data Recovery – recover lost data from Samsung</u></a></li>
-<li><a href="https://techidaily.com/solved-excel-2023-spreadsheet-disappears-after-opening-by-stellar-guide/"><u>Solved Excel 2023 Spreadsheet Disappears after Opening</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-troubleshoot-dev-error-5573-on-pc-and-consoles/"><u>Solving the Puzzle: A Step-by-Step Guide to Troubleshoot Dev Error 5573 on PC and Consoles</u></a></li>
-<li><a href="https://fox-making.techidaily.com/top-3-methods-to-securely-backup-windows-881-systems/"><u>Top 3 Methods to Securely Backup Windows 8/8.1 Systems</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-infinix-note-30-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Infinix Note 30 Pro.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/unlocking-the-mystery-behind-access-denied-to-device-path-or-file-in-windows-os/"><u>Unlocking the Mystery Behind 'Access Denied to Device Path or File' In Windows OS</u></a></li>
-<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-itel-p55-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Itel P55</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-delving-into-the-pros-and-cons-of-using-itop/"><u>[New] 2024 Approved Delving Into the Pros and Cons of Using ITop</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-transforming-youtube-videos-bars-free-vision/"><u>[Updated] Transforming YouTube Videos Bars-Free Vision</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoiding-inquiries-stealthy-strategies-for-secure-credentials-in-win-11/"><u>Avoiding Inquiries: Stealthy Strategies for Secure Credentials in Win 11</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-motorola-moto-g14-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Motorola Moto G14 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721465678882-resolve-your-iphone-wake-up-struggles-alarm-not-sounding-off/"><u>Resolve Your iPhone Wake Up Struggles: Alarm Not Sounding Off!</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-realme-narzo-n53-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Realme Narzo N53</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-right-device-for-your-gaming-needs/"><u>The Right Device for Your Gaming Needs</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-t2x-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from T2x 5G</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Achieve Order and Efficiency: The Ultimate Strategy for Personal Organization with Trello"
-date: 2025-02-02T18:21:15.165Z
-updated: 2025-02-09T16:31:50.978Z
+date: 2025-02-18T17:25:02.284Z
+updated: 2025-02-19T19:36:19.044Z
 tags:
   - web
 categories:
@@ -28,7 +28,7 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  Some project management apps are indeed complicated—but there are also beautifully simple ones, like Trello.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Trello?
@@ -41,10 +41,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
 4. Trello makes it incredibly easy to collaborate with other people.
 5. It's free as in free forever. Technically, it's a freemium project, with free and subscription tiers, but the free tier does everything you're likely to need for personal projects. In five or six years of using it for dozens of different projects, I've never yet had to move to a paid tier.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  A Few Examples
 
  I'm currently midway through selling one apartment and buying another. One step is shortlisting potential purchases, so I created a Trello project (a "board" in Trello speak) for this.
@@ -52,10 +48,6 @@ Whether it’s moving home, planning a big trip, or working on a career change, 
  Any listings I wanted to view were put in the Wait column. When I had a viewing arranged, I simply dragged it to the Scheduled column. If I eliminated it, then I simply archived it; if it was a contender, I moved it to the Shortlist column. And so on to an accepted offer (which I'll believe when I'm standing in the apartment with the deeds in one hand and the keys in the other, but that's another story!).
 
 ![A Trello board with apartment listings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/new-apartment.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Ben Lovejoy
 
@@ -73,13 +65,13 @@ Ben Lovejoy
 
 Ben Lovejoy
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Trello
 
  I'm illustrating here the web version of Trello, as personally I prefer it, but the desktop and mobile apps work in the same way.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Creating a Board
 
@@ -88,6 +80,10 @@ Ben Lovejoy
  You'll be asked to choose between "Create Board" and "Start With a Template." Personally, I find it easier to use the first option to create something from scratch.
 
  You can choose one of the standard backgrounds—either a color or an image—or "Custom" to upload your own. My personal preference is to have a minimalist but interesting background, so I search for free stock images on [Unsplash](https://unsplash.com) and use one of those.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Creating Lists
 
@@ -102,10 +98,14 @@ Ben Lovejoy
 ![Adding lists to the Trello board.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/lists.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Ben Lovejoy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adding Cards
 
@@ -114,6 +114,10 @@ Ben Lovejoy
 ![Adding cards to each task.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/cards.jpg) 
 
 Ben Lovejoy
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Adding Photos
 
@@ -131,6 +135,10 @@ Ben Lovejoy
 
  If you instead only want a photo to be visible when you open the card, then use the "Attachment" button.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Adding Links
 
  Click the card to open it, and then the "Description" button.
@@ -144,7 +152,7 @@ Ben Lovejoy
  You'll also see here options to link to existing cards.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Adding Checklists
@@ -152,10 +160,6 @@ Ben Lovejoy
  Everything else from this point is added in the same way: Open the card, then choose the option from that right-hand menu we used to add the cover photo. I'll skip the screengrabs, as these would just be the same image.
 
  To add a checklist, simply click the Checklist button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###  Adding Deadlines
 
@@ -169,10 +173,6 @@ Ben Lovejoy
 
 ![Adding color-coding to the Trello board can make it easier to visually track your progress.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/color-coding.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ben Lovejoy
 
  Depending on how you use the feature, you may sometimes want to apply more than one color to a card, and Trello lets you check as many as you like.
@@ -184,7 +184,7 @@ Ben Lovejoy
 Ben Lovejoy
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  Moving Things Around (Lists and Cards)
@@ -216,19 +216,22 @@ Ben Lovejoy
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-effective-ways-to-gain-access-to-cost-free-imagery/"><u>[Updated] 2024 Approved Effective Ways to Gain Access to Cost-Free Imagery</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-effective-naming-adjustments-for-google-meet-users-laptopmobile/"><u>[Updated] Effective Naming Adjustments for Google Meet Users (Laptop/Mobile)</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/can-bikesuv-shift-gears-from-pedal-power-to-replace-your-daily-commute-car-a-closer-look-at-sustainability-on-the-go-innovative-transit-weekly/"><u>Can 'BikeSUV' Shift Gears From Pedal Power to Replace Your Daily Commute Car? A Closer Look at Sustainability on the Go | Innovative Transit Weekly</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/engaging-mobile-adventures-top-apps-similar-to-the-room-and-myst-for-ios-devices/"><u>Engaging Mobile Adventures: Top Apps Similar to The Room & Myst for iOS Devices</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-honor-magic-6-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Honor Magic 6 Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 to an Older Version? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-vivo-y02t-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo Y02T in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-note-13-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi Note 13 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-gmail-password-on-xiaomi-redmi-a2plus-devices-by-drfone-android/"><u>How to Reset Gmail Password on Xiaomi Redmi A2+ Devices</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/retrieve-accidentally-erased-iphone-files-using-stellar-top-tips-and-tricks/"><u>Retrieve Accidentally Erased iPhone Files Using Stellar - Top Tips & Tricks</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/selecting-the-new-language-that-speaks-to-me/"><u>Selecting The New Language That Speaks To Me</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Itel P55+? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-the-full-potential-of-your-device-expert-guide-to-jailbreaking-ios-17/"><u>Unlocking the Full Potential of Your Device: Expert Guide to Jailbreaking iOS 17</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-master-screen-record-on-win-10-for-2024/"><u>[Updated] Master Screen Record on Win 10 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-the-secrets-of-irecorder-for-2024/"><u>[Updated] Unlocking the Secrets of iRecorder for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-systems-for-tracking-human-manoeuvres-for-2024/"><u>Advanced Systems for Tracking Human Manoeuvres for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-is-redefining-work-explore-future-careers-with-novel-titles-yet-to-be-decided/"><u>AI Is Redefining Work: Explore Future Careers With Novel Titles Yet to Be Decided</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-tecno-pova-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Tecno Pova 5 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-strategies-for-protected-email-registration-in-server-environments/"><u>Expert Strategies for Protected Email Registration in Server Environments</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-y100a-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo Y100A in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-oneplus-nord-3-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on OnePlus Nord 3 5G</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12t-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-f5-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco F5 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-redmi-note-12-pro-4g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi Redmi Note 12 Pro 4G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-xiaomi-redmi-note-13-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/trouble-with-rtkvhd64sys-heres-how-you-can-resolve-the-bsod-problem/"><u>Trouble with rtkvhd64.sys? Here's How You Can Resolve the BSOD Problem</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-honor-x50iplus-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Honor X50i+</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/unlocking-exe-files-a-comprehensive-tutorial-for-windows-users-by-yl-software/"><u>Unlocking EXE Files: A Comprehensive Tutorial for Windows Users by YL Software</u></a></li>
 </ul></div>
 

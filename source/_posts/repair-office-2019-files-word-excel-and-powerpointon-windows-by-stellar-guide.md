@@ -1,6 +1,6 @@
 ---
 title: Repair Office 2019 Files (Word, Excel and PowerPoint)on Windows
-date: 2024-09-17T06:46:49.196Z
+date: 2025-02-14T17:02:05.519Z
 tags: 
   - repair
   - repair excel
@@ -18,13 +18,14 @@ If you frequently work with Microsoft Word (.docx), Excel (.xlsx), and PowerPoin
 
 Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 files:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenarios behind Microsoft Office Files Corruption
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Scenario 1 – Disruption during Data Migration
@@ -34,16 +35,7 @@ You decide to move Office files from your hard drive to other removable media. H
 ![](https://www.stellarinfo.com/image/catalog/article/word/Word-displaying-gibberish-characters.png)
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure 1- Microsoft Word file showing garbage characters
@@ -56,16 +48,13 @@ When you open or use the Microsoft Office application, it crashes as soon as it 
 
 Suppose all your Office files are stored on a USB device, and you unplugged the device while it was still open in Windows. Now, when you attempt to open a Word or an Excel file, all the data is gone. Unsafe removal of USB or any other external storage device may corrupt the data inside your Office files or turn the file inaccessible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can You Deal with Microsoft Office Files Corruption?
 
 Here are a few solutions that can help you fix or repair Office 2016 Files Corruption:
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 1 – Use Microsoft in-built Repair Utility
 
@@ -83,14 +72,11 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Open-and-repair.png)
 
-- From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
-
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
 
 ### **Solution 2 – Repair Office 2016 Installation**
 
@@ -122,10 +108,7 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 ![](https://www.stellarinfo.com/image/catalog/article/word/Apps-and-features.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **NOTE:** This step will work for Windows 10/8/8.1/7 and Vista
@@ -140,6 +123,10 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Once the repair process completes, you'll be prompted to restart your PC. Click **Yes**
 
 ### **Solution 3 – Use Stellar Toolkit for File Repair**
@@ -151,13 +138,6 @@ The toolkit helps repair corrupt Office 2016 and other version documents and fil
 - Download and install **Stellar Toolkit for File Repair**.
 
 [![free download](https://www.stellarinfo.com/blog/wp-content/uploads/2021/11/free-download-1-4.png)](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Launch the software.
 - From the software's main interface, select the MS Office file you want to repair.
@@ -172,13 +152,6 @@ Note: If you don't know the exact location of corrupt office files or if they ar
 - Once the scanning process is complete, all the recoverable information is displayed in the software's left-hand panel. Click on any item to preview it before recovery.
 - To save the repaired data, click the Save button, and enter a destination of your choice.
 - Click OK.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -199,5 +172,16 @@ This post outlined possible scenarios and their causes that may lead to corrupti
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-ensuring-visual-presentation-youtube-shorts-thumbnails-fix/"><u>[New] 2024 Approved Ensuring Visual Presentation YouTube Shorts Thumbnails Fix</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-financial-projections-producing-a-music-video/"><u>[Updated] Financial Projections Producing a Music Video</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-2023-how-to-share-a-tiktok-video-on-twitter/"><u>[Updated] In 2024, 2023 | How to Share A Tiktok Video on Twitter?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/budget-friendly-alcatel-joy-tab-2-with-lte-comprehensive-user-review/"><u>Budget-Friendly Alcatel Joy Tab 2 with LTE - Comprehensive User Review</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/gratis-mkv-naar-mjpeg-konverteren-kwaliteit-zeer-goed-voorlopig-gratis/"><u>Gratis MKV Naar MJPEG Konverteren - Kwaliteit Zeer Goed - Voorlopig Gratis!</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-magic-5-lite-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor Magic 5 Lite? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-pro-to-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 Pro To Android devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-plus-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s Plus to other iPhone 12 devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a05-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Samsung Galaxy A05 won’t play MP4 files</u></a></li>
+</ul></div>
 

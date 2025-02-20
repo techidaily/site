@@ -1,7 +1,7 @@
 ---
 title: "Exploring Musical Insights: BCR Guide & Nostalgic Reflections - AABBY's Latest Post"
-date: 2024-09-29T08:43:27.770Z
-updated: 2024-10-06T09:24:11.358Z
+date: 2025-02-13T17:47:10.190Z
+updated: 2025-02-19T23:55:12.909Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/4a7e35e05dbbab3383219ac491b7159c730c023be090a3ce22bfc91cc23bb5f7.jpg
@@ -27,6 +27,10 @@ Once the installation has started, you’ll be asked to input a year. Just a rem
 
 ![iphone shortcuts music](https://static1.abbyy.com/abbyycommedia/26730/shortcut-music-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once that’s done, tap the shortcut you’ve just installed and wait for it to read the data from your music library.
 
 You’ll then be asked if you want a playlist containing your 25 most played tracks to be created. Say “Yes” – it’s a deal you can’t refuse, this playlist should be ideal for you.
@@ -34,6 +38,10 @@ You’ll then be asked if you want a playlist containing your 25 most played tra
 Once the statistics are ready, you have the option to save them as a PDF file in the Files app. Choose “open with Shortcuts” in the next popup (don’t use Safari to open it, our phone froze for a long time after we chose that option), and you’re good! (just like your taste in music 😉)
 
 ![apple music wrapped](https://static1.abbyy.com/abbyycommedia/26731/shortcut-music1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here’s a full list of things you can find out:
 
@@ -49,13 +57,6 @@ To see the statistics for a different year, tap on the three dots next to the sh
 
 ![ios shortscuts](https://static1.abbyy.com/abbyycommedia/26732/shortcut-music-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Android Tip: Spotify Wrapped
 
 There are many music streaming services for Android gadgets, but one of the most popular is Spotify. So let’s do it! Just head [here](https://open.spotify.com/view/2018-page). The "Your Top Songs 2018" playlist should be in Your Library à Made For You. Here you can check how many minutes you’ve streamed last year.
@@ -63,10 +64,7 @@ There are many music streaming services for Android gadgets, but one of the most
 Be sure that you’ve listened to at least 5 different artists, 30 different tracks, and 60 minutes of music before Oct 31, 2018.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY Tip: A Business Card Reader Tutorial
@@ -78,16 +76,7 @@ As promised, here is a small video tutorial that will help you familiarize yours
 **Video #2: Managing Information**
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## App of the Week: Pacman
@@ -99,10 +88,7 @@ Any person that is even remotely aware of popular culture must have seen this bi
 ![pacman on iphone nostalgy](https://static1.abbyy.com/abbyycommedia/26733/pacman.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If none of this rings any bells at all, you need to download this cult 20th-century video game ASAP.
@@ -179,19 +165,18 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-top-5-ios-platforms-for-experiencing-classic-psp-games-for-2024/"><u>[New] Top 5 iOS Platforms for Experiencing Classic PSP Games for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-a-step-by-step-tutorial-to-monitor-popular-interactions-on-youtube/"><u>[Updated] In 2024, A Step-by-Step Tutorial to Monitor Popular Interactions on YouTube</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Infinix Note 30 5G | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-vivo-x90s-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Vivo X90S Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-oneplus-ace-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For OnePlus Ace 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-find-n3-flip-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Find N3 Flip | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-90-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor 90 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 Pro to other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lenovo-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Lenovo Phone Pattern Lock without Factory Reset</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Oppo Find X6 | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-sony-w800-durability-and-budget-fit/"><u>In-Depth Analysis: Sony W800 Durability & Budget Fit</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-reno-9a-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Reno 9A</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Tecno Spark Go (2024)? | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/why-advancing-ai-intensifies-our-digital-threats/"><u>Why Advancing AI Intensifies Our Digital Threats</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-step-by-step-guide-to-annotate-windows-photos-video-content/"><u>[Updated] Step-by-Step Guide to Annotate Windows Photos Video Content</u></a></li>
+<li><a href="https://techidaily.com/1722973466101-download-and-install-sony-vaio-drivers-on-your-windows-pc/"><u>Download & Install Sony Vaio Drivers on Your Windows PC</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-your-career-with-facebooks-business-tools/"><u>Elevate Your Career with Facebook's Business Tools</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ensuring-employee-data-security-with-chatgpt/"><u>Ensuring Employee Data Security with ChatGPT</u></a></li>
+<li><a href="https://techidaily.com/get-the-newest-amd-radeon-hd-graphics-driver-for-your-windows-7-system-here/"><u>Get the Newest AMD Radeon HD Graphics Driver for Your Windows 7 System Here</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-this-startup-from-finland-is-outdoing-apples-vision-pro-with-a-business-centric-vr-solution-insights-from-zdnet/"><u>How This Startup From Finland Is Outdoing Apple's Vision Pro with a Business-Centric VR Solution - Insights From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xr-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XR to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prime-android-space-savers-compendium/"><u>In 2024, Prime Android Space-Savers Compendium</u></a></li>
+<li><a href="https://techidaily.com/in-depth-evaluation-of-the-powerful-and-versatile-dell-xps-13-2-in-1-laptop/"><u>In-Depth Evaluation of the Powerful and Versatile Dell XPS 13 2-in-1 Laptop</u></a></li>
+<li><a href="https://techidaily.com/ipados-version-18-arrives-all-you-need-to-know-about-its-release-date-pricing-free-and-latest-improvements/"><u>IPadOS Version 18 Arrives: All You Need to Know About Its Release Date, Pricing (Free), and Latest Improvements</u></a></li>
+<li><a href="https://techidaily.com/logitech-c615-swift-solutions-to-your-mouse-driver-issues-unveiled/"><u>Logitech C615: Swift Solutions to Your Mouse Driver Issues Unveiled</u></a></li>
+<li><a href="https://techidaily.com/secure-your-free-amd-gpio-driver-start-now/"><u>Secure Your Free AMD GPIO Driver - Start Now</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/xml-demystified-unlocking-fcpxs-full-potential-for-2024/"><u>XML Demystified Unlocking FCPXs Full Potential for 2024</u></a></li>
 </ul></div>
 

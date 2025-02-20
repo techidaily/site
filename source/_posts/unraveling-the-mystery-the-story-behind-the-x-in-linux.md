@@ -1,7 +1,7 @@
 ---
 title: "Unraveling the Mystery: The Story Behind the 'X' In Linux"
-date: 2025-02-06T17:10:41.676Z
-updated: 2025-02-09T23:48:01.473Z
+date: 2025-02-17T18:06:03.124Z
+updated: 2025-02-19T22:15:21.435Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 ---
 
 ## Unraveling the Mystery: The Story Behind the 'X' In Linux
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,10 +26,6 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 * Linus Torvalds originally wanted Linux to be called Freax. He thought Linux was "too egotistical."
 
  Everyone knows Linus Torvalds developed Linux, and it’s plain to see that Linux is Linus with the S replaced with an X. But why an X, and who actually chose that name?
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Before the X, There Was CS
 
@@ -57,12 +49,16 @@ thumbnail: https://thmb.techidaily.com/571a13bc6404d66e8575f828248d5c770574159f8
 
 ![The Multics operating system running in a hardware simulator on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Dave McKay/How-To Geek
 
  Unix, of course, went on to [change the world](https://visual-screen-recording.techidaily.com/updated-2024-approved-free-software-leaders-in-chromebook-screen-recording/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  MINIX, the Unix Mini-Me
@@ -83,11 +79,11 @@ Dave McKay/How-To Geek
 
 ![MINIX running in a virtual computer on a modern PC](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/2-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Dave McKay/How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Linus Torvalds and Freax
 
@@ -100,6 +96,10 @@ Dave McKay/How-To Geek
  So, in his head, he called it Linux, and in the make scripts he called it Freax. He also acknowledges that the X is a requisite. He’s clear on that, but not on what to call his operating system.
 
  It was someone else who made the choice for him, forcing him to drop the duality of his naming scheme.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Your System Administrator Knows Best
 
@@ -118,7 +118,7 @@ Dave McKay/How-To Geek
  GNU had the opposite problem. They had all the core Unix-like utilities, but no kernel. GNU advocates say we should call Linux GNU/Linux to acknowledge the massive contribution GNU makes to Linux. They do have a point, but I think that ship’s sailed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What’s in a Name?
@@ -142,22 +142,24 @@ Dave McKay/How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-becoming-a-reaction-guru-a-complete-guidebook/"><u>[New] 2024 Approved Becoming a Reaction Guru A Complete Guidebook</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturing-screens-a-laptops-webcam-journey/"><u>[New] 2024 Approved Capturing Screens A Laptop's Webcam Journey</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-quick-guide-to-crafting-realistic-motion-blur-effect-in-ps/"><u>[New] 2024 Approved Quick Guide to Crafting Realistic Motion Blur Effect in PS</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-navigating-video-production-with-captivate/"><u>[Updated] Navigating Video Production with Captivate</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-complete-examination-unboxing-logitechs-ultimate-4k-webcam/"><u>2024 Approved Complete Examination Unboxing Logitech’s Ultimate 4K Webcam</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-docx-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How do i sign a .docx file electronically</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-pova-5-pro-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Pova 5 Pro If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-6-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 6 Plus System? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Others ios devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 14 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/overcoming-4-frequent-gpu-issues-efficiently/"><u>Overcoming 4 Frequent GPU Issues Efficiently</u></a></li>
-<li><a href="https://review-topics.techidaily.com/reinstall-drivers-with-device-manager-in-windows-11-and-10-by-drivereasy-guide/"><u>Reinstall drivers with Device Manager in Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m34-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M34 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/the-puzzling-reasons-behind-customer-exit-from-onboarding-experiences/"><u>The Puzzling Reasons Behind Customer Exit From Onboarding Experiences</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-itel-a60s-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Itel A60s</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-motorola-moto-g24-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Motorola Moto G24 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-maximize-impact-priority-list-of-highlight-tweaks/"><u>[New] 2024 Approved Maximize Impact Priority List of Highlight Tweaks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-tips-and-tricks-to-help-you-change-color-like-a-pro/"><u>[New] 2024 Approved Tips and Tricks to Help You Change Color Like A Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/"><u>[New] Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-serene-soundtracks-copyright-free-legal-meditation-music/"><u>[Updated] 2024 Approved Serene Soundtracks – Copyright-Free, Legal Meditation Music</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hack-fast-drivers-on-windows-workaround/"><u>Hack Fast: Drivers on Windows Workaround</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-g42-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia G42 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-htc-u23-pro-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset HTC U23 Pro in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-move-custom-ringtones-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-from-ios/"><u>How to Move Custom Ringtones from Apple iPhone 6 to Android? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-tecno-camon-20-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Camon 20 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-14-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 14 to Android/iOS? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-realme-gt-neo-5-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Realme GT Neo 5</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solving-installer-problems-on-microsoft-store/"><u>Solving Installer Problems on Microsoft Store</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/techniques-for-saving-teams-meetings-desktopmobile/"><u>Techniques for Saving Teams Meetings (Desktop/Mobile)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-future-of-home-entertainment-tv-or-projection-for-4k-for-2024/"><u>The Future of Home Entertainment TV or Projection for 4K for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ltimate-palette-of-creative-ideas-from-6-graphic-websites-for-2024/"><u>The Ultimate Palette of Creative Ideas From 6 Graphic Websites for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-itel-p55plus-by-fonelab-android-recover-data/"><u>The way to get back lost data from Itel P55+</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-huawei-p60-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Huawei P60</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-poco-x6-pro-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Poco X6 Pro.</u></a></li>
 </ul></div>
 

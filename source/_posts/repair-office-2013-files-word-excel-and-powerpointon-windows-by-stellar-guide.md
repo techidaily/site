@@ -1,6 +1,6 @@
 ---
 title: Repair Office 2013 Files (Word, Excel and PowerPoint)on Windows
-date: 2024-09-21T14:08:06.370Z
+date: 2025-02-14T18:07:03.842Z
 tags: 
   - repair
   - repair excel
@@ -20,13 +20,6 @@ Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 f
 
 ## Scenarios behind Microsoft Office Files Corruption
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Scenario 1 – Disruption during Data Migration
 
 You decide to move Office files from your hard drive to other removable media. However, when you try to access the data within the files post-migration, you may find Word, Excel, and PowerPoint files showing gibberish characters. Due to a power surge, sudden system shutdown, and internal mechanical failure, the files may have turned corrupt.
@@ -34,13 +27,14 @@ You decide to move Office files from your hard drive to other removable media. H
 ![](https://www.stellarinfo.com/image/catalog/article/word/Word-displaying-gibberish-characters.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Figure 1- Microsoft Word file showing garbage characters
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scenario 2 – Office Files and Registry Entries Become Infected
 
@@ -72,6 +66,10 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 
 - From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Solution 2 – Repair Office 2016 Installation**
 
 Try repairing the Office installation to fix the MS Office files. The steps to repair your Office installation may vary depending on the operating system you are using.
@@ -84,10 +82,7 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 ![](https://www.stellarinfo.com/image/catalog/article/word/ControlPanel-Programs.png)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Click **Programs and Features,** and then click **Uninstall a program** option
@@ -102,13 +97,6 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **For Windows 10**
 
 - Right-click the Start button, and type in **Apps & Features** (For Windows 10)
@@ -116,10 +104,7 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 ![](https://www.stellarinfo.com/image/catalog/article/word/Apps-and-features.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **NOTE:** This step will work for Windows 10/8/8.1/7 and Vista
@@ -135,13 +120,14 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Once the repair process completes, you'll be prompted to restart your PC. Click **Yes**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 3 – Use Stellar Toolkit for File Repair**
 
@@ -157,13 +143,6 @@ The toolkit helps repair corrupt Office 2016 and other version documents and fil
 - From the software's main interface, select the MS Office file you want to repair.
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Stellar-toolkit-for-file-repair-main-interface.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - From the window that pops up, select the corrupted file to be repaired.
 
@@ -193,5 +172,22 @@ This post outlined possible scenarios and their causes that may lead to corrupti
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-streamers-toolkit-beyond-streamlabs-obs/"><u>[Updated] Streamer's Toolkit Beyond Streamlabs OBS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-ultimate-insiders-guide-to-instagram-stories-magic-for-2024/"><u>[Updated] The Ultimate Insider's Guide to Instagram Stories Magic for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/can-ai-assist-in-creating-personalized-fitness-programs-safely-through-chatgpt/"><u>Can AI Assist in Creating Personalized Fitness Programs Safely Through ChatGPT?</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/erfolgreiches-bildwiedergabeverfahren-fur-polaroid-fotokameras-ruckgewinnungstechniken-erklart/"><u>Erfolgreiches Bildwiedergabeverfahren Für Polaroid-Fotokameras - Rückgewinnungstechniken Erklärt</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-repairing-problematic-audio-drivers-on-dell-computers-with-windows-7-os/"><u>Guide: Repairing Problematic Audio Drivers on Dell Computers with Windows 7 OS</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/how-does-apple-playfully-ridicule-windows-laptops-spotting-the-subject-of-their-humor/"><u>How Does Apple Playfully Ridicule Windows Laptops? Spotting the Subject of Their Humor.</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-7-plus-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 7 Plus without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/safe-techniques-for-extracting-and-converting-youtube-audio-into-mp3/"><u>Safe Techniques for Extracting and Converting YouTube Audio Into MP3</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-implemented-restoring-volume-in-google-chrome/"><u>Solution Implemented: Restoring Volume in Google Chrome</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-motorola-g54-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Motorola G54 5G.</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-m6-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from M6 5G</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-magic5-ultimate-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://techidaily.com/unlock-a-disable-iphone-11-pro-using-icloud-website-by-drfone-ios-unlock-ios-unlock/"><u>Unlock a disable iPhone 11 Pro using icloud website</u></a></li>
+</ul></div>
 

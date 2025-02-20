@@ -1,7 +1,7 @@
 ---
 title: "Understanding Crypto Mining: A Comprehensive Guide on Its Functionality"
-date: 2025-01-21T18:14:34.835Z
-updated: 2025-01-29T11:28:27.708Z
+date: 2025-02-18T18:39:04.819Z
+updated: 2025-02-19T18:22:38.015Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
 ---
 
 ## Understanding Crypto Mining: A Comprehensive Guide on Its Functionality
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -25,7 +21,7 @@ thumbnail: https://thmb.techidaily.com/7bf0c9e29156640dd61afa2a1c3ac131876c62be4
  With the cryptocurrency craze in full swing, you can't avoid hearing about the people mining these digital currencies---and [destabilizing the graphics processor market](https://extra-resources.techidaily.com/strategic-wordplay-crafting-engaging-blurbs/). Here's what "crypto mining" actually is.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is Crypto Mining?
@@ -45,7 +41,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  In this metaphor, each link is a block, and each block contains a set amount of cryptocurrency. For example, one block [has 6.25 Bitcoin in it](https://coinmarketcap.com/alexandria/article/how-long-does-it-take-to-mine-one-bitcoin). To unlock a new block you need to solve a complicated mathematical equation, which validates the block and adds it to the chain. Also, because the blocks are chained in a linear fashion, you have to go from one to the next, you can't pick one at random.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  The Ledger
@@ -62,6 +58,10 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
  However, hashes are, by their very nature, incredibly complicated puzzles to solve. The phone or laptop you're most likely reading this article on would probably take millions of years to solve one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  DIY Supercomputers
 
  Of course, if you don't have a supercomputer, you can always build one. Plenty of people interested in making money from cryptocurrency---Bitcoin in particular---have started doing so, often by connecting several devices to each other to create powerful networks that can combine and amplify the processing power of each individual device.
@@ -75,7 +75,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  As a result, the market for GPUs was practically destroyed, with these groups buying all the units they could get their hands on---even [stealing them](https://fortune.com/2021/11/09/thieves-steal-nvidia-graphics-cards/) in some cases---and making it so regular consumers had to pay [massive prices](https://www.nme.com/news/gaming-news/700000-graphics-cards-were-bought-by-crypto-miners-in-early-2021-alone-2973241) even for badly outdated models. Though, as of late 2021, this arms race is quieting down thanks to a number of factors (including a [crackdown on miners](https://edition.cnn.com/2021/11/16/investing/bitcoin-china-crypto-mining-crackdown-intl-hnk/index.html) by China), the GPU market has yet to recover.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Mined vs. Non-Mined Cryptocurrencies
@@ -85,7 +85,7 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
  The more you claim, the bigger the chances you'll be awarded blocks. It's a complicated system, even more so than mining, but it could very well be the future of cryptocurrency.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Future of Mining
@@ -109,22 +109,18 @@ Related: [What Is a "Blockchain"?](https://facebook-videos.techidaily.com/update
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-prime-meme-framework-essentials/"><u>[New] In 2024, Prime Meme Framework Essentials</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-reloading-the-dead-ranking-eminent-zombie-games/"><u>[New] Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-a-360-degree-view-transformative-media-experience/"><u>[Updated] In 2024, A 360-Degree View Transformative Media Experience</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-honor-magic-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Honor Magic 5 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-realme-c55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme C55 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/boost-efficiency-on-your-iphone-explore-the-10-must-use-keyboard-functions-for-power-users/"><u>Boost Efficiency on Your iPhone: Explore the 10 Must-Use Keyboard Functions for Power Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/chilly-champs-beijings-best-of-the-2022-games/"><u>Chilly Champs Beijing's Best of the 2022 Games</u></a></li>
-<li><a href="https://driver-install.techidaily.com/download-and-install-new-gtx-firmware/"><u>Download & Install New GTX Firmware</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-7-devices-entirely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 7 Devices Entirely | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-v29-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo V29 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-nokia-g22-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Nokia G22 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-tecno-camon-20-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Tecno Camon 20 on Windows</u></a></li>
-<li><a href="https://techidaily.com/samsung-galaxy-s23-fe-messages-recovery-recover-deleted-messages-from-samsung-galaxy-s23-fe-by-fonelab-android-recover-messages/"><u>Samsung Galaxy S23 FE Messages Recovery - Recover Deleted Messages from Samsung Galaxy S23 FE</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/streamlining-and-modernizing-clipboard-memory-usage-in-windows-11/"><u>Streamlining and Modernizing Clipboard Memory Usage in Windows 11</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/streamlining-video-uploads-to-youtube-a-step-by-step-process-for-optimizing-and-sharing-quicktime-files/"><u>Streamlining Video Uploads to YouTube: A Step-by-Step Process for Optimizing and Sharing QuickTime Files</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-data/"><u>The way to get back lost data from Infinix Note 30 VIP Racing Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-to-iphone-1616-pro-case-selection-expert-ratings-and-reviews/"><u>Ultimate Guide to iPhone 16/16 Pro Case Selection: Expert Ratings and Reviews</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-quick-steps-to-capture-ios-audio-files/"><u>[Updated] Quick Steps to Capture iOS Audio Files</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-c55-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme C55 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/converter-livre-online-transforme-imagens-jpeg-em-png-gratuito-com-o-movavi/"><u>Converter Livre Online: Transforme Imagens JPEG Em PNG Gratuito Com O Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/gmail-not-working-on-infinix-note-30-pro-7-common-problems-and-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Gmail Not Working on Infinix Note 30 Pro 7 Common Problems & Fixes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pearlescent-pictures-brighten-with-android/"><u>In 2024, Pearlescent Pictures Brighten with Android</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-13-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi 13 Ultra Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://common-error.techidaily.com/renderer-initialization-error-solutions-patch-of-2021/"><u>Renderer Initialization Error Solutions - Patch of 2021</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/save-big-purchase-macx-dvd-ripper-pro-at-a-discounted-price-buy-now/"><u>Save Big: Purchase MacX DVD Ripper Pro at a Discounted Price - Buy Now!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/uncovering-brightness-from-black-on-lenovo/"><u>Uncovering Brightness From Black on Lenovo</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-galaxy-a05-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung Galaxy A05.</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-a15-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy A15 5G ?</u></a></li>
 </ul></div>
 

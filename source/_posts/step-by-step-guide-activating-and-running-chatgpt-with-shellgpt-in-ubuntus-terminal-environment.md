@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment"
-date: 2025-01-23T14:44:59.393Z
-updated: 2025-01-29T00:15:25.404Z
+date: 2025-02-17T21:37:25.834Z
+updated: 2025-02-19T23:46:33.681Z
 tags:
   - cutting-edge
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 ---
 
 ## Step-by-Step Guide: Activating and Running ChatGPT with ShellGPT in Ubuntu's Terminal Environment
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/01edaba53137429381532b08b94562d4a741359e1
 * [Step 6: Use ShellGPT](https://extra-guidance.techidaily.com/in-2024-mastering-motion-effects-in-ai-enhancing-photoshop-images/)
 * [Learning ShellGPT Commands](https://remote-screen-capture.techidaily.com/updated-2024-approved-maximizing-play-in-apex-legends-without-cross-platform-limitations/)
 * ["In Conclusion"](https://tech-revival.techidaily.com/elevate-your-coding-game-with-costless-gpt-4-turbo-on-copilot-platforms/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -52,7 +44,7 @@ Related: [How to Run a ChatGPT-like AI on Your Own PC](https://tech-revival.tech
  None of the following steps are difficult, and you should be up and running in ten minutes or so.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Step 1: Install the Python Tools
@@ -73,6 +65,10 @@ pip --version
 
 ![Checking the version of pip in a terminal window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/2-6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It wasn't installed on our test computer, so we added it using `apt`.
 
 sudo apt install python3-pip
@@ -86,10 +82,6 @@ sudo apt install python3-pip
 sudo apt install python3-venv
 
 ![Installing the Python virtual environment module on Ubuntu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/4-4.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Step 2: Prepare a Python Virtual Environment
 
@@ -107,11 +99,19 @@ python3 -m venv shellgpt
 
 ![Generating the shellgpt virtual environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/6-4.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This gives us a private, virtual environment called "shellgpt", inside our "shellgpt" directory. To activate it we need to run a script called "activate." This is located in the "bin" directory of our virtual environment.
 
 source shellgpt/bin/activate
 
 ![Activating the Python shellgpt virtual environment](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/7-4.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note the "(shellgpt)" in front of the command prompt.
 
@@ -125,10 +125,6 @@ source shellgpt/bin/activate
 
 ![The ChatGPT account menu with the "View API Keys" option highlighted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/7a.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  On the API keys web page, click the "Create New Secret Key" button.
 
 ![The ChatGPT "Create new secret key" button](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/8-6.png) 
@@ -137,7 +133,15 @@ source shellgpt/bin/activate
 
 ![providing a name for the API key, with the "Create secret key" button highlghited](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/9-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your new key is displayed to you. **You only get to see your key this one time**. If you log out and back in, you'll see an entry for the key, but you won't be able to view the entire key string. So, copy the key and paste it into an editor, and save the file with an obvious name.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 4: Export the API Key
 
@@ -149,25 +153,21 @@ export OPENAI_API_KEY=<your secret API key>
 
 ![Exporting the ChatGPT API key on the command line](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/10-4.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To put the export command in your ".bashrc" file, use your favorite editor and add the command to your file.
 
 gedit ~/.bashrc
 
 ![Adding the export ChatGPT line to the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/11-3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Save your changes and close the editor. To force your terminal session to reread your ".bashrc" file, use the `source` command.
 
  source \~/.bashrc
 
 ![Using source to force the shell to read the .bashrc file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/12-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Step 5: Install ShellGPT
 
@@ -181,6 +181,10 @@ python pip shell-gpt
 
 ![Output during the installation of the shell-gpt module](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/14-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When it's finished we can, finally, use ShellGPT to access ChatGPT.
 
 ##  Step 6: Use ShellGPT
@@ -190,10 +194,6 @@ python pip shell-gpt
 sgpt "Who is Thursday named after?"
 
 ![Using the sgpt command to send input to ChatGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/16-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  ShellGPT acts as the middleman between us and ChatGPT, and displays the response from ChatGPT.
 
@@ -220,7 +220,7 @@ chatgpt
 ![Using the chatgpt alias to access ShellGPT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/19-2.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Learning ShellGPT Commands
@@ -233,10 +233,6 @@ sgpt "Show me an example of a recursive function in C"
 
 ![Using ChatGPT to generate a recursive function in C](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/20-2.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  By adding the `--code` option, the description is suppressed. This would be handy if you want to redirect the output into a file.
 
 sgpt --code "Show me an example of a recursive function in C"
@@ -244,6 +240,10 @@ sgpt --code "Show me an example of a recursive function in C"
 ![Using ChatGPT to generate a recursive function in C, with the --code option so only the function code is displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/04/21-2.png) 
 
  ShellGPT, through ChatGPT, can also generate [syntax-correct Bash commands and shell scripts](https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  "In Conclusion"
 
@@ -268,16 +268,24 @@ sgpt --code "Show me an example of a recursive function in C"
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-master-image-editing-with-these-top-8-tablets-beyond-filmoras-reach/"><u>[New] In 2024, Master Image Editing with These Top 8 Tablets Beyond Filmora's Reach</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-the-ultimate-guide-to-vivacut-a-detailed-2024-review/"><u>[New] The Ultimate Guide to VivaCut A Detailed 2024 Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-transform-tweets-converting-video-to-gifs-at-no-cost/"><u>[New] Transform Tweets Converting Video to GIFs at No Cost</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/effortless-connectivity-techkey-bluetooth-adapter-drivers-for-windows-10-7-and-8-free-downloads-available/"><u>Effortless Connectivity: Techkey Bluetooth Adapter Drivers for Windows 10, 7 & 8 – Free Downloads Available</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-htc-u23-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your HTC U23 | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-realme-c67-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Realme C67 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-15-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 15 Plus? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-7-plus-system-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 7 Plus System? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-y27-4g-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Vivo Y27 4G</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-pursuit-of-perfection-does-picku-outshine-other-android-tools/"><u>In Pursuit of Perfection Does PickU Outshine Other Android Tools?</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-zte-blade-a73-5g-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of ZTE Blade A73 5G on Mac?</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-stream-undoing-simplified-15-actionable-insights-to-retrace-your-broadcast-trail/"><u>[New] 2024 Approved Stream Undoing Simplified 15 Actionable Insights to Retrace Your Broadcast Trail</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-cutting-edge-practices-for-subtle-audio-reduction-on-lumafusion/"><u>[Updated] In 2024, Cutting-Edge Practices for Subtle Audio Reduction on Lumafusion</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-sparking-viewers-interest-top-youtube-themes-for-channels/"><u>2024 Approved Sparking Viewers' Interest Top YouTube Themes for Channels</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-demise-laptops-last-stand/"><u>Display Demise: Laptop's Last Stand</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-oppo-a1-5g-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Oppo A1 5G Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-12-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/macbook-showdown-unveiling-key-differences-between-macbook-pro-and-macbook-air-to-find-your-perfect-match-expert-advice/"><u>MacBook Showdown: Unveiling Key Differences Between MacBook Pro & MacBook Air to Find Your Perfect Match - Expert Advice</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quora-poe-your-key-to-ai-tech-integration/"><u>Quora POE: Your Key to AI Tech Integration</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-nokia-c32-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-xiaomi-mix-fold-3-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Xiaomi Mix Fold 3 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/tips-for-speeding-up-your-tiktok-videos-for-2024/"><u>Tips for Speeding Up Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-10-elite-1080p-gaming-displays/"><u>Top 10 Elite 1080P Gaming Displays</u></a></li>
+<li><a href="https://apple-account.techidaily.com/turning-off-two-factor-authentication-from-iphone-8-plus-5-tips-you-must-know-by-drfone-ios/"><u>Turning Off Two Factor Authentication From iPhone 8 Plus? 5 Tips You Must Know</u></a></li>
+<li><a href="https://techidaily.com/unlock-locked-iphone-13-mini-without-passcode-or-face-id-by-drfone-ios-unlock-ios-unlock/"><u>Unlock locked iPhone 13 mini without Passcode or Face ID</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-hardware-drivers-in-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated hardware drivers in Windows 11/10/7</u></a></li>
+<li><a href="https://extra-information.techidaily.com/what-are-the-best-sites-to-download-google-pixel-ringtones/"><u>What Are the Best Sites to Download Google Pixel Ringtones</u></a></li>
+<li><a href="https://techidaily.com/why-stellar-data-recovery-for-iphone-11-pro-takes-time-in-scanning-my-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Why Stellar Data Recovery for iPhone 11 Pro takes time in scanning my iPhone? | Stellar</u></a></li>
 </ul></div>
 

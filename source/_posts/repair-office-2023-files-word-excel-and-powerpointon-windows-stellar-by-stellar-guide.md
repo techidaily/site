@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2023 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-23T12:01:55.773Z
-updated: 2024-09-24T01:44:18.475Z
+date: 2025-02-18T18:03:06.183Z
+updated: 2025-02-19T23:41:40.546Z
 tags: 
   - repair
   - repair excel
@@ -31,22 +31,13 @@ You decide to move Office files from your hard drive to other removable media. H
 
 Figure 1- Microsoft Word file showing garbage characters
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Scenario 2 – Office Files and Registry Entries Become Infected
 
 When you open or use the Microsoft Office application, it crashes as soon as it opens. You assume that an add-in was causing the problem and restart the Office application without add-ins loaded, but the application still crashes. This may happen because of a virus infecting the Office files and registry values, thus leading to corrupt or damaged Office files.
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Scenario 3 – Inaccessible or Lost Data**
 
@@ -147,13 +138,6 @@ This post outlined possible scenarios and their causes that may lead to corrupti
 
 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Repair Corrupt Excel Workbook?
 
 **Summary:** Corruption in an Excel workbook could lead to data loss. This blog outlines the possible reasons behind corrupted workbook and describes how to repair the workbook manually and using an Excel repair tool.
@@ -177,6 +161,10 @@ In any of these situations, you won?t be able to open your Excel workbook.
 You will need to repair the corrupted Excel workbook to make it usable. Before discussing the repair methods, let?s first look at the possible reasons behind file corruption.
 
 **To jump to methods to repair the workbook, [click here](https://www.stellarinfo.com/blog/repair-a-corrupted-workbook/#_Methods_to_Repair).**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Possible Reasons behind Corrupted Excel Workbook**
 
@@ -298,6 +286,10 @@ Stellar Repair for Excel Stellar Repair for Excel is the best choice for repairi
 
 ## How Can I Recover Corrupted Excel File 2016?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Error Messages Indicating Corruption in Excel File
 
 - When an Excel 2016 file turns corrupt, you’ll receive an error message that reads: **“[The file is corrupt and cannot be opened](https://www.stellarinfo.com/blog/file-is-corrupted-and-cannot-be-opened-excel-2010/).”**
@@ -366,13 +358,6 @@ Saving an Excel file in SYLK format might help you filter out corrupted elements
 
 ![Workbooks contain multiple sheets warning msg](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Workbooks-contain-multiple-sheets-warning-msg-img6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **Yes** when the warning message appears - “Some features in your workbook might be lost if you save it as SYLK (Symbolic Link)”.
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-message-img7.png)  
@@ -440,13 +425,6 @@ If you only need to extract Excel file data without formulas or calculated value
 
 ![new excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/new-excel-workbook-img14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - In the new Excel workbook, type “=CorruptExcelFile Name!A1” in cell A1 to reference cell A1 of the corrupted file. Replace the ‘CorruptExcelFile Name’ with the name of the corrupt file that you have copied above. Hit **ENTER**.
 - If ‘Update Values’ dialog box appears, select the corrupt 2016 Excel file, and then click **OK**.
 - If ‘Select Sheet’ dialog box pops-up, select a corrupt sheet, and press the **OK** button.
@@ -494,13 +472,6 @@ Similar to any other program, you may experience problems with Microsoft Excel w
 
 But if Excel doesn’t respond after a while and remains stuck, you need to force close the program from “**Task Manager**”. Now, this could be disastrous if happens while you are working on an important Excel document that took you hours to prepare. Force closing Excel due to such error can damage the Excel document and it may fail to open next time.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Why Excel is Not Responding?**
 
 Excel may stop responding, freeze, or crash suddenly due to several reasons. It can happen while saving a spreadsheet or opening an Excel document. It may also occur while editing or inserting images, graphs, etc. But usually, it occurs when the system crashes or shuts down abruptly while you are working on a document. Here’s an instance,
@@ -508,6 +479,10 @@ Excel may stop responding, freeze, or crash suddenly due to several reasons. It 
 _Suppose, you worked overnight on a critical document which is to be presented at a meeting the next day. This Excel spreadsheet includes critical graphs and charts, and much more. When you are about to save it, there is a power failure, and your system shuts down without warning. When the power is up, you restarted the system to check your Excel. To your dismay, a message pops up – “Excel Crashed” or “Microsoft Excel not responding”._
 
 This could be frustrating. However, there is no need to despair as there are solutions to not just overcome this error but other corresponding issues such as Excel freezing, hanging, crashing, etc. Below is an infographic that quickly briefs all the possible solutions to fix Excel not responding error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Solutions to Fix ‘Microsoft Excel is not responding’ Error**
 
@@ -522,6 +497,10 @@ In Safe Mode, Excel starts with only essential services, bypasses certain functi
 - Press **Windows + R** keys, type **excel.exe /safe and press ‘Enter’ or click ‘OK’**
 
 ![MS Excel in Safe Mode](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2017/02/Excel-safe-mode-1024x523.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 MS Excel in Safe Mode
 
@@ -568,19 +547,6 @@ Enable Automatic Windows updates
 - Click **Advanced options** and enable all the toggle switches to automatically download and install updates for Windows and other Microsoft products
 
 ![Update Microsoft Products](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/04/upload-WIndows-Products-1024x796.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Update Microsoft Products
 
@@ -660,10 +626,18 @@ In several situations, a corrupt or partially damaged Excel (XLS/XLSX) file is t
 
 ![Stellar Excel repair software](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/04/Stellar-Excel-repair-software-1024x576.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click ‘**Repair’** to start repairing the damaged Excel file
 - After file repair, it provides a preview. Check your file
 
 ![Excel file repaired](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/04/Excel-repair-software-to-fix-Excel-errors-1024x576.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Then click the ‘**Save File**’ option in the main menu
 - You can either choose default location or browse a new folder location to save the repaired Excel file
@@ -687,13 +661,6 @@ For this purpose, it’s recommended to use a reliable software such as _Stellar
 The software recovers table, chart, chart sheet, cell comment, number, text, shared formulas, image, formula, sort and filter, and other objects. It also preserves worksheet properties, layout, and cell formatting. It can repair multiple XLS/XLSX files simultaneously and fix all [Excel file corruption](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) errors.
 
 All these features extend the software capabilities beyond just fixing the ‘Excel not responding’ error.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fixed "Cannot Insert Object" Error in Excel | Step-by-Step Guide
 
@@ -730,13 +697,6 @@ Excel provides security settings to protect your workbook. Sometimes, these sett
 - In **Excel Options**, click **Trust Center**.
 
 ![Trust Center In Excel Options](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/trust-center-in-excel-options.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Click **Trust Center Settings**.
 - In the **Trust Center Settings** window, select **Protected View** from the left pane.
@@ -813,9 +773,17 @@ The “Cannot insert object” error can occur if the object you are trying to i
 
 ![Click Close Option In Repair Message](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/07/click-close-option-in-repair-message.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click **Close**.
 
 If the [Open and Repair utility fails](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to fix the issue, then try a professional Excel Repair software, like Stellar Repair for Excel. It is designed to repair severely corrupted Excel files. It can restore all the Excel file objects, such as tables, charts, formulas, etc. It helps fix all types of corruption related errors. The software is compatible with all versions of Excel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -893,6 +861,10 @@ You may also encounter the “A PivotTable Report cannot Overlap” error if the
 
 If the “Open and Repair” utility fails to fix the issue, then it means there is high level of corruption in the Excel file. To tackle this, you can take the help of a professional Excel file repair tool, such as Stellar Repair for Excel. The tool can easily repair severely corrupted Excel file and recover all the objects of the file, such as pivot tables, macros, charts, etc. with 100% integrity. You can download the free trial version of the tool to check its functionality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Conclusion**
 
 In this article, we have discussed the possible reasons behind the “PivotTable Report cannot overlap” error in Excel. You can follow the methods mentioned above to fix the issue. The error may also occur if the Excel file gets corrupted. In this case, you can try repairing the corrupted Excel file using the Open and Repair utility or consider using [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/). The tool makes the process of repairing the Excel file smooth and quick.
@@ -910,5 +882,18 @@ In this article, we have discussed the possible reasons behind the “PivotTable
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-how-to-do-screen-recording-on-iphone-easily/"><u>[Updated] How to Do Screen Recording on Iphone Easily?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-virtual-reality-in-engineering-and-business-applications/"><u>[Updated] Virtual Reality in Engineering and Business Applications</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-realme-c51-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Realme C51 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/creative-tims-elite-argon-theme-a-premier-bootstrap-5-administrator-interface/"><u>Creative Tim's Elite Argon Theme: A Premier Bootstrap 5 Administrator Interface</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-sns-hdr-pro-review-is-it-worth-using-and-what-other-hdr-software-to-u/"><u>In 2024, SNS HDR Pro Review Is It Worth Using and What Other HDR Software to U</u></a></li>
+<li><a href="https://video-capture.techidaily.com/mastering-the-art-of-speech-to-text-with-google-ai/"><u>Mastering the Art of Speech-to-Text with Google AI</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-13-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 13 Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-a60s-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from A60s</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-moto-g-stylus-5g-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Moto G Stylus 5G (2023)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-vivo-y02t-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Vivo Y02T Phones</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-14-pro-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Xiaomi 14 Pro won’t play MKV movies</u></a></li>
+</ul></div>
 

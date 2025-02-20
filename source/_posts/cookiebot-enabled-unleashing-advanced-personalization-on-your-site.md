@@ -1,7 +1,7 @@
 ---
 title: "Cookiebot-Enabled: Unleashing Advanced Personalization on Your Site"
-date: 2024-10-27T22:16:11.793Z
-updated: 2024-11-04T06:12:39.267Z
+date: 2025-02-16T01:12:09.675Z
+updated: 2025-02-19T16:24:47.788Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba409560e67e78cd5dc4e10558933.jpg
@@ -11,11 +11,19 @@ thumbnail: https://thmb.techidaily.com/740485eec6690d6fdabad7ecea1a58c3aaeba4095
 
 [全てのブログ](https://tools.techidaily.com/abbyy/products/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 日本語手書き読み取り（CLOVA OCRとFlexiCaptureの連携）(test)
 
 3月28日, 2022
 
 ![](https://static3.abbyy.com/abbyycommedia/35330/clovaocr-cover-848x444-1.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [ABBYY FlexiCapture 12](https://tools.techidaily.com/abbyy/products/)（以下FlexiCapture）で[CLOVA OCR](https://clova.line.me/clova-ocr/?utm%5Fsource=abbyy&utm%5Fmedium=blog)認識エンジンを手軽に利用できるようになりました。
 
@@ -32,10 +40,7 @@ AI OCRは常に進化しており、クラウド上のサービスも多く、�
 ![日本語手書き読み取りAI OCR](https://static1.abbyy.com/abbyycommedia/35333/clovaocr-content-1-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## FlexiCaptureは複雑な文書の処理が可能
@@ -46,20 +51,6 @@ FlexiCaptureは、複雑な文書にも広く対応しており、他では取�
 
 ![日本語手書き読み取りAI OCR](https://static1.abbyy.com/abbyycommedia/35332/clovaocr-content-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FlexiCaptureは検証機能も充実
 
 AI OCRを導入するためには新たな業務が必要となります。すべてのAI OCRに対して言えることですが、どんな文書でも100%正しく認識することはできません。必然的に重要な文書であるほどOCRの結果を人の目で見て確認するという作業（以降、検証）が重要となってきます。
@@ -67,6 +58,10 @@ AI OCRを導入するためには新たな業務が必要となります。す�
 一般的なOCRサービスはこの検証が考慮されていない場合が多く、あっても簡易的なものである場合がほとんどです。一方、FlexiCaptureは独自の検証画面をローカルプログラム、Web UIの両方で用意しており、対象のフィールドを切り出しての検証も可能なので、検証を行う人が文書の内容を把握することなく作業を行うことも可能です。
 
 ![日本語手書き読み取りAI OCR](https://static1.abbyy.com/abbyycommedia/35331/clovaocr-content-3-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FlexiCaptureは業務使用に最適
 
@@ -82,6 +77,10 @@ CLOVA OCRは横書きや縦書きだけでなく、丸く湾曲して書かれ�
 
 また、FlexiCaptureと連携したときに、項目単位の細かな設定が必要ないことも特徴の一つです。CLOVA OCR（General）以外のエンジンとの連携では、項目ごとにどんな文字が入るか、文字数はどうかなど細かい調整が必要ですが、CLOVA OCR（General）との連携では、どんな項目も同じ設定で簡単に行うことができます。
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## まとめ
 
 FlexiCaptureは単体でも認識、検証、ワークフローにおいて優れた機能を有しておりますが、手書き日本語文字に対応していないこともあり、日本語OCRに関して不十分な点があります。一方でAI OCRのフレームワークとしては、FlexiCaptureは優れた点を有しており、CLOVA OCRと組み合わせることで高精度の手書き日本語認識を実現することが可能な上、FlexiCaptureの様々な優れた機能を使用することが可能です。
@@ -93,13 +92,6 @@ FlexiCaptureは単体でも認識、検証、ワークフローにおいて優�
 [お問い合わせ](https://tools.techidaily.com/abbyy/products/)
 
 [DX（デジタルトランスフォーメーション）](https://tools.techidaily.com/abbyy/products/) [プロセスインテリジェンス](https://tools.techidaily.com/abbyy/products/) [エンタープライズ](https://tools.techidaily.com/abbyy/products/) 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### いいね！、シェア、再投稿
 
@@ -164,16 +156,16 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation/"><u>2024 Approved Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-apples-latest-charismatic-gadgets-released-silently-last-week-insights-from-zdnet/"><u>Discover Apple’s Latest Charismatic Gadgets Released Silently Last Week - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-realme-12plus-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-honor-magic-vs-2-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Magic Vs 2 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-mini-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 mini To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-xr-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone XR Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Vivo X Fold 2 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/premium-cameras-perfect-for-podcasts-for-2024/"><u>Premium Cameras Perfect for Podcasts for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-earnings-exploration-breakdown-of-adsense-payouts-per-kv-watcher-for-2024/"><u>Youtube Earnings Exploration Breakdown of AdSense Payouts Per KV Watcher for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-transform-your-tactics-exclusive-free-voice-change-tool-for-valorant-gamers/"><u>[New] In 2024, Transform Your Tactics Exclusive Free Voice Change Tool for Valorant Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cam-showdown-spectacle-ultimate-legendary-sj6-meets-yis-visionary-4k/"><u>Cam Showdown Spectacle Ultimate Legendary SJ6 Meets Yi's Visionary 4K</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-and-solutions/"><u>Crusader Kings II Won't Start: Troubleshooting and Solutions</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-plus-to-others-android-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 Plus To Others Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-se-2020-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone SE (2020) without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-from-vivo-v29-pro-by-drfone-android/"><u>In 2024, How to Bypass FRP from Vivo V29 Pro?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-vivo-y36s-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Vivo Y36s Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-huawei-p60-pro-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Huawei P60 Pro on Mac</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-lava-by-fonelab-android-recover-music/"><u>The way to get back lost music from Lava</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-contacts-on-itel-s23-without-backup-by-fonelab-android-recover-contacts/"><u>The way to recover deleted contacts on Itel S23 without backup.</u></a></li>
 </ul></div>
 

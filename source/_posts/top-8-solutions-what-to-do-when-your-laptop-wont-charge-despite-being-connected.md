@@ -1,7 +1,7 @@
 ---
 title: "Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected"
-date: 2025-02-04T18:45:45.872Z
-updated: 2025-02-09T16:56:00.899Z
+date: 2025-02-16T21:30:52.173Z
+updated: 2025-02-19T20:20:39.549Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 ---
 
 ## Top 8 Solutions: What To Do When Your Laptop Won't Charge Despite Being Connected
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 
  Is your laptop not charging even though you've plugged it in? While most of the time, this situation occurs when the charging adapter isn't properly connected, other times outdated BIOS or corruption in the battery driver could be the possible culprit. Whatever the reason may be, here are fixes you can try if your laptop is plugged in but not charging.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  1\. Check Your Laptop Adapter
 
  Before taking any major steps, the first thing you should check is whether the power cord is securely connected to the adapter brick. If the connection is loose, the adapter brick will not receive power, preventing your laptop from charging.
@@ -43,10 +43,6 @@ thumbnail: https://thmb.techidaily.com/783d5a68cd1201f00d72d69bc7ad0995ab16e6e24
 Aman Kumar / How-To Geek
 
  If you find that the power cord is loosely connected to the adapter brick, apply gentle pressure to firmly insert it into the adapter. Alternatively, you can unplug the power cord completely and then plug it back in again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  2\. Connect the Laptop Adapter to a Different Socket
 
@@ -65,7 +61,7 @@ Jason Fitzpatrick / How-To Geek
  Counterfeit chargers often charge laptops at an extremely slow pace or, in some cases, not charge at all. If your original laptop charger is malfunctioning, opt to purchase the same model charger directly from the laptop manufacturer online or in-store instead of resorting to a third-party charger.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  4\. Examine the Charging Port and Pin
@@ -73,10 +69,6 @@ Jason Fitzpatrick / How-To Geek
  If your laptop is still not charging, you should carefully examine your laptop's charging port for any dust or debris that might have accumulated inside. If any dust or debris is present, it will prevent the charger from supplying power to your laptop, ultimately causing the issue at hand.
 
 ![Charging port on a laptop with visible dust surrounding it.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-port.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
@@ -87,12 +79,16 @@ Aman Kumar / How-To Geek
 ![The charging pin on a laptop adapter.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/charging-pin.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Aman Kumar / How-To Geek
 
  If the charging pin is broken, you can easily cut the pin and connect a new one. However, if you don't feel confident in cutting and changing the pin yourself, you should contact an expert to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  5\. Allow Your Laptop to Cool Down
 
@@ -101,6 +97,10 @@ Aman Kumar / How-To Geek
  As it turns out, lithium-ion or lithium-polymer batteries can start to degrade if you try to charge them at high temperatures. Additionally, charging a laptop when it's overheated can increase the risk of [battery explosions](https://fox-cloud.techidaily.com/masterful-8-tools-for-flawless-sub-and-srt-conversion/). To prevent these scenarios, manufacturers design laptops to automatically stop charging when the device overheats.
 
  In this situation, there's not much you can do. Simply shut down your laptop and allow it to cool down. Once you feel the temperature has decreased, reconnect the charger, and your laptop should start charging again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Download Any Available BIOS Update
 
@@ -116,10 +116,6 @@ Aman Kumar / How-To Geek
 
 ![Batteries node in the Device Manager app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/batteries-node.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Right-click on the "Microsoft AC Adapter" driver and select the "Uninstall device" option. Similarly, uninstall the "Microsoft ACPI-Compliant Control Method Battery" driver.
 
 ![The Uninstall Device option in Device Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/uninstall-device.jpg) 
@@ -127,6 +123,10 @@ Aman Kumar / How-To Geek
  Once the drivers have been uninstalled, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/). Upon restart, Windows will automatically reinstall both battery drivers. However, if it fails to reinstall them for any reason, press Windows+i to open the "Settings" app, click on "Windows Update," and then select "Check for Updates." Windows will now install the missing driver, which in this case is the battery driver, on your computer.
 
 ![The Windows update menu in the Settings app with an arrow pointing to the Check for Updates button.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/check-for-updates.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After reinstalling the driver, reconnect the charger and check if your laptop starts charging.
 
@@ -169,21 +169,22 @@ Aman Kumar / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-the-ultimate-unboxing-adventure-boosting-customer-delight/"><u>[New] In 2024, The Ultimate Unboxing Adventure Boosting Customer Delight</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-taming-high-bit-rate-in-obs/"><u>[New] Taming High-Bit Rate in OBS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/solved-speakers-not-working-on-laptop/"><u>[Solved] Speakers Not Working on Laptop</u></a></li>
-<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1722196321944-clear-twitters-of-checkmarks-linuss-truths-uncovered-trojan-clarified-and-ai-bots-faults-exposed/"><u>Clear Twitters of Checkmarks, Linus’s Truths Uncovered, Trojan Clarified, & AI Bots' Faults Exposed</u></a></li>
-<li><a href="https://win11.techidaily.com/customize-your-windows-11-directory-exposure/"><u>Customize Your Window's 11 Directory Exposure</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-15-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo F25 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-find-n3-flip-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo Find N3 Flip to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Apple iPhone X? | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-unifiedvision-mixer-hub/"><u>In 2024, UnifiedVision Mixer Hub</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-audio-boost-for-lg-televisions-apple-enthusiasts-cant-miss-out-discover-the-upgrades/"><u>The Ultimate Audio Boost for LG Televisions: Apple Enthusiasts Can't Miss Out | Discover the Upgrades</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-realme-c67-4g-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Realme C67 4G</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-k11-5g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from K11 5G.</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-nubia-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nubia .</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-poco-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Poco C51 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-peering-behind-recordcasts-curtain-for-2024/"><u>[New] Peering Behind RecordCast's Curtain for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-ultimate-drone-vr-integration-guide/"><u>[New] Ultimate Drone-VR Integration Guide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-exploring-vivas-video-experience/"><u>[Updated] 2024 Approved Exploring Viva's Video Experience</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-deciphering-the-best-from-av1-and-vp9/"><u>[Updated] Deciphering the Best From AV1 and VP9</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a38-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A38 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-samsung-galaxy-a25-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-hot-40-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Hot 40 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-infinix-smart-8-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Infinix Smart 8 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/gratis-descubra-os-melhores-programas-de-edicao-de-som-para-pcs-com-windowsmac-top-15-destacados/"><u>Grátis: Descubra Os Melhores Programas De Edição De Som Para PCs Com Windows/Mac – Top 15 Destacados</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/insiders-look-evaluating-the-jackery-powerbar-charger-kit-highlighting-its-built-in-wall-socket-functionality/"><u>Insider's Look: Evaluating the Jackery PowerBar Charger Kit, Highlighting Its Built-In Wall Socket Functionality</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-lava-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Lava</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/repairing-non-supported-amd-display-adaptation/"><u>Repairing Non-Supported AMD Display Adaptation</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-honor-magic-5-lite-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor Magic 5 Lite Reset Code | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-offline-iphone-and-ipad-games-fun-without-wi-fi/"><u>Top Offline iPhone & iPad Games – Fun Without Wi-Fi</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-samsung-galaxy-s21-fe-5g-2023-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Samsung Galaxy S21 FE 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-realme-v30-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Realme V30 | Dr.fone</u></a></li>
 </ul></div>
 

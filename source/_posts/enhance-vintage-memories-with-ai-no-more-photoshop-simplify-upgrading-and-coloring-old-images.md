@@ -1,7 +1,7 @@
 ---
 title: "Enhance Vintage Memories with AI: No More Photoshop - Simplify Upgrading & Coloring Old Images"
-date: 2025-01-28T05:24:29.780Z
-updated: 2025-01-28T20:44:02.443Z
+date: 2025-02-17T01:05:06.779Z
+updated: 2025-02-19T19:29:11.362Z
 tags:
   - cutting-edge
 categories:
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 
  Photoshop has a built-in neural filter for restoring old scratched photos. But you don’t need to spend 20 bucks a month just to use that feature. Microsoft has developed a more robust AI for the job and it’s completely free. Here’s the only guide you need to bring your old photos back to life.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Microsoft's AI that Brings Old Photos Back to Life
 
  There was a time when it took Photoshop gurus hours of painstaking labor to [fix up old degraded photos](https://some-tips.techidaily.com/updated-top-tunes-where-to-secure-soundscapes/). Today, AI can do most of the heavy lifting. So much so that you can restore a photo with just one click!
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 [Bringing Old Photos Back to Life](https://www.microsoft.com/en-us/research/publication/bringing-old-photos-back-to-life/) is the official Microsoft project for AI-powered photo restoration. The project samples show some stunning restoration jobs on a few degraded photos. I tested it with some photos of my own too, and it worked like a charm.
 
 ![Sample photos showcasing Microsoft's photo restoration AI.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/0001.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, Microsoft has yet to offer an official app to use this AI. If you have a powerful PC and you possess the technical know-how, you can run the AI on your own hardware.
 
@@ -41,7 +49,7 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
  This demonstration also includes two AI tools for colorizing and enhancing your restored photos. They’re both freely available on Replicate and Google Colab. I highly recommend trying them, but Microsoft’s AI alone is enough to cover basic restoration.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  How to Restore, Colorize, and Upscale Old Photos
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
  Passing an old degraded photo through Microsoft’s AI is only the first step in my process. After that once over, we can use AI to colorize our restored photo (this bit is optional). Finally, I use a third AI to upscale the whole image.
 
  To get started with Replicate, all we need is a GitHub account. If you already have a GitHub, skip this step, otherwise, head over to [GitHub](https://github.com/join/). You need a valid email to join GitHub and the sign-up only takes a few minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Restoring Old Photos
 
@@ -61,7 +73,7 @@ thumbnail: https://thmb.techidaily.com/26e614872ecd8ccade55000bbe0d8c5a49a0a5f94
 ![Uploading the old photo using Windows Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/loading.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Close 
@@ -76,10 +88,6 @@ Close
 
 ![Arrow indicating the output preview window and the download button for the restored photo.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###  Colorizing Restored Photos
 
  Before we upscale our restored photo, we are going to add color to it. You can skip this step if you want to keep the original colors.
@@ -93,16 +101,12 @@ Close
 ![Arrow indicating the upload button on the Deoldify input form.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/upload-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Deoldify has two settings: the model name and the render factor. You can play around with both until you get the best result. The default is the Artistic model and a render factor of “35” which should work in most scenarios. I got a better result with Stable here.
 
 ![Steps for running Deoldify on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/set.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click “Run” once you’ve selected your preferred settings. Wait for the processed output. If you’re happy with the result, click “Download.” Or click “Tweak it” to re-process it with different settings.
 
@@ -118,23 +122,19 @@ Close
 
 ![Steps for uploading the colorized photo to Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/explorer.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Close 
 
  Next, we enter the scale. The scale here refers to the image size. I’ve set it to 4, which will give me an image 4 times bigger than my input. So for a 1080P image, I’ll get [4K](https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-oppo-a78-5g-without-puk-codes-by-drfone-android/)as output. You can also select Face Enhance to clear up details on faces. Finally, click “Run.”
 
 ![Steps for running the upscaling AI on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/run-1.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  When it's done, the before and after previews look identical. But when you download the processed file, it has a much higher resolution.
 
 ![Arrow indicating the download button on Replicate.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-2.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  That’s all. Now our restored photo is ready for your digital or print album. Here’s a side-by-side comparison.
 
@@ -163,20 +163,20 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-preventing-shake-in-photographic-imagery/"><u>[New] 2024 Approved Preventing Shake in Photographic Imagery</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-guide-to-premium-zero-fee-video-meeting-solutions/"><u>[Updated] 2024 Approved Guide to Premium, Zero-Fee Video Meeting Solutions</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-masterful-video-marketing-techniques-youtube-editions-top-5-list/"><u>2024 Approved Masterful Video Marketing Techniques - YouTube Edition's #Top 5 List</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210010457-9781591939184-crystal-healing/"><u>Crystal Healing | Free Book</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-issue-microphone-functionality-restored-in-microsoft-teams-on-windows-11-and-10/"><u>Fixing the Issue: Microphone Functionality Restored in Microsoft Teams on Windows 11 & 10</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-xiaomi-13t-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Xiaomi 13T Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-samsung-galaxy-a54-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Samsung Galaxy A54 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-data-from-apple-iphone-12-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from Apple iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-7-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 7 without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-realme-12-proplus-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/scripts-that-define-movie-industrys-variety/"><u>Scripts That Define Movie Industry's Variety</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/taking-control-of-your-digital-chatgpt-exchange/"><u>Taking Control of Your Digital ChatGPT Exchange</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ltimate-guide-to-template-infused-yt-descriptions/"><u>The Ultimate Guide to Template-Infused YT Descriptions</u></a></li>
-<li><a href="https://solve-luxury.techidaily.com/1728502599194-usbsd/"><u>USBメモリ対SDカード:特長を見比べて最適な選択を解明する</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-keeping-it-real-in-the-rat-race-of-retweets-and-likes/"><u>[New] Keeping It Real in the Rat Race of Retweets and Likes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ios-leading-edge-5-exceptional-psp-game-tools/"><u>[Updated] IOS Leading Edge 5 Exceptional PSP Game Tools</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-oppo-a1x-5g-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Oppo A1x 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/bass-bridges-and-high-beats-understanding-sound-mixing/"><u>Bass Bridges & High Beats Understanding Sound Mixing</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-features-of-asus-vivobook-11-your-ideal-small-sized-laptop-for-everyday-tasks/"><u>Exploring the Features of ASUS VivoBook 11 - Your Ideal Small-Sized Laptop for Everyday Tasks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/five-easy-steps-to-enhance-freelancing-with-chatgpt/"><u>Five Easy Steps to Enhance Freelancing with ChatGPT</u></a></li>
+<li><a href="https://change-location.techidaily.com/honor-90-pro-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Honor 90 Pro Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-x-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-oneplus-nord-3-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Realme Note 50? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-apple-id-from-your-iphone-se-without-security-questions-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID From your iPhone SE without Security Questions?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-the-gamers-roadmap-navigating-a-successful-youtube-channel/"><u>In 2024, The Gamers' Roadmap Navigating a Successful YouTube Channel</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-vivo-v30-lite-5g-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-vivo-s17-pro-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Vivo S17 Pro Phone Pattern Lock</u></a></li>
 </ul></div>
 

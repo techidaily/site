@@ -1,7 +1,7 @@
 ---
 title: "Mastering Mean: The Ultimate Guide to Calculating Averages in MS Excel"
-date: 2025-02-02T23:20:02.656Z
-updated: 2025-02-09T18:12:08.310Z
+date: 2025-02-16T16:54:31.099Z
+updated: 2025-02-20T00:10:14.045Z
 tags:
   - desktop
 categories:
@@ -20,10 +20,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 * [How to Use AVERAGEIFS in Excel](https://extra-hints.techidaily.com/slowly-quieting-tracks-with-fl-studio/)
 
  Excel has hundreds of functions that can help you to quickly and accurately perform calculations, among which are the AVERAGE functions. You might want to calculate the average sales figures, get the average of a group of data that contains numbers and text, or work out the average of all student scores over a certain number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  How Many Average Functions Are There in Excel?
 
@@ -48,10 +44,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is an 'average' cell, where their average scores will be calculated using the AVERAGE function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/average-uncalculated.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, Student C scored 0 and Student F has yet to take the exam. As a result, we want Excel to work out the scores of those who have taken the exam (all students except for Student F).
 
  To do this, we would type the following formula into cell D2:
@@ -65,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  If any of the values being used in the AVERAGE calculation were to contain [one of Excel's formula errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/), the calculation would not work.
 
  To save time, you can instead calculate the average through a few simple clicks. First, select your data to average, click the "Home" tab on the ribbon, and in the "Editing" group, click on the drop-down arrow next to the sigma (Σ) symbol. From there, click "Average". The result will appear at the end of your data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Use AVERAGEA in Excel
 
@@ -86,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with two columns: column A contains student names and column B contains their exam scores. Next to this table is the average of the scores, calculated using AVERAGE, and their average scores, calculated using the AVERAGEA function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averagea-calculated.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Unlike the AVERAGE function, which ignores logical values, the AVERAGEA calculation includes FALSE within the calculation as 0\. If this were instead TRUE, this would be counted as 1\. As a result, in our example, Student C's score of 0 is included, and Student F is also calculated as having scored 0\. This is why the result is lower for this calculation than the previous one.
 
  AVERAGEA counts any other text as 0 (for example, if you type FOUR, this is still represented as 0, and not 4), and ignores empty cells.
@@ -104,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table are cells where the AVERAGEIF functions will be tested.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-uncalculated.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To work out the average score of all students who scored more than 10, we would use the following formula:
 
 =AVERAGEIF(B2:B8,">10")
@@ -111,6 +115,10 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  Notice two things in this formula. First, the criteria must always be enclosed in double quotes. Second, we've only included two arguments within the parentheses, as there's no need to refer to any other data elsewhere within our calculation.
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, the first AVERAGEIF calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This has correctly picked up the scores of Students A, B, D, and E, as these are all more than 10.
 
@@ -123,10 +131,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
  The "C2:C8" part of the formula tells Excel to look in that range (the students' ages) for the criteria, the ">12" part tells Excel to identify any values over 12 in the C2:C8 range (the students' ages), and "B2:B8" (the students' scores) is the part being averaged.
 
 ![Excel sheet showing a table with three columns: column A contains student names, column B contains their exam scores, and column C contains their ages. Next to this table, both AVERAGEIF calculations have been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageif-calculated-2-1.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This has correctly picked up the scores of Students A, B, D, and E, as they are all over 12 years of age. The calculation also ignores logical values, which is why it hasn't considered Student F, even though they are over 12 years old.
 
@@ -144,10 +148,6 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where AVERAGEIFS will be performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-uncalculated.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To do this, we would use the following formula:
 
 =AVERAGEIFS(B2:B8,C2:C8,"Green",D2:D8,">10")
@@ -157,7 +157,7 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 ![Excel sheet showing a table with four columns: column A contains student names, column B contains their exam scores, column C contains their house, and column D contains their age. Next to this table is a cell where an AVERAGEIFS calculation has been performed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/averageifs-calculated-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This has correctly averaged the scores of Students D and G, as they are both in Green House and are over 10 years old.
@@ -186,20 +186,21 @@ thumbnail: https://thmb.techidaily.com/d046e3f1a50f3eab0c2328a8c65f9cdfeb961e04c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-splitscreen-study/"><u>[New] In 2024, SplitScreen Study</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-vivacut-video-editing-complete-guide-for-24/"><u>2024 Approved Step-by-Step VivaCut Video Editing Complete Guide for '24</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-software-instability-in-windows-store-purchases/"><u>Addressing Software Instability in Windows Store Purchases</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/ai-assisted-zen-overcoming-stress/"><u>AI-Assisted Zen: Overcoming Stress</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-itel-p55plus-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oppo-reno-10-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Oppo Reno 10 Pro 5G Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-vivo-y55s-5g-2023-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Vivo Y55s 5G (2023)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-6s-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6s without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-pro-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 15 Pro? Learn All 4 Methods</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/next-gen-virtual-experiences-anticipated-ps-vr-games-to-enjoy/"><u>Next-Gen Virtual Experiences Anticipated PS VR Games to Enjoy</u></a></li>
-<li><a href="https://techidaily.com/recover-apple-iphone-8-plus-data-from-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 8 Plus Data From iTunes Backup | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/techniques-to-overcome-sudden-screen-loss-during-win-games/"><u>Techniques to Overcome Sudden Screen Loss During WIN Games</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-infinix-note-30-5g-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Infinix Note 30 5G Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Lava Yuva 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-how-much-do-podcasters-make/"><u>[New] In 2024, How Much Do Podcasters Make?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-expert-psd-text-framing/"><u>[Updated] Expert PSD Text Framing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-mastering-full-circle-clips-iphone-filming-tips/"><u>[Updated] In 2024, Mastering Full-Circle Clips IPhone Filming Tips</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-mastering-transitions-kinemasters-step-by-step-tutorial/"><u>2024 Approved Mastering Transitions Kinemaster's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-the-ultimate-journey-into-youtube-seo-and-keywords/"><u>2024 Approved The Ultimate Journey Into YouTube SEO and Keywords</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/concevoir-des-pieces-originales-trouvez-loutil-de-creation-parfait/"><u>Concevoir Des Pièces Originales: Trouvez L'Outil De Création Parfait!</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-repair-your-soundscape-addressing-dying-lights-sound-malfunction/"><u>How to Repair Your Soundscape: Addressing Dying Light’s Sound Malfunction</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-reno-9a-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo Reno 9A working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210347415-9782807315457-la-pleine-conscience/"><u>La pleine conscience | Free Book</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-14-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 14 Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-s24plus-video-recovery-recover-deleted-videos-from-samsung-galaxy-s24plus-by-fonelab-android-recover-video/"><u>Samsung Galaxy S24+ Video Recovery - Recover Deleted Videos from Samsung Galaxy S24+</u></a></li>
+<li><a href="https://discover-able.techidaily.com/simple-guide-to-removing-unnecessary-applications-on-your-pc-yl-computing-tips/"><u>Simple Guide to Removing Unnecessary Applications on Your PC - YL Computing Tips</u></a></li>
+<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-xiaomi-13-ultra-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Xiaomi 13 Ultra</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-camon-20-premier-5g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Camon 20 Premier 5G</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-se-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE SMS/Message/Text Recovery Software | Stellar</u></a></li>
 </ul></div>
 

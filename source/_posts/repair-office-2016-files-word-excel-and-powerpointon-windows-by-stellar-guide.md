@@ -1,6 +1,6 @@
 ---
 title: Repair Office 2016 Files (Word, Excel and PowerPoint)on Windows
-date: 2024-09-19T14:15:34.111Z
+date: 2025-02-14T21:44:27.993Z
 tags: 
   - repair
   - repair excel
@@ -18,7 +18,15 @@ If you frequently work with Microsoft Word (.docx), Excel (.xlsx), and PowerPoin
 
 Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 files:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Scenarios behind Microsoft Office Files Corruption
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Scenario 1 – Disruption during Data Migration
 
@@ -28,13 +36,6 @@ You decide to move Office files from your hard drive to other removable media. H
 
 Figure 1- Microsoft Word file showing garbage characters
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Scenario 2 – Office Files and Registry Entries Become Infected
 
 When you open or use the Microsoft Office application, it crashes as soon as it opens. You assume that an add-in was causing the problem and restart the Office application without add-ins loaded, but the application still crashes. This may happen because of a virus infecting the Office files and registry values, thus leading to corrupt or damaged Office files.
@@ -42,19 +43,6 @@ When you open or use the Microsoft Office application, it crashes as soon as it 
 ### **Scenario 3 – Inaccessible or Lost Data**
 
 Suppose all your Office files are stored on a USB device, and you unplugged the device while it was still open in Windows. Now, when you attempt to open a Word or an Excel file, all the data is gone. Unsafe removal of USB or any other external storage device may corrupt the data inside your Office files or turn the file inaccessible.
-
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How Can You Deal with Microsoft Office Files Corruption?
 
@@ -76,14 +64,11 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Open-and-repair.png)
 
-- From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+- From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
 
 ### **Solution 2 – Repair Office 2016 Installation**
 
@@ -97,10 +82,7 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 ![](https://www.stellarinfo.com/image/catalog/article/word/ControlPanel-Programs.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Click **Programs and Features,** and then click **Uninstall a program** option
@@ -111,16 +93,13 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Change-Office-application.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Under **Change your installation of Microsoft Office Professional Plus 2016,** choose Repair and then click **Continue.**
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **For Windows 10**
 
@@ -128,18 +107,15 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Apps-and-features.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **NOTE:** This step will work for Windows 10/8/8.1/7 and Vista
 
 - Click **Programs** from the window that opens, click on the MS Office product you want to repair, and then click on **Modify**
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Modify-Office-application.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** Following the step will repair the entire Microsoft Office suite even if it contains only one application you want to repair such as an Excel or PowerPoint file. But, in case you have a standalone app installed, try to locate that application by name.
 
@@ -160,10 +136,7 @@ The toolkit helps repair corrupt Office 2016 and other version documents and fil
 [![free download](https://www.stellarinfo.com/blog/wp-content/uploads/2021/11/free-download-1-4.png)](https://tools.techidaily.com/stellardata-recovery/file-repair-toolkit/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Launch the software.
@@ -199,5 +172,23 @@ This post outlined possible scenarios and their causes that may lead to corrupti
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-optimizing-mov-file-storage-in-windows-10-systems/"><u>[New] In 2024, Optimizing .mov File Storage in Windows 10 Systems</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-xiaomi-14-ultra-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-tecno-pop-7-pro-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Tecno Pop 7 Pro Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-pro-max-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 11 Pro Max</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-15-pro-to-an-older-ios-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 15 Pro to an Older iOS Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nubia-red-magic-8s-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nubia Red Magic 8S Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-s23-ultra-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy S23 Ultra in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-poco-x5-pro-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Poco X5 Pro Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Nokia 105 Classic | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y36-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-lava-blaze-curve-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Lava Blaze Curve 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/introducing-awss-newest-offering-the-complimentary-sagemaker-studio-lab-a-perfect-start-for-novice-machine-learning-enthusiasts/"><u>Introducing AWS's Newest Offering: The Complimentary SageMaker Studio Lab - A Perfect Start for Novice Machine Learning Enthusiasts</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-honor-90-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Honor 90</u></a></li>
+<li><a href="https://win-dash.techidaily.com/successful-intel-optane-memory-driver-installation-guide-on-windows-complete-tutorial/"><u>Successful Intel Optane Memory Driver Installation Guide on Windows - Complete Tutorial</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-smart-8-by-fonelab-android-recover-data/"><u>Undelete lost data from Smart 8</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/zoomelitevue-7-enhance-and-resize-like-a-pro/"><u>ZoomEliteVue 7 Enhance & Resize Like a Pro</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons"
-date: 2025-02-05T23:38:11.268Z
-updated: 2025-02-09T16:23:57.887Z
+date: 2025-02-13T19:34:28.972Z
+updated: 2025-02-19T19:51:04.502Z
 tags:
   - desktop
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ---
 
 ## Guide: Adding Your Favorite Websites to Windows 10'S Quick Access Buttons
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -33,15 +29,15 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
  Having quick access to frequently-used or hard to remember websites can save you time and frustration. Whether you use Chrome, Firefox, or Edge, you can add a shortcut to any site right to your Windows 10 taskbar or Start menu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Pin a Website from Google Chrome
 
  Navigate to the website you want to pin. Click the three vertical dots in the top right of Chrome, hover your mouse over "Save and Share," then select "Create Shortcut."
 
 ![Click the three-dot menu icon, click 'Save and Share,' then select 'Create Shortcut.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/1-three-dot-menu-click-save-and-share-click-create-shortcut.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In the pop-up menu, change the name of the shortcut if desired, and click "Create." This will automatically create an icon on your Windows desktop and pin the link to your taskbar. 
 
@@ -56,7 +52,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Right-click the icon and select 'Pin to Start.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Pin a Website from Firefox
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
  Create a shortcut to Firefox on your desktop. You can do this by typing "Firefox" into your Start menu, right-clicking on the icon, and clicking "Open File Location."
 
 ![Open Firefox File Location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the new File Explorer window, right-click Firefox and click "Create Shortcut." A prompt will appear, saying, "Windows can't create a shortcut here. Do you want the shortcut to be placed on the desktop instead?" Click "Yes."
 
@@ -75,15 +75,15 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
     
 ![Direct Firefox Shortcut to Specific Website](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/ff3.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click "OK."
 
  From your desktop, right-click on the shortcut, and click either "Pin to Start" or "Pin to Taskbar." You can now delete the shortcut on your desktop.
 
 ![Right-click the Firefox icon and select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-pin-to-start-pin-to-taskbar.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Pin a Microsoft Edge Website
 
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 ![Click the three-dot menu icon, hover over 'More Tools,' then select 'Pin to Start' or 'Pin to Taskbar.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/2-three-dot-mor-tools-pin-to-taskbar-pin-to-start.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Additionally, Edge has a neat feature called "Launch Taskbar Pinning Wizard," which you can see right below "Pin to Taskbar." Click this, and Edge will guide you through a short menu that lets you pin the most popular websites and Microsoft web apps to your taskbar
@@ -114,21 +114,22 @@ thumbnail: https://thmb.techidaily.com/416aeeb4188101320497d2ca164fd6a9ed87803b6
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-boost-creativity-tiktok-video-treatments-for-2024/"><u>[New] Boost Creativity TikTok Video Treatments for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-the-ultimate-list-8-key-steps-for-irresistible-unboxing-reels/"><u>[New] The Ultimate List 8 Key Steps for Irresistible Unboxing Reels</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-memetic-masterpieces-a-photo-journey/"><u>2024 Approved Memetic Masterpieces A Photo Journey</u></a></li>
-<li><a href="https://games-able.techidaily.com/deconstructing-xbox-360-slim-a-step-by-step-manual/"><u>Deconstructing Xbox 360 Slim: A Step-by-Step Manual</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/early-may-launch-predicted-for-new-ipad-pro-and-air-models-exclusive-sneak-peek-at-whats-to-come-zdnet-insider-news/"><u>Early May Launch Predicted for New iPad Pro and Air Models; Exclusive Sneak Peek at What's to Come | ZDNet Insider News</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g-5g-2023-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G 5G (2023) Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-install-the-latest-ios-beta-version-on-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Install the Latest iOS Beta Version on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-acoustic-additions-for-your-chat-status/"><u>In 2024, Acoustic Additions for Your Chat Status</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/ripristina-i-tuoi-file-audio-mp3wav-come-formato-wma-gratuitamente-su-internet-con-convertitore-wma-di-movavi/"><u>Ripristina I Tuoi File Audio MP3/WAV Come Formato WMA Gratuitamente Su Internet Con Convertitore WMA Di Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/screen-stutter-no-more-overcome-the-screen-shaking-challenge-permanently/"><u>Screen Stutter No More! Overcome the Screen Shaking Challenge Permanently</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-messages-back-from-infinix-hot-40i-by-fonelab-android-recover-messages/"><u>Simple ways to get lost messages back from Infinix Hot 40i</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-xiaomi-redmi-13c-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Xiaomi Redmi 13C</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/supercharge-apple-watch-longevity-with-essential-setting-modifications-expert-guide/"><u>Supercharge Apple Watch Longevity with Essential Setting Modifications - Expert Guide</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-htc-u23-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from HTC U23 Pro</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-motorola-moto-g24-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Motorola Moto G24 Reset Code | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-spark-20c-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Spark 20C password or pattern lock</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-recognizing-disconnected-social-network/"><u>[New] In 2024, Recognizing Disconnected Social Network</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-unlocking-youtubes-potential-a-detailed-guide-on-tracking-earnings-and-audiences/"><u>[New] In 2024, Unlocking YouTube's Potential A Detailed Guide on Tracking Earnings and Audiences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-talking-head-techniques-diy-filming-made-simple/"><u>[Updated] Talking Head Techniques DIY Filming Made Simple</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-quick-content-in-a-facebook-frame/"><u>2024 Approved Quick Content in a Facebook Frame</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oneplus-ace-3-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your OnePlus Ace 3</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-motorola-moto-g13-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Motorola Moto G13 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/copernic-gift-guide-choosing-ideal-solutions-for-special-occasions/"><u>Copernic Gift Guide: Choosing Ideal Solutions for Special Occasions</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-yuva-3-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-vivo-s17-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Vivo S17 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-15-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 15 Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-understanding-the-income-framework-that-supports-tseries-youtube-success/"><u>In 2024, Understanding the Income Framework that Supports TSeries' Youtube Success</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-vivo-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Vivo</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-checklist-for-successfully-charging-your-electric-car-at-home/"><u>The Ultimate Checklist for Successfully Charging Your Electric Car at Home</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-from-clips-to-masterpieces-top-highlight-video-makers-revealed/"><u>Updated From Clips to Masterpieces Top Highlight Video Makers Revealed</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y100-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-y78t-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo Y78t | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-xiaomi-redmi-12-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Xiaomi Redmi 12 | Dr.fone</u></a></li>
 </ul></div>
 

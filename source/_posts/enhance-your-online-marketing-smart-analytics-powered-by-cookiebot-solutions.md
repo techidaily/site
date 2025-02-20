@@ -1,7 +1,7 @@
 ---
 title: "Enhance Your Online Marketing: Smart Analytics Powered by Cookiebot Solutions"
-date: 2025-01-23T09:42:24.757Z
-updated: 2025-01-28T21:26:34.352Z
+date: 2025-02-13T00:08:50.982Z
+updated: 2025-02-19T21:30:07.240Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73a148ad43909fb1af78cba44.jpg
@@ -14,16 +14,12 @@ thumbnail: https://thmb.techidaily.com/f9a9cc9d25c2277c00a95f3b41983be5b23439a73
 Other | Accounts Payable Automation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY FlexiCapture for Invoices Transforms Sportina Group’s Invoice Processing
 
 ![pathner logo](https://content.abbyy.com/-/media/project/abbyy/abbyy/logos-white/abbyy.png?h=40&iar=0&w=120)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 [Back to Customer stories](https://tools.techidaily.com/abbyy/products/)
 
@@ -34,12 +30,16 @@ Other | Accounts Payable Automation
 ![Sportina](https://static1.abbyy.com/abbyycommedia/20183/sportina-556x304.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Customer Overview
 
 ![Sportina Group](https://static1.abbyy.com/abbyycommedia/20182/sportina_logo-178x36.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 | Name         | Sportina Group           |
 | ------------ | ------------------------ |
@@ -93,10 +93,6 @@ Sportina’s new invoice processing system now includes the components necessary
 
 ![process](https://static1.abbyy.com/abbyycommedia/20186/sportina-diagramm.jpg?width=534&height=283)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Result
 
 Sportina’s previous invoice process took 8 to 15 business days to manually confirm an invoice and enter data into its ERP system. After deploying its new system with a DMS and ABBYY FlexiCapture for Invoices, the apparel company is now able to classify documents without human interference and processes invoices within 5 to 7 business days. Data is extracted from documents with high efficiency and passed to the DMS automatically, thus eliminating any manual entry. Sportina was able to significantly reduce costs and redirect resources to other business critical operations.
@@ -109,12 +105,16 @@ In the near future, Sportina Group plans to use ABBYY products for full text OCR
 
 [![ABBYY FlexiCapture for Invoices](https://static5.abbyy.com/abbyycommedia/14349/6-flexicapture-forinvoices.jpg)](https://tools.techidaily.com/abbyy/products/) [ABBYY FlexiCapture for Invoices](https://tools.techidaily.com/abbyy/products/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Read more](https://tools.techidaily.com/abbyy/products/) 
 
 [![Accounts Payable](https://static4.abbyy.com/abbyycommedia/14351/1-accounts-payable.jpg)](https://tools.techidaily.com/abbyy/products/) [Accounts Payable](https://tools.techidaily.com/abbyy/products/) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [Read more](https://tools.techidaily.com/abbyy/products/) 
@@ -152,14 +152,15 @@ We'd love to help you along your automation journey.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-screen-recording-on-macos-ahead-with-bandicam-or-camtasia/"><u>[New] Screen Recording on MacOS Ahead with Bandicam or Camtasia?</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-your-personalized-top-10-playlist/"><u>[Updated] 2024 Approved Your Personalized Top 10 Playlist</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-premium-window-calls-top-8-standout-titles-for-2024/"><u>[Updated] Premium Window Calls Top 8 Standout Titles for 2024</u></a></li>
-<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-a05s-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy A05s Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-hot-40-pro-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-realme-gt-neo-5-se-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Realme GT Neo 5 SE without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-11-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 11 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-ultimate-guide-to-pc-game-screenshots-for-2024/"><u>The Ultimate Guide to PC Game Screenshots for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-nokia-105-classic-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Nokia 105 Classic without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-audio-layers-for-professional-videography-premiere-pro-edition-for-2024/"><u>[New] Audio Layers for Professional Videography Premiere Pro Edition for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-virtual-city-escapades-a-list-of-flavorful-pals-to-gta-v/"><u>2024 Approved Virtual City Escapades - A List of Flavorful Pals to GTA V</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-go-2024-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/elevate-brand-recognition-optimizing-facebook-with-keywords-and-links/"><u>Elevate Brand Recognition Optimizing Facebook with Keywords and Links</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-others-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Others devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-innovative-online-tools-ranked-best-10-free-image-converters/"><u>In 2024, Innovative Online Tools Ranked Best 10 Free Image Converters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-perfect-your-mac-how-to-record-desktop-activity/"><u>In 2024, Perfect Your Mac How to Record Desktop Activity</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/top-ranking-ios-repair-software-specially-designed-for-windows-11-users/"><u>Top-Ranking iOS Repair Software Specially Designed for Windows 11 Users</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-a78-by-fonelab-android-recover-video/"><u>Undeleted lost videos from A78</u></a></li>
 </ul></div>
 

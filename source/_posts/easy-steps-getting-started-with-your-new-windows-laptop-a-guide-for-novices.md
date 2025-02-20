@@ -1,7 +1,7 @@
 ---
 title: "Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices"
-date: 2025-02-03T23:31:55.098Z
-updated: 2025-02-10T00:08:53.497Z
+date: 2025-02-15T20:42:04.753Z
+updated: 2025-02-19T22:59:56.832Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ---
 
 ## Easy Steps: Getting Started with Your New Windows Laptop - A Guide for Novices
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -35,7 +31,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
  If they are the sole user and won't use the device in a shared environment, you can [bypass the password screen](https://network-issues.techidaily.com/gladiator-glitch-gadget-grind/) entirely, allowing them to go directly to the desktop upon startup, though that does introduce security risks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2  Remove Unnecessary Programs From the Startup List 
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 ![Disabling startup apps from Task Manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/1-disabling-a-startup-apps-from-task-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Some applications automatically add themselves to the startup list when installed. So, periodically review their startup list and remove any unnecessary programs.
@@ -60,13 +56,13 @@ thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9
 
 ![Pinning an app to the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-pinning-an-app-to-the-taskbar.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Likewise, remove any apps already pinned to the taskbar that they won’t use. To do that, right-click on the item and select "Unpin from Taskbar."
 
 ![Unpinning Microsoft Edge from the taskbar on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/4-unpinning-microsoft-edge-from-the-taskbar-on-windows-11.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Be careful not to clutter up the taskbar, as this can make finding relevant apps more complex. If pinning all frequently used apps clutters the taskbar, consider creating desktop shortcuts for some of them. This way, they will still easily access their frequently used apps without overloading the taskbar.
 
@@ -87,6 +83,10 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
  You can also [create a System Restore point](https://instagram-video-files.techidaily.com/updated-in-2024-multiplying-joy-sharing-a-pile-of-photos-and-videos-with-instagram/) to quickly revert their system if something goes wrong. Advise them against downloading third-party apps and use parental control software to restrict access to specific websites. Also, educate them on the best online practices for staying safe while surfing the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6  Uninstall Bloatware and Install Handy Apps 
 
  When someone gets a new computer, it’s likely to come with a lot of bloatware that uses up system storage and slows down performance. These unnecessary programs often start up with the computer, slow down the boot process, and consume resources in the background. Therefore, it’s essential to remove these apps and [debloat the operating system](https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-xiaomi-14-pro-without-puk-codes-by-drfone-android/).
@@ -94,7 +94,7 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
  Afterward, you should install helpful apps to enhance their computer experience. For example, you could add Everything to make file searching easier, Auto Dark Mode to automatically switch between dark and light modes at different times of the day, ShareX for capturing screenshots and recording videos, and other [helpful apps and tools](https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-honor-90-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 7  Customize Screen Element Sizes to Their Preferences 
@@ -103,13 +103,13 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 ![Changing scale and resolution in the Settings app on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-changing-scale-and-resolution-in-the-settings-app-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Next, navigate to the "Accessibility" tab on the left sidebar. Go to the "Text Size" section and drag the slider to increase the text size. Then, go back and select "Mouse Pointer and Touch" to adjust the pointer size and style. You can also change the size of desktop shortcut icons, pinned taskbar items, and more.
 
 ![Changing the text size in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/4-changing-the-text-size-in-the-windows-settings-app.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the person you're setting up the Windows PC for has visual impairments, enable the Magnifier feature to enlarge parts of the screen for easier reading. You can also activate the Narrator to read text aloud. For those with hearing impairments, turn on Captions to provide closed captions for audio. You can turn these features on in the Accessibility settings.
 
@@ -140,24 +140,20 @@ Lucas Gouveia / How-To Geek | Shutterstock.AI
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-skills.techidaily.com/amazon-kindle-e-readers-compare-the-latest-kindle-paperwhite-and-basic-models/"><u>Amazon Kindle E-Readers: Compare the Latest Kindle Paperwhite & Basic Models</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/debunking-myths-how-environmentally-friendly-are-evs-really/"><u>Debunking Myths: How Environmentally Friendly Are EVs Really?</u></a></li>
-<li><a href="https://win-manuals.techidaily.com/enhancing-your-digital-scrapbooks-with-image-comments-using-flipbuilder/"><u>Enhancing Your Digital Scrapbooks with Image Comments Using FlipBuilder</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-poco-c55-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Poco C55 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-vivo-s18-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo S18 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/high-definition-stream-cameras-explored/"><u>High Definition Stream Cameras Explored</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone SE (2020) without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Oppo F23 5G? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-poco-c55-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Poco C55 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-realme-c55-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme C55 Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oppo-a78-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Oppo A78 phone? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-android-to-apple-how-to-transfer-photos-from-realme-gt-neo-5-se-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Android to Apple How To Transfer Photos From Realme GT Neo 5 SE to iPad Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-subtitle-manipulation-in-macos/"><u>In 2024, Mastering Subtitle Manipulation in macOS</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/live-broadcast-battlefield-obs-versus-shadowplay/"><u>Live Broadcast Battlefield OBS Versus ShadowPlay</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/microsofts-ai-struggle-revealed-as-apple-and-samsung-showcase-their-dominance-insights-for-tech-enthusiasts/"><u>Microsoft’s AI Struggle Revealed as Apple and Samsung Showcase Their Dominance | Insights for Tech Enthusiasts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-unfreezing-deathloop-for-a-smooth-gaming-session-pcps5/"><u>Step-by-Step Troubleshooting: Unfreezing Deathloop for a Smooth Gaming Session (PC/PS5)</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-v-purse-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on V Purse</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://techidaily.com/video-fixer-software-for-all-corrupt-videos-of-tecno-camon-20-premier-5g-by-stellar-video-repair-mobile-video-repair/"><u>Video Fixer Software for all Corrupt Videos of Tecno Camon 20 Premier 5G</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-art-of-professionalising-a-roadmap-in-graphic-design/"><u>[New] The Art of Professionalising A Roadmap in Graphic Design</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-cutting-edge-design-a-look-at-the-newest-monitor-in-town-hp-envy-27-for-2024/"><u>[Updated] Cutting Edge Design - A Look at the Newest Monitor in Town, HP Envy 27 for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-navigating-youtubes-aspect-ratio-landscape-a-complete-tutorial/"><u>[Updated] Navigating YouTube's Aspect Ratio Landscape A Complete Tutorial</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-samsung-galaxy-s23-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Samsung Galaxy S23 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-oppo-a78-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/covert-concepts-in-composing-captivating-images/"><u>Covert Concepts in Composing Captivating Images</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-motorola-moto-g04-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Motorola Moto G04? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-oppo-a78-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Oppo A78 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-tecno-camon-20-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Camon 20 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facebook-tutorial-how-to-create-facebook-account/"><u>In 2024, Facebook Tutorial How to Create Facebook Account</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>In 2024, Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/professional-setup-guide-win32-officejet-pro-8600-driver-installation/"><u>Professional Setup Guide: Win32 Officejet Pro 8600 Driver Installation</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-realme-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Realme on Windows</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-music-from-galaxy-a23-5g-by-fonelab-android-recover-music/"><u>Undelete lost music from Galaxy A23 5G</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-free-mov-video-clipper-top-6-software-for-you/"><u>Updated Free MOV Video Clipper Top 6 Software for You</u></a></li>
 </ul></div>
 

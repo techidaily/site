@@ -1,7 +1,7 @@
 ---
 title: Explore Innovative Solutions with ABBYY at Their May 2024 Intelligence Automation Summit
-date: 2025-01-24T03:04:31.439Z
-updated: 2025-01-29T07:36:54.024Z
+date: 2025-02-15T17:19:10.064Z
+updated: 2025-02-20T00:25:05.256Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e5b172234fc08b6d719a1524.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/b82cd99f90316be66a3cb4e32afffb71769b5f64e
 [Back to Newsroom](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## ABBYY 2nd Annual Intelligent Automation Month Highlights the Power of Purpose-Built AI to Accelerate Business
@@ -22,7 +22,7 @@ August 14, 2024
 ![ShutterStock](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##### During September, global innovation experts educate business and IT leaders how to increase efficiencies and ROI using AI
@@ -47,7 +47,7 @@ Bruce Orcutt, CMO at ABBYY
 Take your organization to the next level of operational efficiency by registering for Intelligent Automation Month sessions today at [www.abbyy.com/intelligent-automation-month/](https://tools.techidaily.com/abbyy/products/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### About ABBYY
@@ -73,16 +73,21 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-conquering-the-world-of-instagram-reels-tips-inside/"><u>[New] In 2024, Conquering the World of Instagram Reels – Tips Inside</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-high-definition-ready-enabling-av1-on-youtube/"><u>[New] In 2024, High Definition Ready Enabling AV1 on YouTube</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premier-backdrop-recommendations/"><u>[Updated] Premier Backdrop Recommendations</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-zero-dollar-mac-capture-mastery/"><u>In 2024, Zero-Dollar Mac Capture Mastery</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/navigating-the-world-of-srt-extensions-for-audible-enjoyment/"><u>Navigating the World of SRT Extensions for Audible Enjoyment</u></a></li>
-<li><a href="https://facebook.techidaily.com/navigating-through-googles-press-highlights/"><u>Navigating Through Google's Press Highlights</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-realme-narzo-n53-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Realme Narzo N53</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/uncomplicated-capture-efficient-screenshots-on-dell-for-2024/"><u>Uncomplicated Capture Efficient Screenshots on Dell for 2024</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-your-drivers-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated your drivers in Windows 7</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-s17-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo S17 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-essential-apps-for-effective-mac-sniping/"><u>[Updated] Essential Apps for Effective Mac Sniping</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-maximizing-video-quality-with-gopro-max-or-hero-11-for-2024/"><u>[Updated] Maximizing Video Quality with GoPro Max or Hero 11 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-elevate-your-meetings-with-teamsnap-expertise/"><u>2024 Approved Elevate Your Meetings with TeamSnap Expertise</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-the-comprehensive-list-of-vocal-alteration-apps/"><u>2024 Approved The Comprehensive List of Vocal Alteration Apps</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-xiaomi-14-pro-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Xiaomi 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/building-your-future-in-language-model-engineering-essential-tips-and-techniques/"><u>Building Your Future in Language Model Engineering: Essential Tips and Techniques</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/capturing-skype-chats-an-obs-guide/"><u>Capturing Skype Chats An OBS Guide</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-vivo-v30-lite-5g-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Vivo V30 Lite 5G Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-golf-skills-with-the-latest-trugolf-simulator-secure-yours-for-only-200-exclusive-deal-on-zdnet/"><u>Enhance Your Golf Skills with the Latest TruGolf Simulator: Secure Yours for Only $200 – Exclusive Deal on ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/essential-viewing-discover-the-best-of-max-television-shows/"><u>Essential Viewing: Discover the Best of Max Television Shows</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12r-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a24-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A24 without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-nokia-c12-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Nokia C12 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-11-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 11 devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/intel-command-center-stream-your-gameplays-seamlessly/"><u>Intel Command Center: Stream Your Gameplays Seamlessly</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-huawei-nova-y71-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Huawei Nova Y71</u></a></li>
 </ul></div>
 

@@ -1,6 +1,6 @@
 ---
 title: Share Your Winning Forex Trades With Friends and Family
-date: 2024-09-21T13:40:13.460Z
+date: 2025-02-15T00:21:30.824Z
 tags: 
   - mt5
   - mt4
@@ -63,19 +63,6 @@ Understanding this is the key to setting up a way to copy trades from the Metatr
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/2.png)
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 So, here’s the answer. The trick to doing this is taking advantage of how MetaTrader was designed. One of the functions of MetaTrader is that it allows you to log in to the same account from multiple devices. That is simple enough. That’s how a lot of social media accounts work. There’s no trade copier software involved in the process yet. That’s just how MetaTrader was built.
 
 When you log in to your MetaTrader account on your mobile app and your desktop setup (or your VPS server, tablet, laptop, or whatever), you can make a trade on one device, and it will instantly appear on your other device.
@@ -85,6 +72,10 @@ So the trick is hardly a trick at all. You log into the same account on differen
 But what if you want to manage more than one account from your mobile device? Well, then you need a Mobile-To-Many Copycat™ setup illustrated in the graphic below. I hope this helps you understand what I am trying to explain.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The first thing you’ll notice is that there are two master accounts, MetaTrader Master Account #1 and MetaTrader Master Account #2. Both master accounts are set up on your computer or VPS server. As you can see, each master account controls three client accounts – the three blue ones for Master Account #1 and three purple ones for Master Account #2. In total, that’s eight MetaTrader accounts all running on the same setup. Now, this can be your desktop PC or a VPS server – a VPS is optional, but I highly recommend it if you want to be running multiple accounts smoothly and efficiently.
 
@@ -105,6 +96,10 @@ I know to some of you, all of this sounds simple, but remember when you were new
 So here you have a screenshot of my VPS and the MetaTrader mobile app. This way, I can show you what happens when I make a trade.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/copy-forex-trades-from-mt4-mobile/5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In the following screenshot, you’ll see that when I open a trade in the Metatrader mobile app, it immediately appears on the master account and instantly gets sent to the client accounts. Getting trades copied across Metatrader accounts on different devices is like magic, right?
 
@@ -151,6 +146,10 @@ Overall, the [Local Trade Copier](https://tools.techidaily.com/mt4copier/) can d
 
 In this video, Rimantas explains how you can easily set different lot sizes for each copier account with the [Local Trade Copier](https://tools.techidaily.com/mt4copier/)™ for MT4 & MT5.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## MAAB Trade Filter: Copy Master Account Only When It Is Making Profits
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/1.png)
@@ -165,16 +164,13 @@ In the picture below you can see the Master account where the purple background 
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 MAAB Trade Filter tracks one Master account. However, you can stack up multiple MAAB Trade Filters to track multiple Master Accounts. Very useful if you have different strategies from multiple Master accounts and want to filter those who are not currently making profits. This way, the Client EA only receives trades from winning Master accounts. MAAB Trade Filter can also work in reverse mode if you need it.
 
 Note that the red Moving Average you see on the Master account histogram is just for your reference. The Moving Average on the Client-side is the one that will be used by Client EA for filtering. Just to avoid confusion if you use different Moving Average settings on those accounts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Setting up your MAAB Trade Filter
 
@@ -198,28 +194,12 @@ Now go to the MT4 Indicator list and apply the “MA on Account Balance (server)
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/5.png)
 
-<!-- affiliate ads begin -->
-<span id="1983582">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you zoom into the histogram, you will notice each histogram bar represents how closed trade affected the balance. A mouse-over tooltip above the indicator will display balance information on each bar. Notice that the histogram went down as losing trades closed and it went just below the Moving Average. At that point, MAAB Trade Filter would stop accepting trade signals from this Master account.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now I will set up a Metatrader 5 account, my second Master account. I can repeat the same procedure as for the first Master account. I apply the Server EA for the MT5 (at least version 1.1.6), then attach the MAAB Trade Filter indicator dedicated for the MT5 server-side. Notice this second Master account has a balance histogram below the filtering Moving Average, meaning it has a series of losing trades. We do not want these losing trades on the Client account, don’t we? That is why we filter them out using the MAAB Trade Filter.
@@ -229,6 +209,10 @@ Now I will set up a Metatrader 5 account, my second Master account. I can repeat
 Moving on to the Client account on MT5. Here I will first insert the MAAB Trade Filter indicator for the client-side onto the MT5 chart window. A settings window will pop up and it will show a few options. You can change the Moving Average periods (default 13), MA types like Simple, Exponential, Smoothed, etc. For the MAAB Trade Filter to work, we must input the Master account number in the ServerAccountNumber field. No worries, in case you forget to type in the number the indicator window will display a warning.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/8.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In my example, the Master account number is 60055865. Again, the indicator will now show the Master account balance, not the Client account balance.
 
@@ -266,6 +250,10 @@ Now we add the Client EA v2.9.9f from the Experts list and enable it from the se
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check out the orange Equity line. It is below the Moving Average right?
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/17.png)
@@ -280,37 +268,21 @@ Let’s buy half a lot on the first Master account (#60055865) and see what happ
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As expected, the first Client account immediately copied the trade. The account balance from the Master account was above the Moving Average.
 
 However, the second Client account denied that trade. This is because we set the rule to compare the MA to Master’s equity – which was below the MA. We can confirm this by looking at the Experts tab and the line that says “Ignored trade BUY USDJPY because of the MAAB Trade Filter. Master account equity below MA13”. Clearly said, it is doing what we set it to do.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Even though the balance histogram was above the MA for this Master account, the equity was not. Once the equity goes above MA(13) the MAAB Trade Filter will allow it to pass to the Client account.
 
 Trades that are ignored by the system will also trigger the question mark on the main chart screen to turn red.  A counter for all ignored trades is available too.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/20.png)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Let’s do some more trading from the other Master account. EURUSD looks like a good example, buying 1 lot. This trade is sent to two Client accounts we have linked, but let’s see if it is filtered on any.
 
@@ -321,6 +293,10 @@ The first Client account ignored this EURUSD trade, but the second Client accoun
 If we go to fullscreen we can see the message in the Experts tab that trades from one of the Master accounts are ignored. The reason is “Master account balance is below MA13”. Perfect! That is what we want.
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/22.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now let’s see what happens when we close this EURUSD trade. It is in a small profit. Alright, the histogram went up a bit as the balance increased by the profit amount. The equity was updated too. On the Client side, the same balance and equity changes are also visible.
 
@@ -368,13 +344,6 @@ Opening USDJPY “buy” trade…
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/maab-trade-filter/31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The second Client account with the reversed equity rule was allowed to copy trades. Makes sense since the equity is below the MA. Before the Reverse Logic change, all trades were filtered.
 
 Meanwhile, the first Client account ignored this USDJPY trade. The Reverse Logic denied it now since the balance is above the MA. Normally, the MAAB Trade Filter would allow it, however, we have reversed its logic.
@@ -392,13 +361,6 @@ After all this, you might be wondering why would we need all this inversion? Wel
 ## How to Enable Trading in MT4?
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 It is disappointing to find the message “Trade disabled” on your MT4 platform. However, that is not fatal, and you can solve it by finding the reason for disabled trading and fixing it. In some cases, if the market is closed, there is nothing to resolve, but if the market is open and your trading functionality is disabled, you have to know what the issue is and how to solve it. In this article, we will look a the main reasons why trading can be disabled on the MetaTrader 4 platform and what to do to enable it.
 
@@ -466,10 +428,28 @@ The one-click trading tool on MT4 is very convenient. Still, there’s an even b
 
 ![](https://tools.techidaily.com/images/apps/mt4copier/how-to-enable-trading-in-mt4/4.png)
 <ins class="adsbygoogle"
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
     style="display:block"
     data-ad-format="autorelaxed"
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-pedal-power-parade-of-playtime/"><u>[New] Pedal Power Parade of Playtime</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-navigating-nuances-the-artists-hue-harmony-handbook/"><u>[Updated] Navigating Nuances The Artist’s Hue Harmony Handbook</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-f25-pro-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/addressing-and-resolving-the-offline-message-on-your-amazon-echo-unit/"><u>Addressing and Resolving the 'Offline' Message on Your Amazon Echo Unit</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 14 Pro Max Data From iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-oppo-f23-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Oppo F23 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-6s-plus-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone 6s Plus Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/samsung-galaxy-a05-won-t-play-mkv-movies-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Samsung Galaxy A05 won’t play MKV movies</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-11x-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 11X 5G? | Dr.fone</u></a></li>
+</ul></div>
 

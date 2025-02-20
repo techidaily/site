@@ -1,7 +1,7 @@
 ---
 title: Microsoft, Your Persistent Push Notifications Have Gone Too Far!
-date: 2025-01-27T14:59:49.967Z
-updated: 2025-01-29T13:15:29.517Z
+date: 2025-02-12T19:10:08.247Z
+updated: 2025-02-19T17:10:06.937Z
 tags:
   - deals
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Microsoft, Your Persistent Push Notifications Have Gone Too Far!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,10 +31,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  An operating system's primary role is to provide a clean foundation to run other programs. That's why it's so concerning that Microsoft has been increasingly more aggressive with ads in Windows 11\. Is this going to be the future of our operating systems?
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  Microsoft's Self-Promotion Knows No Bounds
 
  Windows is already full of Microsoft's built-in apps and bloatware. Although this is a relatively common practice among most operating systems and their customized versions, Microsoft goes above and beyond to promote Microsoft Edge and OneDrive. Edge and OneDrive aren't bad products (quite the contrary), but there's no need for Microsoft to shove them down our throats.
@@ -38,6 +38,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  I recently booted up my laptop after not using it for a week, and I was greeted with that pesky "Let's Finish Setting Up Your Device" screen as if I had just bought the device. All the "set up" did was recommend various Microsoft products to me that I already declined previously. Fortunately, [you can disable it](https://win11.techidaily.com/top-8-methods-for-eliminating-windows-errors/), but the sole fact that it pops up randomly on older systems is baffling.
 
  Another [recent bit of news](https://www.windowscentral.com/software-apps/bing/microsofts-45-rated-performance-optimization-tool-bizarrely-recommends-using-bing-as-the-default-search-engine-to-repair-windows-11) is that Microsoft PC Manager recommends setting Bing as the default search engine in Windows 11 to "repair" your system. This, combined with the constant pop-up notifications to set Edge as your default browser, makes it [hard to recommend any Microsoft products](https://facebook-videos.techidaily.com/updated-in-2024-seamless-strategies-downloading-graphics-images-from-facebook-and-beyond/). All this self-promotion does is clutter an otherwise great operating system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Ads in the Start Menu, Seriously?
 
@@ -53,10 +57,6 @@ Jerome Thomas / How-To Geek
 
  The Windows 11 Start menu is already a confusing mess, and I don't think that the [grid layout](https://facebook-record-videos.techidaily.com/new-in-2024-capture-youtube-video-in-screenshot-forms-for-free/) can save it. If you agree, check out [Stardock's Start11 app](https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-realme-11-proplus-by-drfone-android/) to see how you can customize your Start Menu. Again, it's worth noting that these changes are only present in the Beta update, so there's a sliver of hope that Microsoft won't roll this update out in the final version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ##  The Danger of Promoting Third-Party Apps
 
  There's nothing wrong with ads and promoting third-party apps, but there's just something about recommending them within an operating system that feels off-putting. If you get an ad in Chrome, you know that it's an ad, but it feels much more subtle when it's on your operating system.
@@ -64,7 +64,7 @@ Jerome Thomas / How-To Geek
 ![1Password app listed in Recommended section of Start Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/untitled.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Microsoft
@@ -72,7 +72,7 @@ Microsoft
  The average user might interpret the recommended third-party product as a pre-installed or Microsoft product, which can lead to confusion, a loss of trust, and potential safety risks. After all, Microsoft can't guarantee the quality and safety of the advertised product, so what happens if a recommended app ends up embroiled in a controversy or legal dispute?
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  An Operating System Is No Place for Ads
@@ -84,7 +84,7 @@ Microsoft
  If you use your Windows PC for work, ads within the operating system are an unwelcome distraction that diminishes your user experience. Fortunately, you [can remove most ads in Windows 11](https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-tecno-devices-by-drfone-android/), but I still wish that Microsoft would reconsider its approach to monetization within its operating system.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  I'm Staying on Windows 10
@@ -112,19 +112,21 @@ Microsoft
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-understanding-the-magic-behind-m1-max-clips/"><u>[Updated] In 2024, Understanding the Magic Behind M1 Max Clips</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-projector-vs-tv-showdown-which-prevails-in-4k-clarity/"><u>[Updated] Projector vs TV Showdown Which Prevails in 4K Clarity?</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/essential-tips-for-kinemaster-proficiency-and-excellent-competitors-for-2024/"><u>Essential Tips for KineMaster Proficiency and Excellent Competitors for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/experience-studio-grade-audio-with-the-iphone-16-pros-advanced-mixing-features-insights-from-zdnet/"><u>Experience Studio-Grade Audio with the iPhone 16 Pro's Advanced Mixing Features - Insights From ZDNet</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-edge-40-pro-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Edge 40 Pro in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/1722956511852-quick-setup-professional-pioneer-dj-ddj-sx2-controller-driver-download-now/"><u>Quick Setup: Professional Pioneer DJ DDJ-SX2 Controller Driver Download Now!</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolving-setbacks-with-the-windows-10-april-2020-update-version-1903-insights/"><u>Resolving Setbacks with the Windows 10 April 2020 Update: Version 1903 Insights</u></a></li>
-<li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-15-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 15 Pro Max | Stellar</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-call-logs-from-lava-yuva-2-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Lava Yuva 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028478148-windows-10/"><u>Windows 10とビデオ修復: 適切なカットと分割テクニック</u></a></li>
-<li><a href="https://techidaily.com/xiaomi-data-retrieval-tool-restore-lost-data-from-xiaomi-redmi-note-12t-pro-by-fonelab-android-recover-data/"><u>Xiaomi Data Retrieval tool – restore lost data from Xiaomi Redmi Note 12T Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/zdnets-in-depth-review-of-the-lenovo-ideapad-magicbook-14-affordable-performance-and-stylish-design/"><u>ZDNet's In-Depth Review of the Lenovo IdeaPad MagicBook 14: Affordable Performance and Stylish Design</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-calculating-earnings-ad-revenues-in-the-world-of-youtube/"><u>[New] 2024 Approved Calculating Earnings Ad Revenues in the World of YouTube?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-techniques-to-seamlessly-save-web-based-television-shows-for-2024/"><u>[New] Techniques to Seamlessly Save Web-Based Television Shows for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-composers-guide-to-creating-youtube-music-cohorts/"><u>[New] The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-producers-playbook-for-mixing-audio-and-visuals-on-fb-platform-for-2024/"><u>[New] The Producer's Playbook for Mixing Audio and Visuals on FB Platform for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-beyond-the-screen-arvr-infused-inspirational-sayings/"><u>[Updated] Beyond the Screen AR/VR-Infused Inspirational Sayings</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-bypassing-common-drone-mistakes-with-this-essential-checklist/"><u>2024 Approved Bypassing Common Drone Mistakes with This Essential Checklist</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/easy-on-the-wallet-excellent-in-quality-canon-elph-190/"><u>Easy on the Wallet, Excellent in Quality – Canon ELPH 190</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-vivo-y27-4g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Vivo Y27 4G Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-a-honor-play-40c-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Play 40C Phone That Is Locked | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-lava-yuva-3-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Lava Yuva 3 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/positioning-yourself-as-a-top-notch-professional-on-facebook/"><u>Positioning Yourself as a Top-Notch Professional on Facebook</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2022-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2022) Data From iOS iTunes | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-motorola-g24-power-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Motorola G24 Power on Windows</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-nokia-c12-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Nokia C12 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-reno-10-pro-5g-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Reno 10 Pro 5G.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ultimate-guide-to-the-best-tablets-of-2024-in-depth-analysis-and-ratings-by-industry-leaders/"><u>Ultimate Guide to the Best Tablets of 2024 - In-Depth Analysis and Ratings by Industry Leaders</u></a></li>
 </ul></div>
 

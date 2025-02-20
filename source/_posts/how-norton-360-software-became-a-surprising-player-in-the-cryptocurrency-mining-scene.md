@@ -1,7 +1,7 @@
 ---
 title: How Norton 360 Software Became a Surprising Player in the Cryptocurrency Mining Scene
-date: 2025-01-23T02:17:57.482Z
-updated: 2025-01-29T05:18:16.054Z
+date: 2025-02-14T18:56:27.852Z
+updated: 2025-02-19T17:46:45.942Z
 tags:
   - cutting-edge
 categories:
@@ -34,7 +34,7 @@ _Norton_
  There's nothing malicious happening here, but users are never thrilled when they get a piece of software to do one thing (in this case, [protect their PCs](https://fox-info.techidaily.com/updated-in-2024-changing-video-pace-on-your-instagram-feed/)), and it adds something else without their permission. With that said, as long as it's not turned on by default and Norton is upfront about it, the company isn't technically doing anything wrong.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ###  UPDATE: 1/7/22 11:22 am Eastern
@@ -58,17 +58,18 @@ Related: [What Is Cryptocurrency?](https://sim-unlock.techidaily.com/in-2024-top
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-quick-launch-diving-into-live-conversations-on-instagram/"><u>[Updated] 2024 Approved Quick Launch Diving Into Live Conversations on Instagram</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-get-ahead-with-top-tier-premiere-pro-samples-free-for-2024/"><u>[Updated] Get Ahead with Top-Tier Premiere Pro Samples (Free) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-best-ways-to-record-and-preserve-internet-radio/"><u>[Updated] In 2024, The Best Ways to Record and Preserve Internet Radio</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-hp-network-drivers-compatible-with-windows-10-7-and-8/"><u>Download HP Network Drivers Compatible with Windows 10, 7 & 8</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-apple-iphone-6-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-14-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-transformational-techniques-bold-borders-on-instagram-photos/"><u>In 2024, Transformational Techniques Bold Borders on Instagram Photos</u></a></li>
-<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-nokia-xr21-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Nokia XR21</u></a></li>
-<li><a href="https://win-answers.techidaily.com/speedy-audio-editing-tips-switching-from-flac-to-ac3-in-no-time/"><u>Speedy Audio Editing Tips: Switching From FLAC to AC3 in No Time!</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/stellar-reinvents-its-data-recovery-software-for-consumers-ease-of-use-news-of-stellar/"><u>Stellar Reinvents Its Data Recovery Software for Consumers' Ease of Use - News of Stellar</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/step-by-step-instructions-for-saving-and-retrieving-imessages-on-apple-devices/"><u>Step-by-Step Instructions for Saving and Retrieving iMessages on Apple Devices</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-x6-pro-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco X6 Pro.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-hobby-to-hustle-making-money-with-videos-for-2024/"><u>[New] From Hobby to Hustle Making Money with Videos for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-audience-acclaim-index-worlds-most-engaged-youtubers/"><u>[New] In 2024, Audience Acclaim Index World's Most Engaged YouTubers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-extract-youtube-trailers-and-more/"><u>[New] In 2024, How to Extract YouTube Trailers & More</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1716069953805-updated-in-2024-capture-your-screen-in-a-flash-free-no-hassle/"><u>[Updated] In 2024, Capture Your Screen in a Flash - Free, No Hassle!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/how-to-create-a-square-video-for-instagram-in-imovie-in-2024/"><u>How to Create a Square Video for Instagram in iMovie, In 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-12-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-others-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to others devices? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone SE (2022) Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-discovering-logitechs-top-tier-4k-video-camera/"><u>In 2024, Discovering Logitech's Top-Tier 4K Video Camera</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-narzo-n55-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme Narzo N55? Fixed | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/remove-the-lock-of-infinix-hot-40i-by-drfone-android-unlock-android-unlock/"><u>Remove the lock of Infinix Hot 40i</u></a></li>
+<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-nokia-c12-plus-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Nokia C12 Plus</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-oppo-reno-10-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Oppo Reno 10 5G on Windows?</u></a></li>
 </ul></div>
 

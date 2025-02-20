@@ -1,7 +1,7 @@
 ---
 title: "Top 11 Undiscovered Secrets in Windows 11: Boost Your Productivity!"
-date: 2025-01-24T06:58:03.331Z
-updated: 2025-01-29T00:21:53.538Z
+date: 2025-02-14T17:38:39.243Z
+updated: 2025-02-19T21:13:32.701Z
 tags:
   - deals
 categories:
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![An instance of different Windows privacy and security settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-privacy-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  By default, everything is turned on. Use the toggle buttons to turn off the data you share with Windows.
 
 ![General privacy settings on Windows displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/general-privacy-settings-on-windows.png) 
@@ -57,7 +61,7 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  There are more [privacy settings on Windows 11](https://win-able.techidaily.com/reviving-game-playthroughs-solve-xbox-headset-problems-with-these-proven-steps/) that you can change for a [better Windows user experience](https://instagram-video-files.techidaily.com/new-in-2024-essential-app-picks-best-10-editors-to-transform-reels/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Live Captions Anywhere
@@ -70,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Windows Live Captions settings being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now attend a meeting or play a video on a media player or on a browser to see live captions being generated for that.
 
 ![Windows Live Captions feature generating captions for a YouTube video](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-live-captions-feature.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can play around the settings of the caption box to suit your preferences.
 
@@ -86,12 +90,16 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Accessbility settings on Windows being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/accessbility-settings-on-windows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turn on "Voice Access." Then press "I Agree" when the popup appears.
 
 ![Voice Access on Windows turned on](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/voice-access-on-windows.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You'll be guided through a tutorial on using Voice Access. You can say different commands to perform actions or type using your voice when the mouse cursor is active on a typing box. Try using it on the Notepad.
@@ -114,10 +122,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Various Windows system settigns being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-for-developers-settigns.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Turn on "End Task."
 
 ![End task from taskbar option on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/end-task-from-taskbar-option-on-windows.png) 
@@ -125,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  After that, if you want to end a task, simply right-click on the icon of that task in the taskbar and click "End Task."
 
 ![Ending a task from the taskbar on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ending-task-from-the-taskbar-on-windows.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Minimize Windows by Shaking
 
@@ -136,21 +144,21 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![Title bar windows shake option in the Windows settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/title-bar-windows-shake.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Be cautious though, because sometimes this can become a problem when you're just trying to move a window, but it's registered as a shake.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Scrolling Over the Volume Icon to Change the Volume
 
  A lot of apps and software already have this feature, so Windows might be a little late for the party. But yes, now you can simply go to the volume option on the taskbar and scroll your mouse wheel to increase or decrease the volume. If you use your touchpad quite often, this should be even more useful. You don't need to hold the scroll bar and drag it.
 
 ![Scrolling to change volume on Windows-anim](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/scroll-to-change-volume-on-windows-anim.gif) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Instant Photo Transfer From Android
 
@@ -160,25 +168,25 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 ![The option to turn on the Get new photo notifications setting being displyaed on Windows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/7-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After that, take a photo or screenshot on your Android device while connected to the PC. You should see a notification on your Windows PC.
 
 ![A notification being displayed on Windows 11 after taking a photo on Android](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/android-photo-notification-on-windows-11-1.png) 
 
- You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ You can tap the notification to open the photo on the Snipping Tool and start editing. This also works if you're on mobile data on your Android. Check out the full tutorial on [instantly transferring your Android photos to your Windows PC](https://video-capture.techidaily.com/new-in-2024-unveiling-the-secrets-of-live-broadcasting-on-instagram-through-obs/).
 
 ##  Start Button Shortcuts
 
  I'm a big fan of using shortcuts on my computer. Keyboard shortcuts, desktop shortcuts, you name it. The Start button on Windows 11 has a lot of useful shortcuts hidden from us. Right-clicking the Start button reveals these shortcuts. You can also hit Windows+X to open it (using a shortcut to open a shortcut menu.)
 
 ![Windows Start button hidden shortcuts being displayed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/windows-start-button-hidden-shortcuts.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  One advantage of pressing Windows+X instead of right-clicking the Start button is that you'll notice all the options in the menu have an underlined letter. Pressing that underlined letter on your keyboard will open that option. For example, if you press Windows+X and then T, it will open the [Task Manager](https://some-skills.techidaily.com/new-unveiling-the-secret-sauce-for-massive-tiktok-content-grabs/). No need to touch the mouse.
 
@@ -189,14 +197,6 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
  After that, press the Text Actions button from the top menu. You can then click the "Copy All Text" button to copy all the text in the picture. You can also manually select text using your mouse and copy only specific portions. If there is any sensitive information in the picture such as phone numbers or emails, you can redact it too.
 
 ![The OCR feature in Windows Snipping Tool being used to extract text from a screenshot](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/ocr-feature-in-windows-snipping-tool.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Built-in Image Editing in the Photos App
 
@@ -225,24 +225,16 @@ thumbnail: https://thmb.techidaily.com/ac1dc93632b498eb9e341774978ceeb78bceacaec
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/n-2024-editors-workshop-enhancing-your-youtube-video-visibility/"><u>[New] In 2024, Editor's Workshop Enhancing Your Youtube Video Visibility</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-film-assembly-station/"><u>[Updated] 2024 Approved Film Assembly Station</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/discover-the-ultimate-chatgpt-tools-to-boost-your-productivity-in-vs-code/"><u>Discover the Ultimate ChatGPT Tools to Boost Your Productivity in VS Code</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-driver-installation-lenovo-t430-support-on-windows-1087-systems/"><u>Effortless Driver Installation: Lenovo T430 Support on Windows 10/8/7 Systems</u></a></li>
-<li><a href="https://techidaily.com/factory-reset-apple-iphone-6-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fast-track-your-mobile-vids-with-these-tools-for-2024/"><u>Fast-Track Your Mobile Vids with These Tools for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-honor-x9a-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X9a If I Forgot Security Code or Password? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-honor-x9a-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Honor X9a phone? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy A24 | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-13-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 13 mini To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-mini-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 mini without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-best-vr-equipment-enhancing-flight-control/"><u>In 2024, Best VR Equipment Enhancing Flight Control</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-oneplus-open-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your OnePlus Open</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-range-of-fb-video-width-height-ratios/"><u>In 2024, Range of FB Video Width-Height Ratios</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-v-purse-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor V Purse Reset Code | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/turn-up-the-volume-resolving-cyberpunk-2077-audio-malfunction-in-windows-11/"><u>Turn Up the Volume: Resolving Cyberpunk 2077 Audio Malfunction in Windows 11</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-music-from-x6-by-fonelab-android-recover-music/"><u>Undelete lost music from X6</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-reinstall-hardware-drivers-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to reinstall hardware drivers on Windows 7</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-assessing-the-dominance-of-splitcam-recording/"><u>[New] Assessing the Dominance of SplitCam Recording</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-sizing-up-how-to-make-videos-work-in-instagram-bests/"><u>[New] Sizing Up How to Make Videos Work in Instagram Bests</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-elevate-engagement-discover-these-top-12-techniques-for-video-success-for-2024/"><u>[Updated] Elevate Engagement - Discover These Top 12 Techniques for Video Success for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/disappear-red-eye-effect-on-iphone-images-at-no-charge-for-2024/"><u>Disappear Red Eye Effect on iPhone Images at No Charge for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-infinix-note-30-vip-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Infinix Note 30 VIP Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-infinix-note-30-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Infinix Note 30 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hp-chromebook-11-review/"><u>HP Chromebook 11 Review</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-se-2020-lock-screen-with-notifications-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone SE (2020) Lock Screen with Notifications?</u></a></li>
+<li><a href="https://techidaily.com/solutions-to-restore-deleted-files-from-poco-x5-by-fonelab-android-recover-data/"><u>Solutions to restore deleted files from Poco X5</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-14-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 14 Plus | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-music-from-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-music/"><u>The way to get back lost music from Infinix Note 30 VIP Racing Edition</u></a></li>
 </ul></div>
 

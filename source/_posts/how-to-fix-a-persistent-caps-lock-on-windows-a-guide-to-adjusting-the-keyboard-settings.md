@@ -1,7 +1,7 @@
 ---
 title: "How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings"
-date: 2025-02-02T19:27:48.308Z
-updated: 2025-02-09T19:01:36.174Z
+date: 2025-02-12T22:50:37.553Z
+updated: 2025-02-19T19:57:16.112Z
 tags:
   - deals
 categories:
@@ -12,17 +12,13 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ## How to Fix a Persistent Caps Lock on Windows: A Guide to Adjusting the Keyboard Settings
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
 
 * [Check the Key That Turns Off the Caps Lock](https://vp-tips.techidaily.com/updated-unlock-picture-perfection-compreenhensive-facetune-review/)
 * [Ensure the Caps Lock Key Isn't Faulty](https://tech-haven.techidaily.com/how-do-these-apps-harness-gpt-4s-power/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -31,22 +27,26 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
  Are you unable to deactivate the Caps Lock on your keyboard? This problem might occur if your keyboard settings are configured to turn off the lock when the Shift key is pressed. Another possible culprit could be a faulty Caps Lock key. Below, we have outlined the steps to identify the underlying cause and fix the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Check the Key That Turns Off the Caps Lock
 
  Ensure that you—or anyone sharing your device—haven't unintentionally configured the keyboard settings to [disable the Caps Lock](https://smart-video-editing.techidaily.com/new-2024-approved-take-your-video-editing-to-the-next-level-adobe-premiere-pro-on-mac/) when the Shift key is pressed. To check this, right-click the Start button and open "Settings." Navigate to the "Time and Language" tab on the left and open "Typing" settings on the right.
 
 ![Opening the typing settings in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/1-opening-the-typing-settings-in-the-windows-settings-app.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then, go to "Advanced Keyboard Settings" and click the "Language Bar Options" link. In the Text Services and Input Languages window, navigate to the "Advanced Key Settings" tab. Check the circle beside "Press the Caps Lock Key" option under "To Turn Off Caps Lock" if "Press the Shift Key" is selected. Apply the changes, then click "OK."
 
 ![Changing the key that turns off the Caps Lock in the advanced keyboard settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/2-changing-the-key-that-turns-off-the-caps-lock-in-the-advanced-keyboard-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Ensure the Caps Lock Key Isn't Faulty
@@ -56,7 +56,7 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 ![Keyboard tester typing letters in lowercase with Caps Lock off.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/02/3-keyboard-tester-typing-letters-in-lowercase-with-caps-lock-off.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the key registers and the testing window starts to type letters in lowercase, the key is not faulty. However, if the key doesn't register and fails to change the case, it indicates a defective key. It is possible there is debris inside the keyboard, causing keypresses to not register correctly. You can try [cleaning your keyboard](https://some-approaches.techidaily.com/accelerate-operations-master-document-handling-through-automation-technology-in-the-finance-sector/) to see if that solves the issue. If that doesn't work, you can either have your keyboard (or laptop) inspected or [disable and remap the Caps Lock key](https://extra-information.techidaily.com/constructing-premium-canon-timelapse-movies-for-2024/).
@@ -80,22 +80,14 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-begin-installing-xps-key-visual-storytelling-app/"><u>[New] Begin Installing XP’s Key Visual Storytelling App</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-access-unlimited-mcb-theme-images/"><u>[New] In 2024, Access Unlimited MCB Theme Images</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nleashing-potential-a-step-by-step-approach-to-youtube-links-for-2024/"><u>[New] Unleashing Potential A Step-by-Step Approach to YouTube Links for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-the-best-video-capture-tools-for-windows-users/"><u>[Updated] 2024 Approved Discover the Best Video Capture Tools for Windows Users</u></a></li>
-<li><a href="https://techidaily.com/hard-resetting-an-vivo-y27s-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Vivo Y27s Device Made Easy | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hardware-checkup-verify-if-your-cpu-supports-vanguards-performance-criteria/"><u>Hardware Checkup: Verify if Your CPU Supports Vanguard’s Performance Criteria</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-tecno-phantom-v-flip-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Phantom V Flip in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-issues-of-apple-iphone-6s-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System Issues of Apple iPhone 6s? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-a-infinix-note-30i-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Infinix Note 30i Phone That Is Locked | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-htc-u23-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-lava-storm-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Storm 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-13-mini-to-other-iphone-13-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 13 mini to other iPhone 13 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-vivo-x-flip-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Vivo X Flip Fingerprint Lock</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>In 2024, Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
-<li><a href="https://techidaily.com/solutions-to-repair-corrupt-excel-file-2010-by-stellar-guide/"><u>Solutions to Repair Corrupt Excel File 2010</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-whea-watchdog-hardware-exception-tips-for-correction/"><u>Troubleshooting WHEA (Watchdog Hardware Exception) - Tips for Correction</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-humor-horizon-developer/"><u>[New] 2024 Approved Humor Horizon Developer</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-crafting-memorable-content-with-personalized-gifs/"><u>[New] Crafting Memorable Content with Personalized GIFS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-the-snapchat-marketing-playbook-boosting-sales/"><u>[Updated] 2024 Approved The SnapChat Marketing Playbook Boosting Sales</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-11-proplus-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme 11 Pro+ If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-6-plus-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 6 Plus Without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/step-by-step-guide-setting-up-chatgpt-plugin-integrations/"><u>Step-by-Step Guide: Setting Up ChatGPT Plugin Integrations</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-enhance-memory-functionality-in-w11/"><u>Strategies to Enhance Memory Functionality in W11</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-motorola-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Motorola without backup.</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-samsung-galaxy-s24-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Samsung Galaxy S24 ?</u></a></li>
 </ul></div>
 

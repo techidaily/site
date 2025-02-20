@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide"
-date: 2025-02-04T18:26:43.813Z
-updated: 2025-02-09T20:59:57.594Z
+date: 2025-02-17T20:21:40.840Z
+updated: 2025-02-19T16:21:57.433Z
 tags:
   - deals
 categories:
@@ -10,10 +10,6 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 ---
 
 ## Setting Up Windows Subsystem for Linux (WSL) in Windows 11: A Comprehensive Guide
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
 
  It is also worth noting that most new, interesting developments for WSL are shifting to Windows 11—Windows 10 users won't be able to use them. 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Install WSL through Windows Terminal
 
  Microsoft has made this process extremely simple on Windows 11\. You can enable the Windows Subsystem for Linux and install a Linux distribution like Ubuntu with a single command.
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/e5207beb7032dbe2a223f71bc8ac9ba7ae1e50509
  To launch a Windows Terminal with Administrator permissions, right-click the Start button on the taskbar or press Windows+X and click "Terminal (Admin)." (You can also find the Windows Terminal shortcut in your Start menu—right-click it and select "Run as Administrator.") Agree to the User Account Control prompt that appears.
 
 ![Right-click the Start button, then select "Terminal (Admin)."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/1-9.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To enable the Windows Subsystem for Linux and install Ubuntu, which is the default distribution, just run the following command:
 
@@ -75,13 +79,13 @@ wsl --install -d Debian
 
 ![List available Linux distributions and install one.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/a3-list-distros.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once your computer has rebooted, you can launch the Linux distro that you installed from your Start menu.
 
 ![Launch the &quot;Ubuntu&quot; shortcut.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ubuntu-start-menu.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll also find it as an option in the Windows Terminal app. Click the down arrow to the right of the new tab "+" button on the tab bar and select the Linux distribution that you installed.
 
@@ -90,13 +94,13 @@ wsl --install -d Debian
 ![Click the down arrow and select your Linux distribution.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/powershell-ubuntu-terminal.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now, you can use the Linux shell just as if you were sitting in front of a PC Linux—or as if you were remotely connected to a server running Linux. You'll just need to [know Linux commands](https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  The Slow Way: Enable WSL and Install a Distro
@@ -117,10 +121,6 @@ wsl --install -d Debian
 
 ![Search for "Ubuntu," then click "Get."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/ubuntu.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can now launch it from your Start menu just as if it were installed from the command above. 
 
  New Linux distros are occasionally added to the Microsoft Store, and you can find the currently available distros by searching for "Linux" rather than a specific distro. If your preferred Linux flavor isn't available, you can always import your preferred distro into WSL manually.
@@ -140,22 +140,22 @@ wsl --install -d Debian
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-enhancing-digital-art-with-layered-imagery-for-2024/"><u>[New] Enhancing Digital Art with Layered Imagery for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unparalleled-top-5-lightweight-cinematography-devices/"><u>[New] Unparalleled Top 5 Lightweight Cinematography Devices</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-diving-deep-into-lyric-video-designs-powered-by-lyric-video-maker/"><u>[Updated] 2024 Approved Diving Deep Into Lyric Video Designs, Powered by Lyric Video Maker</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-discovering-the-secret-to-engaging-content-with-aspect-ratios-in-youtube/"><u>[Updated] In 2024, Discovering the Secret to Engaging Content with ASPECT RATIOS in YOUTUBE</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-lava-blaze-2-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Lava Blaze 2 5G | Dr.fone</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/how-to-reply-message-on-discord-desktop-and-mobile-app/"><u>How to Reply Message on Discord Desktop and Mobile App</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-motorola-moto-g34-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Motorola Moto G34 5G without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 14 devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6s-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6s when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-xr-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone XR without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-phantom-v-flip-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Phantom V Flip Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://techidaily.com/is-your-infinix-hot-40i-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Hot 40i working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Realme 12 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-oppo-a58-4g-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Oppo A58 4G</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-next-big-thing-in-tech-the-rumored-apple-ring-price-predictions-release-dates-and-specs-discussed/"><u>The Next Big Thing in Tech – The Rumored Apple Ring: Price Predictions, Release Dates, and Specs Discussed</u></a></li>
-<li><a href="https://techidaily.com/turn-off-screen-lock-tecno-by-drfone-android-unlock-android-unlock/"><u>Turn Off Screen Lock - Tecno</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your hardware drivers with Windows Device Manager on Windows 11/10</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-edit-with-ease-prime-10-converters-unveiled/"><u>[New] 2024 Approved Edit with Ease Prime 10 Converters Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-essential-guide-to-free-licensed-audio-for-yt/"><u>[New] The Essential Guide to Free, Licensed Audio for YT</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-exploration-of-apeaksofts-screen-recorder-for-2024/"><u>[New] The Ultimate Exploration of Apeaksoft's Screen Recorder for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/disc-prowess-selecting-top-cd-players-and-changers-of-24/"><u>Disc Prowess: Selecting Top CD Players & Changers of '24</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/essential-thumbnail-strategies-for-amplifying-viewership-on-youtube-for-2024/"><u>Essential Thumbnail Strategies for Amplifying Viewership on YouTube for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/gtx-950-windows-10-code-43/"><u>GTX 950에서 속도 문제를 알아보기: 웹사이트를 위한 Windows 10의 Code 43 해결방법</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-to-an-older-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 to an Older Version? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-x-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone X without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/i-migliori-5-giocatori-di-video-in-4k-guida-definitiva-ai-giochi-a-risoluzione-ultra-hd/"><u>I Migliori 5 Giocatori Di Video in 4K: Guida Definitiva Ai Giochi a Risoluzione Ultra HD</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/navigating-video-upload-procedures-on-chrome-devices/"><u>Navigating Video Upload Procedures on Chrome Devices</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/professional-video-transformation-supercharge-your-videos-with-winx-deluxes-gpu-speedy-resizing-and-converting-techniques/"><u>Professional Video Transformation: Supercharge Your Videos with WinX Deluxe's GPU Speedy Resizing & Converting Techniques</u></a></li>
+<li><a href="https://techidaily.com/remove-honor-lock-screen-without-password-honor-play-40c-by-drfone-android-unlock-android-unlock/"><u>Remove Honor Lock Screen without Password(Honor Play 40C)</u></a></li>
+<li><a href="https://techidaily.com/repair-broken-or-corrupt-video-files-of-sony-xperia-10-v-by-stellar-video-repair-mobile-video-repair/"><u>Repair broken or corrupt video files of Sony Xperia 10 V</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-12-pro-5g-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from 12 Pro 5G</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-galaxy-m14-4g-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Galaxy M14 4G</u></a></li>
+<li><a href="https://techidaily.com/useful-ways-that-can-help-to-effectively-recover-deleted-files-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-data/"><u>Useful ways that can help to effectively recover deleted files from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-lava-yuva-3-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Lava Yuva 3?</u></a></li>
 </ul></div>
 

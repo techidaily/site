@@ -1,7 +1,7 @@
 ---
 title: Fix Your Windows Install When It Gets Stuck During Network Connection
-date: 2025-02-03T19:35:13.071Z
-updated: 2025-02-09T16:16:25.368Z
+date: 2025-02-18T01:25:21.258Z
+updated: 2025-02-20T01:39:00.906Z
 tags:
   - desktop
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ## Fix Your Windows Install When It Gets Stuck During Network Connection
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -28,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 * Alternatively, you can bypass the internet requirement through Task Manager. While on the "Let's connect to a network" screen, open Command Prompt, then type **taskmgr** and press Enter. In Task Manager, right-click the process called "Network Connection Flow" and choose "End task" from the context menu.
 
  Windows 11 requires an active internet connection to download crucial updates and create an account during the installation process. However, the installation will stall at the "Let's connect you to a network" screen if you lack an internet connection. Fortunately, you can employ a few workarounds to bypass this network setup screen and proceed with your Windows 11 installation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  1\. Check Your Connection
 
@@ -45,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
  To install Windows 11 without an internet connection and bypass the "Let's connect you to a network" screen, follow the next methods in this guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Use the Command Prompt to Bypass the Internet Requirement
 
  When you encounter the "Let's connect you to a network" screen, you can execute the "OOBE\\BYPASSNRO" command in Command Prompt to bypass the connectivity requirement during the Windows 11 installation process. To achieve this, press Shift+F10 to launch Command Prompt while on the "Let's connect you to a network" screen.
@@ -54,7 +62,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![Internet Bypass command in Command Prompt window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/internet-bypass-command.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your computer will then restart, prompting you to select your region and keyboard layout once more. Afterward, you will arrive at the network setup screen. However, this time, you will have the "I don't have internet" option available, which you can click to proceed with the Windows 11 installation process without an internet connection.
@@ -62,7 +70,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 ![I don't have internet option during Windows installation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/i-don-t-have-internet-option.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  One important thing to note here is that you'll end up [creating a local user account](https://tech-recovery.techidaily.com/protect-your-system-with-these-15-free-instant-boot-antivirus-tools/) instead of a Microsoft account when you try to install Windows 11 without an internet connection. However, you can always switch to a Microsoft account later.
@@ -81,17 +89,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 ![End Task option in Task Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/end-task-option.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Type **exit** in the Command Prompt window and press Enter.
 
 ![Exit command in Command Prompt](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/12/exit-command.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After that, the "Let's connect you to a network" screen will disappear, and you can continue the installation without an internet connection.
 
@@ -114,16 +114,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-2024-approved-introduce-audio-files-to-premiere-pro-timeline/"><u>[New] 2024 Approved Introduce Audio Files to Premiere Pro Timeline</u></a></li>
-<li><a href="https://fox-useful.techidaily.com/comprehensive-overview-of-item-features-and-attributes/"><u>Comprehensive Overview of Item Features & Attributes</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-vivo-s17-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Vivo S17 | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/1728478084007-hddssd/"><u>HDD/SSDへのシステムクローニング手順と方法 - 詳細ガイド</u></a></li>
-<li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-lava-agni-2-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Agni 2 5G phone? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6s-to-other-iphone-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6s to other iPhone? | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/quick-fixes-to-stop-path-of-exile-from-lagging-or-crashing/"><u>Quick Fixes to Stop Path of Exile From Lagging or Crashing</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/transformative-techniques-for-high-quality-mp4s-from-instagram/"><u>Transformative Techniques for High-Quality MP4s From Instagram</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers in Windows 11 & 10 & 7</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/video-editing-on-mac-os-x-yosemite-a-comprehensive-beginners-guide-for-2024/"><u>Video Editing on Mac OS X Yosemite A Comprehensive Beginners Guide for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-perfecting-chat-engagement-the-art-of-pinning-messages-in-discord/"><u>[New] 2024 Approved Perfecting Chat Engagement The Art of Pinning Messages in Discord</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-mastering-momentum-accelerating-fb-videos/"><u>[New] Mastering Momentum Accelerating FB Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-a-comprehensive-look-at-merging-youtube-content-into-instagrams-story-feature/"><u>[Updated] A Comprehensive Look at Merging YouTube Content Into Instagram's Story Feature</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-unleash-video-potential-leading-youtube-seo-tools/"><u>[Updated] In 2024, Unleash Video Potential - Leading YouTube SEO Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-sifting-commentary-on-youtube/"><u>[Updated] Sifting Commentary on YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-lava-agni-2-5g-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Agni 2 5G in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-x50i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor X50i without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-max-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS Max to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/immerse-yourself-in-the-world-of-rui-kamishiro-with-unique-background-graphics-powered-by-yl-software/"><u>Immerse Yourself in the World of Rui Kamishiro with Unique Background Graphics – Powered by YL Software</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mastering-your-sound-investment-five-crucial-tips-for-selecting-ideal-stereo-speakers-pre-purchase/"><u>Mastering Your Sound Investment: Five Crucial Tips For Selecting Ideal Stereo Speakers Pre-Purchase</u></a></li>
+<li><a href="https://win-great.techidaily.com/optimize-computer-speed-with-hard-drive-cleanup-strategies-advice-from-yl-software/"><u>Optimize Computer Speed with Hard Drive Cleanup Strategies - Advice From YL Software</u></a></li>
+<li><a href="https://article-tips.techidaily.com/recipe-reels-reimagined-the-top-7-edible-videography-secrets/"><u>Recipe Reels Reimagined The Top 7 Edible Videography Secrets</u></a></li>
+<li><a href="https://techidaily.com/recover-apple-iphone-se-2020-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover Apple iPhone SE (2020) Data From iCloud | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-mix-fold-3-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-narzo-60-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Narzo 60 5G? | Dr.fone</u></a></li>
 </ul></div>
 

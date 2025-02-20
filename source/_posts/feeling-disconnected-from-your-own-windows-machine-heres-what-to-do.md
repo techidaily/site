@@ -1,7 +1,7 @@
 ---
 title: Feeling Disconnected From Your Own Windows Machine? Here’s What to Do!
-date: 2025-01-22T11:47:35.438Z
-updated: 2025-01-28T19:35:30.387Z
+date: 2025-02-12T21:05:28.897Z
+updated: 2025-02-19T23:11:15.328Z
 tags:
   - deals
 categories:
@@ -25,17 +25,21 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![exit-windows-3.1-to-dos](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2014/05/exit-windows-3.1-to-dos.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  In retrospect, this was actually a good thing in some ways, because it meant that Microsoft couldn't remotely mess with my Windows installation. Patches and updates came in the form of Windows service packs, and those were on actual physical floppy disks or CD-ROMs. If my computer worked yesterday, and I didn't change anything myself, it would almost certainly keep working until I inadvertently broke it myself.
 
  Now that Windows is almost always online, my "personal" computer experience is feeling quite a bit less personal.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Advertising Sneaking In
 
 ![The location of the recommended section in the Windows 11 Start menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/windows-start-ads.jpeg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Jerome Thomas / How-To Geek
 
@@ -44,7 +48,7 @@ Jerome Thomas / How-To Geek
  Basically, it now feels like Windows is partly subsidized by advertising, and regular users can't just have the operating system they paid for without being sold more software and services. It's not (yet) the most egregious way to go about it, but for someone who prefers absolute minimilism in their computer interfaces, it's not working for my feng shui.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Updates Breaking My PC
@@ -58,16 +62,12 @@ Jerome Thomas / How-To Geek
  When I have my computer set up a certain way, I'd like it to stay that way permanently. Yet search the forums on sites like [Reddit](https://www.reddit.com/r/Windows10/comments/n1hoz0/windows%5Fplease%5Fstop%5Fchanging%5Fmy%5Fsettings%5Fwith/) or Microsoft's own [community forums](https://answers.microsoft.com/en-us/windows/forum/all/windows-updates-keeps-changing-my-settings/1870494e-b7be-41a8-84e6-d2e7e55c88d5), and you'll find numerous complaints about settings changing after updates. It can be innocuous stuff or more serious or impactful things, such as privacy settings. If anyone is going to flip the switches on my computer to control how it behaves and what's allowed, it should be me.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  My Mac Doesn’t Feel Subsidized
 
 ![MacBook on a desk showing a colorful wallpaper with in a dark room.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/macbook-on-a-desk-showing-a-colorful-wallpaper-with-in-a-dark-room.jpg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Sergio Rodriguez / How-To Geek
 
@@ -78,7 +78,7 @@ Sergio Rodriguez / How-To Geek
  When I use my Windows 11 laptop (which was more expensive than my Mac, mind you), it feels like those Amazon Kindles that are subsidized by ad money. Except, at least Amazon gave us the choice.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Linux Respects Its Users
@@ -110,22 +110,24 @@ Sergio Rodriguez / How-To Geek
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-strategic-insightfulness-comparing-your-channel-to-competitors-crafts/"><u>[New] Strategic Insightfulness Comparing Your Channel to Competitors' Crafts</u></a></li>
-<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-realme-gt-3-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Realme GT 3 | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/hering-youtubes-new-earning-standards/"><u>Deciphering YouTube's New Earning Standards</u></a></li>
-<li><a href="https://some-tips.techidaily.com/fall-innovations-on-apple-products-find-out-whats-new-for-iphone-ipad-and-mac-from-advanced-ai-integration-zdnet-report/"><u>Fall Innovations on Apple Products! Find Out What's New for iPhone, iPad & Mac - From Advanced AI Integration | ZDNET Report</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-google-pixel-8-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Google Pixel 8 Without Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-13-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 13 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6 To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 to other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-12-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 12 Pro Without Losing Data? | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-narrative-wordsmithing-weaving-a-story-through-speech/"><u>In 2024, Narrative Wordsmithing Weaving a Story Through Speech</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/in-depth-assessment-of-nook-glowlight-4-reviews-and-features/"><u>In-Depth Assessment of Nook GlowLight 4: Reviews & Features</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/secrets-of-successful-unboxing-reels-a-compreenasium-guide-for-2024/"><u>Secrets of Successful Unboxing Reels A Compreenasium Guide for 2024</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-oppo-find-x7-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Oppo Find X7</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-zoom-screen-recorders-for-2024/"><u>The Ultimate Guide to Zoom Screen Recorders for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-14-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi 14 Pro</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/transferring-your-contacts-a-step-by-step-guide-from-itunes-backup-to-iphone/"><u>Transferring Your Contacts: A Step-by-Step Guide From iTunes Backup to iPhone</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-contacts-from-nokia-c300-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Nokia C300.</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-exclusive-directory-free-visual-content-oasis-online/"><u>[New] In 2024, Exclusive Directory Free Visual Content Oasis Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-windows-videography-toolkit-editors-and-software-review-for-2024/"><u>[New] Ultimate Windows Videography Toolkit Editors & Software Review for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-breaking-free-from-virtual-reality-discomfort/"><u>[Updated] In 2024, Breaking Free From Virtual Reality Discomfort</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-convert-spoken-words-into-written-content-using-ms-words-in-built-tools/"><u>2024 Approved Convert Spoken Words Into Written Content Using MS Word's In-Built Tools</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-revamping-subtitles-from-srt-with-ease/"><u>2024 Approved Revamping Subtitles From SRT with Ease</u></a></li>
+<li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-infinix-gt-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-10t-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme 10T 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/creative-image-collage-tools-ranked-10/"><u>Creative Image Collage Tools Ranked #10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expansion-alert-whatsapp-launches-channel-functionality-in-new-markets-a-comprehensive-guide/"><u>Expansion Alert: WhatsApp Launches Channel Functionality in New Markets – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-a-non-responsive-dns-server-with-these-4-quick-fixes/"><u>Fix a Non-Responsive DNS Server with These 4 Quick Fixes</u></a></li>
+<li><a href="https://article-helps.techidaily.com/going-back-with-android-video-editing/"><u>Going Back with Android Video Editing</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-oneplus-11r-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an OnePlus 11R Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/navigating-audacity-for-top-notch-audio-recording-for-2024/"><u>Navigating Audacity for Top-Notch Audio Recording for 2024</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-gt-5-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme GT 5</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-nokia-150-2023-by-fonelab-android-recover-data/"><u>The way to get back lost data from Nokia 150 (2023)</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-lava-blaze-2-pro-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://techidaily.com/update-your-hardware-drivers-with-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Update your hardware drivers with Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-malfunctioning-drivers-with-windows-device-manager-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to identify malfunctioning drivers with Windows Device Manager on Windows 11/10/7</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-google-pixel-fold-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Google Pixel Fold | Dr.fone</u></a></li>
 </ul></div>
 

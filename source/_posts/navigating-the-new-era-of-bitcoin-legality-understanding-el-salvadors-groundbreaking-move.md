@@ -1,7 +1,7 @@
 ---
 title: "Navigating the New Era of Bitcoin Legality: Understanding El Salvador's Groundbreaking Move"
-date: 2025-01-23T20:16:25.892Z
-updated: 2025-01-29T15:03:55.824Z
+date: 2025-02-13T00:59:14.025Z
+updated: 2025-02-19T18:31:00.643Z
 tags:
   - cutting-edge
 categories:
@@ -43,10 +43,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![$30 Bonus Incentive Use Chat](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/30-Bonus.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  Bitcoin's use as legal tender and its associated rollout in El Salvador isn't going as well as they hoped it would go. Although many El Salvadorans have a smartphone with internet access, less than 60% of them downloaded the Chivo Wallet required to participate. Less than 40% of citizens who downloaded the app continued to use it after claiming their $30 bonus incentive.
@@ -54,7 +50,7 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 ![What Share of businesses accept bitcoin](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/What-Share-of-businesses-accept-bitcoin.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
@@ -62,7 +58,7 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  All businesses were required to begin accepting payments in Bitcoin but that has not happened. Only 20% of companies reported accepting Bitcoin as a form of payment and most of them were large organizations. Out of all sales, only 5% were conducted in Bitcoin and most transactions were converted to dollars within the Chivo Wallet upon receipt of payment.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Chivo App** 
@@ -83,9 +79,17 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
  Anecdotal evidence suggests that the app is used by a subset of the population like street vendors as a cash replacement because it's convenient for small peer-to-peer payments. This functionality is actually what is most used within the Chivo Wallet because you can use the app like Venmo and quickly send US dollars from person to person without any exposure to Bitcoin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Lack of Trust & Privacy Are Deterrents** 
 
 ![Opinion towards Chivo Wallet Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Agree-with-Chivo-Wallet.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
@@ -97,15 +101,15 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 ![Use of Chivo for Remittances](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/04/Taxes-Remittances-El-Salvador.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _[National Bureau of Economic Research](https://www.nber.org/system/files/working%5Fpapers/w29968/w29968.pdf)_
 
  A major use case lauded by supporters is the amount of money that would stay in the hands of El Salvadorans rather than money gram companies. Remittances account for 20% of El Salvador's GDP.
 
  However, the study shows that only 3% of people reported receiving remittances in Bitcoin and only 8% in US dollars using the Chivo Wallet. This is in line with the El Salvadoran Central Bank's data which stated that in 2022 only 1.6% of remittances were sent through a digital wallet.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Silver Linings** 
 
@@ -114,10 +118,6 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
  Sometimes it could take an hour or more on a bus to visit a bank on their day off to cash their checks. Workers can now receive their paychecks daily or weekly without having to visit a bank. The Chivo Wallet has two accounts, one for Bitcoin and the other for US dollars. They can transact in Bitcoin or dollars and anyone else with the Chivo wallet app can receive Bitcoin or dollars.
 
  For many El Salvadorans, this is the first time they have encountered the ability to have banking services like a savings account. Many report using the Bitcoin account as their savings account and their US dollar account as their checking account. Increasing access to banking services and financial inclusion is one major positive outcome of this policy shift.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Lessons Learned** 
 
@@ -146,20 +146,20 @@ _[National Bureau of Economic Research](https://www.nber.org/system/files/workin
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>[New] Keep Your Content Clout Authentic Resist the Like Lie-In</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-navigating-ffxp-the-user-manual/"><u>[New] Navigating FFXP The User Manual</u></a></li>
-<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-v27-pro-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo V27 Pro Partly Screen Unresponsive | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/experience-lightning-fast-browsing-flush-your-macs-dns-data-today/"><u>Experience Lightning-Fast Browsing: Flush Your Mac's DNS Data Today!</u></a></li>
-<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-sony-xperia-10-v-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-itel-p40plus-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Itel P40+? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-transition-wsl-and-windows-11-written-by-your-name/"><u>Navigating the Transition: WSL and Windows 11' Written by [Your Name]</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/rotating-videos-made-simple-with-vlc-player-tricks-for-2024/"><u>Rotating Videos Made Simple with VLC Player Tricks for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f34-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F34 5G | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-honor-100-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Honor 100</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-motorola-edge-40-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Motorola Edge 40? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-oppo-reno-11f-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Oppo Reno 11F 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/top-5-oneplus-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 OnePlus Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://techidaily.com/why-can-t-i-play-mp4-files-on-my-galaxy-s21-fe-5g-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Why can’t I play MP4 files on my Galaxy S21 FE 5G (2023)?</u></a></li>
-<li><a href="https://techidaily.com/your-complete-guide-to-reset-zte-nubia-flip-5g-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-unveil-10-filter-gems-to-elevate-your-tiktok-posts/"><u>[New] 2024 Approved Unveil 10 Filter Gems to Elevate Your TikTok Posts</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-charting-the-course-for-your-youtube-music-narrative/"><u>[Updated] Charting the Course for Your YouTube Music Narrative</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-cutting-edge-techniques-a-guide-to-next-level-effectiveness-in-your-youtube-ads/"><u>[Updated] Cutting-Edge Techniques A Guide to Next-Level Effectiveness in Your YouTube Ads</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-tiktok-glitches-troubleshooting-iosandroid-issues-for-2024/"><u>[Updated] TikTok Glitches Troubleshooting iOS/Android Issues for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/15-books-that-have-conquered-social-media-with-booktok-flair/"><u>15 Books That Have Conquered Social Media with BookTok Flair</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-cycle-of-adversity-and-endurance-the-story-of-black-survival-through-generations/"><u>A Cycle of Adversity and Endurance: The Story of Black Survival Through Generations</u></a></li>
+<li><a href="https://techidaily.com/factory-reset-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-infinix-note-30i-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30i Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-11-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 11 Pro To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-android-a-step-by-step-guide-to-using-the-measuring-app/"><u>Mastering Android: A Step-by-Step Guide to Using The Measuring App</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/premium-convert-mp4-to-facebook-media-for-2024/"><u>Premium Convert MP4 to Facebook Media for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolved-unsupported-graphics-in-premiere-pro-with-amdintel/"><u>Resolved: Unsupported Graphics in Premiere Pro with AMD/Intel</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-7-plus-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 7 Plus failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-honor-magic-v2-by-fonelab-android-recover-data/"><u>The way to get back lost data from Honor Magic V2</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-hardware-drivers-on-windows-11107-by-drivereasy-guide/"><u>Use Device Manager to update hardware drivers on Windows 11/10/7</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2021 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-19T05:04:24.417Z
-updated: 2024-09-24T03:28:36.436Z
+date: 2025-02-12T17:31:27.109Z
+updated: 2025-02-20T00:46:36.298Z
 tags: 
   - repair
   - repair excel
@@ -58,13 +58,6 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 - Select the corrupt file you want to repair by single-clicking on it, and then find the Open button and click on the drop-down menu next to it.
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Open-and-repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144276/7443" target="_top" id="2144276">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144276" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144276/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
 
@@ -135,6 +128,10 @@ Note: If you don't know the exact location of corrupt office files or if they ar
 - To save the repaired data, click the Save button, and enter a destination of your choice.
 - Click OK.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 This post outlined possible scenarios and their causes that may lead to corruption in MS Office 2016 files. It also emphasized how the inbuilt methods such as Open and Repair, and Repair Office Installation help to resolve the corruption issues. But these are not competent enough to resolve all the errors. With Stellar Toolkit for File Repair, you can resolve all sorts of corruption issues and recover data of Office 2016 files – Excel, Word, PPT, and PDF – in their original state.
@@ -198,6 +195,10 @@ There could be two primary reasons behind such behavior:
 - You’ve **created the Pivot Table in an older version** of Excel but are trying to open-refresh-save it through a newer Excel version
 - The **Pivot Table itself is corrupted**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **How to Repair the Pivot Table Quickly?**
 
 To solve the errors associated with Pivot Tables, you need to repair them. But Microsoft doesn’t offer any inbuilt technique or option to repair Pivot Tables. Thus, to fix the issue, you either need some sort of workaround or an [Excel file repair software](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/).
@@ -205,13 +206,6 @@ To solve the errors associated with Pivot Tables, you need to repair them. But M
 ## **Methods to Fix Corrupt Pivot Table in MS Excel**
 
 Though there aren’t many options to fix the Pivot Table, you can follow these workarounds to try and repair a corrupt Pivot Table of MS Excel. However, before following these steps, create a backup copy of your Excel file.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Method 1: Open MS Excel in Safe Mode**
 
@@ -242,13 +236,6 @@ If the problem in the Pivot table is related to data refresh,
 - Also, try reselecting the data source and check if the refresh option is working properly
 
 If not, resorting to **Stellar Repair for Excel** software might be your only hope.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Excel Pivot Table Repair by Using Excel Repair Software**
 
@@ -284,6 +271,10 @@ If you have this utility by your side, you don’t need to think twice about any
 
 While entering data in an Excel spreadsheet, it is important to save the data at frequent intervals. Doing so prevents any unsaved data from disappearing if you lose power or accidentally click ‘No’ when prompted to save the file. Unfortunately, such a situation is quite common as users often close the file without saving the recently made changes to a spreadsheet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution – Use the ‘AutoSave’ Feature
 
 With the AutoSave feature enabled in Excel, data won’t be lost in the event of power failure or abruptly closing the Excel program. By default, Excel automatically saves the information in a spreadsheet after every 10 minutes. You can reduce the limit to a few seconds to reduce the chances of Excel file data lost after being saved.
@@ -291,10 +282,7 @@ With the AutoSave feature enabled in Excel, data won’t be lost in the event of
 ![Change excel autosave internal](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/09/change-excel-autosave-interval-img-1-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Reason 2 – Changing Excel Format
@@ -346,6 +334,10 @@ If you can’t recover the missing Excel file data, try to repair or extract the
 -   Select Open and Repair.
 
 ![Open and repair](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2021/09/open-and-repair-img-3-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use the ‘Repair’ option to repair the file and recover as much data as you can from the repaired file. If this doesn’t work, use the ‘Extract’ option to recover the data.
 
@@ -411,20 +403,21 @@ Using **Stellar Windows Data Recovery – Free Edition**, you can recover your f
 
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR1-2-1024x721.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - From ‘**Select Location**’ screen, select the connected pen drive and click ‘**Scan**’
 
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR2-1-1024x717.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - The scanning process starts and once the process is complete, software lists all the recoverable files
 
 ![Stellar](https://www.stellarinfo.com/blog/wp-content/uploads/2021/02/FDR3-2-1024x714.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Select the files from the list and click on ‘**Recover**’ to save the files
 
@@ -537,13 +530,6 @@ The error 'Excel cannot open read-only documents' may appear due to a problem wi
 
 ![Quick Repair and then click Repair to fix problems](https://www.stellarinfo.com/blog/wp-content/uploads/2021/04/quick-repair-ms-office-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 After the Repair, open the Excel workbook and check if the error is resolved.
 
 - **Check Permissions**
@@ -619,14 +605,11 @@ The error “Your changes could not be saved to file because of a sharing violat
 
 ![Select Use Sharing Wizard](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2023/06/select-use-sharing-wizard-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - If the **Use Sharing Wizard** option is unselected, select it and then click **OK**.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 3: Move the Excel File to a Trusted Location**
 
@@ -666,6 +649,10 @@ Corruption in Excel file can also create issue while saving the changes. In such
 
 If the above utility fails to fix the corrupt Excel file, then you can use a more powerful [Excel repair tool](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), such as Stellar Repair for Excel. This Excel repair tool can repair even severely corrupted or damaged Excel files (xls, .xlsx, .xltm, .xltx, and .xlsm). This tool can recover all the data from the corrupted Excel file, including images, chart sheets, formulas, etc., without changing the original format. It can help in fixing common corruption-related errors in Excel. You can download the software’s demo version to scan the corrupt file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **To Conclude**
 
 Above, we have discussed some effective methods to fix the sharing violation error in Excel. This error may also occur if you try to save the Excel file in an incompatible format. So, check the format and try saving the file in a compatible format. If the error occurs due to Excel file corruption, you can [repair corrupt Excel file](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) using the Open and Repair tool. If nothing works, then download a third-party Excel repair tool, such as Stellar Repair for Excel. It is an advanced tool that can fix severely corrupted Excel files. You can install this repair tool on any Windows system.
@@ -690,10 +677,7 @@ Check out this video for a quick demonstration of how to fix "Excel Cannot Open 
 Try any of these workarounds to fix the error and regain access to your Excel file data:
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Workaround 1 – Change the Default File Format**
@@ -801,5 +785,20 @@ You may encounter the error 'Excel cannot open the file because the extension is
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-elevate-youtube-broadcasts-select-the-right-webcam/"><u>[Updated] 2024 Approved How to Elevate YouTube Broadcasts Select the Right Webcam</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-essential-steps-for-mp3-streams-on-youtube/"><u>[Updated] In 2024, Essential Steps for MP3 Streams on Youtube</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/best-4-expert-recommended-alternatives-to-traditional-data-retrieval-programs/"><u>Best 4 Expert-Recommended Alternatives to Traditional Data Retrieval Programs</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/discover-fresh-features-in-pcdjs-new-aria-skin-for-karaoke-software-beta-version-08easy-to-use/"><u>Discover Fresh Features in PCDJ's New Aria Skin for Karaoke Software - Beta Version 0.8.easy to Use!</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-honor-x9a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-6s-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 6s without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-vivo-x-fold-2-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Vivo X Fold 2 to New Phone | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-sharpen-your-videoleap-videos-from-afar/"><u>In 2024, Sharpen Your Videoleap Videos From Afar</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/joke-journey-begins-for-free-our-meme-toolset-for-2024/"><u>Joke Journey Begins for Free - Our Meme Toolset for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/navigate-the-web-with-ease-using-ms-edge-gestures-windows-11/"><u>Navigate the Web with Ease Using MS Edge Gestures (Windows 11)</u></a></li>
+<li><a href="https://techidaily.com/remove-y100a-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Y100A unlock screen</u></a></li>
+<li><a href="https://techidaily.com/sign-wbk-file-online-with-digisigner-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .wbk file Online with DigiSigner</u></a></li>
+<li><a href="https://techidaily.com/unlock-android-phone-if-you-don-t-have-oppo-f23-5g-fingerprint-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you don't have Oppo F23 5G fingerprint</u></a></li>
+</ul></div>
 

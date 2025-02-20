@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 User's Tutorial: Customizing Date and Time Display Preferences"
-date: 2025-02-05T16:07:18.697Z
-updated: 2025-02-09T19:57:36.728Z
+date: 2025-02-17T17:19:02.647Z
+updated: 2025-02-19T21:47:36.429Z
 tags:
   - desktop
 categories:
@@ -11,13 +11,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ## Windows 11 User's Tutorial: Customizing Date and Time Display Preferences
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Select From the Available Date and Time Formats](https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-p40-drfone-by-drfone-virtual-android/)
 * [Set a Custom Date and Time Format](https://techtrends.techidaily.com/top-10-must-watch-teen-films-streaming-on-netflix/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -26,10 +30,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 * To set the custom format, type "Region" in Windows Search to open region settings. Then, click Additional Settings and configure custom formats in the Date and Time tab.
 
  If you don't like the default date and time format and prefer something more intuitive, changing it is simple. You can either choose from the available formats or create a custom one. This guide will show you how to do just that.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  Select From the Available Date and Time Formats
 
@@ -45,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![Changing the date and time format in the Windows Settings app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/3-changing-the-date-and-time-format-in-the-windows-settings-app.jpg) 
 
- Remember that Windows displays the short date and short time formats in the taskbar. These are values you need to edit to have the taskbar display your preferred format. If you're using Windows 10, the process to [change the date and time format](https://screen-activity-recording.techidaily.com/2024-approved-leading-water-and-liquid-game-simulations-unveiled/) is slightly different.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Remember that Windows displays the short date and short time formats in the taskbar. These are values you need to edit to have the taskbar display your preferred format. If you're using Windows 10, the process to [change the date and time format](https://screen-activity-recording.techidaily.com/2024-approved-leading-water-and-liquid-game-simulations-unveiled/) is slightly different.
 
 ##  Set a Custom Date and Time Format
 
@@ -57,20 +57,20 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 ![Opening the region settings in the Windows Control Panel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/4-opening-the-region-settings-in-the-windows-control-panel.jpg) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Navigate to the "Formats" tab and click the "Additional Settings" button in the lower-right corner. Then, move to the "Time" tab and select your preferred time format next to "Short Time" and "Long Time" from the options provided. Otherwise, use the notation provided at the end of the window to set a custom format. After adding the desired formats, click "Apply" and "OK."
 
 ![Changing the time format from the additional region settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/5-changing-the-time-format-from-the-addition-region-settings.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, navigate to the "Date" tab and choose your preferred date format next to "Short Date" and "Long Date" from the available options. Or use the provided notations to set a custom date format.
 
 ![Changing the date format in the region settings on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/6-changing-the-date-format-in-the-region-settings-on-windows.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -92,19 +92,18 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-step-by-step-guide-on-acquiring-elite-hdr-cameras/"><u>[New] 2024 Approved Step-by-Step Guide on Acquiring Elite HDR Cameras</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-popsicle-projector-detailed-tutorial-on-screen-capture-tech/"><u>[Updated] 2024 Approved Popsicle Projector Detailed Tutorial on Screen Capture Tech</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-idea-inception-using-google-trends-to-fuel-videography/"><u>[Updated] Idea Inception Using Google Trends to Fuel Videography</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-vivo-y17s-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Vivo Y17s | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-nokia-150-2023-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Nokia 150 (2023) | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-do-i-reset-my-htc-u23-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my HTC U23 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-lava-blaze-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-from-your-apple-iphone-xs-max-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID From Your Apple iPhone XS Max</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-itel-s23-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Itel S23 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-7-plus-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 7 Plus Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a59-5g-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Oppo A59 5G</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/transferring-notes-from-iphone-to-iphone-without-a-computer/"><u>Transferring Notes From iPhone to iPhone - Without a Computer</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-nubia-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from Nubia .</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-honor-x50iplus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Honor X50i+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-dive-into-the-world-of-books-top-5-captivating-vtts-revealed/"><u>[New] In 2024, Dive Into the World of Books Top 5 Captivating VTTs Revealed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/implified-techniques-for-reordering-yt-videos/"><u>[New] Simplified Techniques for Reordering YT Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-ultimate-hue-harmonizer-tool/"><u>[New] Ultimate Hue Harmonizer Tool</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-enhancing-images-through-automated-dynamic-range-adjustments/"><u>[Updated] In 2024, Enhancing Images Through Automated Dynamic Range Adjustments</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-leveraging-ios-11-for-professional-level-iphone-shots-for-2024/"><u>[Updated] Leveraging iOS 11 for Professional-Level iPhone Shots for 2024</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-infinix-note-30-vip-racing-edition-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xs-max-data-from-ios-itunes-backup-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XS Max Data From iOS iTunes Backup? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-gpu-founders-model-or-aib-edition-selection/"><u>Optimal GPU: Founder's Model or AIB Edition Selection</u></a></li>
+<li><a href="https://win11.techidaily.com/overhauling-non-operational-ccleaner-on-win11/"><u>Overhauling Non-Operational CCleaner on Win11</u></a></li>
+<li><a href="https://techidaily.com/remove-google-frp-lock-on-poco-c65-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Poco C65</u></a></li>
+<li><a href="https://games-able.techidaily.com/tactical-approach-to-monitoring-xbox-gaming/"><u>Tactical Approach to Monitoring Xbox Gaming</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: ABBYY Welcomes Paul Nizov to Head Its Digital Defense as Chief Information Security Officer
-date: 2025-01-27T02:52:16.326Z
-updated: 2025-01-28T21:45:55.054Z
+date: 2025-02-16T01:17:40.443Z
+updated: 2025-02-19T19:47:39.083Z
 categories:
   - abbyy
 thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c669607905f5ab705b440efbb.jpg
@@ -12,7 +12,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 [Actualités](https://tools.techidaily.com/abbyy/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Paul Nizov rejoint ABBYY au poste de Chief Information Security Officer
@@ -22,7 +22,7 @@ thumbnail: https://thmb.techidaily.com/a5bbe71d28db5297dd251335f2aaa3c6aeec5c7c6
 ![](https://content.abbyy.com/-/media/project/abbyy/abbyy/branchtemplates/shutterstock_1272462163_1296-x-729.jpg?h=729&iar=0&w=1296)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 * Paul Nizov sera en charge de la stratégie opérationnelle et budgétaire liée à la sécurité.
@@ -67,18 +67,24 @@ Connect with us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-contrast-and-depth-in-hdr-portraits/"><u>[New] Crafting Contrast and Depth in HDR Portraits</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/arnessing-ambiance-with-thoughtful-lighting/"><u>[New] Harnessing Ambiance with Thoughtful Lighting</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-workflow-essential-tips-to-record-on-hp-laptop-for-2024/"><u>[New] Streamline Your Workflow Essential Tips to Record on HP Laptop for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigating-sierra-mastering-icloud-drives-accessibility/"><u>[Updated] Navigating Sierra Mastering iCloud Drives' Accessibility</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/beginning-your-journey-a-step-by-step-guide-to-crypto-investment-by-yl-computing/"><u>Beginning Your Journey: A Step-by-Step Guide to Crypto Investment by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-6-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 6 Plus without Losing Any Content? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-9a-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-phantom-v-flip-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Phantom V Flip without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-xiaomi-redmi-note-13-proplus-5g-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://win-lab.techidaily.com/swiftly-overcome-dell-transfer-problems-discover-the-simpler-method-here/"><u>Swiftly Overcome Dell Transfer Problems - Discover the Simpler Method Here</u></a></li>
-<li><a href="https://techidaily.com/top-8-iphone-15-pro-max-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 15 Pro Max SMS/Message/Text Recovery Software | Stellar</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-efficient-wdf-drivers-to-lower-cpu-utilization/"><u>Troubleshooting Efficient WDF Drivers to Lower CPU Utilization</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-data-from-note-30i-by-fonelab-android-recover-data/"><u>Undelete lost data from Note 30i</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-craft-the-perfect-gif-message-in-snapchat-easy-steps/"><u>[New] In 2024, Craft the Perfect Gif Message in Snapchat [Easy Steps]</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-mac-screenshots-and-screen-recording/"><u>[New] In 2024, Mastering Mac Screenshots & Screen Recording</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-voters-victories-reddits-most-popular-threads-top-10/"><u>[New] In 2024, Voters' Victories Reddit’s Most Popular Threads (Top 10)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-step-by-step-uploading-videos-to-tiktok-on-macwindows-for-2024/"><u>[New] Step-by-Step Uploading Videos to TikTok on Mac/Windows for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1724766127617-windows-10-dvd/"><u>圧倒的好評 Windows 10 DVD 書き込み手順解明!</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-vivo-y100-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Vivo Y100 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-long-distance-connectivity-and-child-safety-the-powerful-combination-within-synologys-rt2-2600ac-wireless-router/"><u>Evaluating Long-Distance Connectivity & Child Safety: The Powerful Combination Within Synology's RT2 2600Ac Wireless Router</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/fine-tune-your-snaps-with-mac-produced-content-for-2024/"><u>Fine-Tune Your Snaps with Mac-Produced Content for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo Phone</u></a></li>
+<li><a href="https://techidaily.com/is-your-vivo-g2-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Vivo G2 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/mastering-slug-line-usage-in-copywriting-for-2024/"><u>Mastering Slug Line Usage in Copywriting for 2024</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-nokia-c210-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Nokia C210</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-f04-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-messages-from-honor-90-lite-by-fonelab-android-recover-messages/"><u>The way to get back lost messages from Honor 90 Lite</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-asus-rog-phone-8-pro-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Asus ROG Phone 8 Pro</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/voice-changers-for-vtubers-two-best-app-recommended-for-2024/"><u>Voice Changers for Vtubers Two Best App Recommended for 2024</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-wont-play-mov-videos-how-to-fix-by-aiseesoft-video-converter-play-mov-on-android/"><u>Xiaomi won't play MOV videos, how to fix ?</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-vivo-x-flip-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Vivo X Flip | Dr.fone</u></a></li>
 </ul></div>
 

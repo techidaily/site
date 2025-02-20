@@ -1,7 +1,7 @@
 ---
 title: Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
-date: 2025-01-25T22:40:03.157Z
-updated: 2025-01-29T05:25:35.954Z
+date: 2025-02-17T19:14:09.049Z
+updated: 2025-02-19T21:49:39.180Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 ## Ditch Tedious Excel Tasks – Embrace the Power of ChatGPT for Instant Formula Creation
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -31,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023
 
  The tips provided in this article aren't limited to Excel; they're also applicable to other spreadsheet tools, such as Google Sheets and Apple Numbers. Additionally, this guide focuses on the free version of ChatGPT based on the GPT 3.5 model. If you have access to GPT 4, you can use the Advanced Data Analysis tool to take screenshots and upload Excel files directly to GPT 4 for a more seamless experience.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Get a Quick Excel Formula From ChatGPT
 
  If you dread the mere thought of opening Excel, let alone creating formulas, you've come to the right place. ChatGPT offers you an easy way to create Excel formulas with zero practical experience required.
@@ -48,7 +52,7 @@ Close
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd-1.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This is just a basic example to show you how ChatGPT can determine what formulas you need based on what you'd like to do. Let's do something slightly more complicated by asking it to help us [calculate the average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) profit margin and most profitable item.
@@ -56,12 +60,16 @@ Close
 ![ChatGPT giving formulas to calculate the average profit margin and most profitable item in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/most-profitable.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After implementing the formula, I was once again left with exactly what I was looking for. I double-checked the numbers by calculating everything manually to confirm the formulas worked correctly.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/asd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're already an Excel aficionado and prefer making formulas yourself, you can ask ChatGPT to suggest the best function for your unique scenario. Let's say I wanted to import information about the revenue and profits from my orders sheet to a tax sheet. ChatGPT gave me four viable formulas that I could use, along with a brief explanation of how they work.
 
@@ -77,10 +85,6 @@ Close
 
 ![A list of articles about ceramic and glass coffee mugs in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/new.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  I gave ChatGPT detailed instructions to help me color-code the table so that I could keep track of what articles were still in progress. Here's my prompt, followed by ChatGPT's response:
 
 Close 
@@ -88,10 +92,6 @@ Close
  I went through the steps exactly how ChatGPT laid them out, and the results are perfect. Even if I had no prior knowledge of using Excel, I would be able to create the formatting rule to keep the project organized.
 
 ![A list of articles about ceramic and glass coffee mugs in Excel, organized by color.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/newnew.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  ChatGPT Can Troubleshoot and Tweak Your Formulas
 
@@ -130,16 +130,22 @@ Close
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ed-efficient-tricks-to-scramble-youtube-playlists-pcphonetv-for-2024/"><u>[Updated] Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV) for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-notable-sites-elevating-youtube-videography/"><u>[Updated] Notable Sites Elevating YouTube Videography</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-professional-gopro-filming/"><u>[Updated] The Ultimate Guide to Professional GoPro Filming</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-infinix-gt-10-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Infinix GT 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-honor-v-purse-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor V Purse Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-special-features-virtual-location-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How To Use Special Features - Virtual Location On Oppo Find X7? | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-get-instant-fake-faces-top-free-online-generators/"><u>New In 2024, Get Instant Fake Faces Top Free Online Generators</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-oppo-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Oppo on Mac</u></a></li>
-<li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-samsung-galaxy-xcover-7-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://techidaily.com/some-ways-to-unlock-iphone-12-mini-screen-lock-by-drfone-ios-unlock-ios-unlock/"><u>Some ways to unlock iPhone 12 mini screen lock</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ding-your-shoot-must-have-film-tech-for-creators-for-2024/"><u>Upgrading Your Shoot Must-Have Film Tech for Creators for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-6-online-background-cleansers-for-pristine-photo-edits/"><u>[Updated] Top 6 Online Background Cleansers for Pristine Photo Edits</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-adventure-seekers-choice-black-hero5-or-star-sj7/"><u>2024 Approved Adventure Seekers Choice Black Hero5 or Star SJ7?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-vr-game-engines/"><u>2024 Approved Top VR Game Engines</u></a></li>
+<li><a href="https://win-online.techidaily.com/mac-aomei-backupper/"><u>如何在 Mac上用 AOMEi Backupper进行定时备份与任务同步</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/accidental-tiktok-giveaway-unauthorized-returns-for-safe-and-new-bambu-lab-a1-3d-printers/"><u>Accidental TikTok Giveaway: Unauthorized Returns for Safe and New Bambu Lab A1 3D Printers</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-xiaomi-14-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Xiaomi 14 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-poco-c65-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Poco C65 Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-poco-f5-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1723808226860-get-the-latest-asus-aura-software-update-windows-11-edition-download-here/"><u>Get the Latest ASUS Aura Software Update – Windows 11 Edition Download Here</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-realme-c67-5g-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Realme C67 5G in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-poco-x6-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Poco X6 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-xiaomi-13-ultra-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Xiaomi 13 Ultra Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lava-yuva-3-pro-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lava Yuva 3 Pro? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-oppo-a78-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Oppo A78 Phone</u></a></li>
+<li><a href="https://techidaily.com/solved-mac-doesnt-recognize-my-iphone-6s-plus-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Solved Mac Doesnt Recognize my iPhone 6s Plus | Stellar</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-6-plus-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 6 Plus failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-youtube-sound-issues-fixing-audio-renderer-errors-in-windows-11/"><u>Troubleshooting YouTube Sound Issues: Fixing Audio Renderer Errors in Windows 11</u></a></li>
 </ul></div>
 

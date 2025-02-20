@@ -1,7 +1,7 @@
 ---
 title: The Future Resurgence of Optical Media Driven by Revolutionary Technology
-date: 2025-01-28T02:02:19.795Z
-updated: 2025-01-28T19:15:04.395Z
+date: 2025-02-16T18:04:16.453Z
+updated: 2025-02-19T18:18:51.489Z
 tags:
   - cutting-edge
 categories:
@@ -12,7 +12,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ## The Future Resurgence of Optical Media Driven by Revolutionary Technology
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Takeaways
@@ -24,7 +24,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  In the 90s, every sci-fi movie that featured data storage invariably had some far-future version of a CD in it. It may have been in a caddy, or have a weird holographic sheen, but everyone thought optical discs were the future. Today, that doesn't seem likely, but continuing research into optical storage might prove those movies right after all.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  What Is "Optical" Storage?
@@ -34,7 +34,7 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Optical media use light to store and read data. An optical disc has microscopic pits and lands that either reflect or diffuse light. When you shine a laser beam at these discs and measure the light that comes back, you get a series of ones and zeros. All you need to store digital data. While optical discs are "pressed" in a factory, home-made discs use a laser to create these pits and lands by altering the chemistry in a special dye layer within the disc.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Why Is Optical Storage in Decline?
@@ -46,12 +46,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  Modern PCs and Macs don't come with optical drives anymore, and it seems that gaming consoles are moving in this direction as well, with disc drives becoming optional, and major stores [phasing out physical media](https://gamerant.com/big-retailer-stop-selling-physical-games/). As a [physical media collector](https://windows11.techidaily.com/how-to-customize-sound-levels-with-dedicated-win11-keys/) it almost hurts to write this, but it does look like the writing is on the wall for optical media. However, the technology is far from a dead end, and a breakthrough in optical storage might bring back the optical disc yet!
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ##  Say Hello to the Petabit Disc!
 
 ![Petabit disc diagram](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/screenshot-2024-07-19-at-15-35-51.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu 
 
@@ -60,10 +64,6 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
  You can read the [published paper](https://www.nature.com/articles/s41586-023-06980-y) in _Nature,_ but the gist of it is that the team managed to create a disc with a 3D structure and hundreds of layers. Consider that the best Blu-ray disc has but four layers, and you'll understand that this is a monumental improvement.
 
  These discs have been designed for use in data centers and requires expensive and complex femtosecond lasers. Multiple lasers are needed to activate and deactivate the recording layers, so it's hardly a disc drive that will fit in your laptop bag, but it does show how much potential there still is in optical storage. In data centers, these discs promise safe, long-term storage of data that doesn't need to be accessed constantly, but should be in an accessible archive. The paper suggests these nanoscale discs can be stacked to create "exabit-level storage" which could be a huge deal given [how fragile the internet can be](https://some-techniques.techidaily.com/new-high-quality-hd-videos-at-a-tap-top-10-android-choices/).
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ##  What Does This Mean for Us?
 
@@ -88,18 +88,20 @@ Miao Zhao, Jing Wen, Qiao Hu, Xunbin Wei, Yu-Wu Zhong, Hao Ruan & Min Gu
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-in-2024-best-6-multilingual-video-decoders/"><u>[New] In 2024, Best 6 Multilingual Video Decoders</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/isual-warmth-in-winter-selecting-the-best-bgs/"><u>[New] Visual Warmth in Winter Selecting the Best Bgs</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-harmonizing-music-and-video-on-tiktok/"><u>[Updated] Harmonizing Music and Video on TikTok</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/beat-the-steam-services-down-problem-connectivity-fixes-that-work/"><u>Beat the 'Steam Services Down' Problem – Connectivity Fixes That Work</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/conquer-any-gadget-to-record-your-youtube-live-experience-for-2024/"><u>Conquer Any Gadget to Record Your YouTube Live Experience for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/following-the-official-star-wars-saga-the-complete-guide-to-watching-sequentially-on-disneyplus/"><u>Following the Official 'Star Wars' Saga: The Complete Guide to Watching Sequentially on Disney+</u></a></li>
-<li><a href="https://techidaily.com/how-to-get-out-of-dfu-mode-on-apple-iphone-13-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on Apple iPhone 13 mini? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-recover-lost-data-on-apple-iphone-13-pro-max-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-vivo-s17-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S17 Pro Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-discovering-success-through-the-most-effective-15-youtube-themes/"><u>In 2024, Discovering Success Through the Most Effective 15 YouTube Themes</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/omplete-youtube-video-editor-reference-manual-for-2024/"><u>The Complete YouTube Video Editor Reference Manual for 2024</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-conversational-agents-deploying-chatgpt-on-ubuntu-using-shell-gpt-techniques/"><u>Unleashing Conversational Agents: Deploying ChatGPT on Ubuntu Using Shell GPT Techniques</u></a></li>
-<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-11-and-10-and-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-invaluable-resource-for-zero-cost-video-and-photo-providers/"><u>[New] 2024 Approved Invaluable Resource for Zero-Cost Video and Photo Providers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-revolutionizing-content-creation-the-future-of-live-video-on-facebook/"><u>[New] 2024 Approved Revolutionizing Content Creation The Future of Live Video on Facebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-enhancing-youtube-video-screens-without-barriers/"><u>[Updated] In 2024, Enhancing YouTube Video Screens Without Barriers</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-realme-narzo-60x-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme Narzo 60x 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/expert-picks-for-drone-pilots-vr-eyewear/"><u>Expert Picks for Drone Pilots’ VR Eyewear</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-nokia-c300-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Nokia C300 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-your-windows-pc-to-recognize-the-tl-wn722n-network-card/"><u>How to Get Your Windows PC to Recognize the TL-WN722N Network Card</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-se-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From iPhone SE</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-hashtag-engagement-4-powerful-tools-for-tracking-twitter-conversations/"><u>Master Hashtag Engagement: 4 Powerful Tools for Tracking Twitter Conversations</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-vivo-y27-5g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Vivo Y27 5G | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96031806-9781633410688-the-lunar-gospel/"><u>The Lunar Gospel | Free Book</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-call-history-from-xiaomi-by-fonelab-android-recover-call-logs/"><u>The way to get back lost call history from Xiaomi</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 7</u></a></li>
+<li><a href="https://techidaily.com/what-can-you-do-with-face-id-on-iphone-15-by-drfone-ios-unlock-ios-unlock/"><u>What can you do with Face ID on iPhone 15?</u></a></li>
 </ul></div>
 

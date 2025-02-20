@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2016 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-21T00:30:26.593Z
-updated: 2024-09-23T22:45:08.612Z
+date: 2025-02-18T20:05:59.918Z
+updated: 2025-02-20T00:59:09.117Z
 tags: 
   - repair
   - repair excel
@@ -23,6 +23,10 @@ Let’s discuss some common scenarios which may lead to corrupt MS Office 2016 f
 
 ## Scenarios behind Microsoft Office Files Corruption
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Scenario 1 – Disruption during Data Migration
 
 You decide to move Office files from your hard drive to other removable media. However, when you try to access the data within the files post-migration, you may find Word, Excel, and PowerPoint files showing gibberish characters. Due to a power surge, sudden system shutdown, and internal mechanical failure, the files may have turned corrupt.
@@ -34,6 +38,10 @@ Figure 1- Microsoft Word file showing garbage characters
 ### Scenario 2 – Office Files and Registry Entries Become Infected
 
 When you open or use the Microsoft Office application, it crashes as soon as it opens. You assume that an add-in was causing the problem and restart the Office application without add-ins loaded, but the application still crashes. This may happen because of a virus infecting the Office files and registry values, thus leading to corrupt or damaged Office files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Scenario 3 – Inaccessible or Lost Data**
 
@@ -89,6 +97,10 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 - Right-click the Start button, and type in **Apps & Features** (For Windows 10)
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Apps-and-features.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **NOTE:** This step will work for Windows 10/8/8.1/7 and Vista
 
@@ -203,13 +215,6 @@ It is always a good idea to create a backup of important files since no one can 
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/the-file-is-corrupt-and-cannot-be-opened-error-img1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - But sometimes, you encounter the **“Excel cannot open this file”** error message due to corruption in the file.
 
 ![Excel-cannot-open-this-file](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-cannot-open-this-file-img2.png)
@@ -276,13 +281,6 @@ Saving an Excel file in SYLK format might help you filter out corrupted elements
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/Excel-message-img7.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Click **File** > **Open**.
 - **Browse** the corrupt workbook saved with SYLK format (.slk) and open it.
 - After opening the file, select **File** > **Save As**.
@@ -346,6 +344,10 @@ If you only need to extract Excel file data without formulas or calculated value
 
 ![new excel workbook](https://www.stellarinfo.com/public/image/catalog//article/file-repair/recover-corrupted-excel-file/new-excel-workbook-img14.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - In the new Excel workbook, type “=CorruptExcelFile Name!A1” in cell A1 to reference cell A1 of the corrupted file. Replace the ‘CorruptExcelFile Name’ with the name of the corrupt file that you have copied above. Hit **ENTER**.
 - If ‘Update Values’ dialog box appears, select the corrupt 2016 Excel file, and then click **OK**.
 - If ‘Select Sheet’ dialog box pops-up, select a corrupt sheet, and press the **OK** button.
@@ -383,6 +385,10 @@ Errors such as ‘the file is corrupt and cannot be opened’, ‘Excel cannot o
 
 [![Free Download for Windows](https://www.stellarinfo.com/images/free-download-windows.png)](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/ "Free Download for Windows")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 An Excel file gets corrupted due to various reasons such as a virus/malware attack, sudden system shutdown when the Excel file is still open, power failure while working with an Excel spreadsheet, etc.
 
 When Microsoft Excel detects corruption in a workbook, it attempts to repair the workbook by starting _‘File Recovery mode’._
@@ -390,13 +396,6 @@ When Microsoft Excel detects corruption in a workbook, it attempts to repair the
 **Tip!** If the file recovery mode doesn’t start, you may use the manual repair process or an Excel repair tool, such as Stellar Repair for Excel to repair a corrupted Excel file. The software can help you quickly retrieve contents from a damaged, corrupt, or inaccessible Excel file and restore the file to its original state.
 
 There even exist a few manual tips that can be used to recover data from damaged MS Office Excel files.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Workarounds to Use When an Excel File is Corrupted**
 
@@ -414,18 +413,15 @@ If MS Excel cannot repair a corrupted workbook automatically, you can try to do 
 
 ![open and repair excel file](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/07/open-and-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Figure 1 – Open and Repair Feature
 
 If this doesn’t help repair the broken Excel file or you encounter  [Open and Repair does not work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) issue, proceed with the next workaround.
 
 **_Tip!_** _Try an alternative solution, i.e._ **_Stellar Repair for Excel software_** _to repair and recover corrupt Excel files (.xlsx or .xls) when the ‘Open and Repair’ method won’t work._  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Workaround 2: Restore an Excel File with a Shadow Copy**
 
@@ -717,6 +713,10 @@ _**NOTE:** If you are unaware of the Excel file location, click ‘Search’ in 
 
 ![Image of Repair Process window after selecting the files to be repaired](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/select-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Preview the repaired file and select all or specific files you want to save.
 
 ![Image of Preview of Repaired File ](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Preview-1024x545.png)
@@ -725,18 +725,15 @@ _**NOTE:** If you are unaware of the Excel file location, click ‘Search’ in 
 
 ![Image of Save File Button on Home Menu.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Save-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6:** In **Save File** window, choose ‘Default Location’ or ‘Select New Folder’ to select the location where you wish to save the file. Click **OK**.
 
 ![Image of save File window](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/02/Save-file.jpg)
 
 The selected files will be saved at the specified location.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Conclusion**
 
@@ -757,13 +754,6 @@ Do you have an Excel file that does not open because of corruption issue? And ev
 Excel File Corruption Message
 
 Also, you don’t have a healthy backup of the Excel file to restore the data? If so, you can try repairing the corrupt file by using a few simple yet effective manual workarounds mentioned below.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
-  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **How to Open a Corrupt Excel File without Backup?**
 
@@ -792,9 +782,17 @@ Open and Repair Option
 
 ![Initiate file recovery by selecting the Repair tab, and if necessary, retrieve values and formulas using the Extract Data tab in Excel.](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2018/04/repair-excel-file-1-768x158.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Excel Built-in Repair Options
 
 If using [Open and Repair does not work](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/), move to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Method 2: Disable the Protected View Feature**
 
@@ -805,13 +803,6 @@ Some Excel users have reported that turning off the ‘protected view’ feature
 **Step 2:** In the **Excel Options** window, select **Trust Center**, and then click **Trust Center Settings**.
 
 ![In the Trust Center tab, click on Trust Center Settings...](https://cdn-cmlep.nitrocdn.com/DLSjJVyzoVcUgUSBlgyEUoGMDKLbWXQr/assets/images/optimized/rev-2658c43/www.stellarinfo.com/blog/wp-content/uploads/2020/05/Excel-trust-center-settings.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Excel Trust Center Settings
 
@@ -846,13 +837,6 @@ Excel Options Window
 **Step 5:** A list of saved Excel files will be displayed. Choose the file you want to recover.
 
 _**TIP:** Use Excel’s AutoBackup feature to reduce chances of data loss, by saving a previous version of your spreadsheet automatically._
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Use an Excel File Repair Software**
 
@@ -889,5 +873,24 @@ You can try the workarounds discussed in the blog to open a corrupt Excel file w
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-beginners-pathway-utilizing-fade-transitions/"><u>[New] Beginner's Pathway Utilizing Fade Transitions</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-geniusedit-ai-precision-in-photo-mastery/"><u>[New] In 2024, GeniusEdit AI Precision in Photo Mastery</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-leading-9-movie-extractors-for-fb/"><u>[New] In 2024, Leading 9 Movie Extractors for FB</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-no-money-just-screen-time-how-to-record-youtube/"><u>[New] No Money, Just Screen Time How To Record YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-transform-your-visuals-master-11-key-techniques-for-color-correction/"><u>[New] Transform Your Visuals Master 11 Key Techniques for Color Correction</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ideo-enhancement-embedding-youtube-into-google-slides/"><u>[New] Video Enhancement Embedding YouTube Into Google Slides</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/behind-the-curtain-exclusive-review-of-apeaksofts-tech-advancements/"><u>Behind the Curtain Exclusive Review of Apeaksoft's Tech Advancements</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-infinix-smart-8-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Infinix Smart 8 in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-pro-max-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 Pro Max without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-spark-10c-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Spark 10C If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-realme-11-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme 11 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-apple-iphone-xr-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone XR Data From iOS iTunes? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-13-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 13 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-multiple-office-and-pdf-documents-by-stellar-guide/"><u>Repair Multiple Office and PDF Documents</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-tutorial-to-correct-the-missing-or-not-found-helperdll-error/"><u>Step-by-Step Tutorial to Correct the Missing or Not Found Helper.dll Error</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-the-filmmakers-voice-how-to-raise-your-pitch-for-impact-using-filmora/"><u>Updated In 2024, The Filmmakers Voice How to Raise Your Pitch for Impact Using Filmora</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-lava-yuva-2-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Lava Yuva 2 Pro | Dr.fone</u></a></li>
+</ul></div>
 

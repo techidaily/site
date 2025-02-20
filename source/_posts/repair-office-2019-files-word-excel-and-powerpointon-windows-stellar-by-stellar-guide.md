@@ -1,7 +1,7 @@
 ---
 title: Repair Office 2019 Files (Word, Excel and PowerPoint)on Windows | Stellar
-date: 2024-09-21T12:13:55.865Z
-updated: 2024-09-24T03:51:11.112Z
+date: 2025-02-12T18:14:00.371Z
+updated: 2025-02-19T22:23:54.770Z
 tags: 
   - repair
   - repair excel
@@ -31,6 +31,10 @@ You decide to move Office files from your hard drive to other removable media. H
 
 Figure 1- Microsoft Word file showing garbage characters
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Scenario 2 – Office Files and Registry Entries Become Infected
 
 When you open or use the Microsoft Office application, it crashes as soon as it opens. You assume that an add-in was causing the problem and restart the Office application without add-ins loaded, but the application still crashes. This may happen because of a virus infecting the Office files and registry values, thus leading to corrupt or damaged Office files.
@@ -58,13 +62,6 @@ Microsoft recommends using its in-built repair utility, 'Open and Repair', to fi
 - Select the corrupt file you want to repair by single-clicking on it, and then find the Open button and click on the drop-down menu next to it.
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Open-and-repair.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - From the drop-down menu, click the **Open and Repair** option and follow the subsequent instructions to repair Office 2016 files.
 
@@ -103,20 +100,21 @@ Try repairing the Office installation to fix the MS Office files. The steps to r
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Modify-Office-application.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note:** Following the step will repair the entire Microsoft Office suite even if it contains only one application you want to repair such as an Excel or PowerPoint file. But, in case you have a standalone app installed, try to locate that application by name.
 
 - Under **Change your installation of Microsoft Office Professional Plus 2016,** choose Repair, and then click **Continue** to initiate the repair process.
 
 ![](https://www.stellarinfo.com/image/catalog/article/word/Repair-Office-Application.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Once the repair process completes, you'll be prompted to restart your PC. Click **Yes**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Solution 3 – Use Stellar Toolkit for File Repair**
 
@@ -271,6 +269,10 @@ You can also recover specifically the content (leaving formulas/calculated value
 
 By pasting values, you removed the links to the corrupted workbook and only the data is left behind.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 5: Excel Repair Software
 
 **If the above-mentioned methods do not help in repairing the corrupt Excel file, try an Excel repair software.**
@@ -298,6 +300,10 @@ Figure: Error message
 From a small shop to the global industry giants, everyone relies on Microsoft Excel to complete their work. Quite a few businesses not only use Excel for their inventory tracking purposes but also to manage task lists and timesheets for their employees and project management charts. With high programming proficiency, one can create macros in excel which help in automating a lot of things. You can create quite a few variations, such as pie charts, bar charts, line graphs, area charts, and many more to showcase the data both in a tabular column as well as in a pictorial representation.
 
 While Excel enjoys wild popularity, thanks to its powerful design and features, it doesn’t mean that Excel is all free of errors. There are actually repetition a few errors that one can encounter. One you might have come across is the error stating “Excel file is not in a recognizable format”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **What is this error all about?**
 
@@ -424,6 +430,10 @@ Faulty or incompatible add-ins may also cause this error. To find and remove suc
     **
 
 ![](https://www.stellarinfo.com/public/image/catalog//article/Repair-Office-Documents/Recover-Excel-Files/excel-safe-mode-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Type **Excel /safe** and press '**Enter**' or click '**OK.'** This opens MS Excel in **Safe Mode.**
 - Go to **File > Options** and then select '**Add-ins.**'  
@@ -589,10 +599,7 @@ You can also use the “Find and Select” option to replace the blank space in 
 ![Image of Result After Replacement With Find-And Select Window](https://www.stellarinfo.com/blog/wp-content/uploads/2023/01/result-after-replacement-with-find-and-select-window.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Case 4: Problem with Network Connection
@@ -722,13 +729,6 @@ The “Too many different cell formats” issue can occur if your workbook conta
 
 If you’re getting the “Too many different cell formats" error in Excel, try the methods discussed in this post to resolve it. You can simplify the formatting by following standardized guidelines and clearing all the unnecessary conditional formatting. If the error has occurred due to corruption in Excel file, then you can use [Stellar Repair for Excel](https://tools.techidaily.com/stellardata-recovery/repaire-for-excel/) to **repair the Excel file**. It is an advanced tool that can repair Excel worksheet and recover all its objects without losing the original formatting.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Fix a Corrupted .xls File? The Everything Guide
 
 Undoubtedly, Excel is so powerful that it can help you to process, analysis, and store data, in masses.
@@ -793,6 +793,10 @@ It is always advised to use a safe and strong antivirus compatible with your sys
 
 In this section, we will discuss what are the signs which you can get when an Excel file is corrupted, let’s dig into it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. The File is Corrupt and Cannot Be Opened
 
 This is one of the most common messages you can see when your workbook is corrupted.
@@ -850,24 +854,15 @@ When a workbook get corrupted the first thing comes to the mind is to recover da
 
 Let’s get into both of these options one by one...
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Repair File
 
 This option helps you to repair the file and the moment you click on it it takes a few seconds afterward and shows you the result with a message box and also provide you a log file.
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/repair-file.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 And once it is done with repairing, you'll get your file opened and you can save that file as a new copy.
 
@@ -911,13 +906,6 @@ But, the thing these formulas are something which makes your Excel file slows do
 There’s one small tweak you can do in your workbook is change the calculation method.
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/change-recalculation-option.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now with the manual calculation, you just need to whenever you open your file it won’t recalculate all the formulas.
 
@@ -981,27 +969,7 @@ With **STELLAR REPAIR FOR EXCEL,** you just need a few clicks, yes that’s righ
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/stellar-log-report.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once you complete repairing your file, you’ll get a message in your on the status bar and after that, you can open your file.
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Final Thoughts
 
@@ -1010,6 +978,10 @@ If you are a POWER Excel user then there’s a must for you to have known how to
 But I must recommend you to TRY OUT Stellar Repair for Excel so that’s you don’t have to worry about your Excel files anymore.
 
 ![](https://www.stellarinfo.com/image/catalog/Mac-Regional/stellar-review.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 I’m sure you found this post helpful, and please don’t forget to share this tip with your colleagues, I’m sure they’ll appreciate it.
 
@@ -1026,5 +998,23 @@ I’m sure you found this post helpful, and please don’t forget to share this 
     data-ad-client="ca-pub-7571918770474297"
     data-ad-slot="1223367746"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-silent-sounds-elegant-dimming-in-garageband-projects/"><u>[New] Silent Sounds Elegant Dimming in Garageband Projects</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-how-to-seamlessly-incorporate-video-tracks-in-youtube-lists/"><u>[Updated] How to Seamlessly Incorporate Video Tracks in YouTube Lists</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>[Updated] Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-the-power-of-light-advanced-hdr-in-ps/"><u>2024 Approved Unleashing the Power of Light Advanced HDR in PS</u></a></li>
+<li><a href="https://driver-error.techidaily.com/asus-laptop-troubleshooting-correcting-rotated-video-playback-issues/"><u>ASUS Laptop Troubleshooting: Correcting Rotated Video Playback Issues</u></a></li>
+<li><a href="https://extra-information.techidaily.com/breathtaking-judgment-and-variant-proposals/"><u>Breathtaking Judgment & Variant Proposals</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-huawei-p60-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Huawei P60 Without Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snippet-showcase-cinematic-samples-for-editing-artists/"><u>In 2024, Snippet Showcase Cinematic Samples for Editing Artists</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-social-searchers-guide-fb-profiles-made-easy/"><u>In 2024, The Social Searcher's Guide FB Profiles Made Easy</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-kid-friendly-drone-guide-for-first-flyers/"><u>In 2024, The Ultimate Kid-Friendly Drone Guide for First Flyers</u></a></li>
+<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-moto-g04-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Moto G04 on Mac</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-asus-rog-phone-8-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Asus ROG Phone 8</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-12-pro-max-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone 12 Pro Max SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/top-8-iphone-se-2022-smsmessagetext-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top 8 iPhone SE (2022) SMS/Message/Text Recovery Software | Stellar</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-vivo-y56-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Vivo Y56 5G Hard Reset | Dr.fone</u></a></li>
+</ul></div>
 
